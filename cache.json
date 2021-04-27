@@ -4,6 +4,24 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "I saw in the release notes for Safari Technical Preview 122 that it has support for a color-contrast() function in CSS. Safari is first out of the gate here. As far as I know, no other browser supports this yet &#8230;\nThe post Exploring color-contrast() for the first time. appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/exploring-color-contrast-for-the-first-time/",
+          "publishedOn": "2021-04-26T21:02:49.000Z",
+          "wordCount": 909,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Exploring color-contrast() for the first time."
+        },
+        {
+          "description": "I love to make CSS do stuff it shouldn’t. It’s the type of problem-solving brain training you’d get building a calculator in Minecraft, except you probably won’t get a job working with Minecraft Redstone no matter how good you &#8230;\nThe post Generating (and Solving!) Sudokus in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/generating-and-solving-sudokus-in-css/",
+          "publishedOn": "2021-04-26T14:05:00.000Z",
+          "wordCount": 4649,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Generating (and Solving!) Sudokus in CSS"
+        },
+        {
           "description": "Robert Nyman and Philip Jägenstedt:\nGoogle is working with other browser vendors and industry partners to fix the top five browser compatibility pain points for web developers. The areas of focus are CSS Flexbox, CSS Grid,&#160;position: sticky,&#160;\n&#8230;\nThe post Eliminating five top compatibility pain points on the web appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://web.dev/compat2021/",
           "publishedOn": "2021-04-23T20:55:19.000Z",
@@ -387,6 +405,15 @@
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
         {
+          "description": "Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to \"layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.",
+          "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
+          "publishedOn": "2021-04-26T11:00:00.000Z",
+          "wordCount": 3279,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
+        },
+        {
           "description": "The CSS Working Group Editor’s Draft for [Selectors Level 4](https://drafts.csswg.org/selectors-4/) includes several pseudo-class selectors that already have proposal candidates in most modern browsers. This guide will cover ones that currently have the best support along with examples to demonstrate how you can start using them today!",
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
           "publishedOn": "2021-04-23T08:30:00.000Z",
@@ -589,6 +616,51 @@
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "Have you ever visited a website with a custom scrollbar and wondered how they did it? After reading this article you will understand just about everything there is to know about customizing and styling scrollbars using CSS.  In this tutorial you will: Learn the native CSS properties available for styling",
+          "link": "https://www.freecodecamp.org/news/css-scrollbar-tutorial/",
+          "publishedOn": "2021-04-27T00:37:38.000Z",
+          "wordCount": 2356,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "CSS Scrollbar Styling Tutorial – How to Make a Custom Scrollbar"
+        },
+        {
+          "description": "Notifications are an excellent way to engage your users or to get them to go back to your application. You can also use notifications to make users pay attention to something while they're using the app. There are two types of notifications: Push NotificationsLocal NotificationsAs the title of this article",
+          "link": "https://www.freecodecamp.org/news/local-notifications-in-flutter/",
+          "publishedOn": "2021-04-27T00:05:44.000Z",
+          "wordCount": 1962,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "How to Set Up Local Notifications in Flutter"
+        },
+        {
+          "description": "A young Russian developer named Igor Sysoev was frustrated by older web servers' inability to handle more than 10 thousand concurrent requests. This is a problem referred to as the C10k problem. As an answer to this, he started working on a new web server back in 2002. NGINX was",
+          "link": "https://www.freecodecamp.org/news/the-nginx-handbook/",
+          "publishedOn": "2021-04-26T23:56:38.000Z",
+          "wordCount": 14624,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "The NGINX Handbook"
+        },
+        {
+          "description": "The basic command for pushing a local branch to a remote repository is git push. This command has a variety of options and parameters you can pass to it, and in this article you'll learn the ones that you will use the most often. How to push a local Git",
+          "link": "https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/",
+          "publishedOn": "2021-04-26T15:37:54.000Z",
+          "wordCount": 1081,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Git Push to Remote Branch – How to Push a Local Branch to Origin"
+        },
+        {
+          "description": "Today we're going to learn how to use CSS Media Queries to build responsive websites. And we'll practice what we learn by completing three projects. Let's go 🏅 Table of Contents What are CSS Media Queries?Steps to followThe SyntaxPractice ProjectsConclusionTopics to discuss at a glance: You can watch this tutorial",
+          "link": "https://www.freecodecamp.org/news/learn-css-media-queries-by-building-projects/",
+          "publishedOn": "2021-04-26T15:21:29.000Z",
+          "wordCount": 3284,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Learn CSS Media Queries by Building Three Projects"
+        },
         {
           "description": "Whenever I'm starting with a new framework or it's been a while since I've used it, I always end up searching for the same simple things.  I'll Google how to render raw HTML, how to display a component based on a condition, how to assign a class to an element,",
           "link": "https://www.freecodecamp.org/news/react-cheatsheet-html-rendering/",
