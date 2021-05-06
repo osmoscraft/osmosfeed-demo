@@ -4,6 +4,33 @@
       "href": "https://css-tricks.com/feed/",
       "articles": [
         {
+          "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/astro/",
+          "publishedOn": "2021-05-05T21:49:23.000Z",
+          "wordCount": 840,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Astro"
+        },
+        {
+          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://infrequently.org/2021/04/progress-delayed/",
+          "publishedOn": "2021-05-05T16:51:23.000Z",
+          "wordCount": 6690,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Progress Delayed Is Progress Denied"
+        },
+        {
+          "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
+          "publishedOn": "2021-05-05T14:18:28.000Z",
+          "wordCount": 3080,
+          "sourceHref": "https://css-tricks.com/feed/",
+          "sourceTitle": "CSS-Tricks",
+          "title": "Is Vendor Prefixing Dead?"
+        },
+        {
           "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
@@ -524,39 +551,21 @@
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Jetpack Turns 10!"
-        },
-        {
-          "description": "At each company I’ve worked, we have had a split between time spent on Product initiatives and Engineering work. The percentages always changed, sometimes 70% Product, 30% Engineering, sometimes as much as a 50/50 split. The impetus is to make &#8230;\nThe post Splitting Time Between Product and Engineering Efforts appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/",
-          "publishedOn": "2021-04-05T19:57:38.000Z",
-          "wordCount": 2707,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Splitting Time Between Product and Engineering Efforts"
-        },
-        {
-          "description": "It&#8217;s &#60;dfn. Jen Kramer and Erika Lee are doing a #30DaysofHTML email list thing-y on Substack, which is an easy subscribe. It&#8217;s only been a few days and all of them have little gems, even for someone like me &#8230;\nThe post Definition Tag appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://jen4web.substack.com/p/dfn",
-          "publishedOn": "2021-04-05T15:54:34.000Z",
-          "wordCount": 605,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Definition Tag"
-        },
-        {
-          "description": "Sticky, or fixed, navigation is a popular design choice because it gives users persistent access to navigate the site. On the other hand, it takes up space on the page and sometimes covers content is a way that’s less than &#8230;\nThe post Creating a Smart Navbar With Vanilla JavaScript appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-a-smart-navbar-with-vanilla-javascript/",
-          "publishedOn": "2021-04-05T12:55:52.000Z",
-          "wordCount": 1739,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Creating a Smart Navbar With Vanilla JavaScript"
         }
       ]
     },
     {
       "href": "https://www.smashingmagazine.com/feed/",
       "articles": [
+        {
+          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
+          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
+          "publishedOn": "2021-05-05T10:30:00.000Z",
+          "wordCount": 2296,
+          "sourceHref": "https://www.smashingmagazine.com/feed/",
+          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+          "title": "Reducing HTML Payload With Next.js (Case Study)"
+        },
         {
           "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
@@ -778,6 +787,15 @@
     {
       "href": "https://www.freecodecamp.org/news/rss/",
       "articles": [
+        {
+          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
+          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
+          "publishedOn": "2021-05-05T21:11:40.000Z",
+          "wordCount": 352,
+          "sourceHref": "https://www.freecodecamp.org/news/rss/",
+          "sourceTitle": "freeCodeCamp.org",
+          "title": "Create Computer Vision Apps in the Cloud With OpenCV and Python"
+        },
         {
           "description": "A complete guide to Node.js async await",
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
@@ -1474,5 +1492,5 @@
       ]
     }
   ],
-  "cliVersion": "1.3.1"
+  "cliVersion": "1.4.0"
 }
