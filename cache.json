@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340136",
+          "author": "Chris Coyier",
+          "description": "I&#8217;ve been thinking about social media images again. You know, the images that (can) show up when you share a link in places like Twitter, Facebook, or iMessage. You&#8217;re essentially leaving money on the table without them, because they &#8230;\nThe post Auto-Generated Social Media Images appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/auto-generated-social-media-images/",
+          "publishedOn": "2021-05-14T20:34:49.000Z",
+          "wordCount": 1881,
+          "title": "Auto-Generated Social Media Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340343",
+          "author": "Nathan Babcock",
+          "description": "!default is a Sass flag that indicates conditional assignment to a variable — it assigns a value only if the variable was previously undefined or null. Consider this code snippet:\n$variable: 'test' !default;\nTo the Sass compiler, this line &#8230;\nThe post Creating Stylesheet Feature Flags With Sass !default appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/creating-stylesheet-feature-flags-with-sass-default/",
+          "publishedOn": "2021-05-14T14:14:34.000Z",
+          "wordCount": 1344,
+          "title": "Creating Stylesheet Feature Flags With Sass !default"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340403",
+          "author": "Chris Coyier",
+          "description": "Manuel Matuzović goes line-by-line through a boilerplate HTML document. I like it. It&#8217;s a good reference and has a lot of the same type of stuff I tend to put in the main HTML template. It makes me think about &#8230;\nThe post HTML Boilerplates appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/html-boilerplates/",
+          "publishedOn": "2021-05-14T14:13:07.000Z",
+          "wordCount": 749,
+          "title": "HTML Boilerplates"
+        },
+        {
           "id": "https://css-tricks.com/?p=340490",
           "author": "Chris Coyier",
           "description": "Chen Hui Jing covers some recent movement in DevTools:\nFirefox’s grid inspector was pretty full-featured from the get-to and&#160;released together with CSS grid in Firefox 52. It was constantly improved upon since. Chrome added a&#160;basic grid inspector \n&#8230;\nThe post DevTools for CSS layouts 2021 edition appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -229,6 +256,15 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.",
+          "link": "https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/",
+          "publishedOn": "2021-05-14T10:30:00.000Z",
+          "wordCount": 2393,
+          "title": "Tree-Shaking: A Reference Guide"
+        },
+        {
           "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
@@ -434,24 +470,6 @@
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "author": "hello@smashingmagazine.com (Stephen Roe)",
-          "description": "Selling is key to growing your web design business, but it doesn’t have to be complicated! With clear goals, customer research, and proven closing techniques, anyone can find new clients.",
-          "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
-          "publishedOn": "2021-04-15T11:00:00.000Z",
-          "wordCount": 3522,
-          "title": "How To Get Web Design Clients Fast (Part 2)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "At Smashing, we’ve been busy over the last few months. We’ve set up new workshops, redesigned our navigation, refined performance and improved accessibility. There are subtle UX changes coming in, and we’d love to share what we’ve been cooking.",
-          "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
-          "publishedOn": "2021-04-15T10:30:00.000Z",
-          "wordCount": 967,
-          "title": "From Cats With Love: New Navigation, Guides And Workshops"
         }
       ]
     },
@@ -460,6 +478,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "609d63e962ab9107fe5aa2ce",
+          "author": "",
+          "description": "You may have heard of the term SMTP before, and wondered what it is. SMTP is a common method for handling email messages. Today I am going to explain what SMTP is, and how to use an SMTP provider such as SendGrid to send emails from your address. What Is",
+          "link": "https://www.freecodecamp.org/news/what-is-sendgrid-smpt-email-newsletter-tutorial/",
+          "publishedOn": "2021-05-14T20:31:30.000Z",
+          "wordCount": 1293,
+          "title": "What is SendGrid? SMTP Email Newsletter Tutorial"
+        },
+        {
+          "id": "609ea83362ab9107fe5aa920",
+          "author": "",
+          "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that you need to know to start building React applications in 2021. I created this resource to give you the most complete and beginner-friendly path to learn React from the ground up. By",
+          "link": "https://www.freecodecamp.org/news/react-for-beginners-cheatsheet/",
+          "publishedOn": "2021-05-14T20:17:37.000Z",
+          "wordCount": 3252,
+          "title": "React for Beginners: Complete React Cheatsheet for 2021"
+        },
+        {
+          "id": "609e8c2162ab9107fe5aa77d",
+          "author": "",
+          "description": "Have you ever wondered how websites are built and designed? Do you want to learn the art of web development but you're not that tech savvy – yet? Well, then this tutorial is for you. It's an introduction to Web Development for beginners so you can learn the basics even if",
+          "link": "https://www.freecodecamp.org/news/web-development-for-beginners-basic-html-and-css/",
+          "publishedOn": "2021-05-14T17:13:14.000Z",
+          "wordCount": 1598,
+          "title": "Web Development for Beginners – Learn Basic HTML and CSS to Build Your First Web Page"
+        },
         {
           "id": "609414f32cd0545b5e943526",
           "author": "",
