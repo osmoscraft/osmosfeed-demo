@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-27T01:30:58.509Z</updated>
+    <updated>2021-05-28T01:41:21.427Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
+        <id>https://css-tricks.com/?p=341298</id>
+        <link href="https://css-tricks.com/to-or-not-to-displaying-terminal-code-snippets/"/>
+        <updated>2021-05-27T18:22:11.000Z</updated>
+        <summary type="html"><![CDATA[It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).
+Like this:
+$ brew install somepackage
+The point of that is that it …
+The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Machine Learning Model Performance by Combining Categorical Features]]></title>
+        <id>60af931811ffb70827ef85d3</id>
+        <link href="https://www.freecodecamp.org/news/improve-machine-learning-model-performance-by-combining-categorical-features/"/>
+        <updated>2021-05-27T17:55:23.000Z</updated>
+        <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀]]></title>
+        <id>60a325c6906c5207e3a7da25</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-a-basketball-in-unity-with-materials-and-textures/"/>
+        <updated>2021-05-27T15:16:34.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll teach you how to make a basketball using materials and textures in Unity. You can extend this micro-concept to create any kind of ball like a football, tennis ball, or snooker balls.  That said, these techniques aren't just limited to creating round 3D objects like balls.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Show Images on Click]]></title>
+        <id>https://css-tricks.com/?p=341020</id>
+        <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
+        <updated>2021-05-27T14:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Most images on the web are superfluous. If I might be a jerk for a bit, 99% of them aren’t even that helpful at all (although there are rare exceptions). That’s because images don’t often complement the text they’re …
+The post How to Show Images on Click appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rethinking Postgres in a Post-Server World]]></title>
+        <id>https://css-tricks.com/?p=340910</id>
+        <link href="https://css-tricks.com/rethinking-postgres-in-a-post-server-world/"/>
+        <updated>2021-05-27T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have brought engineering teams a great number of benefits. We get simpler deployments, automatic and infinite scale, better concurrency, and a stateless API surface. It’s hard to imagine going back to the world of managed services, broken local …
+The post Rethinking Postgres in a Post-Server World appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Michael Rispoli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
+        <updated>2021-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
+        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
+        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
+        <updated>2021-05-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
         <id>60a44b9f906c5207e3a7e098</id>
@@ -1469,16 +1548,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
-        <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
-        <updated>2021-04-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
