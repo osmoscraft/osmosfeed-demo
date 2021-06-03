@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341724",
+          "author": "Chris Coyier",
+          "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/debugging-ios-safari/",
+          "publishedOn": "2021-06-02T21:15:28.000Z",
+          "wordCount": 974,
+          "title": "Debugging iOS Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341442",
+          "author": "Dmitry Mayorov",
+          "description": "Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …\nThe post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-crash-course-in-wordpress-block-filters/",
+          "publishedOn": "2021-06-02T13:35:53.000Z",
+          "wordCount": 4169,
+          "title": "A Crash Course in WordPress Block Filters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341572",
+          "author": "Chris Coyier",
+          "description": "PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …\nThe post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/",
+          "publishedOn": "2021-06-02T13:35:40.000Z",
+          "wordCount": 1058,
+          "title": "Are Custom Properties a “Menu of What Will Change”?"
+        },
+        {
           "id": "https://css-tricks.com/?p=341720",
           "author": "Chris Coyier",
           "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -517,15 +544,6 @@
           "publishedOn": "2021-05-04T21:15:57.000Z",
           "wordCount": 450,
           "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339449",
-          "author": "Chris Coyier",
-          "description": "I was just chatting with Eric Meyer the other day and I remembered an Eric Meyer story from my formative years. I wrote a blog post about CSS specificity, and Eric took the time to point out the misleading nature &#8230;\nThe post Let’s use (X, X, X, X) for talking about specificity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
-          "publishedOn": "2021-05-04T14:19:55.000Z",
-          "wordCount": 970,
-          "title": "Let’s use (X, X, X, X) for talking about specificity"
         }
       ]
     },
@@ -534,6 +552,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
+          "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
+          "publishedOn": "2021-06-02T12:30:00.000Z",
+          "wordCount": 4327,
+          "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
+          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
+          "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
+          "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
+          "publishedOn": "2021-06-02T10:30:00.000Z",
+          "wordCount": 5393,
+          "title": "Improving The Performance Of An Online Store (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
@@ -811,15 +857,6 @@
           "publishedOn": "2021-05-04T14:30:00.000Z",
           "wordCount": 1791,
           "title": "A Guide To Undoing Mistakes With Git"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re starting our new season of the Smashing Podcast with a look at the future of CSS. What new specs will be landing in browsers soon? Drew McLellan talks to expert Miriam Suzanne to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
-          "publishedOn": "2021-05-04T05:00:00.000Z",
-          "wordCount": 6993,
-          "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
         }
       ]
     },
@@ -828,6 +865,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60afce3011ffb70827ef869c",
+          "author": null,
+          "description": "Git has a feature to \"sign\" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using",
+          "link": "https://www.freecodecamp.org/news/what-is-commit-signing-in-git/",
+          "publishedOn": "2021-06-02T23:14:01.000Z",
+          "wordCount": 2282,
+          "title": "What is Commit Signing in Git?"
+        },
+        {
+          "id": "60b3a25211ffb70827ef9b39",
+          "author": null,
+          "description": "In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend",
+          "link": "https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/",
+          "publishedOn": "2021-06-02T22:54:18.000Z",
+          "wordCount": 1415,
+          "title": "How to Use Environment Variables in VanillaJS"
+        },
+        {
+          "id": "60b3ccee11ffb70827ef9bc0",
+          "author": null,
+          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
+          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
+          "publishedOn": "2021-06-02T21:18:15.000Z",
+          "wordCount": 2365,
+          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
+        },
+        {
+          "id": "60a699b0906c5207e3a7f5ab",
+          "author": null,
+          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
+          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
+          "publishedOn": "2021-06-02T20:44:22.000Z",
+          "wordCount": 3441,
+          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
+        },
+        {
+          "id": "60b0f11411ffb70827ef8dbc",
+          "author": null,
+          "description": "Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,",
+          "link": "https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/",
+          "publishedOn": "2021-06-02T19:39:05.000Z",
+          "wordCount": 1155,
+          "title": "Fetch API – How to Make a GET Request and POST Request in JavaScript"
+        },
+        {
+          "id": "60b4ff4711ffb70827ef9eb2",
+          "author": null,
+          "description": "What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release",
+          "link": "https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/",
+          "publishedOn": "2021-06-02T19:14:53.000Z",
+          "wordCount": 2649,
+          "title": "How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project"
+        },
+        {
+          "id": "60b51f6e11ffb70827ef9f7c",
+          "author": null,
+          "description": "Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in",
+          "link": "https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/",
+          "publishedOn": "2021-06-02T14:45:18.000Z",
+          "wordCount": 3302,
+          "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
+        },
         {
           "id": "60b5025111ffb70827ef9ebe",
           "author": null,
@@ -1457,15 +1557,6 @@
           "publishedOn": "2021-05-04T15:33:12.000Z",
           "wordCount": 1018,
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
-        },
-        {
-          "id": "6090187c8eb3fb07cf09a060",
-          "author": "",
-          "description": "Let's go through the five best ways that you can fetch data with React from a GraphQL API. While there are a couple of popular libraries which are made to interact with GraphQL APIs from a React application, there are many different ways to fetch data with GraphQL. I've included",
-          "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
-          "publishedOn": "2021-05-03T17:20:56.000Z",
-          "wordCount": 2491,
-          "title": "How to Fetch Data in React from a GraphQL API"
         }
       ]
     }
