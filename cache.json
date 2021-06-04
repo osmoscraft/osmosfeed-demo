@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341584",
+          "author": "Temani Afif",
+          "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
+          "publishedOn": "2021-06-03T14:25:57.000Z",
+          "wordCount": 4971,
+          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341494",
+          "author": "Chris Coyier",
+          "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
+          "publishedOn": "2021-06-03T14:25:19.000Z",
+          "wordCount": 865,
+          "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
+        },
+        {
           "id": "https://css-tricks.com/?p=341724",
           "author": "Chris Coyier",
           "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -526,24 +544,6 @@
           "publishedOn": "2021-05-05T14:18:28.000Z",
           "wordCount": 3140,
           "title": "Is Vendor Prefixing Dead?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339455",
-          "author": "Chris Coyier",
-          "description": "This was a great &#8220;Today I Learned&#8221; for me from Josh W. Comeau. If the font-size of an &#60;input&#62; is 16px or larger, Safari on iOS will focus into the input normally. But as soon as the font-size is &#8230;\nThe post 16px or Larger Text Prevents iOS Form Zoom appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
-          "publishedOn": "2021-05-04T21:16:04.000Z",
-          "wordCount": 758,
-          "title": "16px or Larger Text Prevents iOS Form Zoom"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339867",
-          "author": "Geoff Graham",
-          "description": "Here&#8217;s a dilemma: what happens if your WooCommerce site has a problem and the quickest and best way to fix it is to roll back to a previous version? The dilemma is, if you roll back the database, you would &#8230;\nThe post Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
-          "publishedOn": "2021-05-04T21:15:57.000Z",
-          "wordCount": 450,
-          "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
         }
       ]
     },
@@ -552,6 +552,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
+          "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
+          "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
+          "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
+          "publishedOn": "2021-06-03T10:30:00.000Z",
+          "wordCount": 3496,
+          "title": "Managing Shared State In Vue 3",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
@@ -839,24 +853,6 @@
           "publishedOn": "2021-05-06T11:00:00.000Z",
           "wordCount": 2617,
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "author": "hello@smashingmagazine.com (Liran Cohen)",
-          "description": "This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
-          "publishedOn": "2021-05-05T10:30:00.000Z",
-          "wordCount": 2296,
-          "title": "Reducing HTML Payload With Next.js (Case Study)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
-          "publishedOn": "2021-05-04T14:30:00.000Z",
-          "wordCount": 1791,
-          "title": "A Guide To Undoing Mistakes With Git"
         }
       ]
     },
@@ -865,6 +861,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b11ff811ffb70827ef8f94",
+          "author": null,
+          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
+          "publishedOn": "2021-06-03T21:44:03.000Z",
+          "wordCount": 3978,
+          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
+        },
+        {
+          "id": "60afd68611ffb70827ef86d8",
+          "author": null,
+          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
+          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
+          "publishedOn": "2021-06-03T18:46:12.000Z",
+          "wordCount": 1588,
+          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
+        },
+        {
+          "id": "60b7c02cacb62507dd1d7b80",
+          "author": null,
+          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
+          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
+          "publishedOn": "2021-06-03T18:42:20.000Z",
+          "wordCount": 1748,
+          "title": "Lists in Python – A Comprehensive Guide"
+        },
+        {
+          "id": "60affbe411ffb70827ef8951",
+          "author": null,
+          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
+          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
+          "publishedOn": "2021-06-03T18:07:17.000Z",
+          "wordCount": 2708,
+          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
+        },
+        {
+          "id": "60aa708711ffb70827ef5f4b",
+          "author": null,
+          "description": "If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service",
+          "link": "https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/",
+          "publishedOn": "2021-06-03T16:51:37.000Z",
+          "wordCount": 1453,
+          "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
+        },
+        {
+          "id": "5fff3d3098be260817e495bd",
+          "author": null,
+          "description": "Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be",
+          "link": "https://www.freecodecamp.org/news/what-is-a-block-cipher/",
+          "publishedOn": "2021-06-03T16:21:19.000Z",
+          "wordCount": 2747,
+          "title": "Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?"
+        },
         {
           "id": "60afce3011ffb70827ef869c",
           "author": null,
@@ -1539,24 +1589,6 @@
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
           "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
-        },
-        {
-          "id": "609011fd8eb3fb07cf09a034",
-          "author": "",
-          "description": "A complete guide to Node.js async await",
-          "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
-          "publishedOn": "2021-05-04T16:07:17.000Z",
-          "wordCount": 2241,
-          "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
-        },
-        {
-          "id": "608f5ad48eb3fb07cf099ddb",
-          "author": "",
-          "description": "To copy files or directories in Unix-based operating systems (Linux and MacOS), you use the cp command. The cp command is a relatively simple command, but its behavior changes slightly depending on the inputs (files vs directories) and the options you pass to it. To view the documentation or manual",
-          "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
-          "publishedOn": "2021-05-04T15:33:12.000Z",
-          "wordCount": 1018,
-          "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         }
       ]
     }
