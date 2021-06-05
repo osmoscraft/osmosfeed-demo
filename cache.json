@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341793",
+          "author": "Chris Coyier",
+          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
+          "publishedOn": "2021-06-04T20:36:46.000Z",
+          "wordCount": 1039,
+          "title": "Principles for user-centered front-end development"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341968",
+          "author": "Chris Coyier",
+          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://bkardell.com/blog/canihas.html",
+          "publishedOn": "2021-06-04T14:37:59.000Z",
+          "wordCount": 1327,
+          "title": "Can I :has()"
+        },
+        {
           "id": "https://css-tricks.com/?p=341584",
           "author": "Temani Afif",
           "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -517,33 +535,6 @@
           "publishedOn": "2021-05-06T14:28:53.000Z",
           "wordCount": 1025,
           "title": "Custom State Pseudo-Classes in Chrome"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339563",
-          "author": "Chris Coyier",
-          "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/astro/",
-          "publishedOn": "2021-05-05T21:49:23.000Z",
-          "wordCount": 920,
-          "title": "Astro"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339954",
-          "author": "Chris Coyier",
-          "description": "The bombshell article of the week is from Alex Russell of Google/Chrome. Alex has long been super critical of Apple, particularly about how there is literally no option to run any other browser than Safari on iOS. This article isn&#8217;t &#8230;\nThe post Progress Delayed Is Progress Denied appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://infrequently.org/2021/04/progress-delayed/",
-          "publishedOn": "2021-05-05T16:51:23.000Z",
-          "wordCount": 6686,
-          "title": "Progress Delayed Is Progress Denied"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339518",
-          "author": "Rob O'Leary",
-          "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
-          "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3140,
-          "title": "Is Vendor Prefixing Dead?"
         }
       ]
     },
@@ -552,6 +543,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "author": "hello@smashingmagazine.com (Nwani Victory)",
+          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
+          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
+          "publishedOn": "2021-06-04T10:00:00.000Z",
+          "wordCount": 4138,
+          "title": "Getting Started With Webpack",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
           "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
@@ -844,15 +849,6 @@
           "publishedOn": "2021-05-07T10:00:00.000Z",
           "wordCount": 4127,
           "title": "How To Organize Product-Related Assets And Collaborate Better"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "author": "hello@smashingmagazine.com (Carson Shold)",
-          "description": "When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.",
-          "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
-          "publishedOn": "2021-05-06T11:00:00.000Z",
-          "wordCount": 2617,
-          "title": "Improving The Performance Of Shopify Themes (Case Study)"
         }
       ]
     },
@@ -861,6 +857,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b3480c11ffb70827ef9a88",
+          "author": null,
+          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
+          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
+          "publishedOn": "2021-06-04T21:34:33.000Z",
+          "wordCount": 2174,
+          "title": "How to Search and Filter Components in React"
+        },
+        {
+          "id": "60ba33d7acb62507dd1d9050",
+          "author": null,
+          "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
+          "link": "https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/",
+          "publishedOn": "2021-06-04T20:58:07.000Z",
+          "wordCount": 1544,
+          "title": "Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know"
+        },
+        {
+          "id": "60b8f5c7acb62507dd1d8500",
+          "author": null,
+          "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
+          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
+          "publishedOn": "2021-06-04T20:41:29.000Z",
+          "wordCount": 2163,
+          "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
+        },
+        {
+          "id": "60b2a4c611ffb70827ef9842",
+          "author": null,
+          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
+          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
+          "publishedOn": "2021-06-04T18:01:00.000Z",
+          "wordCount": 2225,
+          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b98ebfacb62507dd1d8ec4",
+          "author": null,
+          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
+          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
+          "publishedOn": "2021-06-04T02:32:22.000Z",
+          "wordCount": 390,
+          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
+        },
         {
           "id": "60b11ff811ffb70827ef8f94",
           "author": null,
@@ -1580,15 +1621,6 @@
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
-        },
-        {
-          "id": "609307e801fc34080ef8191e",
-          "author": "",
-          "description": "OpenCV is a library of programming functions mainly aimed at real-time computer vision.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use OpenCV in the cloud with Python. Misbah Mohammed created this course. He has a lot of experience with machine",
-          "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
-          "publishedOn": "2021-05-05T21:11:40.000Z",
-          "wordCount": 352,
-          "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
         }
       ]
     }
