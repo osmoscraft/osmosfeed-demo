@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341982",
+          "author": "Todd Libby",
+          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
+          "publishedOn": "2021-06-08T18:31:08.000Z",
+          "wordCount": 3036,
+          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341884",
+          "author": "Chris Coyier",
+          "description": "WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.\nAt first, the site …\nThe post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/",
+          "publishedOn": "2021-06-08T14:16:07.000Z",
+          "wordCount": 708,
+          "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
+        },
+        {
           "id": "https://css-tricks.com/?p=341805",
           "author": "Chris Coyier",
           "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -508,6 +526,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
+          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "publishedOn": "2021-06-08T12:00:00.000Z",
+          "wordCount": 2102,
+          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "author": "hello@smashingmagazine.com (Prince Chukwudire)",
           "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
@@ -809,15 +841,6 @@
           "publishedOn": "2021-05-11T10:00:00.000Z",
           "wordCount": 1958,
           "title": "The Conference Platform We Use For Our Online Events: Hopin"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
-          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Get Started With React By Building A Whac-A-Mole Game"
         }
       ]
     },
@@ -826,6 +849,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60bfd986d3126007592d53a1",
+          "author": null,
+          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
+          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
+          "publishedOn": "2021-06-08T21:05:13.000Z",
+          "wordCount": 639,
+          "title": "Create Your Own Electronics With Arduino - Full Course"
+        },
+        {
+          "id": "60b23b8911ffb70827ef954e",
+          "author": null,
+          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
+          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
+          "publishedOn": "2021-06-08T16:17:32.000Z",
+          "wordCount": 1205,
+          "title": "How to Pass Data and Events Between Components in React"
+        },
+        {
+          "id": "60be6a3cd3126007592d4a03",
+          "author": null,
+          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
+          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-06-08T16:02:45.000Z",
+          "wordCount": 2548,
+          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
+        },
         {
           "id": "60bbd28eacb62507dd1d99fb",
           "author": null,
