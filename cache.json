@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342429",
+          "author": "Chris Coyier",
+          "description": "There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:\nPerhaps the most noticeable thing there …\nThe post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/",
+          "publishedOn": "2021-06-11T21:38:48.000Z",
+          "wordCount": 689,
+          "title": "Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342237",
+          "author": "Chris Coyier",
+          "description": "That’s the one word that isn’t an adjective in the acronym RSS. \nReally Simple Syndication.\nRSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …\nThe post The Possibilities of Syndication appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-possibilities-of-syndication/",
+          "publishedOn": "2021-06-11T21:25:56.000Z",
+          "wordCount": 614,
+          "title": "The Possibilities of Syndication"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342164",
+          "author": "Joel Olawanle",
+          "description": "Why would we need to apply shadows to SVG?\nShadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) \n…\nThe post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/",
+          "publishedOn": "2021-06-11T14:30:29.000Z",
+          "wordCount": 2375,
+          "title": "Adding Shadows to SVG Icons With CSS and SVG Filters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342050",
+          "author": "Chris Coyier",
+          "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/put-a-background-on-open-details-elements/",
+          "publishedOn": "2021-06-11T00:16:28.000Z",
+          "wordCount": 630,
+          "title": "Put a Background on Open Details Elements"
+        },
+        {
           "id": "https://css-tricks.com/?p=341894",
           "author": "Kevin Powell",
           "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -481,15 +517,6 @@
           "publishedOn": "2021-05-13T14:24:35.000Z",
           "wordCount": 925,
           "title": "SVGator 3.0 Reshapes the Way You Create and Animate SVG With Extensive New Features"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339960",
-          "author": "Sandrina Pereira",
-          "description": "Let’s talk about disabled buttons. Specifically, let’s get into why we use them and how we can do better than the traditional disabled attribute in HTML (e.g. &#60;button disabled&#62; ) to mark a button as disabled.\nThere are lots of &#8230;\nThe post Making Disabled Buttons More Inclusive appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/making-disabled-buttons-more-inclusive/",
-          "publishedOn": "2021-05-12T14:31:07.000Z",
-          "wordCount": 2583,
-          "title": "Making Disabled Buttons More Inclusive"
         }
       ]
     },
@@ -498,6 +525,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.",
+          "link": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
+          "publishedOn": "2021-06-11T15:00:00.000Z",
+          "wordCount": 1601,
+          "title": "Web Design Done Well: Making Use Of Audio",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -828,6 +869,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b72d5facb62507dd1d777b",
+          "author": null,
+          "description": "If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,",
+          "link": "https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/",
+          "publishedOn": "2021-06-11T22:56:56.000Z",
+          "wordCount": 1569,
+          "title": "What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business"
+        },
+        {
+          "id": "6063b9189618b008528a9d81",
+          "author": null,
+          "description": "Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How",
+          "link": "https://www.freecodecamp.org/news/how-to-center-objects-using-css/",
+          "publishedOn": "2021-06-11T20:40:17.000Z",
+          "wordCount": 1427,
+          "title": "How to Center Anything in CSS Using Flexbox and Grid ✨"
+        },
+        {
+          "id": "5f9c97e9740569d1a4ca1768",
+          "author": null,
+          "description": "How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.",
+          "link": "https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/",
+          "publishedOn": "2021-06-11T19:10:00.000Z",
+          "wordCount": 2180,
+          "title": "How to Design Keyboard Accessibility for Complex React Experiences"
+        },
+        {
+          "id": "60bc0444acb62507dd1d9a31",
+          "author": null,
+          "description": "Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these",
+          "link": "https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/",
+          "publishedOn": "2021-06-11T17:39:28.000Z",
+          "wordCount": 2143,
+          "title": "How to Ask Good Technical Questions – the Ultimate Guide"
+        },
+        {
+          "id": "60c24cf8d3126007592d61d5",
+          "author": null,
+          "description": "Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go",
+          "link": "https://www.freecodecamp.org/news/learn-react-conditionals/",
+          "publishedOn": "2021-06-11T16:04:46.000Z",
+          "wordCount": 1323,
+          "title": "How to Level Up Your React Conditionals"
+        },
         {
           "id": "60b93afaacb62507dd1d8915",
           "author": null,
@@ -1556,24 +1642,6 @@
           "publishedOn": "2021-05-13T16:25:03.000Z",
           "wordCount": 4002,
           "title": "From Lawyer to Engineer at Google – How to Switch Careers and Learn New Skills"
-        },
-        {
-          "id": "5fde208ae6787e09839407c3",
-          "author": "",
-          "description": "In this guide, we will build two simple projects and deploy them on Netlify. We will use Vue.js as our front-end framework, and use different technologies to build our projects.  If you follow this tutorial to the end, you will build a simplified version of Twitter and a single",
-          "link": "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/",
-          "publishedOn": "2021-05-12T20:53:20.000Z",
-          "wordCount": 25100,
-          "title": "How to Build and Deploy a Portfolio with Vue.JS, Axios, the GitHub REST API, and Netlify"
-        },
-        {
-          "id": "609c215862ab9107fe5a9fa9",
-          "author": "",
-          "description": "Kivy is a free and open source Python framework for developing mobile apps and games with a natural user interface. We just released a 5-hour Kivy course on the freeCodeCamp.org YouTube channel. In this Kivy course, you will learn to create games and applications with Python for every platform",
-          "link": "https://www.freecodecamp.org/news/use-the-kivy-python-library-to-create-games-and-mobile-apps/",
-          "publishedOn": "2021-05-12T18:49:36.000Z",
-          "wordCount": 571,
-          "title": "Use the Kivy Python Library to Create Games and Mobile Apps"
         }
       ]
     }
