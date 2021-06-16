@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342198",
+          "author": "Chris Coyier",
+          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/detect-unused-classes-in-html/",
+          "publishedOn": "2021-06-15T23:24:20.000Z",
+          "wordCount": 741,
+          "title": "Detect Unused Classes in… HTML"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342519",
+          "author": "Chris Coyier",
+          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
+          "publishedOn": "2021-06-15T19:51:32.000Z",
+          "wordCount": 1907,
+          "title": "Media Queries in Times of @container"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342248",
+          "author": "Chris Coyier",
+          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
+          "publishedOn": "2021-06-15T14:31:34.000Z",
+          "wordCount": 1844,
+          "title": "Just How Niche is Headless WordPress?"
+        },
+        {
           "id": "https://css-tricks.com/?p=342294",
           "author": "Chris Coyier",
           "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -490,6 +517,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
+          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
+          "publishedOn": "2021-06-15T10:15:00.000Z",
+          "wordCount": 2381,
+          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
+          "publishedOn": "2021-06-15T07:00:00.000Z",
+          "wordCount": 10715,
+          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
@@ -821,15 +876,6 @@
           "publishedOn": "2021-05-18T05:00:00.000Z",
           "wordCount": 9250,
           "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
-          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2906,
-          "title": "How We Improved Our Core Web Vitals (Case Study)"
         }
       ]
     },
@@ -838,6 +884,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c91b2b4dc1a607ed7b389a",
+          "author": null,
+          "description": "DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.",
+          "link": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
+          "publishedOn": "2021-06-15T21:33:17.000Z",
+          "wordCount": 455,
+          "title": "DevOps Engineering Course for Beginners"
+        },
+        {
+          "id": "60c72a0ad3126007592d7e2a",
+          "author": null,
+          "description": "To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word \"run\". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly",
+          "link": "https://www.freecodecamp.org/news/what-is-this-in-javascript/",
+          "publishedOn": "2021-06-15T21:19:12.000Z",
+          "wordCount": 1383,
+          "title": "What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples"
+        },
+        {
+          "id": "60c8912c4dc1a607ed7b2fff",
+          "author": null,
+          "description": "As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder \"Am I setting my price too high?\" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding",
+          "link": "https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/",
+          "publishedOn": "2021-06-15T21:10:54.000Z",
+          "wordCount": 2031,
+          "title": "What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest"
+        },
+        {
+          "id": "60c3dcb3d3126007592d6c6d",
+          "author": null,
+          "description": "Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following",
+          "link": "https://www.freecodecamp.org/news/python-decorators-explained-with-examples/",
+          "publishedOn": "2021-06-15T17:57:54.000Z",
+          "wordCount": 1409,
+          "title": "Python Decorators – How to Create and Use Decorators in Python With Examples"
+        },
+        {
+          "id": "602aaaf60a2838549dcc5c7f",
+          "author": null,
+          "description": "Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a",
+          "link": "https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/",
+          "publishedOn": "2021-06-15T17:43:43.000Z",
+          "wordCount": 1292,
+          "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
+        },
+        {
+          "id": "60b7cb6aacb62507dd1d7c1a",
+          "author": null,
+          "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
+          "link": "https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/",
+          "publishedOn": "2021-06-15T16:06:54.000Z",
+          "wordCount": 1714,
+          "title": "How to Open Any Repo in VS Code Without Cloning It"
+        },
+        {
+          "id": "60c6aec3d3126007592d7bd5",
+          "author": null,
+          "description": "What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database",
+          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/",
+          "publishedOn": "2021-06-15T15:48:09.000Z",
+          "wordCount": 888,
+          "title": "SQL Aggregate Functions – With Example Data Queries for Beginners"
+        },
+        {
+          "id": "60bbdd8dacb62507dd1d9a2d",
+          "author": null,
+          "description": "You've probably seen the term \"full stack developer\" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article",
+          "link": "https://www.freecodecamp.org/news/what-is-a-fullstack-developer/",
+          "publishedOn": "2021-06-15T15:35:39.000Z",
+          "wordCount": 2706,
+          "title": "What is Full Stack? How to Become a Full Stack Developer"
+        },
         {
           "id": "60873d1fdd38b9088c2c0842",
           "author": null,
