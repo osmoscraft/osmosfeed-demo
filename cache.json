@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341948",
+          "author": "Louis Hoebregts",
+          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
+          "publishedOn": "2021-06-17T14:45:57.000Z",
+          "wordCount": 1554,
+          "title": "Perfect Tooltips With CSS Clipping and Masking"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342257",
+          "author": "ImageEngine",
+          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
+          "publishedOn": "2021-06-17T14:38:42.000Z",
+          "wordCount": 1290,
+          "title": "Start Serving Optimized Images in Vue"
+        },
+        {
           "id": "https://css-tricks.com/?p=342358",
           "author": "Chris Coyier",
           "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -490,24 +508,6 @@
           "publishedOn": "2021-05-19T14:28:19.000Z",
           "wordCount": 1417,
           "title": "svg-loader: A Different Way to Work With External SVG"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340613",
-          "author": "Chris Coyier",
-          "description": "I’m afraid I have to start this with a whole backstory, as the journey here is the point, not so much the theme.\nA fella wrote to me a while back outlining a situation he was in. His company has …\nThe post Pinned Audio WordPress Theme appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/pinned-audio-wordpress-theme/",
-          "publishedOn": "2021-05-18T19:14:53.000Z",
-          "wordCount": 973,
-          "title": "Pinned Audio WordPress Theme"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340420",
-          "author": "Silvia O'Dwyer",
-          "description": "Neon text can add a nice, futuristic touch to any website. I’ve always loved the magic of neon signs, and wanted to recreate them using CSS. I thought I’d share some tips on how to do it! In this article, …\nThe post How to Create Neon Text With CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-create-neon-text-with-css/",
-          "publishedOn": "2021-05-18T14:31:25.000Z",
-          "wordCount": 2100,
-          "title": "How to Create Neon Text With CSS"
         }
       ]
     },
@@ -516,6 +516,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
+          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
+          "publishedOn": "2021-06-17T10:30:00.000Z",
+          "wordCount": 1636,
+          "title": "Your Image Is Probably Not Decorative",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "author": "hello@smashingmagazine.com (Nic Chan)",
@@ -863,15 +877,6 @@
           "publishedOn": "2021-05-20T11:00:00.000Z",
           "wordCount": 1919,
           "title": "How To Implement Authentication In Next.js With Auth0"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Do we need mega-dropdown hover menus in 2021? Probably not. Let’s explore things to keep in mind when designing and building a mega-dropdown, alternatives to hover menus and fine details for designing a better UX.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 4986,
-          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus"
         }
       ]
     },
@@ -880,6 +885,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c2aa56d3126007592d6226",
+          "author": null,
+          "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "publishedOn": "2021-06-17T12:02:47.000Z",
+          "wordCount": 566,
+          "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
+        },
         {
           "id": "60c88bbc4dc1a607ed7b2ffa",
           "author": null,
@@ -1653,60 +1667,6 @@
           "publishedOn": "2021-05-19T17:30:08.000Z",
           "wordCount": 1981,
           "title": "How to Optimize for Change in Software Development"
-        },
-        {
-          "id": "60a53182906c5207e3a7e588",
-          "author": "",
-          "description": "Lately, I've been talking about my move into the Web3, Ethereum, and crypto space since making the switch from a traditional web, mobile, and cloud background. Since making that move, a shocking number of people have reached out to me who are also thinking about doing the same.  It's really",
-          "link": "https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/",
-          "publishedOn": "2021-05-18T21:04:00.000Z",
-          "wordCount": 2258,
-          "title": "How to Break into Ethereum, Crypto, and Web3 as a Developer"
-        },
-        {
-          "id": "60a3780f906c5207e3a7db5f",
-          "author": "",
-          "description": "If you offer your services as a freelance developer, you have a major say in how you price your project.  But how do you go about charging for a website project? \"Well, I just bill by the hour and send an invoice every week or month.\" ...I hear you say.",
-          "link": "https://www.freecodecamp.org/news/the-different-ways-to-charge-for-a-website/",
-          "publishedOn": "2021-05-18T17:12:59.000Z",
-          "wordCount": 1973,
-          "title": "Freelance Development Pricing Guide – Should Freelancers Bill by the Hour?"
-        },
-        {
-          "id": "6068f146d5756f080ba9402d",
-          "author": "",
-          "description": "Yes, you can learn to code for free, from the convenience of your own home, and at your own pace. I'm going to show you 101 courses where you can learn computer science and programming for free.  The freeCodeCamp courses are completely free and some of them include a free",
-          "link": "https://www.freecodecamp.org/news/coding-programs-101-ways-to-learn-to-code-for-free/",
-          "publishedOn": "2021-05-18T16:50:36.000Z",
-          "wordCount": 3309,
-          "title": "Coding Programs – 101 Ways to Learn to Code for Free"
-        },
-        {
-          "id": "609bea6b62ab9107fe5a9f89",
-          "author": "",
-          "description": "If you're a Python developer who works with Keras SavedModels, this article is for you.  Perhaps you're not sure how to use SavedModels to leverage the power of machine learning in browser-based web apps. But don't worry – we'll cover all the basic steps you need to get started.  Along with",
-          "link": "https://www.freecodecamp.org/news/convert-keras-savedmodel-into-browser-based-webapp/",
-          "publishedOn": "2021-05-18T16:36:22.000Z",
-          "wordCount": 1938,
-          "title": "How to Convert a Keras SavedModel into a Browser-based Web App"
-        },
-        {
-          "id": "609fc4cc62ab9107fe5aac91",
-          "author": "",
-          "description": "Redux can be confusing for beginner React developers to understand. There are a lot of concepts you need to know to use it properly, like reducers, actions, store, pure functions, immutability, and much more. But every React developer should know the basics of how to work with Redux, since industry",
-          "link": "https://www.freecodecamp.org/news/redux-for-beginners/",
-          "publishedOn": "2021-05-18T16:18:18.000Z",
-          "wordCount": 2037,
-          "title": "Redux for Beginners – Learn Redux Basics with Code Examples"
-        },
-        {
-          "id": "60685767d5756f080ba93df4",
-          "author": "",
-          "description": "According to freeCodeCamp’s 2018 New Coder Survey, 40.3% of participants want to build a business of their own, either as a freelancer or as an entrepreneur.  If you are in that 40.3%, then this article is for you. If you are in the remaining 59.7%, you",
-          "link": "https://www.freecodecamp.org/news/be-a-successful-entrepreneur-developers-guide-to-startup-strategy-and-design/",
-          "publishedOn": "2021-05-18T16:08:27.000Z",
-          "wordCount": 4368,
-          "title": "How to Be a Successful Entrepreneur – A Developer&#x27;s Guide to Startup Strategy and Design"
         }
       ]
     }
