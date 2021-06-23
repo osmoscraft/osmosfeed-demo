@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342930",
+          "author": "Chris Coyier",
+          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
+          "publishedOn": "2021-06-22T21:20:20.000Z",
+          "wordCount": 687,
+          "title": "inherit, initial, unset, revert"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342634",
+          "author": "Geoff Rich",
+          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
+          "publishedOn": "2021-06-22T14:37:50.000Z",
+          "wordCount": 3090,
+          "title": "Using Custom Elements in Svelte"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342925",
+          "author": "Chris Coyier",
+          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
+          "publishedOn": "2021-06-22T14:33:41.000Z",
+          "wordCount": 1497,
+          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
+        },
+        {
           "id": "https://css-tricks.com/?p=342887",
           "author": "Chris Coyier",
           "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -472,6 +499,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.",
+          "link": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
+          "publishedOn": "2021-06-22T09:00:00.000Z",
+          "wordCount": 2886,
+          "title": "Designing With Code: A Modern Approach To Design (Development Challenges)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/08546e48-5034-466a-a29c-08ce3827416e/uxpin-ui.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
           "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
           "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
@@ -838,15 +879,6 @@
           "publishedOn": "2021-05-25T09:30:00.000Z",
           "wordCount": 2062,
           "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.",
-          "link": "https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/",
-          "publishedOn": "2021-05-24T11:30:00.000Z",
-          "wordCount": 2665,
-          "title": "CSS Container Queries: Use-Cases And Migration Strategies"
         }
       ]
     },
@@ -855,6 +887,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d2323d6e1a1407b6b0ac4f",
+          "author": null,
+          "description": "Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we",
+          "link": "https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/",
+          "publishedOn": "2021-06-22T21:11:53.000Z",
+          "wordCount": 2770,
+          "title": "Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools"
+        },
+        {
+          "id": "60cac8ff4dc1a607ed7b4592",
+          "author": null,
+          "description": "There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await\", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use",
+          "link": "https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/",
+          "publishedOn": "2021-06-22T16:24:37.000Z",
+          "wordCount": 1432,
+          "title": "How to Use Async/Await to Write Better JavaScript Code"
+        },
+        {
+          "id": "60c13e71d3126007592d5be2",
+          "author": null,
+          "description": "The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/",
+          "publishedOn": "2021-06-22T16:20:36.000Z",
+          "wordCount": 7385,
+          "title": "How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot"
+        },
+        {
+          "id": "60cfff5a4dc1a607ed7b5e58",
+          "author": null,
+          "description": "Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with",
+          "link": "https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/",
+          "publishedOn": "2021-06-22T16:18:29.000Z",
+          "wordCount": 1611,
+          "title": "How to Use Python to Create a Visual Novel Game in 10 Minutes"
+        },
         {
           "id": "60c81f774dc1a607ed7b2f66",
           "author": null,
