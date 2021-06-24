@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343076",
+          "author": "Chris Coyier",
+          "description": "When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…\nThe post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.bram.us/2021/06/21/tablesng-improvements-to-table-rendering-in-chromium/",
+          "publishedOn": "2021-06-23T21:37:14.000Z",
+          "wordCount": 1325,
+          "title": "TablesNG — Improvements to table rendering in Chromium"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342750",
+          "author": "Ollie Williams",
+          "description": "The CSS image-set() function has been supported in Chromium-based browsers since 2012 and in Safari since version 6. Support recently landed in Firefox 88. Let’s dive in and see what we can and can’t do today with image-set().…\nThe post Using Performant Next-Gen Images in CSS with image-set appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-performant-next-gen-images-in-css-with-image-set/",
+          "publishedOn": "2021-06-23T19:10:54.000Z",
+          "wordCount": 1244,
+          "title": "Using Performant Next-Gen Images in CSS with image-set"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342669",
+          "author": "Chris Coyier",
+          "description": "PPK looks at aspect-ratio, a CSS property for layout that, for the most part, does exactly what you would think it does. It’s getting more interesting as it’s behind a flag in Firefox and Safari now, so we’ll have …\nThe post “Weak declaration” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/weak-declaration/",
+          "publishedOn": "2021-06-23T14:27:14.000Z",
+          "wordCount": 629,
+          "title": "“Weak declaration”"
+        },
+        {
           "id": "https://css-tricks.com/?p=342930",
           "author": "Chris Coyier",
           "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -454,42 +481,6 @@
           "publishedOn": "2021-05-25T14:25:06.000Z",
           "wordCount": 7475,
           "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341383",
-          "author": "Ahmed Bouchefra",
-          "description": "Choosing the right tools to build a website for your organization is essential, but it can be tough to find the right fit. Simple site builders like Wix and Squarespace are easy for marketers to use, but severely limit developers …\nThe post Creating Powerful Websites with Serverless-Driven CMS Development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/creating-powerful-websites-with-serverless-driven-cms-development/",
-          "publishedOn": "2021-05-25T11:00:00.000Z",
-          "wordCount": 1386,
-          "title": "Creating Powerful Websites with Serverless-Driven CMS Development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340808",
-          "author": "Chris Coyier",
-          "description": "Making GitHub’s new homepage fast and performant — Tobias Ahlin describes how the scrolling effects are done more performantly thanks to IntersectionObserver and the fact that it avoids the use of methods that trigger reflows, like getBoundingClientRect. Also, \n…\nThe post Links on Performance appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-performance/",
-          "publishedOn": "2021-05-24T22:03:30.000Z",
-          "wordCount": 817,
-          "title": "Links on Performance"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341153",
-          "author": "Chris Coyier",
-          "description": "I like a good trick. What if… a URL was…  a promise… that fetched said URL?\nwww.codepen.io.then((response) ={\n  console.log(response);\n});\nThat’s what @justjavac did with JavaScript Proxys. A clever trick, that. Don’t @ me about the practicality. Trick…\nThe post proxy-www appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://github.com/justjavac/proxy-www",
-          "publishedOn": "2021-05-24T19:09:59.000Z",
-          "wordCount": 527,
-          "title": "proxy-www"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340626",
-          "author": "Raymond Camden",
-          "description": "By our last estimate, there are now more PDFs in the world than atoms in the universe (not verified by outside sources) so chances are, from time to time, you’re going to run into a PDF document or two. Browsers …\nThe post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/wrangling-control-over-pdfs-with-the-adobe-pdf-embed-api/",
-          "publishedOn": "2021-05-24T13:57:21.000Z",
-          "wordCount": 2814,
-          "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
         }
       ]
     },
@@ -498,6 +489,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
+          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
+          "description": "Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
+          "link": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
+          "publishedOn": "2021-06-23T13:30:00.000Z",
+          "wordCount": 947,
+          "title": "Smashing Online Workshops (July-October 2021)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
+          "author": "hello@smashingmagazine.com (Cameron Cundiff)",
+          "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
+          "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
+          "publishedOn": "2021-06-23T09:30:00.000Z",
+          "wordCount": 1350,
+          "title": "Automating Screen Reader Testing On macOS Using Auto VO",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
           "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
@@ -870,15 +889,6 @@
           "publishedOn": "2021-05-25T14:00:00.000Z",
           "wordCount": 2079,
           "title": "A Guide To Undoing Mistakes With Git (Part 2)"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.",
-          "link": "https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/",
-          "publishedOn": "2021-05-25T09:30:00.000Z",
-          "wordCount": 2062,
-          "title": "A New Way To Reduce Font Loading Impact: CSS Font Descriptors"
         }
       ]
     },
@@ -887,6 +897,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "605abca5687d62084bf6b7cd",
+          "author": null,
+          "description": "Data Analysis is the process of exploring, investigating, and gathering insights from data using statistical measures and visualizations.  The objective of data analysis is to develop an understanding of data by uncovering trends, relationships, and patterns. Data analysis is both a science and an art. On the one hand it",
+          "link": "https://www.freecodecamp.org/news/exploratory-data-analysis-with-numpy-pandas-matplotlib-seaborn/",
+          "publishedOn": "2021-06-24T00:11:01.000Z",
+          "wordCount": 8365,
+          "title": "What is Data Analysis? How to Visualize Data with Python, Numpy, Pandas, Matplotlib &amp; Seaborn Tutorial"
+        },
+        {
+          "id": "6072ffd4d5756f080ba98b27",
+          "author": null,
+          "description": "Over the last few years, microservices have gone from an overhyped buzzword to something you should understand as a software engineer.  According to an O'Reilly developer survey in 2020:  61% of companies have been using microservices in the last year29% say at least half of their company systems are built",
+          "link": "https://www.freecodecamp.org/news/microservices-architecture-for-humans/",
+          "publishedOn": "2021-06-23T21:52:08.000Z",
+          "wordCount": 2975,
+          "title": "Microservices Architecture – Explained in Plain English"
+        },
+        {
+          "id": "60d36eb66e1a1407b6b0b16d",
+          "author": null,
+          "description": ".NET is a popular software framework developed by Microsoft. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API end-to-end from scratch using the latest .NET 5 innovations and Visual Studio Code. The course uses the C# programming language.",
+          "link": "https://www.freecodecamp.org/news/create-a-rest-api-with-dot-net-5-and-c-sharp/",
+          "publishedOn": "2021-06-23T18:08:14.000Z",
+          "wordCount": 60401,
+          "title": "Create a REST API with .NET 5 and  C#"
+        },
+        {
+          "id": "60a406bd906c5207e3a7dfcb",
+          "author": null,
+          "description": "In this article you will learn how to create a great technical video course. I run the freeCodeCamp.org YouTube channel where we post technical courses from a variety of contributors. Video courses that follow the guidelines in this article are often a good fit for freeCodeCamp's channel. How to",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-great-technical-course/",
+          "publishedOn": "2021-06-23T17:19:24.000Z",
+          "wordCount": 2330,
+          "title": "How to Create a Great Technical Course"
+        },
         {
           "id": "60d2323d6e1a1407b6b0ac4f",
           "author": null,
@@ -1669,63 +1715,9 @@
           "publishedOn": "2021-05-25T16:51:37.000Z",
           "wordCount": 1940,
           "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
-        },
-        {
-          "id": "60abc6d011ffb70827ef630f",
-          "author": null,
-          "description": "Environment variables are variables that are set outside of a program, often through a cloud provider or operating system.  In Node, environment variables are a great way to securely and conveniently configure things that don't change often, like URLs, authentication keys, and passwords. How to Create Environment VariablesEnvironment variables are",
-          "link": "https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/",
-          "publishedOn": "2021-05-25T00:48:45.000Z",
-          "wordCount": 710,
-          "title": "How to Use Node Environment Variables with a DotEnv File for Node.js and npm"
-        },
-        {
-          "id": "60626dc29618b008528a9589",
-          "author": null,
-          "description": "Walkthrough for Hack The Box Nibbles machine",
-          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-nibbles/",
-          "publishedOn": "2021-05-25T00:20:22.000Z",
-          "wordCount": 1905,
-          "title": "Keep Calm and Hack The Box – Nibbles"
-        },
-        {
-          "id": "60aaba5911ffb70827ef5ffc",
-          "author": null,
-          "description": "Achieving a big goal like transitioning into a new career can be extremely challenging and overwhelming. The amount of information isn't the problem. We have access to more information than we ever have. The problem is knowing how to effectively execute on the information available to us. The more I",
-          "link": "https://www.freecodecamp.org/news/how-to-use-small-sustainable-habits-to-get-your-first-dev-job/",
-          "publishedOn": "2021-05-24T21:30:43.000Z",
-          "wordCount": 1835,
-          "title": "How to Use Small and Sustainable Habits to Get Your First Dev Job"
-        },
-        {
-          "id": "60ac07ec11ffb70827ef66e4",
-          "author": null,
-          "description": "CSS Media Queries allow you to create responsive websites that look good on all screen sizes, from desktop to mobile. We just released a course on the freeCodeCamp channel that will teach you how to create CSS Media Queries. After learning the basics, you will learn how to use media",
-          "link": "https://www.freecodecamp.org/news/how-to-use-css-media-queries-to-create-responsive-websites/",
-          "publishedOn": "2021-05-24T20:36:07.000Z",
-          "wordCount": 319,
-          "title": "How to Use CSS Media Queries to Create Responsive Websites"
-        },
-        {
-          "id": "60aa161211ffb70827ef5f2c",
-          "author": null,
-          "description": "Software testing is an important part of the software development process. You run tests at different stages of the software development life cycle, and you'll want to make sure that you have good test coverage.  Here are some key reasons for writing software tests:  Testing prevents you from introducing breaking",
-          "link": "https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/",
-          "publishedOn": "2021-05-24T19:40:36.000Z",
-          "wordCount": 2263,
-          "title": "How to Generate a Code Coverage Report with CodeCov and GitHub Actions"
-        },
-        {
-          "id": "60a5248c906c5207e3a7e54b",
-          "author": null,
-          "description": "No-code tools let people across the world build different products and applications without writing code.   Before no-code tools, building simple websites or mobile applications took weeks or months and only experienced software developers could do it.  But that's not the case anymore. Now, you can spin up blogs, websites, and",
-          "link": "https://www.freecodecamp.org/news/best-no-code-tools-for-developers/",
-          "publishedOn": "2021-05-24T14:54:42.000Z",
-          "wordCount": 2493,
-          "title": "The Best No-Code Tools for Developers in 2021"
         }
       ]
     }
   ],
-  "cliVersion": "1.10.2"
+  "cliVersion": "1.11.0"
 }
