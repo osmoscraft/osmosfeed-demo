@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342818",
+          "author": "Jay Hoffmann",
+          "description": "In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.\nWe have decided to discontinue the process of allowing new customers to sign up \n…\nThe post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/chapter-9-community/",
+          "publishedOn": "2021-06-24T14:30:11.000Z",
+          "wordCount": 6342,
+          "title": "Chapter 9: Community"
+        },
+        {
           "id": "https://css-tricks.com/?p=343076",
           "author": "Chris Coyier",
           "description": "When I blogged “Making Tables With Sticky Header and Footers Got a Bit Easier” recently, I mentioned that the “stickiness” improvement was just one of the features that got better for <table>s in Chrome as part of the TablesNG upgrade…\nThe post TablesNG — Improvements to table rendering in Chromium appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -472,15 +481,6 @@
           "publishedOn": "2021-05-26T14:08:49.000Z",
           "wordCount": 3416,
           "title": "A Thorough Analysis of CSS-in-JS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340759",
-          "author": "Josh Collinsworth",
-          "description": "I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.\nTable of contents\nWhat’s the game \n…\nThe post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/",
-          "publishedOn": "2021-05-25T14:25:06.000Z",
-          "wordCount": 7475,
-          "title": "What I Learned Building a Word Game App With Nuxt on Google Play"
         }
       ]
     },
@@ -489,6 +489,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
+          "author": "hello@smashingmagazine.com (Josh Singer)",
+          "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
+          "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
+          "publishedOn": "2021-06-24T14:00:00.000Z",
+          "wordCount": 4172,
+          "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
@@ -880,15 +894,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
-          "author": "hello@smashingmagazine.com (Tobias Günther)",
-          "description": "Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.",
-          "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/",
-          "publishedOn": "2021-05-25T14:00:00.000Z",
-          "wordCount": 2079,
-          "title": "A Guide To Undoing Mistakes With Git (Part 2)"
         }
       ]
     },
@@ -897,6 +902,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d3ee396e1a1407b6b0b6ef",
+          "author": null,
+          "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
+          "link": "https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/",
+          "publishedOn": "2021-06-24T17:01:44.000Z",
+          "wordCount": 1511,
+          "title": "4 Common React Mistakes You Might Be Making – And How to Fix Them"
+        },
+        {
+          "id": "60d4b5e96e1a1407b6b0bac4",
+          "author": null,
+          "description": "If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opentelemetry/",
+          "publishedOn": "2021-06-24T16:50:36.000Z",
+          "wordCount": 9777,
+          "title": "How to Use OpenTelemetry to Understand Software Performance"
+        },
         {
           "id": "605abca5687d62084bf6b7cd",
           "author": null,
@@ -1688,33 +1711,6 @@
           "publishedOn": "2021-05-26T14:12:27.000Z",
           "wordCount": 1273,
           "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
-        },
-        {
-          "id": "60ac3a2711ffb70827ef6aec",
-          "author": null,
-          "description": "Walkthrough for Hack The Box Valentine machine",
-          "link": "https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/",
-          "publishedOn": "2021-05-25T22:43:11.000Z",
-          "wordCount": 1664,
-          "title": "Keep Calm and Hack The Box – Valentine"
-        },
-        {
-          "id": "60a93b0011ffb70827ef5b0d",
-          "author": null,
-          "description": "In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/",
-          "publishedOn": "2021-05-25T20:26:38.000Z",
-          "wordCount": 1752,
-          "title": "How to Use React-Hook-Form to Build Beautiful Forms with Chakra UI"
-        },
-        {
-          "id": "608706aedd38b9088c2c012c",
-          "author": null,
-          "description": "If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when",
-          "link": "https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/",
-          "publishedOn": "2021-05-25T16:51:37.000Z",
-          "wordCount": 1940,
-          "title": "Web Design Best Practices for New Developers – How to Create Portfolio-Worthy Work"
         }
       ]
     }
