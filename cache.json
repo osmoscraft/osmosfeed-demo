@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342718",
+          "author": "Chris Coyier",
+          "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/custom-property-brain-twisters/",
+          "publishedOn": "2021-06-25T18:39:46.000Z",
+          "wordCount": 652,
+          "title": "Custom Property Brain Twisters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342911",
+          "author": "Georgi Nikoloff",
+          "description": "I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.\nOne problem quickly became evident: …\nThe post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
+          "publishedOn": "2021-06-25T14:33:33.000Z",
+          "wordCount": 993,
+          "title": "How to Cancel Pending API Requests to Show Correct Data"
+        },
+        {
           "id": "https://css-tricks.com/?p=342818",
           "author": "Jay Hoffmann",
           "description": "In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.\nWe have decided to discontinue the process of allowing new customers to sign up \n…\nThe post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -454,33 +472,6 @@
           "publishedOn": "2021-05-27T14:23:23.000Z",
           "wordCount": 2327,
           "title": "Rethinking Postgres in a Post-Server World"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339759",
-          "author": "Chris Coyier",
-          "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/awesome-standalone-web-components/",
-          "publishedOn": "2021-05-26T17:56:34.000Z",
-          "wordCount": 952,
-          "title": "Awesome Standalone (Web Components)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340901",
-          "author": "Chris Coyier",
-          "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-web-components/",
-          "publishedOn": "2021-05-26T17:56:12.000Z",
-          "wordCount": 712,
-          "title": "Links on Web Components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340705",
-          "author": "Andrei Pfeiffer",
-          "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
-          "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 3416,
-          "title": "A Thorough Analysis of CSS-in-JS"
         }
       ]
     },
@@ -489,6 +480,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
+          "author": "hello@smashingmagazine.com (Dom Habersack)",
+          "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
+          "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
+          "publishedOn": "2021-06-25T11:30:00.000Z",
+          "wordCount": 5454,
+          "title": "Creating A Multi-Author Blog With Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
+          "author": "hello@smashingmagazine.com (Mark Lankmilier)",
+          "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
+          "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
+          "publishedOn": "2021-06-25T10:00:00.000Z",
+          "wordCount": 3522,
+          "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "author": "hello@smashingmagazine.com (Josh Singer)",
@@ -865,34 +884,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
             "length": "0",
             "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
-          "author": "hello@smashingmagazine.com (Miroslav Bekyarov)",
-          "description": "While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.",
-          "link": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
-          "publishedOn": "2021-05-27T09:30:00.000Z",
-          "wordCount": 2676,
-          "title": "How To Build And Launch Responsive Websites Faster With Editor X",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3eaf20c-08e9-4f1c-829b-f0bbd7309e0d/21-build-launch-responsive-websites-editorx.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
-          "author": "hello@smashingmagazine.com (Carie Fisher)",
-          "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
-          "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
-          "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1547,
-          "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
-            "length": "0",
-            "type": "image/jpg"
           }
         }
       ]
@@ -1666,51 +1657,6 @@
           "publishedOn": "2021-05-27T15:16:34.000Z",
           "wordCount": 1399,
           "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
-        },
-        {
-          "id": "60a44b9f906c5207e3a7e098",
-          "author": null,
-          "description": "In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video",
-          "link": "https://www.freecodecamp.org/news/giphy-api-tutorial/",
-          "publishedOn": "2021-05-26T21:44:01.000Z",
-          "wordCount": 2014,
-          "title": "Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS"
-        },
-        {
-          "id": "60abe7fb11ffb70827ef63a6",
-          "author": null,
-          "description": "If you're a developer, you've probably come across the term \"open source.\" If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made",
-          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/",
-          "publishedOn": "2021-05-26T18:01:00.000Z",
-          "wordCount": 2370,
-          "title": "How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "606f4f5fd5756f080ba96b65",
-          "author": null,
-          "description": "In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without",
-          "link": "https://www.freecodecamp.org/news/terraform-syntax-for-beginners/",
-          "publishedOn": "2021-05-26T18:00:52.000Z",
-          "wordCount": 3782,
-          "title": "Learn Basic Terraform Syntax in 20 minutes"
-        },
-        {
-          "id": "60abc59d11ffb70827ef6304",
-          "author": null,
-          "description": "In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed",
-          "link": "https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/",
-          "publishedOn": "2021-05-26T16:34:32.000Z",
-          "wordCount": 3054,
-          "title": "How to Build a GraphQL API Using Laravel"
-        },
-        {
-          "id": "60aced0011ffb70827ef6d96",
-          "author": null,
-          "description": "In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/",
-          "publishedOn": "2021-05-26T14:12:27.000Z",
-          "wordCount": 1273,
-          "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
         }
       ]
     }
