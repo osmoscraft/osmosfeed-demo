@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343040",
+          "author": "Chris Coyier",
+          "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/system-things/",
+          "publishedOn": "2021-06-28T22:14:22.000Z",
+          "wordCount": 959,
+          "title": "System *Things"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343139",
+          "author": "Chris Coyier",
+          "description": "Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …\nThe post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
+          "publishedOn": "2021-06-28T21:17:26.000Z",
+          "wordCount": 937,
+          "title": "Working around the viewport-based fluid typography bug in Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342971",
+          "author": "Ryan Mulligan",
+          "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
+          "publishedOn": "2021-06-28T14:25:33.000Z",
+          "wordCount": 2338,
+          "title": "Positioning Overlay Content with CSS Grid"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343072",
+          "author": "Chris Coyier",
+          "description": "To make some terminology clear here:\nCMS = Content Management System\nCRM = Customer Relationship Management\nBoth are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …\nThe post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/",
+          "publishedOn": "2021-06-28T13:29:00.000Z",
+          "wordCount": 738,
+          "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
+        },
+        {
           "id": "https://css-tricks.com/?p=342718",
           "author": "Chris Coyier",
           "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -445,6 +481,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
+          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
+          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
+          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
+          "publishedOn": "2021-06-28T10:30:00.000Z",
+          "wordCount": 2513,
+          "title": "Creating Custom Emmet Snippets In VS Code",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "author": "hello@smashingmagazine.com (Dom Habersack)",
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
@@ -829,6 +879,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d61acc6e1a1407b6b0bd46",
+          "author": null,
+          "description": "In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/",
+          "publishedOn": "2021-06-28T21:17:02.000Z",
+          "wordCount": 3681,
+          "title": "How to Securely Access Secret API keys using Netlify Functions in a React App"
+        },
+        {
+          "id": "60d9766b6e1a1407b6b0cb4f",
+          "author": null,
+          "description": "If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/",
+          "publishedOn": "2021-06-28T20:35:12.000Z",
+          "wordCount": 2818,
+          "title": "How to Deploy an NLP Model with FastAPI"
+        },
+        {
+          "id": "60d07b4578f45307fee80aef",
+          "author": null,
+          "description": "Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most",
+          "link": "https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/",
+          "publishedOn": "2021-06-28T20:04:28.000Z",
+          "wordCount": 2258,
+          "title": "What is an IDE in Programming? An IDE Definition for Developers"
+        },
+        {
+          "id": "60d675ac6e1a1407b6b0bea1",
+          "author": null,
+          "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
+          "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
+          "publishedOn": "2021-06-28T18:45:21.000Z",
+          "wordCount": 740,
+          "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS"
+        },
+        {
+          "id": "60d4d3d86e1a1407b6b0bb25",
+          "author": null,
+          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
+          "publishedOn": "2021-06-28T13:50:35.000Z",
+          "wordCount": 67249,
+          "title": "Learn How to Create a Design System in Figma"
+        },
+        {
+          "id": "60d4ea756e1a1407b6b0bb71",
+          "author": null,
+          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
+          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
+          "publishedOn": "2021-06-28T13:44:39.000Z",
+          "wordCount": 806,
+          "title": "Why You Should Learn Data Analytics"
+        },
         {
           "id": "60d3ee396e1a1407b6b0b6ef",
           "author": null,

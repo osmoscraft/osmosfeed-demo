@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-28T00:56:31.557Z</updated>
+    <updated>2021-06-29T00:52:20.772Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[System *Things]]></title>
+        <id>https://css-tricks.com/?p=343040</id>
+        <link href="https://css-tricks.com/system-things/"/>
+        <updated>2021-06-28T22:14:22.000Z</updated>
+        <summary type="html"><![CDATA[I think we’re all largely aware of named colors in CSS:
+color: OldLace;
+background: rebeccapurple;
+I guess you’d just call those “named colors” in CSS. 
+Those aren’t the only kind of named colors there are though. Some of them …
+The post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working around the viewport-based fluid typography bug in Safari]]></title>
+        <id>https://css-tricks.com/?p=343139</id>
+        <link href="https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/"/>
+        <updated>2021-06-28T21:17:26.000Z</updated>
+        <summary type="html"><![CDATA[Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …
+The post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Securely Access Secret API keys using Netlify Functions in a React App]]></title>
+        <id>60d61acc6e1a1407b6b0bd46</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/"/>
+        <updated>2021-06-28T21:17:02.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy an NLP Model with FastAPI]]></title>
+        <id>60d9766b6e1a1407b6b0cb4f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/"/>
+        <updated>2021-06-28T20:35:12.000Z</updated>
+        <summary type="html"><![CDATA[If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an IDE in Programming? An IDE Definition for Developers]]></title>
+        <id>60d07b4578f45307fee80aef</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/"/>
+        <updated>2021-06-28T20:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS]]></title>
+        <id>60d675ac6e1a1407b6b0bea1</id>
+        <link href="https://www.freecodecamp.org/news/javascript-closure-lexical-scope/"/>
+        <updated>2021-06-28T18:45:21.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positioning Overlay Content with CSS Grid]]></title>
+        <id>https://css-tricks.com/?p=342971</id>
+        <link href="https://css-tricks.com/positioning-overlay-content-with-css-grid/"/>
+        <updated>2021-06-28T14:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.
+Recently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …
+The post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ryan Mulligan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Create a Design System in Figma]]></title>
+        <id>60d4d3d86e1a1407b6b0bb25</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/"/>
+        <updated>2021-06-28T13:50:35.000Z</updated>
+        <summary type="html"><![CDATA[A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Learn Data Analytics]]></title>
+        <id>60d4ea756e1a1407b6b0bb71</id>
+        <link href="https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/"/>
+        <updated>2021-06-28T13:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Organizations Should Consider Building a Website Backed by a CRM Platform]]></title>
+        <id>https://css-tricks.com/?p=343072</id>
+        <link href="https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/"/>
+        <updated>2021-06-28T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[To make some terminology clear here:
+CMS = Content Management System
+CRM = Customer Relationship Management
+Both are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …
+The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
+        <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
+        <link href="https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/"/>
+        <updated>2021-06-28T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
         <id>https://css-tricks.com/?p=342718</id>
