@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343470",
+          "author": "Chris Coyier",
+          "description": "I use this line, or one like it, in a lot of quick demos. Not that it’s not a production-worthy line of code—I just tend to be a bit more explicit on bigger projects. \nhtml {\n  font: 110%/1.4 system-ui;\n}\n…\nThe post What does `font: 110%/1.4 system-ui` mean? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-does-font-110-1-4-system-ui-mean/",
+          "publishedOn": "2021-06-29T22:43:50.000Z",
+          "wordCount": 672,
+          "title": "What does `font: 110%/1.4 system-ui` mean?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343260",
+          "author": "Chris Coyier",
+          "description": "Delan Azabani digs into the (hopefully) coming soon ::spelling-error and ::grammar-error pseudo selectors in CSS. Design control is always nice. Hey, if we can style scrollbars and style selected text, why not this?\nThe squiggly lines that indicate possible spelling or grammar errors \n…\nThe post Chromium spelling and grammar features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.azabani.com/2021/05/17/spelling-grammar.html",
+          "publishedOn": "2021-06-29T20:25:00.000Z",
+          "wordCount": 3316,
+          "title": "Chromium spelling and grammar features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342736",
+          "author": "Chris Coyier",
+          "description": "I needed to select some elements between two fixed indexes the other day — like literally the second through fifth elements. Ironically, I have a whole post on “Useful :nth-child Recipes” but this wasn’t one of them. \nThe answer, it …\nThe post :nth-child Between Two Fixed Indexes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/nth-child-between-two-fixed-indexes/",
+          "publishedOn": "2021-06-29T14:37:21.000Z",
+          "wordCount": 747,
+          "title": ":nth-child Between Two Fixed Indexes"
+        },
+        {
           "id": "https://css-tricks.com/?p=343040",
           "author": "Chris Coyier",
           "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -481,6 +508,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "author": "hello@smashingmagazine.com (Átila Fassina)",
+          "description": "Static Generation is great for performance, but not until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
+          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
+          "publishedOn": "2021-06-29T11:00:00.000Z",
+          "wordCount": 2454,
+          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
+          "publishedOn": "2021-06-29T05:30:00.000Z",
+          "wordCount": 6617,
+          "title": "Smashing Podcast Episode 40 Mike Cavaliere: What Is Chakra UI For React?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
           "author": "hello@smashingmagazine.com (Manuel Matuzović)",
           "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
@@ -857,20 +912,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
-          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
-          "publishedOn": "2021-05-31T11:30:00.000Z",
-          "wordCount": 2490,
-          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -879,6 +920,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60db519527f80207bcdbb6fa",
+          "author": null,
+          "description": "Whether you are new to coding interviews or are already familiar with the concept of backtracking, this is the crash course for you. We will learn about an all-purpose coding template and apply it to two LeetCode hard problems. Ready to crunch your next coding interview? Let's go!",
+          "link": "https://www.freecodecamp.org/news/coding-interview-backtracking-problems-crash-course/",
+          "publishedOn": "2021-06-29T20:00:32.000Z",
+          "wordCount": 908,
+          "title": "Coding Interview Backtracking Problems Crash Course – The Only One You&#x27;ll Ever Need"
+        },
+        {
+          "id": "604b8c6ea7946308b7687683",
+          "author": null,
+          "description": "Every day, developers use various applications and run commands in the terminal. These applications can include a browser, code editor, terminal, video conferencing app, or music player.  For each of these software applications that you open or commands you run, it creates a process or task. One beautiful feature of",
+          "link": "https://www.freecodecamp.org/news/linux-list-processes-how-to-check-running-processes/",
+          "publishedOn": "2021-06-29T19:47:13.000Z",
+          "wordCount": 1079,
+          "title": "Linux List Processes – How to Check Running Processes"
+        },
+        {
+          "id": "60daf29027f80207bcdbb3fe",
+          "author": null,
+          "description": "Why do we need the timedelta object?When you're working with dates and times in Python, you'll often use the datetime module.  In this post, we'll see how we can use the timedelta object in the datetime module. It denotes a span of time and can help when we need",
+          "link": "https://www.freecodecamp.org/news/how-to-use-timedelta-objects-in-python/",
+          "publishedOn": "2021-06-29T18:25:52.000Z",
+          "wordCount": 926,
+          "title": "How to Use timedelta Objects in Python to Work with Dates"
+        },
+        {
+          "id": "60d76f6f6e1a1407b6b0c521",
+          "author": null,
+          "description": "What is the Microsoft Security, Compliance, and Identity Fundamentals?The Microsoft Security, Compliance and Identity Fundamentals Certification is an essential entry-level certification into Azure and Microsoft Security. In recent years we've seen a significant shift in the work environment where companies allow employees to work from home.  The increase of",
+          "link": "https://www.freecodecamp.org/news/microsoft-security-compliance-certification-sc-900/",
+          "publishedOn": "2021-06-29T13:24:44.000Z",
+          "wordCount": 684,
+          "title": "Microsoft Security, Compliance, and Identity Fundamentals (SC-900) – Pass the Exam With This Free 3.5 Hour Course"
+        },
         {
           "id": "60d61acc6e1a1407b6b0bd46",
           "author": null,
