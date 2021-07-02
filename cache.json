@@ -6,6 +6,42 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342994",
+          "author": "Chris Coyier",
+          "description": "This is a super niche blog post. But it’s been on my list forever to write down because this caused me grief for far too long.\nThe setup is that you can use WooCommerce to sell things on a WordPress …\nThe post The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-trick-to-enable-printify-shipping-notifications-for-orders-in-woocommerce-customer-notes/",
+          "publishedOn": "2021-07-02T00:02:51.000Z",
+          "wordCount": 1151,
+          "title": "The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes."
+        },
+        {
+          "id": "https://css-tricks.com/?p=343637",
+          "author": "Chris Coyier",
+          "description": "The marketing for Core Web Vitals (CWV) has been a massive success. I guess that’s what happens when the world’s dominant search engine tells people that something’s going to be an SEO factor. Ya know what language can play a …\nThe post CSS for Web Vitals appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/css-web-vitals/",
+          "publishedOn": "2021-07-01T18:54:45.000Z",
+          "wordCount": 1639,
+          "title": "CSS for Web Vitals"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342591",
+          "author": "Chris Coyier",
+          "description": "This is new stuff from DO.\nApp Platform is a hosting product, no surprise there, but it has some features that are Jamstack-inspired in the best possible way, and an additional set of unique and powerful features. Let’s start with …\nThe post App Platform on Digital Ocean appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/app-platform-on-digital-ocean/",
+          "publishedOn": "2021-07-01T18:54:12.000Z",
+          "wordCount": 953,
+          "title": "App Platform on Digital Ocean"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343092",
+          "author": "Cassidy Williams",
+          "description": "If you’re anything like me, you like being lazy shortcuts. The “Deploy to Netlify” button allows me to take this lovely feature of my personality and be productive with it.\n\nClicking the button above lets me (or you!) instantly …\nThe post Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hack-the-deploy-to-netlify-button-using-environment-variables-to-make-a-customizable-site-generator/",
+          "publishedOn": "2021-07-01T14:40:14.000Z",
+          "wordCount": 1576,
+          "title": "Hack the “Deploy to Netlify” Button Using Environment Variables to Make a Customizable Site Generator"
+        },
+        {
           "id": "https://css-tricks.com/?p=343224",
           "author": "Chris Coyier",
           "description": "I got this exact question in an email the other day, and I thought it would make a nice blog post because of how wonderfully satisfying this is to do in CSS these days. Plus we can sprinkle in polish …\nThe post How do you make a layout with pictures down one side of a page matched up with paragraphs on the other side? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -481,33 +517,6 @@
           "publishedOn": "2021-06-02T13:35:40.000Z",
           "wordCount": 1058,
           "title": "Are Custom Properties a “Menu of What Will Change”?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341720",
-          "author": "Chris Coyier",
-          "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://ped.ro/blog/code-blocks-but-better",
-          "publishedOn": "2021-06-01T22:08:48.000Z",
-          "wordCount": 3202,
-          "title": "Code blocks, but better"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341342",
-          "author": "Evgeny Klimenchenko",
-          "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
-          "publishedOn": "2021-06-01T14:17:43.000Z",
-          "wordCount": 3850,
-          "title": "Front-End Testing is For Everyone"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341296",
-          "author": "Geoff Graham",
-          "description": "Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…\nThe post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/",
-          "publishedOn": "2021-06-01T14:16:55.000Z",
-          "wordCount": 926,
-          "title": "Jetpack Boost Handles Critical CSS For You"
         }
       ]
     },
@@ -516,6 +525,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
+          "author": "hello@smashingmagazine.com (Ramona Schwering)",
+          "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. In sum, they can lead to lousy maintainability, slow execution time, and — in the worst case — tests you cannot trust. But it doesn’t have to be that way. In this article, I will talk about common mistakes developers make, at least in my experience, and, of course, how to avoid them. Testing doesn’t need to be painful, after all.",
+          "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
+          "publishedOn": "2021-07-01T12:30:00.000Z",
+          "wordCount": 4769,
+          "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
           "author": "hello@smashingmagazine.com (Surma)",
@@ -893,48 +916,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.",
-          "link": "https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/",
-          "publishedOn": "2021-06-02T12:30:00.000Z",
-          "wordCount": 4327,
-          "title": "How To Fix Cumulative Layout Shift (CLS) Issues",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87fbe5f9-d311-4542-a3f0-14e860415946/cumulative-layout-shift-issues.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
-          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
-          "description": "Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.",
-          "link": "https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/",
-          "publishedOn": "2021-06-02T10:30:00.000Z",
-          "wordCount": 5393,
-          "title": "Improving The Performance Of An Online Store (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8a350bf5-9114-420c-b587-fee03ea4acb6/jewellerybox-uk-online-store-scipioerp.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
-          "publishedOn": "2021-06-01T14:00:00.000Z",
-          "wordCount": 7115,
-          "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -943,6 +924,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60dc72b527f80207bcdbbd8f",
+          "author": null,
+          "description": "In this article, I'm going to show you how to theme your website so users can customize certain elements to their tastes.  We'll talk about website themes, how theming works, and we'll end with a demo so you can see it in action. Let's dive in. Table of Contents:What",
+          "link": "https://www.freecodecamp.org/news/website-theming-with-css-custom-properties-and-gatsbyjs/",
+          "publishedOn": "2021-07-01T18:19:21.000Z",
+          "wordCount": 3084,
+          "title": "What is Website Theming? How to Use CSS Custom Properties and Gatsby.js to Customize Your Site"
+        },
+        {
+          "id": "60c0897ad3126007592d5701",
+          "author": null,
+          "description": "Listing items on a web page is a common task you'll have to do as a web developer. You may have to list shopping cart items, the order of students based on their grades, dogs with the loudest bark – and so on. So you need to know the different ways",
+          "link": "https://www.freecodecamp.org/news/html-list-how-to-use-bullet-points-ordered-and-unordered-lists/",
+          "publishedOn": "2021-07-01T18:02:56.000Z",
+          "wordCount": 1769,
+          "title": "HTML List – How to Use Bullet Points, Ordered, and Unordered Lists"
+        },
+        {
+          "id": "60d5e7ae6e1a1407b6b0bc5a",
+          "author": null,
+          "description": "The backend of a website can be written in many different programming languages. It is becoming increasingly common for to use Python for the backend of a website. We just published a full backend web development with Python course on the freeCodeCamp.org YouTube channel. This comprehensive course is for",
+          "link": "https://www.freecodecamp.org/news/backend-web-development-with-python-full-course/",
+          "publishedOn": "2021-07-01T16:51:30.000Z",
+          "wordCount": 79275,
+          "title": "Backend Web Development with Python - Full Course"
+        },
+        {
+          "id": "60dc78e927f80207bcdbbddc",
+          "author": null,
+          "description": "Hello freeCodeCamp community! I'm Dilan, a PhD candidate in sociology at Boston University. I'm an absolute coding newbie, but I do know a bit about surveys. 😃 I have been working with freeCodeCamp founder Quincy Larson over the past few months to design the 2021 New Coder Survey. And I'm thrilled",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey/",
+          "publishedOn": "2021-07-01T04:36:31.000Z",
+          "wordCount": 942,
+          "title": "The 2021 New Coder Survey is Now Live – and Here&#x27;s How We Designed It"
+        },
         {
           "id": "6063b8d69618b008528a9d79",
           "author": null,
@@ -1725,51 +1742,6 @@
           "publishedOn": "2021-06-02T14:45:18.000Z",
           "wordCount": 3302,
           "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
-        },
-        {
-          "id": "60b5025111ffb70827ef9ebe",
-          "author": null,
-          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
-          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
-          "publishedOn": "2021-06-01T23:47:33.000Z",
-          "wordCount": 1861,
-          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
-        },
-        {
-          "id": "60b1eed311ffb70827ef9504",
-          "author": null,
-          "description": "A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the",
-          "link": "https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/",
-          "publishedOn": "2021-06-01T20:47:43.000Z",
-          "wordCount": 1416,
-          "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
-        },
-        {
-          "id": "60b668c0acb62507dd1d710b",
-          "author": null,
-          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
-          "link": "https://www.freecodecamp.org/news/learn-next-js/",
-          "publishedOn": "2021-06-01T17:43:56.000Z",
-          "wordCount": 407,
-          "title": "Learn Next.js and Make React Development Simpler"
-        },
-        {
-          "id": "60acf28e11ffb70827ef6dd9",
-          "author": null,
-          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how",
-          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/",
-          "publishedOn": "2021-06-01T16:35:00.000Z",
-          "wordCount": 2823,
-          "title": "My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source"
-        },
-        {
-          "id": "60aff2d711ffb70827ef8829",
-          "author": null,
-          "description": "This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/",
-          "publishedOn": "2021-06-01T16:34:00.000Z",
-          "wordCount": 2137,
-          "title": "How to Get a Cybersecurity Job in 2021"
         }
       ]
     }
