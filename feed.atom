@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-02T00:54:29.390Z</updated>
+    <updated>2021-07-03T00:53:43.494Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zero-Width Space]]></title>
+        <id>https://css-tricks.com/?p=343435</id>
+        <link href="https://css-tricks.com/zero-width-space/"/>
+        <updated>2021-07-02T20:39:04.000Z</updated>
+        <summary type="html"><![CDATA[The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…
+The post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Meetings]]></title>
+        <id>https://css-tricks.com/?p=342995</id>
+        <link href="https://css-tricks.com/good-meetings/"/>
+        <updated>2021-07-02T14:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …
+The post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Sarah Drasner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Testing Flow As It Should Be]]></title>
+        <id>https://smashingmagazine.com/2021/07/email-testing-flow/</id>
+        <link href="https://smashingmagazine.com/2021/07/email-testing-flow/"/>
+        <updated>2021-07-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andriy Zapisotskyi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features]]></title>
+        <id>60de3cf127f80207bcdbc9af</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/"/>
+        <updated>2021-07-02T04:55:18.000Z</updated>
+        <summary type="html"><![CDATA[We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Trick to Enable Printify Shipping Notifications for Orders in WooCommerce? Customer Notes.]]></title>
         <id>https://css-tricks.com/?p=342994</id>
@@ -1790,126 +1832,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
 It’ll start running tests, and you’ve immediately got performance charts you can …
 The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
-        <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
-        <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
-        <updated>2021-06-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Commit Signing in Git?]]></title>
-        <id>60afce3011ffb70827ef869c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-commit-signing-in-git/"/>
-        <updated>2021-06-02T23:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Git has a feature to "sign" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Environment Variables in VanillaJS]]></title>
-        <id>60b3a25211ffb70827ef9b39</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/"/>
-        <updated>2021-06-02T22:54:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Your Own Learning Plan for Any Tech Stack]]></title>
-        <id>60b3ccee11ffb70827ef9bc0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/"/>
-        <updated>2021-06-02T21:18:15.000Z</updated>
-        <summary type="html"><![CDATA[One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
-        <id>https://css-tricks.com/?p=341724</id>
-        <link href="https://css-tricks.com/debugging-ios-safari/"/>
-        <updated>2021-06-02T21:15:28.000Z</updated>
-        <summary type="html"><![CDATA[How do I debug Safari on iOS?
-These are my general steps, starting with not even using iOS Safari.
-1. Is this just a small-screen problem?
-Lemme just use the device mode in Chrome quick.
-Note that this does a …
-The post Debugging iOS Safari appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More]]></title>
-        <id>60a699b0906c5207e3a7f5ab</id>
-        <link href="https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"/>
-        <updated>2021-06-02T20:44:22.000Z</updated>
-        <summary type="html"><![CDATA[Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetch API – How to Make a GET Request and POST Request in JavaScript]]></title>
-        <id>60b0f11411ffb70827ef8dbc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/"/>
-        <updated>2021-06-02T19:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project]]></title>
-        <id>60b4ff4711ffb70827ef9eb2</id>
-        <link href="https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/"/>
-        <updated>2021-06-02T19:14:53.000Z</updated>
-        <summary type="html"><![CDATA[What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦]]></title>
-        <id>60b51f6e11ffb70827ef9f7c</id>
-        <link href="https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/"/>
-        <updated>2021-06-02T14:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
-        <id>https://css-tricks.com/?p=341442</id>
-        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
-        <updated>2021-06-02T13:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
-The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Dmitry Mayorov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
-        <id>https://css-tricks.com/?p=341572</id>
-        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
-        <updated>2021-06-02T13:35:40.000Z</updated>
-        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
-The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
