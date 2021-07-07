@@ -2,10 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-06T00:57:52.286Z</updated>
+    <updated>2021-07-07T00:57:36.253Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automatically Upload an Android App Bundle to the Play Store]]></title>
+        <id>60e16e1b134ad707be00d6bc</id>
+        <link href="https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/"/>
+        <updated>2021-07-06T21:08:39.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Body Toggle]]></title>
+        <id>https://css-tricks.com/?p=343438</id>
+        <link href="https://css-tricks.com/body-toggle/"/>
+        <updated>2021-07-06T20:55:45.000Z</updated>
+        <summary type="html"><![CDATA[I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:
+It’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.
+<body onclick="this.classList.toggle("active");"
+Could …
+The post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve got one question about Jetpack for you.]]></title>
+        <id>https://css-tricks.com/?p=343560</id>
+        <link href="https://css-tricks.com/ive-got-one-question-about-jetpack-for-you/"/>
+        <updated>2021-07-06T20:00:30.000Z</updated>
+        <summary type="html"><![CDATA[And maybe an optional follow-up if you’re up for it.
+Automattic, the makers of Jetpack and many other WordPress-y things, have sponsored my site (me = Chris Coyier; site = CSS-Tricks) for quite a while. I use Jetpack myself, …
+The post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Authenticate Users and Implement CORS in Node.js Apps]]></title>
+        <id>60b22e9611ffb70827ef9547</id>
+        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/"/>
+        <updated>2021-07-06T16:02:13.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 JavaScript Tips to Improve Your React Code]]></title>
+        <id>60df35f027f80207bcdbccea</id>
+        <link href="https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/"/>
+        <updated>2021-07-06T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dilemma of Naming Font Size Variables]]></title>
+        <id>https://css-tricks.com/?p=343149</id>
+        <link href="https://css-tricks.com/the-dilemma-of-naming-font-size-variables/"/>
+        <updated>2021-07-06T14:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Normally, a project will have a set of pre-determined font sizes, usually as variables named in such a way that seeks some semblance of order and consistency. Any project of considerable size can use something like that. There are always …
+The post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Martin Lexelius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule a Job in Node Using node-cron]]></title>
+        <id>60aa196411ffb70827ef5f43</id>
+        <link href="https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/"/>
+        <updated>2021-07-06T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Choose A Headless CMS]]></title>
+        <id>https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/</id>
+        <link href="https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/"/>
+        <updated>2021-07-06T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Emmanuel Tissera)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Explained Simply: Containers, Pods and Images]]></title>
         <id>https://css-tricks.com/?p=343166</id>
@@ -1698,16 +1785,6 @@ The post VS Code Extensions for HTML appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
-        <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
-        <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
-        <updated>2021-06-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
         </author>
     </entry>
 </feed>

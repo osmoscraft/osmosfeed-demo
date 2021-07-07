@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343438",
+          "author": "Chris Coyier",
+          "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/body-toggle/",
+          "publishedOn": "2021-07-06T20:55:45.000Z",
+          "wordCount": 385,
+          "title": "Body Toggle"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343560",
+          "author": "Chris Coyier",
+          "description": "And maybe an optional follow-up if you’re up for it.\nAutomattic, the makers of Jetpack and many other WordPress-y things, have sponsored my site (me = Chris Coyier; site = CSS-Tricks) for quite a while. I use Jetpack myself, …\nThe post I’ve got one question about Jetpack for you. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/ive-got-one-question-about-jetpack-for-you/",
+          "publishedOn": "2021-07-06T20:00:30.000Z",
+          "wordCount": 391,
+          "title": "I’ve got one question about Jetpack for you."
+        },
+        {
+          "id": "https://css-tricks.com/?p=343149",
+          "author": "Martin Lexelius",
+          "description": "Normally, a project will have a set of pre-determined font sizes, usually as variables named in such a way that seeks some semblance of order and consistency. Any project of considerable size can use something like that. There are always …\nThe post The Dilemma of Naming Font Size Variables appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-dilemma-of-naming-font-size-variables/",
+          "publishedOn": "2021-07-06T14:41:22.000Z",
+          "wordCount": 2452,
+          "title": "The Dilemma of Naming Font Size Variables"
+        },
+        {
           "id": "https://css-tricks.com/?p=343166",
           "author": "Lari Maza",
           "description": "If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!\nAs a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …\nThe post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -508,6 +535,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
+          "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
+          "description": "There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.",
+          "link": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
+          "publishedOn": "2021-07-06T10:30:00.000Z",
+          "wordCount": 4121,
+          "title": "How To Choose A Headless CMS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fa37a67-9079-4b4d-9489-fcd87c7c3807/how-to-choose-a-headless-cms.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
           "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
           "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
@@ -884,20 +925,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-          "author": "hello@smashingmagazine.com (Prince Chukwudire)",
-          "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
-          "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
-          "publishedOn": "2021-06-07T11:00:00.000Z",
-          "wordCount": 2206,
-          "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -906,6 +933,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e16e1b134ad707be00d6bc",
+          "author": null,
+          "description": "In this article, I'm going to explain how to automatically upload an Android App Bundle (.aab file) to the Play Store's beta track. We'll use Android Studio and AWS as a cloud infrastructure provider.  Once we've uploaded the app bundle, we'll trigger a Slack notification.  This is a valuable use",
+          "link": "https://www.freecodecamp.org/news/automatically-upload-an-android-app-bundle-to-the-play-store/",
+          "publishedOn": "2021-07-06T21:08:39.000Z",
+          "wordCount": 2504,
+          "title": "How to Automatically Upload an Android App Bundle to the Play Store"
+        },
+        {
+          "id": "60b22e9611ffb70827ef9547",
+          "author": null,
+          "description": "In this tutorial, you will learn how to authenticate users and secure endpoints in Node.js. You'll also see how to implement Cross-Origin Resource Sharing (CORS) in Node. So let's get started.  Prerequisites You'll need the following to follow along with this tutorial:  A working understanding of JavaScript. A good",
+          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-and-implement-cors-in-nodejs-applications/",
+          "publishedOn": "2021-07-06T16:02:13.000Z",
+          "wordCount": 2286,
+          "title": "How to Authenticate Users and Implement CORS in Node.js Apps"
+        },
+        {
+          "id": "60df35f027f80207bcdbccea",
+          "author": null,
+          "description": "Let's look at five JavaScript tips you can use today to instantly improve your React applications.  Because React is a JavaScript library, any improvements that we make in our JavaScript skills will directly improve the applications that we build with React. For this reason, I've put together a number of",
+          "link": "https://www.freecodecamp.org/news/javascript-tips-to-improve-your-react-code-today/",
+          "publishedOn": "2021-07-06T15:12:00.000Z",
+          "wordCount": 1570,
+          "title": "5 JavaScript Tips to Improve Your React Code"
+        },
+        {
+          "id": "60aa196411ffb70827ef5f43",
+          "author": null,
+          "description": "In this article, you will learn how to schedule a job in Node using node-cron.  Node-cron is a handy npm package which you can use to schedule jobs to run at specific times or intervals. It is most suitable for scheduling repetitive jobs such as email notifications, file downloads, and",
+          "link": "https://www.freecodecamp.org/news/schedule-a-job-in-node-with-nodecron/",
+          "publishedOn": "2021-07-06T14:27:26.000Z",
+          "wordCount": 2989,
+          "title": "How to Schedule a Job in Node Using node-cron"
+        },
         {
           "id": "60de3cf127f80207bcdbc9af",
           "author": null,
