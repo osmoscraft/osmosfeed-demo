@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=343495",
+          "author": "Chris Coyier",
+          "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-look-at-building-with-astro/",
+          "publishedOn": "2021-07-07T21:06:35.000Z",
+          "wordCount": 2391,
+          "title": "A Look at Building with Astro"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343388",
+          "author": "Robin Rendle",
+          "description": "There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…\nThe post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-webs-worst-default/",
+          "publishedOn": "2021-07-07T14:30:34.000Z",
+          "wordCount": 1322,
+          "title": "The Web’s Worst Default"
+        },
+        {
           "id": "https://css-tricks.com/?p=343438",
           "author": "Chris Coyier",
           "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -508,24 +526,6 @@
           "publishedOn": "2021-06-08T14:16:07.000Z",
           "wordCount": 708,
           "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341805",
-          "author": "Chris Coyier",
-          "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-accessibility/",
-          "publishedOn": "2021-06-07T19:52:26.000Z",
-          "wordCount": 599,
-          "title": "Links on Accessibility"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340390",
-          "author": "Chris Coyier",
-          "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/vs-code-extensions-for-html/",
-          "publishedOn": "2021-06-07T14:13:50.000Z",
-          "wordCount": 1453,
-          "title": "VS Code Extensions for HTML"
         }
       ]
     },
@@ -534,6 +534,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
+          "author": "hello@smashingmagazine.com (Emiliano Cicero)",
+          "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
+          "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
+          "publishedOn": "2021-07-07T11:00:00.000Z",
+          "wordCount": 4044,
+          "title": "An Introduction To Figma Interactive Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
           "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
@@ -911,20 +925,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
-          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
-          "publishedOn": "2021-06-08T12:00:00.000Z",
-          "wordCount": 2102,
-          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -933,6 +933,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e521aa134ad707be00e41d",
+          "author": null,
+          "description": "Objects are one of the most valuable things you can learn in Javascript. You can use them to take your programs to the next level.  An object is a collection of data – or key value pairs – which consist of variables and functions that you can access using dot notation. Now",
+          "link": "https://www.freecodecamp.org/news/what-is-a-javascript-object/",
+          "publishedOn": "2021-07-07T22:04:00.000Z",
+          "wordCount": 761,
+          "title": "What is a JavaScript Object? Key Value Pairs and Dot Notation Explained"
+        },
+        {
+          "id": "60ccd1794dc1a607ed7b4feb",
+          "author": null,
+          "description": "A lot of people want to learn machine learning these days. But the daunting bottom-up curriculum that most ML teachers propose is enough discourage a lot of newcomers.  In this tutorial I flip the curriculum upside down and will outline what I think is the fastest and easiest way to",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-machine-learning-practical-tips-and-resources/",
+          "publishedOn": "2021-07-07T17:28:00.000Z",
+          "wordCount": 5411,
+          "title": "How to Learn Machine Learning – Tips and Resources to Learn ML the Practical Way"
+        },
+        {
+          "id": "60e25e17134ad707be00d947",
+          "author": null,
+          "description": "List comprehension is an easy to read, compact, and elegant way of creating a list from any existing iterable object. Basically, it's a simpler way to create a new list from the values in a list you already have. It is generally a single line of code enclosed in square",
+          "link": "https://www.freecodecamp.org/news/list-comprehension-in-python/",
+          "publishedOn": "2021-07-07T17:25:39.000Z",
+          "wordCount": 1592,
+          "title": "List Comprehension in Python Explained for Beginners"
+        },
+        {
+          "id": "60c38e76d3126007592d66cd",
+          "author": null,
+          "description": "I've carefully gone through over 50 resources, I've been through 10 JavaScript interviews, and I've landed a job at a unicorn startup. And throughout this entire process, I started to see a pattern in the most frequently asked JS interview questions.  In this article, I have tried to list the",
+          "link": "https://www.freecodecamp.org/news/javascript-interview-prep-cheatsheet/",
+          "publishedOn": "2021-07-07T15:43:17.000Z",
+          "wordCount": 4364,
+          "title": "JavaScript Interview Prep Cheatsheet – Ace Your Coding Interviews with These Concepts"
+        },
+        {
+          "id": "60d5ec446e1a1407b6b0bcae",
+          "author": null,
+          "description": "Binary search is a common algorithm used in programming languages and programs. It can be very useful for programmers to understand how it works. We just released a binary search course on the freeCodeCamp.org YouTube channel. You will learn how to implement binary search in C and C++, but",
+          "link": "https://www.freecodecamp.org/news/what-is-binary-search/",
+          "publishedOn": "2021-07-07T13:57:56.000Z",
+          "wordCount": 13488,
+          "title": "What is Binary Search?"
+        },
         {
           "id": "60e16e1b134ad707be00d6bc",
           "author": null,
@@ -968,6 +1013,15 @@
           "publishedOn": "2021-07-06T14:27:26.000Z",
           "wordCount": 2989,
           "title": "How to Schedule a Job in Node Using node-cron"
+        },
+        {
+          "id": "60df6dd827f80207bcdbcf06",
+          "author": null,
+          "description": "Earning the Certified Information Systems Security Professional (CISSP) Certification proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program. The CISSP is one of the most valuable Cyber Security Certificates in the market today.  We just posted a 13-hour course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/get-ready-to-pass-cissp-exam/",
+          "publishedOn": "2021-07-06T13:55:00.000Z",
+          "wordCount": 109640,
+          "title": "Get Ready to Pass CISSP Exam"
         },
         {
           "id": "60de3cf127f80207bcdbc9af",
@@ -1598,42 +1652,6 @@
           "publishedOn": "2021-06-08T16:02:45.000Z",
           "wordCount": 2548,
           "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
-        },
-        {
-          "id": "60bbd28eacb62507dd1d99fb",
-          "author": null,
-          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
-          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
-          "publishedOn": "2021-06-07T23:33:30.000Z",
-          "wordCount": 3567,
-          "title": "How to Build a Full Stack App with Supabase and Next.js"
-        },
-        {
-          "id": "60be863cd3126007592d4c36",
-          "author": null,
-          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
-          "publishedOn": "2021-06-07T20:54:41.000Z",
-          "wordCount": 439,
-          "title": "How to Use OpenCV and Python for Computer Vision and AI"
-        },
-        {
-          "id": "5ff625967af2371468bb8645",
-          "author": null,
-          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
-          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
-          "publishedOn": "2021-06-07T18:18:01.000Z",
-          "wordCount": 1597,
-          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b136d911ffb70827ef912b",
-          "author": null,
-          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
-          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
-          "publishedOn": "2021-06-07T15:01:26.000Z",
-          "wordCount": 1547,
-          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
         }
       ]
     }
