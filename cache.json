@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344024",
+          "author": "Chris Coyier",
+          "description": "Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …\nThe post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://wesbos.com/javascript",
+          "publishedOn": "2021-07-08T22:25:22.000Z",
+          "wordCount": 700,
+          "title": "Beginner JavaScript Notes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343623",
+          "author": "Amit Sheen",
+          "description": "The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …\nThe post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/",
+          "publishedOn": "2021-07-08T14:35:38.000Z",
+          "wordCount": 1712,
+          "title": "My Struggle to Use and Animate a Conic Gradient in SVG"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343574",
+          "author": "Fortune Ikechi",
+          "description": "Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …\nThe post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/",
+          "publishedOn": "2021-07-08T14:35:09.000Z",
+          "wordCount": 1131,
+          "title": "Building a Command Line Tool with Nodejs and Fauna"
+        },
+        {
           "id": "https://css-tricks.com/?p=343495",
           "author": "Chris Coyier",
           "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -508,24 +535,6 @@
           "publishedOn": "2021-06-09T14:37:31.000Z",
           "wordCount": 858,
           "title": "target=blank"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341982",
-          "author": "Todd Libby",
-          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
-          "publishedOn": "2021-06-08T18:31:08.000Z",
-          "wordCount": 3036,
-          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341884",
-          "author": "Chris Coyier",
-          "description": "WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.\nAt first, the site …\nThe post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/",
-          "publishedOn": "2021-06-08T14:16:07.000Z",
-          "wordCount": 708,
-          "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
         }
       ]
     },
@@ -534,6 +543,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
+          "author": "hello@smashingmagazine.com (Uma Victor)",
+          "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
+          "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
+          "publishedOn": "2021-07-08T11:00:00.000Z",
+          "wordCount": 4784,
+          "title": "Tools And Practices To Speed Up The Vue.js Development Process",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
           "author": "hello@smashingmagazine.com (Emiliano Cicero)",
@@ -911,20 +934,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.",
-          "link": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "publishedOn": "2021-06-09T10:30:00.000Z",
-          "wordCount": 2603,
-          "title": "Meet <code>:has</code>, A Native CSS Parent Selector (And More)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/89aef48d-9be9-45df-a7f4-775168deb8dd/has-native-css-parent-selector.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -933,6 +942,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e59724134ad707be00e5d1",
+          "author": null,
+          "description": "This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at",
+          "link": "https://www.freecodecamp.org/news/how-to-use-feature-toggles-in-next-js-and-react/",
+          "publishedOn": "2021-07-08T17:13:58.000Z",
+          "wordCount": 2850,
+          "title": "Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes"
+        },
+        {
+          "id": "60e3ae66134ad707be00dbdb",
+          "author": null,
+          "description": "Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These",
+          "link": "https://www.freecodecamp.org/news/build-accessible-vue-applications/",
+          "publishedOn": "2021-07-08T16:23:19.000Z",
+          "wordCount": 1935,
+          "title": "How to Build Accessible Vue Applications"
+        },
+        {
+          "id": "60df723627f80207bcdbcf36",
+          "author": null,
+          "description": "According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the",
+          "link": "https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/",
+          "publishedOn": "2021-07-08T15:44:30.000Z",
+          "wordCount": 68137,
+          "title": "Learn React JS in This Free 7-Hour Course"
+        },
         {
           "id": "60e521aa134ad707be00e41d",
           "author": null,
@@ -1616,42 +1652,6 @@
           "publishedOn": "2021-06-09T18:43:07.000Z",
           "wordCount": 336,
           "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
-        },
-        {
-          "id": "60bfa4d4d3126007592d5160",
-          "author": null,
-          "description": "Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/",
-          "publishedOn": "2021-06-08T23:47:43.000Z",
-          "wordCount": 9491,
-          "title": "How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud"
-        },
-        {
-          "id": "60bfd986d3126007592d53a1",
-          "author": null,
-          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
-          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
-          "publishedOn": "2021-06-08T21:05:13.000Z",
-          "wordCount": 639,
-          "title": "Create Your Own Electronics With Arduino - Full Course"
-        },
-        {
-          "id": "60b23b8911ffb70827ef954e",
-          "author": null,
-          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
-          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
-          "publishedOn": "2021-06-08T16:17:32.000Z",
-          "wordCount": 1205,
-          "title": "How to Pass Data and Events Between Components in React"
-        },
-        {
-          "id": "60be6a3cd3126007592d4a03",
-          "author": null,
-          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
-          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
-          "publishedOn": "2021-06-08T16:02:45.000Z",
-          "wordCount": 2548,
-          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
         }
       ]
     }

@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-08T00:54:33.431Z</updated>
+    <updated>2021-07-09T00:56:46.803Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beginner JavaScript Notes]]></title>
+        <id>https://css-tricks.com/?p=344024</id>
+        <link href="https://wesbos.com/javascript"/>
+        <updated>2021-07-08T22:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …
+The post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Your Own Feature Toggle with Next.js and React in Under 30 Minutes]]></title>
+        <id>60e59724134ad707be00e5d1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-feature-toggles-in-next-js-and-react/"/>
+        <updated>2021-07-08T17:13:58.000Z</updated>
+        <summary type="html"><![CDATA[This post will show you how to build the Feature Toggle mechanism in your Next.JS application.  We are going to use Next.JS, React, and TypeScript. We will deploy our application to Vercel to demonstrate the real-life example. You can find the code and video in the summary at]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Accessible Vue Applications]]></title>
+        <id>60e3ae66134ad707be00dbdb</id>
+        <link href="https://www.freecodecamp.org/news/build-accessible-vue-applications/"/>
+        <updated>2021-07-08T16:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Developing web pages used to involve writing HTML, CSS, and a little scripting code like JavaScript for functionality.  But over time, we've developed new and more advanced technologies and frameworks to create webpages. We now use things like reusable components, routing, and rendering to the document object model (DOM).  These]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React JS in This Free 7-Hour Course]]></title>
+        <id>60df723627f80207bcdbcf36</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-js-in-this-free-7-hour-course/"/>
+        <updated>2021-07-08T15:44:30.000Z</updated>
+        <summary type="html"><![CDATA[According to Google trends, React is the most popular JavaScript frontend framework. Unless you're in the U.S. state of Nebraska, that is. 😀 Google Trends (React vs Angular)React is a declarative, efficient, and flexible JavaScript library for building user interfaces. We just released a full React course on the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Struggle to Use and Animate a Conic Gradient in SVG]]></title>
+        <id>https://css-tricks.com/?p=343623</id>
+        <link href="https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/"/>
+        <updated>2021-07-08T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …
+The post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Command Line Tool with Nodejs and Fauna]]></title>
+        <id>https://css-tricks.com/?p=343574</id>
+        <link href="https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/"/>
+        <updated>2021-07-08T14:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …
+The post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Fortune Ikechi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tools And Practices To Speed Up The Vue.js Development Process]]></title>
+        <id>https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/</id>
+        <link href="https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/"/>
+        <updated>2021-07-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Uma Victor)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a JavaScript Object? Key Value Pairs and Dot Notation Explained]]></title>
         <id>60e521aa134ad707be00e41d</id>
@@ -1724,81 +1797,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
 </a
 Welp, that’s correct syntax!…
 The post target=blank appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
-        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
-        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
-        <updated>2021-06-09T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
-        <id>60bfa4d4d3126007592d5160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
-        <updated>2021-06-08T23:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
-        <id>60bfd986d3126007592d53a1</id>
-        <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
-        <updated>2021-06-08T21:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
-        <id>https://css-tricks.com/?p=341982</id>
-        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
-        <updated>2021-06-08T18:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
-The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Todd Libby</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
-        <id>60b23b8911ffb70827ef954e</id>
-        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
-        <updated>2021-06-08T16:17:32.000Z</updated>
-        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
-        <id>60be6a3cd3126007592d4a03</id>
-        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
-        <updated>2021-06-08T16:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
-        <id>https://css-tricks.com/?p=341884</id>
-        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
-        <updated>2021-06-08T14:16:07.000Z</updated>
-        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
-At first, the site …
-The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
