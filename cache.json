@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344334",
+          "author": "Chris Coyier",
+          "description": "This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …\nThe post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/",
+          "publishedOn": "2021-07-09T18:53:51.000Z",
+          "wordCount": 1281,
+          "title": ":focus-visible in WebKit"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343598",
+          "author": "Philippe Bernard",
+          "description": "Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?\nThe task is more non-trivial than you might think. As we will see in this …\nThe post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/svg-favicons-in-action/",
+          "publishedOn": "2021-07-09T14:31:57.000Z",
+          "wordCount": 2079,
+          "title": "SVG Favicons in Action"
+        },
+        {
           "id": "https://css-tricks.com/?p=344024",
           "author": "Chris Coyier",
           "description": "Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …\nThe post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -517,24 +535,6 @@
           "publishedOn": "2021-06-10T14:26:47.000Z",
           "wordCount": 2892,
           "title": "Building a Headless CMS with Fauna and Vercel Functions"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340967",
-          "author": "Geoff Graham",
-          "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-cornucopia-of-container-queries/",
-          "publishedOn": "2021-06-09T20:37:00.000Z",
-          "wordCount": 1534,
-          "title": "A Cornucopia of Container Queries"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341916",
-          "author": "Chris Coyier",
-          "description": "Does that make your eye twitch a little bit? Like… it’s a typo. It should be target=\"_blank\" with an underscore to start the value. As in…\n<a target=\"_blank\" href=\"https://codepen.io\"Open CodePen in a New Tab\n</a\nWelp, that’s correct syntax!…\nThe post target=blank appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/targetblank/",
-          "publishedOn": "2021-06-09T14:37:31.000Z",
-          "wordCount": 858,
-          "title": "target=blank"
         }
       ]
     },
@@ -543,6 +543,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
+          "author": "hello@smashingmagazine.com (Todd Libby)",
+          "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
+          "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
+          "publishedOn": "2021-07-09T10:30:00.000Z",
+          "wordCount": 2948,
+          "title": "Making A Strong Case For Accessibility",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
           "author": "hello@smashingmagazine.com (Uma Victor)",
@@ -920,20 +934,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "author": "hello@smashingmagazine.com (Stefan Judis)",
-          "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
-          "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
-          "publishedOn": "2021-06-10T11:15:00.000Z",
-          "wordCount": 747,
-          "title": "Three Front-End Auditing Tools I Discovered Recently",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -942,6 +942,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e8864de8ee9b08300ecc3f",
+          "author": null,
+          "description": "There are literally 100s of great React libraries to choose from, but which libraries do you need most for your React projects?  In this article, we're going to break down five libraries you need for your React projects. Each of them will cover virtually every major tool you need, plus",
+          "link": "https://www.freecodecamp.org/news/5-react-libraries-every-project-needs/",
+          "publishedOn": "2021-07-09T20:06:31.000Z",
+          "wordCount": 1729,
+          "title": "5 React Libraries Every Project Should Use in 2021"
+        },
+        {
+          "id": "60e81c50134ad707be00f79f",
+          "author": null,
+          "description": "Hey everyone! In this article, I'm going to show you what's new in the latest of version of React – React 18 – in under 8 minutes.  First, you might be wondering whether the latest set of changes will break anything with your current setup, or whether you will have to learn",
+          "link": "https://www.freecodecamp.org/news/whats-new-in-react-18/",
+          "publishedOn": "2021-07-09T18:42:26.000Z",
+          "wordCount": 1930,
+          "title": "What&#x27;s New in React 18? Concurrency, Batching, the Transition API and More"
+        },
+        {
+          "id": "60dcb93727f80207bcdbc17e",
+          "author": null,
+          "description": "When you use code snippets in Visual Studio, it can make your coding process a lot easier and faster. But what are code snippets? And how can you use them? In this article, we'll look at how you can create code snippets in C#. Just keep in mind that snippets",
+          "link": "https://www.freecodecamp.org/news/how-to-automatically-generate-code-snippets-visual-studio/",
+          "publishedOn": "2021-07-09T18:28:18.000Z",
+          "wordCount": 3957,
+          "title": "How to Automatically Generate C# Code Snippets in Visual Studio"
+        },
+        {
+          "id": "5f9c986d740569d1a4ca1a04",
+          "author": null,
+          "description": "Nine years ago, universities like MIT and Stanford first opened up free online courses to the public. Today, close to 1,000 schools around the world have created thousands of free online courses. I’ve compiled this list of 760+ such free online courses that you can start this month.",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "publishedOn": "2021-07-09T18:04:00.000Z",
+          "wordCount": 6787,
+          "title": "760+ Free Online Programming &amp; Computer Science Courses You Can Start This July"
+        },
+        {
+          "id": "60ae6b0d11ffb70827ef7fe6",
+          "author": null,
+          "description": "If you look at any website or application today, somewhere under the hood there is a database. After all, we live in the world of Big Data. And the volume of data is growing exponentially.  With so much data at hand, we need ever more sophisticated ways to store it",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-nosql-database-with-ravendb/",
+          "publishedOn": "2021-07-09T15:06:24.000Z",
+          "wordCount": 1374,
+          "title": "How to Create a NoSQL Database with RavenDB"
+        },
         {
           "id": "60e59724134ad707be00e5d1",
           "author": null,
@@ -1616,42 +1661,6 @@
           "publishedOn": "2021-06-11T16:04:46.000Z",
           "wordCount": 1323,
           "title": "How to Level Up Your React Conditionals"
-        },
-        {
-          "id": "60b93afaacb62507dd1d8915",
-          "author": null,
-          "description": "You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data",
-          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/",
-          "publishedOn": "2021-06-10T11:35:00.000Z",
-          "wordCount": 583,
-          "title": "Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course"
-        },
-        {
-          "id": "60b357ad11ffb70827ef9a90",
-          "author": null,
-          "description": "Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to",
-          "link": "https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/",
-          "publishedOn": "2021-06-09T21:55:16.000Z",
-          "wordCount": 3477,
-          "title": "From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey"
-        },
-        {
-          "id": "60c0ccbed3126007592d5781",
-          "author": null,
-          "description": "Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog",
-          "link": "https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/",
-          "publishedOn": "2021-06-09T19:45:20.000Z",
-          "wordCount": 1731,
-          "title": "The Skills You Need to Start Freelancing as a Developer"
-        },
-        {
-          "id": "60c10a1dd3126007592d5988",
-          "author": null,
-          "description": "Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.",
-          "link": "https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/",
-          "publishedOn": "2021-06-09T18:43:07.000Z",
-          "wordCount": 336,
-          "title": "Learn Bootstrap 5 and SASS by Building a Portfolio Website"
         }
       ]
     }
