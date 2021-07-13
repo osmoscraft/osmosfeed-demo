@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344355",
+          "author": "Chris Coyier",
+          "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
+          "publishedOn": "2021-07-12T19:45:00.000Z",
+          "wordCount": 2791,
+          "title": "Meet `:has`, A Native CSS Parent Selector"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343613",
+          "author": "Mojtaba Seyedi",
+          "description": "I don’t know about you, but I write these three declarations many times in my CSS:\nul {\n  padding: 0;\n  margin: 0;\n  list-style-type: none;\n}\nYou might yell at me and say I can just put those in my CSS …\nThe post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/",
+          "publishedOn": "2021-07-12T14:30:34.000Z",
+          "wordCount": 855,
+          "title": "Using the Specificity of :where() as a CSS Reset"
+        },
+        {
           "id": "https://css-tricks.com/?p=344334",
           "author": "Chris Coyier",
           "description": "This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …\nThe post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -490,6 +508,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
+          "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
+          "publishedOn": "2021-07-12T13:30:00.000Z",
+          "wordCount": 3624,
+          "title": "Refactoring CSS: Introduction (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
           "author": "hello@smashingmagazine.com (Todd Libby)",
           "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
@@ -860,6 +892,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e753aa134ad707be00f2c1",
+          "author": null,
+          "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use",
+          "link": "https://www.freecodecamp.org/news/spss-full-course/",
+          "publishedOn": "2021-07-12T13:34:03.000Z",
+          "wordCount": 22122,
+          "title": "Learn How to Use SPSS to Explore and Analyze Data"
+        },
+        {
+          "id": "60e981aae8ee9b08300ed1ae",
+          "author": null,
+          "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",
+          "link": "https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/",
+          "publishedOn": "2021-07-12T11:46:56.000Z",
+          "wordCount": 899,
+          "title": "AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?"
+        },
+        {
+          "id": "60e76d88134ad707be00f347",
+          "author": null,
+          "description": "Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to",
+          "link": "https://www.freecodecamp.org/news/google-bigquery-beginners-guide/",
+          "publishedOn": "2021-07-12T11:26:39.000Z",
+          "wordCount": 1208,
+          "title": "Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets"
+        },
         {
           "id": "60e8864de8ee9b08300ecc3f",
           "author": null,
