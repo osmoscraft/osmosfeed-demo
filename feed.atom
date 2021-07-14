@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-13T00:57:42.125Z</updated>
+    <updated>2021-07-14T00:52:35.772Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Links on React and JavaScript]]></title>
+        <id>https://css-tricks.com/?p=344316</id>
+        <link href="https://css-tricks.com/links-on-react-and-javascript/"/>
+        <updated>2021-07-13T19:57:10.000Z</updated>
+        <summary type="html"><![CDATA[As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …
+The post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Theme Color and Trickery]]></title>
+        <id>https://css-tricks.com/?p=343850</id>
+        <link href="https://css-tricks.com/meta-theme-color-and-trickery/"/>
+        <updated>2021-07-13T14:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…
+The post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Manuel Matuzovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Community Survey 2021]]></title>
+        <id>https://css-tricks.com/?p=344542</id>
+        <link href="https://www.surveymonkey.com/r/jamstack-survey-css-tricks"/>
+        <updated>2021-07-13T14:34:48.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+The folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …
+The post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Git Branches Work]]></title>
+        <id>60e73db9134ad707be00f206</id>
+        <link href="https://www.freecodecamp.org/news/how-git-branches-work/"/>
+        <updated>2021-07-13T13:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Dynamic Header With Intersection Observer]]></title>
+        <id>https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/</id>
+        <link href="https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/"/>
+        <updated>2021-07-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Migrate From jQuery To Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/"/>
+        <updated>2021-07-13T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman]]></title>
+        <id>609692d82cd0545b5e9441ab</id>
+        <link href="https://www.freecodecamp.org/news/build-graphql-server-with-laravel/"/>
+        <updated>2021-07-13T07:54:34.000Z</updated>
+        <summary type="html"><![CDATA[GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Axios With React: The Definitive Guide (2021)]]></title>
+        <id>60e9c888e8ee9b08300ed212</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-axios-with-react/"/>
+        <updated>2021-07-13T07:36:28.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?]]></title>
+        <id>60e5b284134ad707be00e5e0</id>
+        <link href="https://www.freecodecamp.org/news/ui-ux-design-guide/"/>
+        <updated>2021-07-13T02:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
         <id>https://css-tricks.com/?p=344355</id>
@@ -1716,16 +1810,6 @@ The post Securing Your Website With Subresource Integrity appeared first on CSS-
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Khari McMillian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
-        <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
-        <link href="https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/"/>
-        <updated>2021-06-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>

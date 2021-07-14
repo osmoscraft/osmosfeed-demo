@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344316",
+          "author": "Chris Coyier",
+          "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-react-and-javascript/",
+          "publishedOn": "2021-07-13T19:57:10.000Z",
+          "wordCount": 1003,
+          "title": "Links on React and JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343850",
+          "author": "Manuel Matuzovic",
+          "description": "Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…\nThe post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
+          "publishedOn": "2021-07-13T14:58:33.000Z",
+          "wordCount": 2597,
+          "title": "Meta Theme Color and Trickery"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344542",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nThe folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …\nThe post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.surveymonkey.com/r/jamstack-survey-css-tricks",
+          "publishedOn": "2021-07-13T14:34:48.000Z",
+          "wordCount": 142,
+          "title": "Jamstack Community Survey 2021"
+        },
+        {
           "id": "https://css-tricks.com/?p=344355",
           "author": "Chris Coyier",
           "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -508,6 +535,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
+          "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+          "publishedOn": "2021-07-13T12:00:00.000Z",
+          "wordCount": 3275,
+          "title": "Building A Dynamic Header With Intersection Observer",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.",
+          "link": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
+          "publishedOn": "2021-07-13T10:30:00.000Z",
+          "wordCount": 4225,
+          "title": "How To Migrate From jQuery To Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ece22577-f23c-4e9c-a41c-f9000f14ae9d/migrate-jquery-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
@@ -870,20 +925,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
-          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3665,
-          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -892,6 +933,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e73db9134ad707be00f206",
+          "author": null,
+          "description": "Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -",
+          "link": "https://www.freecodecamp.org/news/how-git-branches-work/",
+          "publishedOn": "2021-07-13T13:44:04.000Z",
+          "wordCount": 4795,
+          "title": "How Git Branches Work"
+        },
+        {
+          "id": "609692d82cd0545b5e9441ab",
+          "author": null,
+          "description": "GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then",
+          "link": "https://www.freecodecamp.org/news/build-graphql-server-with-laravel/",
+          "publishedOn": "2021-07-13T07:54:34.000Z",
+          "wordCount": 2258,
+          "title": "How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman"
+        },
+        {
+          "id": "60e9c888e8ee9b08300ed212",
+          "author": null,
+          "description": "In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-axios-with-react/",
+          "publishedOn": "2021-07-13T07:36:28.000Z",
+          "wordCount": 2519,
+          "title": "How To Use Axios With React: The Definitive Guide (2021)"
+        },
+        {
+          "id": "60e5b284134ad707be00e5e0",
+          "author": null,
+          "description": "Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining",
+          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
+          "publishedOn": "2021-07-13T02:14:52.000Z",
+          "wordCount": 2261,
+          "title": "UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?"
+        },
         {
           "id": "60e753aa134ad707be00f2c1",
           "author": null,
