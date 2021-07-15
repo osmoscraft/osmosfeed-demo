@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-14T00:52:35.772Z</updated>
+    <updated>2021-07-15T00:56:51.105Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Stop Email Tracking in Gmail – Disable Images by Default]]></title>
+        <id>60d4e7596e1a1407b6b0bb56</id>
+        <link href="https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/"/>
+        <updated>2021-07-14T17:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 "tracking pixel" that you don't even see.They send you an email]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Complex CSS Transitions using Custom Properties and cubic-bezier()]]></title>
+        <id>https://css-tricks.com/?p=344249</id>
+        <link href="https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/"/>
+        <updated>2021-07-14T14:31:02.000Z</updated>
+        <summary type="html"><![CDATA[I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …
+The post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Bashful Button Worth $8 Million]]></title>
+        <id>https://css-tricks.com/?p=344407</id>
+        <link href="https://cloudfour.com/thinks/a-bashful-button-worth-8-million/"/>
+        <updated>2021-07-14T14:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …
+The post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Broken Filters]]></title>
+        <id>https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/</id>
+        <link href="https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/"/>
+        <updated>2021-07-14T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Web Server Scanning With Nikto]]></title>
+        <id>60ebb55be8ee9b08300ed731</id>
+        <link href="https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/"/>
+        <updated>2021-07-14T07:18:59.000Z</updated>
+        <summary type="html"><![CDATA[Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Crash Course]]></title>
+        <id>60eb2a69e8ee9b08300ed5b3</id>
+        <link href="https://www.freecodecamp.org/news/redis-crash-course/"/>
+        <updated>2021-07-14T06:11:13.000Z</updated>
+        <summary type="html"><![CDATA[Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links on React and JavaScript]]></title>
         <id>https://css-tricks.com/?p=344316</id>
@@ -1700,116 +1762,6 @@ The post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spinning Up Multiple WordPress Sites Locally With DevKinsta]]></title>
-        <id>https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/</id>
-        <link href="https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/"/>
-        <updated>2021-06-15T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 39 With Addy Osmani: Image Optimization]]></title>
-        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/</id>
-        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/"/>
-        <updated>2021-06-15T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
-        <id>60873d1fdd38b9088c2c0842</id>
-        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
-        <updated>2021-06-14T22:46:31.000Z</updated>
-        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
-        <id>60bce373acb62507dd1d9f19</id>
-        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
-        <updated>2021-06-14T22:39:00.000Z</updated>
-        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
-        <id>https://css-tricks.com/?p=342294</id>
-        <link href="https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/"/>
-        <updated>2021-06-14T22:04:41.000Z</updated>
-        <summary type="html"><![CDATA[It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …
-The post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
-        <id>60c3b862d3126007592d689b</id>
-        <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
-        <updated>2021-06-14T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Backup Squarespace-Managed Styles using AWS Cloud]]></title>
-        <id>60c794e64dc1a607ed7b25ba</id>
-        <link href="https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/"/>
-        <updated>2021-06-14T19:19:42.000Z</updated>
-        <summary type="html"><![CDATA[A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best African Language Datasets for Data Science Projects]]></title>
-        <id>60c4b35ed3126007592d71bc</id>
-        <link href="https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/"/>
-        <updated>2021-06-14T18:37:44.000Z</updated>
-        <summary type="html"><![CDATA[Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks Chronicle XXXX]]></title>
-        <id>https://css-tricks.com/?p=342229</id>
-        <link href="https://css-tricks.com/css-tricks-chronicle-xxxx/"/>
-        <updated>2021-06-14T18:20:17.000Z</updated>
-        <summary type="html"><![CDATA[Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. 
-DevJourney Podcast
-#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘
-Chris took us from playing on 
-…
-The post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Securing Your Website With Subresource Integrity]]></title>
-        <id>https://css-tricks.com/?p=342070</id>
-        <link href="https://css-tricks.com/securing-your-website-with-subresource-integrity/"/>
-        <updated>2021-06-14T13:30:27.000Z</updated>
-        <summary type="html"><![CDATA[When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …
-The post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Khari McMillian</name>
         </author>
     </entry>
 </feed>

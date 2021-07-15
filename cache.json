@@ -6,6 +6,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344249",
+          "author": "Temani Afif",
+          "description": "I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …\nThe post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/",
+          "publishedOn": "2021-07-14T14:31:02.000Z",
+          "wordCount": 1964,
+          "title": "Build Complex CSS Transitions using Custom Properties and cubic-bezier()"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344407",
+          "author": "Chris Coyier",
+          "description": "Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …\nThe post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://cloudfour.com/thinks/a-bashful-button-worth-8-million/",
+          "publishedOn": "2021-07-14T14:25:08.000Z",
+          "wordCount": 2461,
+          "title": "A Bashful Button Worth $8 Million"
+        },
+        {
           "id": "https://css-tricks.com/?p=344316",
           "author": "Chris Coyier",
           "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -499,33 +517,6 @@
           "publishedOn": "2021-06-15T14:31:34.000Z",
           "wordCount": 1844,
           "title": "Just How Niche is Headless WordPress?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342294",
-          "author": "Chris Coyier",
-          "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
-          "publishedOn": "2021-06-14T22:04:41.000Z",
-          "wordCount": 711,
-          "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342229",
-          "author": "Chris Coyier",
-          "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-tricks-chronicle-xxxx/",
-          "publishedOn": "2021-06-14T18:20:17.000Z",
-          "wordCount": 730,
-          "title": "CSS-Tricks Chronicle XXXX"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342070",
-          "author": "Khari McMillian",
-          "description": "When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …\nThe post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
-          "publishedOn": "2021-06-14T13:30:27.000Z",
-          "wordCount": 3261,
-          "title": "Securing Your Website With Subresource Integrity"
         }
       ]
     },
@@ -534,6 +525,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
+          "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
+          "publishedOn": "2021-07-14T13:30:00.000Z",
+          "wordCount": 5284,
+          "title": "Frustrating Design Patterns: Broken Filters",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
           "author": "hello@smashingmagazine.com (Michelle Barker)",
@@ -897,34 +902,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
-          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
-          "publishedOn": "2021-06-15T10:15:00.000Z",
-          "wordCount": 2381,
-          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
-          "publishedOn": "2021-06-15T07:00:00.000Z",
-          "wordCount": 10715,
-          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -933,6 +910,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d4e7596e1a1407b6b0bb56",
+          "author": null,
+          "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
+          "link": "https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/",
+          "publishedOn": "2021-07-14T17:51:43.000Z",
+          "wordCount": 577,
+          "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
+        },
+        {
+          "id": "60ebb55be8ee9b08300ed731",
+          "author": null,
+          "description": "Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/",
+          "publishedOn": "2021-07-14T07:18:59.000Z",
+          "wordCount": 1136,
+          "title": "An Introduction to Web Server Scanning With Nikto"
+        },
+        {
+          "id": "60eb2a69e8ee9b08300ed5b3",
+          "author": null,
+          "description": "Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype",
+          "link": "https://www.freecodecamp.org/news/redis-crash-course/",
+          "publishedOn": "2021-07-14T06:11:13.000Z",
+          "wordCount": 1435,
+          "title": "Redis Crash Course"
+        },
         {
           "id": "60e73db9134ad707be00f206",
           "author": null,
@@ -1625,51 +1629,6 @@
           "publishedOn": "2021-06-15T15:35:39.000Z",
           "wordCount": 2706,
           "title": "What is Full Stack? How to Become a Full Stack Developer"
-        },
-        {
-          "id": "60873d1fdd38b9088c2c0842",
-          "author": null,
-          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
-          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
-          "publishedOn": "2021-06-14T22:46:31.000Z",
-          "wordCount": 2704,
-          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
-        },
-        {
-          "id": "60bce373acb62507dd1d9f19",
-          "author": null,
-          "description": "We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who",
-          "link": "https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/",
-          "publishedOn": "2021-06-14T22:39:00.000Z",
-          "wordCount": 2563,
-          "title": "How to Build a Custom Pagination Component in React"
-        },
-        {
-          "id": "60c3b862d3126007592d689b",
-          "author": null,
-          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
-          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
-          "publishedOn": "2021-06-14T20:15:00.000Z",
-          "wordCount": 1297,
-          "title": "HTML Roving tabindex Attribute Explained with Examples"
-        },
-        {
-          "id": "60c794e64dc1a607ed7b25ba",
-          "author": null,
-          "description": "A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a",
-          "link": "https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/",
-          "publishedOn": "2021-06-14T19:19:42.000Z",
-          "wordCount": 2588,
-          "title": "How to Backup Squarespace-Managed Styles using AWS Cloud"
-        },
-        {
-          "id": "60c4b35ed3126007592d71bc",
-          "author": null,
-          "description": "Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language",
-          "link": "https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/",
-          "publishedOn": "2021-06-14T18:37:44.000Z",
-          "wordCount": 1599,
-          "title": "10 Best African Language Datasets for Data Science Projects"
         }
       ]
     }
