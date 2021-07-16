@@ -6,6 +6,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344273",
+          "author": "Georgi Nikoloff",
+          "description": "Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.\nMost of those examples, though, use …\nThe post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-get-a-pixel-perfect-linearly-scaled-ui/",
+          "publishedOn": "2021-07-15T14:40:03.000Z",
+          "wordCount": 1780,
+          "title": "How to Get a Pixel-Perfect, Linearly Scaled UI"
+        },
+        {
           "id": "https://css-tricks.com/?p=344249",
           "author": "Temani Afif",
           "description": "I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …\nThe post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -490,33 +499,6 @@
           "publishedOn": "2021-06-16T14:26:58.000Z",
           "wordCount": 2409,
           "title": "How I Used the WAAPI to Build an Animation Library"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342198",
-          "author": "Chris Coyier",
-          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/detect-unused-classes-in-html/",
-          "publishedOn": "2021-06-15T23:24:20.000Z",
-          "wordCount": 741,
-          "title": "Detect Unused Classes in… HTML"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342519",
-          "author": "Chris Coyier",
-          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
-          "publishedOn": "2021-06-15T19:51:32.000Z",
-          "wordCount": 1907,
-          "title": "Media Queries in Times of @container"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342248",
-          "author": "Chris Coyier",
-          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
-          "publishedOn": "2021-06-15T14:31:34.000Z",
-          "wordCount": 1844,
-          "title": "Just How Niche is Headless WordPress?"
         }
       ]
     },
@@ -525,6 +507,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
+          "author": "hello@smashingmagazine.com (Cassidy Williams)",
+          "description": "There are two strategies for incrementally building websites that are growing in popularity: Incremental Static Regeneration and Distributed Persistent Rendering. What’s the difference? Let’s figure it out.",
+          "link": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
+          "publishedOn": "2021-07-15T14:00:00.000Z",
+          "wordCount": 1071,
+          "title": "ISR vs DPR: Big Words, Quick Explanation",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e4090b9-8bd9-4d5a-aaed-5177c46a6803/isr-dpr-explained.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "In this article, you’ll get to see some pretty groundbreaking things you can achieve with modern JavaScript grids and discover new ways to augment a data grid to make it engaging, responsive, and accessible. All this will be illustrated using Kendo UI Data Grids and their features.",
+          "link": "https://smashingmagazine.com/2021/07/javascript-data-grid-kendo-ui/",
+          "publishedOn": "2021-07-15T13:45:00.000Z",
+          "wordCount": 3198,
+          "title": "You Can Do That With A JavaScript Data Grid?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a22acbe3-8a80-4f08-95eb-d440e60c5723/kendo-ui-homepage.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -888,20 +898,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "author": "hello@smashingmagazine.com (Nic Chan)",
-          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
-          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4099,
-          "title": "A Complete Guide To Accessibility Tooling",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -911,6 +907,24 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60e74160134ad707be00f23f",
+          "author": null,
+          "description": "The FARM stack is FastAPI, React, and MongoDB. It is a simpler form of the MERN stack that can make developing apps even faster. We just released a FARM stack course on the freeCodeCamp.org YouTube channel.  You will learn how to create a basic CRUD application. FastAPI is where",
+          "link": "https://www.freecodecamp.org/news/learn-the-farm-stack-fastapi-reactjs-mongodb/",
+          "publishedOn": "2021-07-15T13:43:01.000Z",
+          "wordCount": 8503,
+          "title": "Learn the FARM Stack! (FastAPI, React, MongoDB)"
+        },
+        {
+          "id": "60ead07ee8ee9b08300ed387",
+          "author": null,
+          "description": "There are lots of data-storage options available today. You have to choose between managed or unmanaged, relational or NoSQL, write- or read-optimized, proprietary or open-source — and it doesn't end there. Once you begin your search, you will end up in the universe that is database marketing. All of the vendors",
+          "link": "https://www.freecodecamp.org/news/the-apache-cassandra-beginner-tutorial/",
+          "publishedOn": "2021-07-15T13:13:02.000Z",
+          "wordCount": 7098,
+          "title": "The Apache Cassandra Beginner Tutorial"
+        },
+        {
           "id": "60d4e7596e1a1407b6b0bb56",
           "author": null,
           "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
@@ -918,6 +932,15 @@
           "publishedOn": "2021-07-14T17:51:43.000Z",
           "wordCount": 577,
           "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
+        },
+        {
+          "id": "5ff5461e7af2371468bb7ece",
+          "author": null,
+          "description": "We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts that data scientists use in the",
+          "link": "https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/",
+          "publishedOn": "2021-07-14T16:27:00.000Z",
+          "wordCount": 1574,
+          "title": "We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning"
         },
         {
           "id": "60ebb55be8ee9b08300ed731",
@@ -1557,78 +1580,6 @@
           "publishedOn": "2021-06-16T17:19:31.000Z",
           "wordCount": 411,
           "title": "Teach Yourself Data Analytics in 30 Days"
-        },
-        {
-          "id": "60c91b2b4dc1a607ed7b389a",
-          "author": null,
-          "description": "DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.",
-          "link": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
-          "publishedOn": "2021-06-15T21:33:17.000Z",
-          "wordCount": 455,
-          "title": "DevOps Engineering Course for Beginners"
-        },
-        {
-          "id": "60c72a0ad3126007592d7e2a",
-          "author": null,
-          "description": "To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word \"run\". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly",
-          "link": "https://www.freecodecamp.org/news/what-is-this-in-javascript/",
-          "publishedOn": "2021-06-15T21:19:12.000Z",
-          "wordCount": 1383,
-          "title": "What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples"
-        },
-        {
-          "id": "60c8912c4dc1a607ed7b2fff",
-          "author": null,
-          "description": "As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder \"Am I setting my price too high?\" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding",
-          "link": "https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/",
-          "publishedOn": "2021-06-15T21:10:54.000Z",
-          "wordCount": 2031,
-          "title": "What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest"
-        },
-        {
-          "id": "60c3dcb3d3126007592d6c6d",
-          "author": null,
-          "description": "Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following",
-          "link": "https://www.freecodecamp.org/news/python-decorators-explained-with-examples/",
-          "publishedOn": "2021-06-15T17:57:54.000Z",
-          "wordCount": 1409,
-          "title": "Python Decorators – How to Create and Use Decorators in Python With Examples"
-        },
-        {
-          "id": "602aaaf60a2838549dcc5c7f",
-          "author": null,
-          "description": "Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a",
-          "link": "https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/",
-          "publishedOn": "2021-06-15T17:43:43.000Z",
-          "wordCount": 1292,
-          "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
-        },
-        {
-          "id": "60b7cb6aacb62507dd1d7c1a",
-          "author": null,
-          "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
-          "link": "https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/",
-          "publishedOn": "2021-06-15T16:06:54.000Z",
-          "wordCount": 1714,
-          "title": "How to Open Any Repo in VS Code Without Cloning It"
-        },
-        {
-          "id": "60c6aec3d3126007592d7bd5",
-          "author": null,
-          "description": "What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database",
-          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/",
-          "publishedOn": "2021-06-15T15:48:09.000Z",
-          "wordCount": 888,
-          "title": "SQL Aggregate Functions – With Example Data Queries for Beginners"
-        },
-        {
-          "id": "60bbdd8dacb62507dd1d9a2d",
-          "author": null,
-          "description": "You've probably seen the term \"full stack developer\" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article",
-          "link": "https://www.freecodecamp.org/news/what-is-a-fullstack-developer/",
-          "publishedOn": "2021-06-15T15:35:39.000Z",
-          "wordCount": 2706,
-          "title": "What is Full Stack? How to Become a Full Stack Developer"
         }
       ]
     }
