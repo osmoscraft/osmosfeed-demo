@@ -6,6 +6,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=344217",
+          "author": "Chris Coyier",
+          "description": "We sent out an email the other week that ultimately had a <video> in the HTML markup. We send the newsletter by creating it here in the WordPress block editor, which is fetched through RSS-to-Mailchimp. Mailchimp dutifully sent it out, …\nThe post WordPress Admin Warnings in the Block Editor appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/wordpress-admin-warnings-in-the-block-editor/",
+          "publishedOn": "2021-07-16T20:27:46.000Z",
+          "wordCount": 670,
+          "title": "WordPress Admin Warnings in the Block Editor"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344147",
+          "author": "Mate Marschalko",
+          "description": "Let’s build a fully functioning and settable “analog” clock with CSS custom properties and the calc() function. Then we’ll convert it into a “digital” clock as well. All this with no JavaScript!\nHere’s a quick look at the clocks …\nThe post Of Course We Can Make a CSS-Only Clock That Tells the Current Time! appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/of-course-we-can-make-a-css-only-clock-that-tells-the-current-time/",
+          "publishedOn": "2021-07-16T14:43:01.000Z",
+          "wordCount": 4450,
+          "title": "Of Course We Can Make a CSS-Only Clock That Tells the Current Time!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344411",
+          "author": "Chris Coyier",
+          "description": "Glitter text — whO (I learned a name for people who go by a one-word moniker like that: Mononymous) created a builder for fancy SVG-based type. It’s a custom font with <text>, and the fancy comes in with a \n…\nThe post Some Typography Links appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/some-typography-links-3/",
+          "publishedOn": "2021-07-16T14:42:40.000Z",
+          "wordCount": 727,
+          "title": "Some Typography Links"
+        },
+        {
           "id": "https://css-tricks.com/?p=344273",
           "author": "Georgi Nikoloff",
           "description": "Dynamically scaling CSS values based on the viewport width is hardly a new topic. You can find plenty of in-depth coverage right here on CSS-Tricks in articles like this one or this one.\nMost of those examples, though, use …\nThe post How to Get a Pixel-Perfect, Linearly Scaled UI appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
@@ -472,33 +499,6 @@
           "publishedOn": "2021-06-17T14:38:42.000Z",
           "wordCount": 1290,
           "title": "Start Serving Optimized Images in Vue"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342358",
-          "author": "Chris Coyier",
-          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
-          "publishedOn": "2021-06-16T21:11:02.000Z",
-          "wordCount": 604,
-          "title": "Inline Styles as Classes (lol)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342630",
-          "author": "Chris Coyier",
-          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
-          "publishedOn": "2021-06-16T19:08:33.000Z",
-          "wordCount": 869,
-          "title": "Useful and Useless Code Comments"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342353",
-          "author": "Okiki Ojo",
-          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
-          "publishedOn": "2021-06-16T14:26:58.000Z",
-          "wordCount": 2409,
-          "title": "How I Used the WAAPI to Build an Animation Library"
         }
       ]
     },
@@ -507,6 +507,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
+          "author": "hello@smashingmagazine.com (Marcus Herrmann)",
+          "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
+          "link": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
+          "publishedOn": "2021-07-16T13:00:00.000Z",
+          "wordCount": 4803,
+          "title": "Three Insights I Gained While Researching Vue.js Accessibility",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3908803-4ddc-4820-8f4e-85e11b4ebbb7/three-insights-vuejs-accessibility.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/isr-dpr-explained/",
           "author": "hello@smashingmagazine.com (Cassidy Williams)",
@@ -884,20 +898,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
-          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1636,
-          "title": "Your Image Is Probably Not Decorative",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -906,6 +906,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60eef23666c61b07d458d43c",
+          "author": null,
+          "description": "When it comes to styling your React app, you have a ton of different options. Which do you choose? I have broken down the 5 primary ways you have to choose between when writing CSS in your React app. There is no #1 way to approach to writing styles in",
+          "link": "https://www.freecodecamp.org/news/how-to-style-react-apps-with-css/",
+          "publishedOn": "2021-07-16T18:41:57.000Z",
+          "wordCount": 2999,
+          "title": "How to Style Your React App – 5 Ways to Write CSS in 2021"
+        },
         {
           "id": "60e74160134ad707be00f23f",
           "author": null,
@@ -1526,60 +1535,6 @@
           "publishedOn": "2021-06-18T13:56:04.000Z",
           "wordCount": 13842,
           "title": "Understanding Sorting Algorithms"
-        },
-        {
-          "id": "60c2aa56d3126007592d6226",
-          "author": null,
-          "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
-          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
-          "publishedOn": "2021-06-17T12:02:47.000Z",
-          "wordCount": 566,
-          "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
-        },
-        {
-          "id": "60c88bbc4dc1a607ed7b2ffa",
-          "author": null,
-          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
-          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
-          "publishedOn": "2021-06-17T00:53:04.000Z",
-          "wordCount": 1952,
-          "title": "What are Bookmarklets and How to Make Them"
-        },
-        {
-          "id": "60c088e5d3126007592d56f1",
-          "author": null,
-          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
-          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
-          "publishedOn": "2021-06-16T21:19:08.000Z",
-          "wordCount": 1696,
-          "title": "JavaScript Split – How to Split a String into an Array in JS"
-        },
-        {
-          "id": "60b8cb0aacb62507dd1d82ea",
-          "author": null,
-          "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
-          "link": "https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/",
-          "publishedOn": "2021-06-16T20:56:49.000Z",
-          "wordCount": 2502,
-          "title": "Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained"
-        },
-        {
-          "id": "60ca25704dc1a607ed7b408c",
-          "author": null,
-          "description": "Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React",
-          "link": "https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/",
-          "publishedOn": "2021-06-16T20:55:03.000Z",
-          "wordCount": 1525,
-          "title": "Build Better React Apps with These Simple Tricks"
-        },
-        {
-          "id": "60ca30af4dc1a607ed7b4197",
-          "author": null,
-          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
-          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
-          "publishedOn": "2021-06-16T17:19:31.000Z",
-          "wordCount": 411,
-          "title": "Teach Yourself Data Analytics in 30 Days"
         }
       ]
     }
