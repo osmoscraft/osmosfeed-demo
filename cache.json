@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363179",
+          "author": "Adam Rackis",
+          "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/subsetting-font-awesome-to-improve-performance/",
+          "publishedOn": "2022-02-17T15:21:41.000Z",
+          "wordCount": 2089,
+          "title": "Subsetting Font Awesome to Improve Performance",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363861",
+          "author": "Chris Coyier",
+          "description": "A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …\nAdd-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/add-to-calendar-button-ui-widget/",
+          "publishedOn": "2022-02-17T01:14:21.000Z",
+          "wordCount": 799,
+          "title": "Add-to-Calendar Button UI Widget",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363861"
+        },
+        {
           "id": "https://css-tricks.com/?p=363541",
           "author": "Mike Herchel",
           "description": "Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.\nThe requirements are:\nThe user specifies a maximum number of columns. This is the auto-filling grid’s “natural” \n…\nAn Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.",
@@ -491,21 +511,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb299a88-9204-4579-bfb0-f9d8dac84014/building-real-app-react-query.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "What goes into creating a successful design system? How can you take your testing workflow to the next level? And what smart interface design patterns could help you enhance your UIs? Let’s figure it out. With our [online workshops on front-end and UX](https://smashingconf.com/online-workshops).",
-          "link": "https://smashingmagazine.com/2022/01/smashingconf-workshops-january-may-2022/",
-          "publishedOn": "2022-01-19T11:00:00.000Z",
-          "wordCount": 814,
-          "title": "Upcoming Online Workshops: January &ndash; May 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a64a7afb-ef32-458d-9dc1-d8b286fc0327/smashing-online-workshops-winter-2022.png"
         }
       ]
     },
@@ -514,6 +519,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "620ed56e21bfb3068cf2a607",
+          "author": "Beau Carnes",
+          "description": "C++ has been one of the most popular programming languages for over 30 years. It is used in everything from game development to OS development We just published a comprehensive 31-hour C++ course on the freeCodeCamp.org YouTube channel. Daniel Gakwaya developed this course. Daniel is an experienced software engineer and",
+          "link": "https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/",
+          "publishedOn": "2022-02-17T23:16:34.000Z",
+          "wordCount": 825,
+          "title": "Learn C++ With a Free 31 Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/cpp31.png"
+        },
+        {
+          "id": "6206b26756125b0677c646d3",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this tutorial, we will talk about an important CSS property – the overflow  property.  It helps us control what happens when an element's content is too big to fit into an area. When this happens, it makes the content \"overflow\" into another area, either horizontally (X-axis) or",
+          "link": "https://www.freecodecamp.org/news/css-overflow-visible-scroll-auto-hidden/",
+          "publishedOn": "2022-02-17T20:37:54.000Z",
+          "wordCount": 1283,
+          "title": "CSS Overflow – Visible, Scroll, Auto, or Hidden? The Overflow Property Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/css-overflow.png"
+        },
+        {
+          "id": "620e62a321bfb3068cf2a204",
+          "author": "Reed Barger",
+          "description": "The ultimate tool you have when you're developing your projects is your code editor. Which is why it's so important to set it up properly. In this step-by-step guide, we will go from a completely new VSCode installation to a code editor perfectly prepared for your next React project. Let's",
+          "link": "https://www.freecodecamp.org/news/vscode-react-setup/",
+          "publishedOn": "2022-02-17T16:54:36.000Z",
+          "wordCount": 1168,
+          "title": "How to Set Up VSCode for Your React Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/setup-vscode-for-react-projects.png"
+        },
+        {
+          "id": "620e67e821bfb3068cf2a29c",
+          "author": "Kaushal Joshi",
+          "description": "Previously, if you wanted to include a diagram in your GitHub README file, you would've needed to add it like an image created with third-party software.  This worked, and let us complete our tasks – but why settle for less when you can create a diagram within the README",
+          "link": "https://www.freecodecamp.org/news/how-to-add-diagrams-to-github-readme/",
+          "publishedOn": "2022-02-17T16:37:07.000Z",
+          "wordCount": 854,
+          "title": "How to Add Diagrams to GitHub Markdown Files",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/How-to-Add-Diagrams-to-GitHub-Markdown-Files.png"
+        },
+        {
+          "id": "61f7d395f2ed6b06db5a936a",
+          "author": "Andrej Kovacevic",
+          "description": "Many people who want to try freelancing believe that they need to have years of experience to succeed. But this is a common misconception that many freelancers have disproved. Regardless of your industry, a helpful blueprint can be all you need to fast-track your freelancing success. This article underscores what",
+          "link": "https://www.freecodecamp.org/news/how-to-start-a-freelance-dev-business/",
+          "publishedOn": "2022-02-17T15:04:27.000Z",
+          "wordCount": 1571,
+          "title": "How to Start a Freelance Dev Business",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/freelance-dev-business-article-image.jpg"
+        },
         {
           "id": "620a157456125b0677c64db4",
           "author": "Dionysia Lemonaki",
