@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363467",
+          "author": "Hugh Haworth",
+          "description": "Being able to understand Node continues to be an important skill if you’re a front-end developer. Deno has arrived as another way to run JavaScript outside the browser, but the huge ecosystem of tools and software built with Node mean …\nComparing Node JavaScript to JavaScript in the Browser originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/node-javascript-compared-to-javascript/",
+          "publishedOn": "2022-02-18T19:01:08.000Z",
+          "wordCount": 3703,
+          "title": "Comparing Node JavaScript to JavaScript in the Browser",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363467"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363911",
+          "author": "Chris Coyier",
+          "description": "I linked to Jay’s front-end predictions last year and I think they panned out pretty well. I think he’s got a bit of a knack for that wide-scope look at front-end, including tooling and architecture, as well as browser tech. …\n(Jay Freestone’s) Front-End Predictions for 2022 originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/jay-freestone-front-end-predictions-for-2022/",
+          "publishedOn": "2022-02-18T15:34:39.000Z",
+          "wordCount": 968,
+          "title": "(Jay Freestone’s) Front-End Predictions for 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363911"
+        },
+        {
           "id": "https://css-tricks.com/?p=363179",
           "author": "Adam Rackis",
           "description": "Font Awesome is an incredibly popular icon library. Unfortunately, it’s somewhat easy to use in a way that results in less-than-ideal performance. By subsetting Font Awesome, we can remove any unused glyphs from the font files it provides. This will …\nSubsetting Font Awesome to Improve Performance originally published on CSS-Tricks. You should get the newsletter.",
@@ -14,6 +34,16 @@
           "wordCount": 2089,
           "title": "Subsetting Font Awesome to Improve Performance",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363179"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363872",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nFirst things first, if you didn’t know Netlify had a CLI, they do.  One of my favorite things about it running the command netlify dev on nearly any static-site generator project is seeing it …\nTop Things You Didn’t Know You Could Do With Netlify CLI￼ originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/top-things-you-didnt-know-you-could-do-with-netlify-cli/",
+          "publishedOn": "2022-02-17T13:00:00.000Z",
+          "wordCount": 771,
+          "title": "Top Things You Didn’t Know You Could Do With Netlify CLI￼",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363872"
         },
         {
           "id": "https://css-tricks.com/?p=363861",
@@ -242,6 +272,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
+          "author": "hello@smashingmagazine.com (Knut Melvær)",
+          "description": "Markdown in all its flavors, interpretations, and forks won’t go away. However, it’s important to look at emerging content formats that try to encompass modern needs. In this article, Knut shares his advice against Markdown by looking back on why it was introduced in the first place, and by going through some of the major developments of content on the web.",
+          "link": "https://smashingmagazine.com/2022/02/thoughts-on-markdown/",
+          "publishedOn": "2022-02-18T10:30:00.000Z",
+          "wordCount": 6647,
+          "title": "Thoughts On Markdown",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -519,6 +564,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "620fb6a621bfb3068cf2a92a",
+          "author": "Reed Barger",
+          "description": "Managing state in your React apps isn’t as simple as using useState or useReducer. Not only are there are a lot of different kinds of state, but there often dozens of ways of managing each kind. Which should you choose? In this guide, we will uncover the several kinds of",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-your-react-apps/",
+          "publishedOn": "2022-02-18T20:55:31.000Z",
+          "wordCount": 2228,
+          "title": "How to Manage State in Your React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/how-to-manage-state-react.png"
+        },
+        {
+          "id": "620ea69721bfb3068cf2a59b",
+          "author": "Zaira Hira",
+          "description": "A dictionary is a very powerful data collection in Python. Dictionaries help make database operations faster.  You can append items to an existing dictionary and remove them as well. In this blog post, we will learn how to delete \"keys\" using two methods:  1. Deleting key:value pairs using",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-key-from-a-python-dictionary-delete-key-from-dict/",
+          "publishedOn": "2022-02-18T20:32:40.000Z",
+          "wordCount": 846,
+          "title": "How to Remove a Key from a Python Dictionary – Delete Key from Dict",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/remove-key-val.png"
+        },
+        {
+          "id": "620f5f5e21bfb3068cf2a6d8",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Before trying to run any Python program in your Windows operating system, you'll need to check if you have Python installed and added to the environment's path variable correctly. In this article, I will show you how you can check whether you have Python installed successfully in your operating system",
+          "link": "https://www.freecodecamp.org/news/how-to-install-python-in-windows-operating-system/",
+          "publishedOn": "2022-02-18T16:14:23.000Z",
+          "wordCount": 1174,
+          "title": "How to Install Python on Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Artboard-1-1.jpg"
+        },
+        {
+          "id": "620ecdf421bfb3068cf2a603",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Sometimes you might turn on your PC but your monitor displays \"No Signal\" on the screen. In this article, we will look at various solutions for solving this problem. How to Fix a Monitor Connection by Checking Hardware Connections  * Check to see if the VGA connector fits in",
+          "link": "https://www.freecodecamp.org/news/vga-no-signal-how-to-fix-a-monitor-connection-on-windows-10-pc/",
+          "publishedOn": "2022-02-18T16:02:36.000Z",
+          "wordCount": 650,
+          "title": "VGA No Signal – How to Fix a Monitor Connection on Windows 10 PC",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/vga-no-signal.png"
+        },
+        {
+          "id": "620d6f0321bfb3068cf29c08",
+          "author": "Marco Venturi",
+          "description": "When you manage websites, it is all about data: views, response time, users, bounce rate, and so on. And, if you manage websites, you've likely had to deal with a WordPress instance at least once.  There are hundreds – or maybe thousands – of WordPress plugins to retrieve and",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-dashboard-with-wordpress-apis-and-react/",
+          "publishedOn": "2022-02-18T15:59:20.000Z",
+          "wordCount": 1592,
+          "title": "How to Build a Custom Dashboard with WordPress APIs and React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg"
+        },
         {
           "id": "620ed56e21bfb3068cf2a607",
           "author": "Beau Carnes",
