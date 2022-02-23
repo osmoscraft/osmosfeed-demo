@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-22T00:52:59.062Z</updated>
+    <updated>2022-02-23T00:59:52.889Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Backend Should You Use for React?]]></title>
+        <id>62151953c4d0d306772ee3e2</id>
+        <link href="https://www.freecodecamp.org/news/backend-for-react-projects/"/>
+        <updated>2022-02-22T21:04:58.000Z</updated>
+        <summary type="html"><![CDATA[What backend should you choose for the React projects you are building?  There are so many different options to pick from, how do you know whether the backend you choose is the right one?  In this guide, you'll learn how to pick the appropriate backend for the type]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
+        <id>https://css-tricks.com/?p=363998</id>
+        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
+        <updated>2022-02-22T20:06:57.000Z</updated>
+        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
+Complaining on 
+…
+Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install C and C++ Compilers on Windows]]></title>
+        <id>6214ebce21bfb3068cf2cbad</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/"/>
+        <updated>2022-02-22T18:04:59.000Z</updated>
+        <summary type="html"><![CDATA[If you want to run C or C++ programs in your Windows operating system, then you need to have the right compilers.  The MinGW compiler is a well known and widely used software for installing GCC and G++ compilers for the C and C++ programming languages.  But many]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></title>
+        <id>https://css-tricks.com/?p=363511</id>
+        <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
+        <updated>2022-02-22T15:24:01.000Z</updated>
+        <summary type="html"><![CDATA[On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …
+Reliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Alex MacArthur</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use localStorage with React Hooks to Set and Get Items]]></title>
+        <id>6212882b21bfb3068cf2bc05</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/"/>
+        <updated>2022-02-22T14:53:30.000Z</updated>
+        <summary type="html"><![CDATA[localStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date.  This means the data survives page refreshes (sessionStorage) and even browser restarts. This indicates that the data stored in the browser will remain even when]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
+        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
+        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
+        <updated>2022-02-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Reponsible JavaScript?]]></title>
+        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
+        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
+        <updated>2022-02-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 React Interview Questions You Should Know in 2022]]></title>
+        <id>6213b45e21bfb3068cf2c103</id>
+        <link href="https://www.freecodecamp.org/news/react-interview-questions-to-know/"/>
+        <updated>2022-02-22T00:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Feel confident about your React knowledge? Put it to the test! I have selected all of the major questions you should know as a React developer in 2022, whether you are interviewing for a hired position or not. These questions cover everything from the core concepts of React to a]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working from Home – Tips to Help You Stay Productive]]></title>
+        <id>6210c04621bfb3068cf2b0a6</id>
+        <link href="https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/"/>
+        <updated>2022-02-22T00:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years, a lot of us have started working remotely. That's what I also did, and I fell in love with this life. Indeed, a bit more than two years ago, I started my first full-time job as a Software Engineer. And at the same time, I]]></summary>
+        <author>
+            <name>Gaël Thomas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Online Coding Classes – For Beginners [2022 Guide]]]></title>
         <id>61d54402d2d9de084285c345</id>
@@ -900,16 +994,6 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
         <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started With CSS Cascade Layers]]></title>
-        <id>https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/</id>
-        <link href="https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/"/>
-        <updated>2022-01-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363998",
+          "author": "Chris Coyier",
+          "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
+          "publishedOn": "2022-02-22T20:06:57.000Z",
+          "wordCount": 548,
+          "title": "Before I go: When it comes to complaining about web browsers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
+        },
+        {
+          "id": "https://css-tricks.com/?p=363511",
+          "author": "Alex MacArthur",
+          "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
+          "publishedOn": "2022-02-22T15:24:01.000Z",
+          "wordCount": 2248,
+          "title": "Reliably Send an HTTP Request as a User Leaves a Page",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
+        },
+        {
           "id": "https://css-tricks.com/?p=363766",
           "author": "Miriam Suzanne",
           "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
@@ -283,6 +303,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
+          "author": "hello@smashingmagazine.com (Ilya Medvedev)",
+          "description": "How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.",
+          "link": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
+          "publishedOn": "2022-02-22T13:00:00.000Z",
+          "wordCount": 2185,
+          "title": "How To Develop A Text Editor For The Web",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.",
+          "link": "https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/",
+          "publishedOn": "2022-02-22T06:00:00.000Z",
+          "wordCount": 8590,
+          "title": "Smashing Podcast Episode 45 With Jeremy Wagner: What Is Reponsible JavaScript?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2df699d2-9db3-46f6-9d32-cc79e4ce2005/smashing-podcast-episode-45.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2df699d2-9db3-46f6-9d32-cc79e4ce2005/smashing-podcast-episode-45.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
           "author": "hello@smashingmagazine.com (Ramona Schwering)",
           "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
@@ -536,21 +586,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e516aa85-3b77-418a-9b43-cec06943b129/devtools-updates-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Cascade layers introduce the new at-rule of @layer. The intent is to help CSS authors be more intentional about ordering the “layers” of CSS rules as a new method of cascade management.",
-          "link": "https://smashingmagazine.com/2022/01/introduction-css-cascade-layers/",
-          "publishedOn": "2022-01-24T11:00:00.000Z",
-          "wordCount": 4755,
-          "title": "Getting Started With CSS Cascade Layers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b8900c-aa53-49ae-84f7-9fbf598635e2/introduction-css-cascade-layers.jpg"
         }
       ]
     },
@@ -559,6 +594,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62151953c4d0d306772ee3e2",
+          "author": "Reed Barger",
+          "description": "What backend should you choose for the React projects you are building?  There are so many different options to pick from, how do you know whether the backend you choose is the right one?  In this guide, you'll learn how to pick the appropriate backend for the type",
+          "link": "https://www.freecodecamp.org/news/backend-for-react-projects/",
+          "publishedOn": "2022-02-22T21:04:58.000Z",
+          "wordCount": 1555,
+          "title": "What Backend Should You Use for React?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/backend-for-react.png"
+        },
+        {
+          "id": "6214ebce21bfb3068cf2cbad",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you want to run C or C++ programs in your Windows operating system, then you need to have the right compilers.  The MinGW compiler is a well known and widely used software for installing GCC and G++ compilers for the C and C++ programming languages.  But many",
+          "link": "https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/",
+          "publishedOn": "2022-02-22T18:04:59.000Z",
+          "wordCount": 1327,
+          "title": "How to Install C and C++ Compilers on Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/banner.png"
+        },
+        {
+          "id": "6212882b21bfb3068cf2bc05",
+          "author": "Joel Olawanle",
+          "description": "localStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date.  This means the data survives page refreshes (sessionStorage) and even browser restarts. This indicates that the data stored in the browser will remain even when",
+          "link": "https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/",
+          "publishedOn": "2022-02-22T14:53:30.000Z",
+          "wordCount": 1118,
+          "title": "How to Use localStorage with React Hooks to Set and Get Items",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Yellow-and-Purple-Geometric-Covid-19-General-Facts-Twitter-Post.jpg"
+        },
+        {
+          "id": "6213b45e21bfb3068cf2c103",
+          "author": "Reed Barger",
+          "description": "Feel confident about your React knowledge? Put it to the test! I have selected all of the major questions you should know as a React developer in 2022, whether you are interviewing for a hired position or not. These questions cover everything from the core concepts of React to a",
+          "link": "https://www.freecodecamp.org/news/react-interview-questions-to-know/",
+          "publishedOn": "2022-02-22T00:21:59.000Z",
+          "wordCount": 1913,
+          "title": "10 React Interview Questions You Should Know in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/react-interview-questions-1.png"
+        },
+        {
+          "id": "6210c04621bfb3068cf2b0a6",
+          "author": "Gaël Thomas",
+          "description": "Over the past few years, a lot of us have started working remotely. That's what I also did, and I fell in love with this life. Indeed, a bit more than two years ago, I started my first full-time job as a Software Engineer. And at the same time, I",
+          "link": "https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/",
+          "publishedOn": "2022-02-22T00:12:34.000Z",
+          "wordCount": 1993,
+          "title": "Working from Home – Tips to Help You Stay Productive",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/working-from-home-tips-to-stay-productive-3.png"
+        },
         {
           "id": "61d54402d2d9de084285c345",
           "author": "Jessica Wilkins",
