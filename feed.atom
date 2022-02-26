@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-25T00:57:32.294Z</updated>
+    <updated>2022-02-26T00:51:57.421Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Section Divider Using CSS]]></title>
+        <id>6217ea59c4d0d306772ef522</id>
+        <link href="https://www.freecodecamp.org/news/section-divider-using-css/"/>
+        <updated>2022-02-25T21:46:23.000Z</updated>
+        <summary type="html"><![CDATA[It's always cool to have a fancy section divider on your website. And it's even better if we can make them responsive and easy to adjust. This is what you will learn in this article. We will explore different section dividers made using only CSS and some optimized code that's]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trailing Slashes on URLs: Contentious or Settled?]]></title>
+        <id>https://css-tricks.com/?p=364070</id>
+        <link href="https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/"/>
+        <updated>2022-02-25T21:13:08.000Z</updated>
+        <summary type="html"><![CDATA[A fun deep dive from Zach. Do you have an opinion on which you should use?
+1) https://website.com/foo/
+2) https://websites.com/foo
+The first option has a “trailing slash.” The second does not.
+I’ve always preferred this thinking: you use a trailing …
+Trailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Avoid the text-decoration Shorthand Property]]></title>
+        <id>https://css-tricks.com/?p=363619</id>
+        <link href="https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/"/>
+        <updated>2022-02-25T15:28:33.000Z</updated>
+        <summary type="html"><![CDATA[In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.
+Let me demonstrate the usefulness of …
+When to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuel Matuzovic’s CSS Specificity Demo]]></title>
+        <id>https://css-tricks.com/?p=364152</id>
+        <link href="https://css-tricks.com/manuel-matuzovics-css-specificity-demo/"/>
+        <updated>2022-02-25T15:27:19.000Z</updated>
+        <summary type="html"><![CDATA[If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.
+One of the ways to help get …
+Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
         <id>https://css-tricks.com/?p=364138</id>
