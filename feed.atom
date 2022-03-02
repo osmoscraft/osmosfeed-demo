@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-01T01:24:10.285Z</updated>
+    <updated>2022-03-02T01:04:23.886Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IoT Deployment – How to Secure and Deploy Internet of Things Devices]]></title>
+        <id>621d6316c4d0d306772f1f16</id>
+        <link href="https://www.freecodecamp.org/news/internet-of-things-deployments-getting-it-right/"/>
+        <updated>2022-03-01T21:06:01.000Z</updated>
+        <summary type="html"><![CDATA[The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm Uninstall – How to Remove a Package]]></title>
+        <id>621dfc8cc4d0d306772f220f</id>
+        <link href="https://www.freecodecamp.org/news/npm-uninstall-how-to-remove-a-package/"/>
+        <updated>2022-03-01T20:46:50.000Z</updated>
+        <summary type="html"><![CDATA[The Node Package Manager (NPM) provides various commands that let you work with packages. And just as you can install a package from the npm library, you can uninstall it. To uninstall a package, you can use the command provided by npm for the purpose – npm uninstall. The way]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The React useEffect Hook for Absolute Beginners]]></title>
+        <id>621e4f3ec4d0d306772f239d</id>
+        <link href="https://www.freecodecamp.org/news/react-useeffect-absolute-beginners/"/>
+        <updated>2022-03-01T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have trouble understanding the useEffect hook, you're not alone. Beginners and experienced developers alike find it to be one of the trickiest hooks to understand, because it requires understanding a few unfamiliar programming concepts. In this quick guide, we're going to cover why this hook exists, how to]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python .pop() – How to Pop from a List or an Array in Python]]></title>
+        <id>621c8bcfc4d0d306772f1263</id>
+        <link href="https://www.freecodecamp.org/news/python-pop-how-to-pop-from-a-list-or-an-array-in-python/"/>
+        <updated>2022-03-01T20:30:51.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in pop() list method. By the end, you'll know how to use pop() to remove an item from a list in Python. Here is what we will cover:  1. An overview of lists in Python  2.  How to]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web]]></title>
+        <id>https://css-tricks.com/?p=363724</id>
+        <link href="https://css-tricks.com/css-custom-highlight-api-early-loo/"/>
+        <updated>2022-03-01T17:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…
+CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ahmad Shadeed: Use Cases For CSS fit-content]]></title>
+        <id>https://css-tricks.com/?p=364351</id>
+        <link href="https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/"/>
+        <updated>2022-03-01T15:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.
+The fit-content keyword is actually …
+Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New CSS Features In 2022]]></title>
+        <id>https://smashingmagazine.com/2022/03/new-css-features-2022/</id>
+        <link href="https://smashingmagazine.com/2022/03/new-css-features-2022/"/>
+        <updated>2022-03-01T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insertion Sort – Algorithm Example in Java and C++]]></title>
         <id>620fae4a21bfb3068cf2a8f4</id>
@@ -1285,16 +1358,6 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
         <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[28 Days Of Inspiration (February 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/</id>
-        <link href="https://smashingmagazine.com/2022/01/desktop-wallpaper-calendars-february-2022/"/>
-        <updated>2022-01-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2022.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
