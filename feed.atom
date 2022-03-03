@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T01:04:23.886Z</updated>
+    <updated>2022-03-03T01:04:32.919Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
+        <id>https://css-tricks.com/?p=364350</id>
+        <link href="https://css-tricks.com/performance-links-february-2022/"/>
+        <updated>2022-03-02T21:26:50.000Z</updated>
+        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
+The new WebPageTest website design
+From fonts to SVG: an icon migration strategy
+…
+7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List .remove() - How to Remove an Item from a List in Python]]></title>
+        <id>621e55eac4d0d306772f23d6</id>
+        <link href="https://www.freecodecamp.org/news/python-list-remove-how-to-remove-an-item-from-a-list-in-python/"/>
+        <updated>2022-03-02T19:49:19.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in remove() list method. By the end, you'll know how to use remove() to remove an item from a list in Python. Here is what we will cover:  1. Syntax of the remove() method  2. Remove an element from]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Your Home Wireless Infrastructure with Kismet and Python]]></title>
+        <id>621d7632c4d0d306772f1f61</id>
+        <link href="https://www.freecodecamp.org/news/wireless-security-using-raspberry-pi-4-kismet-and-python/"/>
+        <updated>2022-03-02T16:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Everything is connected to wireless these days. In my case I found that I have LOTS of devices after running a simple nmap command on my home network [/news/enhance-nmap-with-python/#nmap-101-identify-all-the-public-services-in-our-network] : [josevnz@dmaf5 ~]$ sudo nmap -v -n -p- -sT -sV -O --osscan-limit --max-os-tries 1 -oX $HOME/home_scan.xml 192.168.1.0/24 So I started to]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
+        <id>https://css-tricks.com/?p=363882</id>
+        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
+        <updated>2022-03-02T15:57:32.000Z</updated>
+        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
+Here’s an example where I …
+How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Silvestar Bistrović</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an eCommerce Website Using WooCommerce]]></title>
+        <id>621f888ec4d0d306772f2d40</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce/"/>
+        <updated>2022-03-02T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Creating your own eCommerce website is easier than you may think. You don't even need to know how to code. I just created and published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an online store with WooCommerce and WordPress. In this video course,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps with GitLab CI Course]]></title>
+        <id>621f860dc4d0d306772f2cf9</id>
+        <link href="https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/"/>
+        <updated>2022-03-02T15:05:24.000Z</updated>
+        <summary type="html"><![CDATA[GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Vaentin is an experienced developer and course creator. In this course, you will learn]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
+        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
+        <updated>2022-03-02T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Node.js and npm on Windows]]></title>
+        <id>621e97a4c4d0d306772f290b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/"/>
+        <updated>2022-03-02T00:18:51.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up]]></summary>
+        <author>
+            <name>Daniel Rosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Wordle Clone in JavaScript]]></title>
+        <id>621903c6c4d0d306772efc76</id>
+        <link href="https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/"/>
+        <updated>2022-03-01T23:35:30.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build]]></summary>
+        <author>
+            <name>Paul Akinyemi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IoT Deployment – How to Secure and Deploy Internet of Things Devices]]></title>
         <id>621d6316c4d0d306772f1f16</id>
@@ -1348,16 +1444,6 @@ A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks
         <summary type="html"><![CDATA[In this article, Adrian Bece shares more about the benefits and caveats of code-splitting and how page performance and load times can be improved by dynamically loading expensive, non-critical JavaScript bundles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet “Touch Design For Mobile Interfaces”, A New Smashing Book]]></title>
-        <id>https://smashingmagazine.com/2022/02/touch-design-release/</id>
-        <link href="https://smashingmagazine.com/2022/02/touch-design-release/"/>
-        <updated>2022-02-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s shipping! Meet “Touch Design for Mobile Interfaces”, our brand-new guide with guidelines and best practices to improve usability and accessibility on mobile. 400 pages. For designers and developers working with mobile UIs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
