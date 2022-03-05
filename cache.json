@@ -463,6 +463,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "If users cannot find the answers to their questions or are not exposed to critical messaging, they will not act, and your website will fail. To prevent that from happening, you need an effective information architecture. In this article, Paul Boag provides you with a process to ensure you have precisely that.",
+          "link": "https://smashingmagazine.com/2022/03/easy-information-architecture/",
+          "publishedOn": "2022-03-04T10:30:00.000Z",
+          "wordCount": 3162,
+          "title": "How To Create An Information Architecture That Is Easy To Use",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/771aac3c-df07-49cb-a4b1-8558b39f9e2a/easy-information-architecture.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/",
           "author": "hello@smashingmagazine.com (Stephanie Stimac)",
           "description": "Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.",
@@ -761,21 +776,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3745837-4c65-4b2b-81ab-42e0088633d2/web-frameworks-guide-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In this article, we’ll look specifically at what we can do to reduce the impact of social media embeds and social sharing widgets — or even some strategies to avoid them altogether. While the spotlight is on reducing the environmental impact, many of these tips will be great for performance too.",
-          "link": "https://smashingmagazine.com/2022/02/reducing-web-carbon-footprint-optimizing-social-media-embeds/",
-          "publishedOn": "2022-02-03T12:00:00.000Z",
-          "wordCount": 2569,
-          "title": "Reducing The Web’s Carbon Footprint: Optimizing Social Media Embeds",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/686a0218-bea0-4a0e-a2b9-aca40c29d412/reducing-web-carbon-footprint-optimizing-social-media-embeds.jpg"
         }
       ]
     },
@@ -784,6 +784,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62227173c4d0d306772f4441",
+          "author": "Beau Carnes",
+          "description": "It's time for you to improve your HTML and CSS skills by creating a blog. We just posted a fullstack development course on the freeCodeCamp.org YouTube channel that will teach you how to build a blog with HTML and CSS. Julio Codes created this course. He has a popular YouTube",
+          "link": "https://www.freecodecamp.org/news/fullstack-development-project-create-a-blog-with-html-css/",
+          "publishedOn": "2022-03-04T20:11:34.000Z",
+          "wordCount": 441,
+          "title": "Fullstack Development Project - Create a Blog with HTML & CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/blog.png"
+        },
+        {
+          "id": "6221b192c4d0d306772f3ed5",
+          "author": "MacBobby Chibuzor",
+          "description": "What is Haskell? What is it used for? Why are there relatively few Haskell programmers? How can I get started with Haskell? If you're asking yourself these questions, then this article is for you. In it, I'll answer your questions about the Haskell programming language and demystify it for you.",
+          "link": "https://www.freecodecamp.org/news/haskell-programming-language-introduction/",
+          "publishedOn": "2022-03-04T19:57:55.000Z",
+          "wordCount": 1662,
+          "title": "Haskell Programming Language – How to Install and Use Haskell Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Hacking-into-Haskell.png"
+        },
+        {
+          "id": "607da1ecdd38b9088c2bc6c9",
+          "author": "Dillion Megida",
+          "description": "When using Python, you may install different version variations for different projects. But sometimes this can affect how your code executes, as it may not use the correct version. In this article, we'll learn how to install new Python versions (Python 3 in our case) and how to set this",
+          "link": "https://www.freecodecamp.org/news/how-to-install-python-3-on-mac-and-update-the-python-version-macos-homebrew-command-guide/",
+          "publishedOn": "2022-03-04T18:44:30.000Z",
+          "wordCount": 715,
+          "title": "How to Install Python 3 on Mac and Update the Version with Pyenv – MacOS Homebrew Command Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-christina-morillo-1181359--2-.jpg"
+        },
+        {
+          "id": "62189cadc4d0d306772ef999",
+          "author": "Miya Liu",
+          "description": "Original article: 在开放社区中的六年，我做着喜欢且擅长的事情，利他而自利 [https://chinese.freecodecamp.org/news/my-six-years-in-open-community/] by Miya Liu [https://chinese.freecodecamp.org/news/author/miyaliu/] Translated by: Alan Luo [/news/alan-luo] Hello, I'm Yuyu Liu (Miya) from the freeCodeCamp [http://freecodecamp.org/]  community. freeCodeCamp.org is the world's largest open-source non-profit programming education community. It is also an open-source project that has long been ranked number one on GitHub. In",
+          "link": "https://www.freecodecamp.org/news/my-six-years-in-open-community/",
+          "publishedOn": "2022-03-04T16:35:38.000Z",
+          "wordCount": 8802,
+          "title": "My Six Years in the Open Community",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/WechatIMG3506.jpeg"
+        },
+        {
+          "id": "6220a4a5c4d0d306772f338d",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we will talk about the queue data structure, its operations, and how to implement these operations using an array in Java.  What Is a Queue? A queue is linear data structure that consists of a collection is of items that follow a first-in-first-out sequence. This implies",
+          "link": "https://www.freecodecamp.org/news/queue-data-structure-definition-and-java-example-code/",
+          "publishedOn": "2022-03-04T00:36:52.000Z",
+          "wordCount": 1812,
+          "title": "Queue Data Structure – Definition and Java Example Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/queue-data-structure.png"
+        },
         {
           "id": "62208eb2c4d0d306772f3282",
           "author": "Njoku Samson Ebere",
