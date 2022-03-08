@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-07T00:58:11.608Z</updated>
+    <updated>2022-03-08T00:56:47.407Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Remove Character from a String – How to Delete Characters from Strings]]></title>
+        <id>62134fbd21bfb3068cf2bf4b</id>
+        <link href="https://www.freecodecamp.org/news/python-remove-character-from-a-string-how-to-delete-characters-from-strings/"/>
+        <updated>2022-03-07T18:08:44.000Z</updated>
+        <summary type="html"><![CDATA[In Python you can use the replace() and translate() methods to specify which characters you want to remove from a string and return a new modified string result.  It is important to remember that the original string will not be altered because strings are immutable.  In this article,]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a TensorFlow Model as a RESTful API Service]]></title>
+        <id>62118afc21bfb3068cf2b63c</id>
+        <link href="https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/"/>
+        <updated>2022-03-07T14:58:44.000Z</updated>
+        <summary type="html"><![CDATA[If you're like I am, then you've probably watched and read a number of tutorials on creating machine learning models with TensorFlow, PyTorch, Scikit-Learn or any other framework out there.  But there is one thing that these tutorials tend to miss out on, and that's model deployment. In this]]></summary>
+        <author>
+            <name>Neil Ruaro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signals For Customizing Website User Experience]]></title>
+        <id>https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/</id>
+        <link href="https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/"/>
+        <updated>2022-03-07T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fullstack Development Project - Create a Blog with HTML & CSS]]></title>
         <id>62227173c4d0d306772f4441</id>

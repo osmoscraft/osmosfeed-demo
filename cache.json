@@ -453,6 +453,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
+          "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
+          "publishedOn": "2022-03-07T10:30:00.000Z",
+          "wordCount": 4682,
+          "title": "Signals For Customizing Website User Experience",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/we-all-are-ukraine/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "As a design community, we all can’t be silent in these times. We need to be united in our fight against the war, for democracy, for those dreams that children are entitled to have when they are growing up. It’s our obligation to help as much as we can. **We are donating all proceeds** from \"Interface Design Checklists\" PDF to support Ukraine.",
@@ -774,6 +789,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62134fbd21bfb3068cf2bf4b",
+          "author": "Jessica Wilkins",
+          "description": "In Python you can use the replace() and translate() methods to specify which characters you want to remove from a string and return a new modified string result.  It is important to remember that the original string will not be altered because strings are immutable.  In this article,",
+          "link": "https://www.freecodecamp.org/news/python-remove-character-from-a-string-how-to-delete-characters-from-strings/",
+          "publishedOn": "2022-03-07T18:08:44.000Z",
+          "wordCount": 990,
+          "title": "Python Remove Character from a String – How to Delete Characters from Strings",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg"
+        },
+        {
+          "id": "62118afc21bfb3068cf2b63c",
+          "author": "Neil Ruaro",
+          "description": "If you're like I am, then you've probably watched and read a number of tutorials on creating machine learning models with TensorFlow, PyTorch, Scikit-Learn or any other framework out there.  But there is one thing that these tutorials tend to miss out on, and that's model deployment. In this",
+          "link": "https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/",
+          "publishedOn": "2022-03-07T14:58:44.000Z",
+          "wordCount": 2445,
+          "title": "How to Deploy a TensorFlow Model as a RESTful API Service",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/deploying-tensorflow-heroku-docker.png"
+        },
         {
           "id": "62227173c4d0d306772f4441",
           "author": "Beau Carnes",
