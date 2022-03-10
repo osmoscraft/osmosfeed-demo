@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-09T00:59:46.224Z</updated>
+    <updated>2022-03-10T01:01:30.208Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I Developed My First Adventure Game]]></title>
+        <id>60c5b9d1d3126007592d75b4</id>
+        <link href="https://www.freecodecamp.org/news/how-i-developed-my-first-game/"/>
+        <updated>2022-03-09T20:05:24.000Z</updated>
+        <summary type="html"><![CDATA[It's hard to tell exactly when my journey creating Occulto, a point and click adventure game, started. But I have a significant date in mind: 3 May 2018. Here's one thing that got the ball rolling: > Luigi: Hello Andrea. Sorry to bother you. I would like to learn how]]></summary>
+        <author>
+            <name>Andrea Koutifaris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git config – How to Configure Git Settings to Improve Your Development Workflow]]></title>
+        <id>6222908cc4d0d306772f4477</id>
+        <link href="https://www.freecodecamp.org/news/git-config-how-to-configure-git-settings/"/>
+        <updated>2022-03-09T19:14:42.000Z</updated>
+        <summary type="html"><![CDATA[git config is a powerful command in Git. You can use the Git configuration file to customize how Git works. This file exists in the project level where Git is initialized ( /project/.git/config) or at the root level (~/.gitcongig). If no configurations are specified, Git uses its default settings. In]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React State for Absolute Beginners]]></title>
+        <id>6216b67dc4d0d306772ef0ed</id>
+        <link href="https://www.freecodecamp.org/news/react-state/"/>
+        <updated>2022-03-09T16:48:55.000Z</updated>
+        <summary type="html"><![CDATA[One of the most essential concepts that any modern JavaScript developer needs to understand is state.  If you don't understand state, you're not going to be able to fully use and take advantage of powerful libraries such as React to build your applications.  Let's see exactly what state]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Vim – Beginner's Tutorial]]></title>
+        <id>6228c8f663ded806bb9e72e2</id>
+        <link href="https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/"/>
+        <updated>2022-03-09T16:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Vim is a highly configurable text editor that you can use for software development or any kind of text editing.  We just published a full Vim course on the freeCodeCamp.org YouTube channel that will teach you how to use Vim. Florian Dedov from NeuralNine developed this course. When someone]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/</id>
+        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/"/>
+        <updated>2022-03-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Test PHP Code With PHPUnit]]></title>
+        <id>62271f4863ded806bb9e65d2</id>
+        <link href="https://www.freecodecamp.org/news/test-php-code-with-phpunit/"/>
+        <updated>2022-03-09T01:15:45.000Z</updated>
+        <summary type="html"><![CDATA[There are many different ways to test your software application, and unit testing is an important one. So what is unit testing and how can you do it? You'll learn that and more in this article. What is Unit Testing? > Unit testing is a software development process in which]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Project Ideas to Improve Your Résumé]]></title>
+        <id>6217b1bcc4d0d306772ef348</id>
+        <link href="https://www.freecodecamp.org/news/python-project-ideas-to-improve-your-resume/"/>
+        <updated>2022-03-08T23:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Every project is an opportunity to learn – to figure out problems and challenges, and to invent and reinvent. And as a developer, working on projects can improve not only your skills but also your résumé – which can increase your chances of getting that dream job. Have you ever]]></summary>
+        <author>
+            <name>Hillary Nyakundi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Meaning – What does Coding Mean and What is it Used For?]]></title>
         <id>62273a7f63ded806bb9e6778</id>
@@ -1661,51 +1731,6 @@ Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this co
 Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Statoscope: A Course Of Intensive Therapy For Your Bundle]]></title>
-        <id>https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/</id>
-        <link href="https://smashingmagazine.com/2022/02/statoscope-course-intensive-therapy-bundle/"/>
-        <updated>2022-02-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Statoscope is an instrument that analyses your webpack-bundles. Created by Sergey Melukov, it started out as an experimental version in late 2016, which has now become a full-fledged toolkit for viewing, analyzing, and validating webpack-bundles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sergey Melukov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Different Color Spaces for Non-Boring Gradients]]></title>
-        <id>https://css-tricks.com/?p=363102</id>
-        <link href="https://css-tricks.com/color-spaces-for-more-interesting-css-gradients/"/>
-        <updated>2022-02-07T21:46:18.000Z</updated>
-        <summary type="html"><![CDATA[A little gradient generator tool from Tom Quinonero. You’d think fading one color to another would be an obvious, simple, solved problem — it’s actually anything but!
-Tom’s generator does two things that help make a gradient better:
-You 
-…
-Using Different Color Spaces for Non-Boring Gradients originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Scroll Snap Slide Deck That Supports Live Coding]]></title>
-        <id>https://css-tricks.com/?p=362616</id>
-        <link href="https://css-tricks.com/css-scroll-snap-slide-deck/"/>
-        <updated>2022-02-07T15:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Virtual conferences have changed the game in terms of how a presenter is able to deliver content to an audience. At a live event it’s likely you just have your laptop, but at home, you may have multiple monitors so …
-CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Stephanie Eckles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using QR Codes In Your Business: Best Practices And Pitfalls]]></title>
-        <id>https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/</id>
-        <link href="https://smashingmagazine.com/2022/02/qr-codes-business-best-practices-pitfalls/"/>
-        <updated>2022-02-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While QR codes have many uses and can be leveraged at many touch points, they are just one of dozens of technologies that can improve the customer’s journey. Stanislav Khrustalev shares his advice with a list of things to keep in mind when using QR codes for your business.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stanislav Khrustalev)</name>
         </author>
     </entry>
 </feed>
