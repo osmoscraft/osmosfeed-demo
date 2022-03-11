@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-10T01:01:30.208Z</updated>
+    <updated>2022-03-11T01:02:20.080Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
+        <id>6220e4a7c4d0d306772f366e</id>
+        <link href="https://www.freecodecamp.org/news/cncf-kubernetes-and-cloud-native-associate-study-course-pass-the-exam-with-this-free-13-hour-course/"/>
+        <updated>2022-03-10T20:19:15.000Z</updated>
+        <summary type="html"><![CDATA[This exam mostly deals with cloud-native  concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Execute and Run Java Code from the Terminal]]></title>
+        <id>6226651763ded806bb9e60eb</id>
+        <link href="https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/"/>
+        <updated>2022-03-10T19:20:03.000Z</updated>
+        <summary type="html"><![CDATA[If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Rename a Local or Remote Branch in Git]]></title>
+        <id>622a09b763ded806bb9e7c6f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/"/>
+        <updated>2022-03-10T19:03:32.000Z</updated>
+        <summary type="html"><![CDATA[Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Print Without New Line – Print on the Same Line]]></title>
+        <id>6228676363ded806bb9e6fa7</id>
+        <link href="https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/"/>
+        <updated>2022-03-10T18:11:21.000Z</updated>
+        <summary type="html"><![CDATA[The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To AWS Cloud Development Kit (CDK)]]></title>
+        <id>https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/</id>
+        <link href="https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/"/>
+        <updated>2022-03-10T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vivek Maskara)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Developed My First Adventure Game]]></title>
         <id>60c5b9d1d3126007592d75b4</id>
@@ -1677,60 +1727,6 @@ SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks.
 How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Dave Seidman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitts’ Law In The Touch Era]]></title>
-        <id>https://smashingmagazine.com/2022/02/fitts-law-touch-era/</id>
-        <link href="https://smashingmagazine.com/2022/02/fitts-law-touch-era/"/>
-        <updated>2022-02-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Steven Hoober)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Motion Isn’t Always prefers-reduced-motion]]></title>
-        <id>https://css-tricks.com/?p=363057</id>
-        <link href="https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/"/>
-        <updated>2022-02-08T20:55:51.000Z</updated>
-        <summary type="html"><![CDATA[There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  
-…
-No Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replace JavaScript Dialogs With the New HTML Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=362672</id>
-        <link href="https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/"/>
-        <updated>2022-02-08T15:09:40.000Z</updated>
-        <summary type="html"><![CDATA[You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.
-Let me explain.
-I recently worked on a project with a lot of …
-Replace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mads Stoumann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify Has Scheduled Functions]]></title>
-        <id>https://css-tricks.com/?p=363380</id>
-        <link href="https://css-tricks.com/netlify-has-scheduled-functions/"/>
-        <updated>2022-02-08T15:08:47.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Hey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …
-Netlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
 </feed>

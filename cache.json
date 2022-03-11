@@ -394,36 +394,6 @@
           "wordCount": 1312,
           "title": "How to Make CSS Slanted Containers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362940"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363057",
-          "author": "Chris Coyier",
-          "description": "There is a code snippet that I see all the time when the media query prefers-reduced-motion is talked about. Here it is:\n@media (prefers-reduced-motion: reduce) {\n  * {\n    animation-duration: 0.01ms !important;\n    animation-iteration-count: 1 !important;\n    transition-duration: 0.01ms !important;\n    scroll-behavior: auto !important;\n  \n…\nNo Motion Isn’t Always prefers-reduced-motion originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/nuking-motion-with-prefers-reduced-motion/",
-          "publishedOn": "2022-02-08T20:55:51.000Z",
-          "wordCount": 1181,
-          "title": "No Motion Isn’t Always prefers-reduced-motion",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363057"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362672",
-          "author": "Mads Stoumann",
-          "description": "You know how there are JavaScript dialogs for alerting, confirming, and prompting user actions? Say you want to replace JavaScript dialogs with the new HTML dialog element.\nLet me explain.\nI recently worked on a project with a lot of …\nReplace JavaScript Dialogs With the New HTML Dialog Element originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/replace-javascript-dialogs-html-dialog-element/",
-          "publishedOn": "2022-02-08T15:09:40.000Z",
-          "wordCount": 3942,
-          "title": "Replace JavaScript Dialogs With the New HTML Dialog Element",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/362672"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363380",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nHey! Scheduled Functions are cool! Think of them like a CRON job. I want this code to run every Monday at 2pm. I want this code run every hour on the hour. That kind …\nNetlify Has Scheduled Functions originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/netlify-has-scheduled-functions/",
-          "publishedOn": "2022-02-08T15:08:47.000Z",
-          "wordCount": 707,
-          "title": "Netlify Has Scheduled Functions",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363380"
         }
       ]
     },
@@ -432,6 +402,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
+          "author": "hello@smashingmagazine.com (Vivek Maskara)",
+          "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
+          "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
+          "publishedOn": "2022-03-10T18:00:00.000Z",
+          "wordCount": 3679,
+          "title": "An Introduction To AWS Cloud Development Kit (CDK)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part2/",
           "author": "hello@smashingmagazine.com (Jhey Tompkins)",
@@ -731,21 +716,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a885ddca-3e45-4167-8475-3ccd9181e712/web-design-done-well-perfectly-pointless.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
-          "author": "hello@smashingmagazine.com (Steven Hoober)",
-          "description": "In this article, Steven Hoober shines the spotlight on Fitts’ Law and explains why we should always ask questions and consider what particular guidelines and lessons mean to our users and our products.",
-          "link": "https://smashingmagazine.com/2022/02/fitts-law-touch-era/",
-          "publishedOn": "2022-02-09T12:00:00.000Z",
-          "wordCount": 3415,
-          "title": "Fitts’ Law In The Touch Era",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5b558fa6-25b4-4ec2-922a-469910f989a1/fitts-law-touch-era.jpg"
         }
       ]
     },
@@ -754,6 +724,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6220e4a7c4d0d306772f366e",
+          "author": "Andrew Brown",
+          "description": "This exam mostly deals with cloud-native  concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
+          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-and-cloud-native-associate-study-course-pass-the-exam-with-this-free-13-hour-course/",
+          "publishedOn": "2022-03-10T20:19:15.000Z",
+          "wordCount": null,
+          "title": "CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course",
+          "imageUrl": null
+        },
+        {
+          "id": "6226651763ded806bb9e60eb",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how",
+          "link": "https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/",
+          "publishedOn": "2022-03-10T19:20:03.000Z",
+          "wordCount": 1692,
+          "title": "How to Execute and Run Java Code from the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Run-Java-Using-The-Terminal---freeCodeCamp-Cover-image.jpg"
+        },
+        {
+          "id": "622a09b763ded806bb9e7c6f",
+          "author": "Kolade Chris",
+          "description": "Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You",
+          "link": "https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/",
+          "publishedOn": "2022-03-10T19:03:32.000Z",
+          "wordCount": 751,
+          "title": "How to Rename a Local or Remote Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git.png"
+        },
+        {
+          "id": "6228676363ded806bb9e6fa7",
+          "author": "Zaira Hira",
+          "description": "The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in",
+          "link": "https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/",
+          "publishedOn": "2022-03-10T18:11:21.000Z",
+          "wordCount": 1000,
+          "title": "Python Print Without New Line – Print on the Same Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip.png"
+        },
         {
           "id": "60c5b9d1d3126007592d75b4",
           "author": "Andrea Koutifaris",
