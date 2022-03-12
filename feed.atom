@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-11T01:02:20.080Z</updated>
+    <updated>2022-03-12T00:55:24.329Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Comment Block – How to Comment Out Code in Python]]></title>
+        <id>622ae68d63ded806bb9e81de</id>
+        <link href="https://www.freecodecamp.org/news/python-comment-block-how-to-comment-out-code-in-python/"/>
+        <updated>2022-03-11T20:11:40.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about comments in Python, why they are important, and how to use them effectively in your code.  When to Use Comments In this section, we'll talk about some of the general use cases for comments. These aren't only applicable to Python, but to most]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a New Stacking Context with the Isolation Property in CSS]]></title>
+        <id>61e5c35ab837d507ba0a4b06</id>
+        <link href="https://www.freecodecamp.org/news/the-css-isolation-property/"/>
+        <updated>2022-03-11T20:03:45.000Z</updated>
+        <summary type="html"><![CDATA[What is the CSS Isolation Property? In CSS, you can use the isolation property to create a new stacking context. Here's what that looks like: .container-for-new-stacking-context {   isolation: isolate; } The default value for isolation is auto, which is a bit more nuanced as a stacking context can]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Concatenate Strings – How to Combine and Append Strings in Python]]></title>
+        <id>622a2a6663ded806bb9e7d22</id>
+        <link href="https://www.freecodecamp.org/news/python-concatenate-strings-how-to-combine-and-append-strings-in-python/"/>
+        <updated>2022-03-11T17:19:31.000Z</updated>
+        <summary type="html"><![CDATA[When you're learning a programming language, you're likely to come across a data type called a string. A string usually contains a series of characters nested in quotation marks that can be represented as a text.  In this article, we will talk about string concatenation in Python. This is]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide To Mobile App Marketing]]></title>
+        <id>https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/</id>
+        <link href="https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/"/>
+        <updated>2022-03-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sona Dabaghyan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
+        <id>6220e4a7c4d0d306772f366e</id>
+        <link href="https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/"/>
+        <updated>2022-03-10T20:19:15.000Z</updated>
+        <summary type="html"><![CDATA[This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course]]></title>
         <id>6220e4a7c4d0d306772f366e</id>
@@ -1705,28 +1755,6 @@ A Chrome Extension for Cloudinary That Helps You Pluck Out Useful Media URLs Fro
         <summary type="html"><![CDATA[If you wanna build apps on the blockchain, you are likely going to need a way to query data. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to query data on the blockchain in order to build your own decentralized apps. Ania Kubów]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVGcode for “Live Tracing” Raster Images]]></title>
-        <id>https://css-tricks.com/?p=362777</id>
-        <link href="https://css-tricks.com/svgcode-raster-to-vector/"/>
-        <updated>2022-02-09T21:39:41.000Z</updated>
-        <summary type="html"><![CDATA[Say you have a bitmap graphic — like a JPG, PNG, or GIF — and you wish it was vector, like SVG. What do you do? You could trace it yourself in some kind of design software. Or tools within …
-SVGcode for “Live Tracing” Raster Images originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make CSS Slanted Containers]]></title>
-        <id>https://css-tricks.com/?p=362940</id>
-        <link href="https://css-tricks.com/css-slanted-containers/"/>
-        <updated>2022-02-09T15:19:47.000Z</updated>
-        <summary type="html"><![CDATA[I was updating my portfolio and wanted to use the forward slash (/) as a visual element for the site’s main layout. I hadn’t attempted to create a slanted container in CSS before, but it seemed like it …
-How to Make CSS Slanted Containers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Dave Seidman</name>
         </author>
     </entry>
 </feed>
