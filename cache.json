@@ -313,6 +313,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
+          "author": "hello@smashingmagazine.com (Tom Hastjarjanto)",
+          "description": "Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.",
+          "link": "https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/",
+          "publishedOn": "2022-03-14T12:30:00.000Z",
+          "wordCount": 1630,
+          "title": "Improving The CI/CD Flow For Your Application",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
           "author": "hello@smashingmagazine.com (Sona Dabaghyan)",
           "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
@@ -634,6 +649,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "622acecd63ded806bb9e8101",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy",
+          "link": "https://www.freecodecamp.org/news/plugins-in-figma/",
+          "publishedOn": "2022-03-14T20:42:03.000Z",
+          "wordCount": 1093,
+          "title": "How to Use Plugins in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-picjumbocom-196645.jpg"
+        },
+        {
+          "id": "622cecd663ded806bb9e8dfd",
+          "author": "Sebastian Sigl",
+          "description": "Containers are everywhere in today’s tech world. The most popular technology for container management is Docker [https://www.docker.com/]. It makes using containers easy and helps you easily get applications up and running.  Unfortunately, this can take a lot of disk space, and you will eventually end up with a full",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-all-docker-images-a-docker-cleanup-guide/",
+          "publishedOn": "2022-03-14T20:25:16.000Z",
+          "wordCount": 873,
+          "title": "How to Remove All Docker Images – A Docker Cleanup Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/docker-cleanup-guide.png"
+        },
+        {
+          "id": "622c9d4363ded806bb9e8a9f",
+          "author": "Nishant Kumar",
+          "description": "Building a full-stack application can be tough. And the base of building such an application is learning how to perform CRUD operations – Create, Read, Update, and Delete.  It's by using these operations that we manage the data flow between the client application and the server. So, in this",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/",
+          "publishedOn": "2022-03-14T19:49:03.000Z",
+          "wordCount": 1773,
+          "title": "How to Perform CRUD Operations using Angular 13",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/How-to-Build-a-Weather-Application-using-React--82-.png"
+        },
+        {
+          "id": "622c7bf563ded806bb9e8a20",
+          "author": "Gaël Thomas",
+          "description": "Do you like listening to music while you code? If so, you're in luck. This blog post is all about music for programming.  In this reference guide, I'll be sharing a variety of different playlists, radio stations, and videos that you can listen to while coding. Whether you're a",
+          "link": "https://www.freecodecamp.org/news/music-for-programming-youtube-channels-twitchtv-web-radios-and-more/",
+          "publishedOn": "2022-03-14T19:16:43.000Z",
+          "wordCount": 811,
+          "title": "Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Big-Text-How-to-Youtube-Thumbnail.png"
+        },
+        {
+          "id": "62239491c4d0d306772f4a00",
+          "author": "Tiago Monteiro",
+          "description": "Did you know that it is thanks to compilers that software exists? Exactly – compilers are very important, and some form of a compiler exists in all programming languages. But, what is a compiler? What do they do exactly? This article will teach you:  1. What a compiler is",
+          "link": "https://www.freecodecamp.org/news/what-is-a-compiler-in-c/",
+          "publishedOn": "2022-03-14T18:39:43.000Z",
+          "wordCount": 1214,
+          "title": "What is a Compiler? Compilers in C Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/1-YhjIVZXE56R6YZaTF-Lzig.jpeg"
+        },
+        {
+          "id": "622b53f963ded806bb9e8436",
+          "author": "Zaira Hira",
+          "description": "Removing files and formatting disks is a common task for users. And Linux provides a number of utilities to delete files and folders from the command line.  The most common command to delete files and folders is rm and rmdir, respectively. You can read in detail about the rm",
+          "link": "https://www.freecodecamp.org/news/securely-erasing-a-disk-and-file-using-linux-command-shred/",
+          "publishedOn": "2022-03-14T14:55:27.000Z",
+          "wordCount": 1117,
+          "title": "How to Securely Erase a Disk and File using the Linux shred Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/shred--2-.gif"
+        },
+        {
+          "id": "6221c8d2c4d0d306772f3f43",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn the basics of dictionaries in Python. You will learn how to create dictionaries, access the elements inside them, and how to modify them depending on your needs. You will also learn some of the most common built-in methods used on dictionaries. Here is what",
+          "link": "https://www.freecodecamp.org/news/create-a-dictionary-in-python-python-dict-methods/",
+          "publishedOn": "2022-03-14T14:19:43.000Z",
+          "wordCount": 3091,
+          "title": "Create a Dictionary in Python – Python Dict Methods",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-kevin-ku-577585.jpg"
+        },
+        {
+          "id": "62134fa821bfb3068cf2bf43",
+          "author": "Jessica Wilkins",
+          "description": "If you ever need to skip part of the current loop you are in or break out of the loop completely, then you can use the break and continue statements. In this article, I will cover how to use the break and continue statements in your Python code. How to",
+          "link": "https://www.freecodecamp.org/news/python-break-and-python-continue-how-to-skip-to-the-next-function/",
+          "publishedOn": "2022-03-14T13:55:01.000Z",
+          "wordCount": 839,
+          "title": "Python Break and Python Continue – How to Skip to the Next Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/thisisengineering-raeng-uyfohHiTxho-unsplash.jpg"
+        },
         {
           "id": "622ae68d63ded806bb9e81de",
           "author": "Ihechikara Vincent Abba",

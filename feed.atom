@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-14T00:59:49.537Z</updated>
+    <updated>2022-03-15T01:01:12.566Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Plugins in Figma]]></title>
+        <id>622acecd63ded806bb9e8101</id>
+        <link href="https://www.freecodecamp.org/news/plugins-in-figma/"/>
+        <updated>2022-03-14T20:42:03.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove All Docker Images – A Docker Cleanup Guide]]></title>
+        <id>622cecd663ded806bb9e8dfd</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-all-docker-images-a-docker-cleanup-guide/"/>
+        <updated>2022-03-14T20:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Containers are everywhere in today’s tech world. The most popular technology for container management is Docker [https://www.docker.com/]. It makes using containers easy and helps you easily get applications up and running.  Unfortunately, this can take a lot of disk space, and you will eventually end up with a full]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform CRUD Operations using Angular 13]]></title>
+        <id>622c9d4363ded806bb9e8a9f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/"/>
+        <updated>2022-03-14T19:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Building a full-stack application can be tough. And the base of building such an application is learning how to perform CRUD operations – Create, Read, Update, and Delete.  It's by using these operations that we manage the data flow between the client application and the server. So, in this]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives]]></title>
+        <id>622c7bf563ded806bb9e8a20</id>
+        <link href="https://www.freecodecamp.org/news/music-for-programming-youtube-channels-twitchtv-web-radios-and-more/"/>
+        <updated>2022-03-14T19:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Do you like listening to music while you code? If so, you're in luck. This blog post is all about music for programming.  In this reference guide, I'll be sharing a variety of different playlists, radio stations, and videos that you can listen to while coding. Whether you're a]]></summary>
+        <author>
+            <name>Gaël Thomas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Compiler? Compilers in C Explained for Beginners]]></title>
+        <id>62239491c4d0d306772f4a00</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-compiler-in-c/"/>
+        <updated>2022-03-14T18:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that it is thanks to compilers that software exists? Exactly – compilers are very important, and some form of a compiler exists in all programming languages. But, what is a compiler? What do they do exactly? This article will teach you:  1. What a compiler is]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Securely Erase a Disk and File using the Linux shred Command]]></title>
+        <id>622b53f963ded806bb9e8436</id>
+        <link href="https://www.freecodecamp.org/news/securely-erasing-a-disk-and-file-using-linux-command-shred/"/>
+        <updated>2022-03-14T14:55:27.000Z</updated>
+        <summary type="html"><![CDATA[Removing files and formatting disks is a common task for users. And Linux provides a number of utilities to delete files and folders from the command line.  The most common command to delete files and folders is rm and rmdir, respectively. You can read in detail about the rm]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Dictionary in Python – Python Dict Methods]]></title>
+        <id>6221c8d2c4d0d306772f3f43</id>
+        <link href="https://www.freecodecamp.org/news/create-a-dictionary-in-python-python-dict-methods/"/>
+        <updated>2022-03-14T14:19:43.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn the basics of dictionaries in Python. You will learn how to create dictionaries, access the elements inside them, and how to modify them depending on your needs. You will also learn some of the most common built-in methods used on dictionaries. Here is what]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Break and Python Continue – How to Skip to the Next Function]]></title>
+        <id>62134fa821bfb3068cf2bf43</id>
+        <link href="https://www.freecodecamp.org/news/python-break-and-python-continue-how-to-skip-to-the-next-function/"/>
+        <updated>2022-03-14T13:55:01.000Z</updated>
+        <summary type="html"><![CDATA[If you ever need to skip part of the current loop you are in or break out of the loop completely, then you can use the break and continue statements. In this article, I will cover how to use the break and continue statements in your Python code. How to]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The CI/CD Flow For Your Application]]></title>
+        <id>https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/</id>
+        <link href="https://smashingmagazine.com/2022/03/improving-ci-cd-flow-application/"/>
+        <updated>2022-03-14T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Looking for ways to create a smooth CI/CD flow for your software? In this article, Tom Hastjarjanto shares some useful concepts that can be combined with GitHub Actions and NPM packages. With this setup, you will be able to release multiple times per hour with a fully documented trace managed by Git.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tom Hastjarjanto)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Comment Block – How to Comment Out Code in Python]]></title>
         <id>622ae68d63ded806bb9e81de</id>
