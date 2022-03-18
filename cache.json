@@ -264,36 +264,6 @@
           "wordCount": 1201,
           "title": "An Auto-Filling CSS Grid With Max Columns of a Minimum Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363541"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363604",
-          "author": "Chris Coyier",
-          "description": "Greensock made the GSAP Flip plugin free in the 3.9 release. FLIP is an animation concept that helps make super performance state-change animations. Ryan Mulligan has a good blog post: \nFLIP, coined by Paul Lewis, is an \n…\nGSAP Flip Plugin for Animation originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/gsap-flip-plugin-for-animation/",
-          "publishedOn": "2022-02-15T21:41:10.000Z",
-          "wordCount": 526,
-          "title": "GSAP Flip Plugin for Animation",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363604"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363124",
-          "author": "Harshil Patel",
-          "description": "Creating CSS link hover effects can add a bit of flair to an otherwise bland webpage. If you’ve ever found yourself stumped trying to make a slick hover effect, then I have six CSS effects for you to take and …\n6 Creative Ideas for CSS Link Hover Effects originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-link-hover-effects/",
-          "publishedOn": "2022-02-15T15:37:04.000Z",
-          "wordCount": 2429,
-          "title": "6 Creative Ideas for CSS Link Hover Effects",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363124"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363739",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\n✋ High fives to WordPress for releasing version 5.9 on January 29! This was the long-awaited introduction of the Site Editor and the reverberations are still being felt across the 43% slice of the …\nWordPress.com Has a New Home on YouTube originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-com-has-a-new-home-on-youtube/",
-          "publishedOn": "2022-02-15T15:35:35.000Z",
-          "wordCount": 493,
-          "title": "WordPress.com Has a New Home on YouTube",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363739"
         }
       ]
     },
@@ -601,21 +571,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddeff5f-3d06-4d4f-9f90-b5e55761bb12/thoughts-on-markdown.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "We all need a little inspiration boost every now and again. In this post, we collected inspiring resources from all across the web for you — beautiful eye candy, tips to challenge your skills, and useful tools that are bound to spark new ideas. Enjoy!",
-          "link": "https://smashingmagazine.com/2022/02/inspiring-websites-tools/",
-          "publishedOn": "2022-02-16T11:30:00.000Z",
-          "wordCount": 3731,
-          "title": "Falling In Love With The Web: Inspiring Websites And Tools",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/04bfe761-b62e-4717-89c3-9099cb0286bb/inspiring-websites-tools.jpg"
         }
       ]
     },
@@ -624,6 +579,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62333a16cdcd57069ddfa7f3",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When creating a program, you may need to get numerical input from users and perform various mathematical operations on the value.  Similarly, there are cases where you might want to perform mathematical operations on string values.  In both cases, the values returned are strings so we cannot perform",
+          "link": "https://www.freecodecamp.org/news/python-string-to-int-convert-a-string-example/",
+          "publishedOn": "2022-03-17T23:53:39.000Z",
+          "wordCount": 743,
+          "title": "Python String to Int – Convert a String Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/integer.jpg"
+        },
+        {
+          "id": "62322496cdcd57069ddfa225",
+          "author": "Beau Carnes",
+          "description": "WebGPU is the next-generation graphics API and future web standard for graphics and compute, aiming to provide modern 3D graphics and computation capabilities with the GPU acceleration. We just published a WebGPU course on the freeCodeCmap.org YouTube channel.  Dr. Jack Xu developed this course. Dr. Xu has over 25",
+          "link": "https://www.freecodecamp.org/news/learn-webgpu-a-next-generation-graphics-api-for-the-web/",
+          "publishedOn": "2022-03-17T21:33:19.000Z",
+          "wordCount": 14096,
+          "title": "Learn WebGPU – A next-generation graphics API for the web",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/webgpu.png"
+        },
+        {
+          "id": "62331abccdcd57069ddfa72f",
+          "author": "Zaira Hira",
+          "description": "Searching for files is relatively easy when you are using a GUI. But in certain environments like GUI-less servers, you need to search for files using the command line.  There is a powerful command in Linux that helps you search for files and folders called find. In this article,",
+          "link": "https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/",
+          "publishedOn": "2022-03-17T19:55:40.000Z",
+          "wordCount": 1169,
+          "title": "How to Search for Files from the Linux Command Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-remove-key-val.gif"
+        },
+        {
+          "id": "621d17ecc4d0d306772f1b2f",
+          "author": "Slimane Aguersif",
+          "description": "In this article I'm going to discuss some use cases of REM (Root EM) in CSS.  I will begin with some background knowledge about CSS properties and values, which I think is necessary. Then I'll discuss the differences between absolute length values and relative ones. REM is a relative",
+          "link": "https://www.freecodecamp.org/news/what-is-rem-in-css/",
+          "publishedOn": "2022-03-17T19:47:22.000Z",
+          "wordCount": 1943,
+          "title": "CSS REM – What is REM in CSS?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/rem-in-css-cover-image.jpeg"
+        },
+        {
+          "id": "623308b9cdcd57069ddfa696",
+          "author": "Kolade Chris",
+          "description": "While running a Python program, there might be times when you'd like to delay the execution of the program for some seconds. The Python time module has a built-in function called time.sleep() with which you can delay the execution of a program. With the sleep() function, you can get more",
+          "link": "https://www.freecodecamp.org/news/python-sleep-time-sleep-in-python/",
+          "publishedOn": "2022-03-17T17:22:29.000Z",
+          "wordCount": 686,
+          "title": "Python Sleep – time.sleep() in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/sleep.png"
+        },
+        {
+          "id": "6233481fcdcd57069ddfa86c",
+          "author": "Beau Carnes",
+          "description": "If you are looking for a web developer job it can be helpful to have a portfolio website. It can also be helpful to have projects you've created to show to potential employers. You can accomplish both tasks at once by creating your own portfolio website with HTML, CSS, &",
+          "link": "https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/",
+          "publishedOn": "2022-03-17T14:49:23.000Z",
+          "wordCount": 24496,
+          "title": "Create a Portfolio Website Using HTML, CSS, & JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/portfoliojs.png"
+        },
+        {
+          "id": "6231a5b3c3e3d106805db9fc",
+          "author": "Ashutosh Krishna",
+          "description": "In this Python tutorial, we'll learn how to build a terminal application (CLI app) to manage our contact book.  We'll use Typer for building the CLI app, Rich for a colorized terminal output, and TinyDB for the database. Get your tools ready We'll be using a few external libraries",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb/",
+          "publishedOn": "2022-03-17T00:15:43.000Z",
+          "wordCount": 1846,
+          "title": "How to Build a Contact Book Application in Python using Rich, Typer, and TinyDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/contact-book.png"
+        },
         {
           "id": "62321616cdcd57069ddfa114",
           "author": "Germán Cocca",
@@ -1713,26 +1738,6 @@
           "wordCount": 7123,
           "title": "The 30-minute guide to rocking your next coding interview",
           "imageUrl": "https://cdn-media-1.freecodecamp.org/images/1*Qf9fEs5XdOEQiWX3R6R6ww.jpeg"
-        },
-        {
-          "id": "620c202c21bfb3068cf290cb",
-          "author": "Beau Carnes",
-          "description": "Swift is one of the main languages used for iOS development. What better way to learn how to build an iOS app than to recreate a popular app? We just published a 5-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Swift 5, UIKit, and",
-          "link": "https://www.freecodecamp.org/news/learn-ios-development-by-building-a-netflix-clone/",
-          "publishedOn": "2022-02-15T22:02:32.000Z",
-          "wordCount": 525,
-          "title": "Learn iOS Development by Building a Netflix Clone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/maxresdefault-1.jpeg"
-        },
-        {
-          "id": "620abe4a21bfb3068cf28888",
-          "author": "Kolade Chris",
-          "description": "In your applications and web projects, there might be times when a user needs to perform an action if a certain condition is met. There might also be cases when you need to make the user perform another action if the condition is not met. To do this in Python,",
-          "link": "https://www.freecodecamp.org/news/python-if-else-python-conditional-syntax-example/",
-          "publishedOn": "2022-02-15T17:43:26.000Z",
-          "wordCount": 1247,
-          "title": "Python If-Else – Python Conditional Syntax Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/py.png"
         }
       ]
     }
