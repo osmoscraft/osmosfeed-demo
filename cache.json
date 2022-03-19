@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=364090",
+          "author": "Bence Szabó",
+          "description": "I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …\nOptimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/optimizing-svg-patterns/",
+          "publishedOn": "2022-03-18T22:31:22.000Z",
+          "wordCount": 2521,
+          "title": "Optimizing SVG Patterns to Their Smallest Size",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364090"
+        },
+        {
           "id": "https://css-tricks.com/?p=365042",
           "author": "Chris Coyier",
           "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
@@ -244,26 +254,6 @@
           "wordCount": 771,
           "title": "Top Things You Didn’t Know You Could Do With Netlify CLI￼",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363872"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363861",
-          "author": "Chris Coyier",
-          "description": "A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …\nAdd-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/add-to-calendar-button-ui-widget/",
-          "publishedOn": "2022-02-17T01:14:21.000Z",
-          "wordCount": 799,
-          "title": "Add-to-Calendar Button UI Widget",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363861"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363541",
-          "author": "Mike Herchel",
-          "description": "Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.\nThe requirements are:\nThe user specifies a maximum number of columns. This is the auto-filling grid’s “natural” \n…\nAn Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/",
-          "publishedOn": "2022-02-16T15:06:57.000Z",
-          "wordCount": 1201,
-          "title": "An Auto-Filling CSS Grid With Max Columns of a Minimum Size",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363541"
         }
       ]
     },
@@ -272,6 +262,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
+          "author": "hello@smashingmagazine.com (Joseph Zimmerman)",
+          "description": "Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.",
+          "link": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
+          "publishedOn": "2022-03-18T10:30:00.000Z",
+          "wordCount": 6394,
+          "title": "How To Make A Drag-and-Drop File Uploader With Vue.js 3",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -579,6 +584,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6233b95bcdcd57069ddfadb1",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When crafting the logic in your code, you may want to execute different commands depending on the similarities or differences between two or more strings.  In this article, we'll see various operators that can help us check if strings are equal or not. If two strings are equal, the",
+          "link": "https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/",
+          "publishedOn": "2022-03-18T22:00:00.000Z",
+          "wordCount": 955,
+          "title": "Python Compare Strings – How to Check for String Equality",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/compare1.jpg"
+        },
+        {
+          "id": "6228643563ded806bb9e6f77",
+          "author": "Dionysia Lemonaki",
+          "description": "At the start of your web development journey, you will often hear about the frontend and the backend parts of an application. But what do these terms mean exactly? In this article, you will learn about the differences between the two by examining the frontend and backend separately. Here is",
+          "link": "https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/",
+          "publishedOn": "2022-03-18T20:48:41.000Z",
+          "wordCount": 3147,
+          "title": "Frontend VS Backend – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-christina-morillo-1181677.jpg"
+        },
         {
           "id": "62333a16cdcd57069ddfa7f3",
           "author": "Ihechikara Vincent Abba",
@@ -1658,86 +1683,6 @@
           "wordCount": 1571,
           "title": "How to Start a Freelance Dev Business",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/freelance-dev-business-article-image.jpg"
-        },
-        {
-          "id": "620a157456125b0677c64db4",
-          "author": "Dionysia Lemonaki",
-          "description": "Remote work is becoming more common and more popular, as an increasing number of people want to have a flexible working schedule. There is no better time than now to find a remote job and to work from home. There are plenty of roles that can be done remotely, especially",
-          "link": "https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/",
-          "publishedOn": "2022-02-16T22:34:11.000Z",
-          "wordCount": 4021,
-          "title": "Remote Work – How to Find Remote Working Jobs from Home",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/kornel-mahl-mV4GwTDD8Tw-unsplash.jpg"
-        },
-        {
-          "id": "620c966821bfb3068cf2938f",
-          "author": "Kolade Chris",
-          "description": "If you're a Python beginner, becoming familiar with all its various data types can be confusing at first. After all, there are a lot of them available to you in the language. In this article, I'm going to show you how to get the type of various data structures in",
-          "link": "https://www.freecodecamp.org/news/python-print-type-of-variable-how-to-get-var-type/",
-          "publishedOn": "2022-02-16T18:16:37.000Z",
-          "wordCount": 739,
-          "title": "Python Print Type of Variable – How to Get Var Type",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/typeinpython.png"
-        },
-        {
-          "id": "62091cf856125b0677c64cae",
-          "author": "Zaira Hira",
-          "description": "Linux is a widely used operating system and is quite important for developers.  There are times when you might need to have both operating systems – Windows and Linux – either for work, study, or even just experimentation.  Luckily, Windows provides a convenient utility for using Linux along",
-          "link": "https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/",
-          "publishedOn": "2022-02-16T17:30:44.000Z",
-          "wordCount": 817,
-          "title": "How to Install WSL2 (Windows Subsystem for Linux 2) on Windows 10",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/install-WSL2--2-.png"
-        },
-        {
-          "id": "620bf77e21bfb3068cf28f5c",
-          "author": "Zaira Hira",
-          "description": "Linux CLI is a powerful tool that can help you accomplish complex tasks.  One of the common operations you'll need to perform is to delete things. Just as like creating files and folders, deleting them from the Linux command line is something you'll do often.  In this post,",
-          "link": "https://www.freecodecamp.org/news/remove-directory-in-linux-how-to-delete-a-folder-from-the-command-line/",
-          "publishedOn": "2022-02-16T15:57:04.000Z",
-          "wordCount": 779,
-          "title": "Remove Directory in Linux – How to Delete a Folder from the Command Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
-        },
-        {
-          "id": "620be19f21bfb3068cf28dfa",
-          "author": "Reed Barger",
-          "description": "Here are three custom hooks that will add essential functionality to your React projects in just a line of code. React hooks are powerful for their ability to give us reusable stateful features that are separate from our components. I’ve put together a short list of three custom React hooks",
-          "link": "https://www.freecodecamp.org/news/react-hooks-your-next-project-needs/",
-          "publishedOn": "2022-02-16T15:39:06.000Z",
-          "wordCount": 1330,
-          "title": "3 React Hooks Your Next Project Needs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/3-react-hooks-your-next-project-needs.png"
-        },
-        {
-          "id": "620510f056125b0677c63a0f",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are using the Linux operating system on your desktop, you might have faced some audio issues before. Like when you're trying to get sound in your speakers when your headphones are connected to the audio jack.  If so, no worries! It is a pretty common issue that",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-broken-audio-in-headphones-and-speakers-linux/",
-          "publishedOn": "2022-02-16T15:27:21.000Z",
-          "wordCount": 821,
-          "title": "How to Fix Broken Audio in Headphones and Speakers in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Screenshot--10-.jpg"
-        },
-        {
-          "id": "61fb236ef2ed6b06db5ab8eb",
-          "author": "Seth Goldin",
-          "description": "These days, there are thousands of publicly available college courses on the web. You can audit those courses even if you're not enrolled in a program. In our video course [https://youtu.be/QeRSEoqpKVI], Sam Crombie and I explore what auditing is and why you should consider trying it.  We discuss how",
-          "link": "https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/",
-          "publishedOn": "2022-02-16T14:13:29.000Z",
-          "wordCount": 2320,
-          "title": "How to Audit a Class Online – Learn from Free University Courses",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/allaboutauditing.png"
-        },
-        {
-          "id": "5f9cb349740569d1a4cac7db",
-          "author": "Yangshun Tay",
-          "description": "Despite scoring decent grades in both my CS101 Algorithm class and my Data Structures class in university, I shudder at the thought of going through a coding interview that focuses on algorithms. Hence I spent the last three months figuring out how to improve my coding interview skills and eventually",
-          "link": "https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/",
-          "publishedOn": "2022-02-16T13:07:00.000Z",
-          "wordCount": 7123,
-          "title": "The 30-minute guide to rocking your next coding interview",
-          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/1*Qf9fEs5XdOEQiWX3R6R6ww.jpeg"
         }
       ]
     }

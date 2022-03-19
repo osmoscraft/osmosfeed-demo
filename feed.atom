@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-18T00:59:06.948Z</updated>
+    <updated>2022-03-19T00:56:25.894Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Optimizing SVG Patterns to Their Smallest Size]]></title>
+        <id>https://css-tricks.com/?p=364090</id>
+        <link href="https://css-tricks.com/optimizing-svg-patterns/"/>
+        <updated>2022-03-18T22:31:22.000Z</updated>
+        <summary type="html"><![CDATA[I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …
+Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bence Szabó</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Compare Strings – How to Check for String Equality]]></title>
+        <id>6233b95bcdcd57069ddfadb1</id>
+        <link href="https://www.freecodecamp.org/news/python-compare-strings-how-to-check-for-string-equality/"/>
+        <updated>2022-03-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When crafting the logic in your code, you may want to execute different commands depending on the similarities or differences between two or more strings.  In this article, we'll see various operators that can help us check if strings are equal or not. If two strings are equal, the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frontend VS Backend – What's the Difference?]]></title>
+        <id>6228643563ded806bb9e6f77</id>
+        <link href="https://www.freecodecamp.org/news/frontend-vs-backend-whats-the-difference/"/>
+        <updated>2022-03-18T20:48:41.000Z</updated>
+        <summary type="html"><![CDATA[At the start of your web development journey, you will often hear about the frontend and the backend parts of an application. But what do these terms mean exactly? In this article, you will learn about the differences between the two by examining the frontend and backend separately. Here is]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make A Drag-and-Drop File Uploader With Vue.js 3]]></title>
+        <id>https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/</id>
+        <link href="https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/"/>
+        <updated>2022-03-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Building on a previous article on How to Build a Drag-and-Drop File Uploader, we’ll be adding some new features, but more importantly (maybe), we’ll be learning how to build it in Vue 3 and learn some best practices for Vue along the way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joseph Zimmerman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python String to Int – Convert a String Example]]></title>
         <id>62333a16cdcd57069ddfa7f3</id>
@@ -1571,111 +1612,6 @@ First things first, if you didn’t know Netlify had a CLI, they do.  One of m
 Top Things You Didn’t Know You Could Do With Netlify CLI￼ originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add-to-Calendar Button UI Widget]]></title>
-        <id>https://css-tricks.com/?p=363861</id>
-        <link href="https://css-tricks.com/add-to-calendar-button-ui-widget/"/>
-        <updated>2022-02-17T01:14:21.000Z</updated>
-        <summary type="html"><![CDATA[A useful little UI widget thingy here from Jens Kuerschner. Click the add-to-calendar button, get a list of calendar apps, the user selects which one they actually use, and they get what they need for that calendar. Could be a …
-Add-to-Calendar Button UI Widget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Work – How to Find Remote Working Jobs from Home]]></title>
-        <id>620a157456125b0677c64db4</id>
-        <link href="https://www.freecodecamp.org/news/remote-work-how-to-find-remote-working-jobs-from-home/"/>
-        <updated>2022-02-16T22:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Remote work is becoming more common and more popular, as an increasing number of people want to have a flexible working schedule. There is no better time than now to find a remote job and to work from home. There are plenty of roles that can be done remotely, especially]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Print Type of Variable – How to Get Var Type]]></title>
-        <id>620c966821bfb3068cf2938f</id>
-        <link href="https://www.freecodecamp.org/news/python-print-type-of-variable-how-to-get-var-type/"/>
-        <updated>2022-02-16T18:16:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Python beginner, becoming familiar with all its various data types can be confusing at first. After all, there are a lot of them available to you in the language. In this article, I'm going to show you how to get the type of various data structures in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install WSL2 (Windows Subsystem for Linux 2) on Windows 10]]></title>
-        <id>62091cf856125b0677c64cae</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-wsl2-windows-subsystem-for-linux-2-on-windows-10/"/>
-        <updated>2022-02-16T17:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Linux is a widely used operating system and is quite important for developers.  There are times when you might need to have both operating systems – Windows and Linux – either for work, study, or even just experimentation.  Luckily, Windows provides a convenient utility for using Linux along]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove Directory in Linux – How to Delete a Folder from the Command Line]]></title>
-        <id>620bf77e21bfb3068cf28f5c</id>
-        <link href="https://www.freecodecamp.org/news/remove-directory-in-linux-how-to-delete-a-folder-from-the-command-line/"/>
-        <updated>2022-02-16T15:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Linux CLI is a powerful tool that can help you accomplish complex tasks.  One of the common operations you'll need to perform is to delete things. Just as like creating files and folders, deleting them from the Linux command line is something you'll do often.  In this post,]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 React Hooks Your Next Project Needs]]></title>
-        <id>620be19f21bfb3068cf28dfa</id>
-        <link href="https://www.freecodecamp.org/news/react-hooks-your-next-project-needs/"/>
-        <updated>2022-02-16T15:39:06.000Z</updated>
-        <summary type="html"><![CDATA[Here are three custom hooks that will add essential functionality to your React projects in just a line of code. React hooks are powerful for their ability to give us reusable stateful features that are separate from our components. I’ve put together a short list of three custom React hooks]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Broken Audio in Headphones and Speakers in Linux]]></title>
-        <id>620510f056125b0677c63a0f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-broken-audio-in-headphones-and-speakers-linux/"/>
-        <updated>2022-02-16T15:27:21.000Z</updated>
-        <summary type="html"><![CDATA[If you are using the Linux operating system on your desktop, you might have faced some audio issues before. Like when you're trying to get sound in your speakers when your headphones are connected to the audio jack.  If so, no worries! It is a pretty common issue that]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Auto-Filling CSS Grid With Max Columns of a Minimum Size]]></title>
-        <id>https://css-tricks.com/?p=363541</id>
-        <link href="https://css-tricks.com/an-auto-filling-css-grid-with-max-columns/"/>
-        <updated>2022-02-16T15:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Within Drupal 10 core, we’re implementing a new auto-filling CSS Grid technique that I think is cool enough to share with the world.
-The requirements are:
-The user specifies a maximum number of columns. This is the auto-filling grid’s “natural” 
-…
-An Auto-Filling CSS Grid With Max Columns of a Minimum Size originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mike Herchel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Audit a Class Online – Learn from Free University Courses]]></title>
-        <id>61fb236ef2ed6b06db5ab8eb</id>
-        <link href="https://www.freecodecamp.org/news/how-to-audit-a-class-university-course/"/>
-        <updated>2022-02-16T14:13:29.000Z</updated>
-        <summary type="html"><![CDATA[These days, there are thousands of publicly available college courses on the web. You can audit those courses even if you're not enrolled in a program. In our video course [https://youtu.be/QeRSEoqpKVI], Sam Crombie and I explore what auditing is and why you should consider trying it.  We discuss how]]></summary>
-        <author>
-            <name>Seth Goldin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 30-minute guide to rocking your next coding interview]]></title>
-        <id>5f9cb349740569d1a4cac7db</id>
-        <link href="https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/"/>
-        <updated>2022-02-16T13:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite scoring decent grades in both my CS101 Algorithm class and my Data Structures class in university, I shudder at the thought of going through a coding interview that focuses on algorithms. Hence I spent the last three months figuring out how to improve my coding interview skills and eventually]]></summary>
-        <author>
-            <name>Yangshun Tay</name>
         </author>
     </entry>
 </feed>
