@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=363745",
+          "author": "Jens Oliver Meiert",
+          "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
+          "publishedOn": "2022-03-21T20:08:38.000Z",
+          "wordCount": 1490,
+          "title": "Write HTML, the HTML Way (Not the XHTML Way)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
+        },
+        {
           "id": "https://css-tricks.com/?p=364090",
           "author": "Bence Szabó",
           "description": "I recently created a brick wall pattern as part of my #PetitePatterns series, a challenge where I create organic-looking patterns or textures in SVG within 560 bytes (or approximately the size of two tweets). To fit this constraint, I have …\nOptimizing SVG Patterns to Their Smallest Size originally published on CSS-Tricks. You should get the newsletter.",
@@ -222,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
+          "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
+          "publishedOn": "2022-03-21T12:30:00.000Z",
+          "wordCount": 2457,
+          "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/",
           "author": "hello@smashingmagazine.com (Joseph Zimmerman)",
@@ -529,6 +554,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6238da58cdcd57069ddfc85e",
+          "author": "Beau Carnes",
+          "description": "Visual Studio Code is one of the most popular code editors used by software developers. While it has many great features built-in, there are a lot of extensions you can install to increase your productivity.  We just published a video on the freeCodeCamp.org YouTube channel that will teach you",
+          "link": "https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/",
+          "publishedOn": "2022-03-21T20:23:21.000Z",
+          "wordCount": 6691,
+          "title": "VS Code Extensions to Increase Developer Productivity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/vscode.png"
+        },
+        {
+          "id": "6236cc8acdcd57069ddfba7a",
+          "author": "Jessica Wilkins",
+          "description": "freeCodeCamp's JavaScript certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/]  is filled with hundreds of interactive challenges. But one of the hardest ones to tackle for most beginners is the Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection] . In this article, I will walk you through Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-str",
+          "link": "https://www.freecodecamp.org/news/how-to-solve-the-record-collection-challenge/",
+          "publishedOn": "2022-03-21T18:14:42.000Z",
+          "wordCount": 1742,
+          "title": "How to Solve freeCodeCamp's Record Collection Challenge",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/fili-santillan-qp51FQhBnS0-unsplash.jpg"
+        },
+        {
+          "id": "62375a8dcdcd57069ddfbec1",
+          "author": "Daniel Rosa",
+          "description": "One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created",
+          "link": "https://www.freecodecamp.org/news/how-to-change-file-permissions-with-the-chmod-command-on-linux/",
+          "publishedOn": "2022-03-21T15:33:36.000Z",
+          "wordCount": 1376,
+          "title": "Chmod Command – How to Change File Permissions in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-artem-beliaikin-912005.jpg"
+        },
+        {
+          "id": "6236e160cdcd57069ddfbbbf",
+          "author": "Kolade Chris",
+          "description": "In your Python applications, you might want to work with time to add functionalities like timestamps, check the time of a user’s activity, and more. One of the modules that helps you work with date and time in Python is datetime. With the datetime module, you can get the current",
+          "link": "https://www.freecodecamp.org/news/how-to-get-the-current-time-in-python-with-datetime/",
+          "publishedOn": "2022-03-21T13:52:01.000Z",
+          "wordCount": 1044,
+          "title": "How to Get the Current Time in Python with Datetime",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/datetime.png"
+        },
+        {
+          "id": "6237b189cdcd57069ddfc248",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Error messages help us solve/fix problems in our code. But some error messages, when you first see them, may confuse you because they seem unclear.  One of these errors is the \"SyntaxError: unexpected EOF while parsing\" error you might get in Python. In this article, we'll see why this",
+          "link": "https://www.freecodecamp.org/news/syntaxerror-unexpected-eof-while-parsing-python-error-solved/",
+          "publishedOn": "2022-03-21T13:47:24.000Z",
+          "wordCount": 689,
+          "title": "SyntaxError Unexpected EOF While Parsing Python Error [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/solve.jpg"
+        },
         {
           "id": "6233b95bcdcd57069ddfadb1",
           "author": "Ihechikara Vincent Abba",
