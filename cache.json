@@ -233,6 +233,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
+          "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
+          "publishedOn": "2022-03-22T12:45:00.000Z",
+          "wordCount": 1272,
+          "title": "Good Design Is All About Good Timing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
           "author": "hello@smashingmagazine.com (Eric Bailey)",
           "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
@@ -554,6 +569,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "623848d7cdcd57069ddfc40d",
+          "author": "Zaira Hira",
+          "description": "When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution",
+          "link": "https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/",
+          "publishedOn": "2022-03-22T20:41:35.000Z",
+          "wordCount": 1112,
+          "title": "Else-If in Python – Python If Statement Example Syntax",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip--4-.png"
+        },
+        {
+          "id": "623a17b2cdcd57069ddfd0b3",
+          "author": "Beau Carnes",
+          "description": "The Go programming language is an open-source and compiled language designed by Google. Go is popular for cloud-based or server-side applications. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Go skills by teaching you how to create eleven projects. Akhil Sharma developed",
+          "link": "https://www.freecodecamp.org/news/learn-go-by-building-11-projects/",
+          "publishedOn": "2022-03-22T18:50:22.000Z",
+          "wordCount": 409,
+          "title": "Learn Go Programming by Building 11 Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/goprojects.png"
+        },
+        {
+          "id": "62358f0ccdcd57069ddfb8b4",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are using a Windows operating system, you have likely used the latest Windows PowerShell at least once.  Whenever you open the PowerShell, you get a text message inside the terminal which shows the terminal version, the link to download the latest PowerShell, and so on.  Sometimes",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-starting-text-from-powershell/",
+          "publishedOn": "2022-03-22T17:18:05.000Z",
+          "wordCount": 601,
+          "title": "How to Remove the Start Text from PowerShell",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Artboard-1-1.jpg"
+        },
+        {
+          "id": "62346eeacdcd57069ddfae72",
+          "author": "Suchandra Datta",
+          "description": "Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn",
+          "link": "https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/",
+          "publishedOn": "2022-03-22T00:21:14.000Z",
+          "wordCount": 1458,
+          "title": "Python Operator – Logical Operators in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-161154.jpg"
+        },
+        {
+          "id": "62376c2ecdcd57069ddfbf7f",
+          "author": "Germán Cocca",
+          "description": "Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/",
+          "publishedOn": "2022-03-21T23:31:54.000Z",
+          "wordCount": 5607,
+          "title": "How to Manage State in a React App – With Hooks, Redux, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg"
+        },
         {
           "id": "6238da58cdcd57069ddfc85e",
           "author": "Beau Carnes",
