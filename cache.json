@@ -214,16 +214,6 @@
           "wordCount": 2248,
           "title": "Reliably Send an HTTP Request as a User Leaves a Page",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363766",
-          "author": "Miriam Suzanne",
-          "description": "This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …\nA Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-cascade-layers/",
-          "publishedOn": "2022-02-21T15:40:35.000Z",
-          "wordCount": 7498,
-          "title": "A Complete Guide to CSS Cascade Layers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363766"
         }
       ]
     },
@@ -232,6 +222,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
+          "author": "hello@smashingmagazine.com (Louis Lazaris)",
+          "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
+          "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
+          "publishedOn": "2022-03-23T14:30:00.000Z",
+          "wordCount": 2811,
+          "title": "Those HTML Attributes You Never Use",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -516,51 +521,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
-          "author": "hello@smashingmagazine.com (Ilya Medvedev)",
-          "description": "How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.",
-          "link": "https://smashingmagazine.com/2022/02/develop-text-editor-web/",
-          "publishedOn": "2022-02-22T13:00:00.000Z",
-          "wordCount": 2185,
-          "title": "How To Develop A Text Editor For The Web",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e771d289-5725-48a4-b8b6-4ba30f2a2f44/develop-text-editor-web.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.",
-          "link": "https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/",
-          "publishedOn": "2022-02-22T06:00:00.000Z",
-          "wordCount": 8590,
-          "title": "Smashing Podcast Episode 45 With Jeremy Wagner: What Is Reponsible JavaScript?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2df699d2-9db3-46f6-9d32-cc79e4ce2005/smashing-podcast-episode-45.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2df699d2-9db3-46f6-9d32-cc79e4ce2005/smashing-podcast-episode-45.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.",
-          "link": "https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/",
-          "publishedOn": "2022-02-21T13:30:00.000Z",
-          "wordCount": 5935,
-          "title": "Testing Pipeline 101 For Frontend Testing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/96b8ad22-5da2-4bee-8696-2aa210727e4a/testing-pipeline-101-frontend-testing.jpg"
         }
       ]
     },
@@ -569,6 +529,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "623af0d3cdcd57069ddfd5bb",
+          "author": "Kolade Chris",
+          "description": "Lists are one of the core data structures in Python. We use them for storing any data type, whether it's an integer, string, boolean, or even an object. Because one list can store multiple types of data, lists are one of the most powerful and widely used tools for storing",
+          "link": "https://www.freecodecamp.org/news/create-a-list-in-python-lists-in-python-syntax/",
+          "publishedOn": "2022-03-23T20:32:31.000Z",
+          "wordCount": 1104,
+          "title": "Create a List in Python – Lists in Python Syntax",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/list.png"
+        },
+        {
+          "id": "6230d789c3e3d106805db72a",
+          "author": "Prajwal Kulkarni",
+          "description": "Kubernetes has become the go-to tool for orchestration, scaling, automated deployment, and management of containerized applications.  Simply put, Kubernetes is a system that maintains coordination between diverse applications across a group of machines. It is important to note that this system mostly deals with containerized applications, like Docker images.",
+          "link": "https://www.freecodecamp.org/news/kubernetes-security-common-vulnerabilities-and-exposures/",
+          "publishedOn": "2022-03-23T19:06:43.000Z",
+          "wordCount": 1386,
+          "title": "Kubernetes Security – Common Vulnerabilities and Exposures for K8s Programs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/jens-rademacher-kJOj4dU76mE-unsplash-1.jpg"
+        },
+        {
+          "id": "623a9306cdcd57069ddfd494",
+          "author": "Ashutosh Krishna",
+          "description": "In this article, we'll discuss *args and **kwargs in Python along with their uses and some examples. When writing a function, we often need to pass values to the function. These values are called function arguments.  Problem with Function Arguments Let's define a function to add two numbers in",
+          "link": "https://www.freecodecamp.org/news/args-and-kwargs-in-python/",
+          "publishedOn": "2022-03-23T18:55:00.000Z",
+          "wordCount": 846,
+          "title": "How to Use *args and **kwargs in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/args.png"
+        },
+        {
+          "id": "6238bd3dcdcd57069ddfc5ad",
+          "author": "Darren Chowles",
+          "description": "Logging into a website via third parties is ubiquitous online. Almost every other member-based website allows you to log in with accounts like Facebook, Twitter, and Google. If you’ve ever visited NFT marketplaces like OpenSea or Rarible, you would have noticed they allow you to sign in with a crypto",
+          "link": "https://www.freecodecamp.org/news/add-a-metamask-login-to-your-laravel-app/",
+          "publishedOn": "2022-03-23T18:38:03.000Z",
+          "wordCount": 1648,
+          "title": "How to Add a MetaMask Login to Your Laravel Web Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/photo.png"
+        },
+        {
+          "id": "6238d5a4cdcd57069ddfc7db",
+          "author": "Luke Ciciliano",
+          "description": "Disclaimer: This article should not be construed as advice for tax management or investment decisions.  Neither the author of this article, nor freeCodeCamp, are professionals in these areas. The discussion below is a matter of personal opinion only and you should discuss such matters with a licensed professional. If",
+          "link": "https://www.freecodecamp.org/news/taxes-for-freelance-developers/",
+          "publishedOn": "2022-03-23T13:52:08.000Z",
+          "wordCount": 11700,
+          "title": "Taxes for Freelance Developers – How Much Tax You Should Pay as a Freelancer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/1040.jpg"
+        },
+        {
+          "id": "6236e318cdcd57069ddfbc09",
+          "author": "Kolade Chris",
+          "description": "WordPress is an open-source content management system (CMS) for building any kind of website – an eCommerce site, a portfolio, a forum, and many more. WordPress started out as a simple platform for creating blogs, but today WordPress powers over 43% of the total websites on earth, and that number",
+          "link": "https://www.freecodecamp.org/news/is-wordpress-a-code-or-no-code-tool/",
+          "publishedOn": "2022-03-23T01:56:34.000Z",
+          "wordCount": 1373,
+          "title": "Is WordPress a Code or No-code Tool?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/wordpress--1-.png"
+        },
         {
           "id": "623848d7cdcd57069ddfc40d",
           "author": "Zaira Hira",
@@ -1598,76 +1618,6 @@
           "wordCount": 1118,
           "title": "How to Use localStorage with React Hooks to Set and Get Items",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Yellow-and-Purple-Geometric-Covid-19-General-Facts-Twitter-Post.jpg"
-        },
-        {
-          "id": "6213b45e21bfb3068cf2c103",
-          "author": "Reed Barger",
-          "description": "Feel confident about your React knowledge? Put it to the test! I have selected all of the major questions you should know as a React developer in 2022, whether you are interviewing for a hired position or not. These questions cover everything from the core concepts of React to a",
-          "link": "https://www.freecodecamp.org/news/react-interview-questions-to-know/",
-          "publishedOn": "2022-02-22T00:21:59.000Z",
-          "wordCount": 1913,
-          "title": "10 React Interview Questions You Should Know in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/react-interview-questions-1.png"
-        },
-        {
-          "id": "6210c04621bfb3068cf2b0a6",
-          "author": "Gaël Thomas",
-          "description": "Over the past few years, a lot of us have started working remotely. That's what I also did, and I fell in love with this life. Indeed, a bit more than two years ago, I started my first full-time job as a Software Engineer. And at the same time, I",
-          "link": "https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/",
-          "publishedOn": "2022-02-22T00:12:34.000Z",
-          "wordCount": 1993,
-          "title": "Working from Home – Tips to Help You Stay Productive",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/working-from-home-tips-to-stay-productive-3.png"
-        },
-        {
-          "id": "61d54402d2d9de084285c345",
-          "author": "Jessica Wilkins",
-          "description": "Learning how to code can help you start a great career as a software developer. There are many free courses you can take to cultivate the skills need to become a developer.  In this article, I'm going to show you 152 beginner friendly courses where you can learn computer",
-          "link": "https://www.freecodecamp.org/news/online-coding-classes-for-beginners-2022-guide/",
-          "publishedOn": "2022-02-21T19:24:05.000Z",
-          "wordCount": 5704,
-          "title": "Online Coding Classes – For Beginners [2022 Guide]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/arnold-francisca-f77Bh3inUpE-unsplash.jpg"
-        },
-        {
-          "id": "6213a92221bfb3068cf2c07b",
-          "author": "David Clinton",
-          "description": "Imagine a type of software development platform that enables developers to create applications without writing code.  Low-code platforms use visual drag and drop tools, pre-built components, and templates to help developers quickly create custom applications without any coding knowledge. I'm going to  introduce you to the basics of this",
-          "link": "https://www.freecodecamp.org/news/what-is-low-code/",
-          "publishedOn": "2022-02-21T19:02:17.000Z",
-          "wordCount": 1712,
-          "title": "What Is Low-Code Development?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/pexels-mockupeditorcom-205316.jpg"
-        },
-        {
-          "id": "620e41a421bfb3068cf2a1aa",
-          "author": "Dionysia Lemonaki",
-          "description": "There will be times where you need to convert one data type to another. Fear not, because Python offers a variety of different ways to help you do that. In this article, you'll see a few of the ways in which you can convert a string to a list. Here",
-          "link": "https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/",
-          "publishedOn": "2022-02-21T18:47:23.000Z",
-          "wordCount": 2283,
-          "title": "Python String to Array – How to Convert Text to a List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/steve-johnson-8VO-UxlJ-Lw-unsplash.jpg"
-        },
-        {
-          "id": "6210970621bfb3068cf2ae7a",
-          "author": "Nishant Kumar",
-          "description": "In this article, we'll build a RESTful API using Node, Express, and MongoDB. We will create endpoints for creating data, reading data, updating data, and deleting data (basic CRUD operations). But before we get started, make sure you have Node installed in your system. If not, go to https://nodejs.org/en/download/ to",
-          "link": "https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/",
-          "publishedOn": "2022-02-21T18:15:19.000Z",
-          "wordCount": 2349,
-          "title": "How to Build a RESTful API Using Node, Express, and MongoDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/How-to-Build-a-Weather-Application-using-React--65-.png"
-        },
-        {
-          "id": "618216378bcfae07ca4e073b",
-          "author": "Jessica Wilkins",
-          "description": "A symlink (symbolic) is a type of file that points to other files or directories (folders) in Linux.  You can create a symlink (symbolic) by using the ln command in the command line.  Symbolic links are useful because they act as shortcuts to a file or directory.",
-          "link": "https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/",
-          "publishedOn": "2022-02-21T16:05:08.000Z",
-          "wordCount": 1355,
-          "title": "Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/gabriel-heinzer-4Mw7nkQDByk-unsplash.jpg"
         }
       ]
     }

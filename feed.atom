@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-23T01:09:37.928Z</updated>
+    <updated>2022-03-24T01:02:42.504Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create a List in Python – Lists in Python Syntax]]></title>
+        <id>623af0d3cdcd57069ddfd5bb</id>
+        <link href="https://www.freecodecamp.org/news/create-a-list-in-python-lists-in-python-syntax/"/>
+        <updated>2022-03-23T20:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Lists are one of the core data structures in Python. We use them for storing any data type, whether it's an integer, string, boolean, or even an object. Because one list can store multiple types of data, lists are one of the most powerful and widely used tools for storing]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Security – Common Vulnerabilities and Exposures for K8s Programs]]></title>
+        <id>6230d789c3e3d106805db72a</id>
+        <link href="https://www.freecodecamp.org/news/kubernetes-security-common-vulnerabilities-and-exposures/"/>
+        <updated>2022-03-23T19:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has become the go-to tool for orchestration, scaling, automated deployment, and management of containerized applications.  Simply put, Kubernetes is a system that maintains coordination between diverse applications across a group of machines. It is important to note that this system mostly deals with containerized applications, like Docker images.]]></summary>
+        <author>
+            <name>Prajwal Kulkarni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use *args and **kwargs in Python]]></title>
+        <id>623a9306cdcd57069ddfd494</id>
+        <link href="https://www.freecodecamp.org/news/args-and-kwargs-in-python/"/>
+        <updated>2022-03-23T18:55:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll discuss *args and **kwargs in Python along with their uses and some examples. When writing a function, we often need to pass values to the function. These values are called function arguments.  Problem with Function Arguments Let's define a function to add two numbers in]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a MetaMask Login to Your Laravel Web Application]]></title>
+        <id>6238bd3dcdcd57069ddfc5ad</id>
+        <link href="https://www.freecodecamp.org/news/add-a-metamask-login-to-your-laravel-app/"/>
+        <updated>2022-03-23T18:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Logging into a website via third parties is ubiquitous online. Almost every other member-based website allows you to log in with accounts like Facebook, Twitter, and Google. If you’ve ever visited NFT marketplaces like OpenSea or Rarible, you would have noticed they allow you to sign in with a crypto]]></summary>
+        <author>
+            <name>Darren Chowles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Those HTML Attributes You Never Use]]></title>
+        <id>https://smashingmagazine.com/2022/03/html-attributes-you-never-use/</id>
+        <link href="https://smashingmagazine.com/2022/03/html-attributes-you-never-use/"/>
+        <updated>2022-03-23T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taxes for Freelance Developers – How Much Tax You Should Pay as a Freelancer]]></title>
+        <id>6238d5a4cdcd57069ddfc7db</id>
+        <link href="https://www.freecodecamp.org/news/taxes-for-freelance-developers/"/>
+        <updated>2022-03-23T13:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: This article should not be construed as advice for tax management or investment decisions.  Neither the author of this article, nor freeCodeCamp, are professionals in these areas. The discussion below is a matter of personal opinion only and you should discuss such matters with a licensed professional. If]]></summary>
+        <author>
+            <name>Luke Ciciliano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is WordPress a Code or No-code Tool?]]></title>
+        <id>6236e318cdcd57069ddfbc09</id>
+        <link href="https://www.freecodecamp.org/news/is-wordpress-a-code-or-no-code-tool/"/>
+        <updated>2022-03-23T01:56:34.000Z</updated>
+        <summary type="html"><![CDATA[WordPress is an open-source content management system (CMS) for building any kind of website – an eCommerce site, a portfolio, a forum, and many more. WordPress started out as a simple platform for creating blogs, but today WordPress powers over 43% of the total websites on earth, and that number]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Else-If in Python – Python If Statement Example Syntax]]></title>
         <id>623848d7cdcd57069ddfc40d</id>
@@ -1478,117 +1548,6 @@ Reliably Send an HTTP Request as a User Leaves a Page originally published on CS
         <summary type="html"><![CDATA[localStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date.  This means the data survives page refreshes (sessionStorage) and even browser restarts. This indicates that the data stored in the browser will remain even when]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Develop A Text Editor For The Web]]></title>
-        <id>https://smashingmagazine.com/2022/02/develop-text-editor-web/</id>
-        <link href="https://smashingmagazine.com/2022/02/develop-text-editor-web/"/>
-        <updated>2022-02-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do text typing and editing work on the web? Although this process might seem straightforward, there is a lot of technical nuance behind its apparent simplicity. This article looks at how typing on the web works.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ilya Medvedev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 45 With Jeremy Wagner: What Is Reponsible JavaScript?]]></title>
-        <id>https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/</id>
-        <link href="https://smashingmagazine.com/2022/02/smashing-podcast-episode-45/"/>
-        <updated>2022-02-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Responsible JavaScript. What does it mean for code to be responsible, and how should we approach projects differently? Drew McLellan talks to expert Jeremy Wagner to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 React Interview Questions You Should Know in 2022]]></title>
-        <id>6213b45e21bfb3068cf2c103</id>
-        <link href="https://www.freecodecamp.org/news/react-interview-questions-to-know/"/>
-        <updated>2022-02-22T00:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Feel confident about your React knowledge? Put it to the test! I have selected all of the major questions you should know as a React developer in 2022, whether you are interviewing for a hired position or not. These questions cover everything from the core concepts of React to a]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working from Home – Tips to Help You Stay Productive]]></title>
-        <id>6210c04621bfb3068cf2b0a6</id>
-        <link href="https://www.freecodecamp.org/news/working-from-home-tips-to-stay-productive/"/>
-        <updated>2022-02-22T00:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few years, a lot of us have started working remotely. That's what I also did, and I fell in love with this life. Indeed, a bit more than two years ago, I started my first full-time job as a Software Engineer. And at the same time, I]]></summary>
-        <author>
-            <name>Gaël Thomas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Coding Classes – For Beginners [2022 Guide]]]></title>
-        <id>61d54402d2d9de084285c345</id>
-        <link href="https://www.freecodecamp.org/news/online-coding-classes-for-beginners-2022-guide/"/>
-        <updated>2022-02-21T19:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Learning how to code can help you start a great career as a software developer. There are many free courses you can take to cultivate the skills need to become a developer.  In this article, I'm going to show you 152 beginner friendly courses where you can learn computer]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Low-Code Development?]]></title>
-        <id>6213a92221bfb3068cf2c07b</id>
-        <link href="https://www.freecodecamp.org/news/what-is-low-code/"/>
-        <updated>2022-02-21T19:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Imagine a type of software development platform that enables developers to create applications without writing code.  Low-code platforms use visual drag and drop tools, pre-built components, and templates to help developers quickly create custom applications without any coding knowledge. I'm going to  introduce you to the basics of this]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String to Array – How to Convert Text to a List]]></title>
-        <id>620e41a421bfb3068cf2a1aa</id>
-        <link href="https://www.freecodecamp.org/news/python-string-to-array-how-to-convert-text-to-a-list/"/>
-        <updated>2022-02-21T18:47:23.000Z</updated>
-        <summary type="html"><![CDATA[There will be times where you need to convert one data type to another. Fear not, because Python offers a variety of different ways to help you do that. In this article, you'll see a few of the ways in which you can convert a string to a list. Here]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RESTful API Using Node, Express, and MongoDB]]></title>
-        <id>6210970621bfb3068cf2ae7a</id>
-        <link href="https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/"/>
-        <updated>2022-02-21T18:15:19.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll build a RESTful API using Node, Express, and MongoDB. We will create endpoints for creating data, reading data, updating data, and deleting data (basic CRUD operations). But before we get started, make sure you have Node installed in your system. If not, go to https://nodejs.org/en/download/ to]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux ln – How to Create a Symbolic Link in Linux [Example Bash Command]]]></title>
-        <id>618216378bcfae07ca4e073b</id>
-        <link href="https://www.freecodecamp.org/news/linux-ln-how-to-create-a-symbolic-link-in-linux-example-bash-command/"/>
-        <updated>2022-02-21T16:05:08.000Z</updated>
-        <summary type="html"><![CDATA[A symlink (symbolic) is a type of file that points to other files or directories (folders) in Linux.  You can create a symlink (symbolic) by using the ln command in the command line.  Symbolic links are useful because they act as shortcuts to a file or directory.]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide to CSS Cascade Layers]]></title>
-        <id>https://css-tricks.com/?p=363766</id>
-        <link href="https://css-tricks.com/css-cascade-layers/"/>
-        <updated>2022-02-21T15:40:35.000Z</updated>
-        <summary type="html"><![CDATA[This is your complete guide to CSS cascade layers, a CSS feature that allows us to define explicit contained layers of specificity, so that we have full control over which styles take priority in a project without relying on specificity …
-A Complete Guide to CSS Cascade Layers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Miriam Suzanne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing Pipeline 101 For Frontend Testing]]></title>
-        <id>https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/</id>
-        <link href="https://smashingmagazine.com/2022/02/testing-pipeline-101-frontend-testing/"/>
-        <updated>2022-02-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need to be a full DevOps engineer if you want to introduce a testing build routine. With the help of some testing frameworks and GitHub actions, Ramona Schwering gives a short kick-off to help you get on the right track.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
         </author>
     </entry>
 </feed>
