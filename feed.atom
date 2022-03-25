@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-24T01:02:42.504Z</updated>
+    <updated>2022-03-25T01:00:06.760Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to SSH into a Docker Container – Secure Shell vs Docker Attach]]></title>
+        <id>6234b763cdcd57069ddfb192</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ssh-into-a-docker-container-secure-shell-vs-docker-attach/"/>
+        <updated>2022-03-24T19:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Containers are the bread and butter for running applications today. And the most popular container technology is called Docker [https://www.docker.com/].  Knowing how to SSH into a container is essential to using, debugging, and operating containers on your local operating system or remote setup.  This article will describe different]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Int Object is Not Iterable – Python Error [Solved]]]></title>
+        <id>623c45ea138a19064b064195</id>
+        <link href="https://www.freecodecamp.org/news/int-object-is-not-iterable-python-error-solved/"/>
+        <updated>2022-03-24T16:46:42.000Z</updated>
+        <summary type="html"><![CDATA[If you are running your Python code and you see the error “TypeError: 'int' object is not iterable”, it means you are trying to loop through an integer or other data type that loops cannot work on. In Python, iterable data are lists, tuples, sets, dictionaries, and so on. In]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Microservices with FastAPI]]></title>
+        <id>623c9dd5138a19064b06449b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/"/>
+        <updated>2022-03-24T16:43:34.000Z</updated>
+        <summary type="html"><![CDATA[FastAPI is a Web framework for developing RESTful APIs in Python. It is a great choice when you want to build an app based on microservices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop microservices app using FastAPI. In this course,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[indexOf in Java – How to Find the Index of a String in Java]]></title>
+        <id>62389b37cdcd57069ddfc5a0</id>
+        <link href="https://www.freecodecamp.org/news/indexof-in-java-how-to-find-the-index-of-a-string-in-java/"/>
+        <updated>2022-03-24T16:11:05.000Z</updated>
+        <summary type="html"><![CDATA[A string is a collection of characters nested in double quotes. The indexOf  method returns the index position of a specified character or substring in a string. In this article, we'll see the syntax for the different indexOf methods. We'll also look at some examples to help you understand]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use UISearchController in iOS Apps]]></title>
+        <id>62388dc7cdcd57069ddfc4d1</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-uisearchcontroller-in-ios-apps/"/>
+        <updated>2022-03-24T15:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! In this article we are going to learn how to use UISearchController in iOS Apps. What are we going to build? We are going to build a movie search application which uses the TMDB [https://www.themoviedb.org/] API to fetch movie info and display it using a UICollectionView based on]]></summary>
+        <author>
+            <name>Sai Balaji K</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a List in Python – Lists in Python Syntax]]></title>
         <id>623af0d3cdcd57069ddfd5bb</id>
@@ -1484,70 +1534,6 @@ In that spirit, here are five …
         <summary type="html"><![CDATA[NestJS is a framework for building efficient, scalable Node.js web applications. It is a complete development kit for building scalable server-side apps. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use NestJS by building a CRUD API. Vladimir Agaev developed this]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using The WordPress Editor And CPTs To Configure Plugins]]></title>
-        <id>https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/</id>
-        <link href="https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/"/>
-        <updated>2022-02-23T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Backend Should You Use for React?]]></title>
-        <id>62151953c4d0d306772ee3e2</id>
-        <link href="https://www.freecodecamp.org/news/backend-for-react-projects/"/>
-        <updated>2022-02-22T21:04:58.000Z</updated>
-        <summary type="html"><![CDATA[What backend should you choose for the React projects you are building?  There are so many different options to pick from, how do you know whether the backend you choose is the right one?  In this guide, you'll learn how to pick the appropriate backend for the type]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before I go: When it comes to complaining about web browsers]]></title>
-        <id>https://css-tricks.com/?p=363998</id>
-        <link href="https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/"/>
-        <updated>2022-02-22T20:06:57.000Z</updated>
-        <summary type="html"><![CDATA[That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:
-Complaining on 
-…
-Before I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install C and C++ Compilers on Windows]]></title>
-        <id>6214ebce21bfb3068cf2cbad</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/"/>
-        <updated>2022-02-22T18:04:59.000Z</updated>
-        <summary type="html"><![CDATA[If you want to run C or C++ programs in your Windows operating system, then you need to have the right compilers.  The MinGW compiler is a well known and widely used software for installing GCC and G++ compilers for the C and C++ programming languages.  But many]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reliably Send an HTTP Request as a User Leaves a Page]]></title>
-        <id>https://css-tricks.com/?p=363511</id>
-        <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
-        <updated>2022-02-22T15:24:01.000Z</updated>
-        <summary type="html"><![CDATA[On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …
-Reliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Alex MacArthur</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use localStorage with React Hooks to Set and Get Items]]></title>
-        <id>6212882b21bfb3068cf2bc05</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/"/>
-        <updated>2022-02-22T14:53:30.000Z</updated>
-        <summary type="html"><![CDATA[localStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date.  This means the data survives page refreshes (sessionStorage) and even browser restarts. This indicates that the data stored in the browser will remain even when]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
         </author>
     </entry>
 </feed>

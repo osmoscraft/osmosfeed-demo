@@ -194,26 +194,6 @@
           "wordCount": 1736,
           "title": "5 Accessibility Quick Wins You Can Implement Today",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363532"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363998",
-          "author": "Chris Coyier",
-          "description": "That’s a damn one-two punch from Dave. He goes for the ultimate clickbait title¹, then follows up with a pile of epic advice for us all. If you want web browsers to get better, listen up:\nComplaining on \n…\nBefore I go: When it comes to complaining about web browsers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/before-i-go-when-it-comes-to-complaining-about-web-browsers/",
-          "publishedOn": "2022-02-22T20:06:57.000Z",
-          "wordCount": 548,
-          "title": "Before I go: When it comes to complaining about web browsers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363998"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363511",
-          "author": "Alex MacArthur",
-          "description": "On several occasions, I’ve needed to send off an HTTP request with some data to log when a user does something like navigate to a different page or submit a form. Consider this contrived example of sending some information to …\nReliably Send an HTTP Request as a User Leaves a Page originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/send-an-http-request-on-page-exit/",
-          "publishedOn": "2022-02-22T15:24:01.000Z",
-          "wordCount": 2248,
-          "title": "Reliably Send an HTTP Request as a User Leaves a Page",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363511"
         }
       ]
     },
@@ -506,21 +486,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4ed9b745-ad2b-425c-8ffc-d73feeea7cd7/benchmark-improve-web-vitals-real-user-metrics.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "If we want our WordPress plugins to offer a settings page that is fully powered by blocks, how can we do it? Since *Full Site Editing* doesn’t support this feature yet, we need to code a custom solution. In this article, we will learn how we can do it.",
-          "link": "https://smashingmagazine.com/2022/02/wordpress-editor-cpts-configure-plugins/",
-          "publishedOn": "2022-02-23T10:30:00.000Z",
-          "wordCount": 3484,
-          "title": "Using The WordPress Editor And CPTs To Configure Plugins",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/854c1fe6-8061-4a9f-bf59-75f81a732114/wordpress-editor-cpts-configure-plugins.jpg"
         }
       ]
     },
@@ -529,6 +494,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6234b763cdcd57069ddfb192",
+          "author": "Sebastian Sigl",
+          "description": "Containers are the bread and butter for running applications today. And the most popular container technology is called Docker [https://www.docker.com/].  Knowing how to SSH into a container is essential to using, debugging, and operating containers on your local operating system or remote setup.  This article will describe different",
+          "link": "https://www.freecodecamp.org/news/how-to-ssh-into-a-docker-container-secure-shell-vs-docker-attach/",
+          "publishedOn": "2022-03-24T19:47:16.000Z",
+          "wordCount": 976,
+          "title": "How to SSH into a Docker Container – Secure Shell vs Docker Attach",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/ssh-into-docker-container-image-1.png"
+        },
+        {
+          "id": "623c45ea138a19064b064195",
+          "author": "Kolade Chris",
+          "description": "If you are running your Python code and you see the error “TypeError: 'int' object is not iterable”, it means you are trying to loop through an integer or other data type that loops cannot work on. In Python, iterable data are lists, tuples, sets, dictionaries, and so on. In",
+          "link": "https://www.freecodecamp.org/news/int-object-is-not-iterable-python-error-solved/",
+          "publishedOn": "2022-03-24T16:46:42.000Z",
+          "wordCount": 878,
+          "title": "Int Object is Not Iterable – Python Error [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/iterable.png"
+        },
+        {
+          "id": "623c9dd5138a19064b06449b",
+          "author": "Beau Carnes",
+          "description": "FastAPI is a Web framework for developing RESTful APIs in Python. It is a great choice when you want to build an app based on microservices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop microservices app using FastAPI. In this course,",
+          "link": "https://www.freecodecamp.org/news/how-to-create-microservices-with-fastapi/",
+          "publishedOn": "2022-03-24T16:43:34.000Z",
+          "wordCount": 452,
+          "title": "How to Create Microservices with FastAPI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/microservices.png"
+        },
+        {
+          "id": "62389b37cdcd57069ddfc5a0",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A string is a collection of characters nested in double quotes. The indexOf  method returns the index position of a specified character or substring in a string. In this article, we'll see the syntax for the different indexOf methods. We'll also look at some examples to help you understand",
+          "link": "https://www.freecodecamp.org/news/indexof-in-java-how-to-find-the-index-of-a-string-in-java/",
+          "publishedOn": "2022-03-24T16:11:05.000Z",
+          "wordCount": 1084,
+          "title": "indexOf in Java – How to Find the Index of a String in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/index.jpg"
+        },
+        {
+          "id": "62388dc7cdcd57069ddfc4d1",
+          "author": "Sai Balaji K",
+          "description": "Hello everyone! In this article we are going to learn how to use UISearchController in iOS Apps. What are we going to build? We are going to build a movie search application which uses the TMDB [https://www.themoviedb.org/] API to fetch movie info and display it using a UICollectionView based on",
+          "link": "https://www.freecodecamp.org/news/learn-to-use-uisearchcontroller-in-ios-apps/",
+          "publishedOn": "2022-03-24T15:55:58.000Z",
+          "wordCount": 1999,
+          "title": "How to Use UISearchController in iOS Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Screenshot-2022-03-21-at-8.11.31-PM.png"
+        },
         {
           "id": "623af0d3cdcd57069ddfd5bb",
           "author": "Kolade Chris",
@@ -1588,36 +1603,6 @@
           "wordCount": 511,
           "title": "Learn NestJS by Building a CRUD API",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/nestjs.png"
-        },
-        {
-          "id": "62151953c4d0d306772ee3e2",
-          "author": "Reed Barger",
-          "description": "What backend should you choose for the React projects you are building?  There are so many different options to pick from, how do you know whether the backend you choose is the right one?  In this guide, you'll learn how to pick the appropriate backend for the type",
-          "link": "https://www.freecodecamp.org/news/backend-for-react-projects/",
-          "publishedOn": "2022-02-22T21:04:58.000Z",
-          "wordCount": 1555,
-          "title": "What Backend Should You Use for React?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/backend-for-react.png"
-        },
-        {
-          "id": "6214ebce21bfb3068cf2cbad",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you want to run C or C++ programs in your Windows operating system, then you need to have the right compilers.  The MinGW compiler is a well known and widely used software for installing GCC and G++ compilers for the C and C++ programming languages.  But many",
-          "link": "https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/",
-          "publishedOn": "2022-02-22T18:04:59.000Z",
-          "wordCount": 1327,
-          "title": "How to Install C and C++ Compilers on Windows",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/banner.png"
-        },
-        {
-          "id": "6212882b21bfb3068cf2bc05",
-          "author": "Joel Olawanle",
-          "description": "localStorage is a web storage object that allows JavaScript sites and apps to keep key-value pairs in a web browser with no expiration date.  This means the data survives page refreshes (sessionStorage) and even browser restarts. This indicates that the data stored in the browser will remain even when",
-          "link": "https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/",
-          "publishedOn": "2022-02-22T14:53:30.000Z",
-          "wordCount": 1118,
-          "title": "How to Use localStorage with React Hooks to Set and Get Items",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Yellow-and-Purple-Geometric-Covid-19-General-Facts-Twitter-Post.jpg"
         }
       ]
     }
