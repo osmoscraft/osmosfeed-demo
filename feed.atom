@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-26T01:00:03.360Z</updated>
+    <updated>2022-03-27T01:04:46.895Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML Starter Template – A Basic HTML5 Boilerplate for index.html]]></title>
+        <id>62310caec3e3d106805db8b3</id>
+        <link href="https://www.freecodecamp.org/news/html-starter-template-a-basic-html5-boilerplate-for-index-html/"/>
+        <updated>2022-03-25T23:18:46.000Z</updated>
+        <summary type="html"><![CDATA[HTML has different tags, some of which have semantic meanings. A basic boilerplate for an HTML file looks like this:]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a UX Engineer? User Experience Engineer Role Explained]]></title>
         <id>602b31e00a2838549dcc6253</id>
@@ -1464,83 +1474,6 @@ One of the ways to help get …
 Manuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
-        <id>https://css-tricks.com/?p=364138</id>
-        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
-        <updated>2022-02-24T20:59:29.000Z</updated>
-        <summary type="html"><![CDATA[Nic Chan:
-[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
-…
-My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Find in List – How to Find the Index of an Item or Element in a List]]></title>
-        <id>6213c94921bfb3068cf2c268</id>
-        <link href="https://www.freecodecamp.org/news/python-find-in-list-how-to-find-the-index-of-an-item-or-element-in-a-list/"/>
-        <updated>2022-02-24T20:38:46.000Z</updated>
-        <summary type="html"><![CDATA[In this article you will learn how to find the index of an element contained in a list in the Python programming language. There are a few ways to achieve this, and in this article you will learn three of the different techniques used to find the index of a]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is len() in Python? How to Use the len() Function to Find the Length of a String]]></title>
-        <id>620c980321bfb3068cf29395</id>
-        <link href="https://www.freecodecamp.org/news/what-is-len-in-python-how-to-use-the-len-function-to-find-the-length-of-a-string/"/>
-        <updated>2022-02-24T18:35:06.000Z</updated>
-        <summary type="html"><![CDATA[In programming languages, getting the length of a particular data type is a common practice. Python is no different because you can use the built-in len() function to get the length of a string, tuple, list, dictionary, or any other data type. In this article, I'm going to show you]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
-        <id>https://css-tricks.com/?p=363553</id>
-        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
-        <updated>2022-02-24T15:31:55.000Z</updated>
-        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
-Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Anand Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
-        <id>https://css-tricks.com/?p=363526</id>
-        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
-        <updated>2022-02-24T15:31:49.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
-GatsbyJS is …
-Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>ImageEngine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter Course for Beginners – 37-hour Android App Development Tutorial]]></title>
-        <id>62179b03c4d0d306772ef2f8</id>
-        <link href="https://www.freecodecamp.org/news/learn-flutter-full-course/"/>
-        <updated>2022-02-24T14:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is an open-source UI software development kit used to create cross-platform applications for iOS, Android, Windows, Mac, and more. We just published a 37-hour Flutter course for beginners on the freeCodeCamp.org YouTube channel. Vandad Nahavandipoor developed this course. Vlandad is a Google Developer Expert and Lead iOS Developer. Flutter]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Basics of the Linux Operating System]]></title>
-        <id>62164addc4d0d306772eef3e</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-basics-of-the-linux-operating-system/"/>
-        <updated>2022-02-24T13:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux is an open source, free operating system which is used by computers all over the world. It is especially popular for use in servers. We just published a Linux crash course on the freeCodeCamp.org YouTube channel that will teach you the basics of this open source operating system. Josh]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
