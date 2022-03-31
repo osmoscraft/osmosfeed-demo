@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-30T01:06:18.625Z</updated>
+    <updated>2022-03-31T01:04:00.874Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate a Database in PHP Using Phinx]]></title>
+        <id>62418eca138a19064b066d98</id>
+        <link href="https://www.freecodecamp.org/news/easy-database-migrations-in-php-using-phinx/"/>
+        <updated>2022-03-30T23:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Building modern web applications usually involves a lot of data. Managing these data (databases) during development and production can be a lot.  This is especially tru if there's more than one developer, and multiple environments where changes have to be manually implemented. Database migrations help developers manage these changes]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Undo Merge – How to Revert the Last Merge Commit in Git]]></title>
+        <id>62442bd2138a19064b06836a</id>
+        <link href="https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/"/>
+        <updated>2022-03-30T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Branching is an integral part of Git because it lets you work without tampering with code that's already in production. When you finish working with a branch other than main, you'll want to merge it with the main so the feature or bug fix you just integrated will be reflected.]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Schedule a Task With Firebase Scheduled Cloud Functions]]></title>
+        <id>62418f22138a19064b066da1</id>
+        <link href="https://www.freecodecamp.org/news/how-to-schedule-a-task-with-firebase-cloud-functions/"/>
+        <updated>2022-03-30T17:14:35.000Z</updated>
+        <summary type="html"><![CDATA[I work on an app that removes the background of any image. The app will have a freemium plan, which means that I will offer a free number of credits to all users, and if they need more credits, they will need to buy more. My Android and iOS app]]></summary>
+        <author>
+            <name>Dragos Ivanov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Benefits of a Student Email Address]]></title>
+        <id>623d7224138a19064b06490a</id>
+        <link href="https://www.freecodecamp.org/news/top-benefits-of-student-email-address/"/>
+        <updated>2022-03-30T17:00:46.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, various tech companies and organizations have started supporting students who have an interest in and passion for tech. Many companies give their premium services to students for free, and others offer discounts on their products. If you're a student, basically all you need to take advantage of]]></summary>
+        <author>
+            <name>Hillary Nyakundi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tricks to Cut Corners Using CSS Mask and Clip-Path Properties]]></title>
+        <id>https://css-tricks.com/?p=364279</id>
+        <link href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/"/>
+        <updated>2022-03-30T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …
+Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Infinite Scroll]]></title>
+        <id>https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/</id>
+        <link href="https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/"/>
+        <updated>2022-03-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solid Principles – Single Responsibility Principle and Object-Oriented Design Basics]]></title>
         <id>62153d68c4d0d306772ee7ae</id>
@@ -1456,138 +1517,6 @@ The fit-content keyword is actually …
 Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New CSS Features In 2022]]></title>
-        <id>https://smashingmagazine.com/2022/03/new-css-features-2022/</id>
-        <link href="https://smashingmagazine.com/2022/03/new-css-features-2022/"/>
-        <updated>2022-03-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Insertion Sort – Algorithm Example in Java and C++]]></title>
-        <id>620fae4a21bfb3068cf2a8f4</id>
-        <link href="https://www.freecodecamp.org/news/insertion-sort-algorithm-example-in-java-and-c/"/>
-        <updated>2022-02-28T23:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Insertion sort is a sorting algorithm that creates a sorted array of items from an unsorted array, one item at a time.  In this article, we will see how the algorithm works and how to apply it in our code. How to Use Insertion Sort Consider an array of]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comment out HTML – Code Example]]></title>
-        <id>620ac06a21bfb3068cf288c0</id>
-        <link href="https://www.freecodecamp.org/news/comment-out-html-code-example/"/>
-        <updated>2022-02-28T23:26:26.000Z</updated>
-        <summary type="html"><![CDATA[Adding comments in your code is a good practice, as it makes your code more readable and understandable. Comments don’t run because they are ignored by compilers and interpreters. In this article, I will show you how you can comment out your HTML code, so you can help yourself and]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Recoil for State Management in Your React Projects]]></title>
-        <id>621bd6d1c4d0d306772f0c6e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-recoil-for-state-management-in-your-react-projects/"/>
-        <updated>2022-02-28T23:19:24.000Z</updated>
-        <summary type="html"><![CDATA[If you're a React developer, you've probably used a library for managing state in your React applications. And you've likely heard of Redux "the state management" library for React.  For a long time, Redux was the only reliable and most widely-adopted solution for state management in React applications. And]]></summary>
-        <author>
-            <name>Abdullah Adeel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
-        <id>https://css-tricks.com/?p=364346</id>
-        <link href="https://css-tricks.com/ie-down-edge-up-global-browser-usage-stats-are-for-cocktail-parties-and-conference-slides/"/>
-        <updated>2022-02-28T23:14:29.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy articles like Hartley Charlton’s “Microsoft Edge Looks Set to Overtake Safari as World’s Second Most Popular Desktop Browser.” It’s juicy! We know these massive players in the browser market care very much about their market share, so when …
-IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Podcast Player with Transcriptions using Vue and Supabase]]></title>
-        <id>620fb63121bfb3068cf2a926</id>
-        <link href="https://www.freecodecamp.org/news/build-a-podcast-player-with-transcriptions-using-vue-supabase/"/>
-        <updated>2022-02-28T23:05:43.000Z</updated>
-        <summary type="html"><![CDATA[In this post we will walk through setting up a Podcast Player app using Supabase and Vue 3, including getting transcriptions for the podcasts.  This is a continuation of my previous post on setting up Authentication using Supabase [/news/add-supabase-authentication-to-vue/]. If you aren't familiar with getting Supabase set up in]]></summary>
-        <author>
-            <name>Brian Barrow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best Python Courses to Take in 2022]]></title>
-        <id>62160a08c4d0d306772eecd2</id>
-        <link href="https://www.freecodecamp.org/news/best-python-courses/"/>
-        <updated>2022-02-28T19:56:20.000Z</updated>
-        <summary type="html"><![CDATA[If you want to learn Python, there are a lot of great resources out there. But if you're specifically looking for the best online course to learn Python, then you've come to the right place. In this article, I present a list of awesome Python courses ranked according to a]]></summary>
-        <author>
-            <name>Elham Nazif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Uppercase – How to Capitalize a String in JS with .toUpperCase]]></title>
-        <id>620c9b9621bfb3068cf2939d</id>
-        <link href="https://www.freecodecamp.org/news/javascript-uppercase-how-to-capitalize-a-string-in-js-with-touppercase/"/>
-        <updated>2022-02-28T19:25:42.000Z</updated>
-        <summary type="html"><![CDATA[While working with strings in JavaScript, you can perform different operations on them. The operations you might perform on strings include capitalization, conversion to lowercase, adding symbols within words, and many more. In this article, I will show you how to convert a string to uppercase letters with the .toUpperCase()]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Went from Classical Musician to Software Developer using freeCodeCamp]]></title>
-        <id>6213501a21bfb3068cf2bf5b</id>
-        <link href="https://www.freecodecamp.org/news/how-i-went-from-a-classical-musician-to-software-developer-and-techinal-writer/"/>
-        <updated>2022-02-28T19:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Before the pandemic, I spent my whole life performing, teaching, and composing music. But in June of 2020, I made the decision to learn how to code and successfully landed a job as a software developer. Here is the story of how I learned how to code using freeCodeCamp [https://www.freecodecamp.org/learn/]]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Animation Performance Fundamentals – How to Make Your Pages Look Smooth]]></title>
-        <id>61faafa3f2ed6b06db5ab1ab</id>
-        <link href="https://www.freecodecamp.org/news/web-animation-performance-fundamentals/"/>
-        <updated>2022-02-28T18:49:59.000Z</updated>
-        <summary type="html"><![CDATA[What if I told you that web pages were interactive animations played back by your web browser? We watch various motions every time we're on a web page.  And it's not only JavaScript or CSS animations that I'm talking about. Scrolling, pinch zooming, text selection, and even hovering over]]></summary>
-        <author>
-            <name>Reza Lavarian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Multiline Comment – How to Comment Out Multiple Lines in Python]]></title>
-        <id>620abfab21bfb3068cf288b5</id>
-        <link href="https://www.freecodecamp.org/news/python-multiline-comment-how-to-comment-out-multiple-lines-in-python/"/>
-        <updated>2022-02-28T17:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Commenting is an integral part of every programming language. With comments, you get a better understanding of your own code, make it more readable, and can help team members understand how it works. Comments are ignored by compilers and interpreters, so they don’t run. Apart from making your code more]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the ASCII Value of Any Character with One Line of Code]]></title>
-        <id>6213533d21bfb3068cf2bf8c</id>
-        <link href="https://www.freecodecamp.org/news/get-the-ascii-value-of-any-character-with-one-line-of-code/"/>
-        <updated>2022-02-28T16:20:44.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a project or computer program, you might need to use the ASCII value of a certain character.  This is a common phenomenon in competitive programming, as well – we typically need to use the ASCII value of characters when solving some of the problems on]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think]]></title>
-        <id>https://css-tricks.com/?p=363929</id>
-        <link href="https://css-tricks.com/web-component-pseudo-classes-and-pseudo-elements/"/>
-        <updated>2022-02-28T15:37:23.000Z</updated>
-        <summary type="html"><![CDATA[We’ve discussed a lot about the internals of using CSS in this ongoing series on web components, but there are a few special pseudo-elements and pseudo-classes that, like good friends, willingly smell your possibly halitotic breath before you go …
-Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
         </author>
     </entry>
 </feed>
