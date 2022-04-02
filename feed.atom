@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-01T01:15:08.632Z</updated>
+    <updated>2022-04-02T01:03:13.111Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Callback Functions to String.replace() in JavaScript]]></title>
+        <id>6246e84d138a19064b06a1c9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-pass-callback-functions-to-string-replace-javascript/"/>
+        <updated>2022-04-01T20:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that the string .replace() method accepts a callback function? I just discovered it today and thought I'd share. What do you need this function for? Why does it exist? I'll answer all these questions as you go through this article. The replace() Method The replace() string method]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Rate Limiter using Bucket4J and Redis]]></title>
+        <id>6245914c138a19064b0690bb</id>
+        <link href="https://www.freecodecamp.org/news/rate-limiting-with-bucket4j-and-redis/"/>
+        <updated>2022-04-01T19:05:04.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we will learn how to implement rate limiting in a scaled service. We will use the Bucket4J [https://github.com/vladimir-bukhtoyarov/bucket4j]  library to implement it and we will use Redis [https://redis.io/] as a distributed cache. Why Use Rate Limiting? Let's get started with some basics to make sure we]]></summary>
+        <author>
+            <name>Abhinav Pandey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Full Stack Developer? 2022 Full Stack Engineer Guide]]></title>
+        <id>6228642863ded806bb9e6f73</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-full-stack-developer-full-stack-engineer-guide/"/>
+        <updated>2022-04-01T18:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Full-stack developer roles are among the most highly sought after positions in the current job market. But what exactly is full-stack web development, and how do you become a full-stack developer? In this article, you will first learn what the term full-stack means. Then, you will see some suggested technologies]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Inner Join – How to Join 3 Tables in SQL and MySQL]]></title>
+        <id>6164065d804854468fda843b</id>
+        <link href="https://www.freecodecamp.org/news/sql-inner-join-how-to-join-3-tables-in-sql-and-mysql/"/>
+        <updated>2022-04-01T18:19:05.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with your database, you might need to put together data from a few different tables. This article will show you how. I have already written about SQL joins here [/news/sql-join-types-inner-join-vs-outer-join-example/] and here [/news/sql-left-join-example-join-statement-syntax/], but let's take a moment to review how a join works first, and particularly]]></summary>
+        <author>
+            <name>Ilenia Magoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NextJS and HarperDB Tutorial –Build a Full Stack Productivity Timer App]]></title>
+        <id>6244a14e138a19064b0686c7</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-and-harperdb-tutorial-build-a-full-stack-app/"/>
+        <updated>2022-04-01T16:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Building full stack applications can be tough. You have to think about frontend, APIs, databases, authentication - and how all of these things work together. So, in this article, I'll show you how to do all of those things using NextJS and HarperDB. We'll be building a full stack task]]></summary>
+        <author>
+            <name>Danny Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The What, When, Why And How Of Next.js’ New Middleware Feature]]></title>
+        <id>https://smashingmagazine.com/2022/04/next-js-middleware-feature/</id>
+        <link href="https://smashingmagazine.com/2022/04/next-js-middleware-feature/"/>
+        <updated>2022-04-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sam Poder)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Apps with Firebase]]></title>
+        <id>6245d985138a19064b069946</id>
+        <link href="https://www.freecodecamp.org/news/create-apps-with-firebase/"/>
+        <updated>2022-04-01T00:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Firebase is a platform developed by Google for creating mobile and web applications.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Firebase. This is the perfect course for beginners.  After learning the basics of Firebase, you will learn how]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shell Scripting for Beginners – How to Write Bash Scripts in Linux]]></title>
         <id>623cc7e0138a19064b06474d</id>
@@ -1408,92 +1478,6 @@ What would your business be like if you sold memberships? It might be more than 
 Build Membership Businesses with Memberful originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Web Layouts For Dual-Screen And Foldable Devices]]></title>
-        <id>https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/</id>
-        <link href="https://smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
-        <updated>2022-03-03T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Dual-screen devices are just the next evolution in responsive design. If you have a PWA or website, the APIs available make integrating into your existing code base seamless. This article explains why it’s an exciting time for layout on the web, and how dual screens provide an opportunity to get even more creative.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Stimac)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Fresh Links on Performance For March 2022]]></title>
-        <id>https://css-tricks.com/?p=364350</id>
-        <link href="https://css-tricks.com/performance-links-february-2022/"/>
-        <updated>2022-03-02T21:26:50.000Z</updated>
-        <summary type="html"><![CDATA[I have a handful of good links to articles about performance that are burning a hole in my bookmarks folder, and wanna drop them here to share.
-The new WebPageTest website design
-From fonts to SVG: an icon migration strategy
-…
-7 Fresh Links on Performance For March 2022 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List .remove() - How to Remove an Item from a List in Python]]></title>
-        <id>621e55eac4d0d306772f23d6</id>
-        <link href="https://www.freecodecamp.org/news/python-list-remove-how-to-remove-an-item-from-a-list-in-python/"/>
-        <updated>2022-03-02T19:49:19.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn how to use Python's built-in remove() list method. By the end, you'll know how to use remove() to remove an item from a list in Python. Here is what we will cover:  1. Syntax of the remove() method  2. Remove an element from]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Home Wireless Infrastructure with Kismet and Python]]></title>
-        <id>621d7632c4d0d306772f1f61</id>
-        <link href="https://www.freecodecamp.org/news/wireless-security-using-raspberry-pi-4-kismet-and-python/"/>
-        <updated>2022-03-02T16:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Everything is connected to wireless these days. In my case I found that I have LOTS of devices after running a simple nmap command on my home network [/news/enhance-nmap-with-python/#nmap-101-identify-all-the-public-services-in-our-network] : [josevnz@dmaf5 ~]$ sudo nmap -v -n -p- -sT -sV -O --osscan-limit --max-os-tries 1 -oX $HOME/home_scan.xml 192.168.1.0/24 So I started to]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a “Raise the Curtains” Effect in CSS]]></title>
-        <id>https://css-tricks.com/?p=363882</id>
-        <link href="https://css-tricks.com/css-raise-the-curtains-effect/"/>
-        <updated>2022-03-02T15:57:32.000Z</updated>
-        <summary type="html"><![CDATA[“Raise the curtains” is what I call an effect where the background goes from dark to light on scroll, and the content on top also goes from light to dark while in a sticky position.
-Here’s an example where I …
-How to Make a “Raise the Curtains” Effect in CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Silvestar Bistrović</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an eCommerce Website Using WooCommerce]]></title>
-        <id>621f888ec4d0d306772f2d40</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-ecommere-website-using-woocomerce/"/>
-        <updated>2022-03-02T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Creating your own eCommerce website is easier than you may think. You don't even need to know how to code. I just created and published a course on the freeCodeCamp.org YouTube channel that will teach you how to build an online store with WooCommerce and WordPress. In this video course,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps with GitLab CI Course]]></title>
-        <id>621f860dc4d0d306772f2cf9</id>
-        <link href="https://www.freecodecamp.org/news/devops-with-gitlab-ci-course/"/>
-        <updated>2022-03-02T15:05:24.000Z</updated>
-        <summary type="html"><![CDATA[GitLab CI/CD can automatically build, test, deploy, and monitor your applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use GitLab CI. Valentin Despa developed this course. Vaentin is an experienced developer and course creator. In this course, you will learn]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Audio Visualization With JavaScript And GSAP (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/</id>
-        <link href="https://smashingmagazine.com/2022/03/audio-visualization-javascript-gsap-part1/"/>
-        <updated>2022-03-02T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What started as a case study turned into a guide to visualizing audio with JavaScript. Although the output demos are in React, Jhey Tompkins isn’t going to dwell on the React side of things too much. The underlying techniques work with or without React.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
         </author>
     </entry>
 </feed>
