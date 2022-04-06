@@ -73,6 +73,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
+          "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
+          "publishedOn": "2022-04-05T13:00:00.000Z",
+          "wordCount": 2363,
+          "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
           "author": "hello@smashingmagazine.com (Manuel Matuzović)",
           "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
@@ -326,21 +341,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d02916da-2e33-4aed-ac5e-f1107fa44e57/audio-visualization-javascript-gsap-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "Using signals to deliver less, or different, content is a form of progressive enhancement (or graceful degradation depending on how you look at it), whereby extraneous content is only loaded when necessary, but the core functionality of the website still works. In this article, we’ll look at some of the signals that can be used for this.",
-          "link": "https://smashingmagazine.com/2022/03/signals-customizing-website-user-experience/",
-          "publishedOn": "2022-03-07T10:30:00.000Z",
-          "wordCount": 4682,
-          "title": "Signals For Customizing Website User Experience",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c2416bf-b3e1-4398-a1d9-fd2404eb678d/signals-customizing-website-user-experience.jpg"
         }
       ]
     },
@@ -349,6 +349,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6244f93a138a19064b068b9e",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel",
+          "link": "https://www.freecodecamp.org/news/command-line-for-beginners/",
+          "publishedOn": "2022-04-05T16:45:18.000Z",
+          "wordCount": 5633,
+          "title": "Command Line for Beginners – How to Use the Terminal Like a Pro",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-207580.jpg"
+        },
+        {
+          "id": "624b0547ac55f60686c2d2e1",
+          "author": "Oluwatobi Sofela",
+          "description": "A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development",
+          "link": "https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/",
+          "publishedOn": "2022-04-05T00:08:08.000Z",
+          "wordCount": 4226,
+          "title": "JavaScript Package Manager – Complete Guide to NPM and Yarn",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/package-manager-npm-and-yarn-explained-curology-pDsmoI5j3B8-unsplash.jpg"
+        },
+        {
+          "id": "6233c160cdcd57069ddfadb8",
+          "author": "Israel Mitolu",
+          "description": "Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article",
+          "link": "https://www.freecodecamp.org/news/the-beginners-guide-to-sass/",
+          "publishedOn": "2022-04-04T23:39:31.000Z",
+          "wordCount": 2181,
+          "title": "The Beginner's Guide to Sass",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/The-Beginner-s-Guide-to-SASS.png"
+        },
+        {
+          "id": "624ad0f4ac55f60686c2d118",
+          "author": "Kolade Chris",
+          "description": "A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they",
+          "link": "https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/",
+          "publishedOn": "2022-04-04T23:17:35.000Z",
+          "wordCount": 1039,
+          "title": "Types of Hard Drives – SATA, PATA, SCSI, and SSD",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/hard-drive-1110813_1280.png"
+        },
+        {
+          "id": "6249d59dac55f60686c2ce11",
+          "author": "Ateev Duggal",
+          "description": "Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development",
+          "link": "https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/",
+          "publishedOn": "2022-04-04T22:19:13.000Z",
+          "wordCount": 2399,
+          "title": "How to Make an Image Search App in React using the Unsplash API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Unsplash.jpg"
+        },
+        {
+          "id": "624a520eac55f60686c2cfa0",
+          "author": "Ashutosh Krishna",
+          "description": "Wordle is a popular game where you guess a five-letter word in six tries. After each guess, the color of the tiles will change to show how close your guess was to the word.  It is similar to the Hangman game [https://ireadblog.com/posts/124/hangman-game-using-python] which I've already shown you how to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich/",
+          "publishedOn": "2022-04-04T20:21:41.000Z",
+          "wordCount": 1978,
+          "title": "Python Project – How to Build a Wordle Clone using Python and Rich",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/wordle_ar8gck.png"
+        },
+        {
+          "id": "62402130138a19064b0666c6",
+          "author": "Sebastian Sigl",
+          "description": "Containers make software engineering easier and more efficient, and Docker [https://www.docker.com/] containers are popular and easy to use.  Containers are essential for local development. They let you test-run your applications in local environments and start building out the required infrastructure. Docker containers are immutable by nature. This means that",
+          "link": "https://www.freecodecamp.org/news/docker-mount-volume-guide-how-to-mount-a-local-directory/",
+          "publishedOn": "2022-04-04T20:08:50.000Z",
+          "wordCount": 1004,
+          "title": "Docker Mount Volume – How To Mount a Local Directory",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Docker-mount-volume-guide.png"
+        },
+        {
+          "id": "623646bccdcd57069ddfb98f",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers",
+          "link": "https://www.freecodecamp.org/news/thunder-client-for-vscode/",
+          "publishedOn": "2022-04-04T19:09:46.000Z",
+          "wordCount": 1644,
+          "title": "Thunder Client – An Alternative Way to Test Restful APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-greg-2418664.jpg"
+        },
         {
           "id": "624515df138a19064b068e7c",
           "author": "Ukeje Chukwuemeriwo Goodness",
