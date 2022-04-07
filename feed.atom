@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-06T01:07:43.959Z</updated>
+    <updated>2022-04-07T01:07:18.367Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Breadcrumbs]]></title>
+        <id>https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/</id>
+        <link href="https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/"/>
+        <updated>2022-04-06T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devs For Ukraine, A Free Online Charity Conference 🇺🇦]]></title>
+        <id>https://smashingmagazine.com/2022/04/devs-for-ukraine/</id>
+        <link href="https://smashingmagazine.com/2022/04/devs-for-ukraine/"/>
+        <updated>2022-04-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro]]></title>
         <id>6244f93a138a19064b068b9e</id>
@@ -1406,46 +1426,6 @@ CSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You shou
         <summary type="html"><![CDATA[Are you looking for the best introductions to computer science? I’ve ranked the top courses available online, following a robust methodology. And they're all free to audit. You can read about it below. But if you’re in a hurry, here are my top picks. Click on one to skip to]]></summary>
         <author>
             <name>Elham Nazif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeError String Indices Must be Integers Python Error [Solved]]]></title>
-        <id>62134fb321bfb3068cf2bf47</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-javascript-error-solved/"/>
-        <updated>2022-03-07T23:28:09.000Z</updated>
-        <summary type="html"><![CDATA[If you try to access values from a dictionary or iterable object using the string value instead of the integer value then you will receive the following error message: TypeError: string indices must be integers In this article, I will show you examples of why you might receive this error]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Testing – Beginner's Guide]]></title>
-        <id>620be72b21bfb3068cf28e55</id>
-        <link href="https://www.freecodecamp.org/news/software-testing-for-beginners/"/>
-        <updated>2022-03-07T23:14:46.000Z</updated>
-        <summary type="html"><![CDATA[What is Software Testing? Let's say you're working on a coding project. You have been writing a bunch of code and staying up late at night to fix bugs. All this is part of the process before you release that software product.  Then you'll check your code to verify]]></summary>
-        <author>
-            <name>Maybell Obadoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Remove Character from a String – How to Delete Characters from Strings]]></title>
-        <id>62134fbd21bfb3068cf2bf4b</id>
-        <link href="https://www.freecodecamp.org/news/python-remove-character-from-a-string-how-to-delete-characters-from-strings/"/>
-        <updated>2022-03-07T18:08:44.000Z</updated>
-        <summary type="html"><![CDATA[In Python you can use the replace() and translate() methods to specify which characters you want to remove from a string and return a new modified string result.  It is important to remember that the original string will not be altered because strings are immutable.  In this article,]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a TensorFlow Model as a RESTful API Service]]></title>
-        <id>62118afc21bfb3068cf2b63c</id>
-        <link href="https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/"/>
-        <updated>2022-03-07T14:58:44.000Z</updated>
-        <summary type="html"><![CDATA[If you're like I am, then you've probably watched and read a number of tutorials on creating machine learning models with TensorFlow, PyTorch, Scikit-Learn or any other framework out there.  But there is one thing that these tutorials tend to miss out on, and that's model deployment. In this]]></summary>
-        <author>
-            <name>Neil Ruaro</name>
         </author>
     </entry>
 </feed>

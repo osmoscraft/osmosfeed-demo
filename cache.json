@@ -73,6 +73,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
+          "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
+          "publishedOn": "2022-04-06T14:20:00.000Z",
+          "wordCount": 6900,
+          "title": "Designing Better Breadcrumbs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.",
+          "link": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
+          "publishedOn": "2022-04-06T11:00:00.000Z",
+          "wordCount": 448,
+          "title": "Devs For Ukraine, A Free Online Charity Conference 🇺🇦",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
@@ -1498,46 +1528,6 @@
           "wordCount": 7209,
           "title": "10 Best Computer Science Courses to Take in 2022",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Banner-10.png"
-        },
-        {
-          "id": "62134fb321bfb3068cf2bf47",
-          "author": "Jessica Wilkins",
-          "description": "If you try to access values from a dictionary or iterable object using the string value instead of the integer value then you will receive the following error message: TypeError: string indices must be integers In this article, I will show you examples of why you might receive this error",
-          "link": "https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-javascript-error-solved/",
-          "publishedOn": "2022-03-07T23:28:09.000Z",
-          "wordCount": 649,
-          "title": "TypeError String Indices Must be Integers Python Error [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pakata-goh-RDolnHtjVCY-unsplash.jpg"
-        },
-        {
-          "id": "620be72b21bfb3068cf28e55",
-          "author": "Maybell Obadoni",
-          "description": "What is Software Testing? Let's say you're working on a coding project. You have been writing a bunch of code and staying up late at night to fix bugs. All this is part of the process before you release that software product.  Then you'll check your code to verify",
-          "link": "https://www.freecodecamp.org/news/software-testing-for-beginners/",
-          "publishedOn": "2022-03-07T23:14:46.000Z",
-          "wordCount": 1522,
-          "title": "Software Testing – Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/Talk2Her-Foundation--4-.png"
-        },
-        {
-          "id": "62134fbd21bfb3068cf2bf4b",
-          "author": "Jessica Wilkins",
-          "description": "In Python you can use the replace() and translate() methods to specify which characters you want to remove from a string and return a new modified string result.  It is important to remember that the original string will not be altered because strings are immutable.  In this article,",
-          "link": "https://www.freecodecamp.org/news/python-remove-character-from-a-string-how-to-delete-characters-from-strings/",
-          "publishedOn": "2022-03-07T18:08:44.000Z",
-          "wordCount": 990,
-          "title": "Python Remove Character from a String – How to Delete Characters from Strings",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg"
-        },
-        {
-          "id": "62118afc21bfb3068cf2b63c",
-          "author": "Neil Ruaro",
-          "description": "If you're like I am, then you've probably watched and read a number of tutorials on creating machine learning models with TensorFlow, PyTorch, Scikit-Learn or any other framework out there.  But there is one thing that these tutorials tend to miss out on, and that's model deployment. In this",
-          "link": "https://www.freecodecamp.org/news/deploy-an-ml-model-using-fastapi-and-docker/",
-          "publishedOn": "2022-03-07T14:58:44.000Z",
-          "wordCount": 2445,
-          "title": "How to Deploy a TensorFlow Model as a RESTful API Service",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/deploying-tensorflow-heroku-docker.png"
         }
       ]
     }
