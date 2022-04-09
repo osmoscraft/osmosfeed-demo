@@ -73,6 +73,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
+          "author": "hello@smashingmagazine.com (Caleb Olojo)",
+          "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
+          "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
+          "publishedOn": "2022-04-08T12:00:00.000Z",
+          "wordCount": 1939,
+          "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
@@ -365,6 +380,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "624c24d2ac55f60686c2e356",
+          "author": "Kolade Chris",
+          "description": "On a Windows computer, you might want to delete files to free up disk space, or because you don't want the file(s) on your computer anymore. But sometimes, it seems impossible to delete a file for various reasons. These include the file being open in another program, lack of write",
+          "link": "https://www.freecodecamp.org/news/how-to-force-delete-a-file-windows-command-prompt-cmd-delete/",
+          "publishedOn": "2022-04-08T07:11:26.000Z",
+          "wordCount": 582,
+          "title": "How to Force Delete a File – Windows Command Prompt cmd delete",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/trash-97586_1280.png"
+        },
+        {
+          "id": "624f8558ac55f60686c2f79a",
+          "author": "Quincy Larson",
+          "description": "Break The Code 2.0 is a new browser game that sends you back in time to the year 1999. You complete codebreaking missions using your programming knowledge and your puzzle-solving intuition. The game is spread across 4 drives worth of missions:  * The /g1/ drive – \"BoxOfChocolates\"  *",
+          "link": "https://www.freecodecamp.org/news/break-the-code-2-game/",
+          "publishedOn": "2022-04-08T03:38:54.000Z",
+          "wordCount": 541,
+          "title": "Break The Code 2.0: A Browser Game Where You Solve Missions Using Coding Skills",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/os-loader--1-.png"
+        },
+        {
           "id": "624ca9a4ac55f60686c2e7f9",
           "author": "Beau Carnes",
           "description": "Figma is a popular graphics editor and prototyping tool. Figma variants can streamline your frontend design process by allowing you to group and organize similar components into a single container. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to use Figma variants",
@@ -393,6 +428,16 @@
           "wordCount": 1463,
           "title": "AWS IAM – Policy, Access Roles, Resources Explained, and Why They're Useful",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/g7In5Xr-2.jpg"
+        },
+        {
+          "id": "6250a2faac55f60686c2ff69",
+          "author": "Alex Garcia",
+          "description": "A hanging indent is an easy way to make your documents look more professional. Google Docs has built in functionality to create this. What is a Hanging Indent? A hanging indent is a type of indentation where the first line of a paragraph is not indented, but subsequent lines in",
+          "link": "https://www.freecodecamp.org/news/how-to-do-a-hanging-indent-in-google-docs/",
+          "publishedOn": "2022-04-06T21:02:00.000Z",
+          "wordCount": 471,
+          "title": "How to do a Hanging Indent in Google Docs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/luca-bravo-K-HMCiChjag-unsplash.jpg"
         },
         {
           "id": "6244f93a138a19064b068b9e",
@@ -1403,46 +1448,6 @@
           "wordCount": 1000,
           "title": "Python Print Without New Line – Print on the Same Line",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip.png"
-        },
-        {
-          "id": "60c5b9d1d3126007592d75b4",
-          "author": "Andrea Koutifaris",
-          "description": "It's hard to tell exactly when my journey creating Occulto, a point and click adventure game, started. But I have a significant date in mind: 3 May 2018. Here's one thing that got the ball rolling: > Luigi: Hello Andrea. Sorry to bother you. I would like to learn how",
-          "link": "https://www.freecodecamp.org/news/how-i-developed-my-first-game/",
-          "publishedOn": "2022-03-09T20:05:24.000Z",
-          "wordCount": 3749,
-          "title": "How I Developed My First Adventure Game",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/presentazione-new.min.jpg"
-        },
-        {
-          "id": "6222908cc4d0d306772f4477",
-          "author": "Dillion Megida",
-          "description": "git config is a powerful command in Git. You can use the Git configuration file to customize how Git works. This file exists in the project level where Git is initialized ( /project/.git/config) or at the root level (~/.gitcongig). If no configurations are specified, Git uses its default settings. In",
-          "link": "https://www.freecodecamp.org/news/git-config-how-to-configure-git-settings/",
-          "publishedOn": "2022-03-09T19:14:42.000Z",
-          "wordCount": 1129,
-          "title": "git config – How to Configure Git Settings to Improve Your Development Workflow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-thisisengineering-3861958.jpg"
-        },
-        {
-          "id": "6216b67dc4d0d306772ef0ed",
-          "author": "Reed Barger",
-          "description": "One of the most essential concepts that any modern JavaScript developer needs to understand is state.  If you don't understand state, you're not going to be able to fully use and take advantage of powerful libraries such as React to build your applications.  Let's see exactly what state",
-          "link": "https://www.freecodecamp.org/news/react-state/",
-          "publishedOn": "2022-03-09T16:48:55.000Z",
-          "wordCount": 1793,
-          "title": "React State for Absolute Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/react-state-absolute-beginners.png"
-        },
-        {
-          "id": "6228c8f663ded806bb9e72e2",
-          "author": "Beau Carnes",
-          "description": "Vim is a highly configurable text editor that you can use for software development or any kind of text editing.  We just published a full Vim course on the freeCodeCamp.org YouTube channel that will teach you how to use Vim. Florian Dedov from NeuralNine developed this course. When someone",
-          "link": "https://www.freecodecamp.org/news/learn-vim-beginners-tutorial/",
-          "publishedOn": "2022-03-09T16:02:23.000Z",
-          "wordCount": 456,
-          "title": "Learn Vim – Beginner's Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/vim.png"
         }
       ]
     }
