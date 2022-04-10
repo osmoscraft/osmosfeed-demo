@@ -341,36 +341,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/48cfa0d0-3a69-4e42-bc6d-3c07df736343/improving-ci-cd-flow-application.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
-          "author": "hello@smashingmagazine.com (Sona Dabaghyan)",
-          "description": "Standing out among the millions of mobile apps can be challenging, but proper marketing can give you that crucial edge. This piece shares how to start your mobile app marketing strategy and improve it as you go while keeping up with the latest trends in the market.",
-          "link": "https://smashingmagazine.com/2022/03/guide-mobile-app-marketing/",
-          "publishedOn": "2022-03-11T12:00:00.000Z",
-          "wordCount": 3805,
-          "title": "A Complete Guide To Mobile App Marketing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0defe765-5a21-40d6-a906-70edfad759ca/guide-mobile-app-marketing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
-          "author": "hello@smashingmagazine.com (Vivek Maskara)",
-          "description": "In this article, Vivek Maskara introduces Amazon Web Services’ (AWS) Cloud Development Kit (CDK) which is increasingly becoming a popular tool for managing AWS-based infrastructure. We’ll take a closer look into CDK concepts, and then how to use the AWS CDK toolkit to deploy a sample application to an AWS account.",
-          "link": "https://smashingmagazine.com/2022/03/introduction-aws-cloud-development-kit/",
-          "publishedOn": "2022-03-10T18:00:00.000Z",
-          "wordCount": 3679,
-          "title": "An Introduction To AWS Cloud Development Kit (CDK)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/46a0c491-6562-46ba-a48d-41b4f97b0965/introduction-aws-cloud-development-kit.jpg"
         }
       ]
     },
@@ -379,6 +349,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "625208b3ac55f60686c30de0",
+          "author": "Alex Garcia",
+          "description": "Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a",
+          "link": "https://www.freecodecamp.org/news/python-list-to-string-join-example/",
+          "publishedOn": "2022-04-09T23:24:00.000Z",
+          "wordCount": 982,
+          "title": "List to String Python – join() Syntax Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/david-clode-5uU8HSpfwkI-unsplash.jpg"
+        },
+        {
+          "id": "62518273ac55f60686c30623",
+          "author": "Alex Garcia",
+          "description": "When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want",
+          "link": "https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/",
+          "publishedOn": "2022-04-09T22:26:12.000Z",
+          "wordCount": 1295,
+          "title": "Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/timon-klauser-3MAmj1ZKSZA-unsplash.jpg"
+        },
         {
           "id": "624c24d2ac55f60686c2e356",
           "author": "Kolade Chris",
@@ -398,6 +388,26 @@
           "wordCount": 541,
           "title": "Break The Code 2.0: A Browser Game Where You Solve Missions Using Coding Skills",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/os-loader--1-.png"
+        },
+        {
+          "id": "6251f9feac55f60686c30c4e",
+          "author": "Alex Garcia",
+          "description": "The web would not work at all without DNS servers. They are responsible for translating domain names into IP addresses. Then computers use those IP addresses to locate and connect to web servers, and send users to the right websites. Many people first learned about the DNS system in October",
+          "link": "https://www.freecodecamp.org/news/what-is-a-dns-server/",
+          "publishedOn": "2022-04-07T21:49:00.000Z",
+          "wordCount": 929,
+          "title": "What is a DNS Server? DNS Servers Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/christina-wocintechchat-com-glRqyWJgUeY-unsplash--1-.jpg"
+        },
+        {
+          "id": "6251f744ac55f60686c30bf9",
+          "author": "Alex Garcia",
+          "description": "When it comes to CSS, there are a lot of properties that control the spacing of elements on a page. Two of the most common properties are margin and padding. Both margin and padding control the amount of space around an element, but they do it in different ways. This",
+          "link": "https://www.freecodecamp.org/news/css-margin-vs-padding-what-is-the-difference/",
+          "publishedOn": "2022-04-07T21:25:00.000Z",
+          "wordCount": 530,
+          "title": "CSS Margin VS Padding – What is the Difference? [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/simona-sergi-OfjOuw_prPg-unsplash.jpg"
         },
         {
           "id": "624ca9a4ac55f60686c2e7f9",
@@ -1398,56 +1408,6 @@
           "wordCount": 769,
           "title": "Python Concatenate Strings – How to Combine and Append Strings in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/join.jpg"
-        },
-        {
-          "id": "6220e4a7c4d0d306772f366e",
-          "author": "Andrew Brown",
-          "description": "This exam mostly deals with cloud-native concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
-          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-cloud-native-associate-exam-course/",
-          "publishedOn": "2022-03-10T20:19:15.000Z",
-          "wordCount": 921,
-          "title": "CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cncf.png"
-        },
-        {
-          "id": "6220e4a7c4d0d306772f366e",
-          "author": "Andrew Brown",
-          "description": "This exam mostly deals with cloud-native  concepts. Even if you are new to cloud-native, you should be able to prepare for this exam and earn the CNCF certification. This entire free course is now live on YouTube, and linked below. Before you dive into it, read this guide to help",
-          "link": "https://www.freecodecamp.org/news/cncf-kubernetes-and-cloud-native-associate-study-course-pass-the-exam-with-this-free-13-hour-course/",
-          "publishedOn": "2022-03-10T20:19:15.000Z",
-          "wordCount": null,
-          "title": "CNCF Kubernetes and Cloud-Native Associate Study Course – Pass the Exam With This Free 13-Hour Course",
-          "imageUrl": null
-        },
-        {
-          "id": "6226651763ded806bb9e60eb",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you work with Java, you've probably used one of the well known text editors like Sublime Text, VS Code, Brackets, Atom, and Notepad++ as well as IDEs like Apache NetBeans and IntelliJ IDEA.  Running code in your IDE is straightforward, but you don't often get to see how",
-          "link": "https://www.freecodecamp.org/news/how-to-execute-and-run-java-code/",
-          "publishedOn": "2022-03-10T19:20:03.000Z",
-          "wordCount": 1692,
-          "title": "How to Execute and Run Java Code from the Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Run-Java-Using-The-Terminal---freeCodeCamp-Cover-image.jpg"
-        },
-        {
-          "id": "622a09b763ded806bb9e7c6f",
-          "author": "Kolade Chris",
-          "description": "Git is a version control system that software developers use to keep track of changes in their applications and collaborate with others. One helpful feature of Git is branches. Different people working on a software project can work in different branches before merging their changes with the original code. You",
-          "link": "https://www.freecodecamp.org/news/how-to-rename-a-local-or-remote-branch-in-git/",
-          "publishedOn": "2022-03-10T19:03:32.000Z",
-          "wordCount": 751,
-          "title": "How to Rename a Local or Remote Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git.png"
-        },
-        {
-          "id": "6228676363ded806bb9e6fa7",
-          "author": "Zaira Hira",
-          "description": "The print function is an important function in Python, as it is used to redirect output to the terminal. The output can also be redirected to a file.  The print function, by default, prints on a new line every time. This is due to the definition of print() in",
-          "link": "https://www.freecodecamp.org/news/python-print-without-new-line-print-on-the-same-line/",
-          "publishedOn": "2022-03-10T18:11:21.000Z",
-          "wordCount": 1000,
-          "title": "Python Print Without New Line – Print on the Same Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Copy-of-pip.png"
         }
       ]
     }
