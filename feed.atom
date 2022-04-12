@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-11T01:06:48.971Z</updated>
+    <updated>2022-04-12T01:07:06.521Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Virtual Environment in Python – And Why It's Useful]]></title>
+        <id>6250c642ac55f60686c3023c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/"/>
+        <updated>2022-04-11T20:46:19.000Z</updated>
+        <summary type="html"><![CDATA[When developing software with Python, a basic approach is to install Python on your machine, install all your required libraries via the terminal, write all your code in a single .py file or notebook, and run your Python program in the terminal. This is a common approach for a lot]]></summary>
+        <author>
+            <name>Stephen Sanwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Sandbox Tutorial – How to Enable Sandbox On Windows]]></title>
+        <id>62515952ac55f60686c304b7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enable-sandbox-on-windows/"/>
+        <updated>2022-04-11T20:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Windows Sandbox is a temporary lightweight desktop environment that you can use to safely run Windows applications in an isolated space.  The software or applications that you install inside the Windows sandbox environment remain "sandboxed", and they all run separately from the host machine. So whatever happens in the]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn the C++ Programming Language]]></title>
+        <id>624447b2138a19064b0683f8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/"/>
+        <updated>2022-04-11T17:10:10.000Z</updated>
+        <summary type="html"><![CDATA[In the early days of computer programming, programmers had to write individual instructions in the Assembly language one by one.  Later on programming languages like FORTRAN and COBOL were created. The problem with these languages was that they were targeted at a certain group of people – FORTRAN for]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS Server Not Responding – Service Unavailable DNS Failure [Solved]]]></title>
+        <id>624e9e37ac55f60686c2f16b</id>
+        <link href="https://www.freecodecamp.org/news/dns-server-not-responding-service-unavailable-dns-failure-solved/"/>
+        <updated>2022-04-11T15:59:55.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes, you might suddenly discover that you can’t access the internet on your computer because of the error “DNS server not responding”. If you run a troubleshooter for the issue, you'll get a message like the below: In your Chrome browser, you might also get an error like the one]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Upload Your First Python Package to PyPI]]></title>
+        <id>624da2d3ac55f60686c2eb3c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/"/>
+        <updated>2022-04-11T15:40:44.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago, I wanted to learn how to build my first Python package, and I was trying to figure out where to start.  Well, I got confused and a bit stressed trying to find a simple and easy tutorial I could use to get started. For this]]></summary>
+        <author>
+            <name>Rochdi Khalid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Git Stash Command]]></title>
+        <id>62459f78138a19064b069268</id>
+        <link href="https://www.freecodecamp.org/news/git-stash-commands/"/>
+        <updated>2022-04-11T15:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you're working on a serious feature of a branch in Git – like revamping the hero section of your marketing page. You'll want to start doing experiments in your Revamp/Marketing-page-hero-section branch without screwing up master or main branch. Then suddenly you get call from your coworker to fix]]></summary>
+        <author>
+            <name>Preethi⚡</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Resource Loading With fetchpriority, a New Priority Hint]]></title>
+        <id>https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/</id>
+        <link href="https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/"/>
+        <updated>2022-04-11T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python If-Else Statement Example]]></title>
         <id>62530365ac55f60686c316e5</id>

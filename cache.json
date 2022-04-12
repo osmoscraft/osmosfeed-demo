@@ -73,6 +73,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
+          "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
+          "publishedOn": "2022-04-11T09:30:00.000Z",
+          "wordCount": 2321,
+          "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
           "author": "hello@smashingmagazine.com (Caleb Olojo)",
           "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
@@ -349,6 +364,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6250c642ac55f60686c3023c",
+          "author": "Stephen Sanwo",
+          "description": "When developing software with Python, a basic approach is to install Python on your machine, install all your required libraries via the terminal, write all your code in a single .py file or notebook, and run your Python program in the terminal. This is a common approach for a lot",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/",
+          "publishedOn": "2022-04-11T20:46:19.000Z",
+          "wordCount": 1608,
+          "title": "How to Set Up a Virtual Environment in Python – And Why It's Useful",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/virtual-env-python.png"
+        },
+        {
+          "id": "62515952ac55f60686c304b7",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Windows Sandbox is a temporary lightweight desktop environment that you can use to safely run Windows applications in an isolated space.  The software or applications that you install inside the Windows sandbox environment remain \"sandboxed\", and they all run separately from the host machine. So whatever happens in the",
+          "link": "https://www.freecodecamp.org/news/how-to-enable-sandbox-on-windows/",
+          "publishedOn": "2022-04-11T20:13:55.000Z",
+          "wordCount": 1538,
+          "title": "Windows Sandbox Tutorial – How to Enable Sandbox On Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/close-up-image-programer-working-his-desk-office.jpg"
+        },
+        {
+          "id": "624447b2138a19064b0683f8",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "In the early days of computer programming, programmers had to write individual instructions in the Assembly language one by one.  Later on programming languages like FORTRAN and COBOL were created. The problem with these languages was that they were targeted at a certain group of people – FORTRAN for",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-the-c-programming-language/",
+          "publishedOn": "2022-04-11T17:10:10.000Z",
+          "wordCount": 2866,
+          "title": "How to Learn the C++ Programming Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/How-to-Learn-the-C---Programming-Language.png"
+        },
+        {
+          "id": "624e9e37ac55f60686c2f16b",
+          "author": "Kolade Chris",
+          "description": "Sometimes, you might suddenly discover that you can’t access the internet on your computer because of the error “DNS server not responding”. If you run a troubleshooter for the issue, you'll get a message like the below: In your Chrome browser, you might also get an error like the one",
+          "link": "https://www.freecodecamp.org/news/dns-server-not-responding-service-unavailable-dns-failure-solved/",
+          "publishedOn": "2022-04-11T15:59:55.000Z",
+          "wordCount": 1548,
+          "title": "DNS Server Not Responding – Service Unavailable DNS Failure [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/binary-g3068c576e_1920.jpg"
+        },
+        {
+          "id": "624da2d3ac55f60686c2eb3c",
+          "author": "Rochdi Khalid",
+          "description": "A few weeks ago, I wanted to learn how to build my first Python package, and I was trying to figure out where to start.  Well, I got confused and a bit stressed trying to find a simple and easy tutorial I could use to get started. For this",
+          "link": "https://www.freecodecamp.org/news/how-to-create-and-upload-your-first-python-package-to-pypi/",
+          "publishedOn": "2022-04-11T15:40:44.000Z",
+          "wordCount": 3034,
+          "title": "How to Create and Upload Your First Python Package to PyPI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover-image-python-packaging-blog-1.jpg"
+        },
+        {
+          "id": "62459f78138a19064b069268",
+          "author": "Preethi⚡",
+          "description": "Let's say you're working on a serious feature of a branch in Git – like revamping the hero section of your marketing page. You'll want to start doing experiments in your Revamp/Marketing-page-hero-section branch without screwing up master or main branch. Then suddenly you get call from your coworker to fix",
+          "link": "https://www.freecodecamp.org/news/git-stash-commands/",
+          "publishedOn": "2022-04-11T15:05:10.000Z",
+          "wordCount": 1405,
+          "title": "How to Use the Git Stash Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/stahs-1.png"
+        },
         {
           "id": "62530365ac55f60686c316e5",
           "author": "Quincy Larson",
