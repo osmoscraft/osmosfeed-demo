@@ -64,16 +64,6 @@
           "wordCount": 2521,
           "title": "Optimizing SVG Patterns to Their Smallest Size",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364090"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365042",
-          "author": "Chris Coyier",
-          "description": "Hey hey!\nI’ve got a big announcement to make here. (Where’s my gong? I feel like this really needs a good gong hit.)\nCSS-Tricks, this very website you’re looking at, has been acquired by DigitalOcean!\nYou can hear …\nCSS-Tricks is joining DigitalOcean! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-tricks-is-joining-digitalocean/",
-          "publishedOn": "2022-03-15T12:18:44.000Z",
-          "wordCount": 3692,
-          "title": "CSS-Tricks is joining DigitalOcean!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365042"
         }
       ]
     },
@@ -82,6 +72,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
+          "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
+          "publishedOn": "2022-04-13T12:00:00.000Z",
+          "wordCount": 7266,
+          "title": "Designing A Better Carousel UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
           "author": "hello@smashingmagazine.com (Dan Donald)",
@@ -374,6 +379,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62552369ac55f60686c329f4",
+          "author": "Ashutosh Krishna",
+          "description": "We often need to store some data while working on our personal projects. We can use a SQL or NoSQL database with a server, but that would require us to do a bit of setup.  In one of my previous articles, we saw a solution to this problem with",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-pysondb/",
+          "publishedOn": "2022-04-13T19:30:13.000Z",
+          "wordCount": 2055,
+          "title": "How to Get Started with PysonDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pysondb.png"
+        },
+        {
+          "id": "625664b6ac55f60686c33732",
+          "author": "Jessica Wilkins",
+          "description": "When you are first learning JavaScript, it might be difficult to know the difference between the slice() and splice() array methods.  In this article, I will walk you through how to use the slice() and splice()  array methods using code examples.  How to use the slice() JavaScript",
+          "link": "https://www.freecodecamp.org/news/javascript-slice-and-splice-how-to-use-the-slice-and-splice-js-array-methods/",
+          "publishedOn": "2022-04-13T19:17:33.000Z",
+          "wordCount": 1132,
+          "title": "How to Use the slice() and splice() JavaScript Array Methods",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
+        },
+        {
+          "id": "62527fd2ac55f60686c30fd4",
+          "author": "Keyur Paralkar",
+          "description": "In this article, we are going to talk about closures in JavaScript. I'll walk you through the definition of a closure, a simple day-to-day fetch utility closure example, and some of the advantages and disadvantages of using closures.  Table of Contents  * Prerequisites   * What are",
+          "link": "https://www.freecodecamp.org/news/javascript-closures-explained-with-example/",
+          "publishedOn": "2022-04-13T18:57:03.000Z",
+          "wordCount": 1526,
+          "title": "Closure in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/safar-safarov-LKsHwgzyk7c-unsplash-2.jpg"
+        },
+        {
+          "id": "624f2d28ac55f60686c2f644",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you use the zip() function in Python, it takes two or more data sets and \"zips\" them together. This returns an object containing pairs of items derived from the data sets. It groups these items in the order of their indexes.  Let me break it down a bit",
+          "link": "https://www.freecodecamp.org/news/python-zip-zip-function-in-python/",
+          "publishedOn": "2022-04-13T18:28:32.000Z",
+          "wordCount": 714,
+          "title": "Python .zip() – Zip Function in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zip.jpg"
+        },
+        {
+          "id": "62508fa3ac55f60686c2feff",
+          "author": "Joy Shaheb",
+          "description": "Today we're gonna learn how to do CRUD Operations in JavaScript by making a Todo App. Let's get started 🔥 This is the app we're making today:  * Live preview [https://crud-application-al9am9v2v-joyshaheb.vercel.app/]  * GitHub Repository [https://github.com/JoyShaheb/CRUD-Application] You can watch this tutorial on YouTube as well if you like 🎥",
+          "link": "https://www.freecodecamp.org/news/learn-crud-operations-in-javascript-by-building-todo-app/",
+          "publishedOn": "2022-04-13T17:57:32.000Z",
+          "wordCount": 2971,
+          "title": "Learn CRUD Operations in JavaScript by Building TODO APP",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Frame-12--2-.png"
+        },
+        {
+          "id": "624cb56dac55f60686c2e839",
+          "author": "Dillion Megida",
+          "description": "What is TypeScript? TypeScript is a superset of JavaScript that compiles to JavaScript for production. It's like JavaScript, but with powers – type powers. TypeScript helps you build typed applications that help you avoid static type errors in those apps and make predictable code. Without TypeScript, a function declared to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-typescript-with-graphql/",
+          "publishedOn": "2022-04-13T00:18:19.000Z",
+          "wordCount": 2366,
+          "title": "How to Use TypeScript with GraphQL using TypeGraphQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-reagan-787642.jpg"
+        },
+        {
+          "id": "624640c4138a19064b06a073",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "Glassmorphism is a growing trend in user interface design. It makes your designs look modern and elegant. ‌‌‌‌In this article, we'll be learning about what glassmorphism means, how accessible it is, and how to design a simple glass card.‌‌ What is Glassmorphism? Glassmorphism is a style which, as the name",
+          "link": "https://www.freecodecamp.org/news/glassmorphism-how-to-create-a-glass-card-in-figma/",
+          "publishedOn": "2022-04-13T00:04:19.000Z",
+          "wordCount": 1182,
+          "title": "What is Glassmorphism? How to Create a Glass Card in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Glass-Card.png"
+        },
+        {
+          "id": "624fec14ac55f60686c2fa12",
+          "author": "Paul Akinyemi",
+          "description": "Animations are a crucial part of any great website. Why? When done well, animations vastly improve the user experience of any site, as they help make sites fun and intuitive to use. This article will show you how to build an animated landing page with the help of a JavaScript",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-animated-landing-page-with-gsap-and-tailwindcss/",
+          "publishedOn": "2022-04-12T23:56:31.000Z",
+          "wordCount": 3192,
+          "title": "How to Build an Animated Landing Page with GSAP and TailwindCSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/gsap-gears.jpg"
+        },
+        {
+          "id": "6250281aac55f60686c2fbcb",
+          "author": "Joel Olawanle",
+          "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript framework for creating UI components-based user interfaces.  React is maintained by Meta (previously Facebook) and a community of individual developers and organizations. According to the 2021 Stack Overflow’s developer’s survey [https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks] , React.js surpassed jQuery",
+          "link": "https://www.freecodecamp.org/news/get-started-with-react-for-beginners/",
+          "publishedOn": "2022-04-12T23:13:08.000Z",
+          "wordCount": 2181,
+          "title": "How to Get Started With React – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover-template.png"
+        },
         {
           "id": "622e87c6c3e3d106805daa1f",
           "author": "Dillion Megida",
@@ -1483,106 +1578,6 @@
           "wordCount": 16524,
           "title": "Advanced OpenGL Animation Technique – Skeletal Animations with Assimp",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/opengl.png"
-        },
-        {
-          "id": "622b887163ded806bb9e8566",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Data structures help us organize and store collections of data. Python has built-in data structures like Lists, Sets, Tuples and Dictionaries.  Each of these structures have their own syntax and methods for interacting with the data stored.  In this article, we'll talk about Dictionaries, their features, and how",
-          "link": "https://www.freecodecamp.org/news/python-add-to-dictionary-adding-an-item-to-a-dict/",
-          "publishedOn": "2022-03-15T00:33:07.000Z",
-          "wordCount": 953,
-          "title": "Python Add to Dictionary – Adding an Item to a Dict",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/dictionaary.jpg"
-        },
-        {
-          "id": "622ce4df63ded806bb9e8dae",
-          "author": "Paul Akinyemi",
-          "description": "After you write your first couple of articles, a problem most technical writers face is: \"So, what do I write about next?\" It can be a frustrating question, so I wrote this article to help. In it, I will give you tips that will save you the headache the next",
-          "link": "https://www.freecodecamp.org/news/choose-a-topic-for-your-next-article/",
-          "publishedOn": "2022-03-14T23:52:03.000Z",
-          "wordCount": 1370,
-          "title": "How to Choose a Topic for Your Technical Article",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/topic_article_head.jpg"
-        },
-        {
-          "id": "622acecd63ded806bb9e8101",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "In this article, you'll learn how to install plugins in Figma. You'll also get to know some really cool Figma plugins that every designer and developer should use.  Plugins help make your design process easier and smoother. From image assets to embedding maps into your designs, plugins are easy",
-          "link": "https://www.freecodecamp.org/news/plugins-in-figma/",
-          "publishedOn": "2022-03-14T20:42:03.000Z",
-          "wordCount": 1093,
-          "title": "How to Use Plugins in Figma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-picjumbocom-196645.jpg"
-        },
-        {
-          "id": "622cecd663ded806bb9e8dfd",
-          "author": "Sebastian Sigl",
-          "description": "Containers are everywhere in today’s tech world. The most popular technology for container management is Docker [https://www.docker.com/]. It makes using containers easy and helps you easily get applications up and running.  Unfortunately, this can take a lot of disk space, and you will eventually end up with a full",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-all-docker-images-a-docker-cleanup-guide/",
-          "publishedOn": "2022-03-14T20:25:16.000Z",
-          "wordCount": 873,
-          "title": "How to Remove All Docker Images – A Docker Cleanup Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/docker-cleanup-guide.png"
-        },
-        {
-          "id": "622c9d4363ded806bb9e8a9f",
-          "author": "Nishant Kumar",
-          "description": "Building a full-stack application can be tough. And the base of building such an application is learning how to perform CRUD operations – Create, Read, Update, and Delete.  It's by using these operations that we manage the data flow between the client application and the server. So, in this",
-          "link": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-using-angular-13/",
-          "publishedOn": "2022-03-14T19:49:03.000Z",
-          "wordCount": 1773,
-          "title": "How to Perform CRUD Operations using Angular 13",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/How-to-Build-a-Weather-Application-using-React--82-.png"
-        },
-        {
-          "id": "622c7bf563ded806bb9e8a20",
-          "author": "Gaël Thomas",
-          "description": "Do you like listening to music while you code? If so, you're in luck. This blog post is all about music for programming.  In this reference guide, I'll be sharing a variety of different playlists, radio stations, and videos that you can listen to while coding. Whether you're a",
-          "link": "https://www.freecodecamp.org/news/music-for-programming-youtube-channels-twitchtv-web-radios-and-more/",
-          "publishedOn": "2022-03-14T19:16:43.000Z",
-          "wordCount": 811,
-          "title": "Music for Programming – Coding Music Playlists, Radio Stations, Videos, and Lives",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Big-Text-How-to-Youtube-Thumbnail.png"
-        },
-        {
-          "id": "62239491c4d0d306772f4a00",
-          "author": "Tiago Monteiro",
-          "description": "Did you know that it is thanks to compilers that software exists? Exactly – compilers are very important, and some form of a compiler exists in all programming languages. But, what is a compiler? What do they do exactly? This article will teach you:  1. What a compiler is",
-          "link": "https://www.freecodecamp.org/news/what-is-a-compiler-in-c/",
-          "publishedOn": "2022-03-14T18:39:43.000Z",
-          "wordCount": 1214,
-          "title": "What is a Compiler? Compilers in C Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/1-YhjIVZXE56R6YZaTF-Lzig.jpeg"
-        },
-        {
-          "id": "622b53f963ded806bb9e8436",
-          "author": "Zaira Hira",
-          "description": "Removing files and formatting disks is a common task for users. And Linux provides a number of utilities to delete files and folders from the command line.  The most common command to delete files and folders is rm and rmdir, respectively. You can read in detail about the rm",
-          "link": "https://www.freecodecamp.org/news/securely-erasing-a-disk-and-file-using-linux-command-shred/",
-          "publishedOn": "2022-03-14T14:55:27.000Z",
-          "wordCount": 1117,
-          "title": "How to Securely Erase a Disk and File using the Linux shred Command",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/shred--2-.gif"
-        },
-        {
-          "id": "6221c8d2c4d0d306772f3f43",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn the basics of dictionaries in Python. You will learn how to create dictionaries, access the elements inside them, and how to modify them depending on your needs. You will also learn some of the most common built-in methods used on dictionaries. Here is what",
-          "link": "https://www.freecodecamp.org/news/create-a-dictionary-in-python-python-dict-methods/",
-          "publishedOn": "2022-03-14T14:19:43.000Z",
-          "wordCount": 3091,
-          "title": "Create a Dictionary in Python – Python Dict Methods",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-kevin-ku-577585.jpg"
-        },
-        {
-          "id": "62134fa821bfb3068cf2bf43",
-          "author": "Jessica Wilkins",
-          "description": "If you ever need to skip part of the current loop you are in or break out of the loop completely, then you can use the break and continue statements. In this article, I will cover how to use the break and continue statements in your Python code. How to",
-          "link": "https://www.freecodecamp.org/news/python-break-and-python-continue-how-to-skip-to-the-next-function/",
-          "publishedOn": "2022-03-14T13:55:01.000Z",
-          "wordCount": 839,
-          "title": "Python Break and Python Continue – How to Skip to the Next Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/thisisengineering-raeng-uyfohHiTxho-unsplash.jpg"
         }
       ]
     }
