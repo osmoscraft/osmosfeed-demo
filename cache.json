@@ -73,6 +73,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.",
+          "link": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
+          "publishedOn": "2022-04-14T11:00:00.000Z",
+          "wordCount": 2445,
+          "title": "When And How To Use Freelancers In Your Organization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
@@ -356,21 +371,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a9a0777-fd16-459e-b50d-20d5119f220d/drag-drop-file-uploader-vuejs-3.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "This fresh new design trend has been picking up steam with the rising popularity of colorful inflated 3D graphics in web illustrations and with the latest Virtual Reality projects like “Horizon Worlds”. Let’s see if there is room for Claymorphism on the UI, and how we can create this effect with CSS.",
-          "link": "https://smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/",
-          "publishedOn": "2022-03-16T11:00:00.000Z",
-          "wordCount": 2591,
-          "title": "Claymorphism: Will It Stick Around?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d6ceacdf-835e-497e-a1e0-be958d42ac76/claymorphism-css-ui-design-trend.jpg"
         }
       ]
     },
@@ -379,6 +379,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6208aaaf56125b0677c64aaa",
+          "author": "Rutvik Tak",
+          "description": "When you're developing an app, you'll have to decide how you want to load data. And this will typically bring up the issue of infinite pagination.  You likely won't be showing all of the available items in your DB to your users. You may fetch the first 10-20 items",
+          "link": "https://www.freecodecamp.org/news/infinite-pagination-in-flutter-with-riverpod/",
+          "publishedOn": "2022-04-14T23:46:42.000Z",
+          "wordCount": 2634,
+          "title": "Infinite Pagination in Flutter with Firebase, Riverpod, and Freeze",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Firebase-Security-Rules-Introduction--1-.png"
+        },
+        {
+          "id": "62549e60ac55f60686c32496",
+          "author": "Marco Venturi",
+          "description": "CI/CD has changed the way IT teams release new software versions.  In this tutorial I'll share my experience with Azure Static Web Apps – Azure's PaaS solution. I'll show you how you can take advantage of its flexibility to deploy an Angular App just by pushing your code to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-azure-static-web-apps-to-deploy-angular-app/",
+          "publishedOn": "2022-04-14T23:42:23.000Z",
+          "wordCount": 1461,
+          "title": "How to Use Azure Static Web Apps to Deploy an Angular App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover_2.png"
+        },
+        {
+          "id": "6257f4fcac55f60686c34755",
+          "author": "Zaira Hira",
+          "description": "Lists are one of the most useful and versatile data types available in Python. Lists are a collection of arbitrary objects, just like arrays in other programming languages. In this tutorial you will learn:  * An overview of lists and how they are defined.  * Methods to insert",
+          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-add-an-item-to-a-list-in-python/",
+          "publishedOn": "2022-04-14T20:03:38.000Z",
+          "wordCount": 1639,
+          "title": "Python List .append() – How to Add an Item to a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/python-append--1-.png"
+        },
+        {
+          "id": "62563320ac55f60686c3361f",
+          "author": "Saransh Kataria",
+          "description": "Over the past few months, I've found a new use for the pictures that I've taken while hiking. I started using them as Zoom virtual backgrounds.  If you are anything like me and take a lot of pictures, it can be hard to decide which one looks good. And",
+          "link": "https://www.freecodecamp.org/news/how-to-write-a-script-to-change-zoom-background/",
+          "publishedOn": "2022-04-14T18:05:20.000Z",
+          "wordCount": 996,
+          "title": "How to Write a Script to Change Your Zoom Background Every Day",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zoom-background-article-image.png"
+        },
+        {
+          "id": "6256dd0eac55f60686c33b09",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're writing, sometimes you might want to strike through certain text. This means adding a horizontal line that runs through a piece of text.  Here is what it looks like: you are an awesome person.  These are various use cases for strikethroughs:  * To indicate that",
+          "link": "https://www.freecodecamp.org/news/google-docs-strikethrough-how-to-cross-out-text-in-google-docs/",
+          "publishedOn": "2022-04-14T17:49:37.000Z",
+          "wordCount": 625,
+          "title": "Google Docs Strikethrough – How to Cross Out Text in Google Docs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/siriwan-arunsiriwattana-gs0coXLmjdI-unsplash.jpg"
+        },
+        {
+          "id": "62496868ac55f60686c2ccbc",
+          "author": "TAPAS ADHIKARY",
+          "description": "A few months back, I was invited to talk to a group of engineering students of a renowned college in India. I was supposed to interact with them, motivate them, and finally tell them, \"What does the industry (the \"job\" world) look like?\", \"How can you get ready for it?\"",
+          "link": "https://www.freecodecamp.org/news/how-to-get-ready-for-a-job-in-tech/",
+          "publishedOn": "2022-04-14T17:05:57.000Z",
+          "wordCount": 2367,
+          "title": "How to Get Ready for a Job in Tech – Tips for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/1.png"
+        },
+        {
+          "id": "62560533ac55f60686c33336",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a look at modules in JavaScript. Modules are a technique heavily used in today's software design/architecture. First we're going to learn what they are and the different types of modules that exist. Then we're going to discuss why modules are useful.",
+          "link": "https://www.freecodecamp.org/news/modules-in-javascript/",
+          "publishedOn": "2022-04-14T01:17:29.000Z",
+          "wordCount": 2952,
+          "title": "Modules in JavaScript – CommonJS and ESmodules Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/carson-arias-7Z03R1wOdmI-unsplash.jpg"
+        },
+        {
+          "id": "62577335ac55f60686c342d8",
+          "author": "Beau Carnes",
+          "description": "Low-code is a software development approach that requires little coding in order to build applications. It is made possible through a low-code platform. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the Appsmith Low-Code platform.  Ania Kubów created this course.",
+          "link": "https://www.freecodecamp.org/news/low-code-for-freelance-developers-startups/",
+          "publishedOn": "2022-04-14T01:17:01.000Z",
+          "wordCount": 518,
+          "title": "Low-Code for Freelance Developers & Startups",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/lowcode.png"
+        },
+        {
+          "id": "6256c1d7ac55f60686c33a90",
+          "author": "Kolade Chris",
+          "description": "In your HTML documents, you'll often need to make a list of items. And you can use bullet points for this purpose. You can show bullet points with the Unicode character (or entity) for bullet points. In this article, I will show you the Unicode and HTML entities for showing",
+          "link": "https://www.freecodecamp.org/news/dot-symbol-bullet-point-in-html-unicode/",
+          "publishedOn": "2022-04-14T00:45:10.000Z",
+          "wordCount": 550,
+          "title": "Dot Symbol – Bullet Point in HTML Unicode",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/bullet.png"
+        },
+        {
+          "id": "6257472dac55f60686c341a4",
+          "author": "Shruti Kapoor",
+          "description": "React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.  React 18 sets the foundation for concurrent rendering APIs that future React features will be built on top of.  In this tutorial, I will give a quick guide of the",
+          "link": "https://www.freecodecamp.org/news/react-18-new-features/",
+          "publishedOn": "2022-04-13T21:58:00.000Z",
+          "wordCount": 1992,
+          "title": "React 18 New Features – Concurrent Rendering, Automatic Batching, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/featured.jpg"
+        },
         {
           "id": "62552369ac55f60686c329f4",
           "author": "Ashutosh Krishna",
@@ -1538,46 +1638,6 @@
           "wordCount": 420,
           "title": "Free Python Crash Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pythonbobby.png"
-        },
-        {
-          "id": "62310fbac3e3d106805db8d1",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Lists are one of the built-in data types in Python. You use them to store multiple elements in one variable.  Lists enable us group similar data together, and we can also perform operations on these grouped elements at the same time. In this article, we will talk about how",
-          "link": "https://www.freecodecamp.org/news/python-get-last-element-in-list-how-to-select-the-last-item/",
-          "publishedOn": "2022-03-15T23:26:34.000Z",
-          "wordCount": 843,
-          "title": "Python Get Last Element in List – How to Select the Last Item",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/list.jpg"
-        },
-        {
-          "id": "62245d2ac4d0d306772f4e3a",
-          "author": "TAPAS ADHIKARY",
-          "description": "React.js is an open-source JavaScript-based user interface library. It is hugely popular for web and mobile app development.  React follows the principle of component-based architecture. A component in React is an isolated and reusable piece of code. The components can be of two types – class components and functional",
-          "link": "https://www.freecodecamp.org/news/react-hooks-fundamentals/",
-          "publishedOn": "2022-03-15T19:20:16.000Z",
-          "wordCount": 1220,
-          "title": "React Hooks Fundamentals for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/freeCodeCamp-Cover.png"
-        },
-        {
-          "id": "6213cb7d21bfb3068cf2c271",
-          "author": "Estefania Cassingena Navone",
-          "description": "Hi! If you speak Spanish and you want you learn React, you're in the right place. In this article, you will find a brief introduction to React. You will learn why it is so important for web development and why you should learn it.  Then, you will find a",
-          "link": "https://www.freecodecamp.org/news/learn-react-in-spanish-course-for-beginners/",
-          "publishedOn": "2022-03-15T15:41:39.000Z",
-          "wordCount": 1508,
-          "title": "Learn React in Spanish – Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/thumbnail-2.png"
-        },
-        {
-          "id": "6230acbbc3e3d106805db524",
-          "author": "Beau Carnes",
-          "description": "If you want your 3D animated characters to move in realistic-looking ways, you need to have a good understanding of skeletal animations. We just posted a full course on the freeCodeCamp.org YouTube channel well teach you how to do skeletal animations with OpenGL and the Assimp library. Etay Meiri created",
-          "link": "https://www.freecodecamp.org/news/advanced-opengl-animation-technique-skeletal-animations/",
-          "publishedOn": "2022-03-15T15:37:21.000Z",
-          "wordCount": 16524,
-          "title": "Advanced OpenGL Animation Technique – Skeletal Animations with Assimp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/opengl.png"
         }
       ]
     }
