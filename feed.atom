@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T01:09:41.490Z</updated>
+    <updated>2022-04-16T01:05:54.363Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Fix the "Item Not Found" Windows Error When Deleting a File or Folder]]></title>
+        <id>62585158ac55f60686c34d0a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-solve-item-not-found-windows-error-deleting-file-folder/"/>
+        <updated>2022-04-15T18:32:06.000Z</updated>
+        <summary type="html"><![CDATA[If you use a Windows operating system, then you might have gotten this error before when trying to delete a file or folder.  It happens when, even though the file or folder is there, Windows says that it is failing to delete it because it can't find that file/folder]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Storytelling In UX]]></title>
+        <id>https://smashingmagazine.com/2022/04/use-storytelling-ux/</id>
+        <link href="https://smashingmagazine.com/2022/04/use-storytelling-ux/"/>
+        <updated>2022-04-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marli Mesibov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Kotlin Microservice to AWS with App Runner]]></title>
+        <id>624e81ffac55f60686c2f0bd</id>
+        <link href="https://www.freecodecamp.org/news/kotlin-aws-app-runner/"/>
+        <updated>2022-04-15T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello, everyone. In this step-by-step tutorial, I would like to show you how to deploy a Kotlin Microservice using Docker and AWS App Runner.  Together, we will learn:  * what exactly is AWS App Runner?   * how to configure AWS Command Line Interface on your local]]></summary>
+        <author>
+            <name>Piotr Wolak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Inspect an Element – Chrome Shortcut]]></title>
+        <id>625807d4ac55f60686c348c2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-inspect-an-element-chrome-shortcut/"/>
+        <updated>2022-04-15T01:40:32.000Z</updated>
+        <summary type="html"><![CDATA[The Inspect Element feature of the Google Chrome browser is a powerful yet easy-to-use tool. It’s an important part of Chrome Developer Tools that you can use to check the source code of any website. But it doesn’t end there. You can take things further by changing the elements and]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infinite Pagination in Flutter with Firebase, Riverpod, and Freeze]]></title>
         <id>6208aaaf56125b0677c64aaa</id>
@@ -1491,46 +1531,6 @@ Optimizing SVG Patterns to Their Smallest Size originally published on CSS-Trick
         <link href="https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/"/>
         <updated>2022-03-17T14:49:23.000Z</updated>
         <summary type="html"><![CDATA[If you are looking for a web developer job it can be helpful to have a portfolio website. It can also be helpful to have projects you've created to show to potential employers. You can accomplish both tasks at once by creating your own portfolio website with HTML, CSS, &]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Contact Book Application in Python using Rich, Typer, and TinyDB]]></title>
-        <id>6231a5b3c3e3d106805db9fc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb/"/>
-        <updated>2022-03-17T00:15:43.000Z</updated>
-        <summary type="html"><![CDATA[In this Python tutorial, we'll learn how to build a terminal application (CLI app) to manage our contact book.  We'll use Typer for building the CLI app, Rich for a colorized terminal output, and TinyDB for the database. Get your tools ready We'll be using a few external libraries]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Debugging? How to Debug Your Code for Beginners]]></title>
-        <id>62321616cdcd57069ddfa114</id>
-        <link href="https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/"/>
-        <updated>2022-03-16T21:31:29.000Z</updated>
-        <summary type="html"><![CDATA[In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Functions – How to Define and Call a Function]]></title>
-        <id>6231fec0cdcd57069ddfa05d</id>
-        <link href="https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/"/>
-        <updated>2022-03-16T17:17:43.000Z</updated>
-        <summary type="html"><![CDATA[In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable. In this article, I will show you how to define a function in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Python Crash Course]]></title>
-        <id>623204d4cdcd57069ddfa080</id>
-        <link href="https://www.freecodecamp.org/news/free-python-crash-course/"/>
-        <updated>2022-03-16T15:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Python is one of the most popular programming languages in the word. It is used everywhere from web development, to simple scripts, to machine learning and AI. We just published a Python tutorial on the freeCodeCamp.org YouTube channel that will teach you the basics of Python. Bobby Stearman developed this]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>

@@ -73,6 +73,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
+          "author": "hello@smashingmagazine.com (Marli Mesibov)",
+          "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
+          "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
+          "publishedOn": "2022-04-15T14:00:00.000Z",
+          "wordCount": 3754,
+          "title": "How To Use Storytelling In UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.",
@@ -379,6 +394,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62585158ac55f60686c34d0a",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you use a Windows operating system, then you might have gotten this error before when trying to delete a file or folder.  It happens when, even though the file or folder is there, Windows says that it is failing to delete it because it can't find that file/folder",
+          "link": "https://www.freecodecamp.org/news/how-to-solve-item-not-found-windows-error-deleting-file-folder/",
+          "publishedOn": "2022-04-15T18:32:06.000Z",
+          "wordCount": 1014,
+          "title": "How to Fix the \"Item Not Found\" Windows Error When Deleting a File or Folder",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Email_woman1.jpg"
+        },
+        {
+          "id": "624e81ffac55f60686c2f0bd",
+          "author": "Piotr Wolak",
+          "description": "Hello, everyone. In this step-by-step tutorial, I would like to show you how to deploy a Kotlin Microservice using Docker and AWS App Runner.  Together, we will learn:  * what exactly is AWS App Runner?   * how to configure AWS Command Line Interface on your local",
+          "link": "https://www.freecodecamp.org/news/kotlin-aws-app-runner/",
+          "publishedOn": "2022-04-15T06:34:00.000Z",
+          "wordCount": 2416,
+          "title": "How to Deploy a Kotlin Microservice to AWS with App Runner",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/kotlin-aws-app-runner.png"
+        },
+        {
+          "id": "625807d4ac55f60686c348c2",
+          "author": "Kolade Chris",
+          "description": "The Inspect Element feature of the Google Chrome browser is a powerful yet easy-to-use tool. It’s an important part of Chrome Developer Tools that you can use to check the source code of any website. But it doesn’t end there. You can take things further by changing the elements and",
+          "link": "https://www.freecodecamp.org/news/how-to-inspect-an-element-chrome-shortcut/",
+          "publishedOn": "2022-04-15T01:40:32.000Z",
+          "wordCount": 1107,
+          "title": "How to Inspect an Element – Chrome Shortcut",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/inspect-element.png"
+        },
         {
           "id": "6208aaaf56125b0677c64aaa",
           "author": "Rutvik Tak",
@@ -1598,46 +1643,6 @@
           "wordCount": 24496,
           "title": "Create a Portfolio Website Using HTML, CSS, & JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/portfoliojs.png"
-        },
-        {
-          "id": "6231a5b3c3e3d106805db9fc",
-          "author": "Ashutosh Krishna",
-          "description": "In this Python tutorial, we'll learn how to build a terminal application (CLI app) to manage our contact book.  We'll use Typer for building the CLI app, Rich for a colorized terminal output, and TinyDB for the database. Get your tools ready We'll be using a few external libraries",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-contact-book-application-in-python-using-rich-typer-and-tinydb/",
-          "publishedOn": "2022-03-17T00:15:43.000Z",
-          "wordCount": 1846,
-          "title": "How to Build a Contact Book Application in Python using Rich, Typer, and TinyDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/contact-book.png"
-        },
-        {
-          "id": "62321616cdcd57069ddfa114",
-          "author": "Germán Cocca",
-          "description": "In this article we'll talk about what debugging is, how to debug your code, and how you can get better at it. Table of contents  * How Debugging Started  * Why Should You Learn About Debugging?  * How to Debug Your Code  * How to Get",
-          "link": "https://www.freecodecamp.org/news/what-is-debugging-how-to-debug-code/",
-          "publishedOn": "2022-03-16T21:31:29.000Z",
-          "wordCount": 5846,
-          "title": "What is Debugging? How to Debug Your Code for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-mike-198101.jpg"
-        },
-        {
-          "id": "6231fec0cdcd57069ddfa05d",
-          "author": "Kolade Chris",
-          "description": "In programming, a function is a reusable block of code that executes a certain functionality when it is called. Functions are integral parts of every programming language because they help make your code more modular and reusable. In this article, I will show you how to define a function in",
-          "link": "https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/",
-          "publishedOn": "2022-03-16T17:17:43.000Z",
-          "wordCount": 882,
-          "title": "Python Functions – How to Define and Call a Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/functions.png"
-        },
-        {
-          "id": "623204d4cdcd57069ddfa080",
-          "author": "Beau Carnes",
-          "description": "Python is one of the most popular programming languages in the word. It is used everywhere from web development, to simple scripts, to machine learning and AI. We just published a Python tutorial on the freeCodeCamp.org YouTube channel that will teach you the basics of Python. Bobby Stearman developed this",
-          "link": "https://www.freecodecamp.org/news/free-python-crash-course/",
-          "publishedOn": "2022-03-16T15:46:45.000Z",
-          "wordCount": 420,
-          "title": "Free Python Crash Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pythonbobby.png"
         }
       ]
     }
