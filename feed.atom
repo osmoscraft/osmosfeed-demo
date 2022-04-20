@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-19T01:20:01.812Z</updated>
+    <updated>2022-04-20T01:24:20.651Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Permissions – How to Find Permissions of a File]]></title>
+        <id>625c8890ac55f60686c37088</id>
+        <link href="https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/"/>
+        <updated>2022-04-19T21:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Linux is a multi-user Operating System which means it supports multiple users on a single system.  Each user has its own rights which might be limited as well to increase security. For example, users have a particular set of permissions to access a file – some users might be]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Bypass ES Modules Errors in Next.js with Dynamic Imports]]></title>
+        <id>6252e40fac55f60686c3142d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-bypass-es-modules-error-in-next-js/"/>
+        <updated>2022-04-19T19:58:52.000Z</updated>
+        <summary type="html"><![CDATA[When you are building an application that can be accessed on the web, there are a lot of dependencies or packages that you will need for your application to function well. You'll need most of these packages when you're building JAMStack applications with frameworks or libraries like React, Vuejs, Next.js,]]></summary>
+        <author>
+            <name>Caleb Olojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Docker? Learn How to Use Containers – Explained with Examples]]></title>
+        <id>625d1728ac55f60686c3725e</id>
+        <link href="https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/"/>
+        <updated>2022-04-19T19:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Containers are an essential tool for software development today. Running applications in any environment becomes easy when you leverage containers.  The most popular technology for running containers is Docker [https://www.docker.com/], which runs on any operating system. In this blog post, you will learn to use Docker for the top]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubber Duck Debugging]]></title>
+        <id>625e7b77ac55f60686c37edc</id>
+        <link href="https://www.freecodecamp.org/news/rubber-duck-debugging/"/>
+        <updated>2022-04-19T17:55:41.000Z</updated>
+        <summary type="html"><![CDATA[As a software developer, you’ve probably been in a situation where your code is not working as expected. This could happen because you made a typo, you weren't paying enough attention, or you weren't sure how something worked. When your code doesn't work, it's frustrating – but the only thing]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React + WebSockets Project – Build a Real-Time Order Book Application]]></title>
+        <id>61372766d6679a07b7d43ded</id>
+        <link href="https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/"/>
+        <updated>2022-04-19T17:15:27.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will see how to build an Order Book web application, that we'll use to display real-time cryptocurrency info. We will use React with Typescript [https://create-react-app.dev/docs/adding-typescript/] for creating the UI,  Redux [https://redux.js.org/] for managing the application state, and  styled-components [https://styled-components.com/] for applying the styling. And]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Host an Angular Application on GitHub Pages with Travis CI]]></title>
+        <id>6259eec8ac55f60686c35fe1</id>
+        <link href="https://www.freecodecamp.org/news/host-an-angular-application-on-github-pages-with-travis-ci/"/>
+        <updated>2022-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll create an application using the latest version of Angular. Then we'll host it on the GitHub Pages static website service using the continuous integration tool Travis CI to deploy the application. Prerequisites Before you start, you need to install and configure the tools below to create]]></summary>
+        <author>
+            <name>Rodrigo Kamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamstack Rendering Patterns: The Evolution]]></title>
+        <id>https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/</id>
+        <link href="https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/"/>
+        <updated>2022-04-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ekene Eze)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[strftime – Python DateTime Timestamp String]]></title>
+        <id>62584ad7ac55f60686c34bd0</id>
+        <link href="https://www.freecodecamp.org/news/strftime-python-datetime-timestamp-string/"/>
+        <updated>2022-04-19T01:15:23.000Z</updated>
+        <summary type="html"><![CDATA[The datetime object lets us work with dates and times in Python. But the value returned when we use this object is of the datatime data type rather than a  string. Here is an example that prints the current year, month, day and time to the console: from datetime]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS radial-gradient by Building Background Patterns]]></title>
+        <id>625bf31cac55f60686c36991</id>
+        <link href="https://www.freecodecamp.org/news/css-radial-gradient/"/>
+        <updated>2022-04-19T01:12:33.000Z</updated>
+        <summary type="html"><![CDATA[If you are new to CSS gradients, you may have heard about something called  radial-gradient(). If you have never used it before, you are in the right place to learn about it. In this tutorial, I will focus on some real and practical examples to explain the secrets behind]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Network Security – How to Use Suricata, RaspberryPI4, and Python to Make Your Network Safe]]></title>
+        <id>625c80fcac55f60686c37035</id>
+        <link href="https://www.freecodecamp.org/news/home-network-security-with-suricata-raspberrypi4-python/"/>
+        <updated>2022-04-19T00:23:10.000Z</updated>
+        <summary type="html"><![CDATA[In a previous article [/news/wireless-security-using-raspberry-pi-4-kismet-and-python/], I showed you how to secure your wireless home network using Kismet [https://www.kismetwireless.net/]. Kismet is perfect for detecting anomalies and certain types of attack – but what if I want to analyze the traffic and look for abnormal patterns or patterns that could indicate an]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Object-Oriented Programming in Java – A Beginner's Guide]]></title>
         <id>601e56cc0a2838549dcbf3d6</id>
@@ -1494,16 +1594,6 @@ Write HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks.
         <summary type="html"><![CDATA[Error messages help us solve/fix problems in our code. But some error messages, when you first see them, may confuse you because they seem unclear.  One of these errors is the "SyntaxError: unexpected EOF while parsing" error you might get in Python. In this article, we'll see why this]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties]]></title>
-        <id>https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/</id>
-        <link href="https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/"/>
-        <updated>2022-03-21T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
         </author>
     </entry>
 </feed>
