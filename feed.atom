@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-20T01:24:20.651Z</updated>
+    <updated>2022-04-21T01:16:37.619Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[dns_probe_finished_nxdomain Error [Solved]]]></title>
+        <id>625fe437ac55f60686c38f04</id>
+        <link href="https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/"/>
+        <updated>2022-04-20T15:39:02.000Z</updated>
+        <summary type="html"><![CDATA[If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Tailwind CSS to New and Existing WordPress Themes]]></title>
+        <id>https://css-tricks.com/?p=364880</id>
+        <link href="https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/"/>
+        <updated>2022-04-20T15:30:29.000Z</updated>
+        <summary type="html"><![CDATA[In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …
+Adding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Greg Sullivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux Toolkit – The Recommended Way to Use Redux]]></title>
+        <id>626007e4ac55f60686c3924f</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/"/>
+        <updated>2022-04-20T13:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Redux Toolkit is an opinionated toolset for efficient Redux development created by the Redux team. It is the the standard and recommended way to write Redux logic and manage state in your JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Productivity Tips And Tools For A More Efficient Workflow]]></title>
+        <id>https://smashingmagazine.com/2022/04/productivity-tips-tools/</id>
+        <link href="https://smashingmagazine.com/2022/04/productivity-tips-tools/"/>
+        <updated>2022-04-20T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Permissions – How to Find Permissions of a File]]></title>
         <id>625c8890ac55f60686c37088</id>
@@ -1502,98 +1543,6 @@ Activating design mode
         <summary type="html"><![CDATA[If you are using a Windows operating system, you have likely used the latest Windows PowerShell at least once.  Whenever you open the PowerShell, you get a text message inside the terminal which shows the terminal version, the link to download the latest PowerShell, and so on.  Sometimes]]></summary>
         <author>
             <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Design Is All About Good Timing]]></title>
-        <id>https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/</id>
-        <link href="https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/"/>
-        <updated>2022-03-22T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Operator – Logical Operators in Python]]></title>
-        <id>62346eeacdcd57069ddfae72</id>
-        <link href="https://www.freecodecamp.org/news/operators-in-python-how-to-use-logical-operators-in-python/"/>
-        <updated>2022-03-22T00:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Operators in any programming language are the basic building blocks using which we can construct powerful, complex statements for problem solving.  Python offers different types of operators, like arithmetic operators, logical operators, relational operators and so on. In this post, let's dive into logical operators in Python and learn]]></summary>
-        <author>
-            <name>Suchandra Datta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage State in a React App – With Hooks, Redux, and More]]></title>
-        <id>62376c2ecdcd57069ddfbf7f</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-a-react-app/"/>
-        <updated>2022-03-21T23:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Hi! In this article we'll take a look at the many ways you can manage state in a React app. We'll start by talking about what state is, and then go through the many tools you can use to manage it. We'll look at the simple useState hook and also]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code Extensions to Increase Developer Productivity]]></title>
-        <id>6238da58cdcd57069ddfc85e</id>
-        <link href="https://www.freecodecamp.org/news/vs-code-extensions-to-increase-developer-productivity/"/>
-        <updated>2022-03-21T20:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Visual Studio Code is one of the most popular code editors used by software developers. While it has many great features built-in, there are a lot of extensions you can install to increase your productivity.  We just published a video on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write HTML, the HTML Way (Not the XHTML Way)]]></title>
-        <id>https://css-tricks.com/?p=363745</id>
-        <link href="https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/"/>
-        <updated>2022-03-21T20:08:38.000Z</updated>
-        <summary type="html"><![CDATA[You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.
-What is the XHTML way of writing HTML, and what …
-Write HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Jens Oliver Meiert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Solve freeCodeCamp's Record Collection Challenge]]></title>
-        <id>6236cc8acdcd57069ddfba7a</id>
-        <link href="https://www.freecodecamp.org/news/how-to-solve-the-record-collection-challenge/"/>
-        <updated>2022-03-21T18:14:42.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp's JavaScript certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/]  is filled with hundreds of interactive challenges. But one of the hardest ones to tackle for most beginners is the Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection] . In this article, I will walk you through Record Collection [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-str]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chmod Command – How to Change File Permissions in Linux]]></title>
-        <id>62375a8dcdcd57069ddfbec1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-file-permissions-with-the-chmod-command-on-linux/"/>
-        <updated>2022-03-21T15:33:36.000Z</updated>
-        <summary type="html"><![CDATA[One of the first commands I learned on Linux was the touch command that creates a file using the command line.  If you ever try to create, for instance, a text file, all you have to do is type  touch filename.txt, press Enter, and the file is created]]></summary>
-        <author>
-            <name>Daniel Rosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the Current Time in Python with Datetime]]></title>
-        <id>6236e160cdcd57069ddfbbbf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-current-time-in-python-with-datetime/"/>
-        <updated>2022-03-21T13:52:01.000Z</updated>
-        <summary type="html"><![CDATA[In your Python applications, you might want to work with time to add functionalities like timestamps, check the time of a user’s activity, and more. One of the modules that helps you work with date and time in Python is datetime. With the datetime module, you can get the current]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SyntaxError Unexpected EOF While Parsing Python Error [Solved]]]></title>
-        <id>6237b189cdcd57069ddfc248</id>
-        <link href="https://www.freecodecamp.org/news/syntaxerror-unexpected-eof-while-parsing-python-error-solved/"/>
-        <updated>2022-03-21T13:47:24.000Z</updated>
-        <summary type="html"><![CDATA[Error messages help us solve/fix problems in our code. But some error messages, when you first see them, may confuse you because they seem unclear.  One of these errors is the "SyntaxError: unexpected EOF while parsing" error you might get in Python. In this article, we'll see why this]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>
