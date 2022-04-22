@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-21T01:16:37.619Z</updated>
+    <updated>2022-04-22T01:17:51.016Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Colaboratory – How to Run Python Code in Your Google Drive]]></title>
+        <id>625df1a2ac55f60686c37b2d</id>
+        <link href="https://www.freecodecamp.org/news/google-colaboratory-python-code-in-your-google-drive/"/>
+        <updated>2022-04-21T19:56:02.000Z</updated>
+        <summary type="html"><![CDATA[The Google Colaboratory (“Colab”) is a notebook (like a Jupyter Notebook) where you can run Python code in your Google Drive.  You can write text, write code, run that code, and see the output – all in line in the same notebook.  Benefits of Google Colab Sharing notebooks]]></summary>
+        <author>
+            <name>Ed Pratowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Firmware? Definition and Examples]]></title>
+        <id>6223b106c4d0d306772f4b41</id>
+        <link href="https://www.freecodecamp.org/news/what-is-firmware/"/>
+        <updated>2022-04-21T18:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that firmware is literally everywhere? It might be strange to think about – but it's just as common as hardware and software. In fact, it is thanks to firmware that:  * Printers work  * Defibrillators work  * Car radios works  * and more]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove a Property from a JavaScript Object]]></title>
+        <id>6260bd7bac55f60686c39b14</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-a-property-from-a-javascript-object/"/>
+        <updated>2022-04-21T17:48:33.000Z</updated>
+        <summary type="html"><![CDATA[There are two ways to remove a property from a JavaScript object. There's the mutable way of doing it using the delete operator, and the immutable way of doing it using object restructuring.  Let's go through each of these methods in this tutorial. Remove a Property from a JS]]></summary>
+        <author>
+            <name>Saransh Kataria</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Navigation With Navigation Queries]]></title>
+        <id>https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/</id>
+        <link href="https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/"/>
+        <updated>2022-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Blog with Next.js and MDX]]></title>
+        <id>625b6643ac55f60686c36806</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/"/>
+        <updated>2022-04-21T02:28:29.000Z</updated>
+        <summary type="html"><![CDATA[When I decided to build my blog, I found many tools out there that were readily available. I looked at Gastby [https://www.gatsbyjs.com/] along with content management systems like Ghost [https://ghost.org/], Contentful [https://www.contentful.com/], Sanity dot io [https://www.sanity.io/], and HUGO [https://gohugo.io/].  But I needed something that I could have total control]]></summary>
+        <author>
+            <name>Caleb Olojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is FTP? File Transfer Protocol and FTP Server Meaning]]></title>
+        <id>625eae40ac55f60686c381d2</id>
+        <link href="https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/"/>
+        <updated>2022-04-21T01:01:16.000Z</updated>
+        <summary type="html"><![CDATA[FTP stands for File Transfer Protocol. This is a network/communication protocol for transferring files between computers over a TCP/IP (Transmission Control Protocol/Internet Protocol) network.  Examples of TCP/IP networks are:  * HTTP (Hypertext Transfer Protocol).  * HTTPS (Hypertext Transfer Protocol Secure).  * FTP (File Transfer Protocol). How]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Flush DNS on Mac – MacOS Clear DNS Cache]]></title>
+        <id>624beda6ac55f60686c2e0f7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/"/>
+        <updated>2022-04-21T00:15:54.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn why flushing your DNS cache is important, and how you can clear the cache on your local system. Here is what we'll discuss in this guide:  1. What is DNS cache? 1. Why flushing DNS cache is important]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Extern – C and C++ Extern Keyword Function Tutorial]]></title>
+        <id>625d0d69ac55f60686c37241</id>
+        <link href="https://www.freecodecamp.org/news/extern-keyword-function-tutorial/"/>
+        <updated>2022-04-21T00:08:58.000Z</updated>
+        <summary type="html"><![CDATA[The extern keyword in C and C++ extends the visibility of variables and functions across multiple source files.  In the case of functions, the extern keyword is used implicitly. But with variables, you have to use the keyword explicitly. I believe a simple code example can explain things better]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How WebAuthn Authenticates Users Without a Password]]></title>
+        <id>6255cce5ac55f60686c330c4</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-webauthn/"/>
+        <updated>2022-04-20T23:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Most of us are used to logging into different accounts using a password. For years this has been the norm, but passwords also face security issues:  * They are extremely annoying when we don’t remember them and even harder to    reset  * They can be]]></summary>
+        <author>
+            <name>Rohit Jacob Mathew</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dns_probe_finished_nxdomain Error [Solved]]]></title>
         <id>625fe437ac55f60686c38f04</id>
@@ -1503,46 +1593,6 @@ Activating design mode
         <summary type="html"><![CDATA[Disclaimer: This article should not be construed as advice for tax management or investment decisions.  Neither the author of this article, nor freeCodeCamp, are professionals in these areas. The discussion below is a matter of personal opinion only and you should discuss such matters with a licensed professional. If]]></summary>
         <author>
             <name>Luke Ciciliano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is WordPress a Code or No-code Tool?]]></title>
-        <id>6236e318cdcd57069ddfbc09</id>
-        <link href="https://www.freecodecamp.org/news/is-wordpress-a-code-or-no-code-tool/"/>
-        <updated>2022-03-23T01:56:34.000Z</updated>
-        <summary type="html"><![CDATA[WordPress is an open-source content management system (CMS) for building any kind of website – an eCommerce site, a portfolio, a forum, and many more. WordPress started out as a simple platform for creating blogs, but today WordPress powers over 43% of the total websites on earth, and that number]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Else-If in Python – Python If Statement Example Syntax]]></title>
-        <id>623848d7cdcd57069ddfc40d</id>
-        <link href="https://www.freecodecamp.org/news/else-if-in-python-python-if-statement-example-syntax/"/>
-        <updated>2022-03-22T20:41:35.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding, you need to be able to check certain conditions and change the control of the program execution accordingly.  Python provides many conditional statements for decision making, and if-else is one of them. In this blog post, we will learn:  1. The default order of execution]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Go Programming by Building 11 Projects]]></title>
-        <id>623a17b2cdcd57069ddfd0b3</id>
-        <link href="https://www.freecodecamp.org/news/learn-go-by-building-11-projects/"/>
-        <updated>2022-03-22T18:50:22.000Z</updated>
-        <summary type="html"><![CDATA[The Go programming language is an open-source and compiled language designed by Google. Go is popular for cloud-based or server-side applications. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Go skills by teaching you how to create eleven projects. Akhil Sharma developed]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove the Start Text from PowerShell]]></title>
-        <id>62358f0ccdcd57069ddfb8b4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-starting-text-from-powershell/"/>
-        <updated>2022-03-22T17:18:05.000Z</updated>
-        <summary type="html"><![CDATA[If you are using a Windows operating system, you have likely used the latest Windows PowerShell at least once.  Whenever you open the PowerShell, you get a text message inside the terminal which shows the terminal version, the link to download the latest PowerShell, and so on.  Sometimes]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
 </feed>
