@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-22T01:17:51.016Z</updated>
+    <updated>2022-04-23T01:11:26.481Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Writing Strong Front-end Test Element Locators]]></title>
+        <id>https://css-tricks.com/?p=364218</id>
+        <link href="https://css-tricks.com/front-end-test-element-locators/"/>
+        <updated>2022-04-22T18:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …
+Writing Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mark Noonan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing The CLI The Way People Use It]]></title>
+        <id>https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/</id>
+        <link href="https://smashingmagazine.com/2022/04/testing-cli-way-people-use-it/"/>
+        <updated>2022-04-22T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered, why do people write CLI tools? When is a good time to think about yours? Today we’ll touch on these questions, along with some tips to remember when creating one. However, all of this serves as a prelude to the real topic: end-to-end testing of CLI tools.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Georgy Marchuk)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[502 Bad Gateway Error [Solved]]]></title>
+        <id>62615f82ac55f60686c39ef9</id>
+        <link href="https://www.freecodecamp.org/news/502-bad-gateway-error-solved/"/>
+        <updated>2022-04-22T00:45:26.000Z</updated>
+        <summary type="html"><![CDATA[You can get a 502 bad gateway error when there's a problem with the server of the website you are trying to connect to. In more technical terms, the “502” in the error is an HTTP status code which indicates that one server received an invalid response from another server.]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Become a Better Programmer – Use a Skill-Building Planner]]></title>
+        <id>62616030ac55f60686c39f0f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-become-a-better-programmer-use-a-skill-building-planner/"/>
+        <updated>2022-04-22T00:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Many programmers are missing out on a simple way to improve their programming progress.  Just think of athletes, entrepreneurs, students, health-nuts, and travelers. They’re among the diverse groups of people who use a planner. Planners are often used to give productivity a boost in order to stay organized and]]></summary>
+        <author>
+            <name>Amy Haddad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use JavaScript Arrays by Building an iPhone Product Page]]></title>
+        <id>625e8cfaac55f60686c37f21</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-arrays-by-building-product-page/"/>
+        <updated>2022-04-22T00:10:02.000Z</updated>
+        <summary type="html"><![CDATA[I had the idea for this tutorial while browsing the official iPhone website. Apple is known for its great products and impeccable design, and if you spend enough time checking out its website, you can learn a thing or two about branding and great design.  One of the things]]></summary>
+        <author>
+            <name>Samuel A. Olubiyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open-Source Projects – A Beginner's Guide]]></title>
+        <id>624e7b3eac55f60686c2f0b8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects/"/>
+        <updated>2022-04-21T23:38:34.000Z</updated>
+        <summary type="html"><![CDATA[If you've been considering contributing to an open source project, you might be weighing the pros and cons of doing so. You might hear things like open-source projects won't help you grow. Or they can't change your career trajectory. And that your contributions definitely won’t add to your portfolio. If]]></summary>
+        <author>
+            <name>Ankita Tripathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Should You Move to the Cloud? Advantages of Cloud Computing Explained]]></title>
+        <id>623422f3cdcd57069ddfade9</id>
+        <link href="https://www.freecodecamp.org/news/advantages-of-cloud-computing/"/>
+        <updated>2022-04-21T22:27:23.000Z</updated>
+        <summary type="html"><![CDATA[The term cloud computing refers to software and services that run on the internet instead of locally on your on-site server or computer. Adopting the cloud can help you and your team cut costs and ensure that your data and systems are available to your customers anywhere and at any]]></summary>
+        <author>
+            <name>Davis David</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Colaboratory – How to Run Python Code in Your Google Drive]]></title>
         <id>625df1a2ac55f60686c37b2d</id>
@@ -1533,66 +1604,6 @@ Activating design mode
         <summary type="html"><![CDATA[Hello everyone! In this article we are going to learn how to use UISearchController in iOS Apps. What are we going to build? We are going to build a movie search application which uses the TMDB [https://www.themoviedb.org/] API to fetch movie info and display it using a UICollectionView based on]]></summary>
         <author>
             <name>Sai Balaji K</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a List in Python – Lists in Python Syntax]]></title>
-        <id>623af0d3cdcd57069ddfd5bb</id>
-        <link href="https://www.freecodecamp.org/news/create-a-list-in-python-lists-in-python-syntax/"/>
-        <updated>2022-03-23T20:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Lists are one of the core data structures in Python. We use them for storing any data type, whether it's an integer, string, boolean, or even an object. Because one list can store multiple types of data, lists are one of the most powerful and widely used tools for storing]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes Security – Common Vulnerabilities and Exposures for K8s Programs]]></title>
-        <id>6230d789c3e3d106805db72a</id>
-        <link href="https://www.freecodecamp.org/news/kubernetes-security-common-vulnerabilities-and-exposures/"/>
-        <updated>2022-03-23T19:06:43.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes has become the go-to tool for orchestration, scaling, automated deployment, and management of containerized applications.  Simply put, Kubernetes is a system that maintains coordination between diverse applications across a group of machines. It is important to note that this system mostly deals with containerized applications, like Docker images.]]></summary>
-        <author>
-            <name>Prajwal Kulkarni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use *args and **kwargs in Python]]></title>
-        <id>623a9306cdcd57069ddfd494</id>
-        <link href="https://www.freecodecamp.org/news/args-and-kwargs-in-python/"/>
-        <updated>2022-03-23T18:55:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll discuss *args and **kwargs in Python along with their uses and some examples. When writing a function, we often need to pass values to the function. These values are called function arguments.  Problem with Function Arguments Let's define a function to add two numbers in]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add a MetaMask Login to Your Laravel Web Application]]></title>
-        <id>6238bd3dcdcd57069ddfc5ad</id>
-        <link href="https://www.freecodecamp.org/news/add-a-metamask-login-to-your-laravel-app/"/>
-        <updated>2022-03-23T18:38:03.000Z</updated>
-        <summary type="html"><![CDATA[Logging into a website via third parties is ubiquitous online. Almost every other member-based website allows you to log in with accounts like Facebook, Twitter, and Google. If you’ve ever visited NFT marketplaces like OpenSea or Rarible, you would have noticed they allow you to sign in with a crypto]]></summary>
-        <author>
-            <name>Darren Chowles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Those HTML Attributes You Never Use]]></title>
-        <id>https://smashingmagazine.com/2022/03/html-attributes-you-never-use/</id>
-        <link href="https://smashingmagazine.com/2022/03/html-attributes-you-never-use/"/>
-        <updated>2022-03-23T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxes for Freelance Developers – How Much Tax You Should Pay as a Freelancer]]></title>
-        <id>6238d5a4cdcd57069ddfc7db</id>
-        <link href="https://www.freecodecamp.org/news/taxes-for-freelance-developers/"/>
-        <updated>2022-03-23T13:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Disclaimer: This article should not be construed as advice for tax management or investment decisions.  Neither the author of this article, nor freeCodeCamp, are professionals in these areas. The discussion below is a matter of personal opinion only and you should discuss such matters with a licensed professional. If]]></summary>
-        <author>
-            <name>Luke Ciciliano</name>
         </author>
     </entry>
 </feed>
