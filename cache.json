@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365359",
+          "author": "Dan Christofi",
+          "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/nested-components-in-a-design-system/",
+          "publishedOn": "2022-04-26T14:30:20.000Z",
+          "wordCount": 2057,
+          "title": "Avoiding the Pitfalls of Nested Components in a Design System",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359"
+        },
+        {
           "id": "https://css-tricks.com/?p=364218",
           "author": "Mark Noonan",
           "description": "Automated front-end tests are awesome. We can write a test with code to visit a page — or load up just a single component — and have that test code click on things or type text like a user would, …\nWriting Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.",
@@ -82,6 +92,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
+          "author": "hello@smashingmagazine.com (Ceara Crawshaw)",
+          "description": "When bad UX has lingered in a product for so long, it can feel like a mountain to overcome. In this article, Ceara Crawshaw shares her advice on how you can invoke joy and assure the quality in the work done on product teams.",
+          "link": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
+          "publishedOn": "2022-04-26T11:30:00.000Z",
+          "wordCount": 4023,
+          "title": "Preventing Bad UX Through Integrated Design Workflows",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47570c78-efae-4a35-b2c6-addf55029cac/ux-integrated-design-workflows.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/",
           "author": "hello@smashingmagazine.com (Jhey Tompkins)",
@@ -414,6 +439,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6253a5fcac55f60686c31c25",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "In this article, we'll learn a few different ways to resize elements and groups in Figma (in addition to the default method). We'll also learn how to resize frames without moving elements in the frames. In Figma, there are other ways to resize elements apart from the default method. So",
+          "link": "https://www.freecodecamp.org/news/how-to-resize-elements-in-figma/",
+          "publishedOn": "2022-04-26T23:05:31.000Z",
+          "wordCount": 876,
+          "title": "How to Resize Elements in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/-D2F9C577-3AF7-49B1-8D11-728923BFBA68-.png"
+        },
+        {
+          "id": "6255a0d4ac55f60686c32eaa",
+          "author": "Aris Zagakos",
+          "description": "In this article we will discuss Homomorphic Encryption, the problem that it solves, and the different types that exist.  Then we will write code in Python to show some of its capabilities in action. Here's what we'll cover:  1. What is Homomorphic Encryption?  2. Advantages of Homomorphic",
+          "link": "https://www.freecodecamp.org/news/introduction-to-homomorphic-encryption/",
+          "publishedOn": "2022-04-26T23:01:28.000Z",
+          "wordCount": 1204,
+          "title": "What is Homomorphic Encryption?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Homomorphic-Encryption-3--1.png"
+        },
+        {
+          "id": "6265c16bac55f60686c3bf05",
+          "author": "Popoola Temitope",
+          "description": "Vite.js [/news/p/e534a679-ce3c-4cf1-842b-96087d30944d/Vite.js] is a rapid development tool for modern web projects. It focuses on speed and performance by improving the development experience. Vite uses native browser ES imports to enable support for modern browsers without a build process. Vite consists of two major parts:  * The dev server provides",
+          "link": "https://www.freecodecamp.org/news/get-started-with-vite/",
+          "publishedOn": "2022-04-26T21:41:58.000Z",
+          "wordCount": 1301,
+          "title": "Vite.js Tutorial – How to Install and Use Vite in Your Web Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/getting-started-with-vite.png"
+        },
+        {
+          "id": "6259a28cac55f60686c35b31",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we will talk about memoization, an optimization technique that can help make heavy computation processes more efficient. We will start by talking about what memoization is and when it's best to implement it. Later on we will give practical examples for JavaScript and React. Table",
+          "link": "https://www.freecodecamp.org/news/memoization-in-javascript-and-react/",
+          "publishedOn": "2022-04-26T21:16:12.000Z",
+          "wordCount": 2485,
+          "title": "What is Memoization? How and When to Memoize in JavaScript and React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-thisisengineering-3913016.jpg"
+        },
+        {
+          "id": "622864b663ded806bb9e6f8d",
+          "author": "Dionysia Lemonaki",
+          "description": "Sometimes you might want to delay the execution of your code. You may need certain lines of code to execute at a point in the future, when you explicitly specify, rather than all the code executing synchronously. Something like that is possible with JavaScript. In this article, you will learn",
+          "link": "https://www.freecodecamp.org/news/javascript-wait-how-to-sleep-n-seconds-in-js-with-settimeout/",
+          "publishedOn": "2022-04-26T19:14:41.000Z",
+          "wordCount": 1315,
+          "title": "JavaScript Wait – How to Sleep N Seconds in JS with .setTimeout()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg"
+        },
+        {
+          "id": "626595d9ac55f60686c3bcb6",
+          "author": "Jessica Wilkins",
+          "description": "There will be many times where you will need to center some text using HTML and CSS. But what is the best way to go about that? In this article, I will show you how to use the text-align property in CSS and show you how to vertically align text",
+          "link": "https://www.freecodecamp.org/news/text-align-in-css-how-to-align-text-in-center-with-html/",
+          "publishedOn": "2022-04-26T19:08:29.000Z",
+          "wordCount": 778,
+          "title": "Text Align in CSS – How to Align Text in Center with HTML",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nick-karvounis-TkZYCXmrKK4-unsplash.jpg"
+        },
+        {
+          "id": "6267fd8cc1c601068f4e77d0",
+          "author": "Kolade Chris",
+          "description": "If you are just getting started in Python, for loops are one of the fundamentals you should learn how to use. In the Python programming language, for loops are also called “definite loops” because they perform the instruction a certain number of times. This is in contrast to while loops,",
+          "link": "https://www.freecodecamp.org/news/python-for-loop-example-how-to-write-loops-in-python/",
+          "publishedOn": "2022-04-26T19:01:37.000Z",
+          "wordCount": 1672,
+          "title": "Python For Loop Example – How to Write Loops in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/forLoop.png"
+        },
+        {
+          "id": "6260a9fcac55f60686c399f9",
+          "author": "Dillion Megida",
+          "description": "We use icons when building frontend applications all the time – for indications, pointers, and so on. Here's how to create a reusable React component for icons. When it comes to icons, you can use PNG or SVG images. PNGs come with a fixed color but allow dimension changes (like",
+          "link": "https://www.freecodecamp.org/news/how-to-create-reusable-icon-react-components-for-colors-and-sizes-customization/",
+          "publishedOn": "2022-04-26T18:22:02.000Z",
+          "wordCount": 920,
+          "title": "How to Create Reusable SVG Icon React Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-chait-goli-2088233.jpg"
+        },
+        {
+          "id": "6262a8d5ac55f60686c3abd5",
+          "author": "Jose Vicente Nunez",
+          "description": "In this article I will show you a few techniques you can use to troubleshoot a program when is not behaving.  This list is not universal and, depending on what you are looking for, it may not be enough to solve your problem. But it should be a good",
+          "link": "https://www.freecodecamp.org/news/debug-an-app-with-strace-python-wireshark/",
+          "publishedOn": "2022-04-26T00:23:26.000Z",
+          "wordCount": 4395,
+          "title": "How to Debug Applications with Strace, Python, and Wireshark",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-egor-kamelev-3819742.jpg"
+        },
         {
           "id": "6265e8feac55f60686c3bf60",
           "author": "Jessica Wilkins",
