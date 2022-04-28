@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365383",
+          "author": "Temani Afif",
+          "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
+          "publishedOn": "2022-04-27T14:20:07.000Z",
+          "wordCount": 3530,
+          "title": "Cool Hover Effects That Use Background Properties",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
+        },
+        {
           "id": "https://css-tricks.com/?p=365359",
           "author": "Dan Christofi",
           "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
@@ -74,16 +84,6 @@
           "wordCount": 3575,
           "title": "Tricks to Cut Corners Using CSS Mask and Clip-Path Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364279"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364118",
-          "author": "Daniel Schwarz",
-          "description": "A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.\nActivating design mode\n…\n6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-development-bookmarklets/",
-          "publishedOn": "2022-03-28T18:15:41.000Z",
-          "wordCount": 1504,
-          "title": "6 Useful Bookmarklets to Boost Web Development",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
         }
       ]
     },
@@ -92,6 +92,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
+          "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
+          "publishedOn": "2022-04-27T08:30:00.000Z",
+          "wordCount": 1532,
+          "title": "Boosting UX With Design KPIs",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/04/ux-integrated-design-workflows/",
           "author": "hello@smashingmagazine.com (Ceara Crawshaw)",
@@ -401,36 +416,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e800ab6-32ca-4f42-a786-64de6971fb11/upcoming-smashingconfs-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Are you a designer or developer affected by the war in Ukraine? Here are some options to consider if you’re looking for a design or tech job.",
-          "link": "https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/",
-          "publishedOn": "2022-03-29T11:00:00.000Z",
-          "wordCount": 923,
-          "title": "Jobs For Designers And Developers Affected By The War In Ukraine 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/09918dee-32d3-430b-9824-f481a5cda385/jobs-ukrainian-refugees.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/09918dee-32d3-430b-9824-f481a5cda385/jobs-ukrainian-refugees.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
-          "author": "hello@smashingmagazine.com (Cristian Díaz)",
-          "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
-          "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
-          "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4089,
-          "title": "A Guide To Hover And Pointer Media Queries",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg"
         }
       ]
     },
@@ -439,6 +424,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62458d52138a19064b069054",
+          "author": "Ihechikara Vincent Abba",
+          "description": "There are a few common coding problems you might encounter when you start practicing what you've learned by building projects. One common problem you'll face as a web developer is how to place an element at the center of a page or within an element acting as its container. It's",
+          "link": "https://www.freecodecamp.org/news/how-to-center-a-div-with-css/",
+          "publishedOn": "2022-04-27T19:58:59.000Z",
+          "wordCount": 1072,
+          "title": "How to Center a Div with CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043-1.jpg"
+        },
+        {
+          "id": "626919edc1c601068f4e809e",
+          "author": "Kolade Chris",
+          "description": "Sending large files through email can be quite challenging. This is because each email client has a size limit for file sharing. Gmail and Yahoo limit file size to 25MB, while outlook and iCloud limit files to 20MB. So, if you decide to send, for example, a video file larger",
+          "link": "https://www.freecodecamp.org/news/how-to-send-large-video-files-share-a-big-file-with-email/",
+          "publishedOn": "2022-04-27T19:51:49.000Z",
+          "wordCount": 883,
+          "title": "How to Send Large Video Files – Share a Big File with Email",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/technology-2125547_1280.jpg"
+        },
+        {
+          "id": "6266b589ac55f60686c3c44f",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are a Linux user, then you've likely used the GNOME Desktop Environment at least once. The latest GNOME DE (Desktop Environment) uses Wayland nowadays. And while it's possible to remove Wayland and select Xorg if you want, most users are starting to use Wayland as their daily driver.",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/",
+          "publishedOn": "2022-04-27T19:33:58.000Z",
+          "wordCount": 911,
+          "title": "How to Fix Google Chrome Black Screen on Linux OS (Wayland)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Fix---1-.png"
+        },
+        {
+          "id": "6267fe2ec1c601068f4e77da",
+          "author": "Arjav Dave",
+          "description": "Docker has become increasingly popular over the last several years. One reason for this is that you can create portable containers which are fast and easy to deploy.  As described on Docker's website [https://www.docker.com/resources/what-container/], a container is something that packages your code along with any other dependencies so that",
+          "link": "https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/",
+          "publishedOn": "2022-04-27T19:31:29.000Z",
+          "wordCount": 2559,
+          "title": "How to Run Multiple Containers with Docker Compose",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/docker-compose-scaled-1.jpeg"
+        },
+        {
+          "id": "625fc3caac55f60686c38ce0",
+          "author": "Kaushal Joshi",
+          "description": "Docker is a platform that helps you build, run, and ship applications in a seamless and error-free way.  You've likely come across a scenario where the code is running on your machine, but is somehow throwing errors on someone else's machine.  Well, Docker was created to solve this",
+          "link": "https://www.freecodecamp.org/news/build-and-push-docker-images-to-aws-ecr/",
+          "publishedOn": "2022-04-27T16:38:22.000Z",
+          "wordCount": 2324,
+          "title": "How to Build and Push Docker Images to AWS ECR",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/How-to-Build-and-Push-Docker-Images-to-AWS-ECR.png"
+        },
+        {
+          "id": "6269557fc1c601068f4e8127",
+          "author": "Beau Carnes",
+          "description": "Assembly language is a low-level programming language for a computer or other programmable device that is closest to the machine language. It is often specific to a particular computer architecture so there are multiple types of assembly languages. ARM is an increasingly popular assembly language.  We just published a",
+          "link": "https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/",
+          "publishedOn": "2022-04-27T14:49:31.000Z",
+          "wordCount": 523,
+          "title": "Learn Assembly Language Programming with ARM",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/arm.png"
+        },
+        {
+          "id": "626074adac55f60686c397ae",
+          "author": "Zaira Hira",
+          "description": "Linux is a multi user OS which means that it supports multiple users at a time.  As many people can access the system simultaneously and some resources are shared, Linux controls access through ownership and permissions.  Linux file ownership In Linux, there are three types of owners: user,",
+          "link": "https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/",
+          "publishedOn": "2022-04-27T00:38:38.000Z",
+          "wordCount": 2154,
+          "title": "Linux chmod and chown – How to Change File Permissions and Ownership in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/guided-exercise--1-.png"
+        },
+        {
+          "id": "6262b979ac55f60686c3aca1",
+          "author": "Sonia",
+          "description": "Questions about the Fibonacci Series are some of the most commonly asked in Python interviews.  In this article, I'll explain a step-by-step approach on how to print the Fibonacci sequence using two different techniques, iteration and recursion.  Before we begin, let's first understand some basic terminology. What is",
+          "link": "https://www.freecodecamp.org/news/python-program-to-print-the-fibonacci-sequence/",
+          "publishedOn": "2022-04-27T00:34:03.000Z",
+          "wordCount": 2048,
+          "title": "Python Program to Print the Fibonacci Sequence",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-jeff-wang-462402.jpg"
+        },
         {
           "id": "6253a5fcac55f60686c31c25",
           "author": "Ijelekhai Faith Olohijere",
@@ -1758,76 +1823,6 @@
           "wordCount": 459,
           "title": "Create a Portfolio with React featuring Cool Animations",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/portfolioreact.png"
-        },
-        {
-          "id": "62356a07cdcd57069ddfb6f6",
-          "author": "Adwaith KS",
-          "description": "React.js is an open source JavaScript library for creating user interfaces. It was created by Facebook back in 2013.  Demand for React developers is skyrocketing, which means that having knowledge of this library is definitely going to be worth it! Some of the popular websites built using ReactJS include",
-          "link": "https://www.freecodecamp.org/news/reactjs-basics-dom-components-declarative-views/",
-          "publishedOn": "2022-03-29T09:12:00.000Z",
-          "wordCount": 1801,
-          "title": "React.js Basics – The DOM, Components, and Declarative Views Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/photo-1619410283995-43d9134e7656.jpeg"
-        },
-        {
-          "id": "623f3840138a19064b066060",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we'll talk about what Typescript is, why is it cool, and how can you use it. Table of Contents  * Intro  * About types * Strings     * Numbers     * Booleans     *",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-typescript/",
-          "publishedOn": "2022-03-29T01:28:31.000Z",
-          "wordCount": 3238,
-          "title": "How to Use TypeScript – Beginner-Friendly TS Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-hitarth-jadhav-220357.jpg"
-        },
-        {
-          "id": "623ed24e138a19064b065a33",
-          "author": "Sebastian Sigl",
-          "description": "Containers enable you to package your application in a portable way that can run in many environments. The most popular container platform is Docker [https://www.docker.com/].  This tutorial will explain how to use the Docker build cache to your advantage. Docker Build Cache Building images should be fast, efficient, and",
-          "link": "https://www.freecodecamp.org/news/docker-cache-tutorial/",
-          "publishedOn": "2022-03-28T18:51:57.000Z",
-          "wordCount": 1280,
-          "title": "Docker Cache – How to Do a Clean Image Rebuild and Clear Docker's Cache",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/docker-cache-guide.png"
-        },
-        {
-          "id": "6230d0cfc3e3d106805db5c1",
-          "author": "Jakub T. Jankiewicz",
-          "description": "One day I was working on a feature at work. I had many branches created in JIRA tickets, so I wanted to open a bunch of PRs (Pull Requests) all at once in different tabs.  This is how I usually work – I have a lot of tabs open",
-          "link": "https://www.freecodecamp.org/news/csrf-protection-problem-and-how-to-fix-it/",
-          "publishedOn": "2022-03-28T18:39:45.000Z",
-          "wordCount": 1332,
-          "title": "CSRF Protection Problem and How to Fix it",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/laptop-security-virus-protection-internet-malware-1588329-pxhere.com.jpg"
-        },
-        {
-          "id": "624145ac138a19064b066afd",
-          "author": "Kris Koishigawa",
-          "description": "Roman numerals are a numerical system that originated in ancient Rome. They are used to represent numbers in the decimal system, but they are not used for mathematical operations. In this system, symbols are used to represent different numbers, with I representing 1, V representing 5, X representing 10, L",
-          "link": "https://www.freecodecamp.org/news/roman-numerals-the-roman-numeral-for-4-6-9-and-others/",
-          "publishedOn": "2022-03-28T17:41:16.000Z",
-          "wordCount": 1120,
-          "title": "Roman Numerals – the Roman Numeral for 4, 6, 9, and Others",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/thomas-bormans-JsTmUnHdVYQ-unsplash.jpg"
-        },
-        {
-          "id": "62190ea1c4d0d306772efc9b",
-          "author": "Dionysia Lemonaki",
-          "description": "Having strong computer skills is necessary for almost any job. That knowledge can set you apart from others who don't possess it. But what are the most necessary computer skills to have? And when you acquire those skills, how do you showcase them effectively to prospective employers? In this article,",
-          "link": "https://www.freecodecamp.org/news/computer-skills-for-resume-software-skill-proficiency-guide/",
-          "publishedOn": "2022-03-28T15:15:56.000Z",
-          "wordCount": 4624,
-          "title": "Computer Skills for Résumé – Software Skill Proficiency Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-janko-ferlic-590493.jpg"
-        },
-        {
-          "id": "6236efafcdcd57069ddfbd4f",
-          "author": "Jessica Wilkins",
-          "description": "If you're studying to become a professional developer, you might be wondering what a junior developer does on the job. In this article, I will talk about the typical day of a junior developer and what to expect on the job. The Onboarding Process When you get started with a",
-          "link": "https://www.freecodecamp.org/news/what-does-a-junior-developer-do-on-the-job/",
-          "publishedOn": "2022-03-28T13:51:12.000Z",
-          "wordCount": 1498,
-          "title": "What Is it Like to Work as a Junior Developer?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/annie-spratt-QckxruozjRg-unsplash.jpg"
         }
       ]
     }
