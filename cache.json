@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365413",
+          "author": "Adam Rackis",
+          "description": "In my last article, we went over how to set up a web app that serves chunks and bundles of CSS and JavaScript from CloudFront. We integrated it into Vite so that when the app runs in a browser, …\nSetting Up CloudFront to Host Your Web App originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/setting-up-cloudfront-to-host-your-web-app/",
+          "publishedOn": "2022-04-28T14:42:48.000Z",
+          "wordCount": 2861,
+          "title": "Setting Up CloudFront to Host Your Web App",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365413"
+        },
+        {
           "id": "https://css-tricks.com/?p=365383",
           "author": "Temani Afif",
           "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
@@ -92,6 +102,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
+          "author": "hello@smashingmagazine.com (Nathan Smith)",
+          "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
+          "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
+          "publishedOn": "2022-04-28T09:30:00.000Z",
+          "wordCount": 4769,
+          "title": "CTA Modal: How To Build A Web Component",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -401,21 +426,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
-          "author": "hello@smashingmagazine.com (Jarijn Nijkamp)",
-          "description": "After two years where almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.",
-          "link": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
-          "publishedOn": "2022-03-29T14:30:00.000Z",
-          "wordCount": 800,
-          "title": "SmashingConf Is Back In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e800ab6-32ca-4f42-a786-64de6971fb11/upcoming-smashingconfs-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e800ab6-32ca-4f42-a786-64de6971fb11/upcoming-smashingconfs-2022.jpg"
         }
       ]
     },
@@ -424,6 +434,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "626acd1fc1c601068f4e86be",
+          "author": "Beau Carnes",
+          "description": "Blazor WebAssembly is a single-page app framework for building interactive client-side web apps with .NET. It uses open web standards without plugins or recompiling code into other languages. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Blazor WebAssembly and Web",
+          "link": "https://www.freecodecamp.org/news/learn-blazor-webassembly-and/",
+          "publishedOn": "2022-04-28T17:28:46.000Z",
+          "wordCount": 589,
+          "title": "Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/blazorwa.png"
+        },
+        {
+          "id": "6267958cc1c601068f4e758d",
+          "author": "Shruti Kapoor",
+          "description": "Do you ever find it challenging to work on your project, side hustle, or even your hobby?  Have you ever had those moments where nothing feels exciting? You lay in bed thinking – is it me, or is my work that boring?  I have those days too. Some",
+          "link": "https://www.freecodecamp.org/news/create-a-habit-system-and-stay-motivated-as-a-developer/",
+          "publishedOn": "2022-04-28T00:43:46.000Z",
+          "wordCount": 2045,
+          "title": "How to Create a Habit System and Stay Motivated as a Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-philip-ackermann-878151.jpg"
+        },
         {
           "id": "62458d52138a19064b069054",
           "author": "Ihechikara Vincent Abba",
@@ -1743,86 +1773,6 @@
           "wordCount": 1522,
           "title": "Top Benefits of a Student Email Address",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Creative-Business-Template-Presentation--1-.png"
-        },
-        {
-          "id": "62153d68c4d0d306772ee7ae",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The SOLID design principles help us create maintainable, reusable, and flexible software designs. Each letter in the acronym SOLID stands for a specific principle.  Here is what each letter in the acronym stands for:  * S: Single responsibility principle.  * O: Open–closed principle.  * L: Liskov",
-          "link": "https://www.freecodecamp.org/news/solid-principles-single-responsibility-principle-explained/",
-          "publishedOn": "2022-03-29T21:16:23.000Z",
-          "wordCount": 1055,
-          "title": "Solid Principles – Single Responsibility Principle and Object-Oriented Design Basics",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/solid.jpg"
-        },
-        {
-          "id": "62417eec138a19064b066d4f",
-          "author": "Catalin Pit",
-          "description": "This article will teach you how to build a voting application that displays the poll results in real-time. Each time someone votes, the application updates automatically and shows the new results. Even though you will build a full-stack application, you will not write any backend code thanks to Hasura! The",
-          "link": "https://www.freecodecamp.org/news/build-a-full-stack-real-time-voting-app-with-hasura-and-react/",
-          "publishedOn": "2022-03-29T19:07:27.000Z",
-          "wordCount": 4053,
-          "title": "How to Build a Full-Stack Real-Time Voting App With Hasura and React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-rodnae-productions-7581108.jpg"
-        },
-        {
-          "id": "60e4a8d6134ad707be00dec6",
-          "author": "Marko Denic",
-          "description": "Google is the most powerful tool in the world if you know how to use it properly. Let me show you how to get better at Googling. 1. Use Quotes for Exact-Match Search You can use quotes to force an exact-match search. This is super useful if you know exactly",
-          "link": "https://www.freecodecamp.org/news/use-google-search-tips/",
-          "publishedOn": "2022-03-29T18:21:41.000Z",
-          "wordCount": 720,
-          "title": "How to Use Google – Search Tips for Better Results",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-photomix-company-218717.jpg"
-        },
-        {
-          "id": "62409608138a19064b06686d",
-          "author": "Aman Mittal",
-          "description": "In React Native, you can use the FlatList component [https://reactnative.dev/docs/flatlist] to render a long list of data. It renders only the items shown on the screen in a scrolling list and not all the data at once. To render a scrollable list of items using FlatList, you need to pass",
-          "link": "https://www.freecodecamp.org/news/when-to-use-keyextractor-prop-in-react-natives-flatlist/",
-          "publishedOn": "2022-03-29T18:05:02.000Z",
-          "wordCount": 1146,
-          "title": "When to Use the keyExtractor Prop in React Native's FlatList",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/cover_image.png"
-        },
-        {
-          "id": "6242cbe5138a19064b06767e",
-          "author": "Kolade Chris",
-          "description": "Git is a version control system used by software developers to track changes in applications and collaborate on projects. One feature that makes Git more dynamic is branches. Developers working on a project can work in different branches before merging their changes with the original code or the main branch.",
-          "link": "https://www.freecodecamp.org/news/git-list-branches-how-to-show-all-remote-and-local-branch-names/",
-          "publishedOn": "2022-03-29T17:55:45.000Z",
-          "wordCount": 551,
-          "title": "Git List Branches – How to Show All Remote and Local Branch Names",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/magnolia-trees-gffa46356f_1920.jpg"
-        },
-        {
-          "id": "6242b0df138a19064b067633",
-          "author": "Kris Koishigawa",
-          "description": "A rational number is any number that can be written as a fraction, where both the numerator (the top number) and the denominator (the bottom number) are integers, and the denominator is not equal to zero. In other words, a rational number can be expressed as p/q, where p and",
-          "link": "https://www.freecodecamp.org/news/what-is-a-rational-number-definition-and-rational-number-example/",
-          "publishedOn": "2022-03-29T17:44:47.000Z",
-          "wordCount": 1094,
-          "title": "What is a Rational Number? Definition and Rational Number Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/markus-krisetya-Vkp9wg-VAsQ-unsplash.jpg"
-        },
-        {
-          "id": "623acc1dcdcd57069ddfd4fd",
-          "author": "Preethi⚡",
-          "description": "Hey friends, have you ever been working in Git and found yourself wondering if you're going to stage the correct changes?  Or maybe you want to see what changes you're going to commit compared to your last commit. Perhaps you want to see the differences between two branches, commits,",
-          "link": "https://www.freecodecamp.org/news/git-diff-command/",
-          "publishedOn": "2022-03-29T16:50:29.000Z",
-          "wordCount": 1465,
-          "title": "Git diff Command – How to Compare Changes in Your Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/git-diff-1-1.png"
-        },
-        {
-          "id": "62431cce138a19064b067a32",
-          "author": "Beau Carnes",
-          "description": "Creating a portfolio website is a great way to improve your frontend development skills.  We just published a React tutorial that will teach you how to build a frontend portfolio with neat animations. Slobodan developed this course. He is an experienced developer who has created many popular courses.",
-          "link": "https://www.freecodecamp.org/news/create-a-portfolio-with-react-featuring-cool-animations/",
-          "publishedOn": "2022-03-29T15:13:26.000Z",
-          "wordCount": 459,
-          "title": "Create a Portfolio with React featuring Cool Animations",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/portfolioreact.png"
         }
       ]
     }
