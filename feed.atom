@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-29T01:17:43.211Z</updated>
+    <updated>2022-04-30T01:24:53.077Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Creating the DigitalOcean Logo in 3D With CSS]]></title>
+        <id>https://css-tricks.com/?p=365447</id>
+        <link href="https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/"/>
+        <updated>2022-04-29T14:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳
+As a little hurrah to commemorate the occasion, I wanted to …
+Creating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Jhey Tompkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Partytown Eliminates Website Bloat From Third-Party Scripts]]></title>
+        <id>https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/</id>
+        <link href="https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/"/>
+        <updated>2022-04-29T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steve Sewell)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App]]></title>
         <id>626acd1fc1c601068f4e86be</id>
@@ -1594,77 +1616,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[Recently, I was able to convert some video files to a gif as I needed them in gif format for some of my articles. I decided to show you how I did it in 3 lines of code, so you can save yourself the extra effort of looking up a]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Time For Reflection (April 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/</id>
-        <link href="https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/"/>
-        <updated>2022-03-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate a Database in PHP Using Phinx]]></title>
-        <id>62418eca138a19064b066d98</id>
-        <link href="https://www.freecodecamp.org/news/easy-database-migrations-in-php-using-phinx/"/>
-        <updated>2022-03-30T23:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Building modern web applications usually involves a lot of data. Managing these data (databases) during development and production can be a lot.  This is especially tru if there's more than one developer, and multiple environments where changes have to be manually implemented. Database migrations help developers manage these changes]]></summary>
-        <author>
-            <name>Zubair Idris Aweda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Undo Merge – How to Revert the Last Merge Commit in Git]]></title>
-        <id>62442bd2138a19064b06836a</id>
-        <link href="https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/"/>
-        <updated>2022-03-30T17:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Branching is an integral part of Git because it lets you work without tampering with code that's already in production. When you finish working with a branch other than main, you'll want to merge it with the main so the feature or bug fix you just integrated will be reflected.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule a Task With Firebase Scheduled Cloud Functions]]></title>
-        <id>62418f22138a19064b066da1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-schedule-a-task-with-firebase-cloud-functions/"/>
-        <updated>2022-03-30T17:14:35.000Z</updated>
-        <summary type="html"><![CDATA[I work on an app that removes the background of any image. The app will have a freemium plan, which means that I will offer a free number of credits to all users, and if they need more credits, they will need to buy more. My Android and iOS app]]></summary>
-        <author>
-            <name>Dragos Ivanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Benefits of a Student Email Address]]></title>
-        <id>623d7224138a19064b06490a</id>
-        <link href="https://www.freecodecamp.org/news/top-benefits-of-student-email-address/"/>
-        <updated>2022-03-30T17:00:46.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, various tech companies and organizations have started supporting students who have an interest in and passion for tech. Many companies give their premium services to students for free, and others offer discounts on their products. If you're a student, basically all you need to take advantage of]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tricks to Cut Corners Using CSS Mask and Clip-Path Properties]]></title>
-        <id>https://css-tricks.com/?p=364279</id>
-        <link href="https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/"/>
-        <updated>2022-03-30T16:35:08.000Z</updated>
-        <summary type="html"><![CDATA[We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …
-Tricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing A Better Infinite Scroll]]></title>
-        <id>https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/</id>
-        <link href="https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/"/>
-        <updated>2022-03-30T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

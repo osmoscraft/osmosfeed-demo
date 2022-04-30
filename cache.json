@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365447",
+          "author": "Jhey Tompkins",
+          "description": "Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳\nAs a little hurrah to commemorate the occasion, I wanted to …\nCreating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/",
+          "publishedOn": "2022-04-29T14:37:10.000Z",
+          "wordCount": 2985,
+          "title": "Creating the DigitalOcean Logo in 3D With CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365447"
+        },
+        {
           "id": "https://css-tricks.com/?p=365413",
           "author": "Adam Rackis",
           "description": "In my last article, we went over how to set up a web app that serves chunks and bundles of CSS and JavaScript from CloudFront. We integrated it into Vite so that when the app runs in a browser, …\nSetting Up CloudFront to Host Your Web App originally published on CSS-Tricks. You should get the newsletter.",
@@ -84,16 +94,6 @@
           "wordCount": 1354,
           "title": "Adding CDN Caching to a Vite Build",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364166"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364279",
-          "author": "Temani Afif",
-          "description": "We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …\nTricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/",
-          "publishedOn": "2022-03-30T16:35:08.000Z",
-          "wordCount": 3575,
-          "title": "Tricks to Cut Corners Using CSS Mask and Clip-Path Properties",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364279"
         }
       ]
     },
@@ -102,6 +102,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
+          "author": "hello@smashingmagazine.com (Steve Sewell)",
+          "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
+          "link": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
+          "publishedOn": "2022-04-29T10:30:00.000Z",
+          "wordCount": 2018,
+          "title": "How Partytown Eliminates Website Bloat From Third-Party Scripts",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bb74cff-2774-45a7-8961-e255d6305d2a/partytown-eliminates-website-bloat-third-party-apps.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bb74cff-2774-45a7-8961-e255d6305d2a/partytown-eliminates-website-bloat-third-party-apps.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
           "author": "hello@smashingmagazine.com (Nathan Smith)",
@@ -396,36 +411,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
-          "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
-          "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1972,
-          "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
-          "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
-          "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2926,
-          "title": "Designing A Better Infinite Scroll",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg"
         }
       ]
     },
@@ -1733,46 +1718,6 @@
           "wordCount": 629,
           "title": "How to Convert Video Files to a Gif in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/convert.png"
-        },
-        {
-          "id": "62418eca138a19064b066d98",
-          "author": "Zubair Idris Aweda",
-          "description": "Building modern web applications usually involves a lot of data. Managing these data (databases) during development and production can be a lot.  This is especially tru if there's more than one developer, and multiple environments where changes have to be manually implemented. Database migrations help developers manage these changes",
-          "link": "https://www.freecodecamp.org/news/easy-database-migrations-in-php-using-phinx/",
-          "publishedOn": "2022-03-30T23:59:31.000Z",
-          "wordCount": 2013,
-          "title": "How to Migrate a Database in PHP Using Phinx",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/0-ddWHLcHqIojSq_GO.png"
-        },
-        {
-          "id": "62442bd2138a19064b06836a",
-          "author": "Kolade Chris",
-          "description": "Branching is an integral part of Git because it lets you work without tampering with code that's already in production. When you finish working with a branch other than main, you'll want to merge it with the main so the feature or bug fix you just integrated will be reflected.",
-          "link": "https://www.freecodecamp.org/news/git-undo-merge-how-to-revert-the-last-merge-commit-in-git/",
-          "publishedOn": "2022-03-30T17:40:00.000Z",
-          "wordCount": 711,
-          "title": "Git Undo Merge – How to Revert the Last Merge Commit in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/puppy-g3ddb72a98_1920.jpg"
-        },
-        {
-          "id": "62418f22138a19064b066da1",
-          "author": "Dragos Ivanov",
-          "description": "I work on an app that removes the background of any image. The app will have a freemium plan, which means that I will offer a free number of credits to all users, and if they need more credits, they will need to buy more. My Android and iOS app",
-          "link": "https://www.freecodecamp.org/news/how-to-schedule-a-task-with-firebase-cloud-functions/",
-          "publishedOn": "2022-03-30T17:14:35.000Z",
-          "wordCount": 1211,
-          "title": "How to Schedule a Task With Firebase Scheduled Cloud Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/how-to-schedule-a-task-with-firebase-cloud-functions-1.png"
-        },
-        {
-          "id": "623d7224138a19064b06490a",
-          "author": "Hillary Nyakundi",
-          "description": "In recent years, various tech companies and organizations have started supporting students who have an interest in and passion for tech. Many companies give their premium services to students for free, and others offer discounts on their products. If you're a student, basically all you need to take advantage of",
-          "link": "https://www.freecodecamp.org/news/top-benefits-of-student-email-address/",
-          "publishedOn": "2022-03-30T17:00:46.000Z",
-          "wordCount": 1522,
-          "title": "Top Benefits of a Student Email Address",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Creative-Business-Template-Presentation--1-.png"
         }
       ]
     }
