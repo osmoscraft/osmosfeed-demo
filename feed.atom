@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-30T01:24:53.077Z</updated>
+    <updated>2022-05-01T01:47:32.263Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Make A Wish (May 2022 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/</id>
+        <link href="https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/"/>
+        <updated>2022-04-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creating the DigitalOcean Logo in 3D With CSS]]></title>
         <id>https://css-tricks.com/?p=365447</id>
@@ -1546,76 +1556,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[Building full stack applications can be tough. You have to think about frontend, APIs, databases, authentication - and how all of these things work together. So, in this article, I'll show you how to do all of those things using NextJS and HarperDB. We'll be building a full stack task]]></summary>
         <author>
             <name>Danny Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The What, When, Why And How Of Next.js’ New Middleware Feature]]></title>
-        <id>https://smashingmagazine.com/2022/04/next-js-middleware-feature/</id>
-        <link href="https://smashingmagazine.com/2022/04/next-js-middleware-feature/"/>
-        <updated>2022-04-01T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sam Poder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Apps with Firebase]]></title>
-        <id>6245d985138a19064b069946</id>
-        <link href="https://www.freecodecamp.org/news/create-apps-with-firebase/"/>
-        <updated>2022-04-01T00:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Firebase is a platform developed by Google for creating mobile and web applications.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Firebase. This is the perfect course for beginners.  After learning the basics of Firebase, you will learn how]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shell Scripting for Beginners – How to Write Bash Scripts in Linux]]></title>
-        <id>623cc7e0138a19064b06474d</id>
-        <link href="https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/"/>
-        <updated>2022-03-31T19:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Shell scripting is an important part of process automation in Linux. Scripting helps you write a sequence of commands in a file and then execute them.  This saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify Email Automation – How to Automatically Send Emails]]></title>
-        <id>62421c54138a19064b0672c6</id>
-        <link href="https://www.freecodecamp.org/news/shopify-email-automation/"/>
-        <updated>2022-03-31T17:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Email automation is not something new in the e-commerce space. And it's a pretty simple and straightforward concept. Email automation is all about sending emails to customers based on events that occur on your website, like abandoned cart emails, order confirmation emails, shipping confirmation emails, and so on. The result?]]></summary>
-        <author>
-            <name>Edan Ben-Atar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augmented Reality Full Course]]></title>
-        <id>6245d736138a19064b0698d9</id>
-        <link href="https://www.freecodecamp.org/news/augmented-reality-full-course/"/>
-        <updated>2022-03-31T16:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Augmented reality is a technology that lets people superimpose digital content, such as images, sounds & text, over a real-world environment. We just published a 12-hour course on the freeCodeCamp.org YouTube channel that will teach you about augmented reality from a theoretical and practical perspective. Priyanshu Bhattaharjee developed this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[charAt() in Java – How to Use the Java charAt() Method]]></title>
-        <id>62445137138a19064b068407</id>
-        <link href="https://www.freecodecamp.org/news/charat-in-java-how-to-use-the-java-charat-method-2/"/>
-        <updated>2022-03-31T16:10:26.000Z</updated>
-        <summary type="html"><![CDATA[The charAt() method in Java returns the char value of a character in a string at a given or specified index. In this article, we'll see how to use the charAt() method starting with it's syntax and then through a few examples/use cases.  How to Use the Java charAt()]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert Video Files to a Gif in Python]]></title>
-        <id>6245705d138a19064b068f59</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-video-files-to-gif-in-python/"/>
-        <updated>2022-03-31T16:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I was able to convert some video files to a gif as I needed them in gif format for some of my articles. I decided to show you how I did it in 3 lines of code, so you can save yourself the extra effort of looking up a]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>

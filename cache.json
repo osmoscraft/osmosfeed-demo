@@ -103,6 +103,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
+          "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
+          "publishedOn": "2022-04-30T08:00:00.000Z",
+          "wordCount": 2277,
+          "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps/",
           "author": "hello@smashingmagazine.com (Steve Sewell)",
           "description": "Introducing Partytown, a lightweight open-source solution that reduces execution delays due to third-party JavaScript by offloading third-party scripts to web workers, which run in background threads.",
@@ -396,21 +411,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
-          "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
-          "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1940,
-          "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg"
         }
       ]
     },
@@ -1658,66 +1658,6 @@
           "wordCount": 7841,
           "title": "NextJS and HarperDB Tutorial –Build a Full Stack Productivity Timer App",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/feature.jpg"
-        },
-        {
-          "id": "6245d985138a19064b069946",
-          "author": "Beau Carnes",
-          "description": "Firebase is a platform developed by Google for creating mobile and web applications.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Firebase. This is the perfect course for beginners.  After learning the basics of Firebase, you will learn how",
-          "link": "https://www.freecodecamp.org/news/create-apps-with-firebase/",
-          "publishedOn": "2022-04-01T00:10:02.000Z",
-          "wordCount": 26625,
-          "title": "How to Create Apps with Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/firebase.png"
-        },
-        {
-          "id": "623cc7e0138a19064b06474d",
-          "author": "Zaira Hira",
-          "description": "Shell scripting is an important part of process automation in Linux. Scripting helps you write a sequence of commands in a file and then execute them.  This saves you time because you don't have to write certain commands again and again. You can perform daily tasks efficiently and even",
-          "link": "https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/",
-          "publishedOn": "2022-03-31T19:26:38.000Z",
-          "wordCount": 2165,
-          "title": "Shell Scripting for Beginners – How to Write Bash Scripts in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/remove-key-val.gif"
-        },
-        {
-          "id": "62421c54138a19064b0672c6",
-          "author": "Edan Ben-Atar",
-          "description": "Email automation is not something new in the e-commerce space. And it's a pretty simple and straightforward concept. Email automation is all about sending emails to customers based on events that occur on your website, like abandoned cart emails, order confirmation emails, shipping confirmation emails, and so on. The result?",
-          "link": "https://www.freecodecamp.org/news/shopify-email-automation/",
-          "publishedOn": "2022-03-31T17:00:18.000Z",
-          "wordCount": 1627,
-          "title": "Shopify Email Automation – How to Automatically Send Emails",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Shopify-Email-Automation.jpg"
-        },
-        {
-          "id": "6245d736138a19064b0698d9",
-          "author": "Beau Carnes",
-          "description": "Augmented reality is a technology that lets people superimpose digital content, such as images, sounds & text, over a real-world environment. We just published a 12-hour course on the freeCodeCamp.org YouTube channel that will teach you about augmented reality from a theoretical and practical perspective. Priyanshu Bhattaharjee developed this course.",
-          "link": "https://www.freecodecamp.org/news/augmented-reality-full-course/",
-          "publishedOn": "2022-03-31T16:40:02.000Z",
-          "wordCount": 526,
-          "title": "Augmented Reality Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/ar.png"
-        },
-        {
-          "id": "62445137138a19064b068407",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The charAt() method in Java returns the char value of a character in a string at a given or specified index. In this article, we'll see how to use the charAt() method starting with it's syntax and then through a few examples/use cases.  How to Use the Java charAt()",
-          "link": "https://www.freecodecamp.org/news/charat-in-java-how-to-use-the-java-charat-method-2/",
-          "publishedOn": "2022-03-31T16:10:26.000Z",
-          "wordCount": 916,
-          "title": "charAt() in Java – How to Use the Java charAt() Method",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/charAt.png"
-        },
-        {
-          "id": "6245705d138a19064b068f59",
-          "author": "Kolade Chris",
-          "description": "Recently, I was able to convert some video files to a gif as I needed them in gif format for some of my articles. I decided to show you how I did it in 3 lines of code, so you can save yourself the extra effort of looking up a",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-video-files-to-gif-in-python/",
-          "publishedOn": "2022-03-31T16:06:08.000Z",
-          "wordCount": 629,
-          "title": "How to Convert Video Files to a Gif in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/convert.png"
         }
       ]
     }
