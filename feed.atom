@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-03T01:21:01.473Z</updated>
+    <updated>2022-05-04T01:21:10.550Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Report a Bug to freeCodeCamp]]></title>
+        <id>626fa644c1c601068f4ead26</id>
+        <link href="https://www.freecodecamp.org/news/how-to-report-a-bug-to-freecodecamp/"/>
+        <updated>2022-05-03T21:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Thank you for taking the time to report an issue with freeCodeCamp. If you think you’ve found a bug on freeCodeCamp, please follow these steps to resolve your problem: Reset the Code in the Editor Try resetting the code in the editor using the reset button on the page. This]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove Duplicates in Excel – Delete Duplicate Rows Tutorial]]></title>
+        <id>626fe2c2c1c601068f4eaf1d</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-duplicates-in-excel-delete-duplicate-rows-tutorial/"/>
+        <updated>2022-05-03T19:58:44.000Z</updated>
+        <summary type="html"><![CDATA[An Excel worksheet can be difficult to work with if it contains duplicates – especially if you’re not the author of the worksheet. If you find them, you might want to highlight or remove such duplicates in the Excel sheet so you don’t run into errors. In this article, I]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Prototypes and Inheritance – and Why They Say Everything in JS is an Object]]></title>
+        <id>6259a2ffac55f60686c35b35</id>
+        <link href="https://www.freecodecamp.org/news/prototypes-and-inheritance-in-javascript/"/>
+        <updated>2022-05-03T16:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this short article we're going to talk about prototypal inheritance in JavaScript, and what are the implications of it. Table of Contents  * Intro  * How to access a prototype’s properties and methods in JavaScript  * The prototype chain  * A prototype-based language]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Join MySQL and Postgres in a Live Materialized View]]></title>
+        <id>62612e2aac55f60686c39d58</id>
+        <link href="https://www.freecodecamp.org/news/how-to-join-mysql-and-postgres-in-a-live-materialized-view/"/>
+        <updated>2022-05-03T15:18:26.000Z</updated>
+        <summary type="html"><![CDATA[When you're working on a project that consists of a lot of microservices, it'll likely also include multiple databases.  For example, you might have a MySQL database [https://www.mysql.com] and a  PostgreSQL database [https://www.postgresql.org], both running on separate servers. Usually, to join the data from the two databases, you]]></summary>
+        <author>
+            <name>Bobby Iliev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Google Dataproc – Example with PySpark and Jupyter Notebook]]></title>
+        <id>626aebfac1c601068f4e8804</id>
+        <link href="https://www.freecodecamp.org/news/what-is-google-dataproc/"/>
+        <updated>2022-05-03T15:14:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll explain what Dataproc is and how it works.  Dataproc is a Google Cloud Platform managed service for Spark and Hadoop which helps you with Big Data Processing, ETL, and Machine Learning. It provides a Hadoop cluster and supports Hadoop ecosystems tools like Flink, Hive, Presto,]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Custom GitHub Badges to Your Repo]]></title>
+        <id>https://css-tricks.com/?p=364932</id>
+        <link href="https://css-tricks.com/adding-custom-github-badges-to-your-repo/"/>
+        <updated>2022-05-03T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …
+Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Nick Sypteras</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Don’t Need A UI Framework]]></title>
+        <id>https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/</id>
+        <link href="https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/"/>
+        <updated>2022-05-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Josh Comeau)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design Principles – A List of the Principles of Design]]></title>
         <id>624bed87ac55f60686c2e0ef</id>
@@ -1597,26 +1668,6 @@ Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You shoul
         <summary type="html"><![CDATA[Translation is a powerful tool that can change lives. Everyone should have access to free learning resources in their native language.  To achieve this, freeCodeCamp has started translating our curriculum into dozens of world languages, with the help of thousands of volunteers around the world. To honor our translators]]></summary>
         <author>
             <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExamPro Cloud Developer Environment Certification — Pass the Exam with This 12 Hour Course]]></title>
-        <id>623f380c138a19064b06605b</id>
-        <link href="https://www.freecodecamp.org/news/exampro-cloud-developer-environment-certification-gitpod-course/"/>
-        <updated>2022-04-04T13:14:49.000Z</updated>
-        <summary type="html"><![CDATA[If you are a web-application developer looking to learn how to leverage the cloud or want to become a cloud developer, the ExamPro Cloud Development Environment (EXP-CDE-01) is the first step. What is a Cloud Developer Environment?  A Cloud Developer Environment (CDE) is a:  *  code editor]]></summary>
-        <author>
-            <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List]]></title>
-        <id>https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/</id>
-        <link href="https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/"/>
-        <updated>2022-04-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
         </author>
     </entry>
 </feed>
