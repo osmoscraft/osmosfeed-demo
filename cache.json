@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365510",
+          "author": "Adam Rackis",
+          "description": "So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …\nSyntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/",
+          "publishedOn": "2022-05-04T14:16:43.000Z",
+          "wordCount": 2726,
+          "title": "Syntax Highlighting (and More!) With Prism on a Static Site",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365510"
+        },
+        {
           "id": "https://css-tricks.com/?p=364932",
           "author": "Nick Sypteras",
           "description": "If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …\nAdding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.",
@@ -104,16 +114,6 @@
           "wordCount": 1552,
           "title": "Add a CSS Lens Flare to Photos for a Bright Touch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364385"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364166",
-          "author": "Adam Rackis",
-          "description": "Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …\nAdding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/adding-cdn-caching-to-a-vite-build/",
-          "publishedOn": "2022-04-04T18:25:23.000Z",
-          "wordCount": 1354,
-          "title": "Adding CDN Caching to a Vite Build",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364166"
         }
       ]
     },
@@ -122,6 +122,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
+          "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
+          "publishedOn": "2022-05-04T10:00:00.000Z",
+          "wordCount": 6036,
+          "title": "Designing A Better Language Selector",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/",
           "author": "hello@smashingmagazine.com (Josh Comeau)",
@@ -416,21 +431,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
-          "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
-          "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2363,
-          "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg"
         }
       ]
     },
@@ -439,6 +439,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "626fbddfc1c601068f4eaec5",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we'll talk about the getline() function in C++. This is an inbuilt function that accepts single and multiple character inputs. When working with user input in C++, the cin object allows us to get input information from the user. But when we try to log out the",
+          "link": "https://www.freecodecamp.org/news/getline-in-cpp-cin-getline-function-example/",
+          "publishedOn": "2022-05-04T20:06:07.000Z",
+          "wordCount": 732,
+          "title": "Getline in C++ – cin getline() Function Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/getline.png"
+        },
+        {
+          "id": "626b0796c1c601068f4e89b4",
+          "author": "Dillion Megida",
+          "description": "Browsers have default interactions and behaviors for different events. For example, when a user clicks a \"submit\" button on a form, the form is submitted to a URL by default. When the child of an element is clicked, the click event also occurs on the element because it is the",
+          "link": "https://www.freecodecamp.org/news/manage-default-behavior-in-browser/",
+          "publishedOn": "2022-05-04T19:59:02.000Z",
+          "wordCount": 1326,
+          "title": "How to Manage Browser Defaults with event.preventDefault() and event.stopPropagation()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-startup-stock-photos-7359.jpg"
+        },
+        {
+          "id": "626d5ae3c1c601068f4ea1c2",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the",
+          "link": "https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/",
+          "publishedOn": "2022-05-04T17:20:38.000Z",
+          "wordCount": 4048,
+          "title": "Python Code Examples – Simple Python Program Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Python-Code-Examples---Simple-Python-Program-Example.png"
+        },
+        {
+          "id": "626d47a4c1c601068f4e9f91",
+          "author": "Samuel A. Olubiyo",
+          "description": "DOM manipulation can simply be defined as manipulating HTML documents (or pages) with JavaScript.  The DOM stands for Document Object Model that you can visualize as a tree-like structure made up of different HTML elements.  Visualizing an HTML document like a tree makes it easy to access its",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-manipulate-css-with-javascript-by-coding-a-dynamic-picture-frame/",
+          "publishedOn": "2022-05-04T15:27:39.000Z",
+          "wordCount": 1905,
+          "title": "Learn How to Manipulate CSS with JavaScript by Coding a Dynamic Picture Frame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Box-Model.png"
+        },
+        {
+          "id": "625e8e8bac55f60686c37f27",
+          "author": "Jean-Marc Möckel",
+          "description": "I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many",
+          "link": "https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/",
+          "publishedOn": "2022-05-04T15:10:32.000Z",
+          "wordCount": 12045,
+          "title": "REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/rest-api-design-course-header.png"
+        },
+        {
+          "id": "62728f26c1c601068f4ec233",
+          "author": "Beau Carnes",
+          "description": "React Router is a JavaScript library that helps developers create single-page applications that are responsive and have a dynamic user interface. It is a popular tool among React developers and is used to create routing and navigation for web applications. We just published a course on the freeCodeCamp.org YouTube channel",
+          "link": "https://www.freecodecamp.org/news/learn-react-router-6/",
+          "publishedOn": "2022-05-04T14:42:27.000Z",
+          "wordCount": 476,
+          "title": "Learn React Router 6",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/reactrouter6.png"
+        },
         {
           "id": "626fa644c1c601068f4ead26",
           "author": "freeCodeCamp.org",
@@ -1678,96 +1738,6 @@
           "wordCount": 5633,
           "title": "Command Line for Beginners – How to Use the Terminal Like a Pro",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-207580.jpg"
-        },
-        {
-          "id": "624b0547ac55f60686c2d2e1",
-          "author": "Oluwatobi Sofela",
-          "description": "A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development",
-          "link": "https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/",
-          "publishedOn": "2022-04-05T00:08:08.000Z",
-          "wordCount": 4226,
-          "title": "JavaScript Package Manager – Complete Guide to NPM and Yarn",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/package-manager-npm-and-yarn-explained-curology-pDsmoI5j3B8-unsplash.jpg"
-        },
-        {
-          "id": "6233c160cdcd57069ddfadb8",
-          "author": "Israel Mitolu",
-          "description": "Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article",
-          "link": "https://www.freecodecamp.org/news/the-beginners-guide-to-sass/",
-          "publishedOn": "2022-04-04T23:39:31.000Z",
-          "wordCount": 2181,
-          "title": "The Beginner's Guide to Sass",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/The-Beginner-s-Guide-to-SASS.png"
-        },
-        {
-          "id": "624ad0f4ac55f60686c2d118",
-          "author": "Kolade Chris",
-          "description": "A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they",
-          "link": "https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/",
-          "publishedOn": "2022-04-04T23:17:35.000Z",
-          "wordCount": 1039,
-          "title": "Types of Hard Drives – SATA, PATA, SCSI, and SSD",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/hard-drive-1110813_1280.png"
-        },
-        {
-          "id": "6249d59dac55f60686c2ce11",
-          "author": "Ateev Duggal",
-          "description": "Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development",
-          "link": "https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/",
-          "publishedOn": "2022-04-04T22:19:13.000Z",
-          "wordCount": 2399,
-          "title": "How to Make an Image Search App in React using the Unsplash API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Unsplash.jpg"
-        },
-        {
-          "id": "624a520eac55f60686c2cfa0",
-          "author": "Ashutosh Krishna",
-          "description": "Wordle is a popular game where you guess a five-letter word in six tries. After each guess, the color of the tiles will change to show how close your guess was to the word.  It is similar to the Hangman game [https://ireadblog.com/posts/124/hangman-game-using-python] which I've already shown you how to",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich/",
-          "publishedOn": "2022-04-04T20:21:41.000Z",
-          "wordCount": 1978,
-          "title": "Python Project – How to Build a Wordle Clone using Python and Rich",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/wordle_ar8gck.png"
-        },
-        {
-          "id": "62402130138a19064b0666c6",
-          "author": "Sebastian Sigl",
-          "description": "Containers make software engineering easier and more efficient, and Docker [https://www.docker.com/] containers are popular and easy to use.  Containers are essential for local development. They let you test-run your applications in local environments and start building out the required infrastructure. Docker containers are immutable by nature. This means that",
-          "link": "https://www.freecodecamp.org/news/docker-mount-volume-guide-how-to-mount-a-local-directory/",
-          "publishedOn": "2022-04-04T20:08:50.000Z",
-          "wordCount": 1004,
-          "title": "Docker Mount Volume – How To Mount a Local Directory",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Docker-mount-volume-guide.png"
-        },
-        {
-          "id": "623646bccdcd57069ddfb98f",
-          "author": "Sule-Balogun Olanrewaju Ganiu",
-          "description": "This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers",
-          "link": "https://www.freecodecamp.org/news/thunder-client-for-vscode/",
-          "publishedOn": "2022-04-04T19:09:46.000Z",
-          "wordCount": 1644,
-          "title": "Thunder Client – An Alternative Way to Test Restful APIs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-greg-2418664.jpg"
-        },
-        {
-          "id": "624515df138a19064b068e7c",
-          "author": "Ukeje Chukwuemeriwo Goodness",
-          "description": "In this article, I'll introduce you to Gonum, a package you can use to perform scientific computations in the Go programming language. Here's what we'll cover in this intermediate tutorial:  * What is Gonum?  * Why use Gonum  * How to install and set up Gonum",
-          "link": "https://www.freecodecamp.org/news/scientific-computing-in-golang-using-gonum/",
-          "publishedOn": "2022-04-04T15:49:21.000Z",
-          "wordCount": 1419,
-          "title": "Scientific Computing in Golang with the Gonum Package",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/freecode_ccexpress.jpeg"
-        },
-        {
-          "id": "6244b25c138a19064b0686d0",
-          "author": "Estefania Cassingena Navone",
-          "description": "Translation is a powerful tool that can change lives. Everyone should have access to free learning resources in their native language.  To achieve this, freeCodeCamp has started translating our curriculum into dozens of world languages, with the help of thousands of volunteers around the world. To honor our translators",
-          "link": "https://www.freecodecamp.org/news/the-freecodecamp-world-translation-summit-2022-join-the-translation-effort/",
-          "publishedOn": "2022-04-04T14:23:26.000Z",
-          "wordCount": 2326,
-          "title": "The freeCodeCamp World Translation Summit 2022 – Join the Translation Effort",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/World-Translation-Summit-Image.png"
         }
       ]
     }

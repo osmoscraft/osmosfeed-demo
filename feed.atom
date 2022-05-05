@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-04T01:21:10.550Z</updated>
+    <updated>2022-05-05T01:17:29.133Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getline in C++ – cin getline() Function Example]]></title>
+        <id>626fbddfc1c601068f4eaec5</id>
+        <link href="https://www.freecodecamp.org/news/getline-in-cpp-cin-getline-function-example/"/>
+        <updated>2022-05-04T20:06:07.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about the getline() function in C++. This is an inbuilt function that accepts single and multiple character inputs. When working with user input in C++, the cin object allows us to get input information from the user. But when we try to log out the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage Browser Defaults with event.preventDefault() and event.stopPropagation()]]></title>
+        <id>626b0796c1c601068f4e89b4</id>
+        <link href="https://www.freecodecamp.org/news/manage-default-behavior-in-browser/"/>
+        <updated>2022-05-04T19:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Browsers have default interactions and behaviors for different events. For example, when a user clicks a "submit" button on a form, the form is submitted to a URL by default. When the child of an element is clicked, the click event also occurs on the element because it is the]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Code Examples – Simple Python Program Example]]></title>
+        <id>626d5ae3c1c601068f4ea1c2</id>
+        <link href="https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/"/>
+        <updated>2022-05-04T17:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Manipulate CSS with JavaScript by Coding a Dynamic Picture Frame]]></title>
+        <id>626d47a4c1c601068f4e9f91</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-manipulate-css-with-javascript-by-coding-a-dynamic-picture-frame/"/>
+        <updated>2022-05-04T15:27:39.000Z</updated>
+        <summary type="html"><![CDATA[DOM manipulation can simply be defined as manipulating HTML documents (or pages) with JavaScript.  The DOM stands for Document Object Model that you can visualize as a tree-like structure made up of different HTML elements.  Visualizing an HTML document like a tree makes it easy to access its]]></summary>
+        <author>
+            <name>Samuel A. Olubiyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js]]></title>
+        <id>625e8e8bac55f60686c37f27</id>
+        <link href="https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/"/>
+        <updated>2022-05-04T15:10:32.000Z</updated>
+        <summary type="html"><![CDATA[I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many]]></summary>
+        <author>
+            <name>Jean-Marc Möckel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn React Router 6]]></title>
+        <id>62728f26c1c601068f4ec233</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-router-6/"/>
+        <updated>2022-05-04T14:42:27.000Z</updated>
+        <summary type="html"><![CDATA[React Router is a JavaScript library that helps developers create single-page applications that are responsive and have a dynamic user interface. It is a popular tool among React developers and is used to create routing and navigation for web applications. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syntax Highlighting (and More!) With Prism on a Static Site]]></title>
+        <id>https://css-tricks.com/?p=365510</id>
+        <link href="https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/"/>
+        <updated>2022-05-04T14:16:43.000Z</updated>
+        <summary type="html"><![CDATA[So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …
+Syntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Language Selector]]></title>
+        <id>https://smashingmagazine.com/2022/05/designing-better-language-selector/</id>
+        <link href="https://smashingmagazine.com/2022/05/designing-better-language-selector/"/>
+        <updated>2022-05-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Report a Bug to freeCodeCamp]]></title>
         <id>626fa644c1c601068f4ead26</id>
@@ -1557,117 +1638,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         <summary type="html"><![CDATA[Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel]]></summary>
         <author>
             <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles]]></title>
-        <id>https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/</id>
-        <link href="https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/"/>
-        <updated>2022-04-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Package Manager – Complete Guide to NPM and Yarn]]></title>
-        <id>624b0547ac55f60686c2d2e1</id>
-        <link href="https://www.freecodecamp.org/news/javascript-package-manager-npm-and-yarn/"/>
-        <updated>2022-04-05T00:08:08.000Z</updated>
-        <summary type="html"><![CDATA[A package manager is a tool developers use to automate finding, downloading, installing, configuring, upgrading, and removing a system's packages. This article will show you all you need to get started with package managers like NPM and Yarn. But why exactly do we need a package manager in our development]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beginner's Guide to Sass]]></title>
-        <id>6233c160cdcd57069ddfadb8</id>
-        <link href="https://www.freecodecamp.org/news/the-beginners-guide-to-sass/"/>
-        <updated>2022-04-04T23:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered what SASS stands for? Or perhaps you already know what it is but haven't taken the time to study and use it. Whether you're learning about it for the first time, or want to brush up on your knowledge of the subject, this is the article]]></summary>
-        <author>
-            <name>Israel Mitolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Hard Drives – SATA, PATA, SCSI, and SSD]]></title>
-        <id>624ad0f4ac55f60686c2d118</id>
-        <link href="https://www.freecodecamp.org/news/types-of-hard-drives-sata-pata-scsi-and-more-2/"/>
-        <updated>2022-04-04T23:17:35.000Z</updated>
-        <summary type="html"><![CDATA[A hard drive is a non-volatile hardware component on a computer that acts as the storage for all digital content. It holds program files, documents, pictures, videos, music, and more. The non-volatile nature of hard drives means they don’t lose data, even if power is lost. Due to this, they]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make an Image Search App in React using the Unsplash API]]></title>
-        <id>6249d59dac55f60686c2ce11</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-an-image-search-app-in-react/"/>
-        <updated>2022-04-04T22:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Unsplash is a site where you can download free and unlicensed images and use them as you see fit. In this tutorial, we will make an Image Search App using the Unsplash API to get access to its enormous collection of images and also download them. Before starting the development]]></summary>
-        <author>
-            <name>Ateev Duggal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Project – How to Build a Wordle Clone using Python and Rich]]></title>
-        <id>624a520eac55f60686c2cfa0</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-wordle-clone-using-python-and-rich/"/>
-        <updated>2022-04-04T20:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Wordle is a popular game where you guess a five-letter word in six tries. After each guess, the color of the tiles will change to show how close your guess was to the word.  It is similar to the Hangman game [https://ireadblog.com/posts/124/hangman-game-using-python] which I've already shown you how to]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Mount Volume – How To Mount a Local Directory]]></title>
-        <id>62402130138a19064b0666c6</id>
-        <link href="https://www.freecodecamp.org/news/docker-mount-volume-guide-how-to-mount-a-local-directory/"/>
-        <updated>2022-04-04T20:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Containers make software engineering easier and more efficient, and Docker [https://www.docker.com/] containers are popular and easy to use.  Containers are essential for local development. They let you test-run your applications in local environments and start building out the required infrastructure. Docker containers are immutable by nature. This means that]]></summary>
-        <author>
-            <name>Sebastian Sigl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunder Client – An Alternative Way to Test Restful APIs]]></title>
-        <id>623646bccdcd57069ddfb98f</id>
-        <link href="https://www.freecodecamp.org/news/thunder-client-for-vscode/"/>
-        <updated>2022-04-04T19:09:46.000Z</updated>
-        <summary type="html"><![CDATA[This article will teach you an alternative approach to testing client APIs using Thunder Client, an open-source extension available on VS Code marketplace [https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client] .  You will not need to download any tools to do this, since you can get it done right within VS Code. The article covers]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding CDN Caching to a Vite Build]]></title>
-        <id>https://css-tricks.com/?p=364166</id>
-        <link href="https://css-tricks.com/adding-cdn-caching-to-a-vite-build/"/>
-        <updated>2022-04-04T18:25:23.000Z</updated>
-        <summary type="html"><![CDATA[Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …
-Adding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientific Computing in Golang with the Gonum Package]]></title>
-        <id>624515df138a19064b068e7c</id>
-        <link href="https://www.freecodecamp.org/news/scientific-computing-in-golang-using-gonum/"/>
-        <updated>2022-04-04T15:49:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll introduce you to Gonum, a package you can use to perform scientific computations in the Go programming language. Here's what we'll cover in this intermediate tutorial:  * What is Gonum?  * Why use Gonum  * How to install and set up Gonum]]></summary>
-        <author>
-            <name>Ukeje Chukwuemeriwo Goodness</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The freeCodeCamp World Translation Summit 2022 – Join the Translation Effort]]></title>
-        <id>6244b25c138a19064b0686d0</id>
-        <link href="https://www.freecodecamp.org/news/the-freecodecamp-world-translation-summit-2022-join-the-translation-effort/"/>
-        <updated>2022-04-04T14:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Translation is a powerful tool that can change lives. Everyone should have access to free learning resources in their native language.  To achieve this, freeCodeCamp has started translating our curriculum into dozens of world languages, with the help of thousands of volunteers around the world. To honor our translators]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
         </author>
     </entry>
 </feed>
