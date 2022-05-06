@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-05T01:17:29.133Z</updated>
+    <updated>2022-05-06T01:08:26.247Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Visualization with D3.js]]></title>
+        <id>62740998c1c601068f4ecc38</id>
+        <link href="https://www.freecodecamp.org/news/data-visualizatoin-with-d3/"/>
+        <updated>2022-05-05T17:43:46.000Z</updated>
+        <summary type="html"><![CDATA[D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. We just published a full course on the freeCodeCamp.org YouTube channel that teaches how to implement various data visualization techniques with D3.js. Curran Kelleher teaches this course.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Destructure an Array in JavaScript]]></title>
+        <id>62715143c1c601068f4eb5fe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/"/>
+        <updated>2022-05-05T14:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's]]></summary>
+        <author>
+            <name>Madison Kanna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resilience, Flexibility And Immediacy: Working With Headless Systems]]></title>
+        <id>https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/</id>
+        <link href="https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/"/>
+        <updated>2022-05-05T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](link) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stefan Baumgartner)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Getline in C++ – cin getline() Function Example]]></title>
         <id>626fbddfc1c601068f4eaec5</id>
@@ -1618,26 +1648,6 @@ Add a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tr
         <summary type="html"><![CDATA[In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devs For Ukraine, A Free Online Charity Conference 🇺🇦]]></title>
-        <id>https://smashingmagazine.com/2022/04/devs-for-ukraine/</id>
-        <link href="https://smashingmagazine.com/2022/04/devs-for-ukraine/"/>
-        <updated>2022-04-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Line for Beginners – How to Use the Terminal Like a Pro]]></title>
-        <id>6244f93a138a19064b068b9e</id>
-        <link href="https://www.freecodecamp.org/news/command-line-for-beginners/"/>
-        <updated>2022-04-05T16:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel]]></summary>
-        <author>
-            <name>Germán Cocca</name>
         </author>
     </entry>
 </feed>

@@ -123,6 +123,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
+          "author": "hello@smashingmagazine.com (Stefan Baumgartner)",
+          "description": "When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](link) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.",
+          "link": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
+          "publishedOn": "2022-05-05T09:30:00.000Z",
+          "wordCount": 3109,
+          "title": "Resilience, Flexibility And Immediacy: Working With Headless Systems",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
@@ -416,21 +431,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.",
-          "link": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
-          "publishedOn": "2022-04-06T11:00:00.000Z",
-          "wordCount": 448,
-          "title": "Devs For Ukraine, A Free Online Charity Conference 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png"
         }
       ]
     },
@@ -439,6 +439,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "62740998c1c601068f4ecc38",
+          "author": "Beau Carnes",
+          "description": "D3.js is a JavaScript library for manipulating documents based on data. D3 helps you bring data to life using HTML, SVG, and CSS. We just published a full course on the freeCodeCamp.org YouTube channel that teaches how to implement various data visualization techniques with D3.js. Curran Kelleher teaches this course.",
+          "link": "https://www.freecodecamp.org/news/data-visualizatoin-with-d3/",
+          "publishedOn": "2022-05-05T17:43:46.000Z",
+          "wordCount": 506,
+          "title": "Data Visualization with D3.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/dataviz.png"
+        },
+        {
+          "id": "62715143c1c601068f4eb5fe",
+          "author": "Madison Kanna",
+          "description": "Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's",
+          "link": "https://www.freecodecamp.org/news/how-to-destructure-an-array-in-javascript/",
+          "publishedOn": "2022-05-05T14:38:34.000Z",
+          "wordCount": 1197,
+          "title": "How to Destructure an Array in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/code-1839406_1920.jpg"
+        },
         {
           "id": "626fbddfc1c601068f4eaec5",
           "author": "Ihechikara Vincent Abba",
@@ -1728,16 +1748,6 @@
           "wordCount": 471,
           "title": "How to do a Hanging Indent in Google Docs",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/luca-bravo-K-HMCiChjag-unsplash.jpg"
-        },
-        {
-          "id": "6244f93a138a19064b068b9e",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we'll take a good look at the command line (also known as the CLI, console, terminal or shell). The command line is one of the most useful and efficient tools we have as developers and as computer users in general. But using it can feel",
-          "link": "https://www.freecodecamp.org/news/command-line-for-beginners/",
-          "publishedOn": "2022-04-05T16:45:18.000Z",
-          "wordCount": 5633,
-          "title": "Command Line for Beginners – How to Use the Terminal Like a Pro",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-pixabay-207580.jpg"
         }
       ]
     }
