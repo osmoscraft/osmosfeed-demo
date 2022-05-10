@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365579",
+          "author": "Sunkanmi Fafowora",
+          "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/useful-tools-for-creating-avif-images/",
+          "publishedOn": "2022-05-09T15:00:10.000Z",
+          "wordCount": 947,
+          "title": "Useful Tools for Creating AVIF Images",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
+        },
+        {
           "id": "https://css-tricks.com/?p=365614",
           "author": "John Siciliano",
           "description": "Let’s say you have a website built on a platform that excels at design and it’s available at example.com. But that platform falls short at blogging. So you think to yourself, “What if I could use a different blogging …\nHow to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. You should get the newsletter.",
@@ -132,6 +142,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
+          "author": "hello@smashingmagazine.com (Barry Pollard)",
+          "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
+          "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
+          "publishedOn": "2022-05-09T10:30:00.000Z",
+          "wordCount": 3675,
+          "title": "Performance Game Changer: Browser Back/Forward Cache",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/give-effective-feedback-remotely/",
           "author": "hello@smashingmagazine.com (Joshua Mauldin)",
@@ -434,6 +459,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6272b9cdc1c601068f4ec497",
+          "author": "TAPAS ADHIKARY",
+          "description": "Git is an open-source distributed version control system. It helps you manage your project files easily using local branching, staging, and workflows.  Many developers use Git today. And they're usually familiar with basic Git concepts like:  * How to initiate a repository.  * How to create branches.",
+          "link": "https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/",
+          "publishedOn": "2022-05-09T23:09:43.000Z",
+          "wordCount": 1899,
+          "title": "How to Resolve Merge Conflicts in Git – A Practical Guide with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/freeCodeCamp-Cover-1.png"
+        },
+        {
+          "id": "62725fadc1c601068f4ebf17",
+          "author": "Ilenia Magoni",
+          "description": "Strings are a fundamental part of working with Python. And the lower() method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the lower() method in Python. What is a string? A string",
+          "link": "https://www.freecodecamp.org/news/python-lowercase-how-to-use-the-string-lower-function/",
+          "publishedOn": "2022-05-09T22:04:42.000Z",
+          "wordCount": 1080,
+          "title": "Python Lowercase – How to Use the String lower() Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-christina-morillo-1181467--1-.jpg"
+        },
+        {
+          "id": "627601655aeb5306e9ee6ab2",
+          "author": "Nishant Kumar",
+          "description": "In this article, we'll build a Google Docs clone using React, Material UI, and Firebase. The final app will look like this: If we click any document, it will open up and we can edit them however we need to. And the most amazing feature is that we can edit",
+          "link": "https://www.freecodecamp.org/news/build-a-google-docs-clone-with-react-and-firebase/",
+          "publishedOn": "2022-05-09T21:16:05.000Z",
+          "wordCount": 4296,
+          "title": "How to Build a Google Docs Clone with React, Material UI, & Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/How-to-Build-a-Weather-Application-using-React--11-.png"
+        },
+        {
+          "id": "6258683aac55f60686c35075",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to review the main characteristics of object oriented programming (OOP) with practical JavaScript examples. We will talk about OOP main concepts, why and when it can be useful, and I'll give you plenty of examples using JS code.  If you're not familiar",
+          "link": "https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/",
+          "publishedOn": "2022-05-09T20:36:30.000Z",
+          "wordCount": 4406,
+          "title": "Object-Oriented Programming in JavaScript for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-lukas-317377.jpg"
+        },
+        {
+          "id": "62727994c1c601068f4ec082",
+          "author": "Kolade Chris",
+          "description": "There are many data analytics tools out there, but Microsoft Excel remains a popular go-to for storing and managing data. Since Excel has a lot of functionality built into it, getting familiar with the various keyboard shortcuts will help you work more efficiently. In this article, I’m going to show",
+          "link": "https://www.freecodecamp.org/news/excel-shortcuts-keyboard-shortcuts-for-beginners/",
+          "publishedOn": "2022-05-09T15:24:30.000Z",
+          "wordCount": 1359,
+          "title": "Excel Shortcuts – Keyboard Shortcuts for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/excelShortcuts.png"
+        },
         {
           "id": "62720d66c1c601068f4ebbdb",
           "author": "Dillion Megida",
@@ -1663,26 +1738,6 @@
           "wordCount": 1099,
           "title": "PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/adetola-afolabi-W6Xfv9Rq1j0-unsplash.jpg"
-        },
-        {
-          "id": "625208b3ac55f60686c30de0",
-          "author": "Alex Garcia",
-          "description": "Sometimes you want to convert your Python lists into strings. This tutorial will show you an example of how you can do this. But first, let's explore the difference between the Python list data structure and the Python string data structure. What is a List in Python? In Python, a",
-          "link": "https://www.freecodecamp.org/news/python-list-to-string-join-example/",
-          "publishedOn": "2022-04-09T23:24:00.000Z",
-          "wordCount": 982,
-          "title": "List to String Python – join() Syntax Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/david-clode-5uU8HSpfwkI-unsplash.jpg"
-        },
-        {
-          "id": "62518273ac55f60686c30623",
-          "author": "Alex Garcia",
-          "description": "When you’re working with images, it’s important to understand the different file types. Which format is best for what application? In this tutorial, we’re going to explain the most common image file types, and when you should use them. Note that this is a short, non-technical article. If you want",
-          "link": "https://www.freecodecamp.org/news/image-file-types-picture-format-extensions-jpeg-gif-png-svg-tiff/",
-          "publishedOn": "2022-04-09T22:26:12.000Z",
-          "wordCount": 1295,
-          "title": "Image File Types – The .jpeg, .svg, and .png Picture Format Extensions Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/timon-klauser-3MAmj1ZKSZA-unsplash.jpg"
         }
       ]
     }
