@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365650",
+          "author": "Md Shuvo",
+          "description": "By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:\nA programming language is any set of rules that convert \n…\nLet’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/lets-create-a-tiny-programming-language/",
+          "publishedOn": "2022-05-10T13:56:11.000Z",
+          "wordCount": 1677,
+          "title": "Let’s Create a Tiny Programming Language",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365650"
+        },
+        {
           "id": "https://css-tricks.com/?p=365579",
           "author": "Sunkanmi Fafowora",
           "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks. You should get the newsletter.",
@@ -142,6 +152,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "It’s no secret that SVGs are super powerful, and yet, they still manage to surprise. Have you ever considered using SVG’s internal coordinate system to create a responsive image grid, for example, or adding texture to an SVG? In this post, we’ll look into some magical SVG techniques that open up new possibilities.",
+          "link": "https://smashingmagazine.com/2022/05/magical-svg-techniques/",
+          "publishedOn": "2022-05-10T10:00:00.000Z",
+          "wordCount": 2417,
+          "title": "Magical SVG Techniques",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
@@ -436,21 +461,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
-          "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
-          "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2321,
-          "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg"
         }
       ]
     },
@@ -459,6 +469,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "627a6d54ac30a306bbeac950",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The list data type is one of the built-in data structures in Python along with sets, tuples, and dictionaries. You use a list to organize, group, and store data. But each of these data structures has distinctive features that differentiates them from each other. In this article, we'll see how",
+          "link": "https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/",
+          "publishedOn": "2022-05-10T21:22:33.000Z",
+          "wordCount": 963,
+          "title": "Python List insert() – How to Add to a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/dictionaary.jpg"
+        },
+        {
+          "id": "627a1dd3ac30a306bbeac53f",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "If you're familiar with Python, you may have noticed that the built-in function  print() doesn't need an explicit \\n character at the end of each line.  This means that the output from the following snippet of code print('freeCodeCamp Curriculum') print('freeCodeCamp News') print('freeCodeCamp YouTube Channel') will be: freeCodeCamp Curriculum",
+          "link": "https://www.freecodecamp.org/news/python-print-without-newline-solved/",
+          "publishedOn": "2022-05-10T16:18:38.000Z",
+          "wordCount": 926,
+          "title": "Python Print Without Newline [SOLVED]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Python-Print-Without-Newline--SOLVED-.png"
+        },
+        {
+          "id": "627a40ceac30a306bbeac5da",
+          "author": "Kolade Chris",
+          "description": "To keep your Excel data safe from unwanted editing and tampering, you might want to lock the cells and protect the worksheet. Fortunately, Excel is a highly customizable data analysis tool which lets you lock cells and protect your worksheets with a password at the same time. In this guide,",
+          "link": "https://www.freecodecamp.org/news/how-to-lock-cells-in-excel-excel-locked-cell-tutorial/",
+          "publishedOn": "2022-05-10T15:57:58.000Z",
+          "wordCount": 705,
+          "title": "How to Lock Cells in Excel – Excel Locked Cell Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/thumb-1013967_1280.jpg"
+        },
+        {
+          "id": "627859645aeb5306e9ee725f",
+          "author": "Jose Vicente Nunez",
+          "description": "I was recently looking for a way to keep tabs on our containers and applications at work. Specifically, I was interested in detecting anomalies in the configuration. After a little research, I stumbled on Falco [https://github.com/falcosecurity/falco]. What I found was a very complete Open Source platform with lots of features",
+          "link": "https://www.freecodecamp.org/news/secure-server-infrastructure-clouds-using-falco-prometheus-grafana-and-docker/",
+          "publishedOn": "2022-05-10T14:58:47.000Z",
+          "wordCount": 3908,
+          "title": "How to Secure Server Infrastructure Clouds using Falco, Prometheus, Grafana and Docker",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-aleksandar-pasaric-325185--1-.jpg"
+        },
+        {
+          "id": "6269555ac1c601068f4e811b",
+          "author": "Rochdi Khalid",
+          "description": "Each operating system has different rules for constructing file paths. For example, Linux uses forward slashes for paths, while Windows uses backslashes.  This small difference can cause issues if you are working on a project and you want other developers who come from different operating systems to expand your",
+          "link": "https://www.freecodecamp.org/news/how-to-use-pathlib-module-in-python/",
+          "publishedOn": "2022-05-10T13:59:54.000Z",
+          "wordCount": 2546,
+          "title": "Python Path – How to Use the Pathlib Module with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pathlib-cover-freecodecamp.jpg"
+        },
         {
           "id": "6272b9cdc1c601068f4ec497",
           "author": "TAPAS ADHIKARY",
@@ -1718,26 +1778,6 @@
           "wordCount": 1405,
           "title": "How to Use the Git Stash Command",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/stahs-1.png"
-        },
-        {
-          "id": "62530365ac55f60686c316e5",
-          "author": "Quincy Larson",
-          "description": "If-Else statements – AKA conditional logic – are the bedrock of programming. And Python has these in spades. Python offers several options for evaluating variables, their states, and whether specific conditions are met:  * Vanilla if-else statements  * if statements without the else part  * nested if-else",
-          "link": "https://www.freecodecamp.org/news/python-if-else-statement-example/",
-          "publishedOn": "2022-04-10T17:05:36.000Z",
-          "wordCount": 1222,
-          "title": "Python If-Else Statement Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/rosie-steggles-h1OhvEIIcxs-unsplash.jpg"
-        },
-        {
-          "id": "6252eea7ac55f60686c315af",
-          "author": "Quincy Larson",
-          "description": "The Project Management Professional (PMP) is widely seen by project managers as the \"gold standard\" credential. Many senior PM roles now require you to be PMP certified. So if you have been working as a PM for a few years, this guide will show you how you can take the",
-          "link": "https://www.freecodecamp.org/news/pmp-certification-cost-degree-experience/",
-          "publishedOn": "2022-04-10T15:44:12.000Z",
-          "wordCount": 1099,
-          "title": "PMP Certification Cost – 2022 Exam Fees, Degree Requirements, and Years of Experience",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/adetola-afolabi-W6Xfv9Rq1j0-unsplash.jpg"
         }
       ]
     }
