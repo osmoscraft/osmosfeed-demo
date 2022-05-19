@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365766",
+          "author": "Jhey Tompkins",
+          "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
+          "publishedOn": "2022-05-18T14:16:43.000Z",
+          "wordCount": 2895,
+          "title": "An Interactive Starry Backdrop for Content",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
+        },
+        {
           "id": "https://css-tricks.com/?p=365531",
           "author": "Marcel Moreau",
           "description": "Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …\nImproving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.",
@@ -174,16 +184,6 @@
           "wordCount": 2462,
           "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364908",
-          "author": "Paul Esch-Laurent",
-          "description": "Mermaid diagrams and flowcharts have been gaining traction, especially with GitHub’s announcement that they are natively supported in Markdown. Let’s take a look at what they are, how to use them, and just as importantly: why.\nJust like you …\nMaking Mermaid Diagrams in Markdown originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-mermaid-diagrams-in-markdown/",
-          "publishedOn": "2022-04-18T16:01:08.000Z",
-          "wordCount": 1277,
-          "title": "Making Mermaid Diagrams in Markdown",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364908"
         }
       ]
     },
@@ -501,21 +501,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
-          "author": "hello@smashingmagazine.com (Ekene Eze)",
-          "description": "In this article, Ekene Eze shares his thoughts about the direction of the web in 2022, and what solutions we can expect to see come up in the ecosystem to significantly improve the Jamstack experience.",
-          "link": "https://smashingmagazine.com/2022/04/jamstack-rendering-patterns-evolution/",
-          "publishedOn": "2022-04-19T09:00:00.000Z",
-          "wordCount": 1697,
-          "title": "Jamstack Rendering Patterns: The Evolution",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/86e9ff96-97fd-42f7-aa79-9fe5527e1408/jamstack-rendering-patterns-evolution.jpg"
         }
       ]
     },
@@ -524,6 +509,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
+          "author": "Davis David",
+          "description": "Finding a remote job as a developer can be tricky. You want to work for a company that recognizes the value of remote workers, and you want to be sure that the company will support and encourage your remote working style.  If you’re a developer looking for an opportunity",
+          "link": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
+          "publishedOn": "2022-05-18T17:43:34.000Z",
+          "wordCount": 2034,
+          "title": "Top 10 Remote Work Companies for Developers in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/zVaxL0LohRUpfDQhznRQ9z3y5tj1-oam3ifo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cpp-operator-examples/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Most programming languages have built-in functionalities that let us carry out certain operations like arithmetic, comparison, logical operations, and so on.  In this article, we'll talk about three operators in C++ – the bitwise AND (&) operator, the logical OR (||) operator, and the arithmetic + operator.  How",
+          "link": "https://www.freecodecamp.org/news/cpp-operator-examples/",
+          "publishedOn": "2022-05-18T15:37:31.000Z",
+          "wordCount": 1105,
+          "title": "C++ Operator Example – &, or, + Operators in C++",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/towfiqu-barbhuiya-5u6bz2tYhX8-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
+          "author": "Dillion Megida",
+          "description": "Minification is the process of reducing code size to reduce the size of your files. So how does this apply to CSS? Take a look at this code: h1 {   color: yellow; } p {   color: pink; } And the compressed version of it: h1 {",
+          "link": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
+          "publishedOn": "2022-05-18T15:20:23.000Z",
+          "wordCount": 1150,
+          "title": "Minify CSS – CSS Minifying and Compression Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-magda-ehlers-2590535.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
+          "author": "Ilenia Magoni",
+          "description": "In CSS there are a lot of different units of measurement. You have px and percentages, vh, vw, em, rem, and others.  There will come a time when you want to get a value by combining two or more different units. CSS has a function that you can use",
+          "link": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
+          "publishedOn": "2022-05-18T15:11:08.000Z",
+          "wordCount": 1014,
+          "title": "CSS Functions – How to Use calc(), max(), min(), and clamp()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-katerina-holmes-5905965.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/",
           "author": "Beau Carnes",
@@ -1613,96 +1638,6 @@
           "wordCount": 5501,
           "title": "React + WebSockets Project – Build a Real-Time Order Book Application",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/react-and-websockets-articlde.png"
-        },
-        {
-          "id": "6259eec8ac55f60686c35fe1",
-          "author": "Rodrigo Kamada",
-          "description": "In this article, we'll create an application using the latest version of Angular. Then we'll host it on the GitHub Pages static website service using the continuous integration tool Travis CI to deploy the application. Prerequisites Before you start, you need to install and configure the tools below to create",
-          "link": "https://www.freecodecamp.org/news/host-an-angular-application-on-github-pages-with-travis-ci/",
-          "publishedOn": "2022-04-19T10:00:00.000Z",
-          "wordCount": 1523,
-          "title": "How to Host an Angular Application on GitHub Pages with Travis CI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/angular-travisci-cover.png"
-        },
-        {
-          "id": "62584ad7ac55f60686c34bd0",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The datetime object lets us work with dates and times in Python. But the value returned when we use this object is of the datatime data type rather than a  string. Here is an example that prints the current year, month, day and time to the console: from datetime",
-          "link": "https://www.freecodecamp.org/news/strftime-python-datetime-timestamp-string/",
-          "publishedOn": "2022-04-19T01:15:23.000Z",
-          "wordCount": 700,
-          "title": "strftime – Python DateTime Timestamp String",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/brooke-lark-BRBjShcA8D4-unsplash.jpg"
-        },
-        {
-          "id": "625bf31cac55f60686c36991",
-          "author": "Temani Afif",
-          "description": "If you are new to CSS gradients, you may have heard about something called  radial-gradient(). If you have never used it before, you are in the right place to learn about it. In this tutorial, I will focus on some real and practical examples to explain the secrets behind",
-          "link": "https://www.freecodecamp.org/news/css-radial-gradient/",
-          "publishedOn": "2022-04-19T01:12:33.000Z",
-          "wordCount": 2426,
-          "title": "Learn CSS radial-gradient by Building Background Patterns",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pattern-header.png"
-        },
-        {
-          "id": "625c80fcac55f60686c37035",
-          "author": "Jose Vicente Nunez",
-          "description": "In a previous article [/news/wireless-security-using-raspberry-pi-4-kismet-and-python/], I showed you how to secure your wireless home network using Kismet [https://www.kismetwireless.net/]. Kismet is perfect for detecting anomalies and certain types of attack – but what if I want to analyze the traffic and look for abnormal patterns or patterns that could indicate an",
-          "link": "https://www.freecodecamp.org/news/home-network-security-with-suricata-raspberrypi4-python/",
-          "publishedOn": "2022-04-19T00:23:10.000Z",
-          "wordCount": 3301,
-          "title": "Home Network Security – How to Use Suricata, RaspberryPI4, and Python to Make Your Network Safe",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-george-becker-333837.jpg"
-        },
-        {
-          "id": "601e56cc0a2838549dcbf3d6",
-          "author": "Patrick Cyubahiro",
-          "description": "Hi, folks! Today we are going to talk about object-oriented programming in Java. This article will help give you a thorough understanding of the underlying principles of object-oriented programming and its concepts.  Once you understand these concepts, you should have the confidence and ability to develop basic problem-solving applications",
-          "link": "https://www.freecodecamp.org/news/object-oriented-programming-concepts-java/",
-          "publishedOn": "2022-04-18T22:03:31.000Z",
-          "wordCount": 4000,
-          "title": "Object-Oriented Programming in Java – A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/ian-dooley-DJ7bWa-Gwks-unsplash-2-2.jpg"
-        },
-        {
-          "id": "625dbd15ac55f60686c37860",
-          "author": "Beau Carnes",
-          "description": "Improve your Python programming skills by coding everyone's favorite Windows 3.1 game: Minesweeper. We just published a Python course on the freeCodeCamp.org YouTube channel that will teach you how to code Minesweeper using the tkinter library. Jim from JimShapedCoding developed this course. He has published many popular programming courses both",
-          "link": "https://www.freecodecamp.org/news/object-oriented-programming-with-python-code-a-minesweeper-game/",
-          "publishedOn": "2022-04-18T19:46:59.000Z",
-          "wordCount": 23986,
-          "title": "Object Oriented Programming with Python – Code a Minesweeper Game",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/minsweeper.png"
-        },
-        {
-          "id": "624bed78ac55f60686c2e0eb",
-          "author": "Dionysia Lemonaki",
-          "description": "This article is an overview of relational and non-relational databases. Besides learning the fundamental differences between the two types of databases, you will also learn how to decide which one to use for your next project by going over their strengths and weaknesses. Here is what we'll cover:  1.",
-          "link": "https://www.freecodecamp.org/news/relational-vs-nonrelational-databases-difference-between-sql-db-and-nosql-db/",
-          "publishedOn": "2022-04-18T17:56:26.000Z",
-          "wordCount": 2989,
-          "title": "Relational VS Nonrelational Databases – the Difference Between a SQL DB and a NoSQL DB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/valeriia-svitlini-5w0ZbF8P5-4-unsplash.jpg"
-        },
-        {
-          "id": "625aba3aac55f60686c36423",
-          "author": "Idris Olubisi",
-          "description": "Two of the most fundamental image editing functions are resizing and cropping. But you should do these carefully because they have the potential to degrade image quality. Cropping always includes removing a portion of the original image, resulting in the loss of some pixels. This post will teach you how",
-          "link": "https://www.freecodecamp.org/news/how-to-upload-crop-resize-images-in-the-browser-in-nextjs/",
-          "publishedOn": "2022-04-18T17:19:23.000Z",
-          "wordCount": 1932,
-          "title": "Next.js Image Tutorial – How to Upload, Crop, and Resize Images in the Browser in Next",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-cottonbro-5083407.jpg"
-        },
-        {
-          "id": "622394b8c4d0d306772f4a08",
-          "author": "Tiago Monteiro",
-          "description": "I was recently reading J. Martin's book Systems Engineering Guidebook – A Process for Developing Systems and Products. From it, I learned that systems engineering reduces manufacturing costs by 40% – did you know that? Neither did I. Even after taking a class where one of the topics was systems",
-          "link": "https://www.freecodecamp.org/news/what-is-systems-engineering/",
-          "publishedOn": "2022-04-18T15:18:31.000Z",
-          "wordCount": 1461,
-          "title": "What is Systems Engineering? A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/tt.jpeg"
         }
       ]
     }
