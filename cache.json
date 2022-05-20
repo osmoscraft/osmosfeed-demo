@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365784",
+          "author": "Adam Rackis",
+          "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/",
+          "publishedOn": "2022-05-19T14:30:08.000Z",
+          "wordCount": 2038,
+          "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
+        },
+        {
           "id": "https://css-tricks.com/?p=365766",
           "author": "Jhey Tompkins",
           "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
@@ -192,6 +202,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
+          "author": "hello@smashingmagazine.com (Benjamin Ajibade)",
+          "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
+          "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
+          "publishedOn": "2022-05-19T11:30:00.000Z",
+          "wordCount": 3094,
+          "title": "Kubernetes For Front-End Developers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/elementor-modern-way-create-host-wordpress-site/",
           "author": "hello@smashingmagazine.com (Nick Babich)",
@@ -486,21 +511,6 @@
           "wordCount": 3309,
           "title": "Designing Better Navigation With Navigation Queries",
           "imageUrl": "https:null"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.",
-          "link": "https://smashingmagazine.com/2022/04/productivity-tips-tools/",
-          "publishedOn": "2022-04-20T11:30:00.000Z",
-          "wordCount": 5058,
-          "title": "Productivity Tips And Tools For A More Efficient Workflow",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0a83218-4f7e-4650-9380-72895a5936b3/productivity-tips-tools.jpg"
         }
       ]
     },
@@ -509,6 +519,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole",
+          "link": "https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/",
+          "publishedOn": "2022-05-19T22:29:11.000Z",
+          "wordCount": 943,
+          "title": "Double VS Float in C++ – The Difference Between Floats and Doubles",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/nick-hillier-yD5rv8_WzxA-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/",
+          "author": "Kolade Chris",
+          "description": "There are some characters that are symbols which you don’t get access to on keyboards. In HTML, these characters are called entities and are reserved characters. For instance, there are cases when you might want to type the greater than (>) or lesser than (<) symbol while working on the",
+          "link": "https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/",
+          "publishedOn": "2022-05-19T15:32:07.000Z",
+          "wordCount": 4468,
+          "title": "HTML Symbols – HTML Icon and Entity Code List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/HTMLEntites.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/",
+          "author": "Beau Carnes",
+          "description": "A drum machine is a fun project to create to practice your Python skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a drum machine project using Python and Pygame. Pete LeMaster created this course. Pete has created a bunch",
+          "link": "https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/",
+          "publishedOn": "2022-05-19T13:47:53.000Z",
+          "wordCount": 26115,
+          "title": "Create a Drum Machine with Python and Pygame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/drum.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
           "author": "Davis David",
@@ -1588,56 +1628,6 @@
           "wordCount": 492,
           "title": "Learn Redux Toolkit – The Recommended Way to Use Redux",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/reduxtoolkit.png"
-        },
-        {
-          "id": "625c8890ac55f60686c37088",
-          "author": "Zaira Hira",
-          "description": "Linux is a multi-user Operating System which means it supports multiple users on a single system.  Each user has its own rights which might be limited as well to increase security. For example, users have a particular set of permissions to access a file – some users might be",
-          "link": "https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/",
-          "publishedOn": "2022-04-19T21:49:02.000Z",
-          "wordCount": 1083,
-          "title": "Linux Permissions – How to Find Permissions of a File",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Copy-of-python-append.png"
-        },
-        {
-          "id": "6252e40fac55f60686c3142d",
-          "author": "Caleb Olojo",
-          "description": "When you are building an application that can be accessed on the web, there are a lot of dependencies or packages that you will need for your application to function well. You'll need most of these packages when you're building JAMStack applications with frameworks or libraries like React, Vuejs, Next.js,",
-          "link": "https://www.freecodecamp.org/news/how-to-bypass-es-modules-error-in-next-js/",
-          "publishedOn": "2022-04-19T19:58:52.000Z",
-          "wordCount": 1231,
-          "title": "How to Bypass ES Modules Errors in Next.js with Dynamic Imports",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/tim-gouw-1K9T5YiZ2WU-unsplash.jpg"
-        },
-        {
-          "id": "625d1728ac55f60686c3725e",
-          "author": "Sebastian Sigl",
-          "description": "Containers are an essential tool for software development today. Running applications in any environment becomes easy when you leverage containers.  The most popular technology for running containers is Docker [https://www.docker.com/], which runs on any operating system. In this blog post, you will learn to use Docker for the top",
-          "link": "https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/",
-          "publishedOn": "2022-04-19T19:50:39.000Z",
-          "wordCount": 1546,
-          "title": "What is Docker? Learn How to Use Containers – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/how-to-use-docker-containers.png"
-        },
-        {
-          "id": "625e7b77ac55f60686c37edc",
-          "author": "Kolade Chris",
-          "description": "As a software developer, you’ve probably been in a situation where your code is not working as expected. This could happen because you made a typo, you weren't paying enough attention, or you weren't sure how something worked. When your code doesn't work, it's frustrating – but the only thing",
-          "link": "https://www.freecodecamp.org/news/rubber-duck-debugging/",
-          "publishedOn": "2022-04-19T17:55:41.000Z",
-          "wordCount": 1007,
-          "title": "Rubber Duck Debugging",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/duck-meet-gd27f1e256_1280.jpg"
-        },
-        {
-          "id": "61372766d6679a07b7d43ded",
-          "author": "Mihail Gaberov",
-          "description": "In this tutorial, we will see how to build an Order Book web application, that we'll use to display real-time cryptocurrency info. We will use React with Typescript [https://create-react-app.dev/docs/adding-typescript/] for creating the UI,  Redux [https://redux.js.org/] for managing the application state, and  styled-components [https://styled-components.com/] for applying the styling. And",
-          "link": "https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/",
-          "publishedOn": "2022-04-19T17:15:27.000Z",
-          "wordCount": 5501,
-          "title": "React + WebSockets Project – Build a Real-Time Order Book Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/react-and-websockets-articlde.png"
         }
       ]
     }

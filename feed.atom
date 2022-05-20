@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-19T01:27:59.009Z</updated>
+    <updated>2022-05-20T01:19:47.140Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Double VS Float in C++ – The Difference Between Floats and Doubles]]></title>
+        <id>https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/</id>
+        <link href="https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/"/>
+        <updated>2022-05-19T22:29:11.000Z</updated>
+        <summary type="html"><![CDATA[In C++, there are various data types like string, int, char, bool, float, and  double. Each of these data types have specific values that can be stored in them. When working with integers, we usually store them in an int data type. But this is only useful for whole]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Symbols – HTML Icon and Entity Code List]]></title>
+        <id>https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/</id>
+        <link href="https://www.freecodecamp.org/news/html-symbols-html-icon-and-entity-code-list/"/>
+        <updated>2022-05-19T15:32:07.000Z</updated>
+        <summary type="html"><![CDATA[There are some characters that are symbols which you don’t get access to on keyboards. In HTML, these characters are called entities and are reserved characters. For instance, there are cases when you might want to type the greater than (>) or lesser than (<) symbol while working on the]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inline Image Previews with Sharp, BlurHash, and Lambda Functions]]></title>
+        <id>https://css-tricks.com/?p=365784</id>
+        <link href="https://css-tricks.com/inline-image-previews-with-sharp-blurhash-and-lambda-functions/"/>
+        <updated>2022-05-19T14:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …
+Inline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Drum Machine with Python and Pygame]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-drum-machine-with-python-and-pygame/"/>
+        <updated>2022-05-19T13:47:53.000Z</updated>
+        <summary type="html"><![CDATA[A drum machine is a fun project to create to practice your Python skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a drum machine project using Python and Pygame. Pete LeMaster created this course. Pete has created a bunch]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/</id>
+        <link href="https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/"/>
+        <updated>2022-05-19T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Benjamin Ajibade)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 10 Remote Work Companies for Developers in 2022]]></title>
         <id>https://www.freecodecamp.org/news/remote-work-companies-for-developers/</id>
@@ -1486,66 +1537,6 @@ Adding Tailwind CSS to New and Existing WordPress Themes originally published on
         <summary type="html"><![CDATA[Redux Toolkit is an opinionated toolset for efficient Redux development created by the Redux team. It is the the standard and recommended way to write Redux logic and manage state in your JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Productivity Tips And Tools For A More Efficient Workflow]]></title>
-        <id>https://smashingmagazine.com/2022/04/productivity-tips-tools/</id>
-        <link href="https://smashingmagazine.com/2022/04/productivity-tips-tools/"/>
-        <updated>2022-04-20T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Who doesn’t love a good timesaver? In this post, we compiled useful productivity tips and tools that help you speed up routine tasks, enhance your development workflow, and stay organized.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Permissions – How to Find Permissions of a File]]></title>
-        <id>625c8890ac55f60686c37088</id>
-        <link href="https://www.freecodecamp.org/news/linux-permissions-how-to-find-permissions-of-a-file/"/>
-        <updated>2022-04-19T21:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Linux is a multi-user Operating System which means it supports multiple users on a single system.  Each user has its own rights which might be limited as well to increase security. For example, users have a particular set of permissions to access a file – some users might be]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Bypass ES Modules Errors in Next.js with Dynamic Imports]]></title>
-        <id>6252e40fac55f60686c3142d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-bypass-es-modules-error-in-next-js/"/>
-        <updated>2022-04-19T19:58:52.000Z</updated>
-        <summary type="html"><![CDATA[When you are building an application that can be accessed on the web, there are a lot of dependencies or packages that you will need for your application to function well. You'll need most of these packages when you're building JAMStack applications with frameworks or libraries like React, Vuejs, Next.js,]]></summary>
-        <author>
-            <name>Caleb Olojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Docker? Learn How to Use Containers – Explained with Examples]]></title>
-        <id>625d1728ac55f60686c3725e</id>
-        <link href="https://www.freecodecamp.org/news/what-is-docker-learn-how-to-use-containers-with-examples/"/>
-        <updated>2022-04-19T19:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Containers are an essential tool for software development today. Running applications in any environment becomes easy when you leverage containers.  The most popular technology for running containers is Docker [https://www.docker.com/], which runs on any operating system. In this blog post, you will learn to use Docker for the top]]></summary>
-        <author>
-            <name>Sebastian Sigl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubber Duck Debugging]]></title>
-        <id>625e7b77ac55f60686c37edc</id>
-        <link href="https://www.freecodecamp.org/news/rubber-duck-debugging/"/>
-        <updated>2022-04-19T17:55:41.000Z</updated>
-        <summary type="html"><![CDATA[As a software developer, you’ve probably been in a situation where your code is not working as expected. This could happen because you made a typo, you weren't paying enough attention, or you weren't sure how something worked. When your code doesn't work, it's frustrating – but the only thing]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React + WebSockets Project – Build a Real-Time Order Book Application]]></title>
-        <id>61372766d6679a07b7d43ded</id>
-        <link href="https://www.freecodecamp.org/news/react-websockets-project-build-real-time-order-book-app/"/>
-        <updated>2022-04-19T17:15:27.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will see how to build an Order Book web application, that we'll use to display real-time cryptocurrency info. We will use React with Typescript [https://create-react-app.dev/docs/adding-typescript/] for creating the UI,  Redux [https://redux.js.org/] for managing the application state, and  styled-components [https://styled-components.com/] for applying the styling. And]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
         </author>
     </entry>
 </feed>
