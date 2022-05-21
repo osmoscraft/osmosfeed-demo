@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365971",
+          "author": "Geoff Graham",
+          "description": "Zeldman:\nYou may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.\nThat would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …\nVerevolf originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/verevolf/",
+          "publishedOn": "2022-05-20T20:24:43.000Z",
+          "wordCount": 337,
+          "title": "Verevolf",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365971"
+        },
+        {
           "id": "https://css-tricks.com/?p=365784",
           "author": "Adam Rackis",
           "description": "Don’t you hate it when you load a website or web app, some content displays and then some images load — causing content to shift around? That’s called content reflow and can lead to an incredibly annoying user experience for …\nInline Image Previews with Sharp, BlurHash, and Lambda Functions originally published on CSS-Tricks. You should get the newsletter.",
@@ -184,16 +194,6 @@
           "wordCount": 4459,
           "title": "Writing Strong Front-end Test Element Locators",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364218"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364880",
-          "author": "Greg Sullivan",
-          "description": "In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …\nAdding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/",
-          "publishedOn": "2022-04-20T15:30:29.000Z",
-          "wordCount": 2462,
-          "title": "Adding Tailwind CSS to New and Existing WordPress Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364880"
         }
       ]
     },
@@ -202,6 +202,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
+          "author": "hello@smashingmagazine.com (Greg Dickens)",
+          "description": "In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.",
+          "link": "https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/",
+          "publishedOn": "2022-05-20T08:30:00.000Z",
+          "wordCount": 4362,
+          "title": "The Ultimate Free Solo Blog Setup With Ghost And Gatsby",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
           "author": "hello@smashingmagazine.com (Benjamin Ajibade)",
@@ -501,16 +516,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e6d3ba7a-2c86-4e64-b8e8-6d58adaafdba/testing-cli-way-people-use-it.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.",
-          "link": "https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/",
-          "publishedOn": "2022-04-21T10:00:00.000Z",
-          "wordCount": 3309,
-          "title": "Designing Better Navigation With Navigation Queries",
-          "imageUrl": "https:null"
         }
       ]
     },
@@ -519,6 +524,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/",
+          "author": "Ashutosh Krishna",
+          "description": "In this article, we will be covering an important topic, Security in Python.  We often download and install packages from PyPi but we're not sure about the vulnerabilities that might come with them.  So, in this tutorial, we will learn about an awesome tool called Snyk that helps",
+          "link": "https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/",
+          "publishedOn": "2022-05-20T18:08:14.000Z",
+          "wordCount": 1570,
+          "title": "How to Find and Fix Security Vulnerabilities Using Snyk",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/snyk-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/",
+          "author": "Natalie Pina",
+          "description": "A boolean is a primitive value [https://developer.mozilla.org/en-US/docs/Glossary/Primitive] that represents either true or false. In Boolean contexts, JavaScript utilizes type casting [https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion] to convert values to true/false. There are implicit and explicit methods to convert values into their boolean counterparts. This article provides an overview of truthy and falsy values and",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/",
+          "publishedOn": "2022-05-20T18:06:38.000Z",
+          "wordCount": 741,
+          "title": "How to Convert a Value to a Boolean in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Fashion-Sale--Banner--Landscape--.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-coding-used-for/",
+          "author": "Dionysia Lemonaki",
+          "description": "Are you aware of the millions of lines of code behind the applications and devices you use every day? Coding is used for many different purposes - more than you may realize. In this article, I will first go over what the term 'coding' actually means. Then, I will briefly",
+          "link": "https://www.freecodecamp.org/news/what-is-coding-used-for/",
+          "publishedOn": "2022-05-20T16:16:56.000Z",
+          "wordCount": 2676,
+          "title": "What is Coding Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/",
           "author": "Ihechikara Vincent Abba",
@@ -1558,76 +1593,6 @@
           "wordCount": 577,
           "title": "How to Remove a Property from a JavaScript Object",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/remove-property-from-js-object.jpeg"
-        },
-        {
-          "id": "625b6643ac55f60686c36806",
-          "author": "Caleb Olojo",
-          "description": "When I decided to build my blog, I found many tools out there that were readily available. I looked at Gastby [https://www.gatsbyjs.com/] along with content management systems like Ghost [https://ghost.org/], Contentful [https://www.contentful.com/], Sanity dot io [https://www.sanity.io/], and HUGO [https://gohugo.io/].  But I needed something that I could have total control",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/",
-          "publishedOn": "2022-04-21T02:28:29.000Z",
-          "wordCount": 4190,
-          "title": "How to Build Your Own Blog with Next.js and MDX",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/thoughts.jpg"
-        },
-        {
-          "id": "625eae40ac55f60686c381d2",
-          "author": "Ihechikara Vincent Abba",
-          "description": "FTP stands for File Transfer Protocol. This is a network/communication protocol for transferring files between computers over a TCP/IP (Transmission Control Protocol/Internet Protocol) network.  Examples of TCP/IP networks are:  * HTTP (Hypertext Transfer Protocol).  * HTTPS (Hypertext Transfer Protocol Secure).  * FTP (File Transfer Protocol). How",
-          "link": "https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/",
-          "publishedOn": "2022-04-21T01:01:16.000Z",
-          "wordCount": 940,
-          "title": "What is FTP? File Transfer Protocol and FTP Server Meaning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/thisisengineering-raeng-zBLtU0zbJcU-unsplash--1-.jpg"
-        },
-        {
-          "id": "624beda6ac55f60686c2e0f7",
-          "author": "Dionysia Lemonaki",
-          "description": "In this tutorial, you will learn why flushing your DNS cache is important, and how you can clear the cache on your local system. Here is what we'll discuss in this guide:  1. What is DNS cache? 1. Why flushing DNS cache is important",
-          "link": "https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/",
-          "publishedOn": "2022-04-21T00:15:54.000Z",
-          "wordCount": 1355,
-          "title": "How to Flush DNS on Mac – MacOS Clear DNS Cache",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg"
-        },
-        {
-          "id": "625d0d69ac55f60686c37241",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "The extern keyword in C and C++ extends the visibility of variables and functions across multiple source files.  In the case of functions, the extern keyword is used implicitly. But with variables, you have to use the keyword explicitly. I believe a simple code example can explain things better",
-          "link": "https://www.freecodecamp.org/news/extern-keyword-function-tutorial/",
-          "publishedOn": "2022-04-21T00:08:58.000Z",
-          "wordCount": 1216,
-          "title": "Extern – C and C++ Extern Keyword Function Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Extern---C-and-C---Extern-Keyword-Function-Tutorial.png"
-        },
-        {
-          "id": "6255cce5ac55f60686c330c4",
-          "author": "Rohit Jacob Mathew",
-          "description": "Most of us are used to logging into different accounts using a password. For years this has been the norm, but passwords also face security issues:  * They are extremely annoying when we don’t remember them and even harder to    reset  * They can be",
-          "link": "https://www.freecodecamp.org/news/intro-to-webauthn/",
-          "publishedOn": "2022-04-20T23:45:39.000Z",
-          "wordCount": 1675,
-          "title": "How WebAuthn Authenticates Users Without a Password",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/webauthn.jpeg"
-        },
-        {
-          "id": "625fe437ac55f60686c38f04",
-          "author": "Kolade Chris",
-          "description": "If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive",
-          "link": "https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/",
-          "publishedOn": "2022-04-20T15:39:02.000Z",
-          "wordCount": 1292,
-          "title": "dns_probe_finished_nxdomain Error [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/earth-931552_1920.jpg"
-        },
-        {
-          "id": "626007e4ac55f60686c3924f",
-          "author": "Beau Carnes",
-          "description": "Redux Toolkit is an opinionated toolset for efficient Redux development created by the Redux team. It is the the standard and recommended way to write Redux logic and manage state in your JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how",
-          "link": "https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/",
-          "publishedOn": "2022-04-20T13:33:54.000Z",
-          "wordCount": 492,
-          "title": "Learn Redux Toolkit – The Recommended Way to Use Redux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/reduxtoolkit.png"
         }
       ]
     }

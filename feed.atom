@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-20T01:19:47.140Z</updated>
+    <updated>2022-05-21T01:05:48.140Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Verevolf]]></title>
+        <id>https://css-tricks.com/?p=365971</id>
+        <link href="https://css-tricks.com/verevolf/"/>
+        <updated>2022-05-20T20:24:43.000Z</updated>
+        <summary type="html"><![CDATA[Zeldman:
+You may not know his name, but he played a huge part in creating the web you take for granted today. And he’s back—kind of.
+That would be Glenn Davis and the Verevolf site Zeldman’s talking about. The …
+Verevolf originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Find and Fix Security Vulnerabilities Using Snyk]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-find-and-fix-security-vulnerabilities-using-snyk/"/>
+        <updated>2022-05-20T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will be covering an important topic, Security in Python.  We often download and install packages from PyPi but we're not sure about the vulnerabilities that might come with them.  So, in this tutorial, we will learn about an awesome tool called Snyk that helps]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a Value to a Boolean in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-value-to-boolean-javascript/"/>
+        <updated>2022-05-20T18:06:38.000Z</updated>
+        <summary type="html"><![CDATA[A boolean is a primitive value [https://developer.mozilla.org/en-US/docs/Glossary/Primitive] that represents either true or false. In Boolean contexts, JavaScript utilizes type casting [https://developer.mozilla.org/en-US/docs/Glossary/Type_Conversion] to convert values to true/false. There are implicit and explicit methods to convert values into their boolean counterparts. This article provides an overview of truthy and falsy values and]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Coding Used For?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-coding-used-for/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-coding-used-for/"/>
+        <updated>2022-05-20T16:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Are you aware of the millions of lines of code behind the applications and devices you use every day? Coding is used for many different purposes - more than you may realize. In this article, I will first go over what the term 'coding' actually means. Then, I will briefly]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate Free Solo Blog Setup With Ghost And Gatsby]]></title>
+        <id>https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/</id>
+        <link href="https://smashingmagazine.com/2022/05/ultimate-free-solo-blog-setup-ghost-gatsby/"/>
+        <updated>2022-05-20T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will see step-by-step how you can get the best of customization with easy admin by using Ghost as a headless CMS for a Gatsby static site — everything for free.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Greg Dickens)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Double VS Float in C++ – The Difference Between Floats and Doubles]]></title>
         <id>https://www.freecodecamp.org/news/double-vs-float-in-cpp-the-difference-between-floats-and-doubles/</id>
@@ -1446,97 +1499,6 @@ Writing Strong Front-end Test Element Locators originally published on CSS-Trick
         <summary type="html"><![CDATA[There are two ways to remove a property from a JavaScript object. There's the mutable way of doing it using the delete operator, and the immutable way of doing it using object restructuring.  Let's go through each of these methods in this tutorial. Remove a Property from a JS]]></summary>
         <author>
             <name>Saransh Kataria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Better Navigation With Navigation Queries]]></title>
-        <id>https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/</id>
-        <link href="https://smashingmagazine.com/2022/04/designing-better-navigation-ux-queries/"/>
-        <updated>2022-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In UX, we can use navigation queries, evaluation journeys, A-Z index and tap-ahead autocomplete to help users get where they want to be, faster. Let’s find out how.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own Blog with Next.js and MDX]]></title>
-        <id>625b6643ac55f60686c36806</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-blog-with-next-js-and-mdx/"/>
-        <updated>2022-04-21T02:28:29.000Z</updated>
-        <summary type="html"><![CDATA[When I decided to build my blog, I found many tools out there that were readily available. I looked at Gastby [https://www.gatsbyjs.com/] along with content management systems like Ghost [https://ghost.org/], Contentful [https://www.contentful.com/], Sanity dot io [https://www.sanity.io/], and HUGO [https://gohugo.io/].  But I needed something that I could have total control]]></summary>
-        <author>
-            <name>Caleb Olojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is FTP? File Transfer Protocol and FTP Server Meaning]]></title>
-        <id>625eae40ac55f60686c381d2</id>
-        <link href="https://www.freecodecamp.org/news/what-is-ftp-file-transfer-protocol-and-ftp-server-meaning/"/>
-        <updated>2022-04-21T01:01:16.000Z</updated>
-        <summary type="html"><![CDATA[FTP stands for File Transfer Protocol. This is a network/communication protocol for transferring files between computers over a TCP/IP (Transmission Control Protocol/Internet Protocol) network.  Examples of TCP/IP networks are:  * HTTP (Hypertext Transfer Protocol).  * HTTPS (Hypertext Transfer Protocol Secure).  * FTP (File Transfer Protocol). How]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Flush DNS on Mac – MacOS Clear DNS Cache]]></title>
-        <id>624beda6ac55f60686c2e0f7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-flush-dns-on-mac-macos-clear-dns-cache/"/>
-        <updated>2022-04-21T00:15:54.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn why flushing your DNS cache is important, and how you can clear the cache on your local system. Here is what we'll discuss in this guide:  1. What is DNS cache? 1. Why flushing DNS cache is important]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extern – C and C++ Extern Keyword Function Tutorial]]></title>
-        <id>625d0d69ac55f60686c37241</id>
-        <link href="https://www.freecodecamp.org/news/extern-keyword-function-tutorial/"/>
-        <updated>2022-04-21T00:08:58.000Z</updated>
-        <summary type="html"><![CDATA[The extern keyword in C and C++ extends the visibility of variables and functions across multiple source files.  In the case of functions, the extern keyword is used implicitly. But with variables, you have to use the keyword explicitly. I believe a simple code example can explain things better]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How WebAuthn Authenticates Users Without a Password]]></title>
-        <id>6255cce5ac55f60686c330c4</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-webauthn/"/>
-        <updated>2022-04-20T23:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Most of us are used to logging into different accounts using a password. For years this has been the norm, but passwords also face security issues:  * They are extremely annoying when we don’t remember them and even harder to    reset  * They can be]]></summary>
-        <author>
-            <name>Rohit Jacob Mathew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dns_probe_finished_nxdomain Error [Solved]]]></title>
-        <id>625fe437ac55f60686c38f04</id>
-        <link href="https://www.freecodecamp.org/news/dns_probe_finished_nxdomain-error-solved/"/>
-        <updated>2022-04-20T15:39:02.000Z</updated>
-        <summary type="html"><![CDATA[If you are a regular Google Chrome user, then you might have encountered the error “dns_probe_finished_nxdomain” before. It is usually accompanied by “This site can’t be reached”. This error is associated with the Domain Name System (DNS) server and can occur due to misconfiguration in the DNS server, an unresponsive]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Tailwind CSS to New and Existing WordPress Themes]]></title>
-        <id>https://css-tricks.com/?p=364880</id>
-        <link href="https://css-tricks.com/adding-tailwind-css-to-wordpress-themes/"/>
-        <updated>2022-04-20T15:30:29.000Z</updated>
-        <summary type="html"><![CDATA[In the 15 or so years since I started making WordPress websites, nothing has had more of an impact on my productivity — and my ability to enjoy front-end development — than adding Tailwind CSS to my workflow (and it …
-Adding Tailwind CSS to New and Existing WordPress Themes originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Greg Sullivan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Redux Toolkit – The Recommended Way to Use Redux]]></title>
-        <id>626007e4ac55f60686c3924f</id>
-        <link href="https://www.freecodecamp.org/news/learn-redux-toolkit-the-recommended-way-to-use-redux/"/>
-        <updated>2022-04-20T13:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Redux Toolkit is an opinionated toolset for efficient Redux development created by the Redux team. It is the the standard and recommended way to write Redux logic and manage state in your JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
