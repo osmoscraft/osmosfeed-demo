@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-24T01:22:30.096Z</updated>
+    <updated>2022-05-25T01:21:57.635Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TypeError: can't multiply sequence by non-int of type 'float' [SOLVED]]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved/"/>
+        <updated>2022-05-24T23:30:53.000Z</updated>
+        <summary type="html"><![CDATA[When coding, you're likely to encounter errors. Error messages, in most cases, help you understand what the error is about. And understanding an error message is one of the steps in solving an error.  In this article, we'll talk about an error in Python – the "TypeError: can't multiply]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Caps in CSS - How to Uppercase Text with Style]]></title>
+        <id>https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/</id>
+        <link href="https://www.freecodecamp.org/news/all-caps-in-css-how-to-uppercase-text-with-style/"/>
+        <updated>2022-05-24T21:02:28.000Z</updated>
+        <summary type="html"><![CDATA[When you're designing a website or working on a project, you might want to use uppercase text for various reasons. Maybe you want to use an abbreviation or acronym, emphasize certain text, or use it for headings. There are multiple ways to uppercase text in HTML. The first way is]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Code Editor with React that Compiles and Executes in 40+ Languages]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/"/>
+        <updated>2022-05-24T16:54:28.000Z</updated>
+        <summary type="html"><![CDATA[An online code execution platform lets you write code in your favourite programming language and run that code on the same platform.  You can ideally see an output of the program that you've written (for example, a binary search program written in JavaScript). Today, we are going to build]]></summary>
+        <author>
+            <name>Manu Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Round to Int – How to Round Up or Round Down to the Nearest Whole Number]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-round-numbers-up-or-down-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-round-numbers-up-or-down-in-python/"/>
+        <updated>2022-05-24T16:52:40.000Z</updated>
+        <summary type="html"><![CDATA[When working with float values (numbers with decimal values) in our Python program, we might want to round them up or down, or to the nearest whole number.  In this article, we'll see some built-in functionalities that let us round numbers in Python. And we'll see how to use]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering SVG’s stroke-miterlimit Attribute]]></title>
+        <id>https://css-tricks.com/?p=365828</id>
+        <link href="https://css-tricks.com/mastering-svgs-stroke-miterlimit-attribute/"/>
+        <updated>2022-05-24T14:04:17.000Z</updated>
+        <summary type="html"><![CDATA[So, SVG has this stroke-miterlimit presentation attribute. You’ve probably seen it when exporting an SVG from a graphic editor program, or perhaps you find out you could remove it without noticing any change to the visual appearance.
+After a good …
+Mastering SVG’s stroke-miterlimit Attribute originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing An Award-Winning Onboarding Process (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/</id>
+        <link href="https://smashingmagazine.com/2022/05/developing-award-winning-onboarding-process-case-study/"/>
+        <updated>2022-05-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is a case study of how the platformOS team has researched, developed, and iteratively adjusted their onboarding processes over more than three years to eventually create the multiple award winning developer experience they provide today.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kata Nagygyörgy &amp; Diana Lakatos)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First Look At The CSS object-view-box Property]]></title>
         <id>https://css-tricks.com/?p=365992</id>
@@ -1431,16 +1493,6 @@ Avoiding the Pitfalls of Nested Components in a Design System originally publish
         <summary type="html"><![CDATA[Content loaders, skeleton screens, ghost elements, and content placeholders. These are the names given to the effect we'll be exploring today. Many companies, such as Linkedin, Facebook, Youtube and Slack, use this effect in their apps and websites, as you may have noticed. As much as we developers want our]]></summary>
         <author>
             <name>Israel Mitolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What If Our Sliders Actually Slid?]]></title>
-        <id>https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/</id>
-        <link href="https://smashingmagazine.com/2022/04/what-if-sliders-actually-slid-html-element-input-range/"/>
-        <updated>2022-04-25T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Jhey Tompkins explores one of GreenSocks’ newest plugins alongside React to create an impractical whimsical spin on a well-known native element: ``.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
         </author>
     </entry>
 </feed>
