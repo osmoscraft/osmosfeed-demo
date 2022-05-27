@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366107",
+          "author": "Geoff Graham",
+          "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/beautify-github-profile/",
+          "publishedOn": "2022-05-26T18:13:28.000Z",
+          "wordCount": 349,
+          "title": "Beautify GitHub Profile",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366107"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365946",
+          "author": "Temani Afif",
+          "description": "We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …\nCool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-hover-effects-background-masks-3d/",
+          "publishedOn": "2022-05-26T14:13:01.000Z",
+          "wordCount": 2787,
+          "title": "Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365946"
+        },
+        {
           "id": "https://css-tricks.com/?p=366077",
           "author": "Geoff Graham",
           "description": "Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …\nCustomizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.",
@@ -224,16 +244,6 @@
           "wordCount": 3530,
           "title": "Cool Hover Effects That Use Background Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365359",
-          "author": "Dan Christofi",
-          "description": "When creating a component-based, front-end infrastructure, one of the biggest pain points I’ve personally encountered is making components that are both reusable and responsive when there are nested components within components.\nTake the following “call to action” (<CTA />…\nAvoiding the Pitfalls of Nested Components in a Design System originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/nested-components-in-a-design-system/",
-          "publishedOn": "2022-04-26T14:30:20.000Z",
-          "wordCount": 2057,
-          "title": "Avoiding the Pitfalls of Nested Components in a Design System",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365359"
         }
       ]
     },
@@ -242,6 +252,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
+          "author": "hello@smashingmagazine.com (Daniel Yuschik)",
+          "description": "From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.",
+          "link": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
+          "publishedOn": "2022-05-26T09:30:00.000Z",
+          "wordCount": 2875,
+          "title": "Manage Accessible Design System Themes With CSS Color-Contrast()",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e098dbe-b9e0-4b6e-8798-c3a695242367/accessible-design-system-themes-css-color-contrast.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e098dbe-b9e0-4b6e-8798-c3a695242367/accessible-design-system-themes-css-color-contrast.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/understanding-weak-reference-javascript/",
           "author": "hello@smashingmagazine.com (Frank Joseph)",
@@ -541,21 +566,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "We should be able to measure how well a particular design solves a particular problem. Let’s explore design KPIs that capture user’s experience, how to measure them and how to keep both users and business stakeholders happy, over time.",
-          "link": "https://smashingmagazine.com/2022/04/boosting-ux-with-design-kpis/",
-          "publishedOn": "2022-04-27T08:30:00.000Z",
-          "wordCount": 1532,
-          "title": "Boosting UX With Design KPIs",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1021a1ce-ec58-4b8f-837f-e7d4aa3f8448/boosting-ux-with-design-kpis.jpg"
         }
       ]
     },
@@ -564,6 +574,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/",
+          "author": "Beau Carnes",
+          "description": "There are thousands of open jobs related to blockchain development companies like IBM, VMware, and Deloitte. We just published a 30-hour course on the freeCodeCamp.org YouTube channel that will help you learn skills related to blockchain, Solidity, and Web3 development. If you are interested in learning about blockchain development, this",
+          "link": "https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/",
+          "publishedOn": "2022-05-26T19:00:01.000Z",
+          "wordCount": 510,
+          "title": "Learn Blockchain, Solidity, and Full Stack JavaScript Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/blockchain1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/",
+          "author": "Dillion Megida",
+          "description": "In JavaScript, you use RegEx to match patterns in characters. Combining this with the .split() string method gives you more splitting powers. The string constructor has many useful methods [https://dillionmegida.com/p/10-useful-string-methods-in-javascript/], one of which is the split() method. You use this method to split a string into an array of substrings",
+          "link": "https://www.freecodecamp.org/news/javascript-string-split-example-with-regex/",
+          "publishedOn": "2022-05-26T18:31:08.000Z",
+          "wordCount": 663,
+          "title": "JavaScript String.Split() Example with RegEx",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/string-split-with-regex.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pyscript-python-front-end-framework/",
+          "author": "Ifihanagbara Olusheye",
+          "description": "Python has grown in popularity immensely in recent years. It has a wide range of applications, from its most popular use in Artificial Intelligence, to Data Science, Robotics, and Scripting.  In the web development field, Python is used mainly on the backend with frameworks such as Django and Flask.",
+          "link": "https://www.freecodecamp.org/news/pyscript-python-front-end-framework/",
+          "publishedOn": "2022-05-26T15:37:08.000Z",
+          "wordCount": 1716,
+          "title": "How to Use PyScript – A Python Frontend Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Screenshot-2022-05-26-at-13.28.49.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lexical-scope-in-javascript/",
+          "author": "Keyur Paralkar",
+          "description": "In this article, we are going to understand what lexical scope is by going through some helpful examples.  We will also have a brief discussion about how JavaScript compiles and executes programs.  Lastly, we will have a look at how you can use lexical scope to explain undeclared",
+          "link": "https://www.freecodecamp.org/news/lexical-scope-in-javascript/",
+          "publishedOn": "2022-05-26T15:27:00.000Z",
+          "wordCount": 2007,
+          "title": "Lexical Scope in JavaScript – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/spacex--p-KCm6xB9I-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/",
+          "author": "Emmanuel Ohans",
+          "description": "Hey everyone! 😎 In this detailed guide, I’ll show you how to build strongly typed Polymorphic React components with Typescript. If you prefer to read the entire guide in a single PDF document, you can download the accompanying free PDF [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components] . You can download the eBook for free [https://www.ohansemmanuel.com/books/how-to-build-strongly-typed-polymorphic-react-components]",
+          "link": "https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/",
+          "publishedOn": "2022-05-26T14:49:10.000Z",
+          "wordCount": 8262,
+          "title": "Intermediate TypeScript and React Handbook – How to Build Strongly Typed Polymorphic Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/6Lc6ro2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/",
           "author": "Fabio Pacific",
@@ -583,6 +643,16 @@
           "wordCount": 1395,
           "title": "Twitter Emoji – How to Use Twemoji on Your Website",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Frame-451-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-test-react-applications/",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular frontend JavaScript frameworks. If you want to make sure that your React apps work as intended, it is important to write comprehensive tests. We just published a React testing course on the freeCodeCamp.org YouTube channel that will teach you how to build, deploy,",
+          "link": "https://www.freecodecamp.org/news/how-to-test-react-applications/",
+          "publishedOn": "2022-05-25T16:46:00.000Z",
+          "wordCount": 17157,
+          "title": "How to Test React Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/reacttesting.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-css-grid-layout/",
@@ -1433,106 +1503,6 @@
           "wordCount": 523,
           "title": "Learn Assembly Language Programming with ARM",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/arm.png"
-        },
-        {
-          "id": "626074adac55f60686c397ae",
-          "author": "Zaira Hira",
-          "description": "Linux is a multi user OS which means that it supports multiple users at a time.  As many people can access the system simultaneously and some resources are shared, Linux controls access through ownership and permissions.  Linux file ownership In Linux, there are three types of owners: user,",
-          "link": "https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/",
-          "publishedOn": "2022-04-27T00:38:38.000Z",
-          "wordCount": 2154,
-          "title": "Linux chmod and chown – How to Change File Permissions and Ownership in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/guided-exercise--1-.png"
-        },
-        {
-          "id": "6262b979ac55f60686c3aca1",
-          "author": "Sonia",
-          "description": "Questions about the Fibonacci Series are some of the most commonly asked in Python interviews.  In this article, I'll explain a step-by-step approach on how to print the Fibonacci sequence using two different techniques, iteration and recursion.  Before we begin, let's first understand some basic terminology. What is",
-          "link": "https://www.freecodecamp.org/news/python-program-to-print-the-fibonacci-sequence/",
-          "publishedOn": "2022-04-27T00:34:03.000Z",
-          "wordCount": 2048,
-          "title": "Python Program to Print the Fibonacci Sequence",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-jeff-wang-462402.jpg"
-        },
-        {
-          "id": "6253a5fcac55f60686c31c25",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "In this article, we'll learn a few different ways to resize elements and groups in Figma (in addition to the default method). We'll also learn how to resize frames without moving elements in the frames. In Figma, there are other ways to resize elements apart from the default method. So",
-          "link": "https://www.freecodecamp.org/news/how-to-resize-elements-in-figma/",
-          "publishedOn": "2022-04-26T23:05:31.000Z",
-          "wordCount": 876,
-          "title": "How to Resize Elements in Figma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/-D2F9C577-3AF7-49B1-8D11-728923BFBA68-.png"
-        },
-        {
-          "id": "6255a0d4ac55f60686c32eaa",
-          "author": "Aris Zagakos",
-          "description": "In this article we will discuss Homomorphic Encryption, the problem that it solves, and the different types that exist.  Then we will write code in Python to show some of its capabilities in action. Here's what we'll cover:  1. What is Homomorphic Encryption?  2. Advantages of Homomorphic",
-          "link": "https://www.freecodecamp.org/news/introduction-to-homomorphic-encryption/",
-          "publishedOn": "2022-04-26T23:01:28.000Z",
-          "wordCount": 1204,
-          "title": "What is Homomorphic Encryption?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Homomorphic-Encryption-3--1.png"
-        },
-        {
-          "id": "6265c16bac55f60686c3bf05",
-          "author": "Popoola Temitope",
-          "description": "Vite.js [/news/p/e534a679-ce3c-4cf1-842b-96087d30944d/Vite.js] is a rapid development tool for modern web projects. It focuses on speed and performance by improving the development experience. Vite uses native browser ES imports to enable support for modern browsers without a build process. Vite consists of two major parts:  * The dev server provides",
-          "link": "https://www.freecodecamp.org/news/get-started-with-vite/",
-          "publishedOn": "2022-04-26T21:41:58.000Z",
-          "wordCount": 1301,
-          "title": "Vite.js Tutorial – How to Install and Use Vite in Your Web Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/getting-started-with-vite.png"
-        },
-        {
-          "id": "6259a28cac55f60686c35b31",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we will talk about memoization, an optimization technique that can help make heavy computation processes more efficient. We will start by talking about what memoization is and when it's best to implement it. Later on we will give practical examples for JavaScript and React. Table",
-          "link": "https://www.freecodecamp.org/news/memoization-in-javascript-and-react/",
-          "publishedOn": "2022-04-26T21:16:12.000Z",
-          "wordCount": 2485,
-          "title": "What is Memoization? How and When to Memoize in JavaScript and React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-thisisengineering-3913016.jpg"
-        },
-        {
-          "id": "622864b663ded806bb9e6f8d",
-          "author": "Dionysia Lemonaki",
-          "description": "Sometimes you might want to delay the execution of your code. You may need certain lines of code to execute at a point in the future, when you explicitly specify, rather than all the code executing synchronously. Something like that is possible with JavaScript. In this article, you will learn",
-          "link": "https://www.freecodecamp.org/news/javascript-wait-how-to-sleep-n-seconds-in-js-with-settimeout/",
-          "publishedOn": "2022-04-26T19:14:41.000Z",
-          "wordCount": 1315,
-          "title": "JavaScript Wait – How to Sleep N Seconds in JS with .setTimeout()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nikita-kachanovsky-OVbeSXRk_9E-unsplash.jpg"
-        },
-        {
-          "id": "626595d9ac55f60686c3bcb6",
-          "author": "Jessica Wilkins",
-          "description": "There will be many times where you will need to center some text using HTML and CSS. But what is the best way to go about that? In this article, I will show you how to use the text-align property in CSS and show you how to vertically align text",
-          "link": "https://www.freecodecamp.org/news/text-align-in-css-how-to-align-text-in-center-with-html/",
-          "publishedOn": "2022-04-26T19:08:29.000Z",
-          "wordCount": 778,
-          "title": "Text Align in CSS – How to Align Text in Center with HTML",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/nick-karvounis-TkZYCXmrKK4-unsplash.jpg"
-        },
-        {
-          "id": "6267fd8cc1c601068f4e77d0",
-          "author": "Kolade Chris",
-          "description": "If you are just getting started in Python, for loops are one of the fundamentals you should learn how to use. In the Python programming language, for loops are also called “definite loops” because they perform the instruction a certain number of times. This is in contrast to while loops,",
-          "link": "https://www.freecodecamp.org/news/python-for-loop-example-how-to-write-loops-in-python/",
-          "publishedOn": "2022-04-26T19:01:37.000Z",
-          "wordCount": 1672,
-          "title": "Python For Loop Example – How to Write Loops in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/forLoop.png"
-        },
-        {
-          "id": "6260a9fcac55f60686c399f9",
-          "author": "Dillion Megida",
-          "description": "We use icons when building frontend applications all the time – for indications, pointers, and so on. Here's how to create a reusable React component for icons. When it comes to icons, you can use PNG or SVG images. PNGs come with a fixed color but allow dimension changes (like",
-          "link": "https://www.freecodecamp.org/news/how-to-create-reusable-icon-react-components-for-colors-and-sizes-customization/",
-          "publishedOn": "2022-04-26T18:22:02.000Z",
-          "wordCount": 920,
-          "title": "How to Create Reusable SVG Icon React Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-chait-goli-2088233.jpg"
         }
       ]
     }
