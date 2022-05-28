@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366068",
+          "author": "Geoff Graham",
+          "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
+          "publishedOn": "2022-05-27T14:25:39.000Z",
+          "wordCount": 839,
+          "title": "Just How Long Should Alt Text Be?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
+        },
+        {
           "id": "https://css-tricks.com/?p=366107",
           "author": "Geoff Graham",
           "description": "It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …\nBeautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.",
@@ -234,16 +244,6 @@
           "wordCount": 2861,
           "title": "Setting Up CloudFront to Host Your Web App",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365413"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365383",
-          "author": "Temani Afif",
-          "description": "A while ago, Geoff wrote an article about a cool hover effect. The effect relies on a combination of CSS pseudo-elements, transforms, and transitions. A lot of comments have shown that the same effect can be done using background …\nCool Hover Effects That Use Background Properties originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/cool-hover-effects-using-background-properties/",
-          "publishedOn": "2022-04-27T14:20:07.000Z",
-          "wordCount": 3530,
-          "title": "Cool Hover Effects That Use Background Properties",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365383"
         }
       ]
     },
@@ -252,6 +252,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
+          "author": "hello@smashingmagazine.com (Vijay Verma)",
+          "description": "In this article, Vijay describes his learning experiences during the design stages of creating his 3dicons image library (a free library for product screens, social media posts and marketing campaigns), which you can download and use for free.",
+          "link": "https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/",
+          "publishedOn": "2022-05-27T09:00:00.000Z",
+          "wordCount": 3064,
+          "title": "Open-Source 3dicons Library: Case Study And Free Downloads",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/af9b67f7-433c-421a-8fe6-14878b3f884d/3dicons-open-source-library-case-study-download.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/",
           "author": "hello@smashingmagazine.com (Daniel Yuschik)",
@@ -551,21 +566,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3bb74cff-2774-45a7-8961-e255d6305d2a/partytown-eliminates-website-bloat-third-party-apps.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
-          "author": "hello@smashingmagazine.com (Nathan Smith)",
-          "description": "In this article, Nathan Smith explains how to create modal dialog windows with rich interaction that will only require authoring HTML in order to be used. They are based on Web Components that are currently supported by every major browser.",
-          "link": "https://smashingmagazine.com/2022/04/cta-modal-build-web-component/",
-          "publishedOn": "2022-04-28T09:30:00.000Z",
-          "wordCount": 4769,
-          "title": "CTA Modal: How To Build A Web Component",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bbadf16-a6e1-4d24-ba72-77cc51e3cc4e/cta-modal-build-web-component.jpg"
         }
       ]
     },
@@ -574,6 +574,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're working with a collection of variables or data in programming, you usually store them in specific data types.  In C++, you can store them in arrays, structures, vectors, strings and so on. While these data structures have their distinctive features, we'll focus mainly on the various methods",
+          "link": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
+          "publishedOn": "2022-05-27T20:08:33.000Z",
+          "wordCount": 1435,
+          "title": "C++ Vector – How to Initialize a Vector in a Constructor in C++",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/uday-awal-UjJWhMerJx0-unsplash--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-for-loops/",
+          "author": "Joel Olawanle",
+          "description": "Loops are a programming concept that we constantly encounter and implement as JavaScript developers.  And many developers are familiar with loops, but not everyone understands how they work and why or when they should use a specific type of loop. In this article, we will learn what for loops",
+          "link": "https://www.freecodecamp.org/news/javascript-for-loops/",
+          "publishedOn": "2022-05-27T16:32:36.000Z",
+          "wordCount": 1666,
+          "title": "JavaScript For Loop – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/for-loops.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/",
+          "author": "Beau Carnes",
+          "description": "A chrome extension is a software program that is designed to run within the Google Chrome web browser. Extensions can add a variety of functionality to the browser, including providing tools for web development, adding features to the browser interface, and changing the behavior of web pages. We just published",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/",
+          "publishedOn": "2022-05-27T14:35:37.000Z",
+          "wordCount": 9832,
+          "title": "How to Build a Chrome Extension",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/ext.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-blockchain-solidity-full-stack-javascript-development/",
           "author": "Beau Carnes",
@@ -1433,76 +1463,6 @@
           "wordCount": 589,
           "title": "Learn Blazor WebAssembly and Web API on .NET 6 by Building a Shopping Cart App",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/blazorwa.png"
-        },
-        {
-          "id": "6267958cc1c601068f4e758d",
-          "author": "Shruti Kapoor",
-          "description": "Do you ever find it challenging to work on your project, side hustle, or even your hobby?  Have you ever had those moments where nothing feels exciting? You lay in bed thinking – is it me, or is my work that boring?  I have those days too. Some",
-          "link": "https://www.freecodecamp.org/news/create-a-habit-system-and-stay-motivated-as-a-developer/",
-          "publishedOn": "2022-04-28T00:43:46.000Z",
-          "wordCount": 2045,
-          "title": "How to Create a Habit System and Stay Motivated as a Developer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-philip-ackermann-878151.jpg"
-        },
-        {
-          "id": "62458d52138a19064b069054",
-          "author": "Ihechikara Vincent Abba",
-          "description": "There are a few common coding problems you might encounter when you start practicing what you've learned by building projects. One common problem you'll face as a web developer is how to place an element at the center of a page or within an element acting as its container. It's",
-          "link": "https://www.freecodecamp.org/news/how-to-center-a-div-with-css/",
-          "publishedOn": "2022-04-27T19:58:59.000Z",
-          "wordCount": 1072,
-          "title": "How to Center a Div with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043-1.jpg"
-        },
-        {
-          "id": "626919edc1c601068f4e809e",
-          "author": "Kolade Chris",
-          "description": "Sending large files through email can be quite challenging. This is because each email client has a size limit for file sharing. Gmail and Yahoo limit file size to 25MB, while outlook and iCloud limit files to 20MB. So, if you decide to send, for example, a video file larger",
-          "link": "https://www.freecodecamp.org/news/how-to-send-large-video-files-share-a-big-file-with-email/",
-          "publishedOn": "2022-04-27T19:51:49.000Z",
-          "wordCount": 883,
-          "title": "How to Send Large Video Files – Share a Big File with Email",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/technology-2125547_1280.jpg"
-        },
-        {
-          "id": "6266b589ac55f60686c3c44f",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are a Linux user, then you've likely used the GNOME Desktop Environment at least once. The latest GNOME DE (Desktop Environment) uses Wayland nowadays. And while it's possible to remove Wayland and select Xorg if you want, most users are starting to use Wayland as their daily driver.",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/",
-          "publishedOn": "2022-04-27T19:33:58.000Z",
-          "wordCount": 911,
-          "title": "How to Fix Google Chrome Black Screen on Linux OS (Wayland)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Fix---1-.png"
-        },
-        {
-          "id": "6267fe2ec1c601068f4e77da",
-          "author": "Arjav Dave",
-          "description": "Docker has become increasingly popular over the last several years. One reason for this is that you can create portable containers which are fast and easy to deploy.  As described on Docker's website [https://www.docker.com/resources/what-container/], a container is something that packages your code along with any other dependencies so that",
-          "link": "https://www.freecodecamp.org/news/run-multiple-containers-with-docker-compose/",
-          "publishedOn": "2022-04-27T19:31:29.000Z",
-          "wordCount": 2559,
-          "title": "How to Run Multiple Containers with Docker Compose",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/docker-compose-scaled-1.jpeg"
-        },
-        {
-          "id": "625fc3caac55f60686c38ce0",
-          "author": "Kaushal Joshi",
-          "description": "Docker is a platform that helps you build, run, and ship applications in a seamless and error-free way.  You've likely come across a scenario where the code is running on your machine, but is somehow throwing errors on someone else's machine.  Well, Docker was created to solve this",
-          "link": "https://www.freecodecamp.org/news/build-and-push-docker-images-to-aws-ecr/",
-          "publishedOn": "2022-04-27T16:38:22.000Z",
-          "wordCount": 2324,
-          "title": "How to Build and Push Docker Images to AWS ECR",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/How-to-Build-and-Push-Docker-Images-to-AWS-ECR.png"
-        },
-        {
-          "id": "6269557fc1c601068f4e8127",
-          "author": "Beau Carnes",
-          "description": "Assembly language is a low-level programming language for a computer or other programmable device that is closest to the machine language. It is often specific to a particular computer architecture so there are multiple types of assembly languages. ARM is an increasingly popular assembly language.  We just published a",
-          "link": "https://www.freecodecamp.org/news/learn-assembly-language-programming-with-arm/",
-          "publishedOn": "2022-04-27T14:49:31.000Z",
-          "wordCount": 523,
-          "title": "Learn Assembly Language Programming with ARM",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/arm.png"
         }
       ]
     }
