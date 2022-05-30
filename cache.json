@@ -224,16 +224,6 @@
           "wordCount": 1006,
           "title": "Creating Realistic Reflections With CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365491"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365447",
-          "author": "Jhey Tompkins",
-          "description": "Howdy y’all! Unless you’ve been living under a rock (and maybe even then), you’ve undoubtedly heard the news that CSS-Tricks, was acquired by DigitalOcean. Congratulations to everyone! 🥳\nAs a little hurrah to commemorate the occasion, I wanted to …\nCreating the DigitalOcean Logo in 3D With CSS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-the-digitalocean-logo-in-3d-with-css/",
-          "publishedOn": "2022-04-29T14:37:10.000Z",
-          "wordCount": 2985,
-          "title": "Creating the DigitalOcean Logo in 3D With CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365447"
         }
       ]
     },
@@ -526,21 +516,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7fae9333-8fe0-468f-bc90-274417de15c3/you-dont-need-ui-framework.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome May with a new collection of wallpapers. Designed with love by artists and designers from across the globe, they come in versions with and without a calendar for May 2022.",
-          "link": "https://smashingmagazine.com/2022/04/desktop-wallpaper-calendars-may-2022/",
-          "publishedOn": "2022-04-30T08:00:00.000Z",
-          "wordCount": 2277,
-          "title": "Make A Wish (May 2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d3692b2-3bab-4645-95a2-a488c22eae5f/may-22-kira-preview-opt.png"
         }
       ]
     },
@@ -549,6 +524,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-split-string/",
+          "author": "Quincy Larson",
+          "description": "Do you want to turn a string into an array of strings using Python? One way to do this is with Python's built-in .split() method. Here's an example of how to do this in the Python command line: >>> string1 = \"test your might\" >>> string1.split(\" \"); # Output: ['test',",
+          "link": "https://www.freecodecamp.org/news/python-split-string/",
+          "publishedOn": "2022-05-29T20:27:27.000Z",
+          "wordCount": 783,
+          "title": "Python .split() – Splitting a String in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/mariana-jm-UvdzLNj1Vmk-unsplash_jpg.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/",
+          "author": "Quincy Larson",
+          "description": "Here is the full Lorem Ipsum text from 55 BC: Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.  Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur",
+          "link": "https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/",
+          "publishedOn": "2022-05-29T13:24:56.000Z",
+          "wordCount": 1096,
+          "title": "Lorem Ipsum Placeholder Text – Long Latin Filler Text and its History",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Lorem-Ipsum.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-space-how-to-add-spaces/",
+          "author": "Quincy Larson",
+          "description": "Adding a space to your HTML can be deceptively difficult. And there are at least 5 of ways to go about doing this.  This tutorial will show you several examples. It will also show you how to use fancy versions of space, too. You can do all this in",
+          "link": "https://www.freecodecamp.org/news/html-space-how-to-add-spaces/",
+          "publishedOn": "2022-05-29T00:47:27.000Z",
+          "wordCount": 838,
+          "title": "HTML Space – How to Add Spaces in HTML",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jeremy-thomas-E0AHdsENmDg-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/cpp-vector-how-to-initialize-a-vector-in-a-constructor/",
           "author": "Ihechikara Vincent Abba",
