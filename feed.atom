@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-01T01:43:45.559Z</updated>
+    <updated>2022-06-02T01:23:19.470Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is an SVG File?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-an-svg-file/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-svg-file/"/>
+        <updated>2022-06-01T16:05:04.000Z</updated>
+        <summary type="html"><![CDATA[SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet. You can identify SVG files by their extension – .svg. Unlike other popular image formats like PNG, JPEG, and JPG – which store image information in form of pixels because]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Indent HTML Code – And Why it's Important]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/"/>
+        <updated>2022-06-01T15:40:55.000Z</updated>
+        <summary type="html"><![CDATA[When you are building out HTML files, it's really important to indent your code. But how do you do that in HTML and why is it important? In this article, I will show you how to properly indent your HTML files and explain why it is important to properly format]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Block Theme Patterns in WordPress 6.0]]></title>
+        <id>https://css-tricks.com/?p=365841</id>
+        <link href="https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/"/>
+        <updated>2022-06-01T15:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …
+How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Machine Learning Model as a Web App Using Gradio]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/"/>
+        <updated>2022-06-01T15:14:51.000Z</updated>
+        <summary type="html"><![CDATA[You've built your Machine Learning model with 99% accuracy and now you are ecstatic. You are like yaaaaaaaaay! My model performed well.  Then you paused and you were like – now what?  Well first, you might have thought of uploading your code to GitHub and showing people your]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPAs, Shared Element Transitions, and Re-Evaluating Technology]]></title>
+        <id>https://css-tricks.com/?p=366175</id>
+        <link href="https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/"/>
+        <updated>2022-06-01T14:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):
+Hip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” 
+…
+SPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Sink Your Website With Third Parties]]></title>
+        <id>https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/</id>
+        <link href="https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/"/>
+        <updated>2022-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ken Harker explains what third-party resource requests really are and which common optimization strategies can help reduce the impact on the user experience. By carefully considering how third-party requests will fit into your website during the design stage, you’ll be able to avoid the most significant negative impacts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ken Harker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Apply to Google Summer of Code – GSoC Application Guide]]></title>
         <id>https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/</id>
@@ -1311,117 +1375,6 @@ Syntax Highlighting (and More!) With Prism on a Static Site originally published
 Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Nick Sypteras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Don’t Need A UI Framework]]></title>
-        <id>https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/</id>
-        <link href="https://smashingmagazine.com/2022/05/you-dont-need-ui-framework/"/>
-        <updated>2022-05-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers often reach for UI frameworks like Bootstrap or Material UI, hoping that they’ll save a bunch of time and quickly build a professional-looking app. Unfortunately, things rarely work out this way. Let’s talk about it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Josh Comeau)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Principles – A List of the Principles of Design]]></title>
-        <id>624bed87ac55f60686c2e0ef</id>
-        <link href="https://www.freecodecamp.org/news/design-principles-a-list-of-the-principles-of-design/"/>
-        <updated>2022-05-02T22:41:41.000Z</updated>
-        <summary type="html"><![CDATA[When you start learning graphic design theory, you may be surprised to find out that there are specific rules you need to follow when designing. Those rules are known as design principles, and in this article, you will learn the basics of the 13 design principles. Knowing what design principles]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert a String to a Number in JavaScript]]></title>
-        <id>626e3d0bc1c601068f4ea71d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-number-in-javascript/"/>
-        <updated>2022-05-02T22:25:54.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to convert a string into a number using JavaScript. But what does that look like in code?  In this article, I will show you 11 ways to convert a string into a number.  How to convert a string to a number in JavaScript using]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Int to String in C++ – How to Convert an Integer with to_string]]></title>
-        <id>626c00bdc1c601068f4e918e</id>
-        <link href="https://www.freecodecamp.org/news/int-to-string-in-cpp-how-to-convert-an-integer-with-tostring/"/>
-        <updated>2022-05-02T21:01:13.000Z</updated>
-        <summary type="html"><![CDATA[When working with strings in your code, you might want to perform certain operations like concatenating (or linking together) two strings.  But there are cases when you'd rather work with numerical values as though they were strings because concatenating a string and an integer will give you an error.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Index – How to Find the Index of an Element in a List]]></title>
-        <id>62652501ac55f60686c3b91b</id>
-        <link href="https://www.freecodecamp.org/news/python-index-find-index-of-element-in-list/"/>
-        <updated>2022-05-02T20:59:13.000Z</updated>
-        <summary type="html"><![CDATA[When you're learning to code, you eventually learn about lists and the different operations you can perform on them.  In this article, we'll go through how you can find the index of a particular element which is stored in a list in Python. What is a List in Python?]]></summary>
-        <author>
-            <name>Suchandra Datta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Collaborative Coding? Pair Programming, Mob Programming, and How it All Works]]></title>
-        <id>626cee91c1c601068f4e995b</id>
-        <link href="https://www.freecodecamp.org/news/collaborative-coding-tips/"/>
-        <updated>2022-05-02T20:13:44.000Z</updated>
-        <summary type="html"><![CDATA[Coding is not supposed to be a steep mountain climb. And it can get a lot easier if you have the right strategies and tools.  After all, as noted software engineer and writer Joel Spolsky [http://blogs.perl.org/users/buddy_burden/2013/12/perl-and-me-part-4-a-worthy-program-exceedingly-well-read.html#note1]  says, "it is harder to read code than to write it." One]]></summary>
-        <author>
-            <name>Andrej Kovacevic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bash Command Line Tips to Help You Work Faster]]></title>
-        <id>626c29dac1c601068f4e92e3</id>
-        <link href="https://www.freecodecamp.org/news/bash-command-line-tips-to-help-you-work-faster/"/>
-        <updated>2022-05-02T19:56:22.000Z</updated>
-        <summary type="html"><![CDATA[Learning the command line is essential for any aspiring developer. And to execute commands on the command line, you need a shell. The Bash shell is popular in Unix-like operating systems like Mac and Linux. In fact in most Linux distros, Bash is the default shell. You can also use]]></summary>
-        <author>
-            <name>Vinod Mathew Sebastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sudo apt-get update VS upgrade – What is the Difference?]]></title>
-        <id>6262bcd7ac55f60686c3acd4</id>
-        <link href="https://www.freecodecamp.org/news/sudo-apt-get-update-vs-upgrade-what-is-the-difference/"/>
-        <updated>2022-05-02T19:30:12.000Z</updated>
-        <summary type="html"><![CDATA[sudo apt-get update and sudo apt-get upgrade are two commands you can use to keep all of your packages up to date in Debian or a Debian-based Linux distribution. They're common commands for Linux admins and people doing DevOps, but are handy to know even if you don't use the]]></summary>
-        <author>
-            <name>Kris Koishigawa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is ANAME? ANAME Record DNS Tutorial]]></title>
-        <id>626b9e1cc1c601068f4e8d20</id>
-        <link href="https://www.freecodecamp.org/news/what-is-aname-aname-record-dns-tutorial/"/>
-        <updated>2022-05-02T18:02:19.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever had to make a domain name work with a website, you’ve probably seen ANAME as some record – just like the popular Canonical name record type or simply CNAME. CNAME and ANAME are both solutions for pointing a hostname to your website. For example, yourapp.netlify.com to yourwebsite.com.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Paradigms – Paradigm Examples for Beginners]]></title>
-        <id>6267194ac1c601068f4e72c2</id>
-        <link href="https://www.freecodecamp.org/news/an-introduction-to-programming-paradigms/"/>
-        <updated>2022-05-02T16:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at programming paradigms, a fancy title to describe popular ways or styles to organize your programming. I'll try to break it down in pieces and give a simple explanation of each paradigm. This way you can understand what people]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Realistic Reflections With CSS]]></title>
-        <id>https://css-tricks.com/?p=365491</id>
-        <link href="https://css-tricks.com/creating-realistic-reflections-with-css/"/>
-        <updated>2022-05-02T14:14:07.000Z</updated>
-        <summary type="html"><![CDATA[In design, reflections are stylized mirror images of objects. Even though they are not as popular as shadows, they have their moments — just think about the first time you explored the different font formats in MS Word or PowerPoint: …
-Creating Realistic Reflections With CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
 </feed>
