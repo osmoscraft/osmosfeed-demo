@@ -224,16 +224,6 @@
           "wordCount": 2726,
           "title": "Syntax Highlighting (and More!) With Prism on a Static Site",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365510"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364932",
-          "author": "Nick Sypteras",
-          "description": "If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …\nAdding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/adding-custom-github-badges-to-your-repo/",
-          "publishedOn": "2022-05-03T14:28:00.000Z",
-          "wordCount": 1811,
-          "title": "Adding Custom GitHub Badges to Your Repo",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364932"
         }
       ]
     },
@@ -242,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.",
+          "link": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
+          "publishedOn": "2022-06-02T09:30:00.000Z",
+          "wordCount": 4596,
+          "title": "How To Build A Group Chat App With Vanilla JS, Twilio And Node.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd5325c3-f376-4565-9ce4-a3798d7d33b3/build-group-chat-app-vanillajs-twilio-nodejs.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/06/dont-sink-website-third-parties/",
           "author": "hello@smashingmagazine.com (Ken Harker)",
@@ -556,21 +561,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!",
-          "link": "https://smashingmagazine.com/2022/05/designing-better-language-selector/",
-          "publishedOn": "2022-05-04T10:00:00.000Z",
-          "wordCount": 6036,
-          "title": "Designing A Better Language Selector",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec0dac36-90ba-4295-b51b-f095fb2d90ff/designing-better-language-selector.jpg"
         }
       ]
     },
@@ -579,6 +569,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-started-with-php/",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "Hello and welcome to this tutorial, everyone. Today, we'll look at how you can set up and use PHP in a project.  But before we get started, we'll need to understand what PHP is all about. What is PHP? PHP is an abbreviation or acronym for \"Hypertext Preprocessor.\" It's",
+          "link": "https://www.freecodecamp.org/news/how-to-get-started-with-php/",
+          "publishedOn": "2022-06-02T15:11:07.000Z",
+          "wordCount": 1505,
+          "title": "PHP Tutorial – How to Setup PHP and XAMPP for Your Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/PHP.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-comments-how-to-comment-out-css/",
+          "author": "Kolade Chris",
+          "description": "Commenting is an integral part of any programming language, and CSS is no exception. If you have a very large project or you work in a team, then you'll need to help others understand your CSS stylesheet better by adding comments to it. Since stylesheets can get complicated and verbose",
+          "link": "https://www.freecodecamp.org/news/css-comments-how-to-comment-out-css/",
+          "publishedOn": "2022-06-02T14:49:40.000Z",
+          "wordCount": 672,
+          "title": "CSS Comments – How to Comment out CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/CSSComment.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/",
+          "author": "Beau Carnes",
+          "description": "Heroku is a platform as a service that enables developers to build, run, and operate applications entirely in the cloud. Heroku makes it simple to do things like create virtual machines to host applications and to deploy websites. Some of the features that Heroku offers can actually be created easily",
+          "link": "https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/",
+          "publishedOn": "2022-06-02T14:08:55.000Z",
+          "wordCount": 4448,
+          "title": "Build a Heroku Clone – Provision Infrastructure Programmatically",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/heroku-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-an-svg-file/",
           "author": "Kolade Chris",
@@ -608,6 +628,16 @@
           "wordCount": 1754,
           "title": "How to Deploy a Machine Learning Model as a Web App Using Gradio",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/deploy-ml-models-article.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/",
+          "author": "Beau Carnes",
+          "description": "There are thousands of JavaScript libraries and frameworks. But when you are trying to improve your JavaScript skills, it can sometimes be helpful to create a project using no libraries and no frameworks. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code",
+          "link": "https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/",
+          "publishedOn": "2022-06-01T14:21:00.000Z",
+          "wordCount": 37918,
+          "title": "Code a Shopping Cart with JavaScript (no libraries)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/shopping.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-to-apply-to-google-summer-of-code/",
@@ -1418,56 +1448,6 @@
           "wordCount": 476,
           "title": "Learn React Router 6",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/reactrouter6.png"
-        },
-        {
-          "id": "626fa644c1c601068f4ead26",
-          "author": "freeCodeCamp.org",
-          "description": "Thank you for taking the time to report an issue with freeCodeCamp. If you think you’ve found a bug on freeCodeCamp, please follow these steps to resolve your problem: Reset the Code in the Editor Try resetting the code in the editor using the reset button on the page. This",
-          "link": "https://www.freecodecamp.org/news/how-to-report-a-bug-to-freecodecamp/",
-          "publishedOn": "2022-05-03T21:07:57.000Z",
-          "wordCount": 1489,
-          "title": "How to Report a Bug to freeCodeCamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-pixabay-144243.jpg"
-        },
-        {
-          "id": "626fe2c2c1c601068f4eaf1d",
-          "author": "Kolade Chris",
-          "description": "An Excel worksheet can be difficult to work with if it contains duplicates – especially if you’re not the author of the worksheet. If you find them, you might want to highlight or remove such duplicates in the Excel sheet so you don’t run into errors. In this article, I",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-duplicates-in-excel-delete-duplicate-rows-tutorial/",
-          "publishedOn": "2022-05-03T19:58:44.000Z",
-          "wordCount": 610,
-          "title": "How to Remove Duplicates in Excel – Delete Duplicate Rows Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/microsoft-office-7040220_1280.png"
-        },
-        {
-          "id": "6259a2ffac55f60686c35b35",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this short article we're going to talk about prototypal inheritance in JavaScript, and what are the implications of it. Table of Contents  * Intro  * How to access a prototype’s properties and methods in JavaScript  * The prototype chain  * A prototype-based language",
-          "link": "https://www.freecodecamp.org/news/prototypes-and-inheritance-in-javascript/",
-          "publishedOn": "2022-05-03T16:05:43.000Z",
-          "wordCount": 1350,
-          "title": "JavaScript Prototypes and Inheritance – and Why They Say Everything in JS is an Object",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-maor-attias-5192478.jpg"
-        },
-        {
-          "id": "62612e2aac55f60686c39d58",
-          "author": "Bobby Iliev",
-          "description": "When you're working on a project that consists of a lot of microservices, it'll likely also include multiple databases.  For example, you might have a MySQL database [https://www.mysql.com] and a  PostgreSQL database [https://www.postgresql.org], both running on separate servers. Usually, to join the data from the two databases, you",
-          "link": "https://www.freecodecamp.org/news/how-to-join-mysql-and-postgres-in-a-live-materialized-view/",
-          "publishedOn": "2022-05-03T15:18:26.000Z",
-          "wordCount": 1697,
-          "title": "How to Join MySQL and Postgres in a Live Materialized View",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/how-to-join-mysql-and-postgres-in-a-live-materialized-view2.jpeg"
-        },
-        {
-          "id": "626aebfac1c601068f4e8804",
-          "author": "Sameer Shukla",
-          "description": "In this article, I'll explain what Dataproc is and how it works.  Dataproc is a Google Cloud Platform managed service for Spark and Hadoop which helps you with Big Data Processing, ETL, and Machine Learning. It provides a Hadoop cluster and supports Hadoop ecosystems tools like Flink, Hive, Presto,",
-          "link": "https://www.freecodecamp.org/news/what-is-google-dataproc/",
-          "publishedOn": "2022-05-03T15:14:31.000Z",
-          "wordCount": 1288,
-          "title": "How to Use Google Dataproc – Example with PySpark and Jupyter Notebook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/My-project.jpg"
         }
       ]
     }

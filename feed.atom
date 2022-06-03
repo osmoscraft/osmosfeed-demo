@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-02T01:23:19.470Z</updated>
+    <updated>2022-06-03T01:09:25.209Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PHP Tutorial – How to Setup PHP and XAMPP for Your Project]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-started-with-php/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-started-with-php/"/>
+        <updated>2022-06-02T15:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Hello and welcome to this tutorial, everyone. Today, we'll look at how you can set up and use PHP in a project.  But before we get started, we'll need to understand what PHP is all about. What is PHP? PHP is an abbreviation or acronym for "Hypertext Preprocessor." It's]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Comments – How to Comment out CSS]]></title>
+        <id>https://www.freecodecamp.org/news/css-comments-how-to-comment-out-css/</id>
+        <link href="https://www.freecodecamp.org/news/css-comments-how-to-comment-out-css/"/>
+        <updated>2022-06-02T14:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Commenting is an integral part of any programming language, and CSS is no exception. If you have a very large project or you work in a team, then you'll need to help others understand your CSS stylesheet better by adding comments to it. Since stylesheets can get complicated and verbose]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Heroku Clone – Provision Infrastructure Programmatically]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-heroku-clone-provision-infrastructure-programmatically/"/>
+        <updated>2022-06-02T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Heroku is a platform as a service that enables developers to build, run, and operate applications entirely in the cloud. Heroku makes it simple to do things like create virtual machines to host applications and to deploy websites. Some of the features that Heroku offers can actually be created easily]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Group Chat App With Vanilla JS, Twilio And Node.js]]></title>
+        <id>https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/</id>
+        <link href="https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/"/>
+        <updated>2022-06-02T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Zara Cooper)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is an SVG File?]]></title>
         <id>https://www.freecodecamp.org/news/what-is-an-svg-file/</id>
@@ -45,6 +85,16 @@ How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-
         <summary type="html"><![CDATA[You've built your Machine Learning model with 99% accuracy and now you are ecstatic. You are like yaaaaaaaaay! My model performed well.  Then you paused and you were like – now what?  Well first, you might have thought of uploading your code to GitHub and showing people your]]></summary>
         <author>
             <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a Shopping Cart with JavaScript (no libraries)]]></title>
+        <id>https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/"/>
+        <updated>2022-06-01T14:21:00.000Z</updated>
+        <summary type="html"><![CDATA[There are thousands of JavaScript libraries and frameworks. But when you are trying to improve your JavaScript skills, it can sometimes be helpful to create a project using no libraries and no frameworks. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -1304,77 +1354,6 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
 Syntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Adam Rackis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing A Better Language Selector]]></title>
-        <id>https://smashingmagazine.com/2022/05/designing-better-language-selector/</id>
-        <link href="https://smashingmagazine.com/2022/05/designing-better-language-selector/"/>
-        <updated>2022-05-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How difficult can it be to design a bulletproof language selector? It’s not as straightforward as one might think. We need to avoid redirects, decouple our language and country presets, allow for overrides, and use non-modal windows. Let’s dive in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Report a Bug to freeCodeCamp]]></title>
-        <id>626fa644c1c601068f4ead26</id>
-        <link href="https://www.freecodecamp.org/news/how-to-report-a-bug-to-freecodecamp/"/>
-        <updated>2022-05-03T21:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Thank you for taking the time to report an issue with freeCodeCamp. If you think you’ve found a bug on freeCodeCamp, please follow these steps to resolve your problem: Reset the Code in the Editor Try resetting the code in the editor using the reset button on the page. This]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove Duplicates in Excel – Delete Duplicate Rows Tutorial]]></title>
-        <id>626fe2c2c1c601068f4eaf1d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-duplicates-in-excel-delete-duplicate-rows-tutorial/"/>
-        <updated>2022-05-03T19:58:44.000Z</updated>
-        <summary type="html"><![CDATA[An Excel worksheet can be difficult to work with if it contains duplicates – especially if you’re not the author of the worksheet. If you find them, you might want to highlight or remove such duplicates in the Excel sheet so you don’t run into errors. In this article, I]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Prototypes and Inheritance – and Why They Say Everything in JS is an Object]]></title>
-        <id>6259a2ffac55f60686c35b35</id>
-        <link href="https://www.freecodecamp.org/news/prototypes-and-inheritance-in-javascript/"/>
-        <updated>2022-05-03T16:05:43.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this short article we're going to talk about prototypal inheritance in JavaScript, and what are the implications of it. Table of Contents  * Intro  * How to access a prototype’s properties and methods in JavaScript  * The prototype chain  * A prototype-based language]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Join MySQL and Postgres in a Live Materialized View]]></title>
-        <id>62612e2aac55f60686c39d58</id>
-        <link href="https://www.freecodecamp.org/news/how-to-join-mysql-and-postgres-in-a-live-materialized-view/"/>
-        <updated>2022-05-03T15:18:26.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a project that consists of a lot of microservices, it'll likely also include multiple databases.  For example, you might have a MySQL database [https://www.mysql.com] and a  PostgreSQL database [https://www.postgresql.org], both running on separate servers. Usually, to join the data from the two databases, you]]></summary>
-        <author>
-            <name>Bobby Iliev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Google Dataproc – Example with PySpark and Jupyter Notebook]]></title>
-        <id>626aebfac1c601068f4e8804</id>
-        <link href="https://www.freecodecamp.org/news/what-is-google-dataproc/"/>
-        <updated>2022-05-03T15:14:31.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain what Dataproc is and how it works.  Dataproc is a Google Cloud Platform managed service for Spark and Hadoop which helps you with Big Data Processing, ETL, and Machine Learning. It provides a Hadoop cluster and supports Hadoop ecosystems tools like Flink, Hive, Presto,]]></summary>
-        <author>
-            <name>Sameer Shukla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Custom GitHub Badges to Your Repo]]></title>
-        <id>https://css-tricks.com/?p=364932</id>
-        <link href="https://css-tricks.com/adding-custom-github-badges-to-your-repo/"/>
-        <updated>2022-05-03T14:28:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve spent time looking at open-source repos on GitHub, you’ve probably noticed that most of them use badges in their README files. Take the official React repository, for instance. There are GitHub badges all over the README file that communicate important dynamic info, like the latest released …
-Adding Custom GitHub Badges to Your Repo originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Nick Sypteras</name>
         </author>
     </entry>
 </feed>
