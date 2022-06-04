@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366202",
+          "author": "Geoff Graham",
+          "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/please-give-me-some-space/",
+          "publishedOn": "2022-06-03T14:39:11.000Z",
+          "wordCount": 653,
+          "title": "Please Give Me Some Space",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
+        },
+        {
           "id": "https://css-tricks.com/?p=365841",
           "author": "Ganesh Dahal",
           "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
@@ -214,16 +224,6 @@
           "wordCount": 2107,
           "title": "How to Serve a Subdomain as a Subdirectory",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365614"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365510",
-          "author": "Adam Rackis",
-          "description": "So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …\nSyntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/",
-          "publishedOn": "2022-05-04T14:16:43.000Z",
-          "wordCount": 2726,
-          "title": "Syntax Highlighting (and More!) With Prism on a Static Site",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365510"
         }
       ]
     },
@@ -232,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
+          "author": "hello@smashingmagazine.com (Thomas Bohm)",
+          "description": "This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.",
+          "link": "https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/",
+          "publishedOn": "2022-06-03T10:00:00.000Z",
+          "wordCount": 4624,
+          "title": "Measuring The Performance Of Typefaces For Users (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e5266a-c3c0-42f8-9d26-79a729c3db3f/measuring-performance-typaces-users-part1-card.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/",
           "author": "hello@smashingmagazine.com (Zara Cooper)",
@@ -546,21 +561,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9fd70453-99c5-4d6f-9abe-1a19a52d217b/give-effective-feedback-remotely.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
-          "author": "hello@smashingmagazine.com (Stefan Baumgartner)",
-          "description": "When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](link) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.",
-          "link": "https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/",
-          "publishedOn": "2022-05-05T09:30:00.000Z",
-          "wordCount": 3109,
-          "title": "Resilience, Flexibility And Immediacy: Working With Headless Systems",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f290e32b-b1fa-42d0-989e-21a751f27d00/resilience-flexibility-immediacy-headless-systems.jpg"
         }
       ]
     },
@@ -1388,66 +1388,6 @@
           "wordCount": 1197,
           "title": "How to Destructure an Array in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/code-1839406_1920.jpg"
-        },
-        {
-          "id": "626fbddfc1c601068f4eaec5",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we'll talk about the getline() function in C++. This is an inbuilt function that accepts single and multiple character inputs. When working with user input in C++, the cin object allows us to get input information from the user. But when we try to log out the",
-          "link": "https://www.freecodecamp.org/news/getline-in-cpp-cin-getline-function-example/",
-          "publishedOn": "2022-05-04T20:06:07.000Z",
-          "wordCount": 732,
-          "title": "Getline in C++ – cin getline() Function Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/getline.png"
-        },
-        {
-          "id": "626b0796c1c601068f4e89b4",
-          "author": "Dillion Megida",
-          "description": "Browsers have default interactions and behaviors for different events. For example, when a user clicks a \"submit\" button on a form, the form is submitted to a URL by default. When the child of an element is clicked, the click event also occurs on the element because it is the",
-          "link": "https://www.freecodecamp.org/news/manage-default-behavior-in-browser/",
-          "publishedOn": "2022-05-04T19:59:02.000Z",
-          "wordCount": 1326,
-          "title": "How to Manage Browser Defaults with event.preventDefault() and event.stopPropagation()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-startup-stock-photos-7359.jpg"
-        },
-        {
-          "id": "626d5ae3c1c601068f4ea1c2",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the",
-          "link": "https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/",
-          "publishedOn": "2022-05-04T17:20:38.000Z",
-          "wordCount": 4048,
-          "title": "Python Code Examples – Simple Python Program Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Python-Code-Examples---Simple-Python-Program-Example.png"
-        },
-        {
-          "id": "626d47a4c1c601068f4e9f91",
-          "author": "Samuel A. Olubiyo",
-          "description": "DOM manipulation can simply be defined as manipulating HTML documents (or pages) with JavaScript.  The DOM stands for Document Object Model that you can visualize as a tree-like structure made up of different HTML elements.  Visualizing an HTML document like a tree makes it easy to access its",
-          "link": "https://www.freecodecamp.org/news/learn-how-to-manipulate-css-with-javascript-by-coding-a-dynamic-picture-frame/",
-          "publishedOn": "2022-05-04T15:27:39.000Z",
-          "wordCount": 1905,
-          "title": "Learn How to Manipulate CSS with JavaScript by Coding a Dynamic Picture Frame",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Box-Model.png"
-        },
-        {
-          "id": "625e8e8bac55f60686c37f27",
-          "author": "Jean-Marc Möckel",
-          "description": "I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many",
-          "link": "https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/",
-          "publishedOn": "2022-05-04T15:10:32.000Z",
-          "wordCount": 12045,
-          "title": "REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/rest-api-design-course-header.png"
-        },
-        {
-          "id": "62728f26c1c601068f4ec233",
-          "author": "Beau Carnes",
-          "description": "React Router is a JavaScript library that helps developers create single-page applications that are responsive and have a dynamic user interface. It is a popular tool among React developers and is used to create routing and navigation for web applications. We just published a course on the freeCodeCamp.org YouTube channel",
-          "link": "https://www.freecodecamp.org/news/learn-react-router-6/",
-          "publishedOn": "2022-05-04T14:42:27.000Z",
-          "wordCount": 476,
-          "title": "Learn React Router 6",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/reactrouter6.png"
         }
       ]
     }

@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-03T01:09:25.209Z</updated>
+    <updated>2022-06-04T01:09:49.381Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Please Give Me Some Space]]></title>
+        <id>https://css-tricks.com/?p=366202</id>
+        <link href="https://css-tricks.com/please-give-me-some-space/"/>
+        <updated>2022-06-03T14:39:11.000Z</updated>
+        <summary type="html"><![CDATA[There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.
+We could do it directly in HTML:
+<pWe go from one line...<br<brdown a couple more.</p
+But that’s …
+Please Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Measuring The Performance Of Typefaces For Users (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/</id>
+        <link href="https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/"/>
+        <updated>2022-06-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the first part of this article, written especially for typeface designers and typographers. See how typefaces work, how to test them, and other broader typographic issues.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Thomas Bohm)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Tutorial – How to Setup PHP and XAMPP for Your Project]]></title>
         <id>https://www.freecodecamp.org/news/how-to-get-started-with-php/</id>
@@ -1273,87 +1297,6 @@ How to Serve a Subdomain as a Subdirectory originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[Array destructuring is an efficient way to extract multiple values from data that’s stored in an array. In this tutorial we’ll learn about array destructuring. We'll go over examples to learn the ins and outs of how array destructuring works.  I've also created a video of this tutorial: Let's]]></summary>
         <author>
             <name>Madison Kanna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resilience, Flexibility And Immediacy: Working With Headless Systems]]></title>
-        <id>https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/</id>
-        <link href="https://smashingmagazine.com/2022/05/resilience-flexibility-immediacy-headless-systems/"/>
-        <updated>2022-05-05T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When deploying websites, there’s rarely a one-size-fits-all solution. Some websites benefit from server-rendered pages, some prefer statically generating content upfront. In this article, Stefan explains how a CMS such as [Storyblok](link) can help you make your site more resilient without losing the flexibility to deliver time-relevant content.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stefan Baumgartner)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getline in C++ – cin getline() Function Example]]></title>
-        <id>626fbddfc1c601068f4eaec5</id>
-        <link href="https://www.freecodecamp.org/news/getline-in-cpp-cin-getline-function-example/"/>
-        <updated>2022-05-04T20:06:07.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll talk about the getline() function in C++. This is an inbuilt function that accepts single and multiple character inputs. When working with user input in C++, the cin object allows us to get input information from the user. But when we try to log out the]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage Browser Defaults with event.preventDefault() and event.stopPropagation()]]></title>
-        <id>626b0796c1c601068f4e89b4</id>
-        <link href="https://www.freecodecamp.org/news/manage-default-behavior-in-browser/"/>
-        <updated>2022-05-04T19:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Browsers have default interactions and behaviors for different events. For example, when a user clicks a "submit" button on a form, the form is submitted to a URL by default. When the child of an element is clicked, the click event also occurs on the element because it is the]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Code Examples – Simple Python Program Example]]></title>
-        <id>626d5ae3c1c601068f4ea1c2</id>
-        <link href="https://www.freecodecamp.org/news/python-code-examples-simple-python-program-example/"/>
-        <updated>2022-05-04T17:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Python is a high-level, general purpose, interpreted programming language. It's well-known for being very easy to learn yet powerful, and it has many uses in many different fields. If you're someone trying to get started with Python, it's easy to get lost among all the excellent learning resources on the]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Manipulate CSS with JavaScript by Coding a Dynamic Picture Frame]]></title>
-        <id>626d47a4c1c601068f4e9f91</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-manipulate-css-with-javascript-by-coding-a-dynamic-picture-frame/"/>
-        <updated>2022-05-04T15:27:39.000Z</updated>
-        <summary type="html"><![CDATA[DOM manipulation can simply be defined as manipulating HTML documents (or pages) with JavaScript.  The DOM stands for Document Object Model that you can visualize as a tree-like structure made up of different HTML elements.  Visualizing an HTML document like a tree makes it easy to access its]]></summary>
-        <author>
-            <name>Samuel A. Olubiyo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REST API Design Best Practices – How to Build a REST API with JavaScript, Node.js, and Express.js]]></title>
-        <id>625e8e8bac55f60686c37f27</id>
-        <link href="https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/"/>
-        <updated>2022-05-04T15:10:32.000Z</updated>
-        <summary type="html"><![CDATA[I've created and consumed many API's over the past few years. During that time, I've come across good and bad practices and have experienced nasty situations when consuming and building API's. But there also have been great moments. There are helpful articles online which present many best practices, but many]]></summary>
-        <author>
-            <name>Jean-Marc Möckel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Router 6]]></title>
-        <id>62728f26c1c601068f4ec233</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-router-6/"/>
-        <updated>2022-05-04T14:42:27.000Z</updated>
-        <summary type="html"><![CDATA[React Router is a JavaScript library that helps developers create single-page applications that are responsive and have a dynamic user interface. It is a popular tool among React developers and is used to create routing and navigation for web applications. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syntax Highlighting (and More!) With Prism on a Static Site]]></title>
-        <id>https://css-tricks.com/?p=365510</id>
-        <link href="https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/"/>
-        <updated>2022-05-04T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …
-Syntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
         </author>
     </entry>
 </feed>
