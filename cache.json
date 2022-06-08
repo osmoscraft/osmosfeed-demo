@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366222",
+          "author": "Adam Rackis",
+          "description": "Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …\nBuilding Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/building-interoperable-web-components-react/",
+          "publishedOn": "2022-06-07T13:57:57.000Z",
+          "wordCount": 3891,
+          "title": "Building Interoperable Web Components That Even Work With React",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
+        },
+        {
           "id": "https://css-tricks.com/?p=366202",
           "author": "Geoff Graham",
           "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
@@ -222,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
+          "author": "hello@smashingmagazine.com (Alexey & Alexander)",
+          "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
+          "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
+          "publishedOn": "2022-06-07T09:30:00.000Z",
+          "wordCount": 2698,
+          "title": "Digital Museums For Digital History",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/06/case-prisma-jamstack/",
           "author": "hello@smashingmagazine.com (Sam Poder)",
@@ -536,21 +561,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6be13a6e-5850-49e2-82b0-89d47212c66c/animated-debit-card-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
-          "author": "hello@smashingmagazine.com (Barry Pollard)",
-          "description": "At the end of 2021, the Chrome team shipped some functionality that has the ability to make or break sites meeting the Core Web Vitals. So, let’s learn a little bit more about the Back/Forward Cache (aka bfcache), and what you can do to test if your website is compatible with it.",
-          "link": "https://smashingmagazine.com/2022/05/performance-game-changer-back-forward-cache/",
-          "publishedOn": "2022-05-09T10:30:00.000Z",
-          "wordCount": 3675,
-          "title": "Performance Game Changer: Browser Back/Forward Cache",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98883c6e-253d-4285-aa86-09da18d3b935/performance-game-changer-back-forward-cache.jpg"
         }
       ]
     },
@@ -559,6 +569,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-react-components/",
+          "author": "Spruce Emmanuel",
+          "description": "I wrote the article \"How to Search and Filter Components in React\" exactly one year ago. > If you're building a React app, you want your users to be able to search & get exact results. And if you're getting data from an API, they need to be able to",
+          "link": "https://www.freecodecamp.org/news/how-to-react-components/",
+          "publishedOn": "2022-06-07T23:37:17.000Z",
+          "wordCount": 1564,
+          "title": "React Components – How to Create a Search, Filter, and Pagination Component in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/wirxeocmd6tpnn9c5oqc.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/",
+          "author": "Abdullah Adeel",
+          "description": "FastAPI [https://fastapi.tiangolo.com/] is a modern, fast, battle tested and light-weight web development framework written in Python. Other popular options in the space are Django [https://www.djangoproject.com/], Flask [https://flask.palletsprojects.com/en/2.1.x/]and Bottle [https://bottlepy.org/docs/dev/]. And since it's new, FastAPI comes with both advantages and disadvantages. On the positive side, FastAPI implements all the modern standards,",
+          "link": "https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/",
+          "publishedOn": "2022-06-07T23:28:25.000Z",
+          "wordCount": 2228,
+          "title": "How to Add JWT Authentication in FastAPI – A Practical Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fcc-fastapi-jwt-auth.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hello-world-in-java-example-program/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're learning a new programming language, you'll often see the first program called a \"Hello World\" program. It's used in most cases as a simple program for beginners.  I will assume that you're either reading this article as a beginner to the Java programming language or you're here",
+          "link": "https://www.freecodecamp.org/news/hello-world-in-java-example-program/",
+          "publishedOn": "2022-06-07T17:13:21.000Z",
+          "wordCount": 912,
+          "title": "Hello World in Java – Example Program",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/helloWorld.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-change-font-with-html/",
+          "author": "Kolade Chris",
+          "description": "Back in the days of HTML4, there was a  tag you could use to change the font size, font family, and the color of a text. But with HTML5, the  tag has been deprecated. So if you want to change anything related to the font, you have to",
+          "link": "https://www.freecodecamp.org/news/how-to-change-font-with-html/",
+          "publishedOn": "2022-06-07T16:41:40.000Z",
+          "wordCount": 1142,
+          "title": "How to Change Font with HTML",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/abc-3523454_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/manage-postgresql-with-psql/",
+          "author": "Gerard Hynes",
+          "description": "Now is a great time to learn relational databases and SQL. From web development to data science, they are used everywhere.  In the Stack Overflow 2021 Survey [https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof] , 4 out of the top 5 database technologies used by professional developers were relational database management systems. PostgreSQL is an",
+          "link": "https://www.freecodecamp.org/news/manage-postgresql-with-psql/",
+          "publishedOn": "2022-06-07T15:29:11.000Z",
+          "wordCount": 3214,
+          "title": "How to Manage PostgreSQL Databases from the Command Line with psql",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/manage-postgreSQL-with-psql.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/",
           "author": "Germán Cocca",
