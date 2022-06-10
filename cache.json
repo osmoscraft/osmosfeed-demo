@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366286",
+          "author": "Geoff Graham",
+          "description": "Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:\nThe first round required several online services along with HTML & JS changes to my static site, just to verify my \n…\nAm I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/am-i-on-the-indieweb-yet/",
+          "publishedOn": "2022-06-09T15:32:50.000Z",
+          "wordCount": 703,
+          "title": "Am I on the IndieWeb yet?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
+        },
+        {
           "id": "https://css-tricks.com/?p=366147",
           "author": "Geoff Graham",
           "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
@@ -214,16 +224,6 @@
           "wordCount": 2382,
           "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365650",
-          "author": "Md Shuvo",
-          "description": "By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:\nA programming language is any set of rules that convert \n…\nLet’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/lets-create-a-tiny-programming-language/",
-          "publishedOn": "2022-05-10T13:56:11.000Z",
-          "wordCount": 1677,
-          "title": "Let’s Create a Tiny Programming Language",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365650"
         }
       ]
     },
@@ -232,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
+          "author": "hello@smashingmagazine.com (Alexander Joseph)",
+          "description": "This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.",
+          "link": "https://smashingmagazine.com/2022/06/future-frontend-build-tools/",
+          "publishedOn": "2022-06-09T09:00:00.000Z",
+          "wordCount": 2273,
+          "title": "The Future Of Frontend Build Tools",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5e3cc4f1-5fa4-463b-97b6-581fd51b1ef0/future-frontend-tooling-v5-sharing-card.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/",
           "author": "hello@smashingmagazine.com (Daniel Yuschick)",
@@ -546,21 +561,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d9ea7394-c230-471d-aafe-9977a30bdf3b/google-crux-analysis-comparison-performance-javascript-frameworks.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
-          "author": "hello@smashingmagazine.com (Denis Studennikov)",
-          "description": "In this article, we will be taking a closer look at a design case study and discuss possible reasons why its customers abandon their online shopping carts and what solutions are recommended in each particular case.",
-          "link": "https://smashingmagazine.com/2022/05/sunuva-case-study-ux-changes-result-increase-conversion/",
-          "publishedOn": "2022-05-11T10:00:00.000Z",
-          "wordCount": 2100,
-          "title": "How Even Small UX Changes Can Result In An Increase In Conversion (A Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/de6a0a8a-3eae-4d7a-af27-50363c857936/sunuva-case-study-ux-changes-result-increase-conversion.jpg"
         }
       ]
     },
@@ -569,6 +569,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript/",
+          "author": "Soham De Roy",
+          "description": "In JavaScript, functions are treated as first-class citizens. We can treat functions as values and assign them to another variable, pass them as arguments to another function, or even return them from another function. This ability of functions to act as first-class functions is what powers higher order functions in",
+          "link": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript/",
+          "publishedOn": "2022-06-09T19:59:00.000Z",
+          "wordCount": 2155,
+          "title": "Higher Order Functions in JavaScript – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Blog-8---Freecodecamp-Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/in-demand-tech-skills-devskiller-report/",
+          "author": "Jakub Kubrynski",
+          "description": "A popular Chinese proverb says: “The best time to plant a tree was 20 years ago. The second best time is now.”  The same applies to acquiring new tech skills. No matter if you’re a junior developer or a seasoned software engineer, there is always something you can work",
+          "link": "https://www.freecodecamp.org/news/in-demand-tech-skills-devskiller-report/",
+          "publishedOn": "2022-06-09T19:47:31.000Z",
+          "wordCount": 1693,
+          "title": "In-Demand Tech Skills for 2022 –Lessons Learned from Candidate Data from 191 Countries",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/image_processing20220203-2863084-peyey.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/no-code-tools-for-building-your-next-project/",
+          "author": "Shayan",
+          "description": "I have recently started being active in a couple of online maker communities, and I've met a lot of talented folks who are building amazing products.  One thing that has stood out to me while engaging with these makers is that many of them are not developers – in",
+          "link": "https://www.freecodecamp.org/news/no-code-tools-for-building-your-next-project/",
+          "publishedOn": "2022-06-09T19:38:35.000Z",
+          "wordCount": 2355,
+          "title": "No-Code Tools to Use for Your Next Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/meta.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-type-the-vertical-line-bar-character-on-a-keyboard/",
+          "author": "Kolade Chris",
+          "description": "We use the vertical line character, |, in various scenarios and contexts. You'll use it in mathematics and programming, in Linux, and in computer science fields to represent different things. Programmers also call this character the pipe symbol. What is the Pipe Character Used For? In Mathematics, the double pipe",
+          "link": "https://www.freecodecamp.org/news/how-to-type-the-vertical-line-bar-character-on-a-keyboard/",
+          "publishedOn": "2022-06-09T16:06:55.000Z",
+          "wordCount": 578,
+          "title": "How to Type the Vertical Line | Bar Character on a Keyboard",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pipe.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-set-in-python/",
+          "author": "Zaira Hira",
+          "description": "Sets are defined as a collection of objects. They are an important concept in math and programming.  Programming languages provide different ways to group objects. Lists, dictionaries, and arrays are some examples of grouping objects.  Python has its own methods of creating a collection of objects. In Python,",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-set-in-python/",
+          "publishedOn": "2022-06-09T15:52:07.000Z",
+          "wordCount": 900,
+          "title": "Python Set – How to Create a Set in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Copy-of-read-write-files-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/embedded-rust-programming-on-raspberry-pi-zero-w/",
+          "author": "Shaun Hamilton",
+          "description": "Embedded programming in Rust requires a whole new knowledge base. Using a Raspberry Pi Zero W, you can quickly get up and running with embedded Rust. Starting with an embedded \"Hello World\" equivalent, and advancing to a text-to-morse-code translator, this article will walk you through the process.  * How",
+          "link": "https://www.freecodecamp.org/news/embedded-rust-programming-on-raspberry-pi-zero-w/",
+          "publishedOn": "2022-06-09T15:37:48.000Z",
+          "wordCount": 1331,
+          "title": "Embedded Rust Programming on Raspberry Pi Zero W",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/rpi-rust.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/fnm-fast-node-manager/",
+          "author": "Ashutosh Biswas",
+          "description": "If you've been working with Node for a while, you will most likely discover that your projects – or one you're working on – are written for an older version of Node. That means they won't work as expected with the latest version.  In that case, a Node version",
+          "link": "https://www.freecodecamp.org/news/fnm-fast-node-manager/",
+          "publishedOn": "2022-06-09T15:30:55.000Z",
+          "wordCount": 1560,
+          "title": "How to Use fnm – Fast Node Manager",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/rocket-fnm.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/horizontal-vs-vertical-scaling-in-database/",
+          "author": "Sophia Iroegbu",
+          "description": "Data Scalability Data scalability refers to the ability of a database to manipulate changing demands by adding and removing data. In this way, the database grows at the same pace as the software.  Via scaling, the database can expand or contract the capacity of the system's resources to support",
+          "link": "https://www.freecodecamp.org/news/horizontal-vs-vertical-scaling-in-database/",
+          "publishedOn": "2022-06-09T15:26:24.000Z",
+          "wordCount": 1253,
+          "title": "Horizontal vs. Vertical Scaling – How to Scale a Database",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Tech-Blog-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/",
+          "author": "Beau Carnes",
+          "description": "Some people complain about Amazon's UI but most people realize how complex Amazon's website truly is. If you want to improve your skills as a full stack developer, creating an Amazon clone will give you practice in many different areas. We just published a 12-hour course that will teach you",
+          "link": "https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/",
+          "publishedOn": "2022-06-09T14:11:26.000Z",
+          "wordCount": 664,
+          "title": "Create a Full Stack Amazon Clone with Flutter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/amazonflutter.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/inline-style-in-html/",
           "author": "Joel Olawanle",
@@ -1468,56 +1558,6 @@
           "wordCount": 450,
           "title": "Create a Social Media App with Django",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/smdjango.png"
-        },
-        {
-          "id": "627a6d54ac30a306bbeac950",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The list data type is one of the built-in data structures in Python along with sets, tuples, and dictionaries. You use a list to organize, group, and store data. But each of these data structures has distinctive features that differentiates them from each other. In this article, we'll see how",
-          "link": "https://www.freecodecamp.org/news/python-list-insert-how-to-add-to-a-list-in-python/",
-          "publishedOn": "2022-05-10T21:22:33.000Z",
-          "wordCount": 963,
-          "title": "Python List insert() – How to Add to a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/dictionaary.jpg"
-        },
-        {
-          "id": "627a1dd3ac30a306bbeac53f",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "If you're familiar with Python, you may have noticed that the built-in function  print() doesn't need an explicit \\n character at the end of each line.  This means that the output from the following snippet of code print('freeCodeCamp Curriculum') print('freeCodeCamp News') print('freeCodeCamp YouTube Channel') will be: freeCodeCamp Curriculum",
-          "link": "https://www.freecodecamp.org/news/python-print-without-newline-solved/",
-          "publishedOn": "2022-05-10T16:18:38.000Z",
-          "wordCount": 926,
-          "title": "Python Print Without Newline [SOLVED]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Python-Print-Without-Newline--SOLVED-.png"
-        },
-        {
-          "id": "627a40ceac30a306bbeac5da",
-          "author": "Kolade Chris",
-          "description": "To keep your Excel data safe from unwanted editing and tampering, you might want to lock the cells and protect the worksheet. Fortunately, Excel is a highly customizable data analysis tool which lets you lock cells and protect your worksheets with a password at the same time. In this guide,",
-          "link": "https://www.freecodecamp.org/news/how-to-lock-cells-in-excel-excel-locked-cell-tutorial/",
-          "publishedOn": "2022-05-10T15:57:58.000Z",
-          "wordCount": 705,
-          "title": "How to Lock Cells in Excel – Excel Locked Cell Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/thumb-1013967_1280.jpg"
-        },
-        {
-          "id": "627859645aeb5306e9ee725f",
-          "author": "Jose Vicente Nunez",
-          "description": "I was recently looking for a way to keep tabs on our containers and applications at work. Specifically, I was interested in detecting anomalies in the configuration. After a little research, I stumbled on Falco [https://github.com/falcosecurity/falco]. What I found was a very complete Open Source platform with lots of features",
-          "link": "https://www.freecodecamp.org/news/secure-server-infrastructure-clouds-using-falco-prometheus-grafana-and-docker/",
-          "publishedOn": "2022-05-10T14:58:47.000Z",
-          "wordCount": 3908,
-          "title": "How to Secure Server Infrastructure Clouds using Falco, Prometheus, Grafana and Docker",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-aleksandar-pasaric-325185--1-.jpg"
-        },
-        {
-          "id": "6269555ac1c601068f4e811b",
-          "author": "Rochdi Khalid",
-          "description": "Each operating system has different rules for constructing file paths. For example, Linux uses forward slashes for paths, while Windows uses backslashes.  This small difference can cause issues if you are working on a project and you want other developers who come from different operating systems to expand your",
-          "link": "https://www.freecodecamp.org/news/how-to-use-pathlib-module-in-python/",
-          "publishedOn": "2022-05-10T13:59:54.000Z",
-          "wordCount": 2546,
-          "title": "Python Path – How to Use the Pathlib Module with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pathlib-cover-freecodecamp.jpg"
         }
       ]
     }
