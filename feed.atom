@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-14T01:46:05.511Z</updated>
+    <updated>2022-06-15T01:24:59.221Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Java Sort Array – How to Reverse an Array in Ascending or Descending Order with Arrays.sort()]]></title>
+        <id>https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/</id>
+        <link href="https://www.freecodecamp.org/news/java-sort-array-how-to-reverse-an-array-in-ascending-or-descending-order-with-arrays-sort-2/"/>
+        <updated>2022-06-14T21:14:36.000Z</updated>
+        <summary type="html"><![CDATA[In Java, you use arrays to store a collection of variables (with the same data type) in a single variable.  In many cases, the values stored in an array appear in a random order. Using the  Arrays class in Java, you have access to various methods you can]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Improve Cloud-Native System Performance]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-improve-cloud-native-system-performance/"/>
+        <updated>2022-06-14T20:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Web applications are built to provide various online services to end-users. Developing and hosting these services involves hard work and talent. And it all begins with an idea. But imagine, after putting in all that hard work, users cringe about the performance of the system – “It's too slow...”, “I]]></summary>
+        <author>
+            <name>Sumeet Ninawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De-Mystifying IndieWeb on a WordPress Site]]></title>
+        <id>https://css-tricks.com/?p=366388</id>
+        <link href="https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/"/>
+        <updated>2022-06-14T16:48:34.000Z</updated>
+        <summary type="html"><![CDATA[Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.
+I think …
+De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debouncing in React – How to Delay a JS Function]]></title>
+        <id>https://www.freecodecamp.org/news/debouncing-explained/</id>
+        <link href="https://www.freecodecamp.org/news/debouncing-explained/"/>
+        <updated>2022-06-14T16:42:51.000Z</updated>
+        <summary type="html"><![CDATA[There are some heavy tasks in software development. Take calling an API, for example. Suppose we have an API that searches a list of users, and we can't afford to fire it too often. We want to search only when we have typed the whole search query.  Well, debouncing]]></summary>
+        <author>
+            <name>Nishant Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Link CSS to HTML – Stylesheet File Linking]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-link-css-to-html/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-link-css-to-html/"/>
+        <updated>2022-06-14T16:22:59.000Z</updated>
+        <summary type="html"><![CDATA[HTML is the markup language that helps you define the structure of a web page. CSS is the stylesheet language you use to make the structure presentable and nicely laid out. To make the stylings you implement with CSS reflect in the CSS, you have to find a way to]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Search To Your Site In 15 Minutes]]></title>
+        <id>https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/</id>
+        <link href="https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/"/>
+        <updated>2022-06-14T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need search for your site, but haven’t found the time to add it? Within 15 minutes, Leonardo Losoviz explains how you can add a super powerful search that also looks super good. In this article, you’ll learn how to go from 0 to 100 with search.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Useful Tools for Visualizing Databases on a Budget]]></title>
         <id>https://css-tricks.com/?p=366260</id>
@@ -1396,16 +1458,6 @@ Creating Style Variations in WordPress Block Themes originally published on CSS-
         <summary type="html"><![CDATA[In this tutorial, you will learn how to build a single page application. I'll take you through the process step by step, using cutting edge technologies like Laravel 9, Jetstream, Vuejs, Inertiajs, MySQL, Tailwind CSS, and Docker. Let's get started. What you need to follow this guide: To follow along]]></summary>
         <author>
             <name>Fabio Pacific</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking Server-Timing As A Critical Monitoring Tool]]></title>
-        <id>https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/</id>
-        <link href="https://smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/"/>
-        <updated>2022-05-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What makes the underused `Server-Timing` header uniquely powerful among all other response headers? We’ll rethink the expectation for using it exclusively for timing and see fast solutions for hard-to-solve monitoring challenges.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sean Roberts)</name>
         </author>
     </entry>
 </feed>
