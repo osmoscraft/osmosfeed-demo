@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-16T01:19:43.597Z</updated>
+    <updated>2022-06-17T01:15:25.995Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Query Data in Google Spreadsheets]]></title>
+        <id>https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/"/>
+        <updated>2022-06-16T16:32:35.000Z</updated>
+        <summary type="html"><![CDATA[I built a spreadsheet and wanted to display some of the data in a small table which would update based on the day of the week. After some digging, querying seemed the best option to pull this off. In this article, you'll learn several things about Google Sheets tables, functions,]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve the Parking Lot Challenge in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/"/>
+        <updated>2022-06-16T14:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Have you heard about the Parking Lot challenge? If not, let me explain briefly. The Parking Lot is challenge where you are asked to write a class that manages an imaginary parking lot.  In this tutorial we will do that in JavaScript. And to make it a bit more]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript forEach() – JS Array For Each Loop Example]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-foreach-js-array-for-each-example/"/>
+        <updated>2022-06-16T14:52:20.000Z</updated>
+        <summary type="html"><![CDATA[When working with arrays, there will be times when you need to loop or iterate through the array's values in order to either output or manipulate them.  These arrays can hold any datatype, including objects, numbers, strings, and many others. In this article, we'll look at how you can]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Delightful Data Visualization Examples]]></title>
+        <id>https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/</id>
+        <link href="https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/"/>
+        <updated>2022-06-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Most Popular Coding Challenge Websites]]></title>
         <id>https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/</id>
@@ -1358,47 +1398,6 @@ Inline Image Previews with Sharp, BlurHash, and Lambda Functions originally publ
 An Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Jhey Tompkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve SQL Server Performance]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-improve-sql-server-performance/"/>
-        <updated>2022-05-17T17:49:37.000Z</updated>
-        <summary type="html"><![CDATA[SQL server performance can be tricky. But there are a lot of things you can do to increase the speed of your queries. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to improve performance on SQL Server. Rajan Arora developed this course. Rajan]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axios React – How to Make Get, Post, and Delete API Requests]]></title>
-        <id>https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/</id>
-        <link href="https://www.freecodecamp.org/news/axios-react-how-to-make-get-post-and-delete-api-requests/"/>
-        <updated>2022-05-17T16:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Axios [https://axios-http.com/] is an HTTP client library based on promises. It makes sending asynchronous HTTP requests to REST endpoints easier and helps you perform CRUD operations. This REST endpoint/API could be an external API like the Google API, GitHub API, and so on – or it could be your own]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Break in Python – Nested For Loop Break if Condition Met Example]]></title>
-        <id>https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/</id>
-        <link href="https://www.freecodecamp.org/news/break-in-python-nested-for-loop-break-if-condition-met-example/"/>
-        <updated>2022-05-17T15:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Loops in programming let us execute a set of instructions/block of code continuously until a certain condition is met.  We can also use loops to iterate over a collection of data and perform a similar operation on each item in the data set. names = ["John", "Jane", "Doe"] for]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving Icons for UI Elements with Typographic Alignment and Scale]]></title>
-        <id>https://css-tricks.com/?p=365531</id>
-        <link href="https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/"/>
-        <updated>2022-05-17T14:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …
-Improving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Marcel Moreau</name>
         </author>
     </entry>
 </feed>
