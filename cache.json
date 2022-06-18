@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366342",
+          "author": "Temani Afif",
+          "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-dots/",
+          "publishedOn": "2022-06-17T14:47:55.000Z",
+          "wordCount": 1803,
+          "title": "Single Element Loaders: The Dots",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
+        },
+        {
           "id": "https://css-tricks.com/?p=366252",
           "author": "Preethi",
           "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
@@ -204,16 +214,6 @@
           "wordCount": 2038,
           "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365766",
-          "author": "Jhey Tompkins",
-          "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
-          "publishedOn": "2022-05-18T14:16:43.000Z",
-          "wordCount": 2895,
-          "title": "An Interactive Starry Backdrop for Content",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
         }
       ]
     },
@@ -222,6 +222,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
+          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
+          "description": "In this article, Andrii shares his approach to managing tables in Figma in an easier, more streamlined way when there is a need to support different screen resolutions, change the order of columns, and use real-life content.",
+          "link": "https://smashingmagazine.com/2022/06/easy-build-support-tables-figma/",
+          "publishedOn": "2022-06-17T09:00:00.000Z",
+          "wordCount": 2619,
+          "title": "How To Easily Build And Support Tables In Figma",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
@@ -551,21 +566,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dee282b4-4b4e-4b89-b8e1-4d319ce85367/ultimate-free-solo-blog-setup-ghost-gatsby.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
-          "author": "hello@smashingmagazine.com (Benjamin Ajibade)",
-          "description": "In this article, Benjamin Ajibade introduces Kubernetes to front-end engineers and explaines why Kubernetes is integral in a production-ready microservice architecture. Some key terms that are important for team collaboration will be discussed and conclude the post with a quick deployment to getting started as a beginner.",
-          "link": "https://smashingmagazine.com/2022/05/kubernetes-front-end-developers/",
-          "publishedOn": "2022-05-19T11:30:00.000Z",
-          "wordCount": 3094,
-          "title": "Kubernetes For Front-End Developers",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a377d64d-af16-4fb1-8159-2c9fa0ab72c4/kubernetes-front-end-developers.jpg"
         }
       ]
     },
@@ -574,6 +574,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
+          "author": "Joel Olawanle",
+          "description": "When you're developing web applications, you might need to include the current date on which a particular operation is performed.  For example, when submitting data via a form, you may want to include the date that data was created or when the form was submitted. In this article, we",
+          "link": "https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/",
+          "publishedOn": "2022-06-17T15:45:01.000Z",
+          "wordCount": 958,
+          "title": "JavaScript Get Current Date – Today's Date in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/",
+          "author": "Dillion Megida",
+          "description": "What are Unicodes? Unicodes are universal characters that represent different things. These could be symbols, characters, scripts, and many more forms of character combinations. Unicodes are adopted by many platforms (mobile and web) to make characters available everywhere. Why are Unicodes useful? Unicodes are useful because they provide a standard",
+          "link": "https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/",
+          "publishedOn": "2022-06-17T15:35:12.000Z",
+          "wordCount": 752,
+          "title": "HTML Arrow – Symbol Unicode for Single and Double Arrows, Left and Right Arrows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/unicode-for-arrows.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
+          "author": "Beau Carnes",
+          "description": "Did you know that Visual Basic is currently a more popular programming language than JavaScript? That is according to the TIOBE index [https://www.tiobe.com/tiobe-index/], which is one of the most respected indicators of the popularity of programming languages. Visual Basic is an object-oriented programming language developed by Microsoft. It makes it",
+          "link": "https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/",
+          "publishedOn": "2022-06-17T14:24:49.000Z",
+          "wordCount": 541,
+          "title": "Learn Visual Basic (.NET) – Full Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/maxresdefault.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/querying-like-an-sql-boss-in-google-sheets/",
           "author": "Eamonn Cottrell",
@@ -1453,46 +1483,6 @@
           "wordCount": 26115,
           "title": "Create a Drum Machine with Python and Pygame",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/drum.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
-          "author": "Davis David",
-          "description": "Finding a remote job as a developer can be tricky. You want to work for a company that recognizes the value of remote workers, and you want to be sure that the company will support and encourage your remote working style.  If you’re a developer looking for an opportunity",
-          "link": "https://www.freecodecamp.org/news/remote-work-companies-for-developers/",
-          "publishedOn": "2022-05-18T17:43:34.000Z",
-          "wordCount": 2034,
-          "title": "Top 10 Remote Work Companies for Developers in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/zVaxL0LohRUpfDQhznRQ9z3y5tj1-oam3ifo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-operator-examples/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Most programming languages have built-in functionalities that let us carry out certain operations like arithmetic, comparison, logical operations, and so on.  In this article, we'll talk about three operators in C++ – the bitwise AND (&) operator, the logical OR (||) operator, and the arithmetic + operator.  How",
-          "link": "https://www.freecodecamp.org/news/cpp-operator-examples/",
-          "publishedOn": "2022-05-18T15:37:31.000Z",
-          "wordCount": 1105,
-          "title": "C++ Operator Example – &, or, + Operators in C++",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/towfiqu-barbhuiya-5u6bz2tYhX8-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
-          "author": "Dillion Megida",
-          "description": "Minification is the process of reducing code size to reduce the size of your files. So how does this apply to CSS? Take a look at this code: h1 {   color: yellow; } p {   color: pink; } And the compressed version of it: h1 {",
-          "link": "https://www.freecodecamp.org/news/minify-css-css-minifying-and-compression-explained/",
-          "publishedOn": "2022-05-18T15:20:23.000Z",
-          "wordCount": 1150,
-          "title": "Minify CSS – CSS Minifying and Compression Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-magda-ehlers-2590535.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
-          "author": "Ilenia Magoni",
-          "description": "In CSS there are a lot of different units of measurement. You have px and percentages, vh, vw, em, rem, and others.  There will come a time when you want to get a value by combining two or more different units. CSS has a function that you can use",
-          "link": "https://www.freecodecamp.org/news/css-functions-for-beginners/",
-          "publishedOn": "2022-05-18T15:11:08.000Z",
-          "wordCount": 1014,
-          "title": "CSS Functions – How to Use calc(), max(), min(), and clamp()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-katerina-holmes-5905965.jpg"
         }
       ]
     }
