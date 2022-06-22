@@ -203,6 +203,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Do you feel stuck in your company? Do you believe you deserve a raise but it never happens? Do you think you might need to quit the job? Let’s figure it out. In this article, Vitaly looks at some things he wishes he’d known earlier in his career.",
+          "link": "https://smashingmagazine.com/2022/06/things-to-know-earlier-in-your-career/",
+          "publishedOn": "2022-06-21T13:00:00.000Z",
+          "wordCount": 4999,
+          "title": "Things I Wish I’d Known Earlier In My Career",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
           "author": "hello@smashingmagazine.com (Kirill Myshkin)",
           "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
@@ -531,21 +546,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/69a59d30-3186-49e9-943d-a023f7bf1f29/developing-award-winning-onboarding-process-case-study.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "CSS is constantly evolving, and some cool and useful properties either go completely unnoticed or are not talked about as much as others for some reason or another. In this article, we’ll cover a fraction of those CSS properties and selectors.",
-          "link": "https://smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022/",
-          "publishedOn": "2022-05-23T09:30:00.000Z",
-          "wordCount": 3783,
-          "title": "Lesser-Known And Underused CSS Features In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c50c872-d96b-41ae-8289-25b78c7f279f/lesser-known-underused-css-features-2022.jpg"
         }
       ]
     },
@@ -554,6 +554,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
+          "author": "Zaira Hira",
+          "description": "Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want",
+          "link": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
+          "publishedOn": "2022-06-21T21:31:23.000Z",
+          "wordCount": 1309,
+          "title": "How to Recover a Deleted File in Git – Revert Changes After a Hard Reset",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
+          "author": "Kolade Chris",
+          "description": "MVC is an abbreviation that stands for Model, View, and Controller. This architectural pattern was created in the late 1970s for making desktop apps, but it is now widely used in web application development. In this article, I will dive deep into what MVC means alongside its 3 components, so",
+          "link": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
+          "publishedOn": "2022-06-21T21:09:46.000Z",
+          "wordCount": 1526,
+          "title": "MVC in Computer Science – The MVC Model",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
+          "author": "Vinod Mathew Sebastian",
+          "description": "Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,",
+          "link": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
+          "publishedOn": "2022-06-21T20:59:02.000Z",
+          "wordCount": 2309,
+          "title": "How to Customize Bootstrap with Sass",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You use the switch statement in Java to execute a particular code block when a certain condition is met.  Here's what the syntax looks like: switch(expression) {   case 1:     // code block     break;   case 2:",
+          "link": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
+          "publishedOn": "2022-06-21T17:39:06.000Z",
+          "wordCount": 1341,
+          "title": "Java Switch Statement – How to Use a Switch Case in Java",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
+          "author": "Sijil Salim",
+          "description": "Last week, I was excited to dive into chatbot development with the open-source framework Rasa [https://rasa.com/]. With Rasa, you get a ton of flexibility, from designing the conversation to developing the NLU logic to deployment.  But the \"Yay\" soon transformed into banging my head against a brick wall. The",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
+          "publishedOn": "2022-06-21T16:06:02.000Z",
+          "wordCount": 1599,
+          "title": "How to Set Up a Rasa Development Environment in Sagemaker Studiolab with VS Code",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
+          "author": "Emmanuel Ohans",
+          "description": "A few weeks ago, I published an Intermediate TypeScript and React Handbook [/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/]. It received many views and I got several emails. Most were “thank you” emails, but then there were others like: > “… I am new to programming, what is TypeScript?” And: > “Thanks for this free ebook,",
+          "link": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
+          "publishedOn": "2022-06-21T15:55:07.000Z",
+          "wordCount": 2263,
+          "title": "What is TypeScript? A Beginner's Guide",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
+          "author": "Joel Olawanle",
+          "description": "React is a popular frontend library that developers use to create applications. And you will need to integrate APIs into your React application at some point if you want to build production-ready apps.  Every developer who wants to build modern, robust web applications with React must understand how to",
+          "link": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
+          "publishedOn": "2022-06-21T15:35:38.000Z",
+          "wordCount": 3789,
+          "title": "How to Consume REST APIs in React – a Beginner's Guide",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
+          "author": "Beau Carnes",
+          "description": "Think of the most boring task you’ve ever done. Chances are, you can automate it with Python! We just published a Python automation course on the freeCodeCamp.org YouTube channel. Frank Andrade created this course. Frank is a data scientist and experienced teacher. In this course you will learn how to",
+          "link": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
+          "publishedOn": "2022-06-21T14:05:29.000Z",
+          "wordCount": 924,
+          "title": "Automate Your Life with Python",
+          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/first-programming-language/",
           "author": "Ophy Boamah",
