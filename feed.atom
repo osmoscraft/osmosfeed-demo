@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-24T01:18:22.223Z</updated>
+    <updated>2022-06-25T01:21:23.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Static in Java? What does this keyword mean? [Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/</id>
+        <link href="https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/"/>
+        <updated>2022-06-24T21:38:54.000Z</updated>
+        <summary type="html"><![CDATA[You can use the static keyword in different parts of a Java program like variables, methods, and static blocks.  The main purpose of using the static keyword in Java is to save memory. When we create a variable in a class that will be accessed by other classes, we]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Missing Data in a Dataset]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-missing-data-in-a-dataset/"/>
+        <updated>2022-06-24T21:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Missing values are common when working with real-world datasets – not the cleaned ones available on Kaggle, for example.  Missing data could result from a human factor (for example, a person deliberately failing to respond to a survey question), a problem in electrical sensors, or other factors. And when]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Element Loaders: The Bars]]></title>
+        <id>https://css-tricks.com/?p=366526</id>
+        <link href="https://css-tricks.com/single-element-loaders-the-bars/"/>
+        <updated>2022-06-24T20:00:29.000Z</updated>
+        <summary type="html"><![CDATA[We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …
+Single Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Data Augmentation in NLP Projects]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-perform-data-augmentation-in-nlp-projects/"/>
+        <updated>2022-06-24T15:33:57.000Z</updated>
+        <summary type="html"><![CDATA[In machine learning, you need to have a large amount of data in order to achieve strong model performance.  Using a method known as data augmentation, you can create more data for your machine learning project. Data augmentation is a collection of techniques that manage the process of automatically]]></summary>
+        <author>
+            <name>Davis David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check if a JavaScript String is a Valid URL]]></title>
+        <id>https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/</id>
+        <link href="https://www.freecodecamp.org/news/check-if-a-javascript-string-is-a-url/"/>
+        <updated>2022-06-24T15:09:54.000Z</updated>
+        <summary type="html"><![CDATA[A URL – or Uniform Resource Locator – is text used to identify resources like web pages, images, and videos on the internet. We commonly refer to URLs as website addresses, and they're used for file transfer, emails, and other applications. URLs consist of multiple parts – protocol, domain name, and]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Low-Code Dashboard for Your Startup]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-low-code-dashboard-for-your-startup/"/>
+        <updated>2022-06-24T12:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Creating a dashboard to keep track of customers and users is much easier than you may think. You can build an API-powered marketing dashboard using a low code approach.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a dashboard to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voice Control Usability Considerations For Partially Visually Hidden Link Names]]></title>
+        <id>https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/</id>
+        <link href="https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/"/>
+        <updated>2022-06-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Partially visually hidden link names may be good for people who use screen readers, but they can be problematic for those who rely on voice control software. Here’s a suggestion on how to solve this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Loop Through an Array in JavaScript – JS Iterate Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/</id>
@@ -1358,88 +1429,6 @@ Beautify GitHub Profile originally published on CSS-Tricks. You should get the n
 Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manage Accessible Design System Themes With CSS Color-Contrast()]]></title>
-        <id>https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/</id>
-        <link href="https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/"/>
-        <updated>2022-05-26T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Yuschik)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customizing Color Fonts on the Web]]></title>
-        <id>https://css-tricks.com/?p=366077</id>
-        <link href="https://css-tricks.com/customizing-color-fonts-on-the-web/"/>
-        <updated>2022-05-26T00:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …
-Customizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code a Framework – the  First Lines of Vue.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-framework-vuejs-example/"/>
-        <updated>2022-05-25T21:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how frameworks are built? A couple of weeks ago I was writing an article and asked myself, what's the first line of code Evan You wrote to build Vue.js? Well, thanks to Git and Evan You pushing Vue's code to GitHub, I have been able to]]></summary>
-        <author>
-            <name>Fabio Pacific</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter Emoji – How to Use Twemoji on Your Website]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-twitter-emoji-on-your-website/"/>
-        <updated>2022-05-25T21:08:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll explain what Twitter Emoji – or Twemoji – are and why you might want to use them. Why should you use Twitter Emojis? A couple of months ago, I started working on a project of mine, and I needed to allow users to select different icons]]></summary>
-        <author>
-            <name>Shayan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test React Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-test-react-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-react-applications/"/>
-        <updated>2022-05-25T16:46:00.000Z</updated>
-        <summary type="html"><![CDATA[React is one of the most popular frontend JavaScript frameworks. If you want to make sure that your React apps work as intended, it is important to write comprehensive tests. We just published a React testing course on the freeCodeCamp.org YouTube channel that will teach you how to build, deploy,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Grid Layout – Grid Properties Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-css-grid-layout/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-grid-layout/"/>
-        <updated>2022-05-25T15:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever had a problem positioning items on your web browser? Perhaps every time you try to think of a solution, you become tired and give up.  If so, stay tuned as I reveal a new method for resolving these kinds of problems with minimal or no stress.]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Promises for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-promises-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-promises-for-beginners/"/>
-        <updated>2022-05-25T14:56:17.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, a promise is a placeholder (proxy) for the value of an ongoing operation. You typically use a promise to manage situations where you must wait for the outcome of an operation. For example, uploading files to the server and awaiting the response of an API call, or just]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Perfect Table of Contents With HTML + CSS]]></title>
-        <id>https://css-tricks.com/?p=365888</id>
-        <link href="https://css-tricks.com/a-perfect-table-of-contents-with-html-css/"/>
-        <updated>2022-05-25T14:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …
-A Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Nicholas C. Zakas</name>
         </author>
     </entry>
 </feed>
