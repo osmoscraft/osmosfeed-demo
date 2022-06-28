@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366468",
+          "author": "Victor Adedokun",
+          "description": "Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …\nGreat (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/web-development-books-you-can-get-for-free/",
+          "publishedOn": "2022-06-27T13:27:49.000Z",
+          "wordCount": 3981,
+          "title": "Great (and Free!) Web Development Books You Can Get Online",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366468"
+        },
+        {
           "id": "https://css-tricks.com/?p=366526",
           "author": "Temani Afif",
           "description": "We’ve looked at spinners. We’ve looked at dots. Now we’re going to tackle another common pattern for loaders: bars. And we’re going to do the same thing in this third article of the series as we have the others …\nSingle Element Loaders: The Bars originally published on CSS-Tricks. You should get the newsletter.",
@@ -142,6 +152,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Gatsby 4 came out in October 2021 with a lot of new features. It may seem as if Gatsby 4 didn’t cause a big stir among developers, but it brought several game-changing features. Let’s see what v4 brings to the table.",
+          "link": "https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/",
+          "publishedOn": "2022-06-27T12:30:00.000Z",
+          "wordCount": 4467,
+          "title": "Demystifying The New Gatsby Framework",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f177e4c-abee-408b-bbd3-b66a4bd41e60/demystifying-gatsby4-framework.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f177e4c-abee-408b-bbd3-b66a4bd41e60/demystifying-gatsby4-framework.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/06/voice-control-usability-considerations-partially-visually-hidden-link-names/",
           "author": "hello@smashingmagazine.com (Eric Bailey)",
@@ -479,6 +504,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/",
+          "author": "Joel Olawanle",
+          "description": "When you're developing applications like a blog or a page where the data may change based on user actions, you'll want that page to refresh frequently. When the page refreshes or reloads, it will show any new data based off those user interactions. Good news – you can implement this",
+          "link": "https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/",
+          "publishedOn": "2022-06-27T17:41:15.000Z",
+          "wordCount": 1324,
+          "title": "Refresh the Page in JavaScript – JS Reload Window Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--4-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/",
+          "author": "Jessica Wilkins",
+          "description": "HTML (HyperText Markup Language) is an important markup language for building websites. HTML represents the content of the web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different HTML elements.  In this article, I",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/",
+          "publishedOn": "2022-06-27T16:41:05.000Z",
+          "wordCount": 3815,
+          "title": "Learn HTML – Responsive Web Design Study Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/jackson-sophat-wUbNvDTsOIc-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "This first step in fixing a coding error is to understand the error. Although some error messages may seem confusing, most of them will help you fix the error.  In this article, we'll be talking about an error that falls under the NameError  category in Python. You'll see",
+          "link": "https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/",
+          "publishedOn": "2022-06-27T15:58:39.000Z",
+          "wordCount": 1457,
+          "title": "NameError: Name plot_cases_simple is Not Defined – How to Fix this Python Error",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/brett-jordan-Ss3U6bEtKww-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/",
+          "author": "Dillion Megida",
+          "description": "There are multiple ways to empty an existing array in JavaScript. Emptying an array means removing all values from it. In this article, I'll show and explain two ways to clear an array. 1. How to Clear an Array by Modifying the Length Property The length property of an array",
+          "link": "https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/",
+          "publishedOn": "2022-06-27T15:53:34.000Z",
+          "wordCount": 1100,
+          "title": "How to Clear a JavaScript Array – JS Empty Array",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/clear-an-array.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/",
           "author": "Ihechikara Vincent Abba",
@@ -1388,26 +1453,6 @@
           "wordCount": 783,
           "title": "Python .split() – Splitting a String in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/mariana-jm-UvdzLNj1Vmk-unsplash_jpg.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/",
-          "author": "Quincy Larson",
-          "description": "Here is the full Lorem Ipsum text from 55 BC: Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.  Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur",
-          "link": "https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/",
-          "publishedOn": "2022-05-29T13:24:56.000Z",
-          "wordCount": 1096,
-          "title": "Lorem Ipsum Placeholder Text – Long Latin Filler Text and its History",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/Lorem-Ipsum.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-space-how-to-add-spaces/",
-          "author": "Quincy Larson",
-          "description": "Adding a space to your HTML can be deceptively difficult. And there are at least 5 of ways to go about doing this.  This tutorial will show you several examples. It will also show you how to use fancy versions of space, too. You can do all this in",
-          "link": "https://www.freecodecamp.org/news/html-space-how-to-add-spaces/",
-          "publishedOn": "2022-05-29T00:47:27.000Z",
-          "wordCount": 838,
-          "title": "HTML Space – How to Add Spaces in HTML",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jeremy-thomas-E0AHdsENmDg-unsplash.jpg"
         }
       ]
     }

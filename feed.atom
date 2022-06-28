@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-27T01:40:32.571Z</updated>
+    <updated>2022-06-28T01:27:05.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Refresh the Page in JavaScript – JS Reload Window Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/"/>
+        <updated>2022-06-27T17:41:15.000Z</updated>
+        <summary type="html"><![CDATA[When you're developing applications like a blog or a page where the data may change based on user actions, you'll want that page to refresh frequently. When the page refreshes or reloads, it will show any new data based off those user interactions. Good news – you can implement this]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn HTML – Responsive Web Design Study Guide]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/"/>
+        <updated>2022-06-27T16:41:05.000Z</updated>
+        <summary type="html"><![CDATA[HTML (HyperText Markup Language) is an important markup language for building websites. HTML represents the content of the web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different HTML elements.  In this article, I]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NameError: Name plot_cases_simple is Not Defined – How to Fix this Python Error]]></title>
+        <id>https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/</id>
+        <link href="https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/"/>
+        <updated>2022-06-27T15:58:39.000Z</updated>
+        <summary type="html"><![CDATA[This first step in fixing a coding error is to understand the error. Although some error messages may seem confusing, most of them will help you fix the error.  In this article, we'll be talking about an error that falls under the NameError  category in Python. You'll see]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Clear a JavaScript Array – JS Empty Array]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/"/>
+        <updated>2022-06-27T15:53:34.000Z</updated>
+        <summary type="html"><![CDATA[There are multiple ways to empty an existing array in JavaScript. Emptying an array means removing all values from it. In this article, I'll show and explain two ways to clear an array. 1. How to Clear an Array by Modifying the Length Property The length property of an array]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great (and Free!) Web Development Books You Can Get Online]]></title>
+        <id>https://css-tricks.com/?p=366468</id>
+        <link href="https://css-tricks.com/web-development-books-you-can-get-for-free/"/>
+        <updated>2022-06-27T13:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …
+Great (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Victor Adedokun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying The New Gatsby Framework]]></title>
+        <id>https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/</id>
+        <link href="https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/"/>
+        <updated>2022-06-27T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Gatsby 4 came out in October 2021 with a lot of new features. It may seem as if Gatsby 4 didn’t cause a big stir among developers, but it brought several game-changing features. Let’s see what v4 brings to the table.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Static in Java? What does this keyword mean? [Solved]]]></title>
         <id>https://www.freecodecamp.org/news/why-static-in-java-what-does-this-keyword-mean/</id>
@@ -1284,26 +1345,6 @@ SPAs, Shared Element Transitions, and Re-Evaluating Technology originally publis
         <link href="https://www.freecodecamp.org/news/python-split-string/"/>
         <updated>2022-05-29T20:27:27.000Z</updated>
         <summary type="html"><![CDATA[Do you want to turn a string into an array of strings using Python? One way to do this is with Python's built-in .split() method. Here's an example of how to do this in the Python command line: >>> string1 = "test your might" >>> string1.split(" "); # Output: ['test',]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lorem Ipsum Placeholder Text – Long Latin Filler Text and its History]]></title>
-        <id>https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/</id>
-        <link href="https://www.freecodecamp.org/news/lorem-ipsum-placeholder-text-latin-filler-history/"/>
-        <updated>2022-05-29T13:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Here is the full Lorem Ipsum text from 55 BC: Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.  Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Space – How to Add Spaces in HTML]]></title>
-        <id>https://www.freecodecamp.org/news/html-space-how-to-add-spaces/</id>
-        <link href="https://www.freecodecamp.org/news/html-space-how-to-add-spaces/"/>
-        <updated>2022-05-29T00:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Adding a space to your HTML can be deceptively difficult. And there are at least 5 of ways to go about doing this.  This tutorial will show you several examples. It will also show you how to use fancy versions of space, too. You can do all this in]]></summary>
         <author>
             <name>Quincy Larson</name>
         </author>
