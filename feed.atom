@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-01T01:44:12.400Z</updated>
+    <updated>2022-07-02T01:21:54.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Import SVGs in a React and Vite app]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/"/>
+        <updated>2022-07-01T22:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Are you having difficulties importing SVGs into your React app? This is a problem that many developers face, especially when setting up a new React app with a module bundler. In this article, I will share with you the different ways of importing SVGs in React, as well as how]]></summary>
+        <author>
+            <name>Israel Mitolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String Comparison – How to Compare Strings in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-comparison-how-to-compare-strings-in-js/"/>
+        <updated>2022-07-01T22:07:46.000Z</updated>
+        <summary type="html"><![CDATA[You may want to compare two strings to know which is higher or lower alphabetically or to see if they are equal. You can do this in many ways. I'll show you two of them in this article. 1. How to Compare Strings Using localeCompare You can use the localeCompare]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Else-If Statement Example]]></title>
+        <id>https://www.freecodecamp.org/news/python-else-if-statement-example/</id>
+        <link href="https://www.freecodecamp.org/news/python-else-if-statement-example/"/>
+        <updated>2022-07-01T22:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Conditional statements are helpful for decision-making and are a core concept in all programming languages. In this article, you will learn how to write conditional statements in Python. Specifically, you will learn how to write if, if else, and elif (also known as  else if) statements in Python. Here]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Track Machine Learning Experiments with HarperDB]]></title>
+        <id>https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/</id>
+        <link href="https://www.freecodecamp.org/news/track-machine-learning-experiments-with-harperdb/"/>
+        <updated>2022-07-01T17:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Properly tracking your machine learning experiments is easier than you think. When working on a machine learning project, you will conduct different machine learning experiments before you reach the final ML model with the best performance.  Here are some possible machine learning experiments you might conduct:  * Testing]]></summary>
+        <author>
+            <name>Davis David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use VLOOKUP in Excel]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-vlookup-in-excel/"/>
+        <updated>2022-07-01T16:47:37.000Z</updated>
+        <summary type="html"><![CDATA[When you're working in Excel, the VLOOKUP function makes looking up information less time-consuming. This is particularly true when you're using more than one Excel sheet. In this article, you will learn what the VLOOKUP function does, as well as understand the syntax behind it. You will also learn how]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battery Icon Not Showing – How to Restore Missing Battery Icon in Windows PC]]></title>
+        <id>https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/</id>
+        <link href="https://www.freecodecamp.org/news/battery-icon-not-showing-how-to-restore-missing-battery-icon-in-windows-pc/"/>
+        <updated>2022-07-01T15:57:24.000Z</updated>
+        <summary type="html"><![CDATA[So, you’re working with your Windows PC and you discover you can’t find the battery icon in the taskbar. You even expand hidden icons and you still can’t find the battery icon. This could result in a negative effect on your productivity – because if you don't plug your laptop]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single Element Loaders: Going 3D!]]></title>
+        <id>https://css-tricks.com/?p=366544</id>
+        <link href="https://css-tricks.com/single-element-loaders-going-3d/"/>
+        <updated>2022-07-01T13:24:09.000Z</updated>
+        <summary type="html"><![CDATA[For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …
+Single Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Set – How to Create Sets in Python]]></title>
         <id>https://www.freecodecamp.org/news/python-set-how-to-create-sets-in-python/</id>
@@ -1422,80 +1493,6 @@ Please Give Me Some Space originally published on CSS-Tricks. You should get the
         <summary type="html"><![CDATA[Heroku is a platform as a service that enables developers to build, run, and operate applications entirely in the cloud. Heroku makes it simple to do things like create virtual machines to host applications and to deploy websites. Some of the features that Heroku offers can actually be created easily]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Group Chat App With Vanilla JS, Twilio And Node.js]]></title>
-        <id>https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/</id>
-        <link href="https://smashingmagazine.com/2022/06/build-group-chat-app-vanillajs-twilio-nodejs/"/>
-        <updated>2022-06-02T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an SVG File?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-an-svg-file/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-an-svg-file/"/>
-        <updated>2022-06-01T16:05:04.000Z</updated>
-        <summary type="html"><![CDATA[SVG stands for scalable vector graphics. It's a web-friendly vector-based file format used to render two-dimensional images on the internet. You can identify SVG files by their extension – .svg. Unlike other popular image formats like PNG, JPEG, and JPG – which store image information in form of pixels because]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Indent HTML Code – And Why it's Important]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-indent-in-html-and-why-it-is-important/"/>
-        <updated>2022-06-01T15:40:55.000Z</updated>
-        <summary type="html"><![CDATA[When you are building out HTML files, it's really important to indent your code. But how do you do that in HTML and why is it important? In this article, I will show you how to properly indent your HTML files and explain why it is important to properly format]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Block Theme Patterns in WordPress 6.0]]></title>
-        <id>https://css-tricks.com/?p=365841</id>
-        <link href="https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/"/>
-        <updated>2022-06-01T15:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …
-How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Machine Learning Model as a Web App Using Gradio]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-machine-learning-model-as-a-web-app-using-gradio/"/>
-        <updated>2022-06-01T15:14:51.000Z</updated>
-        <summary type="html"><![CDATA[You've built your Machine Learning model with 99% accuracy and now you are ecstatic. You are like yaaaaaaaaay! My model performed well.  Then you paused and you were like – now what?  Well first, you might have thought of uploading your code to GitHub and showing people your]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code a Shopping Cart with JavaScript (no libraries)]]></title>
-        <id>https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/"/>
-        <updated>2022-06-01T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[There are thousands of JavaScript libraries and frameworks. But when you are trying to improve your JavaScript skills, it can sometimes be helpful to create a project using no libraries and no frameworks. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPAs, Shared Element Transitions, and Re-Evaluating Technology]]></title>
-        <id>https://css-tricks.com/?p=366175</id>
-        <link href="https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/"/>
-        <updated>2022-06-01T14:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):
-Hip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” 
-…
-SPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
