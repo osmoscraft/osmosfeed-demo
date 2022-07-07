@@ -183,6 +183,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.",
+          "link": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
+          "publishedOn": "2022-07-06T12:00:00.000Z",
+          "wordCount": 8853,
+          "title": "Designing A Better Pricing Page",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/07/build-localized-website-hugo-strapi/",
           "author": "hello@smashingmagazine.com (Zara Cooper)",
           "description": "In this tutorial, Zara Cooper explains how to use Strapi’s Internationalization feature to create content in multiple languages. You’ll also learn how to create a Hugo site that consumes localized content from Strapi.",
@@ -466,21 +481,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57b9844c-e3aa-48e2-9d72-3938dbf553d0/simplify-color-palette-css-color-mix-sharing-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
-          "author": "hello@smashingmagazine.com (Alexey & Alexander)",
-          "description": "Computer technologies have simplified the process of recording historical events, technological breakthroughs, contemporary art, and everyday life. However, the notion of digital archiving can be deceptive. Often our technical footprints are carved in sand rather than stone.",
-          "link": "https://smashingmagazine.com/2022/06/digital-museums-digital-history/",
-          "publishedOn": "2022-06-07T09:30:00.000Z",
-          "wordCount": 2698,
-          "title": "Digital Museums For Digital History",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/87001d28-4e45-46cd-8a5c-be63cc0a413c/digital-museums-digital-history.jpg"
         }
       ]
     },
@@ -489,6 +489,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/",
+          "author": "Vikram Aruchamy",
+          "description": "Python dictionaries allow you to store values in a Key and Value format. You can access the values using the key. You can also iterate through the complete dictionary to access every element. Sometimes while iterating through the dictionary, you may need to remove a key from the dictionary. This",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/",
+          "publishedOn": "2022-07-06T21:56:37.000Z",
+          "wordCount": 1830,
+          "title": "How to Remove a Key from a Dictionary While Iterating Over it",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Freecodecamp_dictionary_delete_iterate.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use some of the inbuilt data structures in Python to organize and store a collection of variables.  Some of these data structures include Lists, Sets, Tuples, and Dictionaries. Each of them have their own syntax and features.  In this article, we'll focus on Lists. You'll see",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/",
+          "publishedOn": "2022-07-06T21:19:53.000Z",
+          "wordCount": 1739,
+          "title": "How to Make a List in Python – Declare Lists in Python Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/kelly-sikkema--1_RZL8BGBM-unsplash--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/product-designer-roadmap/",
+          "author": "Ujah Emmanuel",
+          "description": "The Design industry is rapidly evolving, and there are many career choices in the space. You've got UI/UX Design, Product Design, Interaction Design, Motion Design, and more.  In this article, I will discuss a roadmap that will show you how to become a self-taught Digital Product Designer without a",
+          "link": "https://www.freecodecamp.org/news/product-designer-roadmap/",
+          "publishedOn": "2022-07-06T20:41:36.000Z",
+          "wordCount": 2089,
+          "title": "How to Become a Product Designer – 2022 Product Design Roadmap",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/product-designer-roadmap-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/",
+          "author": "Rishi Purwar",
+          "description": "In this tutorial, I will walk you through the process of creating a GitHub User Authentication System using Firebase and React (with hooks). If you have ever tried building an authentication system before, you might agree that it can be painful. This is where Firebase steps in. Firebase provides user",
+          "link": "https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/",
+          "publishedOn": "2022-07-06T18:18:52.000Z",
+          "wordCount": 6735,
+          "title": "How to Set Up GitHub User Authentication using Firebase and React (with Hooks)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Modern-Music-Electronic-Channel-Youtube-Thumbnail-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/an-ssl-error-has-occurred-how-to-fix-certificate-verification-error/",
+          "author": "Kolade Chris",
+          "description": "If you’re surfing the net and an SSL error occurs on a website you're trying to visit, your browser will warn you by showing you an error messages or signal. This error is mostly caused by an expired or bad SSL certificate. It also occurs when the browser can’t verify",
+          "link": "https://www.freecodecamp.org/news/an-ssl-error-has-occurred-how-to-fix-certificate-verification-error/",
+          "publishedOn": "2022-07-06T17:51:46.000Z",
+          "wordCount": 1734,
+          "title": "An SSL Error Has Occurred – How to Fix Certificate Verification Error",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/ssl.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-javascript-faster/",
+          "author": "Annoh Karlgusta",
+          "description": "JavaScript is a programming language commonly used for web development, among many other things. It works in conjunction with HTML and CSS to add dynamic functionality to websites. About 97% of the websites in the world use JavaScript – so you can see that it's a popular and widely-used language.",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-javascript-faster/",
+          "publishedOn": "2022-07-06T17:28:46.000Z",
+          "wordCount": 3446,
+          "title": "How to Learn JavaScript Faster – Tips and Resources to Get Started Coding JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/How-to-learn-JavaScript-faster-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/",
+          "author": "Beau Carnes",
+          "description": "Coding games is a fun way to improve your JavaScript skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to code two word games in JavaScript. Ania Kubów developed this course. Ania works for freeCodeCamp and has a popular tutorial YouTube channel.",
+          "link": "https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/",
+          "publishedOn": "2022-07-06T14:59:15.000Z",
+          "wordCount": 15058,
+          "title": "JavaScript Tutorial –  Code Two Word Games",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
           "author": "Natalie Pina",
@@ -508,6 +578,16 @@
           "wordCount": 1568,
           "title": "JavaScript Check Empty String – Checking Null or Empty in JS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--7-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/",
+          "author": "Bala Priya C",
+          "description": "Have you ever trained a machine learning model on a real-world dataset? If yes, you’ll have likely come across outliers.  Outliers are those data points that are significantly different from the rest of the dataset. They are often abnormal observations that skew the data distribution, and arise due to",
+          "link": "https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/",
+          "publishedOn": "2022-07-05T22:02:13.000Z",
+          "wordCount": 2623,
+          "title": "How to Detect Outliers in Machine Learning – 4 Methods for Outlier Detection",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Outlier-Detection.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/",
@@ -1498,106 +1578,6 @@
           "wordCount": 3214,
           "title": "How to Manage PostgreSQL Databases from the Command Line with psql",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/manage-postgreSQL-with-psql.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to talk a bit about technical interviews. I'll share a few tips that, based on my experience, might help you go through these interviews successfully. I originally wrote this article more than a year ago, before getting my first job offer as a",
-          "link": "https://www.freecodecamp.org/news/problem-solving-and-technical-interview-prep/",
-          "publishedOn": "2022-06-06T22:50:19.000Z",
-          "wordCount": 4011,
-          "title": "How to Prepare for Technical Interviews – Problem-Solving Tips + Mindset Tricks to Get You Ready",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-christina-morillo-1181345.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-foundational-math-curriculum/",
-          "author": "Ed Pratowski",
-          "description": "Do you want to use Python to solve math problems? Then freeCodeCamp's new Foundational Math course will guide you through the essential math you need to know to prepare you for the Data Science curriculum.  You will get a math refresher with a twist. Instead of using a pencil",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-foundational-math-curriculum/",
-          "publishedOn": "2022-06-06T21:58:53.000Z",
-          "wordCount": 1184,
-          "title": "Learn Foundational Mathematics on freeCodeCamp – Interactive Math Courses Open Beta",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pexels-nothing-ahead-3729557.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-interview-questions-and-answers/",
-          "author": "Joel Olawanle",
-          "description": "React is a JavaScript library for creating user interfaces. It's used in over 30,000 live websites and has over 70,000 GitHub stars.  According to the 2021 Stack Overflow developer survey [https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-web-frameworks] , React has surpassed jQuery as the most popular web framework, and holds approximately 40.14% of the market",
-          "link": "https://www.freecodecamp.org/news/react-interview-questions-and-answers/",
-          "publishedOn": "2022-06-06T21:55:16.000Z",
-          "wordCount": 2605,
-          "title": "React Interview Questions – Interview Prep with Answers and Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-a-data-analyst-do-data-analyst-job-description/",
-          "author": "Dionysia Lemonaki",
-          "description": "We live in a digital world, and with each passing day, we create 2.5 quintillion  bytes of data. That amount of data is generated by activities like browsing the web, using social media sites and streaming platforms, and communicating via instant messaging applications with friends and family. These are",
-          "link": "https://www.freecodecamp.org/news/what-does-a-data-analyst-do-data-analyst-job-description/",
-          "publishedOn": "2022-06-06T20:44:16.000Z",
-          "wordCount": 1856,
-          "title": "What Does a Data Analyst Do? Data Analyst Job Description",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/carlos-muza-hpjSkU2UYSU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-k8s-mean-kubernetes-setup-guide/",
-          "author": "Sebastian Sigl",
-          "description": "You might've seen the term k8s in different sources, and wondered what it means. Well, it means Kubernetes. The abbreviation consists of:  * \"k\" which is the first letter of Kubernetes,  * \"8\" which is the number of letters between the first and the last in the",
-          "link": "https://www.freecodecamp.org/news/what-does-k8s-mean-kubernetes-setup-guide/",
-          "publishedOn": "2022-06-06T19:46:37.000Z",
-          "wordCount": 1168,
-          "title": "What Does K8s Mean? How to Set Up Kubernetes and Manage Clusters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/what-does-k8s-mean.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-checkout-file-from-another-branch/",
-          "author": "Tim Mouskhelichvili",
-          "description": "While you're working on a repository in Git, you might need to checkout a specific file from another branch. Luckily, Git offers many possible ways to do this task quickly. One of the easiest solutions is to use the git checkout command with the specified file as an argument. In",
-          "link": "https://www.freecodecamp.org/news/git-checkout-file-from-another-branch/",
-          "publishedOn": "2022-06-06T19:36:25.000Z",
-          "wordCount": 781,
-          "title": "Git Checkout – How to Checkout a File from Another Branch",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux/",
-          "author": "Dillion Megida",
-          "description": "There are a couple different ways to copy and paste content when you're working on your computer. If you spend more time in the user interface of your device, you'll probably use your mouse to do this. You can copy files by right-clicking on the file and selecting \"Copy\", then",
-          "link": "https://www.freecodecamp.org/news/the-linux-cp-command-how-to-copy-files-in-linux/",
-          "publishedOn": "2022-06-06T16:06:41.000Z",
-          "wordCount": 880,
-          "title": "The Linux cp Command – How to Copy Files in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/linux-cp-command.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-insert-a-checkbox-in-excel/",
-          "author": "Kolade Chris",
-          "description": "Microsoft Excel is a dynamic data analysis tool you can use to do virtually anything. From charting, graphing, and financial analysis to interactive forms and to-do lists, it's got you covered. If you want to use Excel to make a To-do list, an interactive form, or a printable form, then",
-          "link": "https://www.freecodecamp.org/news/how-to-insert-a-checkbox-in-excel/",
-          "publishedOn": "2022-06-06T15:53:58.000Z",
-          "wordCount": 738,
-          "title": "How to Insert a Checkbox in Excel",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/quality-787673_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/crows-foot-notation-relationship-symbols-and-how-to-read-diagrams/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Entity relationship diagrams (ERD) help us understand the connection between various \"entities\" that make up a system.  In software development, ERDs are mostly used in database design. This lets us create graphical representations of the entities that make up systems such as a database (you will understand this better",
-          "link": "https://www.freecodecamp.org/news/crows-foot-notation-relationship-symbols-and-how-to-read-diagrams/",
-          "publishedOn": "2022-06-06T15:11:31.000Z",
-          "wordCount": 1757,
-          "title": "Crow's Foot Notation – Relationship Symbols And How to Read Diagrams",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/hanna-morris-_XXNjSziZuA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at algorithms, a key topic when it comes to computer science and software development. Algorithm is a fancy, sometimes intimidating, and often misunderstood word. It sounds like something really hard and complex, but actually it's nothing more than a",
-          "link": "https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/",
-          "publishedOn": "2022-06-06T14:40:36.000Z",
-          "wordCount": 5726,
-          "title": "Introduction to Algorithms – with JavaScript Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/pexels-guduru-ajay-bhargav-1044302.jpg"
         }
       ]
     }
