@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-07T01:39:26.098Z</updated>
+    <updated>2022-07-08T01:39:26.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[keyerror in Python – How to Fix Dictionary Error]]></title>
+        <id>https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/</id>
+        <link href="https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/"/>
+        <updated>2022-07-07T19:33:31.000Z</updated>
+        <summary type="html"><![CDATA[When working with dictionaries in Python, a KeyError gets raised when you try to access an item that doesn't exist in a Python dictionary. Here's a Python dictionary called student: student = {   "name": "John",   "course": "Python", } In the dictionary above, you can access the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reversing a String in JavaScript – Invert a string with the JS .reverse() Method]]></title>
+        <id>https://www.freecodecamp.org/news/reversing-a-string-in-javascript-invert-a-string-with-the-js-reverse-method/</id>
+        <link href="https://www.freecodecamp.org/news/reversing-a-string-in-javascript-invert-a-string-with-the-js-reverse-method/"/>
+        <updated>2022-07-07T17:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Reversing strings in JavaScript is something you'll need to do often on your web development journey. You might need to reverse a string during interviews, when solving algorithms, or when doing data manipulation. We will learn how to reverse a string in JavaScript using built-in JavaScript methods as well as]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The PHP Handbook – Learn PHP for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/the-php-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-php-handbook/"/>
+        <updated>2022-07-07T16:35:35.000Z</updated>
+        <summary type="html"><![CDATA[PHP is an incredibly popular programming language. Statistics say it’s used by 80% of all websites. It’s the language that powers WordPress, the widely used content management system for websites. And it also powers a lot of different frameworks that make Web Development easier, like Laravel. Speaking of Laravel, it]]></summary>
+        <author>
+            <name>Flavio Copes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Connection is Not Private Error – How to Fix in Chrome]]></title>
+        <id>https://www.freecodecamp.org/news/your-connection-is-not-private-error-how-to-fix-in-chrome/</id>
+        <link href="https://www.freecodecamp.org/news/your-connection-is-not-private-error-how-to-fix-in-chrome/"/>
+        <updated>2022-07-07T16:03:17.000Z</updated>
+        <summary type="html"><![CDATA[If you log on to a website and your browser shows the “Your connection is not private” error, the browser is trying to warn you to stay off the website. In that case, the browser has run a check on the SSL (secure socket layer) certificate and found a problem]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript DOM Manipulation Course]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-dom-manipulation/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-dom-manipulation/"/>
+        <updated>2022-07-07T13:15:27.000Z</updated>
+        <summary type="html"><![CDATA[In website development, DOM stands for Document Object Model. It is a programming interface that allows us to create, change, or remove elements from a website document. DOM manipulation is when you use JavaScript to add, remove, and modify elements of a website. It is very common in web development.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Accessibility-First Approach To Chart Visual Design]]></title>
+        <id>https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/</id>
+        <link href="https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/"/>
+        <updated>2022-07-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kent Eisenhuth &amp; Kai Chang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Nullable – How to Check for Null in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/"/>
+        <updated>2022-07-07T00:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes you've gotta check to make sure that nothing isn't actually...nothing. 😲❗❓  In JavaScript, null is a primitive type intentionally containing the value of null. Undefined is a primitive type and represents a variable you declare without initiating a value. So, null is nothing and undefined is just missing]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Remove a Key from a Dictionary While Iterating Over it]]></title>
         <id>https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/</id>
@@ -1418,77 +1488,6 @@ Let’s Make a QR Code Generator With a Serverless Function! originally publishe
         <summary type="html"><![CDATA[Speech recognition allows software to recognize speech within audio and convert it into text. There are many interesting use-cases for speech recognition and it is easier than you may think to add it your own applications. We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplify Your Color Palette With CSS Color-Mix()]]></title>
-        <id>https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/</id>
-        <link href="https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/"/>
-        <updated>2022-06-08T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Components – How to Create a Search, Filter, and Pagination Component in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-react-components/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-react-components/"/>
-        <updated>2022-06-07T23:37:17.000Z</updated>
-        <summary type="html"><![CDATA[I wrote the article "How to Search and Filter Components in React" exactly one year ago. > If you're building a React app, you want your users to be able to search & get exact results. And if you're getting data from an API, they need to be able to]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add JWT Authentication in FastAPI – A Practical Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-jwt-authentication-in-fastapi/"/>
-        <updated>2022-06-07T23:28:25.000Z</updated>
-        <summary type="html"><![CDATA[FastAPI [https://fastapi.tiangolo.com/] is a modern, fast, battle tested and light-weight web development framework written in Python. Other popular options in the space are Django [https://www.djangoproject.com/], Flask [https://flask.palletsprojects.com/en/2.1.x/]and Bottle [https://bottlepy.org/docs/dev/]. And since it's new, FastAPI comes with both advantages and disadvantages. On the positive side, FastAPI implements all the modern standards,]]></summary>
-        <author>
-            <name>Abdullah Adeel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World in Java – Example Program]]></title>
-        <id>https://www.freecodecamp.org/news/hello-world-in-java-example-program/</id>
-        <link href="https://www.freecodecamp.org/news/hello-world-in-java-example-program/"/>
-        <updated>2022-06-07T17:13:21.000Z</updated>
-        <summary type="html"><![CDATA[When you're learning a new programming language, you'll often see the first program called a "Hello World" program. It's used in most cases as a simple program for beginners.  I will assume that you're either reading this article as a beginner to the Java programming language or you're here]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Change Font with HTML]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-change-font-with-html/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-change-font-with-html/"/>
-        <updated>2022-06-07T16:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Back in the days of HTML4, there was a  tag you could use to change the font size, font family, and the color of a text. But with HTML5, the  tag has been deprecated. So if you want to change anything related to the font, you have to]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage PostgreSQL Databases from the Command Line with psql]]></title>
-        <id>https://www.freecodecamp.org/news/manage-postgresql-with-psql/</id>
-        <link href="https://www.freecodecamp.org/news/manage-postgresql-with-psql/"/>
-        <updated>2022-06-07T15:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Now is a great time to learn relational databases and SQL. From web development to data science, they are used everywhere.  In the Stack Overflow 2021 Survey [https://insights.stackoverflow.com/survey/2021#most-popular-technologies-database-prof] , 4 out of the top 5 database technologies used by professional developers were relational database management systems. PostgreSQL is an]]></summary>
-        <author>
-            <name>Gerard Hynes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Interoperable Web Components That Even Work With React]]></title>
-        <id>https://css-tricks.com/?p=366222</id>
-        <link href="https://css-tricks.com/building-interoperable-web-components-react/"/>
-        <updated>2022-06-07T13:57:57.000Z</updated>
-        <summary type="html"><![CDATA[Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …
-Building Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
         </author>
     </entry>
 </feed>
