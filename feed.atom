@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-08T01:39:26.252Z</updated>
+    <updated>2022-07-09T01:15:04.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Five-Step Approach To The Metaverse]]></title>
+        <id>https://smashingmagazine.com/2022/07/five-step-approach-metaverse/</id>
+        <link href="https://smashingmagazine.com/2022/07/five-step-approach-metaverse/"/>
+        <updated>2022-07-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As a designer, you may be tasked with figuring out how your company should approach the metaverse or thinking about designing for the metaverse. In this article, Lyndon Cerejo will discuss a few steps he recommends before diving headfirst into any design for the metaverse.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[keyerror in Python – How to Fix Dictionary Error]]></title>
         <id>https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/</id>
@@ -1405,87 +1415,6 @@ Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the
         <link href="https://www.freecodecamp.org/news/full-stack-amazon-clone-with-flutter/"/>
         <updated>2022-06-09T14:11:26.000Z</updated>
         <summary type="html"><![CDATA[Some people complain about Amazon's UI but most people realize how complex Amazon's website truly is. If you want to improve your skills as a full stack developer, creating an Amazon clone will give you practice in many different areas. We just published a 12-hour course that will teach you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Of Frontend Build Tools]]></title>
-        <id>https://smashingmagazine.com/2022/06/future-frontend-build-tools/</id>
-        <link href="https://smashingmagazine.com/2022/06/future-frontend-build-tools/"/>
-        <updated>2022-06-09T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article explores the evolution and the future of frontend tooling, presenting a new set of tools featuring a change in paradigm, platform, or both.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alexander Joseph)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inline Style in HTML – CSS Inline Styles]]></title>
-        <id>https://www.freecodecamp.org/news/inline-style-in-html/</id>
-        <link href="https://www.freecodecamp.org/news/inline-style-in-html/"/>
-        <updated>2022-06-08T21:24:31.000Z</updated>
-        <summary type="html"><![CDATA[Cascading Style Sheets (CSS) is a markup language that determines how your web pages will appear. It manages the colors, fonts, and layouts of your website elements, as well as allowing you to add effects or animations to your pages. We can style an HTML file/page in three ways: external]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error 502 Bad Gateway Meaning]]></title>
-        <id>https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/</id>
-        <link href="https://www.freecodecamp.org/news/error-502-bad-gateway-meaning/"/>
-        <updated>2022-06-08T20:21:52.000Z</updated>
-        <summary type="html"><![CDATA[When you visit a website and you get a “502 Bad Gateway” error, it means there’s an issue with the servers powering the website. On many occasions, this error is an issue with the website itself, so on your end, there’s nothing you can do to solve it. But the]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python enumerate() – What is the Enumerate Function in Python?]]></title>
-        <id>https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-enumerate-what-is-the-enumerate-function-in-python/"/>
-        <updated>2022-06-08T19:56:15.000Z</updated>
-        <summary type="html"><![CDATA[The enumerate() function in Python takes in a data collection as a parameter and returns an enumerate object.  The enumerate object is returned in a key-value pair format. The key is the corresponding index of each item and the value is the items.  In this article, we'll see]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove a Directory in Linux – Delete a Folder Command]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-a-directory-in-linux/"/>
-        <updated>2022-06-08T17:11:56.000Z</updated>
-        <summary type="html"><![CDATA[If you're using a user interface, you can right-click on a directory and select "Delete" or "Move to Bin". But how do you do this on the terminal? I'll explain that in this article. How to Remove a Directory in Linux There are two ways to remove directories in Linux:]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Any UI in Flutter]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-any-ui-in-flutter/"/>
-        <updated>2022-06-08T15:22:36.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to convert any user interface image, piece, or screen into Flutter [https://flutter.dev] code. This is not a tutorial on building an app. It is rather a guide that will help you implement any UI you come across into an app you already have.]]></summary>
-        <author>
-            <name>Obumuneme Nwabude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Make a QR Code Generator With a Serverless Function!]]></title>
-        <id>https://css-tricks.com/?p=366147</id>
-        <link href="https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/"/>
-        <updated>2022-06-08T14:30:53.000Z</updated>
-        <summary type="html"><![CDATA[QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …
-Let’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speech Recognition in Python]]></title>
-        <id>https://www.freecodecamp.org/news/speech-recognition-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/speech-recognition-in-python/"/>
-        <updated>2022-06-08T14:10:46.000Z</updated>
-        <summary type="html"><![CDATA[Speech recognition allows software to recognize speech within audio and convert it into text. There are many interesting use-cases for speech recognition and it is easier than you may think to add it your own applications. We just published a course on the freeCodeCamp.org YouTube channel that will teach you]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
