@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366609",
+          "author": "Eluda",
+          "description": "HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …\nTechnical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/technical-writing-for-developers/",
+          "publishedOn": "2022-07-11T12:50:13.000Z",
+          "wordCount": 5436,
+          "title": "Technical Writing for Developers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366609"
+        },
+        {
+          "id": "https://css-tricks.com/?p=366689",
+          "author": "Geoff Graham",
+          "description": "Melanie Sumner has this super-specific collection of web-related nouns for describing a group or set of something. You know how there’s a school or fish or a herd of cows? Same sort of thing, but for funny web jargon.\nThings …\nCollective Nouns for the Web originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/collective-nouns-for-the-web/",
+          "publishedOn": "2022-07-01T19:15:00.000Z",
+          "wordCount": 923,
+          "title": "Collective Nouns for the Web",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366689"
+        },
+        {
           "id": "https://css-tricks.com/?p=366544",
           "author": "Temani Afif",
           "description": "For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …\nSingle Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.",
@@ -142,6 +162,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/07/look-remix-differences-next/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "Let’s talk about Remix, the framework to create JavaScript projects using server-side rendering. Let’s go through its main features and concepts and see the similarities and differences with Next.js.",
+          "link": "https://smashingmagazine.com/2022/07/look-remix-differences-next/",
+          "publishedOn": "2022-07-11T09:00:00.000Z",
+          "wordCount": 4034,
+          "title": "A Look At Remix And The Differences With Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e925a90-8fec-44cb-92c0-2ab03d13a2ea/look-remix-differences-next-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8e925a90-8fec-44cb-92c0-2ab03d13a2ea/look-remix-differences-next-sharing-card.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/07/five-step-approach-metaverse/",
           "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
@@ -419,6 +454,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/",
+          "author": "Brittany Joiner",
+          "description": "If you've ever contributed to a project, whether it's your app at work or an open-source tool, you've likely created a pull request. This requests that your code changes to merged into the main codebase. We use pull requests to ensure only quality code is merged into our main branches.",
+          "link": "https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/",
+          "publishedOn": "2022-07-11T23:06:03.000Z",
+          "wordCount": 2829,
+          "title": "How to Create an Automated Pull Request Checklist in GitHub",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Pink-Money-Making-Apps-YouTube-Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/intoduction-to-nodejs/",
+          "author": "Arash Arora",
+          "description": "Node.js is a JavaScript runtime that extends its capability to the server-side. It is built on Chrome’s V8 JavaScript Engine.  Node is an event-driven, non-blocking IO model. This means it's asynchronous, and doesn't block itself for one request (but rather immediately moves to the next request). This makes Node",
+          "link": "https://www.freecodecamp.org/news/intoduction-to-nodejs/",
+          "publishedOn": "2022-07-11T21:31:18.000Z",
+          "wordCount": 2692,
+          "title": "How to Get Started with Node.js – Beginner's Guide to Node",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/1200px-Node.js_logo.svg.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/",
+          "author": "Dillion Megida",
+          "description": "JavaScript has many string methods you can use to format strings. In this article, I'll show you some of the most commonly used methods. How to Use the toLowerCase() String Method As the name implies, you use the toLowerCase() string method to convert strings to their lowercase version. This method",
+          "link": "https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/",
+          "publishedOn": "2022-07-11T18:38:41.000Z",
+          "wordCount": 1220,
+          "title": "JavaScript String Format – Formatting Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/js-string-format.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/",
+          "author": "Joel Olawanle",
+          "description": "An undefined variable or anything without a value will always return \"undefined\" in JavaScript. This is not the same as null, despite the fact that both imply an empty state.  You'll typically assign a value to a variable after you declare it, but this is not always the case.",
+          "link": "https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/",
+          "publishedOn": "2022-07-11T17:13:42.000Z",
+          "wordCount": 1262,
+          "title": "JavaScript Check if Undefined – How to Test for Undefined in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--9-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
+          "author": "Emmanuel Ohans",
+          "description": "\"I hate stack overflow\" — said no developer ever. While it’s helpful to have your answers a Google search away, what’s even more powerful is truly understanding the solutions you stumble upon. In this article, I’ll explore the seven most stackoverflowed TypeScript questions. I spent hours researching these. I hope",
+          "link": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
+          "publishedOn": "2022-07-11T15:52:33.000Z",
+          "wordCount": 6089,
+          "title": "The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/combined-blog-cover-6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
+          "author": "Beau Carnes",
+          "description": "OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and",
+          "link": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
+          "publishedOn": "2022-07-11T14:40:04.000Z",
+          "wordCount": 8199,
+          "title": "OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/openstack.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/keyerror-in-python-how-to-fix-dictionary-error/",
           "author": "Ihechikara Vincent Abba",

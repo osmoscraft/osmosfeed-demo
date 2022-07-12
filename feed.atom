@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-11T01:27:44.023Z</updated>
+    <updated>2022-07-12T01:41:14.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Automated Pull Request Checklist in GitHub]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/"/>
+        <updated>2022-07-11T23:06:03.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever contributed to a project, whether it's your app at work or an open-source tool, you've likely created a pull request. This requests that your code changes to merged into the main codebase. We use pull requests to ensure only quality code is merged into our main branches.]]></summary>
+        <author>
+            <name>Brittany Joiner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with Node.js – Beginner's Guide to Node]]></title>
+        <id>https://www.freecodecamp.org/news/intoduction-to-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/intoduction-to-nodejs/"/>
+        <updated>2022-07-11T21:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Node.js is a JavaScript runtime that extends its capability to the server-side. It is built on Chrome’s V8 JavaScript Engine.  Node is an event-driven, non-blocking IO model. This means it's asynchronous, and doesn't block itself for one request (but rather immediately moves to the next request). This makes Node]]></summary>
+        <author>
+            <name>Arash Arora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript String Format – Formatting Strings in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/"/>
+        <updated>2022-07-11T18:38:41.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript has many string methods you can use to format strings. In this article, I'll show you some of the most commonly used methods. How to Use the toLowerCase() String Method As the name implies, you use the toLowerCase() string method to convert strings to their lowercase version. This method]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Check if Undefined – How to Test for Undefined in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/"/>
+        <updated>2022-07-11T17:13:42.000Z</updated>
+        <summary type="html"><![CDATA[An undefined variable or anything without a value will always return "undefined" in JavaScript. This is not the same as null, despite the fact that both imply an empty state.  You'll typically assign a value to a variable after you declare it, but this is not always the case.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/</id>
+        <link href="https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/"/>
+        <updated>2022-07-11T15:52:33.000Z</updated>
+        <summary type="html"><![CDATA["I hate stack overflow" — said no developer ever. While it’s helpful to have your answers a Google search away, what’s even more powerful is truly understanding the solutions you stumble upon. In this article, I’ll explore the seven most stackoverflowed TypeScript questions. I spent hours researching these. I hope]]></summary>
+        <author>
+            <name>Emmanuel Ohans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)]]></title>
+        <id>https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/</id>
+        <link href="https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/"/>
+        <updated>2022-07-11T14:40:04.000Z</updated>
+        <summary type="html"><![CDATA[OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing for Developers]]></title>
+        <id>https://css-tricks.com/?p=366609</id>
+        <link href="https://css-tricks.com/technical-writing-for-developers/"/>
+        <updated>2022-07-11T12:50:13.000Z</updated>
+        <summary type="html"><![CDATA[HTML, CSS, JavaScript, Python, PHP, C++, Dart — there are so many programming languages out there and you may even be totally fluent in several of them! But as we aim to write more and better code, the way we …
+Technical Writing for Developers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Eluda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Look At Remix And The Differences With Next.js]]></title>
+        <id>https://smashingmagazine.com/2022/07/look-remix-differences-next/</id>
+        <link href="https://smashingmagazine.com/2022/07/look-remix-differences-next/"/>
+        <updated>2022-07-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s talk about Remix, the framework to create JavaScript projects using server-side rendering. Let’s go through its main features and concepts and see the similarities and differences with Next.js.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Five-Step Approach To The Metaverse]]></title>
         <id>https://smashingmagazine.com/2022/07/five-step-approach-metaverse/</id>
@@ -294,6 +375,18 @@
         <summary type="html"><![CDATA[Conditional statements are helpful for decision-making and are a core concept in all programming languages. In this article, you will learn how to write conditional statements in Python. Specifically, you will learn how to write if, if else, and elif (also known as  else if) statements in Python. Here]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collective Nouns for the Web]]></title>
+        <id>https://css-tricks.com/?p=366689</id>
+        <link href="https://css-tricks.com/collective-nouns-for-the-web/"/>
+        <updated>2022-07-01T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Melanie Sumner has this super-specific collection of web-related nouns for describing a group or set of something. You know how there’s a school or fish or a herd of cows? Same sort of thing, but for funny web jargon.
+Things …
+Collective Nouns for the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
