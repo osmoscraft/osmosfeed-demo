@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366770",
+          "author": "Blessing Ene Anyebe",
+          "description": "Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …\nReact Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/react-hooks-the-deep-cuts/",
+          "publishedOn": "2022-07-13T13:34:08.000Z",
+          "wordCount": 2553,
+          "title": "React Hooks: The Deep Cuts",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366770"
+        },
+        {
           "id": "https://css-tricks.com/?p=366896",
           "author": "Geoff Graham",
           "description": "Our dear friend Robin has a new essay called In Praise of Shadows. Now, before you hop over there looking for nuggets on CSS box shadows, text shadows, and shadow filters… this is not that. It’s an essay …\nIn Praise of Shadows originally published on CSS-Tricks. You should get the newsletter.",
@@ -154,16 +164,6 @@
           "wordCount": 2254,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366260",
-          "author": "Aisha Bukar",
-          "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
-          "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 1285,
-          "title": "Useful Tools for Visualizing Databases on a Budget",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         }
       ]
     },
@@ -456,21 +456,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df6515d2-12da-42e0-879e-cbfbdf245daf/guide-windows-high-contrast-mode.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Do you need search for your site, but haven’t found the time to add it? Within 15 minutes, Leonardo Losoviz explains how you can add a super powerful search that also looks super good. In this article, you’ll learn how to go from 0 to 100 with search.",
-          "link": "https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/",
-          "publishedOn": "2022-06-14T09:00:00.000Z",
-          "wordCount": 1817,
-          "title": "Adding Search To Your Site In 15 Minutes",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b95673f7-c059-4fae-a74a-bd1929230b29/adding-search-website-sitesearch360.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b95673f7-c059-4fae-a74a-bd1929230b29/adding-search-website-sitesearch360.jpg"
         }
       ]
     },
@@ -479,6 +464,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
+          "author": "Naomi Carrigan",
+          "description": "Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer",
+          "link": "https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/",
+          "publishedOn": "2022-07-13T23:04:07.000Z",
+          "wordCount": 1246,
+          "title": "How to Use RegEx to Match Emoji – Including Discord Emotes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-roman-odintsov-6898861.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
+          "author": "Tiago Monteiro",
+          "description": "Did you know that abstraction is one of the most important concepts for any software engineer to know? That's right! Without the use of abstraction when developing new technologies and concepts, we would never have been able to invent most software or even most things. So, understanding this concept is",
+          "link": "https://www.freecodecamp.org/news/what-is-abstraction-in-programming/",
+          "publishedOn": "2022-07-13T22:54:18.000Z",
+          "wordCount": 1990,
+          "title": "What is Abstraction in Programming – And Why is it Useful?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Screenshot--518-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-get-current-time/",
+          "author": "Kolade Chris",
+          "description": "In your websites and applications, you might want to add functionalities like timestamps or checking the time of a user’s activity. Every programming language has modules or methods for working with time, and Python is not an exception. With the datetime and time modules of Python, you can get the",
+          "link": "https://www.freecodecamp.org/news/python-get-current-time/",
+          "publishedOn": "2022-07-13T22:48:46.000Z",
+          "wordCount": 1156,
+          "title": "Python Get Current Time",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/getCurrentTime.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/",
+          "author": "Tomer Ben Rachel",
+          "description": "If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what",
+          "link": "https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/",
+          "publishedOn": "2022-07-13T20:21:04.000Z",
+          "wordCount": 1472,
+          "title": "How to Set Alarms in Flutter Using the Alarm Manager Plus Package",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sonja-langford-eIkbSc3SDtI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
+          "author": "Tiago Monteiro",
+          "description": "These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks",
+          "link": "https://www.freecodecamp.org/news/what-is-a-software-framework/",
+          "publishedOn": "2022-07-13T19:28:02.000Z",
+          "wordCount": 2531,
+          "title": "What is a Software Framework?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/logo-freecodecamp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
+          "author": "Joel Olawanle",
+          "description": "When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/",
+          "publishedOn": "2022-07-13T16:41:33.000Z",
+          "wordCount": 1185,
+          "title": "How to Create a Local Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
+          "author": "Dillion Megida",
+          "description": "How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same",
+          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/",
+          "publishedOn": "2022-07-13T15:10:46.000Z",
+          "wordCount": 1170,
+          "title": "Python List.append() – How to Append to a List in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/append-to-a-list.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
+          "author": "Abdulmalik Salawu",
+          "description": "Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/",
+          "publishedOn": "2022-07-13T14:57:25.000Z",
+          "wordCount": 1675,
+          "title": "How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-xxss-is-back-777001.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
+          "author": "Zubin Pratap",
+          "description": "I optimized my preparation for Big Tech Interviews based on my circumstances and background.  It did not require advanced Computer Science Degrees or thousands of leetcode-style questions.",
+          "link": "https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/",
+          "publishedOn": "2022-07-13T14:45:30.000Z",
+          "wordCount": 8702,
+          "title": "Coding Interview Prep for Big Tech (FAANG) – And How I Became A Google Engineer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Google-Mel.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/why-you-should-use-flutter/",
           "author": "Obumuneme Nwabude",
@@ -1488,16 +1563,6 @@
           "wordCount": 674,
           "title": "How to Link CSS to HTML – Stylesheet File Linking",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/linkHTMLCSS.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/",
-          "author": "Dionysia Lemonaki",
-          "description": "In the C programming language, you have the ability to control the flow of a program. In particular, the program is able to make decisions on what it should do next. And those decisions are based on the state of certain pre-defined conditions you set. The program will decide what",
-          "link": "https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/",
-          "publishedOn": "2022-06-13T13:47:00.000Z",
-          "wordCount": 2144,
-          "title": "If Statement in C – How to use If-Else Statements in the C Programming Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/christin-hume-mfB1B1s4sMc-unsplash.jpg"
         }
       ]
     }

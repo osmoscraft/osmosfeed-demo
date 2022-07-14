@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-13T01:24:39.146Z</updated>
+    <updated>2022-07-14T01:40:30.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use RegEx to Match Emoji – Including Discord Emotes]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/"/>
+        <updated>2022-07-13T23:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Abstraction in Programming – And Why is it Useful?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-abstraction-in-programming/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-abstraction-in-programming/"/>
+        <updated>2022-07-13T22:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that abstraction is one of the most important concepts for any software engineer to know? That's right! Without the use of abstraction when developing new technologies and concepts, we would never have been able to invent most software or even most things. So, understanding this concept is]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Get Current Time]]></title>
+        <id>https://www.freecodecamp.org/news/python-get-current-time/</id>
+        <link href="https://www.freecodecamp.org/news/python-get-current-time/"/>
+        <updated>2022-07-13T22:48:46.000Z</updated>
+        <summary type="html"><![CDATA[In your websites and applications, you might want to add functionalities like timestamps or checking the time of a user’s activity. Every programming language has modules or methods for working with time, and Python is not an exception. With the datetime and time modules of Python, you can get the]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Alarms in Flutter Using the Alarm Manager Plus Package]]></title>
+        <id>https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/"/>
+        <updated>2022-07-13T20:21:04.000Z</updated>
+        <summary type="html"><![CDATA[If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Software Framework?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-software-framework/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-software-framework/"/>
+        <updated>2022-07-13T19:28:02.000Z</updated>
+        <summary type="html"><![CDATA[These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Local Branch in Git]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/"/>
+        <updated>2022-07-13T16:41:33.000Z</updated>
+        <summary type="html"><![CDATA[When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List.append() – How to Append to a List in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/"/>
+        <updated>2022-07-13T15:10:46.000Z</updated>
+        <summary type="html"><![CDATA[How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/"/>
+        <updated>2022-07-13T14:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write]]></summary>
+        <author>
+            <name>Abdulmalik Salawu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding Interview Prep for Big Tech (FAANG) – And How I Became A Google Engineer]]></title>
+        <id>https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/</id>
+        <link href="https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/"/>
+        <updated>2022-07-13T14:45:30.000Z</updated>
+        <summary type="html"><![CDATA[I optimized my preparation for Big Tech Interviews based on my circumstances and background.  It did not require advanced Computer Science Degrees or thousands of leetcode-style questions.]]></summary>
+        <author>
+            <name>Zubin Pratap</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Hooks: The Deep Cuts]]></title>
+        <id>https://css-tricks.com/?p=366770</id>
+        <link href="https://css-tricks.com/react-hooks-the-deep-cuts/"/>
+        <updated>2022-07-13T13:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …
+React Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Blessing Ene Anyebe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why You Should Use Flutter for Your Projects]]></title>
         <id>https://www.freecodecamp.org/news/why-you-should-use-flutter/</id>
@@ -1376,37 +1477,6 @@ De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. Y
         <summary type="html"><![CDATA[HTML is the markup language that helps you define the structure of a web page. CSS is the stylesheet language you use to make the structure presentable and nicely laid out. To make the stylings you implement with CSS reflect in the CSS, you have to find a way to]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Search To Your Site In 15 Minutes]]></title>
-        <id>https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/</id>
-        <link href="https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/"/>
-        <updated>2022-06-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need search for your site, but haven’t found the time to add it? Within 15 minutes, Leonardo Losoviz explains how you can add a super powerful search that also looks super good. In this article, you’ll learn how to go from 0 to 100 with search.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Tools for Visualizing Databases on a Budget]]></title>
-        <id>https://css-tricks.com/?p=366260</id>
-        <link href="https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/"/>
-        <updated>2022-06-13T19:15:26.000Z</updated>
-        <summary type="html"><![CDATA[A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …
-Useful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If Statement in C – How to use If-Else Statements in the C Programming Language]]></title>
-        <id>https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/</id>
-        <link href="https://www.freecodecamp.org/news/if-statement-in-c-how-to-use-if-else-statements-in-the-c-programming-language/"/>
-        <updated>2022-06-13T13:47:00.000Z</updated>
-        <summary type="html"><![CDATA[In the C programming language, you have the ability to control the flow of a program. In particular, the program is able to make decisions on what it should do next. And those decisions are based on the state of certain pre-defined conditions you set. The program will decide what]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
 </feed>
