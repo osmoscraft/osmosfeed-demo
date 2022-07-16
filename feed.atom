@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-15T01:48:25.818Z</updated>
+    <updated>2022-07-16T01:36:28.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How stroke-dasharray Patterns Work]]></title>
+        <id>https://css-tricks.com/?p=366993</id>
+        <link href="https://css-tricks.com/how-stroke-dasharray-patterns-work/"/>
+        <updated>2022-07-15T19:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Say you have a line in SVG:
+<svg<line x1="0" y1="30" x2="500" y2="30" stroke-color="#f8a100" /</svg
+You can use the stroke-dasharray property in CSS to make dashes:
+line {
+  stroke-dasharray: 5;
+}
+That 5 value is a relative unit based …
+How stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Infrastructure as Code by Building a Custom Machine Image in AWS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/</id>
+        <link href="https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/"/>
+        <updated>2022-07-15T17:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[strftime() Python – Datetime Format Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/strftime-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/strftime-in-python/"/>
+        <updated>2022-07-15T16:55:14.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Enable and Disable Search Highlights on Windows 11]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/"/>
+        <updated>2022-07-15T16:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolving Conflicts Between Designers And Engineers]]></title>
+        <id>https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/</id>
+        <link href="https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/"/>
+        <updated>2022-07-15T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Scott Himmer will go over some areas where you might find the design and engineering conflicts manifesting, what some of the contributing factors are, and strategies to work through the challenges.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Scott Himmer)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[freeCodeCamp.org Press Kit]]></title>
         <id>https://www.freecodecamp.org/news/freecodecamp-press-kit/</id>
@@ -1404,68 +1461,6 @@ Single Element Loaders: The Dots originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[When working with arrays, there will be times when you need to loop or iterate through the array's values in order to either output or manipulate them.  These arrays can hold any datatype, including objects, numbers, strings, and many others. In this article, we'll look at how you can]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Delightful Data Visualization Examples]]></title>
-        <id>https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/</id>
-        <link href="https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/"/>
-        <updated>2022-06-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Popular Coding Challenge Websites]]></title>
-        <id>https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/</id>
-        <link href="https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/"/>
-        <updated>2022-06-15T22:23:18.000Z</updated>
-        <summary type="html"><![CDATA[If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Help Translate freeCodeCamp into Your Native Language]]></title>
-        <id>https://www.freecodecamp.org/news/help-translate-freecodecamp-language/</id>
-        <link href="https://www.freecodecamp.org/news/help-translate-freecodecamp-language/"/>
-        <updated>2022-06-15T16:55:35.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community has been hard at work translating our 9,000+ tutorials into many world languages. Quality is everything. So instead of relying on machine translation, we are doing this entire process by hand. Dozens of native speakers are collaborating to make these free learning resources accessible to more people]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRUD Operations – What is CRUD?]]></title>
-        <id>https://www.freecodecamp.org/news/crud-operations-explained/</id>
-        <link href="https://www.freecodecamp.org/news/crud-operations-explained/"/>
-        <updated>2022-06-15T16:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. In this article, I will show you what CRUD means, and what the individual terms mean and do. I will also show you how create, read, update,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conditionally Styling Selected Elements in a Grid Container]]></title>
-        <id>https://css-tricks.com/?p=366252</id>
-        <link href="https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/"/>
-        <updated>2022-06-15T14:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.
-🧐…
-Conditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Text Classification with TensorFlow]]></title>
-        <id>https://www.freecodecamp.org/news/text-classification-tensorflow/</id>
-        <link href="https://www.freecodecamp.org/news/text-classification-tensorflow/"/>
-        <updated>2022-06-15T14:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Text classification algorithms are used in a lot of different software systems to help process text data. For example, when you get an email, the email software uses a text classification algorithm to decide whether to put it in your inbox or in your spam folder. It's also how discussion]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

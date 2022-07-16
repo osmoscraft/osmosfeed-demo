@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=366993",
+          "author": "Geoff Graham",
+          "description": "Say you have a line in SVG:\n<svg<line x1=\"0\" y1=\"30\" x2=\"500\" y2=\"30\" stroke-color=\"#f8a100\" /</svg\nYou can use the stroke-dasharray property in CSS to make dashes:\nline {\n  stroke-dasharray: 5;\n}\nThat 5 value is a relative unit based …\nHow stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-stroke-dasharray-patterns-work/",
+          "publishedOn": "2022-07-15T19:43:40.000Z",
+          "wordCount": 1020,
+          "title": "How stroke-dasharray Patterns Work",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366993"
+        },
+        {
           "id": "https://css-tricks.com/?p=366905",
           "author": "Geoff Graham",
           "description": "I think it’s super timely that Jim Nielson wrote about his office space the other day. My family recently re-rooted in Colorado and I was up late last night setting up my desk and everything around it. So late, in …\nOffice Spaces originally published on CSS-Tricks. You should get the newsletter.",
@@ -154,16 +164,6 @@
           "wordCount": 1803,
           "title": "Single Element Loaders: The Dots",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366252",
-          "author": "Preethi",
-          "description": "Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.\n🧐…\nConditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/",
-          "publishedOn": "2022-06-15T14:15:50.000Z",
-          "wordCount": 1821,
-          "title": "Conditionally Styling Selected Elements in a Grid Container",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366252"
         }
       ]
     },
@@ -172,6 +172,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/",
+          "author": "hello@smashingmagazine.com (Scott Himmer)",
+          "description": "In this article, Scott Himmer will go over some areas where you might find the design and engineering conflicts manifesting, what some of the contributing factors are, and strategies to work through the challenges.",
+          "link": "https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/",
+          "publishedOn": "2022-07-15T09:30:00.000Z",
+          "wordCount": 5399,
+          "title": "Resolving Conflicts Between Designers And Engineers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b2c9eaa7-c2ad-49bf-a3bf-4dbbed425b97/resolving-conflicts-designers-engineers.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/",
           "author": "hello@smashingmagazine.com (Raphael Amoedo)",
@@ -441,21 +456,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/47932465-87b0-41aa-97c3-4a2690860dd8/easy-build-support-tables-figma.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "All the data in the world won’t do anyone any good if we can’t make sense of it. Or better yet, make it sing. Here are some stunning examples of data visualization in the wild, and some pointers on how to start making your own.",
-          "link": "https://smashingmagazine.com/2022/06/web-design-done-well-delightful-data-visualization-examples/",
-          "publishedOn": "2022-06-16T09:00:00.000Z",
-          "wordCount": 2171,
-          "title": "Web Design Done Well: Delightful Data Visualization Examples",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b1a5a7a-d478-4c0c-b4c8-782bf7fa7f42/web-design-done-well-delightful-data-visualization-examples.jpg"
         }
       ]
     },
@@ -464,6 +464,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/",
+          "author": "Destiny Erhabor",
+          "description": "Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we",
+          "link": "https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/",
+          "publishedOn": "2022-07-15T17:15:48.000Z",
+          "wordCount": 3540,
+          "title": "Learn Infrastructure as Code by Building a Custom Machine Image in AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Understand-Infrastructure-as-a-code--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/strftime-in-python/",
+          "author": "Dillion Megida",
+          "description": "In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but",
+          "link": "https://www.freecodecamp.org/news/strftime-in-python/",
+          "publishedOn": "2022-07-15T16:55:14.000Z",
+          "wordCount": 1085,
+          "title": "strftime() Python – Datetime Format Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/python-datetime-format-tutorial.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want",
+          "link": "https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/",
+          "publishedOn": "2022-07-15T16:17:45.000Z",
+          "wordCount": 1119,
+          "title": "How to Enable and Disable Search Highlights on Windows 11",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Artboard.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/freecodecamp-press-kit/",
           "author": "freeCodeCamp.org",
@@ -1513,46 +1543,6 @@
           "wordCount": 1782,
           "title": "JavaScript forEach() – JS Array For Each Loop Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you want to improve your analytical skills, there's no better way to do that than solving problems. If you are a programmer, then this is something you should do for yourself. Programmers need to deal with all sorts of problems almost every day. Most importantly, solving problems in an",
-          "link": "https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/",
-          "publishedOn": "2022-06-15T22:23:18.000Z",
-          "wordCount": 3988,
-          "title": "The Most Popular Coding Challenge Websites",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/fCC-Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/help-translate-freecodecamp-language/",
-          "author": "Quincy Larson",
-          "description": "The freeCodeCamp community has been hard at work translating our 9,000+ tutorials into many world languages. Quality is everything. So instead of relying on machine translation, we are doing this entire process by hand. Dozens of native speakers are collaborating to make these free learning resources accessible to more people",
-          "link": "https://www.freecodecamp.org/news/help-translate-freecodecamp-language/",
-          "publishedOn": "2022-06-15T16:55:35.000Z",
-          "wordCount": 696,
-          "title": "How to Help Translate freeCodeCamp into Your Native Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/farzad-mohsenvand-pKhfJme9mP0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/crud-operations-explained/",
-          "author": "Kolade Chris",
-          "description": "Despite being commonly pronounced /krʌd/, CRUD is not a word. It’s an abbreviation that stands for Create, Read, Update, and Delete or Destroy. In this article, I will show you what CRUD means, and what the individual terms mean and do. I will also show you how create, read, update,",
-          "link": "https://www.freecodecamp.org/news/crud-operations-explained/",
-          "publishedOn": "2022-06-15T16:51:42.000Z",
-          "wordCount": 1084,
-          "title": "CRUD Operations – What is CRUD?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/crud.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/text-classification-tensorflow/",
-          "author": "Beau Carnes",
-          "description": "Text classification algorithms are used in a lot of different software systems to help process text data. For example, when you get an email, the email software uses a text classification algorithm to decide whether to put it in your inbox or in your spam folder. It's also how discussion",
-          "link": "https://www.freecodecamp.org/news/text-classification-tensorflow/",
-          "publishedOn": "2022-06-15T14:01:18.000Z",
-          "wordCount": 542,
-          "title": "Text Classification with TensorFlow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/classification.png"
         }
       ]
     }
