@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-17T01:43:00.212Z</updated>
+    <updated>2022-07-18T01:25:40.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Animate Your Git Commit History with git-story]]></title>
+        <id>https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/</id>
+        <link href="https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/"/>
+        <updated>2022-07-17T17:07:24.000Z</updated>
+        <summary type="html"><![CDATA[It is often useful for developers to visualize aspects of their code projects. This is especially true for version control systems like Git, where understanding the team's workflow is essential. One way to approach this in Git is to draw a graph like the one you see above. You've probably]]></summary>
+        <author>
+            <name>Jacob Stopak</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How stroke-dasharray Patterns Work]]></title>
         <id>https://css-tricks.com/?p=366993</id>
@@ -1380,47 +1390,6 @@ Different Ways to Write CSS in React originally published on CSS-Tricks. You sho
         <summary type="html"><![CDATA[In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Get Current Date – Today's Date in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/"/>
-        <updated>2022-06-17T15:45:01.000Z</updated>
-        <summary type="html"><![CDATA[When you're developing web applications, you might need to include the current date on which a particular operation is performed.  For example, when submitting data via a form, you may want to include the date that data was created or when the form was submitted. In this article, we]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Arrow – Symbol Unicode for Single and Double Arrows, Left and Right Arrows]]></title>
-        <id>https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/</id>
-        <link href="https://www.freecodecamp.org/news/html-arrow-symbol-unicode-for-single-and-double-arrows-left-and-right-arrows/"/>
-        <updated>2022-06-17T15:35:12.000Z</updated>
-        <summary type="html"><![CDATA[What are Unicodes? Unicodes are universal characters that represent different things. These could be symbols, characters, scripts, and many more forms of character combinations. Unicodes are adopted by many platforms (mobile and web) to make characters available everywhere. Why are Unicodes useful? Unicodes are useful because they provide a standard]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single Element Loaders: The Dots]]></title>
-        <id>https://css-tricks.com/?p=366342</id>
-        <link href="https://css-tricks.com/single-element-loaders-the-dots/"/>
-        <updated>2022-06-17T14:47:55.000Z</updated>
-        <summary type="html"><![CDATA[We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …
-Single Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Visual Basic (.NET) – Full Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-visual-basic-net-full-course/"/>
-        <updated>2022-06-17T14:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that Visual Basic is currently a more popular programming language than JavaScript? That is according to the TIOBE index [https://www.tiobe.com/tiobe-index/], which is one of the most respected indicators of the popularity of programming languages. Visual Basic is an object-oriented programming language developed by Microsoft. It makes it]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
