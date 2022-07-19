@@ -163,6 +163,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
+          "author": "hello@smashingmagazine.com (Eric Burel)",
+          "description": "“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.",
+          "link": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
+          "publishedOn": "2022-07-18T11:00:00.000Z",
+          "wordCount": 4884,
+          "title": "A New Pattern For The Jamstack: Segmented Rendering",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/07/resolving-conflicts-designers-engineers/",
           "author": "hello@smashingmagazine.com (Scott Himmer)",
           "description": "In this article, Scott Himmer will go over some areas where you might find the design and engineering conflicts manifesting, what some of the contributing factors are, and strategies to work through the challenges.",
@@ -439,6 +454,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/",
+          "author": "Obumuneme Nwabude",
+          "description": "Flutter is a UI toolkit for building cross-platform applications. You can build Flutter apps using various state management techniques like the Stacked [https://pub.dev/packages/stacked] architecture.  This article will explain what Stacked architecture is and will guide you through creating a simple Todo App in Flutter with Stacked. Table of Contents",
+          "link": "https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/",
+          "publishedOn": "2022-07-18T22:03:02.000Z",
+          "wordCount": 5948,
+          "title": "How to Use Stacked Architecture to Build a Flutter Todo App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-cannot-unpack-non-iterable-nonetype-object-how-to-fix-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When you're working with iterable objects like Lists, Sets, and Tuples in Python, you might want to assign the items in these objects to individual variables. This is a process known as unpacking.  During the process of unpacking items in iterable objects, you may get an error that says:",
+          "link": "https://www.freecodecamp.org/news/typeerror-cannot-unpack-non-iterable-nonetype-object-how-to-fix-in-python/",
+          "publishedOn": "2022-07-18T19:50:05.000Z",
+          "wordCount": 1562,
+          "title": "Typeerror: cannot unpack non-iterable nonetype object – How to Fix in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/markus-spiske-iar-afB0QQw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/singleton-design-pattern-with-javascript/",
+          "author": "Keyur Paralkar",
+          "description": "At one point or another, you might need to use global state inside your React apps. This lets you have your data in one place and make sure the required components can access it.  To help you do this, you'll often use some sort of state management library like",
+          "link": "https://www.freecodecamp.org/news/singleton-design-pattern-with-javascript/",
+          "publishedOn": "2022-07-18T19:26:56.000Z",
+          "wordCount": 3077,
+          "title": "Singleton Design Pattern – How it Works in JavaScript with Example Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sven-mieke-fteR0e2BzKo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/binary-search-in-python-with-examples/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "In our daily lives, we're constantly searching for information or trying to find solutions to problems we encounter. When going through search results on the web, we pick the most relevant articles or resources that we think will help us. Search is such a part of our lives because we",
+          "link": "https://www.freecodecamp.org/news/binary-search-in-python-with-examples/",
+          "publishedOn": "2022-07-18T16:53:41.000Z",
+          "wordCount": 3366,
+          "title": "Binary Search in Python – How to Code the Algorithm with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pixabay-277593.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-puppeteer-with-nodejs/",
+          "author": "Valentine Gatwiri",
+          "description": "Puppeteer is a JavaScript library that allows you to script and interact with browser windows. In this guide, we'll explore the basics of using Puppeteer with Node.js so you can start automating your tests. Prerequisites  * Basic understanding of Node.js  * Basic understanding of Puppeteer  * A",
+          "link": "https://www.freecodecamp.org/news/how-to-use-puppeteer-with-nodejs/",
+          "publishedOn": "2022-07-18T16:41:54.000Z",
+          "wordCount": 1573,
+          "title": "How to Use Puppeteer With Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pup.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-devtestops/",
+          "author": "Ezinne Anne Emilia",
+          "description": "Technology is always improving, and developers are always trying to find easier and better ways to improve the software. This is how DevOps came to be, and over time DevTestOps emerged as a new strategy. Today, companies like Spotify apply DevTestOps in software production which makes it easier for them",
+          "link": "https://www.freecodecamp.org/news/what-is-devtestops/",
+          "publishedOn": "2022-07-18T14:22:13.000Z",
+          "wordCount": 1763,
+          "title": "What is DevTestOps? How to Combine DevOps and TestOps to Build Better Products",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/DEVTESTOPS_1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-int-object-is-not-callable-how-to-fix-in-python/",
+          "author": "Kolade Chris",
+          "description": "In Python, a “Typeerror” occurs when you use different data types in an operation. For example, if you attempt to divide an integer (number) by a string, it leads to a typeerror because an integer data type is not the same as a string. One of those type errors is",
+          "link": "https://www.freecodecamp.org/news/typeerror-int-object-is-not-callable-how-to-fix-in-python/",
+          "publishedOn": "2022-07-18T14:10:48.000Z",
+          "wordCount": 1288,
+          "title": "Typeerror: int object is not callable – How to Fix in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/typeerror.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-insert-an-element-into-an-array-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "The array datatype is one of the most commonly used datatypes when you're working with an ordered list of values. Each value is referred to as an element with a unique id. It stores elements of various datatypes that you can access through a single variable. In practice, an array",
+          "link": "https://www.freecodecamp.org/news/how-to-insert-an-element-into-an-array-in-javascript/",
+          "publishedOn": "2022-07-18T14:09:34.000Z",
+          "wordCount": 1817,
+          "title": "Push into an Array in JavaScript – How to Insert an Element into an Array in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/",
           "author": "Jacob Stopak",
