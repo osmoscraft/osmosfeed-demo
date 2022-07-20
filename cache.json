@@ -431,21 +431,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b3343c7d-ecdc-4fd6-a4c5-fb031f46aecf/goals-illu.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
-          "author": "hello@smashingmagazine.com (Kirill Myshkin)",
-          "description": "In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.",
-          "link": "https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/",
-          "publishedOn": "2022-06-20T09:00:00.000Z",
-          "wordCount": 5460,
-          "title": "Precise Timing With Web Animations API",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/942ab9f6-c68c-4eab-9dba-b98905b2b8b7/precise-timing-web-animations-api.jpg"
         }
       ]
     },
@@ -454,6 +439,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "When you get dates from raw data, they're typically in the form of string objects. But in this form, you can't access the date's properties like the year, month, and so on.  The solution to this problem is to parse (or convert) the string object into a datetime object",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/",
+          "publishedOn": "2022-07-19T20:40:28.000Z",
+          "wordCount": 1788,
+          "title": "How to Convert a String to a DateTime Object in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-christina-morillo-1181359--3-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/",
+          "author": "Dionysia Lemonaki",
+          "description": "Python has many tools and features that can help you automate repetitive tasks. One of those features is loops. Loops are a helpful and frequently used feature in all modern programming languages. Loops are helpful when you want to automate a specific repetitive task or prevent yourself from copying and",
+          "link": "https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/",
+          "publishedOn": "2022-07-19T16:23:27.000Z",
+          "wordCount": 2259,
+          "title": "While Loops in Python – While True Loop Statement Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/alex-knight-j4uuKnN43_M-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-batch-delete-emails-in-gmail-delete-multiple-email-messages/",
+          "author": "Kolade Chris",
+          "description": "I hear some of my co-workers talk about getting to inbox zero. So I started thinking of a way to clear out my over over 4000 unread messages. And after days of searching around, I found a way. I even went on to delete 20,000 email messages from the trash",
+          "link": "https://www.freecodecamp.org/news/how-to-batch-delete-emails-in-gmail-delete-multiple-email-messages/",
+          "publishedOn": "2022-07-19T16:03:45.000Z",
+          "wordCount": 1284,
+          "title": "How to Batch Delete Emails in Gmail – Delete Multiple Email Messages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/batchDeleteGmailMessages.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/file-last-modified-in-inux-how-to-check-if-two-files-are-same/",
+          "author": "Zaira Hira",
+          "description": "When you are working with files on the command line, you might need to check their modification time and content integrity.  Linux has a powerful command line which allows you to explore multiple aspects of files and filesystems. In case you need to check if file was modified, you",
+          "link": "https://www.freecodecamp.org/news/file-last-modified-in-inux-how-to-check-if-two-files-are-same/",
+          "publishedOn": "2022-07-19T15:33:13.000Z",
+          "wordCount": 1439,
+          "title": "What is Checksum? How to Check if a File was Modified Using the cksum Command in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.gif"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/",
+          "author": "Sebastian Sigl",
+          "description": "In many applications, you need random numbers. You might need to throw dice in video games, create a private cryptography key, or create a user’s temporary password.  All these applications depend on random number creation. It’s sometimes challenging to differentiate what to use when, and security is a deep",
+          "link": "https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/",
+          "publishedOn": "2022-07-19T15:09:37.000Z",
+          "wordCount": 1954,
+          "title": "Java Random Number Generator – How to Generate Numbers with Math.random() and Convert to Integers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/java-number-generators.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/",
           "author": "Obumuneme Nwabude",

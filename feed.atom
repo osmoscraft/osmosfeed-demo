@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-19T01:46:49.402Z</updated>
+    <updated>2022-07-20T01:24:54.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Convert a String to a DateTime Object in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-a-string-to-a-datetime-object-in-python/"/>
+        <updated>2022-07-19T20:40:28.000Z</updated>
+        <summary type="html"><![CDATA[When you get dates from raw data, they're typically in the form of string objects. But in this form, you can't access the date's properties like the year, month, and so on.  The solution to this problem is to parse (or convert) the string object into a datetime object]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[While Loops in Python – While True Loop Statement Example]]></title>
+        <id>https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/</id>
+        <link href="https://www.freecodecamp.org/news/while-loops-in-python-while-true-loop-statement-example/"/>
+        <updated>2022-07-19T16:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Python has many tools and features that can help you automate repetitive tasks. One of those features is loops. Loops are a helpful and frequently used feature in all modern programming languages. Loops are helpful when you want to automate a specific repetitive task or prevent yourself from copying and]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Batch Delete Emails in Gmail – Delete Multiple Email Messages]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-batch-delete-emails-in-gmail-delete-multiple-email-messages/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-batch-delete-emails-in-gmail-delete-multiple-email-messages/"/>
+        <updated>2022-07-19T16:03:45.000Z</updated>
+        <summary type="html"><![CDATA[I hear some of my co-workers talk about getting to inbox zero. So I started thinking of a way to clear out my over over 4000 unread messages. And after days of searching around, I found a way. I even went on to delete 20,000 email messages from the trash]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Checksum? How to Check if a File was Modified Using the cksum Command in Linux]]></title>
+        <id>https://www.freecodecamp.org/news/file-last-modified-in-inux-how-to-check-if-two-files-are-same/</id>
+        <link href="https://www.freecodecamp.org/news/file-last-modified-in-inux-how-to-check-if-two-files-are-same/"/>
+        <updated>2022-07-19T15:33:13.000Z</updated>
+        <summary type="html"><![CDATA[When you are working with files on the command line, you might need to check their modification time and content integrity.  Linux has a powerful command line which allows you to explore multiple aspects of files and filesystems. In case you need to check if file was modified, you]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java Random Number Generator – How to Generate Numbers with Math.random() and Convert to Integers]]></title>
+        <id>https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/</id>
+        <link href="https://www.freecodecamp.org/news/java-random-number-generator-how-to-generate-with-math-random-and-convert-to-integer/"/>
+        <updated>2022-07-19T15:09:37.000Z</updated>
+        <summary type="html"><![CDATA[In many applications, you need random numbers. You might need to throw dice in video games, create a private cryptography key, or create a user’s temporary password.  All these applications depend on random number creation. It’s sometimes challenging to differentiate what to use when, and security is a deep]]></summary>
+        <author>
+            <name>Sebastian Sigl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Stacked Architecture to Build a Flutter Todo App]]></title>
         <id>https://www.freecodecamp.org/news/flutter-stacked-architecture-todo-app/</id>
@@ -1470,16 +1520,6 @@ Different Ways to Write CSS in React originally published on CSS-Tricks. You sho
         <summary type="html"><![CDATA[In this article, you will learn all about the abs() function in Python. You will learn what the abs() function does and why you may want to use it. You will also understand how to use abs() with the help of practical examples. Here is what we will cover:]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Precise Timing With Web Animations API]]></title>
-        <id>https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/</id>
-        <link href="https://smashingmagazine.com/2022/06/precise-timing-web-animations-api/"/>
-        <updated>2022-06-20T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, it’s natural to reach for timers when something is to happen on time. But when something is to happen at the exact moment because other things depend on it, you quickly learn timers are more of a problem than a solution. They are never on time, really. Web Animations API could eliminate the need for timers in certain cases while being precise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
         </author>
     </entry>
 </feed>
