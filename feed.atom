@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-21T01:26:19.678Z</updated>
+    <updated>2022-07-22T01:40:35.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Does // Mean in Python? Operators in Python]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/"/>
+        <updated>2022-07-21T15:30:37.000Z</updated>
+        <summary type="html"><![CDATA[In Python, you use the double slash // operator to perform floor division. This  // operator divides the first number by the second number and rounds the result down to the nearest integer (or whole number). In this article, I will show you how to use the // operator]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typeerror: string indices must be integers – How to Fix in Python]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/"/>
+        <updated>2022-07-21T15:18:02.000Z</updated>
+        <summary type="html"><![CDATA[In Python, there are certain iterable objects – lists, tuples, and strings – whose items or characters can be accessed using their index numbers.  For example, to access the first character in a string, you'd do something like this: greet = "Hello World!" print(greet[0]) # H To access the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roundup of Recent Document Outline Chatter]]></title>
+        <id>https://css-tricks.com/?p=367048</id>
+        <link href="https://css-tricks.com/roundup-of-recent-document-outline-chatter/"/>
+        <updated>2022-07-21T14:04:34.000Z</updated>
+        <summary type="html"><![CDATA[It’s not everyday that HTML headings are the topic de jour, but my folder of saved links is accumulating articles about the recently merged removal of the document outline algorithm in the WHATWG Living Standard.
+First off, you should know …
+Roundup of Recent Document Outline Chatter originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Apache Cassandra, a NoSQL Database]]></title>
+        <id>https://www.freecodecamp.org/news/learn-apache-a/</id>
+        <link href="https://www.freecodecamp.org/news/learn-apache-a/"/>
+        <updated>2022-07-21T13:55:54.000Z</updated>
+        <summary type="html"><![CDATA[Apache Cassandra is a NoSQL database used by some of the largest companies in the world, including Facebook, Netflix, eBay, and Twitter. We just published a full course on Apache Cassandra on the freeCodeCamp.org YouTube channel. Apache Cassandra is a free and open-source distributed NoSQL database management system designed to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking Back At SmashingConf SF 2022]]></title>
+        <id>https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/</id>
+        <link href="https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/"/>
+        <updated>2022-07-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Now that some time has passed since the team returned from SmashingConf San Francisco, we’ve had time to think about the event and wrap up some of the things we all learned.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jarijn Nijkamp)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Center a Div with CSS – 10 Different Ways]]></title>
         <id>https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/</id>
@@ -1491,96 +1543,6 @@ Single Element Loaders: The Bars originally published on CSS-Tricks. You should 
 Different Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Saleh Mubashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Test Your MVP Within 2 Weeks (Or Less)]]></title>
-        <id>https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/</id>
-        <link href="https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/"/>
-        <updated>2022-06-22T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sergey Krasotin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recover a Deleted File in Git – Revert Changes After a Hard Reset]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/"/>
-        <updated>2022-06-21T21:31:23.000Z</updated>
-        <summary type="html"><![CDATA[Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MVC in Computer Science – The MVC Model]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/"/>
-        <updated>2022-06-21T21:09:46.000Z</updated>
-        <summary type="html"><![CDATA[MVC is an abbreviation that stands for Model, View, and Controller. This architectural pattern was created in the late 1970s for making desktop apps, but it is now widely used in web application development. In this article, I will dive deep into what MVC means alongside its 3 components, so]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Customize Bootstrap with Sass]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/"/>
-        <updated>2022-06-21T20:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,]]></summary>
-        <author>
-            <name>Vinod Mathew Sebastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Switch Statement – How to Use a Switch Case in Java]]></title>
-        <id>https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/"/>
-        <updated>2022-06-21T17:39:06.000Z</updated>
-        <summary type="html"><![CDATA[You use the switch statement in Java to execute a particular code block when a certain condition is met.  Here's what the syntax looks like: switch(expression) {   case 1:     // code block     break;   case 2:]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a Rasa Development Environment in Sagemaker Studiolab with VS Code]]></title>
-        <id>https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/</id>
-        <link href="https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/"/>
-        <updated>2022-06-21T16:06:02.000Z</updated>
-        <summary type="html"><![CDATA[Last week, I was excited to dive into chatbot development with the open-source framework Rasa [https://rasa.com/]. With Rasa, you get a ton of flexibility, from designing the conversation to developing the NLU logic to deployment.  But the "Yay" soon transformed into banging my head against a brick wall. The]]></summary>
-        <author>
-            <name>Sijil Salim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is TypeScript? A Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-typescript-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-typescript-for-beginners/"/>
-        <updated>2022-06-21T15:55:07.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago, I published an Intermediate TypeScript and React Handbook [/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/]. It received many views and I got several emails. Most were “thank you” emails, but then there were others like: > “… I am new to programming, what is TypeScript?” And: > “Thanks for this free ebook,]]></summary>
-        <author>
-            <name>Emmanuel Ohans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Consume REST APIs in React – a Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/"/>
-        <updated>2022-06-21T15:35:38.000Z</updated>
-        <summary type="html"><![CDATA[React is a popular frontend library that developers use to create applications. And you will need to integrate APIs into your React application at some point if you want to build production-ready apps.  Every developer who wants to build modern, robust web applications with React must understand how to]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automate Your Life with Python]]></title>
-        <id>https://www.freecodecamp.org/news/automate-your-life-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/automate-your-life-with-python/"/>
-        <updated>2022-06-21T14:05:29.000Z</updated>
-        <summary type="html"><![CDATA[Think of the most boring task you’ve ever done. Chances are, you can automate it with Python! We just published a Python automation course on the freeCodeCamp.org YouTube channel. Frank Andrade created this course. Frank is a data scientist and experienced teacher. In this course you will learn how to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

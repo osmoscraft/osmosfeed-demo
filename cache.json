@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367048",
+          "author": "Geoff Graham",
+          "description": "It’s not everyday that HTML headings are the topic de jour, but my folder of saved links is accumulating articles about the recently merged removal of the document outline algorithm in the WHATWG Living Standard.\nFirst off, you should know …\nRoundup of Recent Document Outline Chatter originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/roundup-of-recent-document-outline-chatter/",
+          "publishedOn": "2022-07-21T14:04:34.000Z",
+          "wordCount": 1320,
+          "title": "Roundup of Recent Document Outline Chatter",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367048"
+        },
+        {
           "id": "https://css-tricks.com/?p=367064",
           "author": "Geoff Graham",
           "description": "Michelle Barker with my favorite sorta blog post: short, practical, and leaves you with a valuable nugget for your time. Here, she gets into logical property shorthands in CSS, particularly those that set lengths just on a single axis, …\nLogical Properties for Useful Shorthands originally published on CSS-Tricks. You should get the newsletter.",
@@ -172,6 +182,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/",
+          "author": "hello@smashingmagazine.com (Jarijn Nijkamp)",
+          "description": "Now that some time has passed since the team returned from SmashingConf San Francisco, we’ve had time to think about the event and wrap up some of the things we all learned.",
+          "link": "https://smashingmagazine.com/2022/07/smashingconf-sf-2022-review/",
+          "publishedOn": "2022-07-21T13:00:00.000Z",
+          "wordCount": 3418,
+          "title": "Looking Back At SmashingConf SF 2022",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee20fcf1-d266-4c91-ad36-643075321d40/20-smashingconf-sf-2022.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee20fcf1-d266-4c91-ad36-643075321d40/20-smashingconf-sf-2022.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/07/powerful-image-optimization-tools/",
           "author": "hello@smashingmagazine.com (Louis Lazaris)",
@@ -426,21 +451,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c3b4b9df-4f79-4eef-8ebc-2d1f86843d45/vanilla-javascript-gantt-chart-part-2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
-          "author": "hello@smashingmagazine.com (Sergey Krasotin)",
-          "description": "Looking for ways to test your product faster? In this article, Sergey Krasotin uncovers common mistakes startup product designers make that lead to longer MVP testing times. To test your product within two weeks or even less, follow these simple practices proven by Sergey’s experience with over 100 startups and accelerators.",
-          "link": "https://smashingmagazine.com/2022/06/how-test-mvp-within-weeks/",
-          "publishedOn": "2022-06-22T09:00:00.000Z",
-          "wordCount": 4720,
-          "title": "How To Test Your MVP Within 2 Weeks (Or Less)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/752d3db1-1cfa-4d73-8052-a5cd9980c6a4/how-test-mvp-within-weeks.jpg"
         }
       ]
     },
@@ -449,6 +459,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/",
+          "author": "Kolade Chris",
+          "description": "In Python, you use the double slash // operator to perform floor division. This  // operator divides the first number by the second number and rounds the result down to the nearest integer (or whole number). In this article, I will show you how to use the // operator",
+          "link": "https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/",
+          "publishedOn": "2022-07-21T15:30:37.000Z",
+          "wordCount": 1482,
+          "title": "What Does // Mean in Python? Operators in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/doubleSlash.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In Python, there are certain iterable objects – lists, tuples, and strings – whose items or characters can be accessed using their index numbers.  For example, to access the first character in a string, you'd do something like this: greet = \"Hello World!\" print(greet[0]) # H To access the",
+          "link": "https://www.freecodecamp.org/news/typeerror-string-indices-must-be-integers-how-to-fix-in-python/",
+          "publishedOn": "2022-07-21T15:18:02.000Z",
+          "wordCount": 1296,
+          "title": "Typeerror: string indices must be integers – How to Fix in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/blake-connally-B3l0g6HLxr8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-apache-a/",
+          "author": "Beau Carnes",
+          "description": "Apache Cassandra is a NoSQL database used by some of the largest companies in the world, including Facebook, Netflix, eBay, and Twitter. We just published a full course on Apache Cassandra on the freeCodeCamp.org YouTube channel. Apache Cassandra is a free and open-source distributed NoSQL database management system designed to",
+          "link": "https://www.freecodecamp.org/news/learn-apache-a/",
+          "publishedOn": "2022-07-21T13:55:54.000Z",
+          "wordCount": 918,
+          "title": "Learn Apache Cassandra, a NoSQL Database",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault-1.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-center-a-div-with-css-10-different-ways/",
           "author": "Soham De Roy",
@@ -1578,86 +1618,6 @@
           "wordCount": 4032,
           "title": "JavaScript Design Patterns –Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/pexels-pixabay-161043.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
-          "author": "Zaira Hira",
-          "description": "Git is a version control system that helps you keep track of the changes in a project's life cycle. It preserves the history of the project and allows you and your team members to coordinate effectively throughout.  There could be situations where you deleted a file and you want",
-          "link": "https://www.freecodecamp.org/news/how-to-recover-a-deleted-file-in-git/",
-          "publishedOn": "2022-06-21T21:31:23.000Z",
-          "wordCount": 1309,
-          "title": "How to Recover a Deleted File in Git – Revert Changes After a Hard Reset",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
-          "author": "Kolade Chris",
-          "description": "MVC is an abbreviation that stands for Model, View, and Controller. This architectural pattern was created in the late 1970s for making desktop apps, but it is now widely used in web application development. In this article, I will dive deep into what MVC means alongside its 3 components, so",
-          "link": "https://www.freecodecamp.org/news/what-does-mvc-mean-in-computer-science/",
-          "publishedOn": "2022-06-21T21:09:46.000Z",
-          "wordCount": 1526,
-          "title": "MVC in Computer Science – The MVC Model",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
-          "author": "Vinod Mathew Sebastian",
-          "description": "Bootstrap is an awesome CSS framework that can help you create stylish and sleek websites.  Some developers and teams find that code written in Bootstrap is easier to maintain than regular CSS, so they prefer Bootstrap to vanilla CSS.  But if everyone used Bootstrap with its default styles,",
-          "link": "https://www.freecodecamp.org/news/how-to-customize-bootstrap-with-sass/",
-          "publishedOn": "2022-06-21T20:59:02.000Z",
-          "wordCount": 2309,
-          "title": "How to Customize Bootstrap with Sass",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You use the switch statement in Java to execute a particular code block when a certain condition is met.  Here's what the syntax looks like: switch(expression) {   case 1:     // code block     break;   case 2:",
-          "link": "https://www.freecodecamp.org/news/java-switch-statement-how-to-use-a-switch-case-in-java/",
-          "publishedOn": "2022-06-21T17:39:06.000Z",
-          "wordCount": 1341,
-          "title": "Java Switch Statement – How to Use a Switch Case in Java",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
-          "author": "Sijil Salim",
-          "description": "Last week, I was excited to dive into chatbot development with the open-source framework Rasa [https://rasa.com/]. With Rasa, you get a ton of flexibility, from designing the conversation to developing the NLU logic to deployment.  But the \"Yay\" soon transformed into banging my head against a brick wall. The",
-          "link": "https://www.freecodecamp.org/news/getting-started-with-rasa-with-studiolab-and-vscode/",
-          "publishedOn": "2022-06-21T16:06:02.000Z",
-          "wordCount": 1599,
-          "title": "How to Set Up a Rasa Development Environment in Sagemaker Studiolab with VS Code",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
-          "author": "Emmanuel Ohans",
-          "description": "A few weeks ago, I published an Intermediate TypeScript and React Handbook [/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/]. It received many views and I got several emails. Most were “thank you” emails, but then there were others like: > “… I am new to programming, what is TypeScript?” And: > “Thanks for this free ebook,",
-          "link": "https://www.freecodecamp.org/news/what-is-typescript-for-beginners/",
-          "publishedOn": "2022-06-21T15:55:07.000Z",
-          "wordCount": 2263,
-          "title": "What is TypeScript? A Beginner's Guide",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
-          "author": "Joel Olawanle",
-          "description": "React is a popular frontend library that developers use to create applications. And you will need to integrate APIs into your React application at some point if you want to build production-ready apps.  Every developer who wants to build modern, robust web applications with React must understand how to",
-          "link": "https://www.freecodecamp.org/news/how-to-consume-rest-apis-in-react/",
-          "publishedOn": "2022-06-21T15:35:38.000Z",
-          "wordCount": 3789,
-          "title": "How to Consume REST APIs in React – a Beginner's Guide",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
-          "author": "Beau Carnes",
-          "description": "Think of the most boring task you’ve ever done. Chances are, you can automate it with Python! We just published a Python automation course on the freeCodeCamp.org YouTube channel. Frank Andrade created this course. Frank is a data scientist and experienced teacher. In this course you will learn how to",
-          "link": "https://www.freecodecamp.org/news/automate-your-life-with-python/",
-          "publishedOn": "2022-06-21T14:05:29.000Z",
-          "wordCount": 924,
-          "title": "Automate Your Life with Python",
-          "imageUrl": "https://cdn.freecodecamp.org/universal/favicons/favicon.png"
         }
       ]
     }
