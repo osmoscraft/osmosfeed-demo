@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-22T01:40:35.054Z</updated>
+    <updated>2022-07-23T01:24:41.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why I Chose Angular to Build a URL Shortener]]></title>
+        <id>https://css-tricks.com/?p=367003</id>
+        <link href="https://css-tricks.com/why-i-chose-angular-to-build-a-url-shortener/"/>
+        <updated>2022-07-22T14:00:19.000Z</updated>
+        <summary type="html"><![CDATA[URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.
+Behind the scenes, the long …
+Why I Chose Angular to Build a URL Shortener originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Obumuneme Nwabude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overcoming Imposter Syndrome By Developing Your Own Guiding Principles]]></title>
+        <id>https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/</id>
+        <link href="https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/"/>
+        <updated>2022-07-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Does // Mean in Python? Operators in Python]]></title>
         <id>https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/</id>
@@ -1462,87 +1484,6 @@ Single Element Loaders: The Bars originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[If you're a web developer, you've probably wanted to get rid of the default underline that appears when you add a link to a page. Fortunately, just like other elements on a web page, you can style the anchor tags responsible for displaying a link. In this article, I will]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Create A Vanilla JavaScript Gantt Chart: Adding Task Editing Features (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/</id>
-        <link href="https://smashingmagazine.com/2022/06/vanilla-javascript-gantt-chart-part-2/"/>
-        <updated>2022-06-23T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will enhance the Gantt Chart component with some interaction possibilities for editing the jobs. In doing so, we will continue to work with Vanilla JS and Web Components and look at some JavaScript libraries that can greatly simplify the effort of developing a fully functional Gantt Chart.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anna Prenzel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Azure CosmosDB – Database Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/</id>
-        <link href="https://www.freecodecamp.org/news/a-beginners-guide-to-azure-cosmosdb/"/>
-        <updated>2022-06-22T23:37:48.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will go through the basics of Azure Cosmos DB and understand the configuration options available with it.  We will cover resource management concepts, data model, APIs, and configuration options. 1. What is Azure Cosmos DB? Azure Cosmos DB is a document database service that enables]]></summary>
-        <author>
-            <name>Abhinav Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[%.2f in Python – What does it Mean?]]></title>
-        <id>https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/</id>
-        <link href="https://www.freecodecamp.org/news/2f-in-python-what-does-it-mean/"/>
-        <updated>2022-06-22T18:30:58.000Z</updated>
-        <summary type="html"><![CDATA[In Python, there are various methods for formatting data types.  The %f formatter is specifically used for formatting float values (numbers with decimals).  We can use the %f formatter to specify the number of decimal numbers to be returned when a floating point number is rounded up.]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Reset Origin – How to Reset a Local Branch to Remote Tracking Branch]]></title>
-        <id>https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/</id>
-        <link href="https://www.freecodecamp.org/news/git-reset-origin-how-to-reset-a-local-branch-to-remote-tracking-branch/"/>
-        <updated>2022-06-22T18:03:49.000Z</updated>
-        <summary type="html"><![CDATA[Git is a free and open-source version control system. It is the most popular version control system in use today. Git keeps track of the changes made to a project over time. This allows multiple developers to collaborate and work on the same project in parallel, no matter where they]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the DOM? The Document Object Model Explained in Plain English]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-dom-explained-in-plain-english/"/>
-        <updated>2022-06-22T17:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Modern web pages are dynamic. This means we need a suitable and convenient way to modify and manipulate a web document's structure.  This modification in an HTML document, for instance, usually takes the form of creating, adding, or removing elements in the document.  In this article, you'll learn]]></summary>
-        <author>
-            <name>D.M. Oladele</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Array – How to Use Arrays in Your PHP Projects]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-arrays-in-php/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-arrays-in-php/"/>
-        <updated>2022-06-22T17:30:59.000Z</updated>
-        <summary type="html"><![CDATA[An array is a special variable that we use to store or hold more than one value in a single variable without having to create more variables to store those values.  To create an array in PHP, we use the array function array( ). By default, an array of]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Design Patterns –Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-design-patterns-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-design-patterns-explained/"/>
-        <updated>2022-06-22T17:06:02.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article I'll explain what design patterns are and why they're useful.  We'll also go through some of the most popular design patterns out there and give examples for each of them. Let's go! Table of Contents  * What Are Design Patterns?  * Creational]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different Ways to Write CSS in React]]></title>
-        <id>https://css-tricks.com/?p=366452</id>
-        <link href="https://css-tricks.com/different-ways-to-write-css-in-react/"/>
-        <updated>2022-06-22T14:24:37.000Z</updated>
-        <summary type="html"><![CDATA[We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …
-Different Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Saleh Mubashar</name>
         </author>
     </entry>
 </feed>
