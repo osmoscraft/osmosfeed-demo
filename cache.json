@@ -173,6 +173,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
+          "author": "hello@smashingmagazine.com (Olushuyi Olutimilehin)",
+          "description": "In this article, Olushuyi explores a mental model that helps you decide between the `` and `\n` elements when writing documents. You will explore how grouping content affects accessibility and how you can make it all count for users.",
+          "link": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
+          "publishedOn": "2022-07-25T14:30:00.000Z",
+          "wordCount": 9560,
+          "title": "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
+          "enclosure": {
+            "url": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/07/overcoming-imposter-syndrome-developing-guiding-principles/",
           "author": "hello@smashingmagazine.com (Luis Ouriach)",
           "description": "In this article, Luis Ouriach helps to develop your own guiding principles to become a better designer so that you can walk into the design critique meetings with more confidence and really deliver the best representation of your ideas.",
@@ -434,6 +449,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
+          "author": "Valentine Gatwiri",
+          "description": "MongoDB is an increasingly popular open source NoSQL database. And it has many advantages over traditional SQL databases.  It offers high scalability, reliability, and performance even with a huge amount of data.  This article covers the basics that you need to know to get started with MongoDB and",
+          "link": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
+          "publishedOn": "2022-07-25T21:42:56.000Z",
+          "wordCount": 1403,
+          "title": "How to Start Using MongoDB – Database Setup for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-tom-fisk-3285715.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When working with objects in JavaScript, you may have come across the [object, object] output. While this may seem irrelevant, it's not necessarily an error.  [object, object] is the string representation of a JavaScript object data type. You'll understand better as we go further in this article. There are",
+          "link": "https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/",
+          "publishedOn": "2022-07-25T14:30:52.000Z",
+          "wordCount": 1196,
+          "title": "[object, object] in JavaScript – Meaning in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/clement-helardot-95YRwf6CNw8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "Objects in JavaScript are non-primitive data types that hold an unordered collection of key-value pairs. As you can see in the image above, the key is the property, and each object value must have a key. When interacting with objects, situations might arise that require you to check if a",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/",
+          "publishedOn": "2022-07-25T14:24:55.000Z",
+          "wordCount": 1501,
+          "title": "JavaScript Key in Object – How to Check if an Object has a Key in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--3-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/",
+          "author": "Dillion Megida",
+          "description": "In this article, you'll learn how to read and parse JSON in Python. What is JSON? JSON is short for JavaScript Object Notation. It's a simple syntax for storing data in name-value pairs. Values can be different data types as long as they are valid. Non-acceptable types for JSON include",
+          "link": "https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/",
+          "publishedOn": "2022-07-25T14:06:45.000Z",
+          "wordCount": 1364,
+          "title": "Loading a JSON File in Python – How to Read and Parse JSON",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/read-parse-json-files.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/",
+          "author": "Dionysia Lemonaki",
+          "description": "When you're working with a Python program, you might need to search for and locate a specific string inside another string. This is where Python's built-in string methods come in handy. In this article, you will learn how to use Python's built-in find() string method to help you search for",
+          "link": "https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/",
+          "publishedOn": "2022-07-25T13:56:30.000Z",
+          "wordCount": 2030,
+          "title": "Python find() – How to Search for a Substring in a String",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/tarn-nguyen-XlEafYGDvV0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/",
+          "author": "Beau Carnes",
+          "description": "Elementor makes it simple to create a WordPress website using a drag and drop interface. You don't even need any code! We just published an Elementor course on the freeCodeCamp.org YouTube channel that will teach you how to easily create your own website. I created this course. I've also made",
+          "link": "https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/",
+          "publishedOn": "2022-07-25T12:57:12.000Z",
+          "wordCount": 921,
+          "title": "Easily create a website using Elementor and WordPress",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault-2.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-does-double-slash-mean-in-python/",
           "author": "Kolade Chris",
