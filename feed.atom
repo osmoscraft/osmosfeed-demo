@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-26T01:45:07.518Z</updated>
+    <updated>2022-07-27T01:42:11.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Software Architecture Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/</id>
+        <link href="https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"/>
+        <updated>2022-07-26T21:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to talk about a very interesting, vast, and complex topic: software architecture. This is something that used to confuse me quite a bit when I was starting to code. So in this article I'll try to give you a simple, surface-level, easy to]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Terraform by Deploying a Jenkins Server on AWS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/</id>
+        <link href="https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/"/>
+        <updated>2022-07-26T18:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Hello, everyone! Today we're going to learn about Terraform by building a project. Terraform is more than just a tool to boost the productivity of operations teams. You have the chance to transform your developers into operators by implementing Terraform. This can help increase the efficiency of your entire engineering]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test-Driven Development Tutorial – How to Test Your JavaScript and ReactJS Applications]]></title>
+        <id>https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/</id>
+        <link href="https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/"/>
+        <updated>2022-07-26T17:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Understanding test-driven development is an essential part of being a prolific software developer. Testing provides a solid platform for building reliable programs. This tutorial will show you all you need to implement test-driven development in your JavaScript and React applications. Table of Contents  1.  What Is Test-Driven Development?]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Save and Exit Nano in Terminal – Nano Quit Command]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/"/>
+        <updated>2022-07-26T16:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Nano is a command line-based code editor known for its simplicity compared to other editors like Vim and Emacs. But if you are new to Nano, performing basic operations like creating files, saving the file, and exiting the editor might be confusing. So, in this article, I want to show]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the flat() and flatMap() Methods to Flatten Arrays in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/</id>
+        <link href="https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/"/>
+        <updated>2022-07-26T16:47:22.000Z</updated>
+        <summary type="html"><![CDATA[In this article I'm going to explain how to use the new array methods introduced in ES2019 (EcmaScript 2019) – flat() and flatMap(). You use these methods to flatten arrays. The methods are very useful and easy to use. It will really be cool to use these methods in your]]></summary>
+        <author>
+            <name>Kenechukwu Nwobodo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python List Sorting – How to Order Lists in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/"/>
+        <updated>2022-07-26T16:31:59.000Z</updated>
+        <summary type="html"><![CDATA[There are many reasons you might want to sort lists in your Python applications. In this article, I'll show you how to order lists in ascending and descending order depending on what you need to do. What is a List in Python? A list is a data type in Python]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Start Using MongoDB – Database Setup for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/how-to-start-using-mongodb/</id>
@@ -1433,27 +1493,6 @@ My Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the n
         <summary type="html"><![CDATA[There are multiple ways to empty an existing array in JavaScript. Emptying an array means removing all values from it. In this article, I'll show and explain two ways to clear an array. 1. How to Clear an Array by Modifying the Length Property The length property of an array]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Great (and Free!) Web Development Books You Can Get Online]]></title>
-        <id>https://css-tricks.com/?p=366468</id>
-        <link href="https://css-tricks.com/web-development-books-you-can-get-for-free/"/>
-        <updated>2022-06-27T13:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Right after “Where is the best place to learn?” perhaps the most commonly asked question I hear from folks getting into code is “What web development books should I get to learn?” Well, consider this an answer to that question …
-Great (and Free!) Web Development Books You Can Get Online originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Victor Adedokun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying The New Gatsby Framework]]></title>
-        <id>https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/</id>
-        <link href="https://smashingmagazine.com/2022/06/demystifying-gatsby4-framework/"/>
-        <updated>2022-06-27T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Gatsby 4 came out in October 2021 with a lot of new features. It may seem as if Gatsby 4 didn’t cause a big stir among developers, but it brought several game-changing features. Let’s see what v4 brings to the table.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
