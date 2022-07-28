@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-27T01:42:11.202Z</updated>
+    <updated>2022-07-28T01:26:27.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript document.ready() – Document Ready JS and jQuery Example]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/"/>
+        <updated>2022-07-27T21:03:19.000Z</updated>
+        <summary type="html"><![CDATA[When working with JavaScript and the Document Object Model (DOM), you might want your script to run only when the DOM has loaded.  You can do this using the $(document).ready() method in jQuery, or the  DOMContentLoaded event in vanilla JavaScript. In this article, you'll learn how to make]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Chatbot with Redis, Python, and GPT]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/"/>
+        <updated>2022-07-27T20:16:44.000Z</updated>
+        <summary type="html"><![CDATA[In order to build a working full-stack application, there are so many moving parts to think about. And you'll need to make many decisions that will be critical to the success of your app. For example, what language will you use and what platform will you deploy on? Are you]]></summary>
+        <author>
+            <name>Stephen Sanwo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Unit Testing? How to Perform Unit Tests in Rust]]></title>
+        <id>https://www.freecodecamp.org/news/unit-testing-in-rust/</id>
+        <link href="https://www.freecodecamp.org/news/unit-testing-in-rust/"/>
+        <updated>2022-07-27T16:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Testing is an essential part of Software Development. Testing your code ensures that the software you develop works as expected and makes it less vulnerable to attackers. Software testing is a very broad topic. That's why in the software industry, there are separate professionals who specialize in just QA and]]></summary>
+        <author>
+            <name>Menard Maranan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Redux? Store, Actions, and Reducers Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/"/>
+        <updated>2022-07-27T15:48:39.000Z</updated>
+        <summary type="html"><![CDATA[Redux is a predictable state container for JavaScript apps. So what does that really mean? If we dig deeper into this statement, we see that Redux is a state management library that you can use with any JS library or framework like React, Angular, or Vue. In this article, we'll]]></summary>
+        <author>
+            <name>Soham De Roy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Software Architecture Handbook]]></title>
         <id>https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/</id>
@@ -1433,66 +1473,6 @@ My Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the n
         <summary type="html"><![CDATA[Many tech companies want people to solve coding challenges during interviews and many of the challenges can be solved using a greedy algorithm. A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.  We just published a course on]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 48 With Stephanie Eckles: Is Sass Still Relevant?]]></title>
-        <id>https://smashingmagazine.com/2022/06/smashing-podcast-episode-48/</id>
-        <link href="https://smashingmagazine.com/2022/06/smashing-podcast-episode-48/"/>
-        <updated>2022-06-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we ask if Sass is still relevant in 2022 and if it adds any value modern CSS workflows. Vitaly talks to expert Stephanie Eckles to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write a Java Program to Get the Fibonacci Series]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-a-java-program-to-find-the-fibonacci-series/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-a-java-program-to-find-the-fibonacci-series/"/>
-        <updated>2022-06-28T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[The Fibonacci Series is a special kind of sequence that starts with 0 and 1, and every number after those two is the sum of the two preceding numbers.  The Fibonacci series goes like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, … and so on. It]]></summary>
-        <author>
-            <name>Bikash Daga (Jain)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refresh the Page in JavaScript – JS Reload Window Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/refresh-the-page-in-javascript-js-reload-window-tutorial/"/>
-        <updated>2022-06-27T17:41:15.000Z</updated>
-        <summary type="html"><![CDATA[When you're developing applications like a blog or a page where the data may change based on user actions, you'll want that page to refresh frequently. When the page refreshes or reloads, it will show any new data based off those user interactions. Good news – you can implement this]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML – Responsive Web Design Study Guide]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-responsive-web-design-study-guide/"/>
-        <updated>2022-06-27T16:41:05.000Z</updated>
-        <summary type="html"><![CDATA[HTML (HyperText Markup Language) is an important markup language for building websites. HTML represents the content of the web page. But when you are learning this information for the first time, it can be hard to keep track of all of the different HTML elements.  In this article, I]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NameError: Name plot_cases_simple is Not Defined – How to Fix this Python Error]]></title>
-        <id>https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/</id>
-        <link href="https://www.freecodecamp.org/news/nameerror-name-plot_cases_simple-is-not-defined-how-to-fix-this-python-error/"/>
-        <updated>2022-06-27T15:58:39.000Z</updated>
-        <summary type="html"><![CDATA[This first step in fixing a coding error is to understand the error. Although some error messages may seem confusing, most of them will help you fix the error.  In this article, we'll be talking about an error that falls under the NameError  category in Python. You'll see]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Clear a JavaScript Array – JS Empty Array]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-clear-a-javascript-array-js-empty-array/"/>
-        <updated>2022-06-27T15:53:34.000Z</updated>
-        <summary type="html"><![CDATA[There are multiple ways to empty an existing array in JavaScript. Emptying an array means removing all values from it. In this article, I'll show and explain two ways to clear an array. 1. How to Clear an Array by Modifying the Length Property The length property of an array]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
 </feed>
