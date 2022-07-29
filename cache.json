@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367170",
+          "author": "Geoff Graham",
+          "description": "It’s no secret that MDN rolled out a new design back in March. It’s gorgeous! And there are some sweet CSS-y gems in it that are fun to look at. One of those gems is how card components handle truncated …\nRecreating MDN’s Truncated Text Effect originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/recreating-mdns-truncated-text-effect/",
+          "publishedOn": "2022-07-28T17:18:46.000Z",
+          "wordCount": 1787,
+          "title": "Recreating MDN’s Truncated Text Effect",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367170"
+        },
+        {
           "id": "https://css-tricks.com/?p=367003",
           "author": "Obumuneme Nwabude",
           "description": "URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.\nBehind the scenes, the long …\nWhy I Chose Angular to Build a URL Shortener originally published on CSS-Tricks. You should get the newsletter.",
@@ -124,36 +134,6 @@
           "wordCount": 1241,
           "title": "Text-overflow: ellipsis considered harmful",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366557"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366509",
-          "author": "Holger Sindbaek",
-          "description": "There is an abundance of both CSS and JavaScript libraries for animation libraries out there. So many, in fact, that choosing the right one for your project can seem impossible. That’s the situation I faced when I decided to build …\nHow I Chose an Animation Library for My Solitaire Game originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/choosing-an-animation-library-for-solitaire/",
-          "publishedOn": "2022-06-29T12:55:44.000Z",
-          "wordCount": 2705,
-          "title": "How I Chose an Animation Library for My Solitaire Game",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366509"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366554",
-          "author": "Geoff Graham",
-          "description": "Hey, so it’s been a minute since we announced that CSS-Tricks is now part of the DigitalOcean family. Things are pretty much business as usual and hopefully it feels that way to you, too. Now that we’re getting settled, we’re …\nHelp Shape the Future of CSS-Tricks! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/help-shape-the-future-of-css-tricks/",
-          "publishedOn": "2022-06-28T19:52:48.000Z",
-          "wordCount": 990,
-          "title": "Help Shape the Future of CSS-Tricks!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366554"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366484",
-          "author": "Geoff Graham",
-          "description": "We all make mistakes in our code. It happens! I know if I had one of those “Days Since Last Mistake” signs hanging over my desk, a big ol’ goose egg would be hovering above me all the time. It …\nMy Dumbest CSS Mistakes originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/my-dumbest-css-mistakes/",
-          "publishedOn": "2022-06-28T15:10:31.000Z",
-          "wordCount": 1553,
-          "title": "My Dumbest CSS Mistakes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366484"
         }
       ]
     },
@@ -162,6 +142,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
+          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
+          "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
+          "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
+          "publishedOn": "2022-07-28T12:00:00.000Z",
+          "wordCount": 4540,
+          "title": "Testable Frontend: The Good, The Bad And The Flaky",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
           "author": "hello@smashingmagazine.com (Olushuyi Olutimilehin)",
@@ -409,6 +404,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When collaborating with other developers using Git, you might encounter the  error: failed to push some refs to [remote repo] error. This error mainly occurs when you attempt to push your local changes to GitHub while the local repository (repo) has not yet been updated with any changes made",
+          "link": "https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/",
+          "publishedOn": "2022-07-28T20:04:11.000Z",
+          "wordCount": 1268,
+          "title": "Error: failed to push some refs to – How to Fix in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/roman-synkevych-wX2L8L-fGeA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-replaceall-replace-all-instances-of-a-string-in-js/",
+          "author": "Dionysia Lemonaki",
+          "description": "When working with a JavaScript program, you might need to replace a character or word with another one. Specifically, you may need to replace not just one but all occurrences of that character or word with something else. There are a few ways you can achieve this with JavaScript. One",
+          "link": "https://www.freecodecamp.org/news/javascript-replaceall-replace-all-instances-of-a-string-in-js/",
+          "publishedOn": "2022-07-28T16:15:26.000Z",
+          "wordCount": 2073,
+          "title": "JavaScript replaceAll() – Replace All Instances of a String in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-christina-morillo-1181675.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-dictionary-methods-dictionaries-in-python/",
+          "author": "Kolade Chris",
+          "description": "In Python, a dictionary is one of the core data structures. It is a sequence of key-value pairs separated by commas and surrounded by curly braces. If you’re familiar with JavaScript, Python dictionaries are like JavaScript objects. Python provides more than 10 methods for working with dictionaries. In this article,",
+          "link": "https://www.freecodecamp.org/news/python-dictionary-methods-dictionaries-in-python/",
+          "publishedOn": "2022-07-28T15:32:21.000Z",
+          "wordCount": 1628,
+          "title": "Python Dictionary Methods – Dictionaries in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/python_dict.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/",
+          "author": "Beau Carnes",
+          "description": "JavaScript can be used to develop a bunch of different types of games. And games created with JavaScript can run on almost any device with a web browser. We just published a 10-hour JavaScript game development course on the freeCodeCamp.org YouTube channel. You will learn to make 2D games with",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-game-development-full-course/",
+          "publishedOn": "2022-07-28T13:52:54.000Z",
+          "wordCount": 942,
+          "title": "Learn Game Development with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/jsgame.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/",
           "author": "Ihechikara Vincent Abba",
@@ -1478,66 +1513,6 @@
           "wordCount": 928,
           "title": "Learn Terraform and Azure by Building a Dev Environment",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/terraformazure.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-convert-string-to-number-js-string-to-int-example/",
-          "author": "Joel Olawanle",
-          "description": "When you're working with data from various sources, some of these data may arrive in the incorrect format. And you'll need to correct those formats before performing certain actions on the data.  This is just one of the many reasons you might want to learn how to convert a",
-          "link": "https://www.freecodecamp.org/news/javascript-convert-string-to-number-js-string-to-int-example/",
-          "publishedOn": "2022-06-29T00:04:12.000Z",
-          "wordCount": 1842,
-          "title": "JavaScript Convert String to Number – JS String to Int Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--5-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-array-includes/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use the includes() method in JavaScript to check if an item exists in an array. You can also use it to check if a substring exists within a string.  It returns true if the item is found in the array/string and false if the item doesn't exist.",
-          "link": "https://www.freecodecamp.org/news/check-if-an-item-is-in-an-array-in-javascript-js-contains-with-array-includes/",
-          "publishedOn": "2022-06-28T22:28:00.000Z",
-          "wordCount": 1598,
-          "title": "Check if an Item is in an Array in JavaScript – JS Contains with Array.includes()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/",
-          "author": "CESS",
-          "description": "The Feynman approach is an excellent way to gain a deeper understanding of a complex topic. It's one of the quickest ways to turn a complex topic into one that you can explain in simple terms to others. This article will teach you how to break complex coding concepts into",
-          "link": "https://www.freecodecamp.org/news/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique/",
-          "publishedOn": "2022-06-28T19:26:19.000Z",
-          "wordCount": 2487,
-          "title": "How to Understand Complex Coding Concepts Using the Feynman Technique",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/HTML-Best-Practices---How-to-Build-a-Better-HTML-Based-Website.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu-jdk-linux-tutorial/",
-          "author": "Sebastian Sigl",
-          "description": "Java is one of the most popular programming languages in use today. And a clean setup lets you seamlessly install Java and switch between different versions when you're building applications.  In this tutorial you will learn how to:  * Install any Java version,  * Switch between Java",
-          "link": "https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu-jdk-linux-tutorial/",
-          "publishedOn": "2022-06-28T19:21:28.000Z",
-          "wordCount": 1931,
-          "title": "How to Install Java in Ubuntu – JDK Linux Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/how-to-install-java.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-the-429-too-many-requests-http-error/",
-          "author": "Kolade Chris",
-          "description": "Whether you are a web developer or you are a regular internet user, you might have encountered a 429 error. It means that the website can't handle the number of requests being sent to it. For a developer, this error can be hard to resolve because, on many occasions, it",
-          "link": "https://www.freecodecamp.org/news/what-is-the-429-too-many-requests-http-error/",
-          "publishedOn": "2022-06-28T15:45:26.000Z",
-          "wordCount": 1484,
-          "title": "429 Error – Too Many Requests HTTP Code Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/429.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-greedy-algorithms/",
-          "author": "Beau Carnes",
-          "description": "Many tech companies want people to solve coding challenges during interviews and many of the challenges can be solved using a greedy algorithm. A greedy algorithm is any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.  We just published a course on",
-          "link": "https://www.freecodecamp.org/news/learn-greedy-algorithms/",
-          "publishedOn": "2022-06-28T14:01:44.000Z",
-          "wordCount": 860,
-          "title": "Learn Greedy Algorithms and Solve Coding Challenges",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/greedy.png"
         }
       ]
     }
