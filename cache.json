@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367270",
+          "author": "Geoff Graham",
+          "description": "Chris calls scroll shadows one his favorite CSS-Tricks of all time. Lea Verou popularized the pure CSS approach using four layered background gradients with some clever background-attachment magic. The result is a slick scrolling interaction that gives users a hint …\nScroll Shadows? Pure CSS Parallax? Game Back On. originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/scroll-shadows-pure-css-parallax-game-back-on/",
+          "publishedOn": "2022-07-29T14:55:31.000Z",
+          "wordCount": 914,
+          "title": "Scroll Shadows? Pure CSS Parallax? Game Back On.",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367270"
+        },
+        {
           "id": "https://css-tricks.com/?p=367170",
           "author": "Geoff Graham",
           "description": "It’s no secret that MDN rolled out a new design back in March. It’s gorgeous! And there are some sweet CSS-y gems in it that are fun to look at. One of those gems is how card components handle truncated …\nRecreating MDN’s Truncated Text Effect originally published on CSS-Tricks. You should get the newsletter.",
@@ -381,21 +391,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/266042e4-990d-4e79-bdf2-ad217d6577c1/accelerating-ux-maturity-breakthrough-project.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/06/desktop-wallpaper-calendars-july-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome the new month with some inspiring desktop wallpapers. Created by artists and designers from across the globe, they come in versions with and without a calendar for July 2022. Enjoy!",
-          "link": "https://smashingmagazine.com/2022/06/desktop-wallpaper-calendars-july-2022/",
-          "publishedOn": "2022-06-30T07:00:00.000Z",
-          "wordCount": 4301,
-          "title": "Jump Into July (2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05736c24-15e7-4229-ae24-4c55cd60aec0/july-22-melting-july-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/05736c24-15e7-4229-ae24-4c55cd60aec0/july-22-melting-july-preview-opt.png"
         }
       ]
     },
@@ -404,6 +399,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/",
+          "author": "Matthes Bär",
+          "description": "In this tutorial, you'll learn how to set up dynamic routing in Next.js. You'll also learn about pre-rendering and why it's important. 🔐 Here's what we'll cover:  * You'll get to know getStaticPaths(), one of the core principles of Next.js.  * You'll improve your general Next.js knowledge and",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/",
+          "publishedOn": "2022-07-29T21:21:21.000Z",
+          "wordCount": 4136,
+          "title": "Routing in Next.js – How to Set Up Dynamic Routing with Pre-Rendering in Next",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-pixabay-2150.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sort-alphabetically-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "Sometimes you might have an array of words where you want to sort each word alphabetically (from a-z). Or you might have an array of objects containing user information including names, for example, where you want to sort the users by their names. We can do this in JavaScript by",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-alphabetically-in-javascript/",
+          "publishedOn": "2022-07-29T19:59:50.000Z",
+          "wordCount": 1455,
+          "title": "Sort Alphabetically in JavaScript – How to Order by Name in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--4-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-choose-a-tech-career/",
+          "author": "Sophia Iroegbu",
+          "description": "Choosing a tech career can be tricky because there are many possible paths to choose from. There's Web Development, Machine Learning, Data Science, DevOps, and many more. But the good news is you don't necessarily have to be a developer to be in the world of tech. This article is",
+          "link": "https://www.freecodecamp.org/news/how-to-choose-a-tech-career/",
+          "publishedOn": "2022-07-29T16:43:31.000Z",
+          "wordCount": 4424,
+          "title": "How to Choose a Tech Career in 2022 – A Career Changer's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Tech-Blog-Cover--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/authenticate-with-face-recognition-reactjs/",
+          "author": "Hrishikesh Pathak",
+          "description": "With the advent of Web 2.0, authenticating users became a crucial task for developers.  Before Web 2.0, website visitors could only view the content of a web page – there was no interaction. This era of the internet was called Web 1.0. But after Web 2.0, people gained the",
+          "link": "https://www.freecodecamp.org/news/authenticate-with-face-recognition-reactjs/",
+          "publishedOn": "2022-07-29T13:55:01.000Z",
+          "wordCount": 3410,
+          "title": "How to Authenticate a User with Face Recognition in React.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/FaceIO-react--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/",
           "author": "Ihechikara Vincent Abba",
@@ -1453,66 +1488,6 @@
           "wordCount": 2924,
           "title": "How to Stay Motivated While Learning to Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-i-age-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/",
-          "author": "Joel Olawanle",
-          "description": "A date is one of the most common datatypes developers use when creating real-world applications.  But often, devs struggle with this datatype and end up using date libraries like Moment.js for simple tasks that aren't worth the large package size that comes with installing an entire package. In this",
-          "link": "https://www.freecodecamp.org/news/javascript-date-comparison-how-to-compare-dates-in-js/",
-          "publishedOn": "2022-06-29T19:06:00.000Z",
-          "wordCount": 1418,
-          "title": "JavaScript Date Comparison – How to Compare Dates in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/cover-template--6-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/",
-          "author": "Amazing Enyichi Agu",
-          "description": "React is a popular front-end JavaScript development library. It ranks #1 in awareness and usage according to the State Of JS 2021 [https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/] survey.  This means that a majority of JavaScript developers likely are aware of or use React.  Even though React is popular for building web app",
-          "link": "https://www.freecodecamp.org/news/react-js-ink-cli-tutorial/",
-          "publishedOn": "2022-06-29T18:41:08.000Z",
-          "wordCount": 2769,
-          "title": "React + Ink CLI Tutorial – How to Build a Browser Command Line Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/freehero.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/design-an-api-application-program-interface/",
-          "author": "Sophia Iroegbu",
-          "description": "API stands for Application Programming Interface. An API communicates with two applications using requests and responses. It is exposed to external users. How Does an API Work?  How an API worksImagine you are in a store and want to buy a soda. But you can't just walk in and",
-          "link": "https://www.freecodecamp.org/news/design-an-api-application-program-interface/",
-          "publishedOn": "2022-06-29T18:04:39.000Z",
-          "wordCount": 2548,
-          "title": "How to Design an API – Application Programming Interface Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Tech-Blog-Cover--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-localhost/",
-          "author": "Kolade Chris",
-          "description": "If you are an experienced web developer, then you’ve likely seen the term “localhost” on many occasions. And even if you’re a beginner and just getting started in web development, you might have seen the number “127.0.0.1:” while using a live server plugin. You might be using it to test",
-          "link": "https://www.freecodecamp.org/news/what-is-localhost/",
-          "publishedOn": "2022-06-29T16:11:00.000Z",
-          "wordCount": 1232,
-          "title": "What is Localhost? Local Host IP Address Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/localhost.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/",
-          "author": "Eamonn Cottrell",
-          "description": "Dates are a pretty fundamental concept. We use them all the time. And computers use them all the time. But parsing dates using JavaScript can be a little...well, interesting. In this article, we'll:  1. Discuss date formatting  2. Turn a wee ol' string into a proper date object",
-          "link": "https://www.freecodecamp.org/news/javascript-string-to-date-date-parsing-in-js/",
-          "publishedOn": "2022-06-29T15:46:32.000Z",
-          "wordCount": 1594,
-          "title": "JavaScript String to Date – Date Parsing in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Javascript-String-to-Date-01-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/",
-          "author": "Beau Carnes",
-          "description": "Terraform is an open source infrastructure as code software tool that makes it easy to programmatically to set up infrastructure on a variety of cloud service providers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Terraform and Azure to setup a",
-          "link": "https://www.freecodecamp.org/news/learn-terraform-and-azure-by-building-a-dev-environment/",
-          "publishedOn": "2022-06-29T14:35:30.000Z",
-          "wordCount": 928,
-          "title": "Learn Terraform and Azure by Building a Dev Environment",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/terraformazure.png"
         }
       ]
     }
