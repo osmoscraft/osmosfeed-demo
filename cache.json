@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367178",
+          "author": "Temani Afif",
+          "description": "When working with CSS Grid, the first thing to do is to set display: grid on the element that we want to be become a grid container. Then we explicitly define the grid using a combination of grid-template-columns, grid-template-rows…\nExploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/",
+          "publishedOn": "2022-08-01T13:44:13.000Z",
+          "wordCount": 5372,
+          "title": "Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367178"
+        },
+        {
           "id": "https://css-tricks.com/?p=367270",
           "author": "Geoff Graham",
           "description": "Chris calls scroll shadows one his favorite CSS-Tricks of all time. Lea Verou popularized the pure CSS approach using four layered background gradients with some clever background-attachment magic. The result is a slick scrolling interaction that gives users a hint …\nScroll Shadows? Pure CSS Parallax? Game Back On. originally published on CSS-Tricks. You should get the newsletter.",
@@ -112,6 +122,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
+          "author": "hello@smashingmagazine.com (Ruslan Yevych)",
+          "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
+          "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
+          "publishedOn": "2022-08-01T10:30:00.000Z",
+          "wordCount": 4789,
+          "title": "Fluid Sizing Instead Of Multiple Media Queries?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -374,6 +399,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "A regression problem is a common type of supervised learning problem in Machine Learning. The end goal is to predict quantitative values – for example, continuous values such as the price of a car, the weight of a dog, and so on.  But to be sure that your model",
+          "link": "https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/",
+          "publishedOn": "2022-08-01T14:37:27.000Z",
+          "wordCount": 1979,
+          "title": "Top Evaluation Metrics for Regression Problems in Machine Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/regression-metrics-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/",
+          "author": "Beau Carnes",
+          "description": "There are a lot of REST API tutorials out there but many of them do not teach you how to create production-ready code using industry best practices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API using industry-level .NET",
+          "link": "https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/",
+          "publishedOn": "2022-08-01T14:21:13.000Z",
+          "wordCount": 881,
+          "title": "Create an Industry Level REST API Using .NET 6",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/maxresdefault.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/",
+          "author": "Dillion Megida",
+          "description": "When working with Git, you may come across an error that says \"src refspace master does not match any\". Here's what the error means and how you can solve it. What Does src refspec master does not match any Mean in Git? You may get this error when you try",
+          "link": "https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/",
+          "publishedOn": "2022-08-01T13:58:44.000Z",
+          "wordCount": 1178,
+          "title": "Error: src refspec master does not match any – How to Fix in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/refspec-master-error.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/",
+          "author": "Rohit Jacob Mathew",
+          "description": "Ever since I started learning about JSON Web Tokens, I have been wondering how we validate them.  I understood that we sign the token and that we use that signed token to validate its authenticity. But I was still curious to know more and wondered why I never learned",
+          "link": "https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/",
+          "publishedOn": "2022-07-31T13:00:00.000Z",
+          "wordCount": 2377,
+          "title": "How to Sign and Validate JSON Web Tokens – JWT Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/rohit-code-2400x1260.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-setup-dynamic-routing-in-nextjs/",
           "author": "Matthes Bär",
