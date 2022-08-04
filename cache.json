@@ -133,6 +133,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
+          "author": "hello@smashingmagazine.com (Sam Robbins)",
+          "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
+          "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
+          "publishedOn": "2022-08-03T12:00:00.000Z",
+          "wordCount": 4640,
+          "title": "Migration From jQuery to Next.js: A Guide",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
           "author": "hello@smashingmagazine.com (Ruslan Yevych)",
           "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
@@ -371,36 +386,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/build-localized-website-hugo-strapi/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this tutorial, Zara Cooper explains how to use Strapi’s Internationalization feature to create content in multiple languages. You’ll also learn how to create a Hugo site that consumes localized content from Strapi.",
-          "link": "https://smashingmagazine.com/2022/07/build-localized-website-hugo-strapi/",
-          "publishedOn": "2022-07-05T09:00:00.000Z",
-          "wordCount": 7335,
-          "title": "How To Build A Localized Website With Hugo And Strapi",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/497caaf3-63f0-4dde-9a46-07486cec03a9/build-localized-website-hugo-strapi.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/497caaf3-63f0-4dde-9a46-07486cec03a9/build-localized-website-hugo-strapi.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/accelerating-ux-maturity-breakthrough-project/",
-          "author": "hello@smashingmagazine.com (John Scott Bowie)",
-          "description": "In this article, John Scott Bowie shares the story of 40 years of attempts to advance corporate UX maturity that — after numerous initiatives with marginal results — culminated in a breakthrough project that accelerated a company’s UX maturity from “Emergent” to “User-Driven” in less than a year.",
-          "link": "https://smashingmagazine.com/2022/07/accelerating-ux-maturity-breakthrough-project/",
-          "publishedOn": "2022-07-04T14:00:00.000Z",
-          "wordCount": 5578,
-          "title": "Accelerating UX Maturity With A Breakthrough Project",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/266042e4-990d-4e79-bdf2-ad217d6577c1/accelerating-ux-maturity-breakthrough-project.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/266042e4-990d-4e79-bdf2-ad217d6577c1/accelerating-ux-maturity-breakthrough-project.jpg"
         }
       ]
     },
@@ -409,6 +394,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we'll talk about the IndexError: list index out of range error in Python.  In each section of the article, I'll highlight a possible cause for the error and how to fix it. You may get the IndexError: list index out of range error for the following",
+          "link": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
+          "publishedOn": "2022-08-03T22:13:38.000Z",
+          "wordCount": 1840,
+          "title": "List Index Out of Range – Python Error [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/kelly-sikkema--1_RZL8BGBM-unsplash--3-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-redux-powered-react-app/",
+          "author": "Soham De Roy",
+          "description": "The Problem We're Solving In many cases when we want to create a small application, we might have some components that declare and use their own state. And in a few cases, a component might want to share the state with its immediate children. We can handle these situations just",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-redux-powered-react-app/",
+          "publishedOn": "2022-08-03T21:51:56.000Z",
+          "wordCount": 3715,
+          "title": "How to Build a Redux-Powered React App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Group-58.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/",
+          "author": "Dionysia Lemonaki",
+          "description": "When working with a JavaScript program, there may be times when you will need to generate a random number. For example, you may want to generate a random number when developing a JavaScript game, such as a number guessing game. JavaScript has many built-in methods for working with numbers and",
+          "link": "https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/",
+          "publishedOn": "2022-08-03T19:29:55.000Z",
+          "wordCount": 2230,
+          "title": "JavaScript Random Number – How to Generate a Random Number in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-josh-sorenson-1714208.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-use-regex-and-vlookup-to-display-images-from-google-drive/",
+          "author": "Eamonn Cottrell",
+          "description": "Images make many things better. And Google Sheets is one of those things.  The easiest way to add an image to Google Sheets is to simply insert one into your sheet.  But if you have added many images this way, you'll quickly tire of the multiple clicks it",
+          "link": "https://www.freecodecamp.org/news/google-sheets-use-regex-and-vlookup-to-display-images-from-google-drive/",
+          "publishedOn": "2022-08-03T17:03:25.000Z",
+          "wordCount": 1891,
+          "title": "Google Sheets Tutorial – How to Use Regex and VLOOKUP to Display Images from Google Drive",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/google-sheets-regex.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/",
+          "author": "Jessica Rose",
+          "description": "In 2021, the Class Central team helped my friend and me teach three cohorts of free programming bootcamps based on freeCodeCamp curricula.  We’ve been joined by over 20,000 learners from around the globe and it’s just been an honor and a delight to get to learn along with so",
+          "link": "https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/",
+          "publishedOn": "2022-08-03T16:48:08.000Z",
+          "wordCount": 1381,
+          "title": "Free Coding Bootcamp – Learn to Code with Class Central + freeCodeCamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-sora-shimazaki-5935794--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-factorial/",
+          "author": "Ilenia Magoni",
+          "description": "A factorial is a mathematical operation that you write like this: n!. It represents the multiplication of all numbers between 1 and n. So if you were to have 3!, for example, you'd compute 3 x 2 x 1 (which = 6). Let's see how it works with some more",
+          "link": "https://www.freecodecamp.org/news/what-is-a-factorial/",
+          "publishedOn": "2022-08-03T16:32:53.000Z",
+          "wordCount": 1577,
+          "title": "What is a Factorial? How to Calculate Factorials with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/antoine-dautry-_zsL306fDck-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/page-fault-in-nonpaged-area-how-to-fix-the-error-on-a-windows-10-pc/",
+          "author": "Kolade Chris",
+          "description": "In Windows, the nonpaged area is the part of the memory that contains critical files your computer needs to function properly. Those critical files are stored in the nonpaged area so the RAM won’t switch them back and forth between itself and the paged area. Once there’s an issue with",
+          "link": "https://www.freecodecamp.org/news/page-fault-in-nonpaged-area-how-to-fix-the-error-on-a-windows-10-pc/",
+          "publishedOn": "2022-08-03T16:20:21.000Z",
+          "wordCount": 1406,
+          "title": "Page fault in nonpaged area – How to Fix the Error on a Windows 10 PC",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/bsod.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-keep-your-angular-data-flow-tidy-and-efficient/",
+          "author": "Valentine Gatwiri",
+          "description": "Developing large-scale Angular applications can feel like trying to ride a bicycle with your eyes closed and both hands tied behind your back.  The data flow in an Angular application can be extremely complex, especially when dealing with bidirectional data binding, asynchronous updates, forms, and routing.  The key",
+          "link": "https://www.freecodecamp.org/news/how-to-keep-your-angular-data-flow-tidy-and-efficient/",
+          "publishedOn": "2022-08-03T15:18:02.000Z",
+          "wordCount": 1738,
+          "title": "How to Keep your Angular Data-Flow Tidy and Efficient",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-isaque-pereira-394377.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/",
+          "author": "Michael lee",
+          "description": "In this article, you will learn what the PHP programming language is and how to write your first program with it.  History of PHP PHP is the most used and popular scripting language generated for web development. You can embed it in HTML documents. PHP is written in the",
+          "link": "https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/",
+          "publishedOn": "2022-08-03T11:00:00.000Z",
+          "wordCount": 2157,
+          "title": "What is PHP? How to Write Your First PHP Program",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Untitled-2-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/",
           "author": "Joel Olawanle",
