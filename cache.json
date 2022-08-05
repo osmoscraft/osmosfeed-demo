@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367361",
+          "author": "Geoff Graham",
+          "description": "Apple unveiled an expanded version of its San Francisco system font at WWDC 2022. Then, last month, Jim Nielsen zeroed in on the font’s variations, explaining how the font provides a spectrum of variations based on the width and weight…\nActually, the San Francisco Typeface Does Ship as a Variable Font originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/actually-the-san-francisco-typeface-does-ship-as-a-variable-font/",
+          "publishedOn": "2022-08-04T20:20:28.000Z",
+          "wordCount": 1088,
+          "title": "Actually, the San Francisco Typeface Does Ship as a Variable Font",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367361"
+        },
+        {
+          "id": "https://css-tricks.com/?p=367238",
+          "author": "Onuorah Bonaventure Chukwudi",
+          "description": "With speech interfaces becoming more of a thing, it’s worth exploring some of the things we can do with speech interactions. Like, what if we could say something and have that transcribed and pumped out as a downloadable PDF?\nWell, …\nConverting Speech to PDF with NextJS and ExpressJS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/converting-speech-to-pdf-with-nextjs-and-expressjs/",
+          "publishedOn": "2022-08-04T12:55:39.000Z",
+          "wordCount": 3218,
+          "title": "Converting Speech to PDF with NextJS and ExpressJS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367238"
+        },
+        {
           "id": "https://css-tricks.com/?p=367158",
           "author": "Geoff Graham",
           "description": "Dave Rupert with some modern CSS magic that tackles one of those classic conundrums: what happens when the CSS for component is unable to handle the content we throw at it?\nThe specific situation is when a layout grid expects …\nImplicit Grids, Repeatable Layout Patterns, and Danglers originally published on CSS-Tricks. You should get the newsletter.",
@@ -132,6 +152,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
+          "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
+          "publishedOn": "2022-08-04T13:30:00.000Z",
+          "wordCount": 4333,
+          "title": "Rethinking Authentication UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
           "author": "hello@smashingmagazine.com (Sam Robbins)",
@@ -371,21 +406,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cd18ef2b-760e-4a64-8c24-89d871b6b1f3/accessibility-first-approach-chart-visual-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this [series of articles](/category/design-patterns/), we highlight design patterns and techniques to design better interfaces. You can find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 7h-video course with 100s of hand-picked examples, curated by Vitaly.",
-          "link": "https://smashingmagazine.com/2022/07/designing-better-pricing-page/",
-          "publishedOn": "2022-07-06T12:00:00.000Z",
-          "wordCount": 8853,
-          "title": "Designing A Better Pricing Page",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37c160fe-99a6-4e3f-b754-dda006ff84fa/designing-better-pricing-page-sharing-card.jpg"
         }
       ]
     },
@@ -394,6 +414,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/beginners-guide-to-props-in-react/",
+          "author": "Oyedele Temitope",
+          "description": "Props are used to store data that can be accessed by the children of a React component.  They are part of the concept of reusability. Props take the place of class attributes and allow you to create consistent interfaces across the component hierarchy. In this article, we'll learn about",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-props-in-react/",
+          "publishedOn": "2022-08-04T17:31:54.000Z",
+          "wordCount": 2157,
+          "title": "How Props Work in React – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/A-Beginner-s-Guide-to-Props-in-Reacte--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-blazor-app-with-syncfusion-ui-components/",
+          "author": "Beau Carnes",
+          "description": "Syncfusion provides a UI component suite for building powerful web, desktop, and mobile apps. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to harness the power of the Syncfusion UI components from within a Blazor server application. You'll also learn to integrate",
+          "link": "https://www.freecodecamp.org/news/create-a-blazor-app-with-syncfusion-ui-components/",
+          "publishedOn": "2022-08-04T17:04:56.000Z",
+          "wordCount": 1004,
+          "title": "Create a Blazor App with Syncfusion UI Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/syncfusion.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/",
+          "author": "Danny Adams",
+          "description": "In this article, we will be using Socket.io and HarperDB to build a fullstack, real-time chat application with chat rooms.  This will be a great project to learn how to put together fullstack apps, and how to create an app where the backend can communicate with the frontend in",
+          "link": "https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/",
+          "publishedOn": "2022-08-04T15:53:22.000Z",
+          "wordCount": 7088,
+          "title": "How to Build a Real-time Chat App with React, Node, Socket.io, and HarperDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-keira-burton-6146929.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-change-text-size-in-html/",
+          "author": "Joel Olawanle",
+          "description": "When you add text to your HTML file with an HTML tag, you won't always want the text to remain the default size. You'll want to be able to adjust how the text displays in the browser. In this article, you will learn how to change the text size with",
+          "link": "https://www.freecodecamp.org/news/how-to-change-text-size-in-html/",
+          "publishedOn": "2022-08-04T14:52:43.000Z",
+          "wordCount": 1331,
+          "title": "HTML Font Size – How to Change Text Size with an HTML Tag",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--6-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
           "author": "Ihechikara Vincent Abba",
@@ -1453,86 +1513,6 @@
           "wordCount": 15058,
           "title": "JavaScript Tutorial –  Code Two Word Games",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
-          "author": "Natalie Pina",
-          "description": "The Node Package Manager (npm) provides various features to help you install and maintain your project's dependencies. Dependencies can become outdated over time due to bug fixes, new features, and other updates. The more project dependencies you have, the harder it is to keep up with these updates.  Outdated",
-          "link": "https://www.freecodecamp.org/news/how-to-update-npm-dependencies/",
-          "publishedOn": "2022-07-05T22:55:20.000Z",
-          "wordCount": 1488,
-          "title": "How to Update NPM Dependencies",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/deps.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-check-empty-string-checking-null-or-empty-in-js/",
-          "author": "Joel Olawanle",
-          "description": "There are a number of reasons why you might need to check if a string is empty or not. One of the most important reasons is when you're retrieving data from a database, API, or input field. In this article, you will learn how to check if a sting is",
-          "link": "https://www.freecodecamp.org/news/javascript-check-empty-string-checking-null-or-empty-in-js/",
-          "publishedOn": "2022-07-05T22:43:13.000Z",
-          "wordCount": 1568,
-          "title": "JavaScript Check Empty String – Checking Null or Empty in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--7-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/",
-          "author": "Bala Priya C",
-          "description": "Have you ever trained a machine learning model on a real-world dataset? If yes, you’ll have likely come across outliers.  Outliers are those data points that are significantly different from the rest of the dataset. They are often abnormal observations that skew the data distribution, and arise due to",
-          "link": "https://www.freecodecamp.org/news/how-to-detect-outliers-in-machine-learning/",
-          "publishedOn": "2022-07-05T22:02:13.000Z",
-          "wordCount": 2623,
-          "title": "How to Detect Outliers in Machine Learning – 4 Methods for Outlier Detection",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Outlier-Detection.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/",
-          "author": "Bala Priya C",
-          "description": "Have you ever trained a machine learning model on a real-world dataset? If yes, you’ll have likely come across outliers.  Outliers are those data points that are significantly different from the rest of the dataset. They are often abnormal observations that skew the data distribution, and arise due to",
-          "link": "https://www.freecodecamp.org/news/how-top-detect-outliers-in-machine-learning/",
-          "publishedOn": "2022-07-05T22:02:13.000Z",
-          "wordCount": 2621,
-          "title": "How to Detect Outliers in Machine Learning – 4 Methods for Outlier Detection",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Outlier-Detection.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-github-copilot-with-visual-studio-code/",
-          "author": "Nishant Kumar",
-          "description": "Hey everyone, welcome! In this article, we will learn how to use the GitHub Copilot AI tool with Visual Studio Code. What is GitHub Copilot? GitHub Copilot is a tool that can help you write easier and faster code. It is powered by GPT-3. You just have to write the",
-          "link": "https://www.freecodecamp.org/news/how-to-use-github-copilot-with-visual-studio-code/",
-          "publishedOn": "2022-07-05T15:12:42.000Z",
-          "wordCount": 1794,
-          "title": "How to Use GitHub Copilot with Visual Studio Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/How-to-Build-a-Weather-Application-using-React--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-secure-source-code-for-proprietary-software/",
-          "author": "Andrej Kovacevic",
-          "description": "As software developers working on proprietary software, it's our job to create programs that provide the functionality our clients need. And it's also our job to create those programs in a way that makes them easy to use, maintain, and upgrade.  But proprietary software developers have another, much more",
-          "link": "https://www.freecodecamp.org/news/how-to-write-secure-source-code-for-proprietary-software/",
-          "publishedOn": "2022-07-05T14:53:02.000Z",
-          "wordCount": 2332,
-          "title": "How to Write Secure Source Code for Proprietary Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/software-development-code-security.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/",
-          "author": "Zaira Hira",
-          "description": "Modern businesses are relying on containerization technologies to simplify the process of deploying and managing complex applications.  Containers assemble the necessary dependencies within one package. In this way, you don't need to worry about dependency-related conflicts that may arise in the production environment. Containers are portable and scalable, but",
-          "link": "https://www.freecodecamp.org/news/kubernetes-vs-docker-swarm-what-is-the-difference/",
-          "publishedOn": "2022-07-05T14:10:28.000Z",
-          "wordCount": 1670,
-          "title": "Kubernetes VS Docker Swarm – What is the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/06/Copy-of-Copy-of-read-write-files-python--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/",
-          "author": "Njoku Samson Ebere",
-          "description": "It's almost impossible to build an application without registration and login functionalities. But this can be a bit tricky for beginners. In this article, I will guide you through creating a full-stack authentication application. You will start with the backend which will be built with Express and hosted on Heroku",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-fullstack-authentication-system-with-react-express-mongodb-heroku-and-netlify/",
-          "publishedOn": "2022-07-05T13:50:44.000Z",
-          "wordCount": 9314,
-          "title": "How to Build a Full-Stack Authentication App With React, Express, MongoDB, Heroku, and Netlify",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-sora-shimazaki-5935794--1-.jpg"
         }
       ]
     }
