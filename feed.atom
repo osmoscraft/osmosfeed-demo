@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-05T01:37:29.425Z</updated>
+    <updated>2022-08-06T01:16:43.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Git Best Practices – How to Write Meaningful Commits, Effective Pull Requests, and Code Reviews]]></title>
+        <id>https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/</id>
+        <link href="https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/"/>
+        <updated>2022-08-05T15:45:03.000Z</updated>
+        <summary type="html"><![CDATA[As developers we push regular code commits – and after a while, it's almost second nature to us.  But does this mean we're doing things right? Familiarity often leads to sloppiness and overlooking the basics. In this article, we will explore  * How to write meaningful Git commit]]></summary>
+        <author>
+            <name>Grant Weatherston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Switch Statement – Switch Case Example]]></title>
+        <id>https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/</id>
+        <link href="https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/"/>
+        <updated>2022-08-05T15:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Until version 3.10, Python never had a feature that implemented what the switch statement does in other programming languages. So, if you wanted to execute multiple conditional statements, you would've had to use the elif keyword like this: age = 120 if age > 90:     print("You]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Added Scroll Snapping To My Twitter Timeline]]></title>
+        <id>https://css-tricks.com/?p=367283</id>
+        <link href="https://css-tricks.com/how-i-added-scroll-snapping-to-my-twitter-timeline/"/>
+        <updated>2022-08-05T13:10:09.000Z</updated>
+        <summary type="html"><![CDATA[CSS Scroll Snap allows websites to snap the web page or any other scroll container to a specific scroll position when the user performs a scrolling operation. This feature has been supported in all modern browsers for over two years, …
+How I Added Scroll Snapping To My Twitter Timeline originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Actually, the San Francisco Typeface Does Ship as a Variable Font]]></title>
         <id>https://css-tricks.com/?p=367361</id>
@@ -1339,106 +1370,6 @@ Technical Writing for Developers originally published on CSS-Tricks. You should 
         <summary type="html"><![CDATA[If you log on to a website and your browser shows the “Your connection is not private” error, the browser is trying to warn you to stay off the website. In that case, the browser has run a check on the SSL (secure socket layer) certificate and found a problem]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript DOM Manipulation Course]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-dom-manipulation/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-dom-manipulation/"/>
-        <updated>2022-07-07T13:15:27.000Z</updated>
-        <summary type="html"><![CDATA[In website development, DOM stands for Document Object Model. It is a programming interface that allows us to create, change, or remove elements from a website document. DOM manipulation is when you use JavaScript to add, remove, and modify elements of a website. It is very common in web development.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Accessibility-First Approach To Chart Visual Design]]></title>
-        <id>https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/</id>
-        <link href="https://smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/"/>
-        <updated>2022-07-07T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will explore how an accessibility-first approach can lead you down the path of creating a better visual design for charts. Throughout the article, you’ll learn to use the Web Content Accessibility Standards and how this approach leadd to an unexpected yet better outcome for everyone.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kent Eisenhuth &amp; Kai Chang)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Nullable – How to Check for Null in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-nullable-how-to-check-for-null-in-js/"/>
-        <updated>2022-07-07T00:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you've gotta check to make sure that nothing isn't actually...nothing. 😲❗❓  In JavaScript, null is a primitive type intentionally containing the value of null. Undefined is a primitive type and represents a variable you declare without initiating a value. So, null is nothing and undefined is just missing]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove a Key from a Dictionary While Iterating Over it]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-a-key-from-the-dictionary-while-iterating-over-it-definitive-guide/"/>
-        <updated>2022-07-06T21:56:37.000Z</updated>
-        <summary type="html"><![CDATA[Python dictionaries allow you to store values in a Key and Value format. You can access the values using the key. You can also iterate through the complete dictionary to access every element. Sometimes while iterating through the dictionary, you may need to remove a key from the dictionary. This]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a List in Python – Declare Lists in Python Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-a-list-in-python-declare-lists-in-python-example/"/>
-        <updated>2022-07-06T21:19:53.000Z</updated>
-        <summary type="html"><![CDATA[You can use some of the inbuilt data structures in Python to organize and store a collection of variables.  Some of these data structures include Lists, Sets, Tuples, and Dictionaries. Each of them have their own syntax and features.  In this article, we'll focus on Lists. You'll see]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Product Designer – 2022 Product Design Roadmap]]></title>
-        <id>https://www.freecodecamp.org/news/product-designer-roadmap/</id>
-        <link href="https://www.freecodecamp.org/news/product-designer-roadmap/"/>
-        <updated>2022-07-06T20:41:36.000Z</updated>
-        <summary type="html"><![CDATA[The Design industry is rapidly evolving, and there are many career choices in the space. You've got UI/UX Design, Product Design, Interaction Design, Motion Design, and more.  In this article, I will discuss a roadmap that will show you how to become a self-taught Digital Product Designer without a]]></summary>
-        <author>
-            <name>Ujah Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up GitHub User Authentication using Firebase and React (with Hooks)]]></title>
-        <id>https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/</id>
-        <link href="https://www.freecodecamp.org/news/github-user-authentication-using-firebase-and-reactjs-with-hooks/"/>
-        <updated>2022-07-06T18:18:52.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, I will walk you through the process of creating a GitHub User Authentication System using Firebase and React (with hooks). If you have ever tried building an authentication system before, you might agree that it can be painful. This is where Firebase steps in. Firebase provides user]]></summary>
-        <author>
-            <name>Rishi Purwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An SSL Error Has Occurred – How to Fix Certificate Verification Error]]></title>
-        <id>https://www.freecodecamp.org/news/an-ssl-error-has-occurred-how-to-fix-certificate-verification-error/</id>
-        <link href="https://www.freecodecamp.org/news/an-ssl-error-has-occurred-how-to-fix-certificate-verification-error/"/>
-        <updated>2022-07-06T17:51:46.000Z</updated>
-        <summary type="html"><![CDATA[If you’re surfing the net and an SSL error occurs on a website you're trying to visit, your browser will warn you by showing you an error messages or signal. This error is mostly caused by an expired or bad SSL certificate. It also occurs when the browser can’t verify]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn JavaScript Faster – Tips and Resources to Get Started Coding JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-javascript-faster/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-javascript-faster/"/>
-        <updated>2022-07-06T17:28:46.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a programming language commonly used for web development, among many other things. It works in conjunction with HTML and CSS to add dynamic functionality to websites. About 97% of the websites in the world use JavaScript – so you can see that it's a popular and widely-used language.]]></summary>
-        <author>
-            <name>Annoh Karlgusta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Tutorial –  Code Two Word Games]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tutorial-code-two-word-games/"/>
-        <updated>2022-07-06T14:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Coding games is a fun way to improve your JavaScript skills. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to code two word games in JavaScript. Ania Kubów developed this course. Ania works for freeCodeCamp and has a popular tutorial YouTube channel.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
