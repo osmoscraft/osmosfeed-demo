@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=367370",
+          "author": "Daniel Schwarz",
+          "description": "Designing a beautiful “article” is wrought with tons of considerations. Unlike, say, a homepage, a long-form article is less about designing an interface than it is designing text in a way that creates a relaxed and comfortable reading experience.\nThat’s …\nDesigning for Long-Form Articles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/designing-for-long-form-articles/",
+          "publishedOn": "2022-08-10T14:30:01.000Z",
+          "wordCount": 3197,
+          "title": "Designing for Long-Form Articles",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367370"
+        },
+        {
           "id": "https://css-tricks.com/?p=367369",
           "author": "Bradley Kouchi",
           "description": "The time for CSS-Tricks is over. Now is the time for CSS Crimes!\nIn this current landscape of content service providers, users are often limited to expressing themselves in text, links, and images. Sanitization rules tend to strip out HTML, …\nCommitting CSS Crimes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -411,21 +421,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a0e39d13-3444-4282-b28f-7ab63759664f/49-smashing-podcast-episode.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/kendo-ui-angular-data-grid-material/",
-          "author": "hello@smashingmagazine.com (Zara Cooper)",
-          "description": "In this article, Zara Cooper will examine some of the features of the Kendo UI for Angular Data Grid in comparison to those offered by the Angular Material Table.",
-          "link": "https://smashingmagazine.com/2022/07/kendo-ui-angular-data-grid-material/",
-          "publishedOn": "2022-07-12T09:00:00.000Z",
-          "wordCount": 4443,
-          "title": "Kendo UI For Angular Data Grid And Angular Material: Have Your Cake And Eat It Too",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/151dc74b-3863-476a-9e04-bc93573e0bd5/kendo-ui-angular-data-grid-material.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/151dc74b-3863-476a-9e04-bc93573e0bd5/kendo-ui-angular-data-grid-material.jpg"
         }
       ]
     },
@@ -434,6 +429,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/three-dots-operator-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "The three dots operator in JavaScript is one of the significant updates that was shipped with ES6. This operator (...) helps you achieve many things that previously required many lines of code, unfamiliar syntax, and more. In this short article, you will learn what the three dots operator means and",
+          "link": "https://www.freecodecamp.org/news/three-dots-operator-in-javascript/",
+          "publishedOn": "2022-08-10T23:38:25.000Z",
+          "wordCount": 2051,
+          "title": "... in JavaScript – the Three Dots Operator in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/2d-array-in-java-two-dimensional-and-nested-arrays/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A multidimensional array is simply an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] of arrays. You can look it as a single container that stores multiple containers.  In this article, we'll talk two dimensional arrays in Java. You'll see the syntax for creating one, and how to add and access items in a two",
+          "link": "https://www.freecodecamp.org/news/2d-array-in-java-two-dimensional-and-nested-arrays/",
+          "publishedOn": "2022-08-10T20:49:04.000Z",
+          "wordCount": 1507,
+          "title": "2D Array in Java – Two-Dimensional and Nested Arrays",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pawel-czerwinski-dYjFmiQb_aE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-real-time-chat-application-with-nuxt/",
+          "author": "Idorenyin Udoh",
+          "description": "In a real-time chat application, the recipient can view the sender’s message almost immediately. This can either be in a one-on-one conversation between two parties or a group conversation.  And that's what we're going to build in this tutorial. For this application, we will be using Nuxt [https://nuxtjs.org/], the",
+          "link": "https://www.freecodecamp.org/news/create-a-real-time-chat-application-with-nuxt/",
+          "publishedOn": "2022-08-10T19:39:17.000Z",
+          "wordCount": 2168,
+          "title": "How to Create a Real-time Chat Application with Nuxt",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-andrea-piacquadio-3869370.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/",
+          "author": "Beau Carnes",
+          "description": "HTML and CSS are the most important technologies when it comes to creating websites. And building projects is one of the best ways to learn them. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn HTML and CSS through building an order summary component.",
+          "link": "https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/",
+          "publishedOn": "2022-08-10T17:26:26.000Z",
+          "wordCount": 937,
+          "title": "Learn HTML and CSS by Building an Order Summary Component",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/html.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/",
+          "author": "Gursimar Singh",
+          "description": "This article will discuss every aspect of containers, including how they operate in the background and their various component elements. We will also discover why Docker is so lightning-fast. By the end, you'll be able to create your own custom container. We'll also examine why Kubernetes deprecated Docker and embraced",
+          "link": "https://www.freecodecamp.org/news/build-your-on-custom-container-without-docker/",
+          "publishedOn": "2022-08-10T16:45:36.000Z",
+          "wordCount": 5633,
+          "title": "How to Build a Docker Engine-like Custom Container without Any Software",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/image-12-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn three different ways to create multi-line strings in JavaScript. I will first explain the basics of strings in JavaScript and go over how to use template literals. Then, you will learn how to create a string that spans multiple lines with the help of",
+          "link": "https://www.freecodecamp.org/news/javascript-multiline-string-how-to-create-multi-line-strings-in-js/",
+          "publishedOn": "2022-08-10T15:54:42.000Z",
+          "wordCount": 2334,
+          "title": "JavaScript Multiline String – How to Create Multi Line Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-mateusz-dach-2811648.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/",
+          "author": "Ophy Boamah",
+          "description": "HTML forms consist of a body of text boxes, buttons, dropdowns and other selection widgets. Web developers use these elements to receive users' information on a website.  If you've ever searched on Google, signed up or logged into a website, made a payment, or responded to a questionnaire, you",
+          "link": "https://www.freecodecamp.org/news/create-and-validate-modern-web-forms-html5/",
+          "publishedOn": "2022-08-10T15:45:20.000Z",
+          "wordCount": 2988,
+          "title": "How to Create and Validate Modern Web Forms with HTML5",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Web-Forms-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/",
+          "author": "Ashutosh Biswas",
+          "description": "In JavaScript, every and some help you test if something is true for every element or some elements of an array. In this article, I'll show you how to use these helpful array methods. Table of Contents  * 1How every() and some() Work – an Overview  * 2Parameters",
+          "link": "https://www.freecodecamp.org/news/learn-the-every-and-some-array-methods-in-javascript/",
+          "publishedOn": "2022-08-10T15:23:43.000Z",
+          "wordCount": 2069,
+          "title": "JavaScript Array Methods – How to Use every() and some() in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-you-can-share-links-that-anchor-to-any-text-on-a-webpage/",
           "author": "Seth Falco",
@@ -1473,66 +1548,6 @@
           "wordCount": 1791,
           "title": "How to Schedule a Job in PostgreSQL",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-mat-brown-552598.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/",
-          "author": "Brittany Joiner",
-          "description": "If you've ever contributed to a project, whether it's your app at work or an open-source tool, you've likely created a pull request. This requests that your code changes to merged into the main codebase. We use pull requests to ensure only quality code is merged into our main branches.",
-          "link": "https://www.freecodecamp.org/news/create-a-pr-checklist-in-github/",
-          "publishedOn": "2022-07-11T23:06:03.000Z",
-          "wordCount": 2829,
-          "title": "How to Create an Automated Pull Request Checklist in GitHub",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Pink-Money-Making-Apps-YouTube-Thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/intoduction-to-nodejs/",
-          "author": "Arash Arora",
-          "description": "Node.js is a JavaScript runtime that extends its capability to the server-side. It is built on Chrome’s V8 JavaScript Engine.  Node is an event-driven, non-blocking IO model. This means it's asynchronous, and doesn't block itself for one request (but rather immediately moves to the next request). This makes Node",
-          "link": "https://www.freecodecamp.org/news/intoduction-to-nodejs/",
-          "publishedOn": "2022-07-11T21:31:18.000Z",
-          "wordCount": 2692,
-          "title": "How to Get Started with Node.js – Beginner's Guide to Node",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/1200px-Node.js_logo.svg.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/",
-          "author": "Dillion Megida",
-          "description": "JavaScript has many string methods you can use to format strings. In this article, I'll show you some of the most commonly used methods. How to Use the toLowerCase() String Method As the name implies, you use the toLowerCase() string method to convert strings to their lowercase version. This method",
-          "link": "https://www.freecodecamp.org/news/javascript-string-format-how-to-format-strings-in-js/",
-          "publishedOn": "2022-07-11T18:38:41.000Z",
-          "wordCount": 1220,
-          "title": "JavaScript String Format – Formatting Strings in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/js-string-format.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/",
-          "author": "Joel Olawanle",
-          "description": "An undefined variable or anything without a value will always return \"undefined\" in JavaScript. This is not the same as null, despite the fact that both imply an empty state.  You'll typically assign a value to a variable after you declare it, but this is not always the case.",
-          "link": "https://www.freecodecamp.org/news/javascript-check-if-undefined-how-to-test-for-undefined-in-js/",
-          "publishedOn": "2022-07-11T17:13:42.000Z",
-          "wordCount": 1262,
-          "title": "JavaScript Check if Undefined – How to Test for Undefined in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--9-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
-          "author": "Emmanuel Ohans",
-          "description": "\"I hate stack overflow\" — said no developer ever. While it’s helpful to have your answers a Google search away, what’s even more powerful is truly understanding the solutions you stumble upon. In this article, I’ll explore the seven most stackoverflowed TypeScript questions. I spent hours researching these. I hope",
-          "link": "https://www.freecodecamp.org/news/the-top-stack-overflowed-typescript-questions-explained/",
-          "publishedOn": "2022-07-11T15:52:33.000Z",
-          "wordCount": 6089,
-          "title": "The Most Asked TypeScript Questions on StackOverflow – Answered for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/combined-blog-cover-6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
-          "author": "Beau Carnes",
-          "description": "OpenStack is an open source software that provides cloud infrastructure for virtual machines, bare metal, and containers. In this article, you will learn how to use OpenStack to operate your own private cloud. By the end of the tutorial, you will have a core understanding of what OpenStack is and",
-          "link": "https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/",
-          "publishedOn": "2022-07-11T14:40:04.000Z",
-          "wordCount": 8199,
-          "title": "OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/openstack.png"
         }
       ]
     }
