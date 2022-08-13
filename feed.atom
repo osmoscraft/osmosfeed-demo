@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-12T01:22:28.018Z</updated>
+    <updated>2022-08-13T01:16:59.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Java Hashmap?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-java-hashmap/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-java-hashmap/"/>
+        <updated>2022-08-12T20:53:24.000Z</updated>
+        <summary type="html"><![CDATA[In Java, you use a HashMap to store items in key/value pairs. You can access items stored in a HashMap using the item's key, which is unique for each item.  In this article, we'll talk about the features of a HashMap, how to create a  HashMap, and the]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Sieve Of Eratosthenes Algorithm]]></title>
+        <id>https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/</id>
+        <link href="https://www.freecodecamp.org/news/sieve-of-eratosthenes-algorithm/"/>
+        <updated>2022-08-12T18:25:20.000Z</updated>
+        <summary type="html"><![CDATA[One day, while learning algorithms in JavaScript, I found this challenge: > Using a for loop, iterate from 0 to 100, and return an array of all prime numbers within that range. It seemed easy initially, but I couldn't quite figure it out. So I did a google search and]]></summary>
+        <author>
+            <name>Divine Orji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Google like a Pro – 10 Tips for More Effective Googling]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/"/>
+        <updated>2022-08-12T18:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Pretty much everything is available on the internet, and Google is one of the main ways people search for information. And while you might think it's obvious, many internet users don't know how to use Google search efficiently and effectively. In truth, Googling is an art. To get the right]]></summary>
+        <author>
+            <name>Soham De Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML New Line – How to Add a Line Break with the BR Tag]]></title>
+        <id>https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/</id>
+        <link href="https://www.freecodecamp.org/news/html-new-line-how-to-add-a-line-break-with-the-br-tag/"/>
+        <updated>2022-08-12T18:00:31.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll explain what line breaks are and show you how to create them in HTML. What is a Line Break? A line break, as the name implies, is a break in line 😅. A line break in HTML is a point where a line ends horizontally, and]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sense Walkthrough – HackTheBox]]></title>
+        <id>https://www.freecodecamp.org/news/sense-walkthrough-hackthebox/</id>
+        <link href="https://www.freecodecamp.org/news/sense-walkthrough-hackthebox/"/>
+        <updated>2022-08-12T16:09:26.000Z</updated>
+        <summary type="html"><![CDATA[HackTheBox is an online hacking platform that allows you to test and practice your penetration testing skills.  It contains several vulnerable labs that are constantly updated. Some of them simulate real-world scenarios and some of them lean more towards a Capture The Flag (CTF) style of challenge. Note: Only]]></summary>
+        <author>
+            <name>Shuaib Oseni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Skeleton: Svelte + Tailwind For Reactive UIs]]></title>
+        <id>https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/</id>
+        <link href="https://smashingmagazine.com/2022/08/skeleton-svelte-tailwind-reactive-uis/"/>
+        <updated>2022-08-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The power of framework-specific UI libraries, such as Skeleton, can lead to more productivity using the combined ability of Svelte and Tailwind to build modern web-based apps.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Chris Simmons)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVM for Windows – How to Download and Install Node Version Manager in Windows 10]]></title>
         <id>https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/</id>
@@ -1326,117 +1386,6 @@ Office Spaces originally published on CSS-Tricks. You should get the newsletter.
         <summary type="html"><![CDATA[A weather application is a very common beginner's programming project. But you can take this basic project to the next level by incorporating multiple APIs and autocomplete of places. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your React skills by guiding you]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Nothing But Docker For Projects]]></title>
-        <id>https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/</id>
-        <link href="https://smashingmagazine.com/2022/07/using-nothing-but-docker-projects/"/>
-        <updated>2022-07-14T07:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Using only Docker to build and run applications and commands removes the need for previous knowledge in some tool or programming language. Also, it avoids the necessity to install new modules and dependencies directly to the system, which makes development machine-independent.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Raphael Amoedo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use RegEx to Match Emoji – Including Discord Emotes]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-regex-to-match-emoji-including-discord-emotes/"/>
-        <updated>2022-07-13T23:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Emoji are special Unicode characters that render pictographs. But these characters can be very tricky to identify with RegEx.  I was recently working on a Discord bot that had to detect the number of emotes in a given message. Today I'll share my process with you, including the newer]]></summary>
-        <author>
-            <name>Naomi Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Abstraction in Programming – And Why is it Useful?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-abstraction-in-programming/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-abstraction-in-programming/"/>
-        <updated>2022-07-13T22:54:18.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that abstraction is one of the most important concepts for any software engineer to know? That's right! Without the use of abstraction when developing new technologies and concepts, we would never have been able to invent most software or even most things. So, understanding this concept is]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Get Current Time]]></title>
-        <id>https://www.freecodecamp.org/news/python-get-current-time/</id>
-        <link href="https://www.freecodecamp.org/news/python-get-current-time/"/>
-        <updated>2022-07-13T22:48:46.000Z</updated>
-        <summary type="html"><![CDATA[In your websites and applications, you might want to add functionalities like timestamps or checking the time of a user’s activity. Every programming language has modules or methods for working with time, and Python is not an exception. With the datetime and time modules of Python, you can get the]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Alarms in Flutter Using the Alarm Manager Plus Package]]></title>
-        <id>https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/flutter-alarmmanager-tutorial/"/>
-        <updated>2022-07-13T20:21:04.000Z</updated>
-        <summary type="html"><![CDATA[If you are an Android developer, when you want to schedule your application to run at a specific time in the future, you use the AlarmManager.  But if you are an iOS developer, this type of component does not exist there. So if you are a Flutter developer, what]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Software Framework?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-software-framework/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-software-framework/"/>
-        <updated>2022-07-13T19:28:02.000Z</updated>
-        <summary type="html"><![CDATA[These days, companies both big and small use some kind of software framework to build their websites. And if you want to get into coding, it's important to learn and understand some of the popular frameworks – regardless of the field you choose in the industry. ‌‌‌‌But why? ‌‌‌‌ Frameworks]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Local Branch in Git]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-local-git-branch/"/>
-        <updated>2022-07-13T16:41:33.000Z</updated>
-        <summary type="html"><![CDATA[When you're making changes to a Git repository, it's a best practice to push to a different branch first. This lets you compare changes before submitting a pull request and finally merging it. This is especially crucial when working with other developers. Your repository's main branch, which is regarded as]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List.append() – How to Append to a List in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-list-append-how-to-append-to-a-list-in-python/"/>
-        <updated>2022-07-13T15:10:46.000Z</updated>
-        <summary type="html"><![CDATA[How do you append (or add) new values to an already created list in Python? I will show you how in this article. But first things first... What is a List in Python? A List is a data type that allows you to store multiple values of either the same]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Multiple Repositories to Subfolders Under One Website with Netlify]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-multiple-repos-to-subfolders-under-one-website-netlify/"/>
-        <updated>2022-07-13T14:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Hi there! 👋 You're probably here because you are trying to deal with hosting two separate websites or repositories under one website using Netlify. And maybe you've checked out the answers on the Netlify community page, but you are still confused. The same confusion and headache led me to write]]></summary>
-        <author>
-            <name>Abdulmalik Salawu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding Interview Prep for Big Tech (FAANG) – And How I Became A Google Engineer]]></title>
-        <id>https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/</id>
-        <link href="https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/"/>
-        <updated>2022-07-13T14:45:30.000Z</updated>
-        <summary type="html"><![CDATA[I optimized my preparation for Big Tech Interviews based on my circumstances and background.  It did not require advanced Computer Science Degrees or thousands of leetcode-style questions.]]></summary>
-        <author>
-            <name>Zubin Pratap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Hooks: The Deep Cuts]]></title>
-        <id>https://css-tricks.com/?p=366770</id>
-        <link href="https://css-tricks.com/react-hooks-the-deep-cuts/"/>
-        <updated>2022-07-13T13:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Hooks are reusable functions. They allow you to use state and other features (e.g. lifecycle methods and so on) without writing a class. Hook functions let us “hook into” the React state lifecycle using functional components, allowing us to manipulate …
-React Hooks: The Deep Cuts originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Blessing Ene Anyebe</name>
         </author>
     </entry>
 </feed>
