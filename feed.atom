@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-14T01:39:34.665Z</updated>
+    <updated>2022-08-15T01:41:30.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
@@ -1288,53 +1288,6 @@ Logical Properties for Useful Shorthands originally published on CSS-Tricks. You
         <summary type="html"><![CDATA[It is often useful for developers to visualize aspects of their code projects. This is especially true for version control systems like Git, where understanding the team's workflow is essential. One way to approach this in Git is to draw a graph like the one you see above. You've probably]]></summary>
         <author>
             <name>Jacob Stopak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How stroke-dasharray Patterns Work]]></title>
-        <id>https://css-tricks.com/?p=366993</id>
-        <link href="https://css-tricks.com/how-stroke-dasharray-patterns-work/"/>
-        <updated>2022-07-15T19:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Say you have a line in SVG:
-<svg<line x1="0" y1="30" x2="500" y2="30" stroke-color="#f8a100" /</svg
-You can use the stroke-dasharray property in CSS to make dashes:
-line {
-  stroke-dasharray: 5;
-}
-That 5 value is a relative unit based …
-How stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Infrastructure as Code by Building a Custom Machine Image in AWS]]></title>
-        <id>https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/</id>
-        <link href="https://www.freecodecamp.org/news/learn-instructure-as-a-code-by-building-custom-machine-image-in-aws/"/>
-        <updated>2022-07-15T17:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! If you're wondering what infrastructure-as-code means, then you've come to the right place.  In this article I will explain the concepts behind Infrastructure-As-Code (IaC) at a high level and dive into a category of IaC known as server templating.  For the purpose of this article, we]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[strftime() Python – Datetime Format Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/strftime-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/strftime-in-python/"/>
-        <updated>2022-07-15T16:55:14.000Z</updated>
-        <summary type="html"><![CDATA[In Python, you can format date objects and present them in readable form using the strftime function. In this article, I'll show you how. What is strftime() in Python? strftime() is a Python date method you can use to convert dates to strings. It doesn't just convert to strings, but]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enable and Disable Search Highlights on Windows 11]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enable-disbale-search-highlights-on-windows-11/"/>
-        <updated>2022-07-15T16:17:45.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 is the new operating system from Microsoft. If you've been using it from the beginning after it was just released, then you've already seen some changes. Search highlights are not new for the Windows operating systems as Windows 10 also has the same feature. And you might want]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
 </feed>
