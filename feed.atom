@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-16T01:44:01.261Z</updated>
+    <updated>2022-08-17T01:48:37.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Open Source? How to Contribute to OSS Projects]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-open-source-software/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-open-source-software/"/>
+        <updated>2022-08-16T20:23:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about open source software. Open source software is often considered free software.  In this article, I'll give a high-level explanation of what open source software (OSS) really is, its advantages in the modern technological world, how to use it, and some best practices to]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Image Centering – How to Center an Image in a Div]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/"/>
+        <updated>2022-08-16T19:32:10.000Z</updated>
+        <summary type="html"><![CDATA[When you're working on the front-end of a web page, you sometimes need to center an image within a div (container). This can become tricky at times. And based on certain conditions, a particular method may not work at some point, leaving you searching for alternatives. In this article, you]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Regular Expressions in JavaScript – Tutorial for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/regular-expressions-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/regular-expressions-for-beginners/"/>
+        <updated>2022-08-16T17:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Regular expressions (regex) are a useful programming tool. They are key to efficient text processing. Knowing how to solve problems using regex is helpful to you as a developer and improves your productivity.  In this article, you will learn about the fundamentals of regular expressions, regular expression pattern notation,]]></summary>
+        <author>
+            <name>Chinwendu Enyinna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP vs HTTPS – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/http-vs-https/</id>
+        <link href="https://www.freecodecamp.org/news/http-vs-https/"/>
+        <updated>2022-08-16T17:47:14.000Z</updated>
+        <summary type="html"><![CDATA[We interact with HTTP and HTTPS a lot in our day-to-day lives, but many people don't know the difference. Most computer users just see that the browser is telling them their application is not safe and that a hacker might want to steal their important information. This leads to users]]></summary>
+        <author>
+            <name>Annoh Karlgusta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Delete Remote Branch – How to Remove a Remote Branch in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-delete-remote-branch/</id>
+        <link href="https://www.freecodecamp.org/news/git-delete-remote-branch/"/>
+        <updated>2022-08-16T17:20:10.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with Git, you might want to delete remote branches pushed to a platform like GitHub for various reasons. In this article, I will show you how to delete a remote branch in Git. But firstly, let’s look at how to delete a local branch. I’ll use Git]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Back Button UX]]></title>
+        <id>https://smashingmagazine.com/2022/08/back-button-ux-design/</id>
+        <link href="https://smashingmagazine.com/2022/08/back-button-ux-design/"/>
+        <updated>2022-08-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Improve AWS Performance Without Spending More Money]]></title>
         <id>https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/</id>
@@ -1349,26 +1409,6 @@ Logical Properties for Useful Shorthands originally published on CSS-Tricks. You
         <summary type="html"><![CDATA[The array datatype is one of the most commonly used datatypes when you're working with an ordered list of values. Each value is referred to as an element with a unique id. It stores elements of various datatypes that you can access through a single variable. In practice, an array]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Pattern For The Jamstack: Segmented Rendering]]></title>
-        <id>https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/</id>
-        <link href="https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/"/>
-        <updated>2022-07-18T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Burel)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Animate Your Git Commit History with git-story]]></title>
-        <id>https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/</id>
-        <link href="https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/"/>
-        <updated>2022-07-17T17:07:24.000Z</updated>
-        <summary type="html"><![CDATA[It is often useful for developers to visualize aspects of their code projects. This is especially true for version control systems like Git, where understanding the team's workflow is essential. One way to approach this in Git is to draw a graph like the one you see above. You've probably]]></summary>
-        <author>
-            <name>Jacob Stopak</name>
         </author>
     </entry>
 </feed>

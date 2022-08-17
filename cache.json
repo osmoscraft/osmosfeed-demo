@@ -163,6 +163,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
+          "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
+          "publishedOn": "2022-08-16T09:00:00.000Z",
+          "wordCount": 4327,
+          "title": "Designing A Better Back Button UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
           "author": "hello@smashingmagazine.com (Christine Vallaure)",
           "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
@@ -386,21 +401,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fcdc773d-5824-490f-9e90-3aa4d18153a0/powerful-image-optimization-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
-          "author": "hello@smashingmagazine.com (Eric Burel)",
-          "description": "“Segmented Rendering” is a new pattern and it will change the Jamstack game forever. Let’s try to push the boundaries of static rendering and learn how to apply it to personalized content.",
-          "link": "https://smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/",
-          "publishedOn": "2022-07-18T11:00:00.000Z",
-          "wordCount": 4884,
-          "title": "A New Pattern For The Jamstack: Segmented Rendering",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0882ee9-5036-4823-8000-840568240d79/new-pattern-jamstack-segmented-rendering-sharing-card.jpg"
         }
       ]
     },
@@ -409,6 +409,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-open-source-software/",
+          "author": "Destiny Erhabor",
+          "description": "In this article, we'll talk about open source software. Open source software is often considered free software.  In this article, I'll give a high-level explanation of what open source software (OSS) really is, its advantages in the modern technological world, how to use it, and some best practices to",
+          "link": "https://www.freecodecamp.org/news/what-is-open-source-software/",
+          "publishedOn": "2022-08-16T20:23:53.000Z",
+          "wordCount": 3929,
+          "title": "What is Open Source? How to Contribute to OSS Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ben-taylor-109998.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
+          "author": "Joel Olawanle",
+          "description": "When you're working on the front-end of a web page, you sometimes need to center an image within a div (container). This can become tricky at times. And based on certain conditions, a particular method may not work at some point, leaving you searching for alternatives. In this article, you",
+          "link": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
+          "publishedOn": "2022-08-16T19:32:10.000Z",
+          "wordCount": 2099,
+          "title": "CSS Image Centering – How to Center an Image in a Div",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
+          "author": "Chinwendu Enyinna",
+          "description": "Regular expressions (regex) are a useful programming tool. They are key to efficient text processing. Knowing how to solve problems using regex is helpful to you as a developer and improves your productivity.  In this article, you will learn about the fundamentals of regular expressions, regular expression pattern notation,",
+          "link": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
+          "publishedOn": "2022-08-16T17:51:48.000Z",
+          "wordCount": 3459,
+          "title": "How to Use Regular Expressions in JavaScript – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/regex-image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/http-vs-https/",
+          "author": "Annoh Karlgusta",
+          "description": "We interact with HTTP and HTTPS a lot in our day-to-day lives, but many people don't know the difference. Most computer users just see that the browser is telling them their application is not safe and that a hacker might want to steal their important information. This leads to users",
+          "link": "https://www.freecodecamp.org/news/http-vs-https/",
+          "publishedOn": "2022-08-16T17:47:14.000Z",
+          "wordCount": 2955,
+          "title": "HTTP vs HTTPS – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/HTTP-VS-HTTPS.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
+          "author": "Kolade Chris",
+          "description": "When you're working with Git, you might want to delete remote branches pushed to a platform like GitHub for various reasons. In this article, I will show you how to delete a remote branch in Git. But firstly, let’s look at how to delete a local branch. I’ll use Git",
+          "link": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
+          "publishedOn": "2022-08-16T17:20:10.000Z",
+          "wordCount": 1162,
+          "title": "Git Delete Remote Branch – How to Remove a Remote Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/direction-2320124_1920.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
           "author": "Zaid Humayun",
@@ -1428,16 +1478,6 @@
           "wordCount": 1817,
           "title": "Push into an Array in JavaScript – How to Insert an Element into an Array in JS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/",
-          "author": "Jacob Stopak",
-          "description": "It is often useful for developers to visualize aspects of their code projects. This is especially true for version control systems like Git, where understanding the team's workflow is essential. One way to approach this in Git is to draw a graph like the one you see above. You've probably",
-          "link": "https://www.freecodecamp.org/news/animate-your-git-repo-with-git-story/",
-          "publishedOn": "2022-07-17T17:07:24.000Z",
-          "wordCount": 1978,
-          "title": "How to Animate Your Git Commit History with git-story",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/git-story-image.png"
         }
       ]
     }
