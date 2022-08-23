@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372396",
+          "author": "Temani Afif",
+          "description": "Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.\nHere’s just one of the fantastic grids we made together:\nCodePen…\nCSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-2/",
+          "publishedOn": "2022-08-22T14:08:39.000Z",
+          "wordCount": 4517,
+          "title": "CSS Grid and Custom Shapes, Part 2",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372396"
+        },
+        {
           "id": "https://css-tricks.com/?p=372539",
           "author": "Geoff Graham",
           "description": "That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.\nThe answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …\nWhen Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -152,6 +162,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "In this first part of a two-part article, Eduard Kuric analyzes the characteristics of effective toggle buttons that make it error-proof and prevent confusion and frustration of users.",
+          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
+          "publishedOn": "2022-08-22T09:30:00.000Z",
+          "wordCount": 6004,
+          "title": "What Makes A Great Toggle Button? (Case Study, Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5921d91-e0fb-4e2c-a79b-6691111f2606/toggle-button-case-study-part-1.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/implementing-reset-password-feature-nextjs-dynamic-routes/",
           "author": "hello@smashingmagazine.com (Caleb Olojo)",
@@ -384,6 +409,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
+          "author": "Kealan Parr",
+          "description": "As a developer, you have likely heard of HTML [https://en.wikipedia.org/wiki/HTML], which stands for HyperText Markup L anguage. And you may know that HTML is a language used to create websites – but what does  markup mean? Markup languages [https://techterms.com/definition/markup_language] are languages that use tags to define different elements within",
+          "link": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
+          "publishedOn": "2022-08-22T22:16:38.000Z",
+          "wordCount": 1822,
+          "title": "Markdown Cheat Sheet – How to Write Articles in Markdown Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Markdown-cheatsheet.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
+          "author": "Marco Venturi",
+          "description": "If you run a website, you are aware of the importance of content. It's important for your web presence, to help you be recognized as a leader in your field, to improve your SEO ranking, to increase your audience, and more. WordPress is one of the most popular and widely-used",
+          "link": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
+          "publishedOn": "2022-08-22T20:55:16.000Z",
+          "wordCount": 1908,
+          "title": "How to Generate WordPress Posts Automatically with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/",
+          "author": "Dillion Megida",
+          "description": "Python provides many math methods for mathematical operations such as square roots, exponents, and so on. In this article, I will show you how to round up a number to a specified decimal place. What is a Decimal Place? Look at this number: 324.89. Each number here has a position",
+          "link": "https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/",
+          "publishedOn": "2022-08-22T17:17:58.000Z",
+          "wordCount": 1368,
+          "title": "How to Round to 2 Decimal Places in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/round-up-numbers-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/",
+          "author": "Kayode Adeniyi",
+          "description": "In this article, I will walk you through some of the best methods to optimize APIs written in Node.js. Prerequisites To get the most out of this article, you will need an understanding of the following concepts:  * Node.js setup and installation  * How to build APIs with",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/",
+          "publishedOn": "2022-08-22T17:16:36.000Z",
+          "wordCount": 2473,
+          "title": "How to Optimize Your Node.js API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ann-marie-kennon-1296000.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/programming-naming-conventions-explained/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "If you've been programming for a while, you may have heard the words \"camel case\" or \"pascal case\". And maybe you're wondering what those terms mean. Well, let me explain. What are Naming Conventions in Programming? Apart from the hard and fast rules that we get with every programming language,",
+          "link": "https://www.freecodecamp.org/news/programming-naming-conventions-explained/",
+          "publishedOn": "2022-08-22T15:16:55.000Z",
+          "wordCount": 1353,
+          "title": "Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Programming-Naming-Conventions-Explained.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
+          "author": "Andrew Brown",
+          "description": "You can learn everything you need to know to earn the Azure Developer Certification by completing this free 13-hour course. What is Microsoft Azure Developer Associate? The Microsoft Azure Developer Associate (commonly known as the AZ-204) is a Microsoft Azure certification focused on building web-applications on-top of Azure cloud services.",
+          "link": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
+          "publishedOn": "2022-08-22T14:51:47.000Z",
+          "wordCount": 1143,
+          "title": "Azure Developer Certification (AZ-204) – Pass the Exam With This Free 13.5-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/azure.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-implement-a-leaderboard-in-swiftui/",
           "author": "Saamer Mansoor",
