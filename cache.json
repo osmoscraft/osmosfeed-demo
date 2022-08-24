@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372485",
+          "author": "Bradley Kouchi",
+          "description": "The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …\nRemoving jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/removing-jquery-from-gov-uk/",
+          "publishedOn": "2022-08-23T13:04:31.000Z",
+          "wordCount": 946,
+          "title": "Removing jQuery from GOV.UK",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372485"
+        },
+        {
           "id": "https://css-tricks.com/?p=372396",
           "author": "Temani Afif",
           "description": "Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.\nHere’s just one of the fantastic grids we made together:\nCodePen…\nCSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -162,6 +172,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.",
+          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
+          "publishedOn": "2022-08-23T12:00:00.000Z",
+          "wordCount": 10151,
+          "title": "Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-1/",
           "author": "hello@smashingmagazine.com (Eduard Kuric)",
@@ -409,6 +434,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a",
+          "link": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
+          "publishedOn": "2022-08-23T16:58:02.000Z",
+          "wordCount": 2714,
+          "title": ".gitignore File – How to Ignore Files and Folders in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ken-tomita-389819.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-in-powerbi/",
+          "author": "Yannawut Kimnaruk",
+          "description": "Microsoft Power BI is a business analytics tool which allows users to gain insight from their data.  You can easily create an interactive dashboard by just dragging and dropping data columns into the visualization plane. In this article, I'll show you how to use Python to help you leverage",
+          "link": "https://www.freecodecamp.org/news/python-in-powerbi/",
+          "publishedOn": "2022-08-23T16:27:48.000Z",
+          "wordCount": 2171,
+          "title": "How to Use Python in Power BI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Python-Power-BI-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
+          "author": "Swatej Patil",
+          "description": "In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive",
+          "link": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
+          "publishedOn": "2022-08-23T15:35:01.000Z",
+          "wordCount": 1955,
+          "title": "Chart.js Tutorial – How to Make Bar and Line Charts in Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Line-Bar-4.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "In this article, I'm going to show you how to use the Arrays.binarySearch()  method in Java. What is Arrays.binarySearch() in Java?  According to the official docs [https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#binarySearch(byte[],%20byte)]  on the Arrays.binarySearch() method: > (It) Searches the specified array of bytes for the specified value using the binary search",
+          "link": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
+          "publishedOn": "2022-08-23T15:31:18.000Z",
+          "wordCount": 1762,
+          "title": "How to Use Arrays.binarySearch() in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Arrays.binarySearch---in-Java.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/",
+          "author": "Damla Erkiner",
+          "description": "Back in the day, web developers, front-end engineers, and UI designers had a bit of an easier job. This is because they weren't expected to rearrange their code and designs to fit so many different screen sizes.  But in today's world, if you make a decision that doesn't take",
+          "link": "https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/",
+          "publishedOn": "2022-08-23T15:14:55.000Z",
+          "wordCount": 2499,
+          "title": "How to Override Root Font Size to Create a Better User Experience",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/root-font-size-article-image.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
           "author": "Kealan Parr",
@@ -1428,16 +1503,6 @@
           "wordCount": 2030,
           "title": "Python find() – How to Search for a Substring in a String",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/tarn-nguyen-XlEafYGDvV0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/",
-          "author": "Beau Carnes",
-          "description": "Elementor makes it simple to create a WordPress website using a drag and drop interface. You don't even need any code! We just published an Elementor course on the freeCodeCamp.org YouTube channel that will teach you how to easily create your own website. I created this course. I've also made",
-          "link": "https://www.freecodecamp.org/news/easily-create-a-website-using-elementor-and-wordpress/",
-          "publishedOn": "2022-07-25T12:57:12.000Z",
-          "wordCount": 921,
-          "title": "Easily create a website using Elementor and WordPress",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/maxresdefault-2.jpeg"
         }
       ]
     }
