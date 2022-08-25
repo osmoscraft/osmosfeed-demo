@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372576",
+          "author": "Ollie Williams",
+          "description": "If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …\nUsing CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/",
+          "publishedOn": "2022-08-24T13:11:47.000Z",
+          "wordCount": 1690,
+          "title": "Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372576"
+        },
+        {
           "id": "https://css-tricks.com/?p=372485",
           "author": "Bradley Kouchi",
           "description": "The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …\nRemoving jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -411,21 +421,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
-          "author": "hello@smashingmagazine.com (Olushuyi Olutimilehin)",
-          "description": "In this article, Olushuyi explores a mental model that helps you decide between the `` and `\n` elements when writing documents. You will explore how grouping content affects accessibility and how you can make it all count for users.",
-          "link": "https://smashingmagazine.com/2022/07/article-section-elements-accessibility/",
-          "publishedOn": "2022-07-25T14:30:00.000Z",
-          "wordCount": 9560,
-          "title": "&lt;article&gt; vs. &lt;section&gt;: How To Choose The Right One",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1658760043/article-section-elements-accessibility_x3326s.jpg"
         }
       ]
     },
@@ -434,6 +429,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/",
+          "author": "Kolade Chris",
+          "description": "You don’t have to have two different computers to use Linux and Windows 10. It's possible to have a Linux distro installed on a computer with Windows 10 preinstalled. In this article, I will show you how to dual boot Windows 10 and the popular Ubuntu Linux distro. But before",
+          "link": "https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/",
+          "publishedOn": "2022-08-24T20:09:09.000Z",
+          "wordCount": 2200,
+          "title": "How to Dual Boot Windows 10 and Ubuntu – Linux Dual Booting Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/dualBoot--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/top-python-concepts-for-data-science/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "If you're interested in learning data science, you've likely heard the buzzword  \"Python,\". It's a popular programming language often used in data science.  But Python is a general-purpose programming language. This means that it's not limited to data science alone. You can use it to develop web and",
+          "link": "https://www.freecodecamp.org/news/top-python-concepts-for-data-science/",
+          "publishedOn": "2022-08-24T17:53:30.000Z",
+          "wordCount": 4778,
+          "title": "Top Python Concepts to Know Before Learning Data Science",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/python-data-science-concepts.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/",
+          "author": "Beau Carnes",
+          "description": "There are a lot of jobs available for frontend web developers. And you can learn all the skills you need to know without paying anything. You probably already know about freeCodeCamp's free interactive curriculum [https://freecodecamp.org] that will teach you the skills you need to become a fullstack web developer. But",
+          "link": "https://www.freecodecamp.org/news/frontend-web-developer-bootcamp/",
+          "publishedOn": "2022-08-24T17:32:45.000Z",
+          "wordCount": 969,
+          "title": "Frontend Web Developer 21-Hour Bootcamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/frontend.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/",
+          "author": "Joel Olawanle",
+          "description": "JavaScript is one of the three fundamental web technologies you'll use when developing websites or web applications. When creating these web pages, you will, at some point, likely need to use dates for some reason – such as displaying when something was uploaded, stored, and so on. In this article,",
+          "link": "https://www.freecodecamp.org/news/javascript-date-format-how-to-format-a-date-in-js/",
+          "publishedOn": "2022-08-24T15:25:15.000Z",
+          "wordCount": 1710,
+          "title": "JavaScript Date Format – How to Format a Date in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-otp-input-vue-3/",
+          "author": "Paul Akinyemi",
+          "description": "OTP inputs are one of the most fun components you can use in your app. They make the dry process of filling in yet another form a little more engaging. In this article, you’ll learn how to build an OTP input from scratch in Vue 3. By the end of",
+          "link": "https://www.freecodecamp.org/news/create-otp-input-vue-3/",
+          "publishedOn": "2022-08-24T15:00:18.000Z",
+          "wordCount": 2366,
+          "title": "How to Build an OTP Input in Vue 3",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/otp-article-header.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
+          "author": "Rishabh Rawat",
+          "description": "Working as a Software Developer, there are always new tools and frameworks coming out that can completely change your workflows – for the better (or worse?).  Either way, there is always the possibility to optimize how you do things day-to-day. This article contains some Linux utilities that have recently",
+          "link": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
+          "publishedOn": "2022-08-24T11:55:00.000Z",
+          "wordCount": 1624,
+          "title": "5 Linux Utilities to Improve Your Programming Workflow in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/linux-shell-utilities-cover.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
           "author": "Dionysia Lemonaki",
@@ -1453,56 +1508,6 @@
           "wordCount": 1367,
           "title": "Python List Sorting – How to Order Lists in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/sort-list-in-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
-          "author": "Valentine Gatwiri",
-          "description": "MongoDB is an increasingly popular open source NoSQL database. And it has many advantages over traditional SQL databases.  It offers high scalability, reliability, and performance even with a huge amount of data.  This article covers the basics that you need to know to get started with MongoDB and",
-          "link": "https://www.freecodecamp.org/news/how-to-start-using-mongodb/",
-          "publishedOn": "2022-07-25T21:42:56.000Z",
-          "wordCount": 1403,
-          "title": "How to Start Using MongoDB – Database Setup for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/pexels-tom-fisk-3285715.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When working with objects in JavaScript, you may have come across the [object, object] output. While this may seem irrelevant, it's not necessarily an error.  [object, object] is the string representation of a JavaScript object data type. You'll understand better as we go further in this article. There are",
-          "link": "https://www.freecodecamp.org/news/object-object-in-javascript-meaning-in-js/",
-          "publishedOn": "2022-07-25T14:30:52.000Z",
-          "wordCount": 1196,
-          "title": "[object, object] in JavaScript – Meaning in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/clement-helardot-95YRwf6CNw8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Objects in JavaScript are non-primitive data types that hold an unordered collection of key-value pairs. As you can see in the image above, the key is the property, and each object value must have a key. When interacting with objects, situations might arise that require you to check if a",
-          "link": "https://www.freecodecamp.org/news/how-to-check-if-an-object-has-a-key-in-javascript/",
-          "publishedOn": "2022-07-25T14:24:55.000Z",
-          "wordCount": 1501,
-          "title": "JavaScript Key in Object – How to Check if an Object has a Key in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/cover-template--3-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/",
-          "author": "Dillion Megida",
-          "description": "In this article, you'll learn how to read and parse JSON in Python. What is JSON? JSON is short for JavaScript Object Notation. It's a simple syntax for storing data in name-value pairs. Values can be different data types as long as they are valid. Non-acceptable types for JSON include",
-          "link": "https://www.freecodecamp.org/news/loading-a-json-file-in-python-how-to-read-and-parse-json/",
-          "publishedOn": "2022-07-25T14:06:45.000Z",
-          "wordCount": 1364,
-          "title": "Loading a JSON File in Python – How to Read and Parse JSON",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/read-parse-json-files.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/",
-          "author": "Dionysia Lemonaki",
-          "description": "When you're working with a Python program, you might need to search for and locate a specific string inside another string. This is where Python's built-in string methods come in handy. In this article, you will learn how to use Python's built-in find() string method to help you search for",
-          "link": "https://www.freecodecamp.org/news/python-find-how-to-search-for-a-substring-in-a-string/",
-          "publishedOn": "2022-07-25T13:56:30.000Z",
-          "wordCount": 2030,
-          "title": "Python find() – How to Search for a Substring in a String",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/tarn-nguyen-XlEafYGDvV0-unsplash.jpg"
         }
       ]
     }
