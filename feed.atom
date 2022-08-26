@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-25T01:44:54.680Z</updated>
+    <updated>2022-08-26T01:47:28.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Relational Database? RDBMS Definition]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/"/>
+        <updated>2022-08-25T22:51:46.000Z</updated>
+        <summary type="html"><![CDATA[A relational database is a type of database that stores data in tables made up of rows and columns. Each table represents a specific object in the database like users, products, orders, and so on.  The term "relational" is the main characteristic feature that makes relational databases unique. This]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Error Messages UX]]></title>
+        <id>https://smashingmagazine.com/2022/08/error-messages-ux-design/</id>
+        <link href="https://smashingmagazine.com/2022/08/error-messages-ux-design/"/>
+        <updated>2022-08-25T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Sure How to WordPress Anymore?]]></title>
+        <id>https://css-tricks.com/?p=372616</id>
+        <link href="https://css-tricks.com/not-sure-how-to-wordpress-anymore/"/>
+        <updated>2022-08-25T14:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …
+Not Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Games with LÖVE 2D and Lua]]></title>
+        <id>https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/</id>
+        <link href="https://www.freecodecamp.org/news/create-games-with-love-2d-and-lua/"/>
+        <updated>2022-08-25T13:28:45.000Z</updated>
+        <summary type="html"><![CDATA[The Lua programming language is becoming increasingly popular for game development. And the LÖVE 2D game engine makes it simpler to create games using Lua.  We just published a full 11-hour game development course on the freeCodeCamp.org YouTube channel that will teach you how to create games using LÖVE]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Video Streaming With imgix]]></title>
+        <id>https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/</id>
+        <link href="https://smashingmagazine.com/2022/08/better-video-streaming-with-imgix/"/>
+        <updated>2022-08-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you need to deliver a large number of images and videos, a solution like [imgix](https://imgix.com/?utm_medium=banner&utm_source=smashingmag&utm_campaign=video-api-smashingmag-article-2022-08) can optimize and process both types of assets without you having to build it from the ground up or cobble together different solutions. Let’s take a closer look at how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Doug Sillars)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Dual Boot Windows 10 and Ubuntu – Linux Dual Booting Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-dual-boot-windows-10-and-ubuntu-linux-dual-booting-tutorial/</id>
@@ -1381,66 +1432,6 @@ Recreating MDN’s Truncated Text Effect originally published on CSS-Tricks. You
         <summary type="html"><![CDATA[Redux is a predictable state container for JavaScript apps. So what does that really mean? If we dig deeper into this statement, we see that Redux is a state management library that you can use with any JS library or framework like React, Angular, or Vue. In this article, we'll]]></summary>
         <author>
             <name>Soham De Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Software Architecture Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/</id>
-        <link href="https://www.freecodecamp.org/news/an-introduction-to-software-architecture-patterns/"/>
-        <updated>2022-07-26T21:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article we're going to talk about a very interesting, vast, and complex topic: software architecture. This is something that used to confuse me quite a bit when I was starting to code. So in this article I'll try to give you a simple, surface-level, easy to]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Terraform by Deploying a Jenkins Server on AWS]]></title>
-        <id>https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/</id>
-        <link href="https://www.freecodecamp.org/news/learn-terraform-by-deploying-jenkins-server-on-aws/"/>
-        <updated>2022-07-26T18:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Hello, everyone! Today we're going to learn about Terraform by building a project. Terraform is more than just a tool to boost the productivity of operations teams. You have the chance to transform your developers into operators by implementing Terraform. This can help increase the efficiency of your entire engineering]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test-Driven Development Tutorial – How to Test Your JavaScript and ReactJS Applications]]></title>
-        <id>https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/</id>
-        <link href="https://www.freecodecamp.org/news/test-driven-development-tutorial-how-to-test-javascript-and-reactjs-app/"/>
-        <updated>2022-07-26T17:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Understanding test-driven development is an essential part of being a prolific software developer. Testing provides a solid platform for building reliable programs. This tutorial will show you all you need to implement test-driven development in your JavaScript and React applications. Table of Contents  1.  What Is Test-Driven Development?]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Save and Exit Nano in Terminal – Nano Quit Command]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-save-and-exit-nano-in-terminal-nano-quit-command/"/>
-        <updated>2022-07-26T16:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Nano is a command line-based code editor known for its simplicity compared to other editors like Vim and Emacs. But if you are new to Nano, performing basic operations like creating files, saving the file, and exiting the editor might be confusing. So, in this article, I want to show]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the flat() and flatMap() Methods to Flatten Arrays in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/</id>
-        <link href="https://www.freecodecamp.org/news/flat-and-flatmap-javascript-array-methods/"/>
-        <updated>2022-07-26T16:47:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article I'm going to explain how to use the new array methods introduced in ES2019 (EcmaScript 2019) – flat() and flatMap(). You use these methods to flatten arrays. The methods are very useful and easy to use. It will really be cool to use these methods in your]]></summary>
-        <author>
-            <name>Kenechukwu Nwobodo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python List Sorting – How to Order Lists in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-list-sorting-how-to-order-lists-in-python/"/>
-        <updated>2022-07-26T16:31:59.000Z</updated>
-        <summary type="html"><![CDATA[There are many reasons you might want to sort lists in your Python applications. In this article, I'll show you how to order lists in ascending and descending order depending on what you need to do. What is a List in Python? A list is a data type in Python]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
 </feed>
