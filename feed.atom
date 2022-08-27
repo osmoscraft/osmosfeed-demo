@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-26T01:47:28.885Z</updated>
+    <updated>2022-08-27T01:41:13.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Java scanner.nextLine() Method Call Gets Skipped Error [SOLVED]]]></title>
+        <id>https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/</id>
+        <link href="https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/"/>
+        <updated>2022-08-26T21:01:37.000Z</updated>
+        <summary type="html"><![CDATA[There's a common error that tends to stump new Java programmers. It happens when you group together a bunch of input prompts and one of the scanner.nextLine()  method calls gets skipped – without any signs of failure or error. Take a look at the following code snippet, for example:]]></summary>
+        <author>
+            <name>Farhan Hasin Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python to Lowercase a String – str.lower() Example]]></title>
+        <id>https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/</id>
+        <link href="https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/"/>
+        <updated>2022-08-26T20:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Strings can be in different formats such as lowercase, capitalized, and uppercase. In this article, I'll show you how to convert a string to lowercase in Python. A lowercase string has all its characters in small letters. An example is python . A capitalized string has the first letter of]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML TextArea – How to Add a Text Box Input Type Tag to Your Website]]></title>
+        <id>https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/</id>
+        <link href="https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/"/>
+        <updated>2022-08-26T16:21:53.000Z</updated>
+        <summary type="html"><![CDATA[A text box is a section of your website where users can enter text. A blinking cursor appears when you click or tap on or inside the text box, indicating that you are ready to begin typing. And an on-screen keyboard will appear if you're using a tablet or smartphone.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform Integration Testing using JUnit 5 and TestContainers with SpringBoot]]></title>
+        <id>https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/</id>
+        <link href="https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/"/>
+        <updated>2022-08-26T15:46:39.000Z</updated>
+        <summary type="html"><![CDATA[TestContainers is a library that helps you run module-specific Docker containers to simplify Integration Testing.  These Docker containers are lightweight, and once the tests are finished the containers get destroyed. In the article we are going to understand what the TestContainers is and how it helps you write more]]></summary>
+        <author>
+            <name>Sameer Shukla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Handling in Python – How to Create, Read, and Write to a File]]></title>
+        <id>https://www.freecodecamp.org/news/file-handling-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/file-handling-in-python/"/>
+        <updated>2022-08-26T15:42:16.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to open a file, write to the file, and close it. You will also learn how to read from the file using Python.  By the end of this tutorial, you should know the basics of how to use files in Python. File]]></summary>
+        <author>
+            <name>David Fagbuyiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Serverless AWS by Building 7 Projects]]></title>
+        <id>https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/</id>
+        <link href="https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/"/>
+        <updated>2022-08-26T15:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Following tutorials when you start learning serverless is a good first step. But to really get better, you need to build your own projects.  The problem is that coming up with ideas that are realistic but help you grow is hard. To help you out, I’ve come up with]]></summary>
+        <author>
+            <name>Sam Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Grid Named Areas to Visualize (and Reference) Your Layout]]></title>
+        <id>https://css-tricks.com/?p=372634</id>
+        <link href="https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/"/>
+        <updated>2022-08-26T13:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …
+Using Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi Selvam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Relational Database? RDBMS Definition]]></title>
         <id>https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/</id>
@@ -1382,56 +1453,6 @@ Recreating MDN’s Truncated Text Effect originally published on CSS-Tricks. You
         <summary type="html"><![CDATA[JavaScript can be used to develop a bunch of different types of games. And games created with JavaScript can run on almost any device with a web browser. We just published a 10-hour JavaScript game development course on the freeCodeCamp.org YouTube channel. You will learn to make 2D games with]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testable Frontend: The Good, The Bad And The Flaky]]></title>
-        <id>https://smashingmagazine.com/2022/07/testable-frontend-architecture/</id>
-        <link href="https://smashingmagazine.com/2022/07/testable-frontend-architecture/"/>
-        <updated>2022-07-28T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Noam Rosenthal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript document.ready() – Document Ready JS and jQuery Example]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/"/>
-        <updated>2022-07-27T21:03:19.000Z</updated>
-        <summary type="html"><![CDATA[When working with JavaScript and the Document Object Model (DOM), you might want your script to run only when the DOM has loaded.  You can do this using the $(document).ready() method in jQuery, or the  DOMContentLoaded event in vanilla JavaScript. In this article, you'll learn how to make]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Chatbot with Redis, Python, and GPT]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/"/>
-        <updated>2022-07-27T20:16:44.000Z</updated>
-        <summary type="html"><![CDATA[In order to build a working full-stack application, there are so many moving parts to think about. And you'll need to make many decisions that will be critical to the success of your app. For example, what language will you use and what platform will you deploy on? Are you]]></summary>
-        <author>
-            <name>Stephen Sanwo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Unit Testing? How to Perform Unit Tests in Rust]]></title>
-        <id>https://www.freecodecamp.org/news/unit-testing-in-rust/</id>
-        <link href="https://www.freecodecamp.org/news/unit-testing-in-rust/"/>
-        <updated>2022-07-27T16:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Testing is an essential part of Software Development. Testing your code ensures that the software you develop works as expected and makes it less vulnerable to attackers. Software testing is a very broad topic. That's why in the software industry, there are separate professionals who specialize in just QA and]]></summary>
-        <author>
-            <name>Menard Maranan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Redux? Store, Actions, and Reducers Explained for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/"/>
-        <updated>2022-07-27T15:48:39.000Z</updated>
-        <summary type="html"><![CDATA[Redux is a predictable state container for JavaScript apps. So what does that really mean? If we dig deeper into this statement, we see that Redux is a state management library that you can use with any JS library or framework like React, Angular, or Vue. In this article, we'll]]></summary>
-        <author>
-            <name>Soham De Roy</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372634",
+          "author": "Preethi Selvam",
+          "description": "Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …\nUsing Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-grid-named-areas-to-visualize-and-reference-your-layout/",
+          "publishedOn": "2022-08-26T13:44:49.000Z",
+          "wordCount": 4043,
+          "title": "Using Grid Named Areas to Visualize (and Reference) Your Layout",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372634"
+        },
+        {
           "id": "https://css-tricks.com/?p=372616",
           "author": "Geoff Graham",
           "description": "Neither do I! And that’s probably because there’s a lot happening in WordPress-land. The evolution towards full-site editing (FSE) introduces frequent changes to the way we build themes and plugins, and at such break-neck speed that the documentation itself is …\nNot Sure How to WordPress Anymore? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -446,21 +456,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
-          "author": "hello@smashingmagazine.com (Noam Rosenthal)",
-          "description": "Testing is not just about tools and processes. It’s about architecture. In this article, Noam Rosenthal will share his experience on how to organize testing and find the right balance between front-end and subsystems and between different strategies.",
-          "link": "https://smashingmagazine.com/2022/07/testable-frontend-architecture/",
-          "publishedOn": "2022-07-28T12:00:00.000Z",
-          "wordCount": 4540,
-          "title": "Testable Frontend: The Good, The Bad And The Flaky",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/63e8d419-abd0-4630-b0de-16991a961f26/testable-frontend-architecture.jpg"
         }
       ]
     },
@@ -469,6 +464,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "There's a common error that tends to stump new Java programmers. It happens when you group together a bunch of input prompts and one of the scanner.nextLine()  method calls gets skipped – without any signs of failure or error. Take a look at the following code snippet, for example:",
+          "link": "https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/",
+          "publishedOn": "2022-08-26T21:01:37.000Z",
+          "wordCount": 1496,
+          "title": "Java scanner.nextLine() Method Call Gets Skipped Error [SOLVED]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/java-scanner-nextline-call-gets-skipped-solved.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/",
+          "author": "Dillion Megida",
+          "description": "Strings can be in different formats such as lowercase, capitalized, and uppercase. In this article, I'll show you how to convert a string to lowercase in Python. A lowercase string has all its characters in small letters. An example is python . A capitalized string has the first letter of",
+          "link": "https://www.freecodecamp.org/news/python-to-lowercase-a-string-str-lower-example/",
+          "publishedOn": "2022-08-26T20:12:09.000Z",
+          "wordCount": 1147,
+          "title": "Python to Lowercase a String – str.lower() Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/string-lowercase.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/",
+          "author": "Joel Olawanle",
+          "description": "A text box is a section of your website where users can enter text. A blinking cursor appears when you click or tap on or inside the text box, indicating that you are ready to begin typing. And an on-screen keyboard will appear if you're using a tablet or smartphone.",
+          "link": "https://www.freecodecamp.org/news/html-textarea-how-to-add-text-box-to-your-website/",
+          "publishedOn": "2022-08-26T16:21:53.000Z",
+          "wordCount": 1294,
+          "title": "HTML TextArea – How to Add a Text Box Input Type Tag to Your Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/",
+          "author": "Sameer Shukla",
+          "description": "TestContainers is a library that helps you run module-specific Docker containers to simplify Integration Testing.  These Docker containers are lightweight, and once the tests are finished the containers get destroyed. In the article we are going to understand what the TestContainers is and how it helps you write more",
+          "link": "https://www.freecodecamp.org/news/integration-testing-using-junit-5-testcontainers-with-springboot-example/",
+          "publishedOn": "2022-08-26T15:46:39.000Z",
+          "wordCount": 2202,
+          "title": "How to Perform Integration Testing using JUnit 5 and TestContainers with SpringBoot",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/testcontainers-logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/file-handling-in-python/",
+          "author": "David Fagbuyiro",
+          "description": "In this tutorial, you will learn how to open a file, write to the file, and close it. You will also learn how to read from the file using Python.  By the end of this tutorial, you should know the basics of how to use files in Python. File",
+          "link": "https://www.freecodecamp.org/news/file-handling-in-python/",
+          "publishedOn": "2022-08-26T15:42:16.000Z",
+          "wordCount": 2241,
+          "title": "File Handling in Python – How to Create, Read, and Write to a File",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Author-Share-ImageFREE--4-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/",
+          "author": "Sam Williams",
+          "description": "Following tutorials when you start learning serverless is a good first step. But to really get better, you need to build your own projects.  The problem is that coming up with ideas that are realistic but help you grow is hard. To help you out, I’ve come up with",
+          "link": "https://www.freecodecamp.org/news/learn-serverless-aws-by-building-7-projects/",
+          "publishedOn": "2022-08-26T15:34:58.000Z",
+          "wordCount": 4024,
+          "title": "How to Learn Serverless AWS by Building 7 Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-christina-morillo-1181316.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-a-relational-database-rdbms-definition/",
           "author": "Ihechikara Vincent Abba",
@@ -1468,46 +1523,6 @@
           "wordCount": 942,
           "title": "Learn Game Development with JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/jsgame.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When working with JavaScript and the Document Object Model (DOM), you might want your script to run only when the DOM has loaded.  You can do this using the $(document).ready() method in jQuery, or the  DOMContentLoaded event in vanilla JavaScript. In this article, you'll learn how to make",
-          "link": "https://www.freecodecamp.org/news/javascript-document-ready-jquery-example/",
-          "publishedOn": "2022-07-27T21:03:19.000Z",
-          "wordCount": 1095,
-          "title": "JavaScript document.ready() – Document Ready JS and jQuery Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/joan-gamell-ZS67i1HLllo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/",
-          "author": "Stephen Sanwo",
-          "description": "In order to build a working full-stack application, there are so many moving parts to think about. And you'll need to make many decisions that will be critical to the success of your app. For example, what language will you use and what platform will you deploy on? Are you",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-redis-python-and-gpt/",
-          "publishedOn": "2022-07-27T20:16:44.000Z",
-          "wordCount": 9836,
-          "title": "How to Build an AI Chatbot with Redis, Python, and GPT",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/a127b667458911.5b3b0b831c028-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/unit-testing-in-rust/",
-          "author": "Menard Maranan",
-          "description": "Testing is an essential part of Software Development. Testing your code ensures that the software you develop works as expected and makes it less vulnerable to attackers. Software testing is a very broad topic. That's why in the software industry, there are separate professionals who specialize in just QA and",
-          "link": "https://www.freecodecamp.org/news/unit-testing-in-rust/",
-          "publishedOn": "2022-07-27T16:26:05.000Z",
-          "wordCount": 3542,
-          "title": "What is Unit Testing? How to Perform Unit Tests in Rust",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/UNIT-TESTING-IN-RUST.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/",
-          "author": "Soham De Roy",
-          "description": "Redux is a predictable state container for JavaScript apps. So what does that really mean? If we dig deeper into this statement, we see that Redux is a state management library that you can use with any JS library or framework like React, Angular, or Vue. In this article, we'll",
-          "link": "https://www.freecodecamp.org/news/what-is-redux-store-actions-reducers-explained/",
-          "publishedOn": "2022-07-27T15:48:39.000Z",
-          "wordCount": 2994,
-          "title": "What is Redux? Store, Actions, and Reducers Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Group-60.png"
         }
       ]
     }
