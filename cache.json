@@ -183,6 +183,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
+          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
+          "publishedOn": "2022-08-29T14:00:00.000Z",
+          "wordCount": 6046,
+          "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/error-messages-ux-design/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Error messages need to be easy to spot, but they also need to be helpful. Let’s explore when error messages should live above input fields and why toast error messages are usually not a very good idea.",
@@ -421,21 +436,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.",
-          "link": "https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/",
-          "publishedOn": "2022-07-31T08:00:00.000Z",
-          "wordCount": 4526,
-          "title": "Memories Of August (2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec313af0-1806-4c89-b9dd-fd287cd5a3ff/aug-22-swimming-in-the-summer-preview-opt.png"
         }
       ]
     },
@@ -444,6 +444,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
+          "author": "Megan Kaczanowski",
+          "description": "The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:",
+          "link": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
+          "publishedOn": "2022-08-29T21:17:07.000Z",
+          "wordCount": 2608,
+          "title": "Common Attacks on SSL/TLS – and How to Protect Your System",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cybersecurity-by-Christiaan-Colen-creative-commons-free-to-use.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/",
+          "author": "Logan Kilpatrick",
+          "description": "As a machine learning engineer or data scientist, one of the most critical decisions you can make is what type of model to use to solve a specific problem. Do you really need to use Deep Learning to model this specific problem? Will something like a Random Forest model or",
+          "link": "https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/",
+          "publishedOn": "2022-08-29T13:46:21.000Z",
+          "wordCount": 2773,
+          "title": "How to Use Linear Models and Decision Trees in Julia",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/LinearModels-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/20-beginner-python-projects/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to improve your Python skills? Try coding these 20 Python projects! We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects. Tomi Tokko created this course. Tomi has created a bunch of really popular tutorials",
+          "link": "https://www.freecodecamp.org/news/20-beginner-python-projects/",
+          "publishedOn": "2022-08-29T12:44:35.000Z",
+          "wordCount": 813,
+          "title": "How to Code 20 Beginner Python Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/20python.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/",
           "author": "Farhan Hasin Chowdhury",
@@ -1413,16 +1443,6 @@
           "wordCount": 1178,
           "title": "Error: src refspec master does not match any – How to Fix in Git",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/refspec-master-error.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/",
-          "author": "Rohit Jacob Mathew",
-          "description": "Ever since I started learning about JSON Web Tokens, I have been wondering how we validate them.  I understood that we sign the token and that we use that signed token to validate its authenticity. But I was still curious to know more and wondered why I never learned",
-          "link": "https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/",
-          "publishedOn": "2022-07-31T13:00:00.000Z",
-          "wordCount": 2377,
-          "title": "How to Sign and Validate JSON Web Tokens – JWT Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/rohit-code-2400x1260.jpg"
         }
       ]
     }

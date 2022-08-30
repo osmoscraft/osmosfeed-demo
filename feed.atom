@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-29T01:55:08.808Z</updated>
+    <updated>2022-08-30T01:56:47.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Common Attacks on SSL/TLS – and How to Protect Your System]]></title>
+        <id>https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/</id>
+        <link href="https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/"/>
+        <updated>2022-08-29T21:17:07.000Z</updated>
+        <summary type="html"><![CDATA[The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes A Great Toggle Button? (Case Study, Part 2)]]></title>
+        <id>https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/</id>
+        <link href="https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/"/>
+        <updated>2022-08-29T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Linear Models and Decision Trees in Julia]]></title>
+        <id>https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/</id>
+        <link href="https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/"/>
+        <updated>2022-08-29T13:46:21.000Z</updated>
+        <summary type="html"><![CDATA[As a machine learning engineer or data scientist, one of the most critical decisions you can make is what type of model to use to solve a specific problem. Do you really need to use Deep Learning to model this specific problem? Will something like a Random Forest model or]]></summary>
+        <author>
+            <name>Logan Kilpatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code 20 Beginner Python Projects]]></title>
+        <id>https://www.freecodecamp.org/news/20-beginner-python-projects/</id>
+        <link href="https://www.freecodecamp.org/news/20-beginner-python-projects/"/>
+        <updated>2022-08-29T12:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking to improve your Python skills? Try coding these 20 Python projects! We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects. Tomi Tokko created this course. Tomi has created a bunch of really popular tutorials]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java scanner.nextLine() Method Call Gets Skipped Error [SOLVED]]]></title>
         <id>https://www.freecodecamp.org/news/java-scanner-nextline-call-gets-skipped-solved/</id>
@@ -1331,26 +1371,6 @@ Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally publis
         <summary type="html"><![CDATA[If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ruslan Yevych)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Sign and Validate JSON Web Tokens – JWT Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sign-and-validate-json-web-tokens/"/>
-        <updated>2022-07-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever since I started learning about JSON Web Tokens, I have been wondering how we validate them.  I understood that we sign the token and that we use that signed token to validate its authenticity. But I was still curious to know more and wondered why I never learned]]></summary>
-        <author>
-            <name>Rohit Jacob Mathew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memories Of August (2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/</id>
-        <link href="https://smashingmagazine.com/2022/07/desktop-wallpaper-calendars-august-2022/"/>
-        <updated>2022-07-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for August 2022.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
