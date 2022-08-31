@@ -2,10 +2,119 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-30T01:56:47.691Z</updated>
+    <updated>2022-08-31T02:02:26.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From WordPress to Hugo – How I Migrated a 250+ Page Site and the Scripts I Used]]></title>
+        <id>https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/</id>
+        <link href="https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/"/>
+        <updated>2022-08-30T23:25:47.000Z</updated>
+        <summary type="html"><![CDATA[I recently decided to switch Boot.dev's [https://boot.dev] blog from WordPress to a static site generator. I decided on Hugo [https://gohugo.io/], partly because I’m a huge fan of the Go programming language, but also because it just seemed like the best option from a dev-experience perspective.  Here’s why I decided]]></summary>
+        <author>
+            <name>Lane Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use JavaScript's Map() Method to Solve Breadth-First and Depth-First Search Problems]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/"/>
+        <updated>2022-08-30T17:17:31.000Z</updated>
+        <summary type="html"><![CDATA[The JavaScript map() method [/news/array-map-tutorial/] is an object [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object]  with a key and value pair. An object's key and value are connected using a colon (:) while the key and value of a map are connected using an arrow (=>). Here's an example of an object in JavaScript: {]]></summary>
+        <author>
+            <name>Njoku Samson Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Digital Security – How to Protect Yourself Online for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/personal-digital-security-an-intro/</id>
+        <link href="https://www.freecodecamp.org/news/personal-digital-security-an-intro/"/>
+        <updated>2022-08-30T16:57:34.000Z</updated>
+        <summary type="html"><![CDATA[How do you protect yourself online without having to remember a million impossible passwords?  This is an (actually) easy to implement guide, which is the digital equivalent of locking your house when you leave.  Taking these steps won’t make you hack-proof (just as locking your house won’t make]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String to Number in JavaScript – Convert a String to an Int in JS]]></title>
+        <id>https://www.freecodecamp.org/news/string-to-number-in-javascript-convert-a-string-to-an-int-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/string-to-number-in-javascript-convert-a-string-to-an-int-in-js/"/>
+        <updated>2022-08-30T16:38:26.000Z</updated>
+        <summary type="html"><![CDATA[When you're programming, you'll often need to switch between data types. For example, you may need to convert a string into a number. The ability to convert one data type to another gives you great flexibility when working with information. JavaScript has different built-in methods to convert or cast a]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL HAVING – How to Group and Count with a Having Statement]]></title>
+        <id>https://www.freecodecamp.org/news/sql-having-how-to-group-and-count-with-a-having-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-having-how-to-group-and-count-with-a-having-statement/"/>
+        <updated>2022-08-30T15:59:48.000Z</updated>
+        <summary type="html"><![CDATA[In SQL, you use the HAVING keyword right after GROUP BY to query the database based on a specified condition. Like other keywords, it returns the data that meet the condition and filters out the rest. The HAVING keyword was introduced because the WHERE clause fails when used with aggregate]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSH Keygen Tutorial – How to Generate an SSH Public Key for RSA Login]]></title>
+        <id>https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/</id>
+        <link href="https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/"/>
+        <updated>2022-08-30T15:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Cryptography uses encryption and decryption to conceal messages. This introduces secrecy in information security.  The purpose of cryptography is to ensure secure communication between two people or devices who are connecting through insecure channels. The sender often employs an encryption key to lock the message, while the recipient uses]]></summary>
+        <author>
+            <name>Bolaji Ayodeji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Super Linter in Your Projects]]></title>
+        <id>https://www.freecodecamp.org/news/github-super-linter/</id>
+        <link href="https://www.freecodecamp.org/news/github-super-linter/"/>
+        <updated>2022-08-30T15:25:35.000Z</updated>
+        <summary type="html"><![CDATA[When you're starting a new project, you might have to add multiple linting tools to beautify your code and prevent simple errors.  You will often use multiple linters – one of them might support an npm installation and other one might have a PyPI installation and so on. You]]></summary>
+        <author>
+            <name>Rishit Dagli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS in 11 Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-in-11-hours/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-in-11-hours/"/>
+        <updated>2022-08-30T13:55:08.000Z</updated>
+        <summary type="html"><![CDATA[It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpolating Numeric CSS Variables]]></title>
+        <id>https://css-tricks.com/?p=372839</id>
+        <link href="https://css-tricks.com/interpolating-numeric-css-variables/"/>
+        <updated>2022-08-30T13:17:25.000Z</updated>
+        <summary type="html"><![CDATA[We can make variables in CSS pretty easily:
+:root {
+  --scale: 1;
+}
+And we can declare them on any element:
+.thing {
+  transform: scale(--scale);
+}
+Even better for an example like this is applying the variable on a user …
+Interpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Improve And Measure Your Progress Learning Web Design]]></title>
+        <id>https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/</id>
+        <link href="https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/"/>
+        <updated>2022-08-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shane Hudson)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Common Attacks on SSL/TLS – and How to Protect Your System]]></title>
         <id>https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/</id>
@@ -1340,37 +1449,6 @@ Implicit Grids, Repeatable Layout Patterns, and Danglers originally published on
         <summary type="html"><![CDATA[There are a lot of REST API tutorials out there but many of them do not teach you how to create production-ready code using industry best practices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API using industry-level .NET]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error: src refspec master does not match any – How to Fix in Git]]></title>
-        <id>https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/"/>
-        <updated>2022-08-01T13:58:44.000Z</updated>
-        <summary type="html"><![CDATA[When working with Git, you may come across an error that says "src refspace master does not match any". Here's what the error means and how you can solve it. What Does src refspec master does not match any Mean in Git? You may get this error when you try]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers]]></title>
-        <id>https://css-tricks.com/?p=367178</id>
-        <link href="https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/"/>
-        <updated>2022-08-01T13:44:13.000Z</updated>
-        <summary type="html"><![CDATA[When working with CSS Grid, the first thing to do is to set display: grid on the element that we want to be become a grid container. Then we explicitly define the grid using a combination of grid-template-columns, grid-template-rows…
-Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluid Sizing Instead Of Multiple Media Queries?]]></title>
-        <id>https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/</id>
-        <link href="https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/"/>
-        <updated>2022-08-01T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ruslan Yevych)</name>
         </author>
     </entry>
 </feed>

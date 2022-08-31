@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372839",
+          "author": "Geoff Graham",
+          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(--scale);\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/interpolating-numeric-css-variables/",
+          "publishedOn": "2022-08-30T13:17:25.000Z",
+          "wordCount": 963,
+          "title": "Interpolating Numeric CSS Variables",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
+        },
+        {
           "id": "https://css-tricks.com/?p=372634",
           "author": "Preethi Selvam",
           "description": "Whenever we build simple or complex layouts using CSS Grid, we’re usually positioning items with line numbers. Grid layouts contain grid lines that are automatically indexed with positive and negative line numbers (that is unless we explicitly name them). …\nUsing Grid Named Areas to Visualize (and Reference) Your Layout originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -164,16 +174,6 @@
           "wordCount": 1000,
           "title": "Implicit Grids, Repeatable Layout Patterns, and Danglers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367158"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367178",
-          "author": "Temani Afif",
-          "description": "When working with CSS Grid, the first thing to do is to set display: grid on the element that we want to be become a grid container. Then we explicitly define the grid using a combination of grid-template-columns, grid-template-rows…\nExploring CSS Grid’s Implicit Grid and Auto-Placement Powers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/exploring-css-grids-implicit-grid-and-auto-placement-powers/",
-          "publishedOn": "2022-08-01T13:44:13.000Z",
-          "wordCount": 5372,
-          "title": "Exploring CSS Grid’s Implicit Grid and Auto-Placement Powers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367178"
         }
       ]
     },
@@ -182,6 +182,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
+          "author": "hello@smashingmagazine.com (Shane Hudson)",
+          "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
+          "link": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
+          "publishedOn": "2022-08-30T09:00:00.000Z",
+          "wordCount": 4517,
+          "title": "How To Improve And Measure Your Progress Learning Web Design",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
           "author": "hello@smashingmagazine.com (Eduard Kuric)",
@@ -421,21 +436,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
-          "author": "hello@smashingmagazine.com (Ruslan Yevych)",
-          "description": "If you like math and CSS, you’ll love this one. We don’t need to use media queries to change the values of some CSS properties — *font-size*, *padding*, *margin* etc. — depending on the viewport width, with the CSS `clamp` function. But: we still need to use media queries for changing colors, borders, shadows and other CSS styles.",
-          "link": "https://smashingmagazine.com/2022/08/fluid-sizing-multiple-media-queries/",
-          "publishedOn": "2022-08-01T10:30:00.000Z",
-          "wordCount": 4789,
-          "title": "Fluid Sizing Instead Of Multiple Media Queries?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8325e378-54a4-435f-8867-8eedcbebbd04/1-fluid-typography-say-no-media-queries.png"
         }
       ]
     },
@@ -444,6 +444,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/",
+          "author": "Lane Wagner",
+          "description": "I recently decided to switch Boot.dev's [https://boot.dev] blog from WordPress to a static site generator. I decided on Hugo [https://gohugo.io/], partly because I’m a huge fan of the Go programming language, but also because it just seemed like the best option from a dev-experience perspective.  Here’s why I decided",
+          "link": "https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/",
+          "publishedOn": "2022-08-30T23:25:47.000Z",
+          "wordCount": 1682,
+          "title": "From WordPress to Hugo – How I Migrated a 250+ Page Site and the Scripts I Used",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/1__D5sbQUd4XwTy9yt67BCCA-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/",
+          "author": "Njoku Samson Ebere",
+          "description": "The JavaScript map() method [/news/array-map-tutorial/] is an object [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object]  with a key and value pair. An object's key and value are connected using a colon (:) while the key and value of a map are connected using an arrow (=>). Here's an example of an object in JavaScript: {",
+          "link": "https://www.freecodecamp.org/news/how-to-use-javascript-map-method-to-make-a-breath-first-and-depth-first-search/",
+          "publishedOn": "2022-08-30T17:17:31.000Z",
+          "wordCount": 3274,
+          "title": "How to Use JavaScript's Map() Method to Solve Breadth-First and Depth-First Search Problems",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-porapak-apichodilok-346696.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/personal-digital-security-an-intro/",
+          "author": "Megan Kaczanowski",
+          "description": "How do you protect yourself online without having to remember a million impossible passwords?  This is an (actually) easy to implement guide, which is the digital equivalent of locking your house when you leave.  Taking these steps won’t make you hack-proof (just as locking your house won’t make",
+          "link": "https://www.freecodecamp.org/news/personal-digital-security-an-intro/",
+          "publishedOn": "2022-08-30T16:57:34.000Z",
+          "wordCount": 2162,
+          "title": "Personal Digital Security – How to Protect Yourself Online for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-207580--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/string-to-number-in-javascript-convert-a-string-to-an-int-in-js/",
+          "author": "Dionysia Lemonaki",
+          "description": "When you're programming, you'll often need to switch between data types. For example, you may need to convert a string into a number. The ability to convert one data type to another gives you great flexibility when working with information. JavaScript has different built-in methods to convert or cast a",
+          "link": "https://www.freecodecamp.org/news/string-to-number-in-javascript-convert-a-string-to-an-int-in-js/",
+          "publishedOn": "2022-08-30T16:38:26.000Z",
+          "wordCount": 3114,
+          "title": "String to Number in JavaScript – Convert a String to an Int in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-459653.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-having-how-to-group-and-count-with-a-having-statement/",
+          "author": "Kolade Chris",
+          "description": "In SQL, you use the HAVING keyword right after GROUP BY to query the database based on a specified condition. Like other keywords, it returns the data that meet the condition and filters out the rest. The HAVING keyword was introduced because the WHERE clause fails when used with aggregate",
+          "link": "https://www.freecodecamp.org/news/sql-having-how-to-group-and-count-with-a-having-statement/",
+          "publishedOn": "2022-08-30T15:59:48.000Z",
+          "wordCount": 1260,
+          "title": "SQL HAVING – How to Group and Count with a Having Statement",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/sqlHaving.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/",
+          "author": "Bolaji Ayodeji",
+          "description": "Cryptography uses encryption and decryption to conceal messages. This introduces secrecy in information security.  The purpose of cryptography is to ensure secure communication between two people or devices who are connecting through insecure channels. The sender often employs an encryption key to lock the message, while the recipient uses",
+          "link": "https://www.freecodecamp.org/news/ssh-keygen-how-to-generate-an-ssh-public-key-for-rsa-login/",
+          "publishedOn": "2022-08-30T15:51:22.000Z",
+          "wordCount": 1524,
+          "title": "SSH Keygen Tutorial – How to Generate an SSH Public Key for RSA Login",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/article-banner.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-super-linter/",
+          "author": "Rishit Dagli",
+          "description": "When you're starting a new project, you might have to add multiple linting tools to beautify your code and prevent simple errors.  You will often use multiple linters – one of them might support an npm installation and other one might have a PyPI installation and so on. You",
+          "link": "https://www.freecodecamp.org/news/github-super-linter/",
+          "publishedOn": "2022-08-30T15:25:35.000Z",
+          "wordCount": 2648,
+          "title": "How to Use GitHub Super Linter in Your Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/FCC-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
+          "author": "Beau Carnes",
+          "description": "It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is",
+          "link": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
+          "publishedOn": "2022-08-30T13:55:08.000Z",
+          "wordCount": 830,
+          "title": "Learn CSS in 11 Hours",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cssdave.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
           "author": "Megan Kaczanowski",
@@ -1433,16 +1513,6 @@
           "wordCount": 881,
           "title": "Create an Industry Level REST API Using .NET 6",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/maxresdefault.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/",
-          "author": "Dillion Megida",
-          "description": "When working with Git, you may come across an error that says \"src refspace master does not match any\". Here's what the error means and how you can solve it. What Does src refspec master does not match any Mean in Git? You may get this error when you try",
-          "link": "https://www.freecodecamp.org/news/error-src-refspec-master-does-not-match-any-how-to-fix-in-git/",
-          "publishedOn": "2022-08-01T13:58:44.000Z",
-          "wordCount": 1178,
-          "title": "Error: src refspec master does not match any – How to Fix in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/refspec-master-error.png"
         }
       ]
     }
