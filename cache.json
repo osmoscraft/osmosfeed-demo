@@ -164,16 +164,6 @@
           "wordCount": 3218,
           "title": "Converting Speech to PDF with NextJS and ExpressJS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367238"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367158",
-          "author": "Geoff Graham",
-          "description": "Dave Rupert with some modern CSS magic that tackles one of those classic conundrums: what happens when the CSS for component is unable to handle the content we throw at it?\nThe specific situation is when a layout grid expects …\nImplicit Grids, Repeatable Layout Patterns, and Danglers originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/implicit-grids-repeatable-layout-patterns-and-danglers/",
-          "publishedOn": "2022-08-02T13:10:49.000Z",
-          "wordCount": 1000,
-          "title": "Implicit Grids, Repeatable Layout Patterns, and Danglers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367158"
         }
       ]
     },
@@ -182,6 +172,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s welcome September with some fresh desktop wallpapers. Designed by artists and designers from across the globe, they come in versions with and without a calendar for the month. Enjoy!",
+          "link": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
+          "publishedOn": "2022-08-31T08:45:00.000Z",
+          "wordCount": 4581,
+          "title": "Finding The Balance (September 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
           "author": "hello@smashingmagazine.com (Shane Hudson)",
@@ -444,6 +449,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/",
+          "author": "Victor Eke",
+          "description": "Optimizing the assets you use on your websites – like lazy loading images – is one of the most effective ways to improve web performance. Doing this helps you make sure that your websites are fast, they have great SEO [https://en.wikipedia.org/wiki/Search_engine_optimization], and it helps enhance the user experience. In this",
+          "link": "https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/",
+          "publishedOn": "2022-08-31T22:24:19.000Z",
+          "wordCount": 1859,
+          "title": "How to Lazy Load Images in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/How-to-lazy-load-images-in-React-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/html5-tags-you-might-not-know/",
+          "author": "Bhavesh Rawat",
+          "description": "One of the key factors that differentiates HTML 5 from its predecessors is the introduction of semantic tags.  Semantic tags add real meaning to the webpage and make it easy for humans, and search engines, to differentiate between different parts of the website.  To a certain extent, it",
+          "link": "https://www.freecodecamp.org/news/html5-tags-you-might-not-know/",
+          "publishedOn": "2022-08-31T21:47:30.000Z",
+          "wordCount": 2224,
+          "title": "Useful HTML5 Tags You Might Not Know",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/five-html-tags-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-coding-interview-practice/",
+          "author": "Damla Erkiner",
+          "description": "David Goggins is an ultramarathon runner, a public speaker, a retired navy SEAL, and the author of the book 'Can't Hurt Me: Master Your Mind and Defy the Odds [https://www.amazon.com/Cant-Hurt-Me-Master-Your/dp/1544512287]'. He's one of my role models because of his physical strength and mental resilience.  You might say: \"Wait a",
+          "link": "https://www.freecodecamp.org/news/javascript-coding-interview-practice/",
+          "publishedOn": "2022-08-31T17:39:28.000Z",
+          "wordCount": 3596,
+          "title": "JavaScript Coding Interview Practice – Sample Interview Questions and Solutions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/david-goggins-quotes-about-hard-work.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/",
+          "author": "Ilenia Magoni",
+          "description": "You will often need to remove an element from an array in JavaScript, whether it's for a queue data structure, or maybe from your React State. In the first half of this article you will learn all the methods that allow you to remove an element from an array without",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-an-element-from-a-javascript-array-removing-a-specific-item-in-js/",
+          "publishedOn": "2022-08-31T17:00:43.000Z",
+          "wordCount": 2514,
+          "title": "How to Remove an Element from a JavaScript Array – Removing a Specific Item in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/vinicius-amnx-amano-dbOV1qSiL-c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular frontend JavaScript frameworks. If you want to be a frontend developer, you will likely need to know something about React. We just published a full React course for beginners on the freeCodeCamp.org YouTube channel. This course is unlike most of the other React",
+          "link": "https://www.freecodecamp.org/news/learn-react-from-three-all-star-instructors/",
+          "publishedOn": "2022-08-31T14:46:20.000Z",
+          "wordCount": 1191,
+          "title": "Learn React from Three All-Star Instructors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/react-project.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/wordpress-to-hugo-scripts/",
           "author": "Lane Wagner",
@@ -1493,26 +1548,6 @@
           "wordCount": 2030,
           "title": "How to Use the Rough Notation Library to Animate Your Website",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Purple-Minimal-We-Are-Hiring-Twitter-Post--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "A regression problem is a common type of supervised learning problem in Machine Learning. The end goal is to predict quantitative values – for example, continuous values such as the price of a car, the weight of a dog, and so on.  But to be sure that your model",
-          "link": "https://www.freecodecamp.org/news/evaluation-metrics-for-regression-problems-machine-learning/",
-          "publishedOn": "2022-08-01T14:37:27.000Z",
-          "wordCount": 1979,
-          "title": "Top Evaluation Metrics for Regression Problems in Machine Learning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/regression-metrics-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/",
-          "author": "Beau Carnes",
-          "description": "There are a lot of REST API tutorials out there but many of them do not teach you how to create production-ready code using industry best practices. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a REST API using industry-level .NET",
-          "link": "https://www.freecodecamp.org/news/create-an-industry-level-rest-api-using-net-6/",
-          "publishedOn": "2022-08-01T14:21:13.000Z",
-          "wordCount": 881,
-          "title": "Create an Industry Level REST API Using .NET 6",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/maxresdefault.jpeg"
         }
       ]
     }
