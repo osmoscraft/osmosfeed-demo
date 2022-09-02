@@ -6,6 +6,36 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373126",
+          "author": "Haley Mills",
+          "description": "Those of you who have been reading CSS-Tricks for a while may remember that we used to publish a little thing we called CSS-Tricks Chronicles. Our friend Chris Coyier would write up a reflection from the past couple of …\nBehind the CSScenes, September 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/behind-the-csscenes-sept2022/",
+          "publishedOn": "2022-09-01T20:06:56.000Z",
+          "wordCount": 2154,
+          "title": "Behind the CSScenes, September 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373126"
+        },
+        {
+          "id": "https://css-tricks.com/?p=372855",
+          "author": "Ilknur Eren",
+          "description": "A screen reader is an important accessibility tool for people with no or limited vision. People who are blind or those with low vision can use a screen reader to navigate the computer. Screen readers will read contents on the …\nComparing JAWS, NVDA, and VoiceOver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/comparing-jaws-nvda-and-voiceover/",
+          "publishedOn": "2022-09-01T17:47:16.000Z",
+          "wordCount": 2289,
+          "title": "Comparing JAWS, NVDA, and VoiceOver",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372855"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373087",
+          "author": "Geoff Graham",
+          "description": "Ahmad Shadeed got an early jump on container queries and has a growing collection of examples based on everyday patterns.\nAnd, if you missed it, his latest post on container queries does a wonderful job covering how they work since …\niShadeed’s Container Queries Lab originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/ishadeeds-container-queries-lab/",
+          "publishedOn": "2022-09-01T14:29:27.000Z",
+          "wordCount": 829,
+          "title": "iShadeed’s Container Queries Lab",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373087"
+        },
+        {
           "id": "https://css-tricks.com/?p=372839",
           "author": "Geoff Graham",
           "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(--scale);\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -172,6 +202,36 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "In the second part of “Databases For Front-End Developers” series, Atila Fassina explores concepts to equip you to have your own opinions about which kinds of databases suit your specific needs.",
+          "link": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
+          "publishedOn": "2022-09-01T11:00:00.000Z",
+          "wordCount": 4136,
+          "title": "Databases For Front-End Developers: The Concepts Under The Hood (Part 2)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7f8fb60e-72db-4053-825a-2cbc819c546b/databases-frontend-developers-concepts-under-hood.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
+          "author": "hello@smashingmagazine.com (Zara Cooper)",
+          "description": "In this article, Zara Cooper provides a rundown of some popular data grid libraries that would be a great addition to any data-heavy application and shares recommendations on what factors to consider when choosing a suitable data grid library.",
+          "link": "https://smashingmagazine.com/2022/09/useful-javascript-data-grid-libraries/",
+          "publishedOn": "2022-09-01T08:00:00.000Z",
+          "wordCount": 4291,
+          "title": "Useful JavaScript Data Grid Libraries",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2be5ada6-a971-4249-811f-6c8e32c8e402/useful-javascript-data-grid-libraries.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/08/desktop-wallpaper-calendars-september-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -426,21 +486,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-          "author": "hello@smashingmagazine.com (Sam Robbins)",
-          "description": "We’re going to walk through how to migrate your site from jQuery to [React](/category/React) with [Next.js](/category/next.js). This will help with performance and the maintainability of your code.",
-          "link": "https://smashingmagazine.com/2022/08/migration-jquery-next-js-guide/",
-          "publishedOn": "2022-08-03T12:00:00.000Z",
-          "wordCount": 4640,
-          "title": "Migration From jQuery to Next.js: A Guide",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6cee417f-9daf-47d5-957c-0299c43b292d/rewriting-a-jquery-site-to-nextjs-card.jpg"
         }
       ]
     },
@@ -449,6 +494,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
+          "author": "Dillion Megida",
+          "description": "Python has numerous string modifying methods, and one of them is the replace  method. In this article, I'll show you how this method can be used to replace a character in a string. How the replace Method Works in Python The replace string method returns a new string with",
+          "link": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
+          "publishedOn": "2022-09-01T21:59:34.000Z",
+          "wordCount": 1182,
+          "title": "Python String.replace() – How to Replace a Character in a String",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/string-replace.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/",
+          "author": "Joel Olawanle",
+          "description": "When you're first learning to code, there are a few tools you'll typically want to decide on before getting started. You'll pick a tech stack and a programming language to learn and use, and you'll also choose an IDE, or integrated development environment, where you'll write your code. Many different",
+          "link": "https://www.freecodecamp.org/news/what-is-an-ide-for-beginners/",
+          "publishedOn": "2022-09-01T18:48:32.000Z",
+          "wordCount": 1701,
+          "title": "What is an IDE? IDE Meaning in Coding",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/",
+          "author": "Yogesh Chavan",
+          "description": "For years, Heroku has been an excellent platform to host your Full Stack applications. freeCodeCamp made heavy use of Heroku early on – as have countless open source projects.  But that may change, as Heroku is bringing its generous free tier to an end. You may have received email",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-nodejs-application-with-render/",
+          "publishedOn": "2022-09-01T16:08:27.000Z",
+          "wordCount": 1894,
+          "title": "How to Deploy Your Node.js Application for Free with Render",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-163235--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-aggregate-functions-how-to-group-by-in-mysql-and-postgresql/",
+          "author": "Kolade Chris",
+          "description": "In SQL, aggregate functions let you perform a calculation on multiple data and return a single value. That’s why they are called “aggregate” functions. Those aggregate functions are AVG(), COUNT(), SUM(), MIN(), and MAX(). While making queries with the aggregate functions, you can also use them in combination with the",
+          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-how-to-group-by-in-mysql-and-postgresql/",
+          "publishedOn": "2022-09-01T15:57:13.000Z",
+          "wordCount": 1834,
+          "title": "SQL Aggregate Functions – How to Group By in MySQL and PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/agg.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/",
+          "author": "Ashutosh Krishna",
+          "description": "Flask is a simple, easy-to-use microframework for Python that can help you build scalable and secure web applications.  Sometimes you'll find developers dumping all of their logic into a single file called app.py. You will find a lot of tutorials that follow the same pattern. But it's not a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-blueprints-to-organize-flask-apps/",
+          "publishedOn": "2022-09-01T15:25:10.000Z",
+          "wordCount": 1657,
+          "title": "How to Use Blueprints to Organize Your Flask Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/blueprints.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-lazy-load-images-in-react/",
           "author": "Victor Eke",
@@ -1518,36 +1613,6 @@
           "wordCount": 1738,
           "title": "How to Keep your Angular Data-Flow Tidy and Efficient",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-isaque-pereira-394377.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/",
-          "author": "Michael lee",
-          "description": "In this article, you will learn what the PHP programming language is and how to write your first program with it.  History of PHP PHP is the most used and popular scripting language generated for web development. You can embed it in HTML documents. PHP is written in the",
-          "link": "https://www.freecodecamp.org/news/what-is-php-write-your-first-php-program/",
-          "publishedOn": "2022-08-03T11:00:00.000Z",
-          "wordCount": 2157,
-          "title": "What is PHP? How to Write Your First PHP Program",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Untitled-2-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "When fetching data from external sources or servers, you need to make sure that the data returned is in JSON format. Then you can consume the data within your application. In some situations, when you're working locally or when you upload the data file to a server, we might want",
-          "link": "https://www.freecodecamp.org/news/how-to-read-json-file-in-javascript/",
-          "publishedOn": "2022-08-02T21:35:23.000Z",
-          "wordCount": 1516,
-          "title": "How to Read a JSON File in JavaScript – Reading JSON in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--5-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-animation-to-your-site-with-rough-notation/",
-          "author": "Njong Emy",
-          "description": "I love animating websites. It's so fun when you just look at a site, and there are cool animations that make everything look pretty.  Getting started with an animation library does not have to be hard. Anyone can add a bit of animation to their site regardless of whether",
-          "link": "https://www.freecodecamp.org/news/how-to-add-animation-to-your-site-with-rough-notation/",
-          "publishedOn": "2022-08-02T16:52:13.000Z",
-          "wordCount": 2030,
-          "title": "How to Use the Rough Notation Library to Animate Your Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Purple-Minimal-We-Are-Hiring-Twitter-Post--7-.png"
         }
       ]
     }
