@@ -184,16 +184,6 @@
           "wordCount": 1088,
           "title": "Actually, the San Francisco Typeface Does Ship as a Variable Font",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367361"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367238",
-          "author": "Onuorah Bonaventure Chukwudi",
-          "description": "With speech interfaces becoming more of a thing, it’s worth exploring some of the things we can do with speech interactions. Like, what if we could say something and have that transcribed and pumped out as a downloadable PDF?\nWell, …\nConverting Speech to PDF with NextJS and ExpressJS originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/converting-speech-to-pdf-with-nextjs-and-expressjs/",
-          "publishedOn": "2022-08-04T12:55:39.000Z",
-          "wordCount": 3218,
-          "title": "Converting Speech to PDF with NextJS and ExpressJS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367238"
         }
       ]
     },
@@ -202,6 +192,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
+          "author": "hello@smashingmagazine.com (Mike Herchel)",
+          "description": "In this article, Mike Herchel covers Drupal’s new default theme, Olivero, which is usable, accessible, robust, and beautiful and will help you improve websites’ navigation systems.",
+          "link": "https://smashingmagazine.com/2022/09/accessibility-usability-drupal-primary-navigation/",
+          "publishedOn": "2022-09-02T10:30:00.000Z",
+          "wordCount": 3981,
+          "title": "The Accessibility And Usability Journey Of Drupal’s Primary Navigation",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/98290a21-bda2-4307-b531-3f6745c5b6b5/accessibility-usability-drupal-primary-navigation.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/databases-frontend-developers-concepts-under-hood/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
@@ -471,21 +476,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
-          "link": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
-          "publishedOn": "2022-08-04T13:30:00.000Z",
-          "wordCount": 4333,
-          "title": "Rethinking Authentication UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb887d40-c454-4b48-be73-44e903492deb/magic-links-authentication.jpg"
         }
       ]
     },
@@ -494,6 +484,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
+          "author": "TAPAS ADHIKARY",
+          "description": "What comes to mind when you hear the term Open Source? In the programming world, open source is a generic term for Open Source Software (OSS). Open-source software is built on source code that's open to everyone to view, change, extend, and distribute. In this article, we will get into",
+          "link": "https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/",
+          "publishedOn": "2022-09-02T16:34:40.000Z",
+          "wordCount": 3623,
+          "title": "Open Source for Developers – A Beginner's Handbook to Help You Start Contributing",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Book-PNG.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/",
+          "author": "Spruce Emmanuel",
+          "description": "You're going to spend a lot of time working on webpages when using JavaScript. In fact, while you're using JavaScript, the webpage is where all the exciting and important stuff takes place.  A webpage is one big document for a JavaScript developer since every element on the page is",
+          "link": "https://www.freecodecamp.org/news/javascript-dom-build-a-calculator-app/",
+          "publishedOn": "2022-09-02T15:40:00.000Z",
+          "wordCount": 5529,
+          "title": "JavaScript DOM Tutorial – How to Build a Calculator App in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Web-capture_31-8-2022_83456_localhost.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/",
+          "author": "Sameer Shukla",
+          "description": "Actuator endpoints help us monitor our services. By using actuators, we can gain a lot of information about what’s going on.  SpringBoot has a number of in-built actuators, and it also allows us to create our own Actuator Endpoint.  For frameworks written in Python like Flask or FastAPI,",
+          "link": "https://www.freecodecamp.org/news/how-to-monitor-python-apis-using-pyctuator-and-springbootadmin/",
+          "publishedOn": "2022-09-02T15:02:51.000Z",
+          "wordCount": 1517,
+          "title": "How to Monitor Python APIs using Pyctuator and SpringBootAdmin",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Screen-Shot-2022-09-01-at-12.18.52-AM.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-string-replace-how-to-replace-a-character-in-a-string/",
           "author": "Dillion Megida",
@@ -1533,86 +1553,6 @@
           "wordCount": 1331,
           "title": "HTML Font Size – How to Change Text Size with an HTML Tag",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template--6-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, we'll talk about the IndexError: list index out of range error in Python.  In each section of the article, I'll highlight a possible cause for the error and how to fix it. You may get the IndexError: list index out of range error for the following",
-          "link": "https://www.freecodecamp.org/news/list-index-out-of-range-python-error-solved/",
-          "publishedOn": "2022-08-03T22:13:38.000Z",
-          "wordCount": 1840,
-          "title": "List Index Out of Range – Python Error [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/kelly-sikkema--1_RZL8BGBM-unsplash--3-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-redux-powered-react-app/",
-          "author": "Soham De Roy",
-          "description": "The Problem We're Solving In many cases when we want to create a small application, we might have some components that declare and use their own state. And in a few cases, a component might want to share the state with its immediate children. We can handle these situations just",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-redux-powered-react-app/",
-          "publishedOn": "2022-08-03T21:51:56.000Z",
-          "wordCount": 3715,
-          "title": "How to Build a Redux-Powered React App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/Group-58.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/",
-          "author": "Dionysia Lemonaki",
-          "description": "When working with a JavaScript program, there may be times when you will need to generate a random number. For example, you may want to generate a random number when developing a JavaScript game, such as a number guessing game. JavaScript has many built-in methods for working with numbers and",
-          "link": "https://www.freecodecamp.org/news/javascript-random-number-how-to-generate-a-random-number-in-js/",
-          "publishedOn": "2022-08-03T19:29:55.000Z",
-          "wordCount": 2230,
-          "title": "JavaScript Random Number – How to Generate a Random Number in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-josh-sorenson-1714208.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-sheets-use-regex-and-vlookup-to-display-images-from-google-drive/",
-          "author": "Eamonn Cottrell",
-          "description": "Images make many things better. And Google Sheets is one of those things.  The easiest way to add an image to Google Sheets is to simply insert one into your sheet.  But if you have added many images this way, you'll quickly tire of the multiple clicks it",
-          "link": "https://www.freecodecamp.org/news/google-sheets-use-regex-and-vlookup-to-display-images-from-google-drive/",
-          "publishedOn": "2022-08-03T17:03:25.000Z",
-          "wordCount": 1891,
-          "title": "Google Sheets Tutorial – How to Use Regex and VLOOKUP to Display Images from Google Drive",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/google-sheets-regex.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/",
-          "author": "Jessica Rose",
-          "description": "In 2021, the Class Central team helped my friend and me teach three cohorts of free programming bootcamps based on freeCodeCamp curricula.  We’ve been joined by over 20,000 learners from around the globe and it’s just been an honor and a delight to get to learn along with so",
-          "link": "https://www.freecodecamp.org/news/free-coding-bootcamp-learn-to-code-with-class-central-and-freecodecamp/",
-          "publishedOn": "2022-08-03T16:48:08.000Z",
-          "wordCount": 1381,
-          "title": "Free Coding Bootcamp – Learn to Code with Class Central + freeCodeCamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-sora-shimazaki-5935794--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-factorial/",
-          "author": "Ilenia Magoni",
-          "description": "A factorial is a mathematical operation that you write like this: n!. It represents the multiplication of all numbers between 1 and n. So if you were to have 3!, for example, you'd compute 3 x 2 x 1 (which = 6). Let's see how it works with some more",
-          "link": "https://www.freecodecamp.org/news/what-is-a-factorial/",
-          "publishedOn": "2022-08-03T16:32:53.000Z",
-          "wordCount": 1577,
-          "title": "What is a Factorial? How to Calculate Factorials with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/antoine-dautry-_zsL306fDck-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/page-fault-in-nonpaged-area-how-to-fix-the-error-on-a-windows-10-pc/",
-          "author": "Kolade Chris",
-          "description": "In Windows, the nonpaged area is the part of the memory that contains critical files your computer needs to function properly. Those critical files are stored in the nonpaged area so the RAM won’t switch them back and forth between itself and the paged area. Once there’s an issue with",
-          "link": "https://www.freecodecamp.org/news/page-fault-in-nonpaged-area-how-to-fix-the-error-on-a-windows-10-pc/",
-          "publishedOn": "2022-08-03T16:20:21.000Z",
-          "wordCount": 1406,
-          "title": "Page fault in nonpaged area – How to Fix the Error on a Windows 10 PC",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/bsod.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-keep-your-angular-data-flow-tidy-and-efficient/",
-          "author": "Valentine Gatwiri",
-          "description": "Developing large-scale Angular applications can feel like trying to ride a bicycle with your eyes closed and both hands tied behind your back.  The data flow in an Angular application can be extremely complex, especially when dealing with bidirectional data binding, asynchronous updates, forms, and routing.  The key",
-          "link": "https://www.freecodecamp.org/news/how-to-keep-your-angular-data-flow-tidy-and-efficient/",
-          "publishedOn": "2022-08-03T15:18:02.000Z",
-          "wordCount": 1738,
-          "title": "How to Keep your Angular Data-Flow Tidy and Efficient",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-isaque-pereira-394377.jpg"
         }
       ]
     }
