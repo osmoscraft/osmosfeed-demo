@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=372968",
+          "author": "Saleh Mubashar",
+          "description": "As the name suggests, overlapping charts visualize two different sets of data in a single diagram. The idea is that the overlapping bars allow us to compare data, say, year-over-year. They are also useful for things like tracking progress for …\nOverlapping Bar Charts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/overlapping-bar-charts/",
+          "publishedOn": "2022-09-07T13:46:58.000Z",
+          "wordCount": 2256,
+          "title": "Overlapping Bar Charts",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372968"
+        },
+        {
           "id": "https://css-tricks.com/?p=372850",
           "author": "Lu Wang",
           "description": "CSS-only Wolfenstein is a little project that I made a few weeks ago. It was an experiment with CSS 3D transformations and animations.\nInspired by the FPS demo and another Wolfenstein CodePen, I decided to build my own version. …\nHacking CSS Animation State and Playback Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -164,16 +174,6 @@
           "wordCount": 3197,
           "title": "Designing for Long-Form Articles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367370"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367369",
-          "author": "Bradley Kouchi",
-          "description": "The time for CSS-Tricks is over. Now is the time for CSS Crimes!\nIn this current landscape of content service providers, users are often limited to expressing themselves in text, links, and images. Sanitization rules tend to strip out HTML, …\nCommitting CSS Crimes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/committing-css-crimes/",
-          "publishedOn": "2022-08-09T13:01:44.000Z",
-          "wordCount": 954,
-          "title": "Committing CSS Crimes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367369"
         }
       ]
     },
@@ -466,21 +466,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a3b91182-5474-4e02-855c-30c0887948c1/core-web-vitals-tools-boost-performance.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-50/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we ask how you can affect change to UX design in large organizations stuck in their ways. Vitaly talks to Marko Dugonjić to find out.",
-          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-50/",
-          "publishedOn": "2022-08-09T08:00:00.000Z",
-          "wordCount": 8051,
-          "title": "Smashing Podcast Episode 50 With Marko Dugonjic: Can You Change A UX Dinosaur?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fe39337d-f1ba-40b2-adf2-ab97b12257a6/smashing-podcast-episode-50.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fe39337d-f1ba-40b2-adf2-ab97b12257a6/smashing-podcast-episode-50.png"
         }
       ]
     },
@@ -489,6 +474,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/",
+          "author": "Israel Mitolu",
+          "description": "Some applications require you to know your user's location, like food delivery or eCommerce apps. So you'll need an efficient way to get this info. The Geolocation API, which we will look at today, is a simple solution. You can use it to determine your users' location, local currency, language,",
+          "link": "https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/",
+          "publishedOn": "2022-09-07T18:29:36.000Z",
+          "wordCount": 1465,
+          "title": "JavaScript Geolocation API Tutorial – How to Get a User's Location in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Blog-article-cover-images--4---1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/",
+          "author": "Rajdeep Singh",
+          "description": "deb-get is a new command line utility built by Martin Wimpress [https://twitter.com/m_wimpress], an active contributor to the Linux community.  You can use this utility to install third-party packages on your Debian machine. It only works with Debian or Debian-based distros like Ubuntu, Linux mint, Kali Linux, and so on.",
+          "link": "https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/",
+          "publishedOn": "2022-09-07T18:27:17.000Z",
+          "wordCount": 1423,
+          "title": "What is deb-get? How to Install the Debian Package with the deb-get Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Debian-deb-get.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/",
+          "author": "Kolade Chris",
+          "description": "If you are using Git for version control, it’s likely you’ve created branches for various reasons. Since you have those branches in place, you might want to rename any of them if you find a typo, for example, or change the code's purpose. In this article, I will show you",
+          "link": "https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/",
+          "publishedOn": "2022-09-07T18:22:39.000Z",
+          "wordCount": 1091,
+          "title": "Renaming a Git Branch – How to Rename the Current Branch in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/git-branches.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/",
+          "author": "Zaira Hira",
+          "description": "Linux is a powerful OS with various command line utilities to help you achieve your day-to-day tasks. Removing folders is a very common operation that allows you to either remove a single folder or remove them recursively (folders within folders).  In this tutorial, we will see how we can",
+          "link": "https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/",
+          "publishedOn": "2022-09-07T18:18:33.000Z",
+          "wordCount": 1282,
+          "title": "Remove a Directory in Linux – How to Remove folders from the Command Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Copy-of-read-write-files-python--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-java-handbook/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "Java has been around since the 90s. And despite its massive success in many areas, this cross-platform, object-oriented programming language is often maligned. Regardless of how people feel about Java, I can tell you from experience is that it is an excellent programming language. After its first appearance back in",
+          "link": "https://www.freecodecamp.org/news/the-java-handbook/",
+          "publishedOn": "2022-09-07T18:05:02.000Z",
+          "wordCount": 20513,
+          "title": "The Java Handbook – Learn Java Programming for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/The-Java-Handbook.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/angular-for-beginners-course/",
+          "author": "Beau Carnes",
+          "description": "Angular is a popular TypeScript-based open-source web application framework created by Google. We just published a comprehensive 18-hour Angular course for beginners on the freeCodeCamp.org YouTube channel. In this course you will first you will learn the basics of TypeScript. Then you will learn about important Angular concepts such as",
+          "link": "https://www.freecodecamp.org/news/angular-for-beginners-course/",
+          "publishedOn": "2022-09-07T16:45:24.000Z",
+          "wordCount": 1011,
+          "title": "Angular for Beginners Course + TypeScript [Full Front-End Tutorial]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/angular.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-responsive-web-design-helps-businesses/",
           "author": "Valentine Gatwiri",
@@ -1498,66 +1543,6 @@
           "wordCount": 1931,
           "title": "Command Line Commands – CLI Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cli.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-programming-course/",
-          "author": "Beau Carnes",
-          "description": "Python is considered one of the most popular programming languages in the world and it is only growing in popularity. It's a great first language to learn. We just released an all-new Python programming course on the freeCodeCamp.org YouTube channel. My name is Beau Carnes and I created this course.",
-          "link": "https://www.freecodecamp.org/news/python-programming-course/",
-          "publishedOn": "2022-08-09T12:54:37.000Z",
-          "wordCount": 1079,
-          "title": "Free Python Programming Course [2022]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/maxresdefault-1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/",
-          "author": "Ilenia Magoni",
-          "description": "In JavaScript there are higher order methods and functions that accept a function as an argument. These functions used as arguments for other functions are called callback functions. What is a callback in JavaScript? A callback is a function passed as an argument of another function. This means that the",
-          "link": "https://www.freecodecamp.org/news/what-is-a-callback-function-in-javascript-js-callbacks-example-tutorial/",
-          "publishedOn": "2022-08-09T00:32:48.000Z",
-          "wordCount": 2684,
-          "title": "What is a Callback Function in JavaScript? JS Callbacks Example Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-39656.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
-          "author": "Zaira Hira",
-          "description": "Software development and maintenance can get complicated sometimes. And you might find yourself comparing code or configuration changes.  When you compare them manually, you might make a mistake, and it's easy to miss minute changes. Apart from that, finding changes in large files can be exhausting.  There are",
-          "link": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
-          "publishedOn": "2022-08-08T20:08:39.000Z",
-          "wordCount": 1681,
-          "title": "Linux `Vimdiff` Command – How to Compare Two Files in the Command Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/setup-git-on-mac/",
-          "author": "Joel Olawanle",
-          "description": "If you're setting up Git for the first time on a MacBook, you don't have to struggle to get it done. Maybe you just got a new laptop, or you're getting into tech for the first time with a MacBook. Either way, I've got you covered. This short article will",
-          "link": "https://www.freecodecamp.org/news/setup-git-on-mac/",
-          "publishedOn": "2022-08-08T20:07:30.000Z",
-          "wordCount": 1420,
-          "title": "How to Set Up Git for the First Time on macOS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "Style guides are important to help you deliver a consistent brand experience.  As a UI/UX designer, creating style guides is indispensable if you hope to create great user experiences and interfaces.  In this article, you will learn what a style guide is, the importance of a style guide,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
-          "publishedOn": "2022-08-08T14:35:53.000Z",
-          "wordCount": 2499,
-          "title": "How to Create a Style Guide in Figma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/style-guide.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Every programming language has certain keywords with specific, prebuilt functionalities and meanings.  Naming your variables or functions after these keywords is most likely going to raise an error. We'll discuss one of these cases in this article — the  TypeError: 'str' object is not callable error in Python.",
-          "link": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
-          "publishedOn": "2022-08-08T14:21:57.000Z",
-          "wordCount": 1205,
-          "title": "Typeerror: str object is not callable – How to Fix in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
         }
       ]
     }
