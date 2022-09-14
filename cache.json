@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373367",
+          "author": "Geoff Graham",
+          "description": "Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …\nWebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/webkit-features-in-safari-16-0/",
+          "publishedOn": "2022-09-13T16:14:13.000Z",
+          "wordCount": 1007,
+          "title": "WebKit Features in Safari 16.0",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373367"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373081",
+          "author": "Brittney Postma",
+          "description": "You’ve probably heard a lot of hype around one of the newest kids on the framework block, Remix. It may be surprising that it got its start back in 2019, but it was originally only available as a subscription-based premium …\nThe Basics of Remix originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-basics-of-remix/",
+          "publishedOn": "2022-09-13T12:59:46.000Z",
+          "wordCount": 2762,
+          "title": "The Basics of Remix",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373081"
+        },
+        {
           "id": "https://css-tricks.com/?p=372991",
           "author": "Eluda",
           "description": "Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.\nThat said, the design part of Figma has …\nBuilding Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -174,16 +194,6 @@
           "wordCount": 3747,
           "title": "Why (and How) I Write Code With Pencil and Paper",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367045"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367324",
-          "author": "Temani Afif",
-          "description": "In a previous article, I looked at CSS Grid’s ability to create complex layouts using its auto-placement powers. I took that one step further in another article that added a zooming hover effect to images in a grid layout…\nCSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-1/",
-          "publishedOn": "2022-08-15T13:13:47.000Z",
-          "wordCount": 3405,
-          "title": "CSS Grid and Custom Shapes, Part 1",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367324"
         }
       ]
     },
@@ -192,6 +202,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/wai-aria-guide/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "In this article, Kate Kalcevich explains when to use ARIA and how to use it properly so that you can use ARIA in a way that’s helpful to the many disabled people who use [assistive technology](https://makeitfable.com/glossary/?utm_source=Smashing+Magazine&utm_medium=sponsored+content&utm_campaign=Upskill&utm_term=Fable&utm_content=Sept2022) to navigate the Internet. Let’s dive in!",
+          "link": "https://smashingmagazine.com/2022/09/wai-aria-guide/",
+          "publishedOn": "2022-09-13T10:00:00.000Z",
+          "wordCount": 5029,
+          "title": "Making Sense Of WAI-ARIA: A Comprehensive Guide",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5f0e5d2-bebc-4ea0-bf42-5557f79ab433/wai-aria-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5f0e5d2-bebc-4ea0-bf42-5557f79ab433/wai-aria-guide.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -476,21 +501,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
-          "author": "hello@smashingmagazine.com (Christine Vallaure)",
-          "description": "Christine highlights some of Figma’s features and possibilities to help you build a design that aligns with code as much as needed and improve your team work.",
-          "link": "https://smashingmagazine.com/2022/08/everything-developers-must-know-about-figma/",
-          "publishedOn": "2022-08-15T11:30:00.000Z",
-          "wordCount": 6101,
-          "title": "Everything Developers Must Know About Figma",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57ba237f-8cb7-48aa-8538-93a3fe26d997/everything-developers-must-know-about-figma.jpg"
         }
       ]
     },
@@ -499,6 +509,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/",
+          "author": "Rajdeep Singh",
+          "description": "Deno is a runtime for JavaScript and TypeScript. The creator of Node.js built it, and while Node is built with C and C++, Deno is built with the Rust language. You might be wondering what some of the main differences between Node and Deno are. Well, Rust is a low-level",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/",
+          "publishedOn": "2022-09-13T16:46:28.000Z",
+          "wordCount": 2550,
+          "title": "How to Create a Static Markdown Blog with Deno and Deploy It",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Create-a-Static-Markdown-Blog-with-Deno.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/",
+          "author": "Kolade Chris",
+          "description": "In Python, a dictionary is a fat structure that is unordered by default. So, sometimes, you'll want to sort dictionaries by key or value to make queries easier. The problem is that sorting a dictionary by value is never a straightforward thing to do. That’s because Python doesn’t have an",
+          "link": "https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/",
+          "publishedOn": "2022-09-13T15:16:42.000Z",
+          "wordCount": 2001,
+          "title": "Sort Dictionary by Value in Python – How to Sort a Dict",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/sortDictByValue.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-change-text-color-in-html/",
           "author": "Joel Olawanle",
