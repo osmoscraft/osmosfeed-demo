@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373100",
+          "author": "Daniel Schwarz",
+          "description": "Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …\nWhen is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/when-is-it-ok-to-disable-text-selection/",
+          "publishedOn": "2022-09-14T13:03:04.000Z",
+          "wordCount": 2169,
+          "title": "When is it OK to Disable Text Selection?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373100"
+        },
+        {
           "id": "https://css-tricks.com/?p=373367",
           "author": "Geoff Graham",
           "description": "Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …\nWebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -202,6 +212,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.",
+          "link": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
+          "publishedOn": "2022-09-14T10:00:00.000Z",
+          "wordCount": 5404,
+          "title": "JavaScript APIs You Don’t Know About",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b583db40-b8c0-46c4-9893-5a7ae3d00453/api-page-visibility-web-sharing-broadcast-channel-internationalization.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/wai-aria-guide/",
           "author": "hello@smashingmagazine.com (Kate Kalcevich)",
@@ -486,21 +511,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "With the “Back” button, users often get confused and frustrated. How to design a better back button UX and where to put those “Back” buttons in our interfaces.",
-          "link": "https://smashingmagazine.com/2022/08/back-button-ux-design/",
-          "publishedOn": "2022-08-16T09:00:00.000Z",
-          "wordCount": 4327,
-          "title": "Designing A Better Back Button UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa18317f-4169-4c0d-aeb5-0b8f8714ef1f/designing-better-back-button-ux.jpg"
         }
       ]
     },
@@ -509,6 +519,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-pivot-table-in-excel/",
+          "author": "Kolade Chris",
+          "description": "In Excel, pivot tables let you analyze and visualize your data in an easy way. With pivot tables, you can make comparisons and create calculations more quickly. You can even create charts to visualize your data. Creating pivot tables might be intimidating if you're doing it for the first time.",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-pivot-table-in-excel/",
+          "publishedOn": "2022-09-14T22:35:36.000Z",
+          "wordCount": 1633,
+          "title": "How to Create a Pivot Table in Excel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pivotTable.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-evaluate-machine-learning-models-using-tensorboard/",
+          "author": "Salim Oyinlola",
+          "description": "Improving a Machine Learning model is an iterative process. No machine learning model is ever perfect on the first attempt at training it. It usually takes a few iterations.  But a common mistake you might make as a Machine Learning practitioner is failing to realize that you need to",
+          "link": "https://www.freecodecamp.org/news/how-to-evaluate-machine-learning-models-using-tensorboard/",
+          "publishedOn": "2022-09-14T18:31:32.000Z",
+          "wordCount": 1897,
+          "title": "How to Evaluate Machine Learning Models using TensorBoard with TensorFlow",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/TensorFlow_Logo_with_text.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/",
+          "author": "Beau Carnes",
+          "description": "Almost every website in the world uses HTML and CSS. So you should definitely learn them if you want to create websites. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build websites with HTML and CSS. Per Borgan created this course. Per",
+          "link": "https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/",
+          "publishedOn": "2022-09-14T18:15:01.000Z",
+          "wordCount": 915,
+          "title": "Learn HTML and CSS from the CEO of Scrimba",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/htmlcss.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/",
+          "author": "Gavin Lon",
+          "description": "I’ve been a professional software engineer for many years, and I can testify that there are few things worse than getting the dreaded BSOD (Blue Screen of Death). Especially when you are about to write a piece of mind bending code at 2am to meet a looming deadline.  That’s",
+          "link": "https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/",
+          "publishedOn": "2022-09-14T15:41:50.000Z",
+          "wordCount": 2480,
+          "title": "Kernel Security Check Failure – How to Restart the Kernel in Windows 10",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/ScreenShot1_BSOD_Anger.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-i-learned-teaching-20-hs-girls-to-code/",
+          "author": "Kylie Ying",
+          "description": "On day 1, they barely knew what a float was. On day 14, they had programmed a game of minesweeper, a cipher decoder, or a zombie apocalypse simulation. And I helped teach them how to do it. Each summer, MIT hosts a program called WTP, or Women's Technology Program.",
+          "link": "https://www.freecodecamp.org/news/what-i-learned-teaching-20-hs-girls-to-code/",
+          "publishedOn": "2022-09-14T14:46:14.000Z",
+          "wordCount": 1815,
+          "title": "What I Learned Teaching 20 High School Girls How to Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-pixabay-207691.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/",
+          "author": "Beau Carnes",
+          "description": "When should you use a SQL database and when should you use a NoSQL database? We just published a course on the freeCodeCamp.org YouTube channel that will teach you the differences between NoSQL and SQL databases as well as when and why to use each kind of database. Ania Kubow",
+          "link": "https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/",
+          "publishedOn": "2022-09-14T03:38:22.000Z",
+          "wordCount": 874,
+          "title": "SQL vs NoSQL: When to Use Which",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/maxresdefault.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/",
           "author": "Rajdeep Singh",
@@ -1548,66 +1618,6 @@
           "wordCount": 1162,
           "title": "Git Delete Remote Branch – How to Remove a Remote Branch in Git",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/direction-2320124_1920.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
-          "author": "Zaid Humayun",
-          "description": "Identifying performance issues has always been the holy grail of engineering. You want to be known as the software engineer who's able to diagnose and rectify the performance issue that came up in production. It really adds credibility to your engineering chops. We had an issue at work recently that",
-          "link": "https://www.freecodecamp.org/news/improve-aws-performance-without-spending-more-money/",
-          "publishedOn": "2022-08-15T21:50:26.000Z",
-          "wordCount": 3245,
-          "title": "How to Improve AWS Performance Without Spending More Money",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-howard-adams-575835.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-upgrade-postgres-major-versions-with-near-zero-downtime/",
-          "author": "Wenbin Fang",
-          "description": "It's impossible to create zero-downtime Postgres upgrades across major versions – right? Please, correct me if I’m wrong :)  But at least we’ve found a way to get close to zero downtime.  * PostgreSQL Upgrades are hard!    [https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html]  * How Retool upgraded our 4",
-          "link": "https://www.freecodecamp.org/news/how-to-upgrade-postgres-major-versions-with-near-zero-downtime/",
-          "publishedOn": "2022-08-15T21:42:14.000Z",
-          "wordCount": 2422,
-          "title": "How to Upgrade Postgres Major Versions with Near-Zero Downtime – a Practical Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Listen-Score-loves-postgres.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/",
-          "author": "Spruce Emmanuel",
-          "description": "JavaScript allows you to make dynamic web sites. It's the final part of the web development trinity with HTML and CSS, and you use it to make your static pages dynamic. You'll likely start learning JavaScript as soon as you've covered the basics of HTML and CSS. Then, after some",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/",
-          "publishedOn": "2022-08-15T20:31:44.000Z",
-          "wordCount": 3150,
-          "title": "Learn JavaScript Basics by Building a Counter Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-antonio-batinic--4164418--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/my-first-year-as-a-professional-developer-tips-for-getting-into-tech/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article I'll share my thoughts on my first year of professional experience as a software developer. It's almost been two years since I got into coding and a year since I became a full-time dev.  I started writing this article merely as a self-reflection exercise.",
-          "link": "https://www.freecodecamp.org/news/my-first-year-as-a-professional-developer-tips-for-getting-into-tech/",
-          "publishedOn": "2022-08-15T20:24:37.000Z",
-          "wordCount": 7529,
-          "title": "My First Year as a Professional Developer – Tips for Getting into Tech",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/jiangxulei1990-feX-KFWRR5o-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-stardew-valley-using-python-and-pygame/",
-          "author": "Beau Carnes",
-          "description": "Stardew Valley is a popular open-ended country-life RPG video game. But instead of just playing the game, why not code your own version of the game? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a Stardew Valley game clone using",
-          "link": "https://www.freecodecamp.org/news/create-stardew-valley-using-python-and-pygame/",
-          "publishedOn": "2022-08-15T18:09:11.000Z",
-          "wordCount": 891,
-          "title": "Create Stardew Valley Using Python and Pygame",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pydew.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/",
-          "author": "Jessica Wilkins",
-          "description": "If you're studying to become a professional software developer, you might be wondering what a software developer does everyday on the job. In this article, I will talk about the typical day of a software developer and what to expect on the job.  Main Responsibilities of a Software Developer",
-          "link": "https://www.freecodecamp.org/news/what-does-a-software-developer-do-software-engineer-career-overview/",
-          "publishedOn": "2022-08-15T14:11:52.000Z",
-          "wordCount": 1970,
-          "title": "What Does a Software Developer Do? Software Engineer Career Overview",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/desola-lanre-ologun-IgUR1iX0mqM-unsplash.jpg"
         }
       ]
     }
