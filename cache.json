@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373372",
+          "author": "Geoff Graham",
+          "description": "A lot of chatter around the ol’ <details> and <summary> elements lately! I saw Lea Verou recently tweet an observation about the element’s display behavior and that sorta splintered into more observations and usage notes from folks, including a revived …\nMore Details on `details` originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/more-details-on-details/",
+          "publishedOn": "2022-09-15T13:12:40.000Z",
+          "wordCount": 2146,
+          "title": "More Details on `details`",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373372"
+        },
+        {
           "id": "https://css-tricks.com/?p=373100",
           "author": "Daniel Schwarz",
           "description": "Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …\nWhen is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -194,16 +204,6 @@
           "wordCount": 1272,
           "title": "When Do You Use CSS Columns?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372539"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367045",
-          "author": "Preethi",
-          "description": "If the thought of handwriting code seems silly, it might surprise you to know that it’s inevitable. If you’re unsure, think about the last job interview you did, and remember how there was no computer around in the interview room …\nWhy (and How) I Write Code With Pencil and Paper originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/why-and-how-i-write-code-with-pencil-and-paper/",
-          "publishedOn": "2022-08-17T13:21:17.000Z",
-          "wordCount": 3747,
-          "title": "Why (and How) I Write Code With Pencil and Paper",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367045"
         }
       ]
     },
@@ -212,6 +212,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/accessibility-times-headless/",
+          "author": "hello@smashingmagazine.com (Josefine Schaefer)",
+          "description": "Do you want to make your new website as accessible as possible? Amazing, that’s a great mindset! Let’s have a closer look at the factors you should take into consideration when choosing a content management system (CMS) in terms of web accessibility.",
+          "link": "https://smashingmagazine.com/2022/09/accessibility-times-headless/",
+          "publishedOn": "2022-09-15T10:00:00.000Z",
+          "wordCount": 4875,
+          "title": "Accessibility In Times Of Headless",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32d09a45-70c2-413d-9028-58773032baab/accessibility-times-headless.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32d09a45-70c2-413d-9028-58773032baab/accessibility-times-headless.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/javascript-api-guide/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
@@ -520,6 +535,36 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/",
+          "author": "Dionysia Lemonaki",
+          "description": "Data Science is one of the most in-demand and desirable careers of the 21st century. Even though the term was introduced in the early 1960s, its meaning has changed considerably over time. And despite its rise in popularity in recent years, many people outside the field still find the term",
+          "link": "https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/",
+          "publishedOn": "2022-09-15T20:11:02.000Z",
+          "wordCount": 3184,
+          "title": "What is Data Science? What a Data Scientist Actually Does",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-alex-knight-2599244.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/animate-react-apps/",
+          "author": "Reed Barger",
+          "description": "Animations have the powerful ability to turn a boring, static application into a more dynamic, memorable experience for your users.  In general, animations can be quite difficult to set up, especially if you intend to animate multiple components in your app.  In this tutorial, we will see how",
+          "link": "https://www.freecodecamp.org/news/animate-react-apps/",
+          "publishedOn": "2022-09-15T19:56:57.000Z",
+          "wordCount": 1702,
+          "title": "How to Animate Your React Apps with 1 Line of Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/mugshotbot.com_customize_color-red-image-9129875b-mode-dark-pattern-topography-theme-two_up-url-https___freecodecamp.org.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-install-kali-linux/",
+          "author": "Daniel Iwugo",
+          "description": "Kali Linux (formerly known as BackTrack) is an open-source Linux distro developed and funded by Offensive Security.  It’s basically an ethical hacker's dream operating system, because it has most of the tools you'll ever need built-in. From Metasploit to JohntheRipper to the one and only Aircrack-ng, this OS has",
+          "link": "https://www.freecodecamp.org/news/how-to-install-kali-linux/",
+          "publishedOn": "2022-09-15T19:37:37.000Z",
+          "wordCount": 2418,
+          "title": "How to Install Kali Linux on Your Computer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/install-kali-linux-article-image.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-create-a-pivot-table-in-excel/",
           "author": "Kolade Chris",
           "description": "In Excel, pivot tables let you analyze and visualize your data in an easy way. With pivot tables, you can make comparisons and create calculations more quickly. You can even create charts to visualize your data. Creating pivot tables might be intimidating if you're doing it for the first time.",
@@ -548,6 +593,16 @@
           "wordCount": 915,
           "title": "Learn HTML and CSS from the CEO of Scrimba",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/htmlcss.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling/",
+          "author": "Rishabh Rawat",
+          "description": "There is more to scalability than using cluster mode. In this tutorial, we'll explore 10 ways you can make your Node.js API ready to scale. When working on a project, we often get a few real nuggets here and there on how to do something in a better way. We",
+          "link": "https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling/",
+          "publishedOn": "2022-09-14T16:59:00.000Z",
+          "wordCount": 5604,
+          "title": "Best Practices for Scaling Your Node.js REST APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Node.js-Best-Practices-1.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/",
@@ -1568,56 +1623,6 @@
           "wordCount": 1638,
           "title": "How to Run Android Games on Linux with Android-x86",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/jose-article-photo.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-open-source-software/",
-          "author": "Destiny Erhabor",
-          "description": "In this article, we'll talk about open source software. Open source software is often considered free software.  In this article, I'll give a high-level explanation of what open source software (OSS) really is, its advantages in the modern technological world, how to use it, and some best practices to",
-          "link": "https://www.freecodecamp.org/news/what-is-open-source-software/",
-          "publishedOn": "2022-08-16T20:23:53.000Z",
-          "wordCount": 3929,
-          "title": "What is Open Source? How to Contribute to OSS Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ben-taylor-109998.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
-          "author": "Joel Olawanle",
-          "description": "When you're working on the front-end of a web page, you sometimes need to center an image within a div (container). This can become tricky at times. And based on certain conditions, a particular method may not work at some point, leaving you searching for alternatives. In this article, you",
-          "link": "https://www.freecodecamp.org/news/how-to-center-an-image-in-a-div-css/",
-          "publishedOn": "2022-08-16T19:32:10.000Z",
-          "wordCount": 2099,
-          "title": "CSS Image Centering – How to Center an Image in a Div",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
-          "author": "Chinwendu Enyinna",
-          "description": "Regular expressions (regex) are a useful programming tool. They are key to efficient text processing. Knowing how to solve problems using regex is helpful to you as a developer and improves your productivity.  In this article, you will learn about the fundamentals of regular expressions, regular expression pattern notation,",
-          "link": "https://www.freecodecamp.org/news/regular-expressions-for-beginners/",
-          "publishedOn": "2022-08-16T17:51:48.000Z",
-          "wordCount": 3459,
-          "title": "How to Use Regular Expressions in JavaScript – Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/regex-image-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/http-vs-https/",
-          "author": "Annoh Karlgusta",
-          "description": "We interact with HTTP and HTTPS a lot in our day-to-day lives, but many people don't know the difference. Most computer users just see that the browser is telling them their application is not safe and that a hacker might want to steal their important information. This leads to users",
-          "link": "https://www.freecodecamp.org/news/http-vs-https/",
-          "publishedOn": "2022-08-16T17:47:14.000Z",
-          "wordCount": 2955,
-          "title": "HTTP vs HTTPS – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/HTTP-VS-HTTPS.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
-          "author": "Kolade Chris",
-          "description": "When you're working with Git, you might want to delete remote branches pushed to a platform like GitHub for various reasons. In this article, I will show you how to delete a remote branch in Git. But firstly, let’s look at how to delete a local branch. I’ll use Git",
-          "link": "https://www.freecodecamp.org/news/git-delete-remote-branch/",
-          "publishedOn": "2022-08-16T17:20:10.000Z",
-          "wordCount": 1162,
-          "title": "Git Delete Remote Branch – How to Remove a Remote Branch in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/direction-2320124_1920.jpg"
         }
       ]
     }
