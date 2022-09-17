@@ -194,16 +194,6 @@
           "wordCount": 4517,
           "title": "CSS Grid and Custom Shapes, Part 2",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372396"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372539",
-          "author": "Geoff Graham",
-          "description": "That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.\nThe answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …\nWhen Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/when-do-you-use-css-columns/",
-          "publishedOn": "2022-08-18T13:24:48.000Z",
-          "wordCount": 1272,
-          "title": "When Do You Use CSS Columns?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372539"
         }
       ]
     },
@@ -212,6 +202,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
+          "author": "hello@smashingmagazine.com (Matt Athanasiou)",
+          "description": "How can companies change their rating and review systems to better benefit users? Matt Athanasiou shares some steps to improve the experience of reviewing literature and other products — while also building stronger connections.",
+          "link": "https://smashingmagazine.com/2022/09/rethinking-star-ratings-readers/",
+          "publishedOn": "2022-09-16T10:00:00.000Z",
+          "wordCount": 4898,
+          "title": "Rethinking Star Ratings For Readers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4c500c4a-f0b4-4348-9136-951d1b38afde/rethinking-star-ratings-readers.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/accessibility-times-headless/",
           "author": "hello@smashingmagazine.com (Josefine Schaefer)",
@@ -511,21 +516,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/59a0f37a-cd1e-4a3c-abaf-bbf803d81034/implementing-reset-password-feature-nextjs-dynamic-routes-sharing-card.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
-          "author": "hello@smashingmagazine.com (Evyatar Alush)",
-          "description": "React popularized context-propagation within applications with the context API. Evyatar Alush brings a brief intro to context propagation in JavaScript and how you can build React Context yourself.",
-          "link": "https://smashingmagazine.com/2022/08/react-context-propagation-javascript/",
-          "publishedOn": "2022-08-18T09:00:00.000Z",
-          "wordCount": 4631,
-          "title": "An Introduction To Context Propagation In JavaScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0e43048-1771-47ed-bb3b-be007358d056/react-context-propagation-javascript.jpg"
         }
       ]
     },
@@ -534,6 +524,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/",
+          "author": "Joel Olawanle",
+          "description": "Images play a significant role on our web pages. They help explain concepts better, make our web pages visually attractive, and lots more. In HTML, you use the  tag to embed an image into your web page. This  tag has two required attributes: src to specify the path",
+          "link": "https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/",
+          "publishedOn": "2022-09-16T20:39:17.000Z",
+          "wordCount": 2031,
+          "title": "What is Alt Text? Image Alt Text HTML Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-stripe-payments/",
+          "author": "Reed Barger",
+          "description": "Payments are an essential part of any online business. But the process of setting up those payments can be incredibly complex at times.  To accept payments, developers were traditionally required to set up code both on the client and server. This was in addition to learning complex third-party APIs",
+          "link": "https://www.freecodecamp.org/news/react-stripe-payments/",
+          "publishedOn": "2022-09-16T18:55:26.000Z",
+          "wordCount": 1907,
+          "title": "How to Accept Payments with React and Stripe",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/mugshotbot.com_customize_color-blue-image-00471e9c-mode-light-pattern-bank_note-theme-two_up-url-https___freecodecamp.org.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dictionary-comprehension-in-python-dict-comprehensions-explained/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use Dictionaries [/news/python-add-to-dictionary-adding-an-item-to-a-dict/]in Python to store data in key and value pairs.  And you can use dictionary comprehension to create a new dictionary from an already existing one.  When creating a new dictionary using dictionary comprehension, you can perform various operations using expressions to determine the",
+          "link": "https://www.freecodecamp.org/news/dictionary-comprehension-in-python-dict-comprehensions-explained/",
+          "publishedOn": "2022-09-16T18:47:35.000Z",
+          "wordCount": 1712,
+          "title": "Dictionary Comprehension in Python – Dict Comprehensions Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/element5-digital-OyCl7Y4y0Bk-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-python-to-scrape-app-store-reviews/",
+          "author": "Shittu Olumide",
+          "description": "Data scraping, commonly referred to as web scraping, is a technique for getting data and content from the internet.  You usually keep this information in a local file so that you can change and inspect it as needed.  Web scraping is basically just copying and pasting content from",
+          "link": "https://www.freecodecamp.org/news/how-to-use-python-to-scrape-app-store-reviews/",
+          "publishedOn": "2022-09-16T18:04:19.000Z",
+          "wordCount": 1468,
+          "title": "How to Use Python to Scrape App Store Reviews",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Shittu-Olumide-How-to-use-Python-to-scrape-App-Store-reviews-Freecodecamp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/edge-cloud-microservices-with-wasmedge-and-rust/",
+          "author": "Michael Yuan",
+          "description": "The edge cloud allows developers to deploy microservices (that is, fine-grained web services) close to their users. This gives them a better user experience (and very fast response times), security, and high availability.  It also leverages local or even private data centers, CDN networks, and telecomm data centers (for",
+          "link": "https://www.freecodecamp.org/news/edge-cloud-microservices-with-wasmedge-and-rust/",
+          "publishedOn": "2022-09-16T17:43:57.000Z",
+          "wordCount": 2445,
+          "title": "Edge Cloud Microservices – How to Build High Performance & Secure Apps with WasmEdge and Rust",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/richard-r-schunemann-DD3VNthK_Kw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/white-hat-black-hat-red-hat-hackers/",
+          "author": "Daniel Iwugo",
+          "description": "Welcome to the movies, everyone! 🍿 Have you ever heard the term white hat or black hat hacker, and wondered what it means? Well, in this article, you will learn how hackers are classified by comparing them to a Marvel or DC hero that more or less represents them and",
+          "link": "https://www.freecodecamp.org/news/white-hat-black-hat-red-hat-hackers/",
+          "publishedOn": "2022-09-16T17:07:40.000Z",
+          "wordCount": 1846,
+          "title": "What are White Hat, Black Hat, and Red Hat Hackers? Different Types of Hacking Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/hacking-hats.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/numbers-and-dates-in-javascript/",
+          "author": "Kedar Makode",
+          "description": "Numbers, dates, and timers are important parts of JavaScript. And you'll need to know how to work with them when writing your code. We often ignore these topics as many articles don't discuss them. So here, we'll dive deep into the techniques you can use and learn some interesting things",
+          "link": "https://www.freecodecamp.org/news/numbers-and-dates-in-javascript/",
+          "publishedOn": "2022-09-16T15:42:30.000Z",
+          "wordCount": 1952,
+          "title": "How to Work with Numbers and Dates in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Frame-388--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/",
+          "author": "Beau Carnes",
+          "description": "Jenkins is an open source automation server which makes it easier to build, test, and deploy software. We just published a video course on the freeCodeCamp.org YouTube channel that will teach you about Jenkins by showing you how to build a CI/CD pipeline for a web application.  Gwendolyn Faraday",
+          "link": "https://www.freecodecamp.org/news/learn-jenkins-by-building-a-ci-cd-pipeline/",
+          "publishedOn": "2022-09-16T14:10:10.000Z",
+          "wordCount": 896,
+          "title": "Learn Jenkins by Building a CI/CD Pipeline",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/jenkins.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When handling logic with JavaScript, you might need to compare two arrays to see if they are equal or not. Really, this shouldn't be difficult, as you'd think we could easily use either the loose equality (double equals - ==) or the strict equality (triple equals -  ===). But",
+          "link": "https://www.freecodecamp.org/news/how-to-compare-arrays-in-javascript/",
+          "publishedOn": "2022-09-16T00:15:56.000Z",
+          "wordCount": 1785,
+          "title": "Comparing Arrays in JavaScript – How to Compare 2 Arrays in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-data-science-what-a-data-scientist-actually-does/",
           "author": "Dionysia Lemonaki",
@@ -1593,36 +1673,6 @@
           "wordCount": 1011,
           "title": "Learn C Programming Using the Classic Book by Kernighan and Ritchie",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cprogramming.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-trello-to-manage-freelance-web-projects/",
-          "author": "Eamonn Cottrell",
-          "description": "I've recently wrapped up a freelance client website using Trello [https://trello.com/] for project management.  I've wasted hours on projects in the past due to a lack of organization, processes, and general good practices. So this time I wanted to sharpen my project management skills in a way that would",
-          "link": "https://www.freecodecamp.org/news/how-to-use-trello-to-manage-freelance-web-projects/",
-          "publishedOn": "2022-08-17T20:51:45.000Z",
-          "wordCount": 2053,
-          "title": "Freelance Project Management – 10 Tips to Help You Work with Clients",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/trello-project-mgmt.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/",
-          "author": "Dionysia Lemonaki",
-          "description": "Computer Science is one of the most popular STEM majors. STEM stands for Science Technology Engineering and Mathematics. Computer Science is popular because it offers promising and diverse job prospects in several industries, along with job security and a generally comfortable starting salary. Now, you may be wondering what Computer",
-          "link": "https://www.freecodecamp.org/news/what-is-a-computer-scientist-what-exactly-do-cs-majors-do/",
-          "publishedOn": "2022-08-17T16:49:57.000Z",
-          "wordCount": 2588,
-          "title": "What is a Computer Scientist? What Exactly Do CS Majors Do?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-pixabay-207691.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/run-android-games-on-linux/",
-          "author": "Jose Vicente Nunez",
-          "description": "In this article, you'll learn how you can use virtual machines on Linux while having fun with vintage games. If you have an Android phone, one of your guilty pleasures might be playing some very entertaining games. Or it could be that there is an application that only runs on",
-          "link": "https://www.freecodecamp.org/news/run-android-games-on-linux/",
-          "publishedOn": "2022-08-17T16:09:12.000Z",
-          "wordCount": 1638,
-          "title": "How to Run Android Games on Linux with Android-x86",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/jose-article-photo.jpeg"
         }
       ]
     }
