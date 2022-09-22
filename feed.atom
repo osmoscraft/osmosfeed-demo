@@ -2,10 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-21T02:02:40.811Z</updated>
+    <updated>2022-09-22T01:49:19.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use CSS Combinators to Select and Style Elements]]></title>
+        <id>https://www.freecodecamp.org/news/css-combinators-to-select-elements/</id>
+        <link href="https://www.freecodecamp.org/news/css-combinators-to-select-elements/"/>
+        <updated>2022-09-21T23:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
+        <id>https://css-tricks.com/?p=373639</id>
+        <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
+        <updated>2022-09-21T21:53:44.000Z</updated>
+        <summary type="html"><![CDATA[The latest spec:
+A style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.
+Louis Lazaris:
+As the above quote from W3C indicates, it seems 
+…
+CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Remove Last Commit – How to Undo a Commit in Git]]></title>
+        <id>https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/</id>
+        <link href="https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/"/>
+        <updated>2022-09-21T17:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generic PNP Monitor – How to Fix Windows 10 PC Device Driver]]></title>
+        <id>https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/</id>
+        <link href="https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/"/>
+        <updated>2022-09-21T16:18:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Software Testing? A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/software-testing-beginners-guide/</id>
+        <link href="https://www.freecodecamp.org/news/software-testing-beginners-guide/"/>
+        <updated>2022-09-21T16:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Software testing is essential to development. It saves you time and money in production mode.  But software testing is a complex topic and can be a bit difficult to understand. In this article, I'll explain the major topics in software testing and how this practice can help you.]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp is Building a NEAR Curriculum]]></title>
+        <id>https://www.freecodecamp.org/news/near-curriculum/</id>
+        <link href="https://www.freecodecamp.org/news/near-curriculum/"/>
+        <updated>2022-09-21T15:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 9 months, several of our instructors have been hard at work on a comprehensive NEAR curriculum. This will focus on NEAR's blockchain protocol and the NEAR tool ecosystem. This curriculum is made possible by NEAR Foundation, who gave our charity a grant to 100% fund development of]]></summary>
+        <author>
+            <name>Tom Mondloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp is Building a Solana Curriculum]]></title>
+        <id>https://www.freecodecamp.org/news/solana-curriculum/</id>
+        <link href="https://www.freecodecamp.org/news/solana-curriculum/"/>
+        <updated>2022-09-21T15:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 9 months, we've made considerable progress on our Solana curriculum. This will focus on Solana's blockchain protocol and the Solana tool ecosystem. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this]]></summary>
+        <author>
+            <name>Tom Mondloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it]]></title>
+        <id>https://www.freecodecamp.org/news/web3-curriculum-open-beta/</id>
+        <link href="https://www.freecodecamp.org/news/web3-curriculum-open-beta/"/>
+        <updated>2022-09-21T14:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation]]></summary>
+        <author>
+            <name>Tom Mondloch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Inline Validation UX]]></title>
+        <id>https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/</id>
+        <link href="https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/"/>
+        <updated>2022-09-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Props in React.js]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/</id>
@@ -1509,100 +1604,6 @@ Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originall
         <summary type="html"><![CDATA[Back in the day, web developers, front-end engineers, and UI designers had a bit of an easier job. This is because they weren't expected to rearrange their code and designs to fit so many different screen sizes.  But in today's world, if you make a decision that doesn't take]]></summary>
         <author>
             <name>Damla Erkiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Removing jQuery from GOV.UK]]></title>
-        <id>https://css-tricks.com/?p=372485</id>
-        <link href="https://css-tricks.com/removing-jquery-from-gov-uk/"/>
-        <updated>2022-08-23T13:04:31.000Z</updated>
-        <summary type="html"><![CDATA[The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …
-Removing jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Bradley Kouchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?]]></title>
-        <id>https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/</id>
-        <link href="https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/"/>
-        <updated>2022-08-23T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown Cheat Sheet – How to Write Articles in Markdown Language]]></title>
-        <id>https://www.freecodecamp.org/news/markdown-cheatsheet/</id>
-        <link href="https://www.freecodecamp.org/news/markdown-cheatsheet/"/>
-        <updated>2022-08-22T22:16:38.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, you have likely heard of HTML [https://en.wikipedia.org/wiki/HTML], which stands for HyperText Markup L anguage. And you may know that HTML is a language used to create websites – but what does  markup mean? Markup languages [https://techterms.com/definition/markup_language] are languages that use tags to define different elements within]]></summary>
-        <author>
-            <name>Kealan Parr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate WordPress Posts Automatically with Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/"/>
-        <updated>2022-08-22T20:55:16.000Z</updated>
-        <summary type="html"><![CDATA[If you run a website, you are aware of the importance of content. It's important for your web presence, to help you be recognized as a leader in your field, to improve your SEO ranking, to increase your audience, and more. WordPress is one of the most popular and widely-used]]></summary>
-        <author>
-            <name>Marco Venturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Round to 2 Decimal Places in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/"/>
-        <updated>2022-08-22T17:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Python provides many math methods for mathematical operations such as square roots, exponents, and so on. In this article, I will show you how to round up a number to a specified decimal place. What is a Decimal Place? Look at this number: 324.89. Each number here has a position]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Your Node.js API]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/"/>
-        <updated>2022-08-22T17:16:36.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will walk you through some of the best methods to optimize APIs written in Node.js. Prerequisites To get the most out of this article, you will need an understanding of the following concepts:  * Node.js setup and installation  * How to build APIs with]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained]]></title>
-        <id>https://www.freecodecamp.org/news/programming-naming-conventions-explained/</id>
-        <link href="https://www.freecodecamp.org/news/programming-naming-conventions-explained/"/>
-        <updated>2022-08-22T15:16:55.000Z</updated>
-        <summary type="html"><![CDATA[If you've been programming for a while, you may have heard the words "camel case" or "pascal case". And maybe you're wondering what those terms mean. Well, let me explain. What are Naming Conventions in Programming? Apart from the hard and fast rules that we get with every programming language,]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Developer Certification (AZ-204) – Pass the Exam With This Free 13.5-Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/</id>
-        <link href="https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/"/>
-        <updated>2022-08-22T14:51:47.000Z</updated>
-        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Developer Certification by completing this free 13-hour course. What is Microsoft Azure Developer Associate? The Microsoft Azure Developer Associate (commonly known as the AZ-204) is a Microsoft Azure certification focused on building web-applications on-top of Azure cloud services.]]></summary>
-        <author>
-            <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 2]]></title>
-        <id>https://css-tricks.com/?p=372396</id>
-        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-2/"/>
-        <updated>2022-08-22T14:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.
-Here’s just one of the fantastic grids we made together:
-CodePen…
-CSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
 </feed>

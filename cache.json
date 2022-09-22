@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373639",
+          "author": "Geoff Graham",
+          "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-rules-vs-css-rulesets/",
+          "publishedOn": "2022-09-21T21:53:44.000Z",
+          "wordCount": 922,
+          "title": "CSS Rules vs. CSS Rulesets",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
+        },
+        {
           "id": "https://css-tricks.com/?p=373167",
           "author": "Preethi",
           "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -194,26 +204,6 @@
           "wordCount": 1690,
           "title": "Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372576"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372485",
-          "author": "Bradley Kouchi",
-          "description": "The GOV.UK team recently published “How and why we removed jQuery from GOV.UK“. This was an insightful look at how an organization can assess its tooling and whether something is still the best tool for the job. This …\nRemoving jQuery from GOV.UK originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/removing-jquery-from-gov-uk/",
-          "publishedOn": "2022-08-23T13:04:31.000Z",
-          "wordCount": 946,
-          "title": "Removing jQuery from GOV.UK",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372485"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372396",
-          "author": "Temani Afif",
-          "description": "Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.\nHere’s just one of the fantastic grids we made together:\nCodePen…\nCSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-grid-and-custom-shapes-part-2/",
-          "publishedOn": "2022-08-22T14:08:39.000Z",
-          "wordCount": 4517,
-          "title": "CSS Grid and Custom Shapes, Part 2",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372396"
         }
       ]
     },
@@ -222,6 +212,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Inline validation in web forms is useful when it works, but frustrating when it fails. Too often it leads to an endless stream of disruptive error messages or dead-ends without any chance of getting out. Let’s fix it.",
+          "link": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
+          "publishedOn": "2022-09-21T11:30:00.000Z",
+          "wordCount": 6436,
+          "title": "Designing Better Inline Validation UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/64066efe-71fa-45b6-8e86-caf46c423b64/clean-up-input-ux-pattern.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-53/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
@@ -536,21 +541,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/746fe02f-c535-4bb9-bb61-f30467af2a58/better-video-streaming-with-imgix.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask how you can prove the value of a Design System and how you can pitch it effectively to stakeholders. Vitaly talks to Ben Callahan to find out more.",
-          "link": "https://smashingmagazine.com/2022/08/smashing-podcast-episode-51/",
-          "publishedOn": "2022-08-23T12:00:00.000Z",
-          "wordCount": 10151,
-          "title": "Smashing Podcast Episode 51 With Ben Callahan: What’s The Value Of A Design System?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/743ac53b-8c92-43c0-bf35-5adf4d662417/smashing-podcast-episode-51.png"
         }
       ]
     },
@@ -559,6 +549,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
+          "author": "Dillion Megida",
+          "description": "Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If",
+          "link": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
+          "publishedOn": "2022-09-21T23:17:05.000Z",
+          "wordCount": 1742,
+          "title": "How to Use CSS Combinators to Select and Style Elements",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/css-combinations.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is",
+          "link": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
+          "publishedOn": "2022-09-21T17:42:10.000Z",
+          "wordCount": 2004,
+          "title": "Git Remove Last Commit – How to Undo a Commit in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-andrew-neel-2312369.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
+          "author": "Kolade Chris",
+          "description": "Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to",
+          "link": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
+          "publishedOn": "2022-09-21T16:18:08.000Z",
+          "wordCount": 1295,
+          "title": "Generic PNP Monitor – How to Fix Windows 10 PC Device Driver",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/monitor-1307227_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
+          "author": "Sophia Iroegbu",
+          "description": "Software testing is essential to development. It saves you time and money in production mode.  But software testing is a complex topic and can be a bit difficult to understand. In this article, I'll explain the major topics in software testing and how this practice can help you.",
+          "link": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
+          "publishedOn": "2022-09-21T16:03:49.000Z",
+          "wordCount": 2614,
+          "title": "What is Software Testing? A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Tech-Blog-Cover--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/near-curriculum/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 9 months, several of our instructors have been hard at work on a comprehensive NEAR curriculum. This will focus on NEAR's blockchain protocol and the NEAR tool ecosystem. This curriculum is made possible by NEAR Foundation, who gave our charity a grant to 100% fund development of",
+          "link": "https://www.freecodecamp.org/news/near-curriculum/",
+          "publishedOn": "2022-09-21T15:10:19.000Z",
+          "wordCount": 1186,
+          "title": "freeCodeCamp is Building a NEAR Curriculum",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/joshua-newton-IRXYNAMlUtw-unsplash-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/solana-curriculum/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 9 months, we've made considerable progress on our Solana curriculum. This will focus on Solana's blockchain protocol and the Solana tool ecosystem. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this",
+          "link": "https://www.freecodecamp.org/news/solana-curriculum/",
+          "publishedOn": "2022-09-21T15:00:18.000Z",
+          "wordCount": 1184,
+          "title": "freeCodeCamp is Building a Solana Curriculum",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/arturo-castaneyra-7laIG_Xv5FI-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
+          "author": "Tom Mondloch",
+          "description": "Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation",
+          "link": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
+          "publishedOn": "2022-09-21T14:45:56.000Z",
+          "wordCount": 1454,
+          "title": "freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/thomas-habr-wprOCzLIEYI-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-props-in-reactjs/",
           "author": "Joy O. Oluwafemi",
@@ -1628,66 +1688,6 @@
           "wordCount": 2499,
           "title": "How to Override Root Font Size to Create a Better User Experience",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/root-font-size-article-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
-          "author": "Kealan Parr",
-          "description": "As a developer, you have likely heard of HTML [https://en.wikipedia.org/wiki/HTML], which stands for HyperText Markup L anguage. And you may know that HTML is a language used to create websites – but what does  markup mean? Markup languages [https://techterms.com/definition/markup_language] are languages that use tags to define different elements within",
-          "link": "https://www.freecodecamp.org/news/markdown-cheatsheet/",
-          "publishedOn": "2022-08-22T22:16:38.000Z",
-          "wordCount": 1822,
-          "title": "Markdown Cheat Sheet – How to Write Articles in Markdown Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Markdown-cheatsheet.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
-          "author": "Marco Venturi",
-          "description": "If you run a website, you are aware of the importance of content. It's important for your web presence, to help you be recognized as a leader in your field, to improve your SEO ranking, to increase your audience, and more. WordPress is one of the most popular and widely-used",
-          "link": "https://www.freecodecamp.org/news/how-to-generate-wordpress-posts-automatically/",
-          "publishedOn": "2022-08-22T20:55:16.000Z",
-          "wordCount": 1908,
-          "title": "How to Generate WordPress Posts Automatically with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/",
-          "author": "Dillion Megida",
-          "description": "Python provides many math methods for mathematical operations such as square roots, exponents, and so on. In this article, I will show you how to round up a number to a specified decimal place. What is a Decimal Place? Look at this number: 324.89. Each number here has a position",
-          "link": "https://www.freecodecamp.org/news/how-to-round-to-2-decimal-places-in-python/",
-          "publishedOn": "2022-08-22T17:17:58.000Z",
-          "wordCount": 1368,
-          "title": "How to Round to 2 Decimal Places in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/round-up-numbers-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/",
-          "author": "Kayode Adeniyi",
-          "description": "In this article, I will walk you through some of the best methods to optimize APIs written in Node.js. Prerequisites To get the most out of this article, you will need an understanding of the following concepts:  * Node.js setup and installation  * How to build APIs with",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-nodejs-apis/",
-          "publishedOn": "2022-08-22T17:16:36.000Z",
-          "wordCount": 2473,
-          "title": "How to Optimize Your Node.js API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ann-marie-kennon-1296000.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/programming-naming-conventions-explained/",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "If you've been programming for a while, you may have heard the words \"camel case\" or \"pascal case\". And maybe you're wondering what those terms mean. Well, let me explain. What are Naming Conventions in Programming? Apart from the hard and fast rules that we get with every programming language,",
-          "link": "https://www.freecodecamp.org/news/programming-naming-conventions-explained/",
-          "publishedOn": "2022-08-22T15:16:55.000Z",
-          "wordCount": 1353,
-          "title": "Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Programming-Naming-Conventions-Explained.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
-          "author": "Andrew Brown",
-          "description": "You can learn everything you need to know to earn the Azure Developer Certification by completing this free 13-hour course. What is Microsoft Azure Developer Associate? The Microsoft Azure Developer Associate (commonly known as the AZ-204) is a Microsoft Azure certification focused on building web-applications on-top of Azure cloud services.",
-          "link": "https://www.freecodecamp.org/news/azure-developer-certification-az-204-pass-the-exam-with-this-free-13-5-hour-course/",
-          "publishedOn": "2022-08-22T14:51:47.000Z",
-          "wordCount": 1143,
-          "title": "Azure Developer Certification (AZ-204) – Pass the Exam With This Free 13.5-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/azure.png"
         }
       ]
     }
