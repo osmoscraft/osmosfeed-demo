@@ -6,6 +6,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373652",
+          "author": "Geoff Graham",
+          "description": "The video of Chris Coyier’s talk at CascadiaJS 2022 is now available. It’s his first in-person talk in more than two years, so it’s great to see our good friend back on stage slinging gems on what makes the web …\nThe Web is Good Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-web-is-good-now/",
+          "publishedOn": "2022-09-22T22:07:22.000Z",
+          "wordCount": 900,
+          "title": "The Web is Good Now",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373652"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373111",
+          "author": "Louis Hoebregts",
+          "description": "SVG is the best format for icons on a website, there is no doubt about that. It allows you to have sharp icons no matter the screen pixel density, you can change the styles of the SVG on hover …\nHow I Made an Icon System Out of CSS Custom Properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-i-made-an-icon-system-out-of-css-custom-properties/",
+          "publishedOn": "2022-09-22T15:17:21.000Z",
+          "wordCount": 2123,
+          "title": "How I Made an Icon System Out of CSS Custom Properties",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373111"
+        },
+        {
           "id": "https://css-tricks.com/?p=373639",
           "author": "Geoff Graham",
           "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -194,16 +214,6 @@
           "wordCount": 1830,
           "title": "Not Sure How to WordPress Anymore?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372616"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372576",
-          "author": "Ollie Williams",
-          "description": "If a utility class only does one thing, chances are you don’t want it to be overridden by any styles coming from elsewhere. One approach is to use !important to be 100% certain the style will be applied, regardless of …\nUsing CSS Cascade Layers to Manage Custom Styles in a Tailwind Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-css-cascade-layers-to-manage-custom-styles-in-a-tailwind-project/",
-          "publishedOn": "2022-08-24T13:11:47.000Z",
-          "wordCount": 1690,
-          "title": "Using CSS Cascade Layers to Manage Custom Styles in a Tailwind Project",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372576"
         }
       ]
     },
@@ -212,6 +222,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/angular-guide/",
+          "author": "hello@smashingmagazine.com (William Juan)",
+          "description": "If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.",
+          "link": "https://smashingmagazine.com/2022/09/angular-guide/",
+          "publishedOn": "2022-09-22T13:00:00.000Z",
+          "wordCount": 5673,
+          "title": "Things I Wish I Had Known About Angular When I Started",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/inline-validation-web-forms-ux/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -549,6 +574,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
+          "author": "Fakorede Damilola",
+          "description": "Different programming languages offer different ways to store and access data. Some of the data structures you can use are collections such as arrays, lists, maps, sets, and so on.  These all do an awesome job storing and accessing data, but sometimes you might need something different. Another data",
+          "link": "https://www.freecodecamp.org/news/introduction-to-linked-lists-in-python/",
+          "publishedOn": "2022-09-22T16:08:05.000Z",
+          "wordCount": 2377,
+          "title": "Linked Lists in Python – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/chain-3481377_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-align-text-in-html/",
+          "author": "Joel Olawanle",
+          "description": "Text is essential on web pages, as it tells your users what your web page is all about. When you add text to your web page, it dictates the direction and feel of your web page based on your language. For example, by default, English moves from left to right",
+          "link": "https://www.freecodecamp.org/news/how-to-align-text-in-html/",
+          "publishedOn": "2022-09-22T16:02:44.000Z",
+          "wordCount": 1969,
+          "title": "How to Align Text in HTML – Text-align, Center, and Justified Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--8-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-hacking/",
+          "author": "Daniel Iwugo",
+          "description": "Time to learn the basics of the splendid art of hacking 👨‍💻👩‍💻.  In this article, you will learn what the hacking process really looks like. And hopefully one day, you'll get to say those famous words: “I’m in”. Disclaimer: This is for educational purposes only. Please (with a cherry",
+          "link": "https://www.freecodecamp.org/news/what-is-hacking/",
+          "publishedOn": "2022-09-22T15:21:49.000Z",
+          "wordCount": 2094,
+          "title": "What is Hacking? The Hacker Methodology Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/hacker-methodology-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/intro-to-algorithms-with-python/",
+          "author": "Beau Carnes",
+          "description": "Understanding algorithms in an important skill for many computer science jobs. Algorithms help us solve problems efficiently. We just published an introduction to algorithms with Python course on the freeCodeCamp.org YouTube channel. In this course, you'll work with algorithm basics like recursion then go all the way to working with",
+          "link": "https://www.freecodecamp.org/news/intro-to-algorithms-with-python/",
+          "publishedOn": "2022-09-22T14:36:57.000Z",
+          "wordCount": 969,
+          "title": "Intro to Algorithms with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/algos_python.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
           "author": "Dillion Megida",
@@ -1628,66 +1693,6 @@
           "wordCount": 2366,
           "title": "How to Build an OTP Input in Vue 3",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/otp-article-header.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
-          "author": "Rishabh Rawat",
-          "description": "Working as a Software Developer, there are always new tools and frameworks coming out that can completely change your workflows – for the better (or worse?).  Either way, there is always the possibility to optimize how you do things day-to-day. This article contains some Linux utilities that have recently",
-          "link": "https://www.freecodecamp.org/news/5-linux-utilities-for-better-programming-workflow/",
-          "publishedOn": "2022-08-24T11:55:00.000Z",
-          "wordCount": 1624,
-          "title": "5 Linux Utilities to Improve Your Programming Workflow in 2022",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/linux-shell-utilities-cover.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
-          "author": "Dionysia Lemonaki",
-          "description": "Git is a popular version control system. It is how developers can collaborate and work together on projects. Git allows you to track the changes you make to your project over time. On top of that, it lets you revert to a previous version if you want to undo a",
-          "link": "https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git/",
-          "publishedOn": "2022-08-23T16:58:02.000Z",
-          "wordCount": 2714,
-          "title": ".gitignore File – How to Ignore Files and Folders in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/pexels-ken-tomita-389819.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-in-powerbi/",
-          "author": "Yannawut Kimnaruk",
-          "description": "Microsoft Power BI is a business analytics tool which allows users to gain insight from their data.  You can easily create an interactive dashboard by just dragging and dropping data columns into the visualization plane. In this article, I'll show you how to use Python to help you leverage",
-          "link": "https://www.freecodecamp.org/news/python-in-powerbi/",
-          "publishedOn": "2022-08-23T16:27:48.000Z",
-          "wordCount": 2171,
-          "title": "How to Use Python in Power BI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Python-Power-BI-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
-          "author": "Swatej Patil",
-          "description": "In this tutorial we will learn how to create simple bar and line charts using the Chart.js library in an Angular application. But first of all, what is Chart.js and what does it do? What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive",
-          "link": "https://www.freecodecamp.org/news/how-to-make-bar-and-line-charts-using-chartjs-in-angular/",
-          "publishedOn": "2022-08-23T15:35:01.000Z",
-          "wordCount": 1955,
-          "title": "Chart.js Tutorial – How to Make Bar and Line Charts in Angular",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Line-Bar-4.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "In this article, I'm going to show you how to use the Arrays.binarySearch()  method in Java. What is Arrays.binarySearch() in Java?  According to the official docs [https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html#binarySearch(byte[],%20byte)]  on the Arrays.binarySearch() method: > (It) Searches the specified array of bytes for the specified value using the binary search",
-          "link": "https://www.freecodecamp.org/news/how-to-use-arrays-binarysearch-in-java/",
-          "publishedOn": "2022-08-23T15:31:18.000Z",
-          "wordCount": 1762,
-          "title": "How to Use Arrays.binarySearch() in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Arrays.binarySearch---in-Java.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/",
-          "author": "Damla Erkiner",
-          "description": "Back in the day, web developers, front-end engineers, and UI designers had a bit of an easier job. This is because they weren't expected to rearrange their code and designs to fit so many different screen sizes.  But in today's world, if you make a decision that doesn't take",
-          "link": "https://www.freecodecamp.org/news/override-root-font-size-for-a-better-user-experience/",
-          "publishedOn": "2022-08-23T15:14:55.000Z",
-          "wordCount": 2499,
-          "title": "How to Override Root Font Size to Create a Better User Experience",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/root-font-size-article-image.jpeg"
         }
       ]
     }
