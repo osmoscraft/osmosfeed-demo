@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373209",
+          "author": "Matteo Mazzarolo",
+          "description": "Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.\nIf this is the first …\nNamed Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/",
+          "publishedOn": "2022-09-27T12:58:21.000Z",
+          "wordCount": 2450,
+          "title": "Named Element IDs Can Be Referenced as JavaScript Globals",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373209"
+        },
+        {
           "id": "https://css-tricks.com/?p=373403",
           "author": "Temani Afif",
           "description": "The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …\nHow to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -222,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
+          "author": "hello@smashingmagazine.com (Agustinus Theodorus)",
+          "description": "You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.",
+          "link": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
+          "publishedOn": "2022-09-27T14:00:00.000Z",
+          "wordCount": 5758,
+          "title": "Five Data-Loading Patterns To Boost Web Performance",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -574,6 +599,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/",
+          "author": "Rakesh Potnuru",
+          "description": "Testing is a vital part of software development. The sooner you start testing, the better.  In this article, I'll show you how to write tests for your NodeJs/ExpressJS and MongoDB/Mongoose applications with Jest and Supertest. Let's get started First let's set up a demo Express.js app. Let's say we",
+          "link": "https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/",
+          "publishedOn": "2022-09-27T23:26:16.000Z",
+          "wordCount": 1666,
+          "title": "How to Test Your Express.js and Mongoose Apps with Jest and SuperTest",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/how-to-write-tests.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "The release of Node.js in 2009 by Ryan Dahl increased the scope of what developers could do with JavaScript. Prior to that, you could only use JavaScript on the client side (the browser) or frontend of web applications. With Node.js, developers can create server side applications, command line tools, and",
+          "link": "https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/",
+          "publishedOn": "2022-09-27T21:34:58.000Z",
+          "wordCount": 1475,
+          "title": "Node.js Server-Side JavaScript – What is Node Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/",
+          "author": "Maybell Obadoni",
+          "description": "There's a lot to learn when you're getting into tech. But fortunately there are some skills that you can use across different programming languages, operating systems, and tools.  And knowing how to use the command line interface (also known as the command prompt or terminal, depending on your operating",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/",
+          "publishedOn": "2022-09-27T21:11:32.000Z",
+          "wordCount": 2155,
+          "title": "How to Use the Command Line Interface – for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/BEGINNERS--HACK-ON-USING-CLI--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/debugging-in-python-using-pdb/",
+          "author": "Jagruti Tiwari",
+          "description": "Debugging tools are at the heart of any programming language. And as a developer, it's hard to make progress and write clean code unless you know your way around these tools. This article will help you get acquainted with one such tool: The Python Debugger (pdb) [https://docs.python.org/3/library/pdb.html#:~:text=The%20module%20pdb%20defines%20an,context%20of%20any%20stack%20frame] Note that this",
+          "link": "https://www.freecodecamp.org/news/debugging-in-python-using-pdb/",
+          "publishedOn": "2022-09-27T17:50:42.000Z",
+          "wordCount": 1512,
+          "title": "How to Debug Your Python Code with the Python Debugger (pdb)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/paulius-andriekus-552Vm3_Ah6A-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/",
+          "author": "Edeh Israel Chidera",
+          "description": "Smooth scrolling is a feature that makes webpages more usable and allows for a better user scrolling experience in most browsers. Implementing a smooth page scroll while using react-router-dom has been a problem in React.js. So this article, you are going to learn how to implement smooth vertical scrolling using",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/",
+          "publishedOn": "2022-09-27T17:42:42.000Z",
+          "wordCount": 1278,
+          "title": "How to Implement Vertical Scrolling in React Using react-router-hash-link",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/ferenc-almasi-L8KQIPCODV8-unsplash.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/",
+          "author": "Kolade Chris",
+          "description": "You may have heard the term \"information systems\" as a type of degree some people get from a college or university. Or maybe you've heard it as a general term used to describe information and communication systems in general. Information systems are more than a degree or a general term.",
+          "link": "https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/",
+          "publishedOn": "2022-09-27T16:43:54.000Z",
+          "wordCount": 1619,
+          "title": "What is Information Systems? Definition for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/christopher-gower-m_HRfLhgABo-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-java-programming/",
+          "author": "Beau Carnes",
+          "description": "Java has been one of the most popular programming languages for a long time. It is considered a general-purpose, concurrent, strongly typed, class-based object-oriented language. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the Java programming language. This course is perfect for beginners.",
+          "link": "https://www.freecodecamp.org/news/learn-java-programming/",
+          "publishedOn": "2022-09-27T13:37:06.000Z",
+          "wordCount": 815,
+          "title": "Learn Java Programming (version 17)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/java.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/linux-basics/",
           "author": "Daniel Iwugo",
@@ -1653,26 +1748,6 @@
           "wordCount": 2608,
           "title": "Common Attacks on SSL/TLS – and How to Protect Your System",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cybersecurity-by-Christiaan-Colen-creative-commons-free-to-use.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/",
-          "author": "Logan Kilpatrick",
-          "description": "As a machine learning engineer or data scientist, one of the most critical decisions you can make is what type of model to use to solve a specific problem. Do you really need to use Deep Learning to model this specific problem? Will something like a Random Forest model or",
-          "link": "https://www.freecodecamp.org/news/linear-models-vs-decision-trees-in-julia/",
-          "publishedOn": "2022-08-29T13:46:21.000Z",
-          "wordCount": 2773,
-          "title": "How to Use Linear Models and Decision Trees in Julia",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/LinearModels-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/20-beginner-python-projects/",
-          "author": "Beau Carnes",
-          "description": "Are you looking to improve your Python skills? Try coding these 20 Python projects! We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create 20 fun Python projects. Tomi Tokko created this course. Tomi has created a bunch of really popular tutorials",
-          "link": "https://www.freecodecamp.org/news/20-beginner-python-projects/",
-          "publishedOn": "2022-08-29T12:44:35.000Z",
-          "wordCount": 813,
-          "title": "How to Code 20 Beginner Python Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/20python.png"
         }
       ]
     }
