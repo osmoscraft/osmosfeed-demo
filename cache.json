@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373484",
+          "author": "Ollie Williams",
+          "description": "So you want an auto-playing looping video without sound? In popular vernacular this is the very meaning of the word GIF. The word has stuck around but the image format itself is ancient and obsolete. Twitter, for example, has …\nGIFs Without the .gif: The Most Performant Image and Video Options Right Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now/",
+          "publishedOn": "2022-09-28T13:09:11.000Z",
+          "wordCount": 4034,
+          "title": "GIFs Without the .gif: The Most Performant Image and Video Options Right Now",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373484"
+        },
+        {
           "id": "https://css-tricks.com/?p=373209",
           "author": "Matteo Mazzarolo",
           "description": "Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.\nIf this is the first …\nNamed Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -214,16 +224,6 @@
           "wordCount": 829,
           "title": "iShadeed’s Container Queries Lab",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373087"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372839",
-          "author": "Geoff Graham",
-          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(--scale);\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/interpolating-numeric-css-variables/",
-          "publishedOn": "2022-08-30T13:17:25.000Z",
-          "wordCount": 963,
-          "title": "Interpolating Numeric CSS Variables",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
         }
       ]
     },
@@ -232,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
+          "author": "hello@smashingmagazine.com (Onno Westra)",
+          "description": "The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.",
+          "link": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
+          "publishedOn": "2022-09-28T11:00:00.000Z",
+          "wordCount": 4828,
+          "title": "Phone Numbers For Web Designers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
           "author": "hello@smashingmagazine.com (Agustinus Theodorus)",
@@ -561,36 +576,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
-          "author": "hello@smashingmagazine.com (Shane Hudson)",
-          "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
-          "link": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
-          "publishedOn": "2022-08-30T09:00:00.000Z",
-          "wordCount": 4517,
-          "title": "How To Improve And Measure Your Progress Learning Web Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "The problem of how to design an effective toggle button that shows the selected option clearly is a long-term open question among UI/UX designers. In this second part, Eduard Kuric explains a complex list of visual cues used by toggle buttons to communicate which of their options is active.",
-          "link": "https://smashingmagazine.com/2022/08/toggle-button-case-study-part-2/",
-          "publishedOn": "2022-08-29T14:00:00.000Z",
-          "wordCount": 6046,
-          "title": "What Makes A Great Toggle Button? (Case Study, Part 2)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d25c3a9-5cbd-44e2-9c8c-742d35c261ee/toggle-button-case-study.png"
         }
       ]
     },
@@ -599,6 +584,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/",
+          "author": "Segun Ajibola",
+          "description": "JavaScript is one of the most popular programming languages out there for web development. The dynamic values passed in a JavaScript function can change when the function gets called in another location in the code. The keywords we use to name these data are parameters and arguments, but some developers",
+          "link": "https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/",
+          "publishedOn": "2022-09-28T21:18:15.000Z",
+          "wordCount": 1315,
+          "title": "Parameters vs Arguments in JavaScript – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Parameters-vs-Arguments.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/",
+          "author": "Beau Carnes",
+          "description": "JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,",
+          "link": "https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/",
+          "publishedOn": "2022-09-28T19:29:45.000Z",
+          "wordCount": 871,
+          "title": "How to Code a 2D Game Using JavaScript, HTML, and CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/2dgamejs.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/",
           "author": "Rakesh Potnuru",
@@ -1738,16 +1743,6 @@
           "wordCount": 830,
           "title": "Learn CSS in 11 Hours",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cssdave.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
-          "author": "Megan Kaczanowski",
-          "description": "The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:",
-          "link": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
-          "publishedOn": "2022-08-29T21:17:07.000Z",
-          "wordCount": 2608,
-          "title": "Common Attacks on SSL/TLS – and How to Protect Your System",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cybersecurity-by-Christiaan-Colen-creative-commons-free-to-use.jpeg"
         }
       ]
     }
