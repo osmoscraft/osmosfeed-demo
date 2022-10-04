@@ -213,6 +213,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
+          "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
+          "publishedOn": "2022-10-03T13:00:00.000Z",
+          "wordCount": 7753,
+          "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aa71c04f-6c9e-4717-8767-a6f31f3c20c9/ui-animations-shared-element-transitions-api-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aa71c04f-6c9e-4717-8767-a6f31f3c20c9/ui-animations-shared-element-transitions-api-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/desktop-wallpaper-calendars-october-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!",
@@ -549,6 +564,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/",
+          "author": "Victor Eke",
+          "description": "It's probably happened to you before: you unintentionally attempted to perform an action on a webpage, but luckily got a pop-up window asking you to confirm your decision. This pop-up window is called a modal. It's a web page element that pops up and displays in front of other page",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/",
+          "publishedOn": "2022-10-03T23:49:06.000Z",
+          "wordCount": 2342,
+          "title": "How to Build a Modal with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/How-to-build-a-modal-with-JavaScript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/",
+          "author": "Dillion Megida",
+          "description": "The rem measurement unit is a relative unit that you can use for length values in CSS. I will explain what this unit is, and how it is different from other units in this article. In my previous article, I explained the two categories of units in CSS: Absolute and",
+          "link": "https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/",
+          "publishedOn": "2022-10-03T22:57:54.000Z",
+          "wordCount": 1388,
+          "title": "What is rem in CSS? rem Unit Font Size, Padding, Height, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/rem-units.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/",
+          "author": "Tooba Jamal",
+          "description": "Being able to build predictive models is a superpower – but you can't make much of these models if users can't use them.  In this article, we will go through the process of building and deploying a machine learning web app using Flask and PythonAnywhere.  Flask is a",
+          "link": "https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/",
+          "publishedOn": "2022-10-03T22:52:51.000Z",
+          "wordCount": 2376,
+          "title": "How to Turn Your Jupyter Notebook into a User-Friendly Web App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Purple-Illustrated-Technology-Blog-Banner-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/",
+          "author": "Bhavesh Rawat",
+          "description": "If you want to learn React, it's important to get a fair understanding of some core JavaScript concepts first.  So if that's what you're doing, first of all – great job! You have made a wise decision by not starting directly with React.  Second, React builds on key",
+          "link": "https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/",
+          "publishedOn": "2022-10-03T22:06:51.000Z",
+          "wordCount": 1763,
+          "title": "How to Use map(), filter(), and reduce() in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/fCC-blog-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/",
+          "author": "Edeh Israel Chidera",
+          "description": "Have you ever experienced a “PAGE NOT FOUND” error when trying to access or refresh an application that uses React Router? Don't worry, you're not alone. In this article, you will learn how to deploy a React application that uses react-router without any problems. The Problem with Deploying react-router Apps",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/",
+          "publishedOn": "2022-10-03T17:16:24.000Z",
+          "wordCount": 1431,
+          "title": "How to Deploy a React Router App to Netlify and Fix the \"Page Not Found\" Error",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/netlify1-1-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-fix-typeerror-only-size-1-arrays-can-be-converted-to-python-scalars/",
           "author": "Ihechikara Vincent Abba",
