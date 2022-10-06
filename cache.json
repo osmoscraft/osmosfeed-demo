@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373787",
+          "author": "Adam Rackis",
+          "description": "In my previous post we looked at Shoelace, which is a component library with a full suite of UX components that are beautiful, accessible, and — perhaps unexpectedly — built with Web Components. This means they can be used …\nUsing Web Components With Next (or Any SSR Framework) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/",
+          "publishedOn": "2022-10-05T13:05:43.000Z",
+          "wordCount": 2287,
+          "title": "Using Web Components With Next (or Any SSR Framework)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373787"
+        },
+        {
           "id": "https://css-tricks.com/?p=374217",
           "author": "Geoff Graham",
           "description": "The State of CSS survey recently opened up. Last year, the survey confirmed everyone’s assumptions that TailwindCSS is super popular and CSS variables are mainstream. It also codified what many of us want from CSS, from Container Queries to …\nState of CSS 2022 Survey Now Open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -214,16 +224,6 @@
           "wordCount": 2365,
           "title": "Hacking CSS Animation State and Playback Time",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372850"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372853",
-          "author": "Obumuneme Nwabude",
-          "description": "I started as a front-end web developer and then became a Flutter developer. I think there were some concepts that helped me adopt Flutter easier. There were also some new concepts that were different.\nIn this article, I want to …\nFlutter For Front-End Web Developers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/flutter-for-front-end-web-developers/",
-          "publishedOn": "2022-09-05T20:10:24.000Z",
-          "wordCount": 2227,
-          "title": "Flutter For Front-End Web Developers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372853"
         }
       ]
     },
@@ -232,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.",
+          "link": "https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/",
+          "publishedOn": "2022-10-05T12:00:00.000Z",
+          "wordCount": 4142,
+          "title": "Easy Fluid Typography With clamp() Using Sass Functions",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -546,36 +561,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6553770-76d3-4d35-a473-1011999fbb66/realities-myths-contrast-color.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.",
-          "link": "https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/",
-          "publishedOn": "2022-09-06T10:00:00.000Z",
-          "wordCount": 10058,
-          "title": "Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/639db09c-3948-4a2d-a564-a189c62098b7/smashing-podcast-episode-52.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.",
-          "link": "https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/",
-          "publishedOn": "2022-09-05T14:00:00.000Z",
-          "wordCount": 3271,
-          "title": "Meet Understanding Privacy, A New Smashing Book By Heather Burns",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cff889cf-602a-4685-a43c-e313647cac56/understanding-privacy.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cff889cf-602a-4685-a43c-e313647cac56/understanding-privacy.png"
         }
       ]
     },
@@ -584,6 +569,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/react-helmet-examples/",
+          "author": "Scott Gary",
+          "description": "Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO",
+          "link": "https://www.freecodecamp.org/news/react-helmet-examples/",
+          "publishedOn": "2022-10-05T16:36:10.000Z",
+          "wordCount": 1799,
+          "title": "How to Use React Helmet – With Example Use Case",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/react-head-examples.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/",
+          "author": "Kolade Chris",
+          "description": "In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure",
+          "link": "https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/",
+          "publishedOn": "2022-10-05T16:26:42.000Z",
+          "wordCount": 1424,
+          "title": "VLOOKUP in Excel – Formula and Example Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/vlookup.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/",
+          "author": "Oluwatobi Sofela",
+          "description": "Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.",
+          "link": "https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/",
+          "publishedOn": "2022-10-05T16:06:29.000Z",
+          "wordCount": 3208,
+          "title": "JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/programming-image-by-mohamed-hassan-from-pixabay-javascript-function-iffe-parameters-blocks-explained-codesweetly.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
+          "author": "Joel Olawanle",
+          "description": "An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various",
+          "link": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
+          "publishedOn": "2022-10-05T15:00:53.000Z",
+          "wordCount": 2737,
+          "title": "Big O Cheat Sheet – Time Complexity Chart",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--12-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/",
+          "author": "Salim Oyinlola",
+          "description": "My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/",
+          "publishedOn": "2022-10-05T14:37:09.000Z",
+          "wordCount": 2604,
+          "title": "How to Validate your Machine Learning Models Using TensorFlow Model Analysis",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-159275.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/laravel-web-security-csrf/",
           "author": "Sule-Balogun Olanrewaju Ganiu",

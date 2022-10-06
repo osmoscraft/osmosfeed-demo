@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-05T01:44:48.239Z</updated>
+    <updated>2022-10-06T01:37:40.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Helmet – With Example Use Case]]></title>
+        <id>https://www.freecodecamp.org/news/react-helmet-examples/</id>
+        <link href="https://www.freecodecamp.org/news/react-helmet-examples/"/>
+        <updated>2022-10-05T16:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VLOOKUP in Excel – Formula and Example Function]]></title>
+        <id>https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/</id>
+        <link href="https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/"/>
+        <updated>2022-10-05T16:26:42.000Z</updated>
+        <summary type="html"><![CDATA[In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/"/>
+        <updated>2022-10-05T16:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big O Cheat Sheet – Time Complexity Chart]]></title>
+        <id>https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/</id>
+        <link href="https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/"/>
+        <updated>2022-10-05T15:00:53.000Z</updated>
+        <summary type="html"><![CDATA[An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Validate your Machine Learning Models Using TensorFlow Model Analysis]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/"/>
+        <updated>2022-10-05T14:37:09.000Z</updated>
+        <summary type="html"><![CDATA[My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model]]></summary>
+        <author>
+            <name>Salim Oyinlola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Web Components With Next (or Any SSR Framework)]]></title>
+        <id>https://css-tricks.com/?p=373787</id>
+        <link href="https://css-tricks.com/using-web-components-with-next-or-any-ssr-framework/"/>
+        <updated>2022-10-05T13:05:43.000Z</updated>
+        <summary type="html"><![CDATA[In my previous post we looked at Shoelace, which is a component library with a full suite of UX components that are beautiful, accessible, and — perhaps unexpectedly — built with Web Components. This means they can be used …
+Using Web Components With Next (or Any SSR Framework) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Fluid Typography With clamp() Using Sass Functions]]></title>
+        <id>https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/</id>
+        <link href="https://smashingmagazine.com/2022/10/fluid-typography-clamp-sass-functions/"/>
+        <updated>2022-10-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We can use the `clamp()` method today because of the great browser support. In this article, Brecht De Ruyte explains how it can be a beautiful addition to your upcoming project or as an upgrade to a previous one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Cross-Site Request Forgery (CSRF)? Laravel Web Security Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/laravel-web-security-csrf/</id>
@@ -1627,38 +1698,6 @@ Hacking CSS Animation State and Playback Time originally published on CSS-Tricks
         <summary type="html"><![CDATA[One year has passed since freeCodeCamp held our first World Translation Month in September 2021.  Well, it’s September again – and here we are for the second installment of this month-long event. freeCodeCamp is holding our World Translation Month for the second year in a row, taking place September]]></summary>
         <author>
             <name>Daniel Rosa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 52 With Yiying Lu: How Do You Become An NFT Artist?]]></title>
-        <id>https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/</id>
-        <link href="https://smashingmagazine.com/2022/09/smashing-podcast-episode-52/"/>
-        <updated>2022-09-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we ask how do you go from running a creative studio to designing NFTs. Vitaly talks to artist Yiying Lu to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter For Front-End Web Developers]]></title>
-        <id>https://css-tricks.com/?p=372853</id>
-        <link href="https://css-tricks.com/flutter-for-front-end-web-developers/"/>
-        <updated>2022-09-05T20:10:24.000Z</updated>
-        <summary type="html"><![CDATA[I started as a front-end web developer and then became a Flutter developer. I think there were some concepts that helped me adopt Flutter easier. There were also some new concepts that were different.
-In this article, I want to …
-Flutter For Front-End Web Developers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Obumuneme Nwabude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Understanding Privacy, A New Smashing Book By Heather Burns]]></title>
-        <id>https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/understanding-privacy-pre-release/"/>
-        <updated>2022-09-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Understanding Privacy”, our upcoming book on what data privacy is really about beyond scary headlines. Approx. 350 pages. eBook available in October, print shipping in November.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
