@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T01:50:08.793Z</updated>
+    <updated>2022-10-08T01:26:07.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TypeScript Generics – Use Case and Examples]]></title>
+        <id>https://www.freecodecamp.org/news/typescript-generics-use-case-example/</id>
+        <link href="https://www.freecodecamp.org/news/typescript-generics-use-case-example/"/>
+        <updated>2022-10-07T20:49:10.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn the basics of generics in TypeScript. We'll discuss how to use them and when they're useful in your code. Use Case for Generics Let's start with a simple example, where you want to print the value of an argument passed: function printData(data: number) {]]></summary>
+        <author>
+            <name>Aman Kalra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check if a String Contains a Substring in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/"/>
+        <updated>2022-10-07T18:00:38.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with a JavaScript program, you might need to check whether a string contains a substring. A substring is a string inside another string. Specifically, you might need to check whether a word contains a specific character or a specific set of characters. Thankfully, there are a few]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Recursion Work? Simplified in JavaScript with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/recursion-in-javascript-simplified/</id>
+        <link href="https://www.freecodecamp.org/news/recursion-in-javascript-simplified/"/>
+        <updated>2022-10-07T17:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Recursion works similarly to how loops do in JavaScript. Loops allow you to execute a set of code multiple times as long as a condition is true. In this article, I will explain what Recursion is and how it works in JavaScript. In loops, when the condition becomes false, the]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Fluid Typography Support to WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=373905</id>
+        <link href="https://css-tricks.com/fluid-typography-wordpress-block-themes/"/>
+        <updated>2022-10-07T13:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Fluid typography is a fancy way of “describing font properties, such as size or line height, that scale fluidly according to the size of the viewport”. It’s also known by other names, like responsive typography, flexible type, fluid type, …
+Adding Fluid Typography Support to WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Roadmap For Building A Business Chatbot]]></title>
+        <id>https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/</id>
+        <link href="https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/"/>
+        <updated>2022-10-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Devansh Bansal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js Authentication With Twilio Verify]]></title>
+        <id>https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/</id>
+        <link href="https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/"/>
+        <updated>2022-10-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexander Godwin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python For Beginners Courses Ranked from Best to Worst – freeCodeCamp Edition]]></title>
         <id>https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/</id>
@@ -1552,100 +1613,6 @@ How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is p
         <summary type="html"><![CDATA[Spreadsheets aren't merely for arranging data into rows and columns. Most of the time, you use them for data analysis as well.  Microsoft Excel is one of the most widely used spreadsheet applications, especially in finance and accounting. This is partly because of its easy UI and unmatched depth]]></summary>
         <author>
             <name>Benny Ifeanyi Iheagwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New With Forms in 2022?]]></title>
-        <id>https://css-tricks.com/?p=372979</id>
-        <link href="https://css-tricks.com/whats-new-with-forms-in-2022/"/>
-        <updated>2022-09-08T13:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…
-requestSubmit()
-Safari 16 will be the final browser to add support for requestSubmit.
-Before we …
-What’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX Checklists For Interface Designers]]></title>
-        <id>https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/</id>
-        <link href="https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/"/>
-        <updated>2022-09-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prepare for React Interviews – Front-End Technical Interview Guide]]></title>
-        <id>https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/"/>
-        <updated>2022-09-08T00:29:16.000Z</updated>
-        <summary type="html"><![CDATA[A front-end technical interview is an opportunity for a potential employer to assess your skills and knowledge in web development. The interviewer will ask you questions about your experience and skills in HTML, CSS, and JavaScript. They'll also likely ask you some framework specific questions about React, Angular, Vue, or]]></summary>
-        <author>
-            <name>Manu Arora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Geolocation API Tutorial – How to Get a User's Location in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/"/>
-        <updated>2022-09-07T18:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Some applications require you to know your user's location, like food delivery or eCommerce apps. So you'll need an efficient way to get this info. The Geolocation API, which we will look at today, is a simple solution. You can use it to determine your users' location, local currency, language,]]></summary>
-        <author>
-            <name>Israel Mitolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is deb-get? How to Install the Debian Package with the deb-get Command]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/"/>
-        <updated>2022-09-07T18:27:17.000Z</updated>
-        <summary type="html"><![CDATA[deb-get is a new command line utility built by Martin Wimpress [https://twitter.com/m_wimpress], an active contributor to the Linux community.  You can use this utility to install third-party packages on your Debian machine. It only works with Debian or Debian-based distros like Ubuntu, Linux mint, Kali Linux, and so on.]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renaming a Git Branch – How to Rename the Current Branch in Git]]></title>
-        <id>https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/"/>
-        <updated>2022-09-07T18:22:39.000Z</updated>
-        <summary type="html"><![CDATA[If you are using Git for version control, it’s likely you’ve created branches for various reasons. Since you have those branches in place, you might want to rename any of them if you find a typo, for example, or change the code's purpose. In this article, I will show you]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove a Directory in Linux – How to Remove folders from the Command Line]]></title>
-        <id>https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/</id>
-        <link href="https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/"/>
-        <updated>2022-09-07T18:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Linux is a powerful OS with various command line utilities to help you achieve your day-to-day tasks. Removing folders is a very common operation that allows you to either remove a single folder or remove them recursively (folders within folders).  In this tutorial, we will see how we can]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Java Handbook – Learn Java Programming for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/the-java-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-java-handbook/"/>
-        <updated>2022-09-07T18:05:02.000Z</updated>
-        <summary type="html"><![CDATA[Java has been around since the 90s. And despite its massive success in many areas, this cross-platform, object-oriented programming language is often maligned. Regardless of how people feel about Java, I can tell you from experience is that it is an excellent programming language. After its first appearance back in]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular for Beginners Course + TypeScript [Full Front-End Tutorial]]]></title>
-        <id>https://www.freecodecamp.org/news/angular-for-beginners-course/</id>
-        <link href="https://www.freecodecamp.org/news/angular-for-beginners-course/"/>
-        <updated>2022-09-07T16:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Angular is a popular TypeScript-based open-source web application framework created by Google. We just published a comprehensive 18-hour Angular course for beginners on the freeCodeCamp.org YouTube channel. In this course you will first you will learn the basics of TypeScript. Then you will learn about important Angular concepts such as]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
