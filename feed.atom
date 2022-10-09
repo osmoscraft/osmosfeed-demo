@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-08T01:26:07.448Z</updated>
+    <updated>2022-10-09T01:47:42.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
@@ -1532,87 +1532,6 @@ Building Interactive Figma Widgets originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[In this article, I'll explain how you can install NVM, or Node Version Manager, on Windows, Linux, and Mac. What is NVM? Node Version Manager (NVM), as the name implies, is a tool for managing Node versions on your device. Different projects on your device may be using different versions]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Made a Pure CSS Puzzle Game]]></title>
-        <id>https://css-tricks.com/?p=372952</id>
-        <link href="https://css-tricks.com/how-i-made-a-pure-css-puzzle-game/"/>
-        <updated>2022-09-09T13:21:29.000Z</updated>
-        <summary type="html"><![CDATA[I recently discovered the joy of creating CSS-only games. It’s always fascinating how HTML and CSS are capable of handling the logic of an entire online game, so I had to try it! Such games usually rely on the ol’ …
-How I Made a Pure CSS Puzzle Game originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Formula To Rule Them All: The ROI Of A Design System]]></title>
-        <id>https://smashingmagazine.com/2022/09/formula-roi-design-system/</id>
-        <link href="https://smashingmagazine.com/2022/09/formula-roi-design-system/"/>
-        <updated>2022-09-09T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems are a crucial success factor for digital businesses, and virtually every major player works with one. Still, they can sometimes be hard to sell to management. Here’s a ready-to-use formula to calculate the ROI of any design system.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Maximilian Speicher &amp; Guido Baena Wehrmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Line Charts Tutorial – How to Create a Line Graph in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-line-charts-in-javascript/"/>
-        <updated>2022-09-08T19:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Data visualization is a vast field with so many different types of charts [https://datavizcatalogue.com/] to learn and create.  But there are several basic, evergreen graphs that every data designer and web developer dealing with analytics should know how to build.  One of them is a Line Chart (or]]></summary>
-        <author>
-            <name>Shachee Swadia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python .split() – Splitting a String in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-split-a-string-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-split-a-string-in-python/"/>
-        <updated>2022-09-08T17:22:47.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to split a string in Python. Firstly, I'll introduce you to the syntax of the .split() method. After that, you will see how to use the .split() method with and without arguments, using code examples along the way. Here is what we will]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Machine Learning Code Quality with Scikit-learn Pipeline and ColumnTransformer]]></title>
-        <id>https://www.freecodecamp.org/news/machine-learning-pipeline/</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-pipeline/"/>
-        <updated>2022-09-08T16:31:20.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a machine learning project, the most tedious steps are often data cleaning and preprocessing. Especially when you're working in a Jupyter Notebook, running code in many cells can be confusing. The Scikit-learn library has tools called Pipeline and ColumnTransformer that can really make your life easier.]]></summary>
-        <author>
-            <name>Yannawut Kimnaruk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use IndexedDB – Database Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/how-indexeddb-works-for-beginners/"/>
-        <updated>2022-09-08T16:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The modern browser has given us a number of options when it comes to storing data on the client-side. Aside from storing data, browser databases allow us to retrieve that data.  Based on your application's needs, you can choose from the different browser storage options out there to enhance]]></summary>
-        <author>
-            <name>Victor Yakubu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Dockerized .NET Core Apps in VS Code]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/"/>
-        <updated>2022-09-08T15:34:10.000Z</updated>
-        <summary type="html"><![CDATA[I recently switched to VS Code for development of a dockerized .NET core app. But I then realized that there weren't many up-to-date articles about debugging dockerized .NET core applications in VS Code. Source: GIPHYSo, here I am, writing this article. I hope that it'll help others like myself in]]></summary>
-        <author>
-            <name>Haseeb Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Excel Tutorial – How to Create Formulas and Functions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-microsoft-excel-formulas-and-functions/"/>
-        <updated>2022-09-08T15:17:10.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets aren't merely for arranging data into rows and columns. Most of the time, you use them for data analysis as well.  Microsoft Excel is one of the most widely used spreadsheet applications, especially in finance and accounting. This is partly because of its easy UI and unmatched depth]]></summary>
-        <author>
-            <name>Benny Ifeanyi Iheagwara</name>
         </author>
     </entry>
 </feed>
