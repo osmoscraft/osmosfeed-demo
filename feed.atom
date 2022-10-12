@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-11T01:46:18.638Z</updated>
+    <updated>2022-10-12T02:01:03.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/"/>
+        <updated>2022-10-11T23:18:26.000Z</updated>
+        <summary type="html"><![CDATA[When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Free Resources to Learn Golang – Go Coding Courses]]></title>
+        <id>https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/</id>
+        <link href="https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/"/>
+        <updated>2022-10-11T23:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many]]></summary>
+        <author>
+            <name>Avdhoot Fulsundar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Programming Tips to Help You Level Up Your Code]]></title>
+        <id>https://www.freecodecamp.org/news/python-programming-tips/</id>
+        <link href="https://www.freecodecamp.org/news/python-programming-tips/"/>
+        <updated>2022-10-11T19:47:25.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular programming languages out there today. Its simplicity and readability make it a favorite among many programmers. So in this tutorial, I'm sharing a few pointers and strategies to help you improve your Python programming skills. How to Reverse a String in Python In]]></summary>
+        <author>
+            <name>David Fagbuyiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering External API Data in WordPress Blocks on the Front End]]></title>
+        <id>https://css-tricks.com/?p=373952</id>
+        <link href="https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-front-end/"/>
+        <updated>2022-10-11T16:15:48.000Z</updated>
+        <summary type="html"><![CDATA[There’ve been some new tutorials popping here on CSS-Tricks for working with WordPress blocks. One of them is an introduction to WordPress block development and it’s a good place to learn what blocks are and to register them in WordPress …
+Rendering External API Data in WordPress Blocks on the Front End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Manoj Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sustainable Web Development Strategies Within An Organization]]></title>
+        <id>https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/</id>
+        <link href="https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/"/>
+        <updated>2022-10-11T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article we’ll explore some of the ways we can raise awareness and effect change within an organization, to create a more positive environmental impact.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Delightful UI Animations With Shared Element Transitions API (Part 2)]]></title>
         <id>https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/</id>
@@ -1480,28 +1531,6 @@ The Basics of Remix originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[When you try to import a module in a Python file, Python tries to resolve this module in several ways. Sometimes, Python throws the ModuleNotFoundError  afterward. What does this error mean in Python? As the name implies, this error occurs when you're trying to access or use a module]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Interactive Figma Widgets]]></title>
-        <id>https://css-tricks.com/?p=372991</id>
-        <link href="https://css-tricks.com/building-interactive-figma-widgets/"/>
-        <updated>2022-09-12T13:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.
-That said, the design part of Figma has …
-Building Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Eluda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists” (Deck With 166 Cards)]]></title>
-        <id>https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/</id>
-        <link href="https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/"/>
-        <updated>2022-09-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Smart Interface Design Patterns Checklists”, a deck of 166 checklist cards to help you design and build better interfaces, faster. With accordions, mega-drop-downs, data tables, carousels, and everything in-between.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

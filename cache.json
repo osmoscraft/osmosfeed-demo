@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373952",
+          "author": "Manoj Kumar",
+          "description": "There’ve been some new tutorials popping here on CSS-Tricks for working with WordPress blocks. One of them is an introduction to WordPress block development and it’s a good place to learn what blocks are and to register them in WordPress …\nRendering External API Data in WordPress Blocks on the Front End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-front-end/",
+          "publishedOn": "2022-10-11T16:15:48.000Z",
+          "wordCount": 2967,
+          "title": "Rendering External API Data in WordPress Blocks on the Front End",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373952"
+        },
+        {
           "id": "https://css-tricks.com/?p=373905",
           "author": "Ganesh Dahal",
           "description": "Fluid typography is a fancy way of “describing font properties, such as size or line height, that scale fluidly according to the size of the viewport”. It’s also known by other names, like responsive typography, flexible type, fluid type, …\nAdding Fluid Typography Support to WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -194,16 +204,6 @@
           "wordCount": 2762,
           "title": "The Basics of Remix",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373081"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372991",
-          "author": "Eluda",
-          "description": "Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.\nThat said, the design part of Figma has …\nBuilding Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/building-interactive-figma-widgets/",
-          "publishedOn": "2022-09-12T13:05:20.000Z",
-          "wordCount": 4452,
-          "title": "Building Interactive Figma Widgets",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372991"
         }
       ]
     },
@@ -212,6 +212,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article we’ll explore some of the ways we can raise awareness and effect change within an organization, to create a more positive environmental impact.",
+          "link": "https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/",
+          "publishedOn": "2022-10-11T15:30:00.000Z",
+          "wordCount": 4997,
+          "title": "Sustainable Web Development Strategies Within An Organization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9507c0d1-3621-43ae-9996-0f85fe77dbef/sustainable-web-development-strategies-organization.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part2/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -526,21 +541,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b5f0e5d2-bebc-4ea0-bf42-5557f79ab433/wai-aria-guide.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Smart Interface Design Patterns Checklists”, a deck of 166 checklist cards to help you design and build better interfaces, faster. With accordions, mega-drop-downs, data tables, carousels, and everything in-between.",
-          "link": "https://smashingmagazine.com/2022/09/smart-interface-design-checklist-cards-release/",
-          "publishedOn": "2022-09-12T13:00:00.000Z",
-          "wordCount": 3967,
-          "title": "Meet “Smart Interface Design Patterns Checklists” (Deck With 166 Cards)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/228ff9a3-0d50-47c4-bf6b-7a1efdcd08f4/smashing-checklist-cards-box.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/228ff9a3-0d50-47c4-bf6b-7a1efdcd08f4/smashing-checklist-cards-box.jpg"
         }
       ]
     },
@@ -549,6 +549,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you",
+          "link": "https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/",
+          "publishedOn": "2022-10-11T23:18:26.000Z",
+          "wordCount": 1487,
+          "title": "How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--13-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
+          "author": "Avdhoot Fulsundar",
+          "description": "Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many",
+          "link": "https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/",
+          "publishedOn": "2022-10-11T23:11:17.000Z",
+          "wordCount": 1317,
+          "title": "Best Free Resources to Learn Golang – Go Coding Courses",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Gradient-Modern-Digital-Marketing-Facebook-Cover--36-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-programming-tips/",
+          "author": "David Fagbuyiro",
+          "description": "Python is one of the most popular programming languages out there today. Its simplicity and readability make it a favorite among many programmers. So in this tutorial, I'm sharing a few pointers and strategies to help you improve your Python programming skills. How to Reverse a String in Python In",
+          "link": "https://www.freecodecamp.org/news/python-programming-tips/",
+          "publishedOn": "2022-10-11T19:47:25.000Z",
+          "wordCount": 1539,
+          "title": "Python Programming Tips to Help You Level Up Your Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-ankush-rathi-925067.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/typescript-generics-use-case-example/",
           "author": "Aman Kalra",
