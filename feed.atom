@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-13T01:48:51.538Z</updated>
+    <updated>2022-10-14T02:02:25.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Some Things I Took Away From An Event Apart 2022 in Denver]]></title>
+        <id>https://css-tricks.com/?p=374401</id>
+        <link href="https://css-tricks.com/some-things-i-took-away-from-an-event-apart-2022-in-denver/"/>
+        <updated>2022-10-13T20:01:00.000Z</updated>
+        <summary type="html"><![CDATA[An Event Apart 2022 Denver wrapped up yesterday. And while I was unable to make it to all three days this time, I did catch yesterday’s action — and it was awesome. I’m not very social or outgoing, but …
+Some Things I Took Away From An Event Apart 2022 in Denver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid Prop Drilling with the React Context API]]></title>
+        <id>https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/</id>
+        <link href="https://www.freecodecamp.org/news/avoid-prop-drilling-with-react-context-api/"/>
+        <updated>2022-10-13T16:52:03.000Z</updated>
+        <summary type="html"><![CDATA[The React Context API provides a way to pass data through multiple nested levels of components without having to manually pass that data to each level.  React context is one sure way of globally managing your data in your app, and it's a good way to avoid prop drilling.]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Pure CSS Gallery Focus Effect with :not]]></title>
+        <id>https://css-tricks.com/?p=373508</id>
+        <link href="https://css-tricks.com/a-pure-css-gallery-focus-effect-with-not/"/>
+        <updated>2022-10-13T15:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Oftentimes in the past, I needed to figure out how to add styles to all elements inside the container but not the hovered one.
+Demo of the expected “fade-out” effect on siblings to let users “focus” on a particular element.…
+A Pure CSS Gallery Focus Effect with :not originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Krzysztof Gonciarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effective Communication For Everyday Meetings]]></title>
+        <id>https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/</id>
+        <link href="https://smashingmagazine.com/2022/10/effective-communication-everyday-meetings/"/>
+        <updated>2022-10-13T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article about conducting productive meetings, Andrii Zhdan will give you a step-by-step guide on preparing a solid meeting structure that will let you follow the original plan and reach the meeting goals, and he will also share a few tips based on his design experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code a project three different ways (JavaScript + REST API + Database)]]></title>
+        <id>https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/</id>
+        <link href="https://www.freecodecamp.org/news/code-a-project-three-different-ways-javascript-rest-api-database/"/>
+        <updated>2022-10-13T14:06:09.000Z</updated>
+        <summary type="html"><![CDATA[When you code a similar project using different methods it helps you understand each method more. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a flight widget in JavaScript using multiple methods. First you will learn to create the project using]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Machine Learning Model in Rust]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/</id>
@@ -1470,68 +1523,6 @@ More Details on `details` originally published on CSS-Tricks, which is part of t
         <summary type="html"><![CDATA[On day 1, they barely knew what a float was. On day 14, they had programmed a game of minesweeper, a cipher decoder, or a zombie apocalypse simulation. And I helped teach them how to do it. Each summer, MIT hosts a program called WTP, or Women's Technology Program.]]></summary>
         <author>
             <name>Kylie Ying</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When is it OK to Disable Text Selection?]]></title>
-        <id>https://css-tricks.com/?p=373100</id>
-        <link href="https://css-tricks.com/when-is-it-ok-to-disable-text-selection/"/>
-        <updated>2022-09-14T13:03:04.000Z</updated>
-        <summary type="html"><![CDATA[Using CSS, it’s possible to prevent users from selecting text within an element using user-select: none. Now, it’s understandable why doing so might be considered “controversial”. I mean, should we be disabling standard user behaviors? Generally speaking, no, we …
-When is it OK to Disable Text Selection? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript APIs You Don’t Know About]]></title>
-        <id>https://smashingmagazine.com/2022/09/javascript-api-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/javascript-api-guide/"/>
-        <updated>2022-09-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Juan Diego covers the least known yet extremely useful APIs, such as the Page Visibility API, Web Sharing API, Broadcast Channel API and Internationalization API. Together we will see what they are, where we should use them, and how to use them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL vs NoSQL: When to Use Which]]></title>
-        <id>https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/sql-vs-nosql-tutorial/"/>
-        <updated>2022-09-14T03:38:22.000Z</updated>
-        <summary type="html"><![CDATA[When should you use a SQL database and when should you use a NoSQL database? We just published a course on the freeCodeCamp.org YouTube channel that will teach you the differences between NoSQL and SQL databases as well as when and why to use each kind of database. Ania Kubow]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Static Markdown Blog with Deno and Deploy It]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-blog-with-deno/"/>
-        <updated>2022-09-13T16:46:28.000Z</updated>
-        <summary type="html"><![CDATA[Deno is a runtime for JavaScript and TypeScript. The creator of Node.js built it, and while Node is built with C and C++, Deno is built with the Rust language. You might be wondering what some of the main differences between Node and Deno are. Well, Rust is a low-level]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebKit Features in Safari 16.0]]></title>
-        <id>https://css-tricks.com/?p=373367</id>
-        <link href="https://css-tricks.com/webkit-features-in-safari-16-0/"/>
-        <updated>2022-09-13T16:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Whew boy, Safari 16 is officially out in the wild and it packs in a bunch of features, some new and exciting (Subgrid! Container Queries! Font Palettes!) and others we’ve been waiting on for better cross-browser support (Motion Path! Overscroll …
-WebKit Features in Safari 16.0 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sort Dictionary by Value in Python – How to Sort a Dict]]></title>
-        <id>https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/"/>
-        <updated>2022-09-13T15:16:42.000Z</updated>
-        <summary type="html"><![CDATA[In Python, a dictionary is a fat structure that is unordered by default. So, sometimes, you'll want to sort dictionaries by key or value to make queries easier. The problem is that sorting a dictionary by value is never a straightforward thing to do. That’s because Python doesn’t have an]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
