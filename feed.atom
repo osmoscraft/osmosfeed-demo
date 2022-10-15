@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-14T02:02:25.016Z</updated>
+    <updated>2022-10-15T01:55:17.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[find() vs filter() in JavaScript – Differences Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/find-vs-filter-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/find-vs-filter-javascript/"/>
+        <updated>2022-10-14T22:22:22.000Z</updated>
+        <summary type="html"><![CDATA[A common interview question that JavaScript developers often get asked is to explain the difference between the find() and filter() methods.  In this tutorial today, I'll walk you through what these methods are and when you should use them. What is the filter() method? This method returns all the]]></summary>
+        <author>
+            <name>Aman Kalra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the CSScenes, October 2022]]></title>
+        <id>https://css-tricks.com/?p=374393</id>
+        <link href="https://css-tricks.com/behind-the-csscenes-october-2022/"/>
+        <updated>2022-10-14T21:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Well, hey, welcome back to Behind the CSScenes! These posts are like little check-ins we’re doing each month to give you a peek behind what we’re doing here at CSS-Tricks, as well as a chance for us to pause …
+Behind the CSScenes, October 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Haley Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Copy Text to the Clipboard with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/copy-text-to-clipboard-javascript/"/>
+        <updated>2022-10-14T21:18:48.000Z</updated>
+        <summary type="html"><![CDATA[When you're building advanced web pages and applications, you'll sometimes want to add the copy feature. This lets your users simply click a button or icon to copy text rather than highlighting the text and clicking a couple of buttons on the keyboard. This feature is mostly used when someone]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Add to an Array – JS Append]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-add-to-an-array-js-append/"/>
+        <updated>2022-10-14T18:29:54.000Z</updated>
+        <summary type="html"><![CDATA[You can use arrays in JavaScript to store a group of variables, often referred to as elements or items of the array. Each of these elements will have an index number assigned to them starting from zero.  By default, you can use the index of an element in an]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UX vs UI – What's the Difference? Definition and Meaning]]></title>
+        <id>https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/</id>
+        <link href="https://www.freecodecamp.org/news/ux-vs-ui-whats-the-difference-definition-and-meaning/"/>
+        <updated>2022-10-14T16:15:57.000Z</updated>
+        <summary type="html"><![CDATA[When designing a website or an app, the finished product needs to be functional, intuitive, and aesthetically pleasing. This is where UX and UI design come in. UX and UI design are two technical terms that can often be confusing. Many people may use these two terms interchangeably, incorrectly, or]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Developer Journey – How I Learned to Code with Dyslexia and ADHD]]></title>
+        <id>https://www.freecodecamp.org/news/developer-journey/</id>
+        <link href="https://www.freecodecamp.org/news/developer-journey/"/>
+        <updated>2022-10-14T16:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, I'm Jalmari Ikävalko, a software developer in my early 30s. In this article, I’ll share my whole journey from my first contact with code to becoming the professional developer I am today.  I'll start from my childhood when I first got interested in programming. My Introduction to]]></summary>
+        <author>
+            <name>Jalmari Ikävalko</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy Image Decorations: Single Element Magic]]></title>
+        <id>https://css-tricks.com/?p=373965</id>
+        <link href="https://css-tricks.com/fancy-image-decorations-single-element-magic/"/>
+        <updated>2022-10-14T15:37:28.000Z</updated>
+        <summary type="html"><![CDATA[As the title says, we are going to decorate images! There’s a bunch of other articles out there that talk about this, but what we’re covering here is quite a bit different because it’s more of a challenge. The challenge? …
+Fancy Image Decorations: Single Element Magic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some Things I Took Away From An Event Apart 2022 in Denver]]></title>
         <id>https://css-tricks.com/?p=374401</id>
@@ -1442,87 +1514,6 @@ Making a Real-Time Clock With a Conic Gradient Face originally published on CSS-
         <summary type="html"><![CDATA[Kali Linux (formerly known as BackTrack) is an open-source Linux distro developed and funded by Offensive Security.  It’s basically an ethical hacker's dream operating system, because it has most of the tools you'll ever need built-in. From Metasploit to JohntheRipper to the one and only Aircrack-ng, this OS has]]></summary>
         <author>
             <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Details on `details`]]></title>
-        <id>https://css-tricks.com/?p=373372</id>
-        <link href="https://css-tricks.com/more-details-on-details/"/>
-        <updated>2022-09-15T13:12:40.000Z</updated>
-        <summary type="html"><![CDATA[A lot of chatter around the ol’ <details> and <summary> elements lately! I saw Lea Verou recently tweet an observation about the element’s display behavior and that sorta splintered into more observations and usage notes from folks, including a revived …
-More Details on `details` originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessibility In Times Of Headless]]></title>
-        <id>https://smashingmagazine.com/2022/09/accessibility-times-headless/</id>
-        <link href="https://smashingmagazine.com/2022/09/accessibility-times-headless/"/>
-        <updated>2022-09-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to make your new website as accessible as possible? Amazing, that’s a great mindset! Let’s have a closer look at the factors you should take into consideration when choosing a content management system (CMS) in terms of web accessibility.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Josefine Schaefer)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Pivot Table in Excel]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-pivot-table-in-excel/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-pivot-table-in-excel/"/>
-        <updated>2022-09-14T22:35:36.000Z</updated>
-        <summary type="html"><![CDATA[In Excel, pivot tables let you analyze and visualize your data in an easy way. With pivot tables, you can make comparisons and create calculations more quickly. You can even create charts to visualize your data. Creating pivot tables might be intimidating if you're doing it for the first time.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Evaluate Machine Learning Models using TensorBoard with TensorFlow]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-evaluate-machine-learning-models-using-tensorboard/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-evaluate-machine-learning-models-using-tensorboard/"/>
-        <updated>2022-09-14T18:31:32.000Z</updated>
-        <summary type="html"><![CDATA[Improving a Machine Learning model is an iterative process. No machine learning model is ever perfect on the first attempt at training it. It usually takes a few iterations.  But a common mistake you might make as a Machine Learning practitioner is failing to realize that you need to]]></summary>
-        <author>
-            <name>Salim Oyinlola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn HTML and CSS from the CEO of Scrimba]]></title>
-        <id>https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/</id>
-        <link href="https://www.freecodecamp.org/news/learn-html-and-css-from-the-ceo-of-scrimba/"/>
-        <updated>2022-09-14T18:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Almost every website in the world uses HTML and CSS. So you should definitely learn them if you want to create websites. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build websites with HTML and CSS. Per Borgan created this course. Per]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Practices for Scaling Your Node.js REST APIs]]></title>
-        <id>https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling/</id>
-        <link href="https://www.freecodecamp.org/news/nodejs-api-best-practices-for-scaling/"/>
-        <updated>2022-09-14T16:59:00.000Z</updated>
-        <summary type="html"><![CDATA[There is more to scalability than using cluster mode. In this tutorial, we'll explore 10 ways you can make your Node.js API ready to scale. When working on a project, we often get a few real nuggets here and there on how to do something in a better way. We]]></summary>
-        <author>
-            <name>Rishabh Rawat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kernel Security Check Failure – How to Restart the Kernel in Windows 10]]></title>
-        <id>https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/</id>
-        <link href="https://www.freecodecamp.org/news/kernel-security-check-failure-how-to-restart-the-kernel-in-windows-10/"/>
-        <updated>2022-09-14T15:41:50.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been a professional software engineer for many years, and I can testify that there are few things worse than getting the dreaded BSOD (Blue Screen of Death). Especially when you are about to write a piece of mind bending code at 2am to meet a looming deadline.  That’s]]></summary>
-        <author>
-            <name>Gavin Lon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Learned Teaching 20 High School Girls How to Code]]></title>
-        <id>https://www.freecodecamp.org/news/what-i-learned-teaching-20-hs-girls-to-code/</id>
-        <link href="https://www.freecodecamp.org/news/what-i-learned-teaching-20-hs-girls-to-code/"/>
-        <updated>2022-09-14T14:46:14.000Z</updated>
-        <summary type="html"><![CDATA[On day 1, they barely knew what a float was. On day 14, they had programmed a game of minesweeper, a cipher decoder, or a zombie apocalypse simulation. And I helped teach them how to do it. Each summer, MIT hosts a program called WTP, or Women's Technology Program.]]></summary>
-        <author>
-            <name>Kylie Ying</name>
         </author>
     </entry>
 </feed>
