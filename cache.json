@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374466",
+          "author": "Geoff Graham",
+          "description": "By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.\n.wrapper {\n  margin-inline: max(0px, ((100% - 64rem) / 2)); \n}\nYou’d be doing yourself a favor to read Manuel’s breakdown of …\nManuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/manuel-matuzovic-max-trickery/",
+          "publishedOn": "2022-10-18T13:54:38.000Z",
+          "wordCount": 940,
+          "title": "Manuel Matuzovic: max() Trickery",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374466"
+        },
+        {
           "id": "https://css-tricks.com/?p=373600",
           "author": "Lu Wang",
           "description": "Are you a Bezier curve lover like I am?\nCodePen Embed Fallback\nBesides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas:\nAs a \n…\nPure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -214,16 +224,6 @@
           "wordCount": 1515,
           "title": "CSS Checkerboard Background… But With Rounded Corners and Hover Styles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373167"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373184",
-          "author": "Brecht De Ruyte",
-          "description": "Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …\nMaking a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/",
-          "publishedOn": "2022-09-19T12:58:09.000Z",
-          "wordCount": 1949,
-          "title": "Making a Real-Time Clock With a Conic Gradient Face",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373184"
         }
       ]
     },
@@ -539,6 +539,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/linux-command-line-tutorial/",
+          "author": "Destiny Erhabor",
+          "description": "An operating system is a set of software layers between you and your computer's hardware.  The operating system (or OS) is a piece of software that controls all other application programs and helps you manage the hardware and software of your computer. Examples of popular operating systems are Windows,",
+          "link": "https://www.freecodecamp.org/news/linux-command-line-tutorial/",
+          "publishedOn": "2022-10-18T23:33:44.000Z",
+          "wordCount": 3584,
+          "title": "Linux Command Line Tutorial – How to Use Common Terminal Commands",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-sora-shimazaki-5935794--3-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/wi-fi-hacking-101/",
+          "author": "Daniel Iwugo",
+          "description": "Welcome to the world of Wi-Fi hacking, everybody. 💻. In my previous article [/news/linux-basics/], we talked about some basic Linux skills and tricks. In this article you are going to learn a basic Wi-Fi hacking procedure using those skills. You'll learn things such as how to:  1. Monitor Wi-Fi",
+          "link": "https://www.freecodecamp.org/news/wi-fi-hacking-101/",
+          "publishedOn": "2022-10-18T20:37:37.000Z",
+          "wordCount": 3012,
+          "title": "Wi-Fi Hacking 101 – How to Hack WPA2 and Defend Against These Attacks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/image-74-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, you'll learn the different methods of appending strings in Python.  Another term commonly used when talking about appending strings is concatenation. So you'll often see these terms — append and concatenate — used interchangeably.  Either way, to append or concatenate strings means to add or",
+          "link": "https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/",
+          "publishedOn": "2022-10-18T19:33:59.000Z",
+          "wordCount": 1417,
+          "title": "Append a String in Python – STR Appending",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/alex-chumak-zGuBURGGmdY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/go-beginners-handbook/",
+          "author": "Flavio Copes",
+          "description": "Golang is an awesome, simple, modern, and fast programming language. It’s compiled, open source, and strongly typed. Golang – also called Go – was created by Google engineers with these main goals:  * make their projects compile (and run) faster  * be simple so people can pick it",
+          "link": "https://www.freecodecamp.org/news/go-beginners-handbook/",
+          "publishedOn": "2022-10-18T18:35:37.000Z",
+          "wordCount": 5845,
+          "title": "The Go Handbook – Learn Golang for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-christina-morillo-1181290.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
+          "author": "Rajdeep Singh",
+          "description": "Tauri is a new Rust-based framework that builds an x86_64 cross-platform application for Windows, macOS, and Linux.  In this tutorial, we'll use Tauri and Next.js to build a desktop-based cross-platform application and publish it to the Snap store and AppImage. So why is building a cross-platform app, that works",
+          "link": "https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/",
+          "publishedOn": "2022-10-18T16:38:44.000Z",
+          "wordCount": 5058,
+          "title": "How to Build a Cross-Platform Application with Next.js and Tauri",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Tauri-and-nextjs--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/github-search-tips/",
           "author": "Hillary Nyakundi",

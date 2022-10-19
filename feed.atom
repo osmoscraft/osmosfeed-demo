@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-18T01:55:13.305Z</updated>
+    <updated>2022-10-19T01:49:08.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Command Line Tutorial – How to Use Common Terminal Commands]]></title>
+        <id>https://www.freecodecamp.org/news/linux-command-line-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/linux-command-line-tutorial/"/>
+        <updated>2022-10-18T23:33:44.000Z</updated>
+        <summary type="html"><![CDATA[An operating system is a set of software layers between you and your computer's hardware.  The operating system (or OS) is a piece of software that controls all other application programs and helps you manage the hardware and software of your computer. Examples of popular operating systems are Windows,]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wi-Fi Hacking 101 – How to Hack WPA2 and Defend Against These Attacks]]></title>
+        <id>https://www.freecodecamp.org/news/wi-fi-hacking-101/</id>
+        <link href="https://www.freecodecamp.org/news/wi-fi-hacking-101/"/>
+        <updated>2022-10-18T20:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the world of Wi-Fi hacking, everybody. 💻. In my previous article [/news/linux-basics/], we talked about some basic Linux skills and tricks. In this article you are going to learn a basic Wi-Fi hacking procedure using those skills. You'll learn things such as how to:  1. Monitor Wi-Fi]]></summary>
+        <author>
+            <name>Daniel Iwugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Append a String in Python – STR Appending]]></title>
+        <id>https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/</id>
+        <link href="https://www.freecodecamp.org/news/append-a-string-in-python-str-appending/"/>
+        <updated>2022-10-18T19:33:59.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn the different methods of appending strings in Python.  Another term commonly used when talking about appending strings is concatenation. So you'll often see these terms — append and concatenate — used interchangeably.  Either way, to append or concatenate strings means to add or]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Go Handbook – Learn Golang for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/go-beginners-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/go-beginners-handbook/"/>
+        <updated>2022-10-18T18:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Golang is an awesome, simple, modern, and fast programming language. It’s compiled, open source, and strongly typed. Golang – also called Go – was created by Google engineers with these main goals:  * make their projects compile (and run) faster  * be simple so people can pick it]]></summary>
+        <author>
+            <name>Flavio Copes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Cross-Platform Application with Next.js and Tauri]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-cross-platform-app-with-next-and-tauri/"/>
+        <updated>2022-10-18T16:38:44.000Z</updated>
+        <summary type="html"><![CDATA[Tauri is a new Rust-based framework that builds an x86_64 cross-platform application for Windows, macOS, and Linux.  In this tutorial, we'll use Tauri and Next.js to build a desktop-based cross-platform application and publish it to the Snap store and AppImage. So why is building a cross-platform app, that works]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manuel Matuzovic: max() Trickery]]></title>
+        <id>https://css-tricks.com/?p=374466</id>
+        <link href="https://css-tricks.com/manuel-matuzovic-max-trickery/"/>
+        <updated>2022-10-18T13:54:38.000Z</updated>
+        <summary type="html"><![CDATA[By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.
+.wrapper {
+  margin-inline: max(0px, ((100% - 64rem) / 2)); 
+}
+You’d be doing yourself a favor to read Manuel’s breakdown of …
+Manuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub]]></title>
         <id>https://www.freecodecamp.org/news/github-search-tips/</id>
@@ -1488,17 +1553,6 @@ CSS Checkerboard Background… But With Rounded Corners and Hover Styles origina
         <summary type="html"><![CDATA[Test Driven Development (TDD) is one of the best ways to make sure your code is high quality and works like it's supposed to work. It can also help you create reliable builds during continuous deployments.  In this post, we will learn how to create a Svelte application using]]></summary>
         <author>
             <name>Sriram Thiagarajan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Real-Time Clock With a Conic Gradient Face]]></title>
-        <id>https://css-tricks.com/?p=373184</id>
-        <link href="https://css-tricks.com/making-a-real-time-clock-with-a-conic-gradient-face/"/>
-        <updated>2022-09-19T12:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Gradients have been a part of the CSS spectrum for quite some time now. We see a lot of radial and linear gradients in a lot of projects, but there is one type of gradient that seems to be a …
-Making a Real-Time Clock With a Conic Gradient Face originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Brecht De Ruyte</name>
         </author>
     </entry>
 </feed>
