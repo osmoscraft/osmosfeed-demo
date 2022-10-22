@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-21T01:37:24.725Z</updated>
+    <updated>2022-10-22T01:44:24.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Upload Files to Azure using NestJS and typeORM with MySQL]]></title>
+        <id>https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/</id>
+        <link href="https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/"/>
+        <updated>2022-10-21T23:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page]]></title>
+        <id>https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/</id>
+        <link href="https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/"/>
+        <updated>2022-10-21T23:12:52.000Z</updated>
+        <summary type="html"><![CDATA[Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an ORM – The Meaning of Object Relational Mapping Database Tools]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/"/>
+        <updated>2022-10-21T18:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Object Relational Mapping (ORM) is a technique used in creating a "bridge" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Ethernet Protocol Works – A Complete Guide]]></title>
+        <id>https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/</id>
+        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/"/>
+        <updated>2022-10-21T17:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy Image Decorations: Masks and Advanced Hover Effects]]></title>
+        <id>https://css-tricks.com/?p=374194</id>
+        <link href="https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/"/>
+        <updated>2022-10-21T12:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …
+Fancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Futuristic CSS]]></title>
+        <id>https://smashingmagazine.com/2022/10/futuristic-css/</id>
+        <link href="https://smashingmagazine.com/2022/10/futuristic-css/"/>
+        <updated>2022-10-21T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sacha Greif)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Object Oriented Programming in Python – Full Crash Course]]></title>
         <id>https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/</id>
@@ -1430,101 +1491,6 @@ How I Made an Icon System Out of CSS Custom Properties originally published on C
         <summary type="html"><![CDATA[Understanding algorithms in an important skill for many computer science jobs. Algorithms help us solve problems efficiently. We just published an introduction to algorithms with Python course on the freeCodeCamp.org YouTube channel. In this course, you'll work with algorithm basics like recursion then go all the way to working with]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I Wish I Had Known About Angular When I Started]]></title>
-        <id>https://smashingmagazine.com/2022/09/angular-guide/</id>
-        <link href="https://smashingmagazine.com/2022/09/angular-guide/"/>
-        <updated>2022-09-22T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (William Juan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use CSS Combinators to Select and Style Elements]]></title>
-        <id>https://www.freecodecamp.org/news/css-combinators-to-select-elements/</id>
-        <link href="https://www.freecodecamp.org/news/css-combinators-to-select-elements/"/>
-        <updated>2022-09-21T23:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
-        <id>https://css-tricks.com/?p=373639</id>
-        <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
-        <updated>2022-09-21T21:53:44.000Z</updated>
-        <summary type="html"><![CDATA[The latest spec:
-A style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.
-Louis Lazaris:
-As the above quote from W3C indicates, it seems 
-…
-CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Remove Last Commit – How to Undo a Commit in Git]]></title>
-        <id>https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/"/>
-        <updated>2022-09-21T17:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generic PNP Monitor – How to Fix Windows 10 PC Device Driver]]></title>
-        <id>https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/</id>
-        <link href="https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/"/>
-        <updated>2022-09-21T16:18:08.000Z</updated>
-        <summary type="html"><![CDATA[Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Software Testing? A Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/software-testing-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/software-testing-beginners-guide/"/>
-        <updated>2022-09-21T16:03:49.000Z</updated>
-        <summary type="html"><![CDATA[Software testing is essential to development. It saves you time and money in production mode.  But software testing is a complex topic and can be a bit difficult to understand. In this article, I'll explain the major topics in software testing and how this practice can help you.]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp is Building a NEAR Curriculum]]></title>
-        <id>https://www.freecodecamp.org/news/near-curriculum/</id>
-        <link href="https://www.freecodecamp.org/news/near-curriculum/"/>
-        <updated>2022-09-21T15:10:19.000Z</updated>
-        <summary type="html"><![CDATA[Over the past 9 months, several of our instructors have been hard at work on a comprehensive NEAR curriculum. This will focus on NEAR's blockchain protocol and the NEAR tool ecosystem. This curriculum is made possible by NEAR Foundation, who gave our charity a grant to 100% fund development of]]></summary>
-        <author>
-            <name>Tom Mondloch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp is Building a Solana Curriculum]]></title>
-        <id>https://www.freecodecamp.org/news/solana-curriculum/</id>
-        <link href="https://www.freecodecamp.org/news/solana-curriculum/"/>
-        <updated>2022-09-21T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Over the past 9 months, we've made considerable progress on our Solana curriculum. This will focus on Solana's blockchain protocol and the Solana tool ecosystem. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this]]></summary>
-        <author>
-            <name>Tom Mondloch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it]]></title>
-        <id>https://www.freecodecamp.org/news/web3-curriculum-open-beta/</id>
-        <link href="https://www.freecodecamp.org/news/web3-curriculum-open-beta/"/>
-        <updated>2022-09-21T14:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation]]></summary>
-        <author>
-            <name>Tom Mondloch</name>
         </author>
     </entry>
 </feed>

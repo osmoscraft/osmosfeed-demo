@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374194",
+          "author": "Temani Afif",
+          "description": "Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …\nFancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/",
+          "publishedOn": "2022-10-21T12:46:27.000Z",
+          "wordCount": 2860,
+          "title": "Fancy Image Decorations: Masks and Advanced Hover Effects",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374194"
+        },
+        {
           "id": "https://css-tricks.com/?p=374470",
           "author": "Geoff Graham",
           "description": "I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …\nInstant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -234,16 +244,6 @@
           "wordCount": 2123,
           "title": "How I Made an Icon System Out of CSS Custom Properties",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373111"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373639",
-          "author": "Geoff Graham",
-          "description": "The latest spec:\nA style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.\nLouis Lazaris:\nAs the above quote from W3C indicates, it seems \n…\nCSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-rules-vs-css-rulesets/",
-          "publishedOn": "2022-09-21T21:53:44.000Z",
-          "wordCount": 922,
-          "title": "CSS Rules vs. CSS Rulesets",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
         }
       ]
     },
@@ -252,6 +252,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "author": "hello@smashingmagazine.com (Sacha Greif)",
+          "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
+          "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
+          "publishedOn": "2022-10-21T12:00:00.000Z",
+          "wordCount": 4506,
+          "title": "Futuristic CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
           "author": "hello@smashingmagazine.com (Patrick Brosset)",
@@ -506,21 +521,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/273285f3-018f-4ce0-9c9c-06310070caaf/lessons-learned-designer-founder.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/angular-guide/",
-          "author": "hello@smashingmagazine.com (William Juan)",
-          "description": "If you’re considering learning Angular, this article sums up what William Juan wished he knew when he started, including the mistakes made and lessons learned the hard way.",
-          "link": "https://smashingmagazine.com/2022/09/angular-guide/",
-          "publishedOn": "2022-09-22T13:00:00.000Z",
-          "wordCount": 5673,
-          "title": "Things I Wish I Had Known About Angular When I Started",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef27939e-040f-49bc-bd4e-1af6d80a84ac/angular-guide.jpg"
         }
       ]
     },
@@ -529,6 +529,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/",
+          "author": "Destiny Erhabor",
+          "description": "Images and videos are examples of huge files that might be stored in your database. And this might impact the performance of your applications because of the amount of space that those files can take up.  Also, it expands the database, which makes backups larger and slower. Because of",
+          "link": "https://www.freecodecamp.org/news/upload-files-to-azure-using-nestjs-and-typeorm-with-mysql/",
+          "publishedOn": "2022-10-21T23:13:08.000Z",
+          "wordCount": 3173,
+          "title": "How to Upload Files to Azure using NestJS and typeORM with MySQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-panumas-nikhomkhai-1148820.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/",
+          "author": "Ophy Boamah",
+          "description": "Your web layout is to your website what a floor plan is to a building. Without them, you’re just building castles in the air.  The first thing to do when you have a website or application to build or design is to decide on the layout. This is important",
+          "link": "https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/",
+          "publishedOn": "2022-10-21T23:12:52.000Z",
+          "wordCount": 3971,
+          "title": "Web Layouts – How to Use CSS Grid and Flex to Create a Responsive Web Page",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/WebLayouts-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Object Relational Mapping (ORM) is a technique used in creating a \"bridge\" between object-oriented programs and, in most cases, relational databases [/news/what-is-a-relational-database-rdbms-definition/]. Put another way, you can see the ORM as the layer that connects object oriented programming [/news/four-pillars-of-object-oriented-programming/] (OOP) to relational databases.  When interacting with a database using",
+          "link": "https://www.freecodecamp.org/news/what-is-an-orm-the-meaning-of-object-relational-mapping-database-tools/",
+          "publishedOn": "2022-10-21T18:18:25.000Z",
+          "wordCount": 1465,
+          "title": "What is an ORM – The Meaning of Object Relational Mapping Database Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/markus-winkler-gLdJnQFcIXE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
+          "author": "Omer Rosenbaum",
+          "description": "Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-the-ethernet-protocol/",
+          "publishedOn": "2022-10-21T17:12:40.000Z",
+          "wordCount": 4888,
+          "title": "How the Ethernet Protocol Works – A Complete Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Computer-Networks-Ethernet--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/",
           "author": "Lane Wagner",
@@ -1518,76 +1558,6 @@
           "wordCount": 969,
           "title": "Intro to Algorithms with Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/algos_python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
-          "author": "Dillion Megida",
-          "description": "Combinators allow you to combine multiple selectors to target specific elements in the DOM. In this article, I'll explain how four of these combinators with examples. In my previous post on CSS Selector Types [/news/how-to-select-elements-to-style-in-css/], I shared seven types of selectors for targetting elements that you want to style. If",
-          "link": "https://www.freecodecamp.org/news/css-combinators-to-select-elements/",
-          "publishedOn": "2022-09-21T23:17:05.000Z",
-          "wordCount": 1742,
-          "title": "How to Use CSS Combinators to Select and Style Elements",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/css-combinations.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
-          "author": "Dionysia Lemonaki",
-          "description": "Git is a powerful tool and the most popular version control system. It is how developers and technical teams collaborate and work together on projects. But what happens when you accidentally commit a file and realize that you shouldn't have done that because that file contains an error? There is",
-          "link": "https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/",
-          "publishedOn": "2022-09-21T17:42:10.000Z",
-          "wordCount": 2004,
-          "title": "Git Remove Last Commit – How to Undo a Commit in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/pexels-andrew-neel-2312369.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
-          "author": "Kolade Chris",
-          "description": "Have you acquired a new monitor only to find out it's not displaying anything from your computer? Or maybe the monitor suddenly stops working? On many occasions, this problem is caused by a faulty generic PNP monitor driver. Apart from driver issues, the monitor might not be working due to",
-          "link": "https://www.freecodecamp.org/news/generic-pnp-monitor-how-to-fix-windows-10-pc-device-driver/",
-          "publishedOn": "2022-09-21T16:18:08.000Z",
-          "wordCount": 1295,
-          "title": "Generic PNP Monitor – How to Fix Windows 10 PC Device Driver",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/monitor-1307227_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
-          "author": "Sophia Iroegbu",
-          "description": "Software testing is essential to development. It saves you time and money in production mode.  But software testing is a complex topic and can be a bit difficult to understand. In this article, I'll explain the major topics in software testing and how this practice can help you.",
-          "link": "https://www.freecodecamp.org/news/software-testing-beginners-guide/",
-          "publishedOn": "2022-09-21T16:03:49.000Z",
-          "wordCount": 2614,
-          "title": "What is Software Testing? A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Tech-Blog-Cover--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/near-curriculum/",
-          "author": "Tom Mondloch",
-          "description": "Over the past 9 months, several of our instructors have been hard at work on a comprehensive NEAR curriculum. This will focus on NEAR's blockchain protocol and the NEAR tool ecosystem. This curriculum is made possible by NEAR Foundation, who gave our charity a grant to 100% fund development of",
-          "link": "https://www.freecodecamp.org/news/near-curriculum/",
-          "publishedOn": "2022-09-21T15:10:19.000Z",
-          "wordCount": 1186,
-          "title": "freeCodeCamp is Building a NEAR Curriculum",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/joshua-newton-IRXYNAMlUtw-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/solana-curriculum/",
-          "author": "Tom Mondloch",
-          "description": "Over the past 9 months, we've made considerable progress on our Solana curriculum. This will focus on Solana's blockchain protocol and the Solana tool ecosystem. This curriculum is made possible by The Solana Foundation, who gave our charity a grant to 100% fund development of this curriculum. What will this",
-          "link": "https://www.freecodecamp.org/news/solana-curriculum/",
-          "publishedOn": "2022-09-21T15:00:18.000Z",
-          "wordCount": 1184,
-          "title": "freeCodeCamp is Building a Solana Curriculum",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/arturo-castaneyra-7laIG_Xv5FI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
-          "author": "Tom Mondloch",
-          "description": "Over the past 11 months, we've made considerable progress on our Web3 curriculum. Today I'm thrilled to say that parts of this curriculum are now in open beta. You can try them today. Before we get into the details, I want to thank the KaijuKingz community, who made a donation",
-          "link": "https://www.freecodecamp.org/news/web3-curriculum-open-beta/",
-          "publishedOn": "2022-09-21T14:45:56.000Z",
-          "wordCount": 1454,
-          "title": "freeCodeCamp's Web3 Curriculum Open Beta – And How to Run it",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/thomas-habr-wprOCzLIEYI-unsplash.jpg"
         }
       ]
     }
