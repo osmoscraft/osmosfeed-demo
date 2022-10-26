@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374690",
+          "author": "Brecht De Ruyte",
+          "description": "The CSS :has() pseudo class is rolling out in many browsers with Chrome and Safari already fully supporting it. It’s often referred to it as “the parent selector” — as in, we can select style a parent element from a …\nCreating Animated, Clickable Cards With the :has() Relational Pseudo Class originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-animated-clickable-cards-with-the-has-relational-pseudo-class/",
+          "publishedOn": "2022-10-25T14:15:17.000Z",
+          "wordCount": 2320,
+          "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
+        },
+        {
           "id": "https://css-tricks.com/?p=374364",
           "author": "Sacha Greif",
           "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -214,16 +224,6 @@
           "wordCount": 2450,
           "title": "Named Element IDs Can Be Referenced as JavaScript Globals",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373209"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373403",
-          "author": "Temani Afif",
-          "description": "The wave is probably one of the most difficult shapes to make in CSS. We always try to approximate it with properties like border-radius and lots of magic numbers until we get something that feels kinda close. And that’s before …\nHow to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-create-wavy-shapes-patterns-in-css/",
-          "publishedOn": "2022-09-26T13:13:30.000Z",
-          "wordCount": 4304,
-          "title": "How to Create Wavy Shapes & Patterns in CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373403"
         }
       ]
     },
@@ -486,21 +486,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b4b98819-8676-4a35-b3a1-ab5428b36784/data-loading-patterns-boost-web-performance.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "SmashingConf NYC is back! A friendly, inclusive conference for designers and front-end engineers who can’t wait to learn and be inspired. October 10–13, 2022. Get your ticket!",
-          "link": "https://smashingmagazine.com/2022/09/meet-smashingconf-new-york/",
-          "publishedOn": "2022-09-26T10:30:00.000Z",
-          "wordCount": 3158,
-          "title": "Meet SmashingConf New York 🇺🇸 (Oct 10&ndash;13)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6b0218f4-6266-412a-ace8-ea05b1ad688d/smashingconf-ny-banner.png"
         }
       ]
     },
@@ -509,6 +494,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "One of the beautiful things about Python is that it is generally one of the most intuitive programming languages out there. Still, certain concepts can be difficult to grasp and comprehend. The lambda function is one of them.  I've been there. When I first started learning Python, I skipped",
+          "link": "https://www.freecodecamp.org/news/python-lambda-function-explained/",
+          "publishedOn": "2022-10-25T20:37:45.000Z",
+          "wordCount": 1725,
+          "title": "How the Python Lambda Function Works – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-45246--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
+          "author": "Sharvin Shah",
+          "description": "Hello, welcome to this tutorial. Today we're going to build a production-ready eCommerce website using ReactJS, TailwindCSS, PlanetScale, and Stripe. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide. If you're not and need to brush up,",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-ecommerce-website-using-next-js-and-planetscale/",
+          "publishedOn": "2022-10-25T16:30:14.000Z",
+          "wordCount": 6999,
+          "title": "How to Build a Production Ready eCommerce Website with ReactJS, TailwindCSS, PlanetScale and Stripe",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Add-a-heading.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+          "author": "Quincy Larson",
+          "description": "Happy birthday to the global freeCodeCamp community. 8 years ago, we started this grass-roots community of learners. Back then, freeCodeCamp sounded like an improbable dream. But we all rolled up our sleeves and got to work making it a reality. Today, more than a million people use freeCodeCamp each day.",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-math-computer-science-degree-update/",
+          "publishedOn": "2022-10-25T13:52:49.000Z",
+          "wordCount": 2035,
+          "title": "freeCodeCamp Turns 8 Years Old: Data Science Courses + University Degrees Update",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/freeCodeCamp-Data-Science-Courses-and-Degrees.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/payment-request-api-javascript/",
           "author": "Atta ✨",
@@ -1528,16 +1543,6 @@
           "wordCount": 1500,
           "title": "HTML Drop-down Menu – How to Add a Drop-Down List with the Select Element",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/cover-template--9-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-git-and-github/",
-          "author": "Segun Ajibola",
-          "description": "Git and GitHub are common tools used in programming. They help you manage different versions of your code and collaborate with other developers. Building projects is one of the core parts of being a developer. And Git and GitHub are essential tools you'll use when building projects with others. But",
-          "link": "https://www.freecodecamp.org/news/introduction-to-git-and-github/",
-          "publishedOn": "2022-09-26T05:23:00.000Z",
-          "wordCount": 2199,
-          "title": "How to Use Git and GitHub – Introduction for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Untitled-design--6-.png"
         }
       ]
     }
