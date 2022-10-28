@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-27T01:38:21.481Z</updated>
+    <updated>2022-10-28T01:46:29.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a GitHub OAuth Application]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-a-github-oauth-application/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-github-oauth-application/"/>
+        <updated>2022-10-27T21:31:36.000Z</updated>
+        <summary type="html"><![CDATA[GitHub is an incredibly useful OAuth provider, especially if you are building an application targeted toward developers.  In this article, we will give you a quick rundown of how to set up a GitHub OAuth application. Create Your Application Begin by navigating to your GitHub settings (make sure you]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Forms in React using react-hook-form]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-forms-in-react-using-react-hook-form/"/>
+        <updated>2022-10-27T19:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Creating forms in React is a complex task. It involves handling all the input states and their changes and validating that input when the form gets submitted. For simple forms, things are generally manageable. But as your form gets more complex and you need to add various validations, it becomes]]></summary>
+        <author>
+            <name>Yogesh Chavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open an XML File]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-open-an-xml-file/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-an-xml-file/"/>
+        <updated>2022-10-27T18:58:02.000Z</updated>
+        <summary type="html"><![CDATA[XML stands for eXtensible Markup Language. XML files are readable files that describe the structure of data. You store XML files with the .xml extension. An XML file contains tags that specify how the document should be structured and how it should be stored and transmitted over the internet. It]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Unit Tests for Python Functions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-unit-tests-for-python-functions/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-unit-tests-for-python-functions/"/>
+        <updated>2022-10-27T18:53:00.000Z</updated>
+        <summary type="html"><![CDATA[This guide will teach you how to write unit tests for Python functions. But why should you consider writing unit tests at all? Well, when working on a large project, you'll often have to update certain modules and refactor code as needed. But such changes can have unintended consequences on]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python Programming – Everything You Need to Know (Free Book)]]></title>
+        <id>https://www.freecodecamp.org/news/learn-python-book/</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-book/"/>
+        <updated>2022-10-27T16:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Python is one of the most popular programming languages in the world today. It was created in 1991 by Guido van Rossum. According to van Rossum, Python is a: > “high-level programming language, and its core design philosophy is all about code readability and a syntax which allows programmers to]]></summary>
+        <author>
+            <name>Fatos Morina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Network Devices – How Hubs and Switches Work and How to Secure Them]]></title>
+        <id>https://www.freecodecamp.org/news/how-hub-switch-work-and-how-to-protect-them/</id>
+        <link href="https://www.freecodecamp.org/news/how-hub-switch-work-and-how-to-protect-them/"/>
+        <updated>2022-10-27T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In a previous post [/news/the-complete-guide-to-the-ethernet-protocol/] I described every bit and byte of the Ethernet protocol. In this post you will learn about two network devices, how they work, and how this knowledge may be used by hackers. How Classic Ethernet Works Before describing the network devices, consider a network without]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Kotlin in 14 Hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-kotlin-complete-course/</id>
+        <link href="https://www.freecodecamp.org/news/learn-kotlin-complete-course/"/>
+        <updated>2022-10-27T14:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Kotlin is the most popular programming language for building Android apps and it can also be can be used for any kind of development. We just published a full Kotlin course for beginners on the freeCodeCamp.org YouTube channel. Alex Cristian developed this course. Alex is an experienced developer who has]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Find a Meeting Time and Schedule a Meeting on Microsoft 365]]></title>
         <id>https://www.freecodecamp.org/news/find-meeting-time-schedule-meeting-microsoft-365/</id>
@@ -1377,97 +1447,6 @@ Getting Started With WordPress Block Development originally published on CSS-Tri
         <summary type="html"><![CDATA[JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIFs Without the .gif: The Most Performant Image and Video Options Right Now]]></title>
-        <id>https://css-tricks.com/?p=373484</id>
-        <link href="https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now/"/>
-        <updated>2022-09-28T13:09:11.000Z</updated>
-        <summary type="html"><![CDATA[So you want an auto-playing looping video without sound? In popular vernacular this is the very meaning of the word GIF. The word has stuck around but the image format itself is ancient and obsolete. Twitter, for example, has …
-GIFs Without the .gif: The Most Performant Image and Video Options Right Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phone Numbers For Web Designers]]></title>
-        <id>https://smashingmagazine.com/2022/09/phone-numbers-web-designers/</id>
-        <link href="https://smashingmagazine.com/2022/09/phone-numbers-web-designers/"/>
-        <updated>2022-09-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Onno Westra)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Your Express.js and Mongoose Apps with Jest and SuperTest]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/"/>
-        <updated>2022-09-27T23:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Testing is a vital part of software development. The sooner you start testing, the better.  In this article, I'll show you how to write tests for your NodeJs/ExpressJS and MongoDB/Mongoose applications with Jest and Supertest. Let's get started First let's set up a demo Express.js app. Let's say we]]></summary>
-        <author>
-            <name>Rakesh Potnuru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js Server-Side JavaScript – What is Node Used For?]]></title>
-        <id>https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/</id>
-        <link href="https://www.freecodecamp.org/news/node-js-server-side-javascript-what-is-node-used-for/"/>
-        <updated>2022-09-27T21:34:58.000Z</updated>
-        <summary type="html"><![CDATA[The release of Node.js in 2009 by Ryan Dahl increased the scope of what developers could do with JavaScript. Prior to that, you could only use JavaScript on the client side (the browser) or frontend of web applications. With Node.js, developers can create server side applications, command line tools, and]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Command Line Interface – for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/"/>
-        <updated>2022-09-27T21:11:32.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot to learn when you're getting into tech. But fortunately there are some skills that you can use across different programming languages, operating systems, and tools.  And knowing how to use the command line interface (also known as the command prompt or terminal, depending on your operating]]></summary>
-        <author>
-            <name>Maybell Obadoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Your Python Code with the Python Debugger (pdb)]]></title>
-        <id>https://www.freecodecamp.org/news/debugging-in-python-using-pdb/</id>
-        <link href="https://www.freecodecamp.org/news/debugging-in-python-using-pdb/"/>
-        <updated>2022-09-27T17:50:42.000Z</updated>
-        <summary type="html"><![CDATA[Debugging tools are at the heart of any programming language. And as a developer, it's hard to make progress and write clean code unless you know your way around these tools. This article will help you get acquainted with one such tool: The Python Debugger (pdb) [https://docs.python.org/3/library/pdb.html#:~:text=The%20module%20pdb%20defines%20an,context%20of%20any%20stack%20frame] Note that this]]></summary>
-        <author>
-            <name>Jagruti Tiwari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Vertical Scrolling in React Using react-router-hash-link]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-vertical-scrolling-in-react-using-react-router-hash-link/"/>
-        <updated>2022-09-27T17:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Smooth scrolling is a feature that makes webpages more usable and allows for a better user scrolling experience in most browsers. Implementing a smooth page scroll while using react-router-dom has been a problem in React.js. So this article, you are going to learn how to implement smooth vertical scrolling using]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Information Systems? Definition for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-information-systems-definition-for-beginners/"/>
-        <updated>2022-09-27T16:43:54.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard the term "information systems" as a type of degree some people get from a college or university. Or maybe you've heard it as a general term used to describe information and communication systems in general. Information systems are more than a degree or a general term.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Data-Loading Patterns To Boost Web Performance]]></title>
-        <id>https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/</id>
-        <link href="https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/"/>
-        <updated>2022-09-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Agustinus Theodorus)</name>
         </author>
     </entry>
 </feed>
