@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374670",
+          "author": "Preethi Selvam",
+          "description": "The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.\nThe New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-new-css-media-query-range-syntax/",
+          "publishedOn": "2022-10-31T13:05:38.000Z",
+          "wordCount": 2557,
+          "title": "The New CSS Media Query Range Syntax",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374670"
+        },
+        {
           "id": "https://css-tricks.com/?p=374302",
           "author": "Temani Afif",
           "description": "We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …\nFancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -223,6 +233,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
+          "link": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
+          "publishedOn": "2022-10-31T09:00:00.000Z",
+          "wordCount": 4895,
+          "title": "On The Edge Of November (2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
           "author": "hello@smashingmagazine.com (Yaphi Berhanu)",
           "description": "If you've ever wanted to build a web app that you can control with hand gestures as if by magic, this article is for you. With a couple of APIs and some JavaScript, you can build apps that behave like sorcery.",
@@ -439,6 +464,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/event-bubbling-in-javascript/",
+          "author": "Dillion Megida",
+          "description": "HTML elements receive different types of events, from click, to blur, to scroll, and so on. One behavior these events have in common is Event Bubbling. I'll explain what this behavior means in this article. I also made a video version of this article which you can watch here [https://www.youtube.com/watch?v=KaHZdW02Tg0].",
+          "link": "https://www.freecodecamp.org/news/event-bubbling-in-javascript/",
+          "publishedOn": "2022-10-31T21:04:17.000Z",
+          "wordCount": 1877,
+          "title": "Event Bubbling in JavaScript – How Event Propagation Works with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/1.-event-bubbling-js.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/",
+          "author": "Kolade Chris",
+          "description": "The Python error \"TypeError: 'int' object is not subscriptable\" occurs when you try to treat an integer like a subscriptable object. In Python, a subscriptable object is one you can “subscript” or iterate over. Why the \"TypeError: 'int' object is not subscriptable Error\" Occurs You can iterate over a string,",
+          "link": "https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/",
+          "publishedOn": "2022-10-31T17:37:23.000Z",
+          "wordCount": 1298,
+          "title": "TypeError: 'int' object is not subscriptable [Solved Python Error]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/in_not_subable.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/",
+          "author": "Kayode Adeniyi",
+          "description": "Infrastructure as code is the process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable.  For AWS cloud development, the built-in choice for infrastructure as code is AWS CloudFormation. Using IaC, developers can manage a project’s infrastructure efficiently, allowing",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/",
+          "publishedOn": "2022-10-31T17:07:04.000Z",
+          "wordCount": 1999,
+          "title": "How to Implement Infrastructure as Code with AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/network-g381392bcb_1280.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-proxy-object/",
+          "author": "Keyur Paralkar",
+          "description": "In this tutorial, you are going to learn what a proxy object is, along with its limitations. We will also look into some of the use cases that demonstrate how you can use proxy objects to solve various problems. Without further ado, let’s get started. Table of Contents  *",
+          "link": "https://www.freecodecamp.org/news/javascript-proxy-object/",
+          "publishedOn": "2022-10-31T14:56:30.000Z",
+          "wordCount": 2718,
+          "title": "How JavaScript's Proxy Object Works – Explained with Example Use Cases",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Image-defs.001-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/",
+          "author": "Edeh Israel Chidera",
+          "description": "Almost every web application requires some form of authentication. This prevents unauthorized users from having access to the app's inner workings.  In this tutorial, you will learn how to authenticate your React app with the Firebase SDK. How to Authenticate with Firebase Authenticating with Firebase makes things easy for",
+          "link": "https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/",
+          "publishedOn": "2022-10-31T14:54:20.000Z",
+          "wordCount": 2360,
+          "title": "How to Use Firebase Authentication in a React App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/ferenc-almasi-tvHtIGbbjMo-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/tips-to-boost-your-seo/",
           "author": "Edan Ben-Atar",
