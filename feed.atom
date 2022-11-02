@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-01T01:55:48.231Z</updated>
+    <updated>2022-11-02T01:46:28.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Event Delegation in JavaScript –Explained with an Example]]></title>
+        <id>https://www.freecodecamp.org/news/event-delegation-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/event-delegation-javascript/"/>
+        <updated>2022-11-01T17:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/"/>
+        <updated>2022-11-01T16:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Errors in Python – the try, except, else, and finally Keywords Explained]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-errors-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-in-python/"/>
+        <updated>2022-11-01T14:53:34.000Z</updated>
+        <summary type="html"><![CDATA[> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic]]></summary>
+        <author>
+            <name>P S Mohammed Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering External API Data in WordPress Blocks on the Back End]]></title>
+        <id>https://css-tricks.com/?p=374381</id>
+        <link href="https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/"/>
+        <updated>2022-11-01T12:57:22.000Z</updated>
+        <summary type="html"><![CDATA[This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …
+Rendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Manoj Kumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting The Graph In GraphQL With The Neo4j GraphQL Library]]></title>
+        <id>https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/</id>
+        <link href="https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/"/>
+        <updated>2022-11-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (William Lyon)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Event Bubbling in JavaScript – How Event Propagation Works with Examples]]></title>
         <id>https://www.freecodecamp.org/news/event-bubbling-in-javascript/</id>
@@ -1418,16 +1469,6 @@ Introducing Shoelace, a Framework-Independent Component-Based UX Library origina
         <summary type="html"><![CDATA[Have you ever experienced a “PAGE NOT FOUND” error when trying to access or refresh an application that uses React Router? Don't worry, you're not alone. In this article, you will learn how to deploy a React application that uses react-router without any problems. The Problem with Deploying react-router Apps]]></summary>
         <author>
             <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delightful UI Animations With Shared Element Transitions API (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/</id>
-        <link href="https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/"/>
-        <updated>2022-10-03T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>

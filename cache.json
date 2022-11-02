@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374381",
+          "author": "Manoj Kumar",
+          "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/",
+          "publishedOn": "2022-11-01T12:57:22.000Z",
+          "wordCount": 2807,
+          "title": "Rendering External API Data in WordPress Blocks on the Back End",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374381"
+        },
+        {
           "id": "https://css-tricks.com/?p=374670",
           "author": "Preethi Selvam",
           "description": "The Media Queries Level 4 specification has introduced a new syntax for targeting a range of viewport widths using common mathematical comparison operators, like , and =, that make more sense syntactically while writing less code for responsive web design.\nThe New CSS Media Query Range Syntax originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -233,6 +243,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
+          "author": "hello@smashingmagazine.com (William Lyon)",
+          "description": "If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!",
+          "link": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
+          "publishedOn": "2022-11-01T11:00:00.000Z",
+          "wordCount": 4667,
+          "title": "Putting The Graph In GraphQL With The Neo4j GraphQL Library",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7b065dae-2f88-4864-bd8e-db6c92b7beea/open-source-neo4j-graphql-library.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7b065dae-2f88-4864-bd8e-db6c92b7beea/open-source-neo4j-graphql-library.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/10/desktop-wallpaper-calendars-november-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
@@ -441,21 +466,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ced8e27-33ad-4e3d-9e45-970f5324c8d4/fluid-typography-clamp-sass-functions.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Shared Element Transitions API is a game-changing feature that will enable us to create impressive and elaborate UI animations easily. In this article, Adrian Bece will explore its incredible potential by building four real-life examples from scratch.",
-          "link": "https://smashingmagazine.com/2022/10/ui-animations-shared-element-transitions-api-part1/",
-          "publishedOn": "2022-10-03T13:00:00.000Z",
-          "wordCount": 7753,
-          "title": "Delightful UI Animations With Shared Element Transitions API (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aa71c04f-6c9e-4717-8767-a6f31f3c20c9/ui-animations-shared-element-transitions-api-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aa71c04f-6c9e-4717-8767-a6f31f3c20c9/ui-animations-shared-element-transitions-api-part1.jpg"
         }
       ]
     },
@@ -464,6 +474,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/event-delegation-javascript/",
+          "author": "Dillion Megida",
+          "description": "Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]",
+          "link": "https://www.freecodecamp.org/news/event-delegation-javascript/",
+          "publishedOn": "2022-11-01T17:58:39.000Z",
+          "wordCount": 1381,
+          "title": "Event Delegation in JavaScript –Explained with an Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/2.-event-delegation-js.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
+          "author": "Beau Carnes",
+          "description": "Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to",
+          "link": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
+          "publishedOn": "2022-11-01T16:57:54.000Z",
+          "wordCount": 1246,
+          "title": "Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/webdev.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-errors-in-python/",
+          "author": "P S Mohammed Ali",
+          "description": "> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-errors-in-python/",
+          "publishedOn": "2022-11-01T14:53:34.000Z",
+          "wordCount": 1829,
+          "title": "How to Handle Errors in Python – the try, except, else, and finally Keywords Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/11.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/event-bubbling-in-javascript/",
           "author": "Dillion Megida",
