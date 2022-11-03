@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374697",
+          "author": "Geoff Graham",
+          "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-links-about-css-gradients/",
+          "publishedOn": "2022-11-02T12:59:02.000Z",
+          "wordCount": 1215,
+          "title": "Some Links About CSS Gradients",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
+        },
+        {
           "id": "https://css-tricks.com/?p=374381",
           "author": "Manoj Kumar",
           "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -224,16 +234,6 @@
           "wordCount": 828,
           "title": "State of CSS 2022 Survey Now Open",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374217"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373703",
-          "author": "Adam Rackis",
-          "description": "This is a post about Shoelace, a component library by Cory LaViska, but with a twist. It defines all your standard UX components: tabs, modals, accordions, auto-completes, and much, much more. They look beautiful out of the …\nIntroducing Shoelace, a Framework-Independent Component-Based UX Library originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/shoelace-component-frameowrk-introduction/",
-          "publishedOn": "2022-10-04T13:01:53.000Z",
-          "wordCount": 2755,
-          "title": "Introducing Shoelace, a Framework-Independent Component-Based UX Library",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373703"
         }
       ]
     },
@@ -242,6 +242,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
+          "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
+          "publishedOn": "2022-11-02T14:00:00.000Z",
+          "wordCount": 5887,
+          "title": "Designing The Perfect Mobile Navigation UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
           "author": "hello@smashingmagazine.com (William Lyon)",
@@ -474,6 +489,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/",
+          "author": "Dillion Megida",
+          "description": "You might be wondering – what is minification and how does it improve your JavaScript applications? What tools can you use to minify your JS? I'll answer these questions in this article. What is Minification? Minification is the process of \"minimizing\" code by removing the irrelevant parts of the code.",
+          "link": "https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/",
+          "publishedOn": "2022-11-02T23:50:39.000Z",
+          "wordCount": 1624,
+          "title": "JavaScript Minify – Minifying JS with a Minifier or jsmin",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/3.-minifying-js.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/",
+          "author": "Kolade Chris",
+          "description": "As the name suggests, the error TypeError: builtin_function_or_method object is not subscriptable is a “typeerror” that occurs when you try to call a built-in function the wrong way. When a \"typeerror\" occurs, the program is telling you that you’re mixing up types. That means, for example, you might be concatenating",
+          "link": "https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/",
+          "publishedOn": "2022-11-02T23:43:20.000Z",
+          "wordCount": 1131,
+          "title": "TypeError: builtin_function_or_method object is not subscriptable Python Error [SOLVED]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/built_in_not_subable.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "Before I get into what this post is all about, I'd like to share the motivation that prompted me to write it.  I'm writing this article because I recall the first time I learned about customer segmentation or clustering. I didn't fully grasp what I was doing back then.",
+          "link": "https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/",
+          "publishedOn": "2022-11-02T18:56:39.000Z",
+          "wordCount": 3363,
+          "title": "How to Perform Customer Segmentation in Python – Machine Learning Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/-GetPaidStock.com--635e3fa0c561f.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/",
+          "author": "Caleb Olojo",
+          "description": "One of the methods frontend developers use the most in JavaScript is the  Array.prototype.map() method.  From having to render a list of items in the DOM to looping through a series of blog posts – and many more – the usefulness goes on and on. Say you have",
+          "link": "https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/",
+          "publishedOn": "2022-11-02T17:07:58.000Z",
+          "wordCount": 1432,
+          "title": "How to Destructure Object Properties Using array.map() in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-276502.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/",
+          "author": "Aaron Katz",
+          "description": "What is a cybersecurity tabletop exercise (TTX)? Cybersecurity breaches are resulting in an increasing number of losses ($4.2 million in 2021 [https://purplesec.us/resources/cyber-security-statistics/#Cybercrime]). So it's important to do as much as possible to prepare and train before experiencing a potential incident yourself.  A cybersecurity tabletop exercise (TTX) is one of",
+          "link": "https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/",
+          "publishedOn": "2022-11-02T16:41:13.000Z",
+          "wordCount": 2389,
+          "title": "How to Build an Effective Cyber Tabletop Exercise",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-fauxels-3183197.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/",
+          "author": "Dionysia Lemonaki",
+          "description": "In this article, you will learn what the Python error TypeError: can't multiply sequence by non-int of type float means. Firstly, I will explain why this error gets raised. You will also learn how to solve the error and how to avoid it in the first place. Here is what",
+          "link": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/",
+          "publishedOn": "2022-11-02T16:36:15.000Z",
+          "wordCount": 1534,
+          "title": "TypeError: can't multiply sequence by non-int of type float [Solved Python Error]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-355948.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
+          "author": "Jessica Wilkins",
+          "description": "Hacktoberfest is a month long celebration of open source. And this year I participated as a maintainer for freeCodeCamp's Developer Quiz Site [https://github.com/freeCodeCamp/Developer_Quiz_Site]. I merged a total of 356 pull requests and helped a lot of new contributors get started with open source. We were able to add a total",
+          "link": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
+          "publishedOn": "2022-11-02T16:17:06.000Z",
+          "wordCount": 2431,
+          "title": "What I Learned from Maintaining a Repo During Hacktoberfest and Merging 356 PRs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Screen-Shot-2022-10-31-at-5.56.25-PM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
+          "author": "Andrew Brown",
+          "description": "You can learn everything you need to know to earn the Microsoft 365 Fundamentals Certification by completing this free 4-hour course. What is the Microsoft 365 Fundamentals? The Microsoft 365 Fundamentals is an entry level Microsoft certification into a broad amount of Microsoft Software-as-a-Service (SaaS) products. These Microsoft SaaS products",
+          "link": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
+          "publishedOn": "2022-11-02T14:10:44.000Z",
+          "wordCount": 1047,
+          "title": "Microsoft 365 Fundamentals Certification (MS-900) – Pass the Exam With This Free 4-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ms900.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/event-delegation-javascript/",
           "author": "Dillion Megida",
@@ -1473,56 +1568,6 @@
           "wordCount": 998,
           "title": "Learn Python by Thinking in Types",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pythontypes.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/",
-          "author": "Victor Eke",
-          "description": "It's probably happened to you before: you unintentionally attempted to perform an action on a webpage, but luckily got a pop-up window asking you to confirm your decision. This pop-up window is called a modal. It's a web page element that pops up and displays in front of other page",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-modal-with-javascript/",
-          "publishedOn": "2022-10-03T23:49:06.000Z",
-          "wordCount": 2342,
-          "title": "How to Build a Modal with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/How-to-build-a-modal-with-JavaScript.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/",
-          "author": "Dillion Megida",
-          "description": "The rem measurement unit is a relative unit that you can use for length values in CSS. I will explain what this unit is, and how it is different from other units in this article. In my previous article, I explained the two categories of units in CSS: Absolute and",
-          "link": "https://www.freecodecamp.org/news/what-is-rem-in-css-rem-unit-font-size-padding-height-and-more/",
-          "publishedOn": "2022-10-03T22:57:54.000Z",
-          "wordCount": 1388,
-          "title": "What is rem in CSS? rem Unit Font Size, Padding, Height, and More",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/rem-units.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/",
-          "author": "Tooba Jamal",
-          "description": "Being able to build predictive models is a superpower – but you can't make much of these models if users can't use them.  In this article, we will go through the process of building and deploying a machine learning web app using Flask and PythonAnywhere.  Flask is a",
-          "link": "https://www.freecodecamp.org/news/machine-learning-web-app-with-flask/",
-          "publishedOn": "2022-10-03T22:52:51.000Z",
-          "wordCount": 2376,
-          "title": "How to Turn Your Jupyter Notebook into a User-Friendly Web App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Purple-Illustrated-Technology-Blog-Banner-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/",
-          "author": "Bhavesh Rawat",
-          "description": "If you want to learn React, it's important to get a fair understanding of some core JavaScript concepts first.  So if that's what you're doing, first of all – great job! You have made a wise decision by not starting directly with React.  Second, React builds on key",
-          "link": "https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/",
-          "publishedOn": "2022-10-03T22:06:51.000Z",
-          "wordCount": 1763,
-          "title": "How to Use map(), filter(), and reduce() in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/fCC-blog-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/",
-          "author": "Edeh Israel Chidera",
-          "description": "Have you ever experienced a “PAGE NOT FOUND” error when trying to access or refresh an application that uses React Router? Don't worry, you're not alone. In this article, you will learn how to deploy a React application that uses react-router without any problems. The Problem with Deploying react-router Apps",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-routed-react-app-to-netlify/",
-          "publishedOn": "2022-10-03T17:16:24.000Z",
-          "wordCount": 1431,
-          "title": "How to Deploy a React Router App to Netlify and Fix the \"Page Not Found\" Error",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/netlify1-1-1.png"
         }
       ]
     }
