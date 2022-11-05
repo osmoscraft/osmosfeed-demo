@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-04T01:40:07.341Z</updated>
+    <updated>2022-11-05T01:26:34.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TypeError: module object is not callable [Python Error Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/"/>
+        <updated>2022-11-04T22:17:35.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll talk about the "TypeError: 'module' object is not callable" error in Python.  We'll start by defining some of the keywords found in the error message — module  and callable.  You'll then see some examples that raise the error, and how to fix it.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS Landing Page Themes for Busy Developers]]></title>
+        <id>https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/</id>
+        <link href="https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/"/>
+        <updated>2022-11-04T21:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Developers across all levels of experience spend hours hunched over their computers, trying to translate the UI designer's ideas into a functional website or application. Considering that you're reading this, chances are that this is a pretty relatable scenario for you. And you know all too well just how tedious]]></summary>
+        <author>
+            <name>Edan Ben-Atar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the SQL CASE Statement – with Example Challenge]]></title>
+        <id>https://www.freecodecamp.org/news/sql-case-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-case-statement/"/>
+        <updated>2022-11-04T14:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Writing SQL with multiple conditions can be an arduous task, especially if you need to make numerous checks.  For example, an if () else if () else {} check case expression handles all SQL conditionals. If the first condition is satisfied, the query stops executing with a return value.]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Couple Changes Coming in Chrome 108]]></title>
+        <id>https://css-tricks.com/?p=374894</id>
+        <link href="https://css-tricks.com/a-couple-changes-coming-in-chrome-108/"/>
+        <updated>2022-11-04T13:13:08.000Z</updated>
+        <summary type="html"><![CDATA[“A change to overflow on replaced elements in CSS”:
+From Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.
+This 
+…
+A Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical Steps To Build Transparency In Your Remote Business]]></title>
+        <id>https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/</id>
+        <link href="https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/"/>
+        <updated>2022-11-04T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Siobhan McKeown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[String to Int in Java – How to Convert a String to an Integer]]></title>
         <id>https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-java/</id>
@@ -298,6 +352,16 @@ The New CSS Media Query Range Syntax originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create Advanced Animations With CSS]]></title>
+        <id>https://smashingmagazine.com/2022/10/advanced-animations-css/</id>
+        <link href="https://smashingmagazine.com/2022/10/advanced-animations-css/"/>
+        <updated>2022-10-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yosra Emad)</name>
         </author>
     </entry>
     <entry>
@@ -1417,67 +1481,6 @@ Adding Fluid Typography Support to WordPress Block Themes originally published o
         <summary type="html"><![CDATA[My comprehensive PyTorch course is now live on the freeCodeCamp.org YouTube channel.   * You can view the full 26 hour course here [https://youtu.be/V_xro1bcAuA].  * Read the course materials online for free at learnpytorch.io    [https://learnpytorch.io/].  * See all of the course materials on GitHub]]></summary>
         <author>
             <name>Daniel Bourke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Safely Share Your Email Address on a Website]]></title>
-        <id>https://css-tricks.com/?p=373798</id>
-        <link href="https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/"/>
-        <updated>2022-10-06T12:54:53.000Z</updated>
-        <summary type="html"><![CDATA[Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …
-How to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lorenzo Bonannella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Helmet – With Example Use Case]]></title>
-        <id>https://www.freecodecamp.org/news/react-helmet-examples/</id>
-        <link href="https://www.freecodecamp.org/news/react-helmet-examples/"/>
-        <updated>2022-10-05T16:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO]]></summary>
-        <author>
-            <name>Scott Gary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VLOOKUP in Excel – Formula and Example Function]]></title>
-        <id>https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/</id>
-        <link href="https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/"/>
-        <updated>2022-10-05T16:26:42.000Z</updated>
-        <summary type="html"><![CDATA[In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/"/>
-        <updated>2022-10-05T16:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big O Cheat Sheet – Time Complexity Chart]]></title>
-        <id>https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/</id>
-        <link href="https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/"/>
-        <updated>2022-10-05T15:00:53.000Z</updated>
-        <summary type="html"><![CDATA[An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Validate your Machine Learning Models Using TensorFlow Model Analysis]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/"/>
-        <updated>2022-10-05T14:37:09.000Z</updated>
-        <summary type="html"><![CDATA[My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model]]></summary>
-        <author>
-            <name>Salim Oyinlola</name>
         </author>
     </entry>
 </feed>

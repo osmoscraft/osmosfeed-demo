@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=374894",
+          "author": "Geoff Graham",
+          "description": "“A change to overflow on replaced elements in CSS”:\nFrom Chrome 108, the following replaced elements respect the overflow property: img, video and canvas. In earlier versions of Chrome, this property was ignored on these elements.\nThis \n…\nA Couple Changes Coming in Chrome 108 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-couple-changes-coming-in-chrome-108/",
+          "publishedOn": "2022-11-04T13:13:08.000Z",
+          "wordCount": 1282,
+          "title": "A Couple Changes Coming in Chrome 108",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374894"
+        },
+        {
           "id": "https://css-tricks.com/?p=374731",
           "author": "Aisha Bukar",
           "description": "Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …\nThe Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -214,16 +224,6 @@
           "wordCount": 3088,
           "title": "Adding Fluid Typography Support to WordPress Block Themes",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373905"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373798",
-          "author": "Lorenzo Bonannella",
-          "description": "Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …\nHow to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/",
-          "publishedOn": "2022-10-06T12:54:53.000Z",
-          "wordCount": 2194,
-          "title": "How to Safely Share Your Email Address on a Website",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373798"
         }
       ]
     },
@@ -232,6 +232,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
+          "author": "hello@smashingmagazine.com (Siobhan McKeown)",
+          "description": "Transparency is part of the fabric of many remote businesses. It doesn’t, however, come naturally to everyone, especially if you’ve only recently become remote. In this article, Siobhan takes you through some of the practical ways that you can build transparency within your organization.",
+          "link": "https://smashingmagazine.com/2022/11/practical-steps-build-transparency-remote-business/",
+          "publishedOn": "2022-11-04T09:00:00.000Z",
+          "wordCount": 6369,
+          "title": "Practical Steps To Build Transparency In Your Remote Business",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
           "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
@@ -291,6 +306,21 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f9072044-e74a-4259-8b19-291d3382050a/nov-22-anbani-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
+          "author": "hello@smashingmagazine.com (Yosra Emad)",
+          "description": "In this article, Yosra Emad explains how to create a rollercoaster path that a ball follows using cubic beziers and CSS transitions. You’ll also learn how the cubic-bezier function in CSS works in detail and how to stack multiple simple animations to create one complex one.",
+          "link": "https://smashingmagazine.com/2022/10/advanced-animations-css/",
+          "publishedOn": "2022-10-29T12:00:00.000Z",
+          "wordCount": 4628,
+          "title": "How To Create Advanced Animations With CSS",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6ff543a-4e47-4649-8e1d-fda5435d9a53/4-advanced-animations-using-css.png"
         },
         {
           "id": "https://smashingmagazine.com/2022/10/motion-controls-browser/",
@@ -479,6 +509,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In this article, we'll talk about the \"TypeError: 'module' object is not callable\" error in Python.  We'll start by defining some of the keywords found in the error message — module  and callable.  You'll then see some examples that raise the error, and how to fix it.",
+          "link": "https://www.freecodecamp.org/news/typeerror-module-object-is-not-callable-python-error-solved/",
+          "publishedOn": "2022-11-04T22:17:35.000Z",
+          "wordCount": 1477,
+          "title": "TypeError: module object is not callable [Python Error Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/",
+          "author": "Edan Ben-Atar",
+          "description": "Developers across all levels of experience spend hours hunched over their computers, trying to translate the UI designer's ideas into a functional website or application. Considering that you're reading this, chances are that this is a pretty relatable scenario for you. And you know all too well just how tedious",
+          "link": "https://www.freecodecamp.org/news/tailwind-css-landing-pages-and-themes-for-busy-developers/",
+          "publishedOn": "2022-11-04T21:44:34.000Z",
+          "wordCount": 2120,
+          "title": "Tailwind CSS Landing Page Themes for Busy Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-gdtography-911758.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-case-statement/",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "Writing SQL with multiple conditions can be an arduous task, especially if you need to make numerous checks.  For example, an if () else if () else {} check case expression handles all SQL conditionals. If the first condition is satisfied, the query stops executing with a return value.",
+          "link": "https://www.freecodecamp.org/news/sql-case-statement/",
+          "publishedOn": "2022-11-04T14:28:57.000Z",
+          "wordCount": 2097,
+          "title": "How to Use the SQL CASE Statement – with Example Challenge",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Sql-case-banner.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-java/",
           "author": "Ihechikara Vincent Abba",
@@ -1488,56 +1548,6 @@
           "wordCount": 1730,
           "title": "Learn PyTorch for Deep Learning – Free 26-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pytorch24.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-helmet-examples/",
-          "author": "Scott Gary",
-          "description": "Because of the nature of single page applications (SPAs), modifying metadata in React apps can be tricky without using a helper library. Lucky for us, that library already exists – and it's called React Helmet. Leveraging Helmet for metadata inclusion can significantly simplify the process of making a React app SEO",
-          "link": "https://www.freecodecamp.org/news/react-helmet-examples/",
-          "publishedOn": "2022-10-05T16:36:10.000Z",
-          "wordCount": 1799,
-          "title": "How to Use React Helmet – With Example Use Case",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/react-head-examples.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/",
-          "author": "Kolade Chris",
-          "description": "In Excel, VLOOKUP() means vertical lookup. It is a powerful built-in function you can use to quickly search for a value in a spreadsheet. VLOOKUP() searches for a value in a vertical manner across the sheet – unlike the HLOOKUP() function which does it horizontally. Before using VLOOKUP(), make sure",
-          "link": "https://www.freecodecamp.org/news/vlookup-in-excel-formula-and-example-function/",
-          "publishedOn": "2022-10-05T16:26:42.000Z",
-          "wordCount": 1424,
-          "title": "VLOOKUP in Excel – Formula and Example Function",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/vlookup.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/",
-          "author": "Oluwatobi Sofela",
-          "description": "Functions are one of the most widely-used features in programming. So, it helps to have a solid understanding of how they work. This tutorial discusses everything you need to know to use JavaScript functions like a pro. Table of Contents  1.  What Is a Function?  2.",
-          "link": "https://www.freecodecamp.org/news/javascript-function-iife-parameters-code-blocks-explained/",
-          "publishedOn": "2022-10-05T16:06:29.000Z",
-          "wordCount": 3208,
-          "title": "JavaScript Functions Tutorial – IIFE, Function Parameters, and Code Blocks Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/programming-image-by-mohamed-hassan-from-pixabay-javascript-function-iffe-parameters-blocks-explained-codesweetly.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
-          "author": "Joel Olawanle",
-          "description": "An algorithm is a set of well-defined instructions for solving a specific problem. You can solve these problems in various ways. This means that the method you use to arrive at the same solution may differ from mine, but we should both get the same result. Because there are various",
-          "link": "https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/",
-          "publishedOn": "2022-10-05T15:00:53.000Z",
-          "wordCount": 2737,
-          "title": "Big O Cheat Sheet – Time Complexity Chart",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--12-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/",
-          "author": "Salim Oyinlola",
-          "description": "My first deployed Machine Learning model was a failure. It was a simple Diabetes Diagnosis Model for potential diabetes mellitus patients – and quite frankly, I was beyond excited on deployment.  But the excitement soon disappeared when I received feedback from users. Simply put, the users felt the model",
-          "link": "https://www.freecodecamp.org/news/how-to-validate-machine-learning-models-with-tensorflow-model-analysis/",
-          "publishedOn": "2022-10-05T14:37:09.000Z",
-          "wordCount": 2604,
-          "title": "How to Validate your Machine Learning Models Using TensorFlow Model Analysis",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-159275.jpg"
         }
       ]
     }
