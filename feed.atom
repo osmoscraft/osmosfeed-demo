@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-10T01:25:37.841Z</updated>
+    <updated>2022-11-11T01:27:03.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Convert an Int to a String in C++ – Integer Cast Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/"/>
+        <updated>2022-11-10T18:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Type casting or type conversion is the process of converting a variable from one data type to another.  Type casting can be done implicitly or explicitly.  Implicit type casting gets done automatically via the compiler, while explicit type casting is done by the developer. In this article, you'll]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error: error:0308010c:digital envelope routines::unsupported [Node Error Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/"/>
+        <updated>2022-11-10T18:39:19.000Z</updated>
+        <summary type="html"><![CDATA[If you work with Node.js and command line interface solutions like Webpack, create-react-app, or vue-cli-service, you might have encountered the error,  Error: error:0308010c:digital envelope routines::unsupported. You’re not alone, because I’m currently getting it too: The React app indeed failed to start: In this article, you’ll learn how to fix]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Jamstack? Tutorial for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/jamstack-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/jamstack-for-beginners/"/>
+        <updated>2022-11-10T18:30:49.000Z</updated>
+        <summary type="html"><![CDATA[You may have heard the term Jamstack and have been wondering what it means. Well, the Jamstack is nothing more than a modern way of building web applications.  Jamstack takes advantage of existing technologies – which we'll discuss in a minute. The result is better performance, improved security, and]]></summary>
+        <author>
+            <name>Damilola Oladele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fuzz Web Applications using FFuf – Web Security Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/</id>
+        <link href="https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/"/>
+        <updated>2022-11-10T17:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Building strong authentication systems is crucial for web applications. Now that many businesses have a growing online presence, a malicious actor taking control of your website can be devastating. In this article, we will learn how to use Ffuf, a fast web fuzzer written in Go. You will learn how]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming in TypeScript – Full Course]]></title>
+        <id>https://www.freecodecamp.org/news/programming-in-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/programming-in-typescript/"/>
+        <updated>2022-11-10T16:10:57.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript provides better error checking than JavaScript. This is because TypeScript uses a static type system, which means that the type of a variable is checked before the code is executed. We just published a 5-hour TypeScript course]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Bootstrap 5 in Spanish by Building a Portfolio Website – Bootstrap Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-in-spanish-by-building-a-portfolio-website-bootstrap-course-for-beginners/"/>
+        <updated>2022-11-10T05:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Welcome! If you speak Spanish and you want to practice your HTML and CSS skills, create responsive websites with Bootstrap 5, and build your portfolio website, then this course is for you. In this article, you will find a brief introduction to responsive web development and Bootstrap 5. You will]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Connect to AWS RDS from AWS Lambda]]></title>
         <id>https://www.freecodecamp.org/news/aws-lambda-rds/</id>
@@ -1469,79 +1529,6 @@ A Pure CSS Gallery Focus Effect with :not originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Learn how to build a webshop from scratch! We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a webshop or e-commerce store using Angular/TypeScript, Express.js, and Stripe.  You will learn how to use Angular material and Tailwind to structure the UI]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Early Days of Container Style Queries]]></title>
-        <id>https://css-tricks.com/?p=374330</id>
-        <link href="https://css-tricks.com/early-days-of-container-style-queries/"/>
-        <updated>2022-10-12T13:06:46.000Z</updated>
-        <summary type="html"><![CDATA[We’re still in suuuuuper early days with container queries. Too early for broad browser support, but Chromium already supports it, Safari started supporting it in version 16, and Firefox is presumably not far behind.
-Most early days conversations …
-Early Days of Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Recognize a Phishing Email – And What to Do When You Get One]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-recognize-phishing-email/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-recognize-phishing-email/"/>
-        <updated>2022-10-12T00:52:32.000Z</updated>
-        <summary type="html"><![CDATA[You know the drill: you open your email client and there is it an email saying that you will be in trouble if you do not follow certain instructions in short time, no questions asked. All it takes is a single click, and you're in trouble. This kind of email]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix TypeError: Cannot read Property 'push' of Undefined in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/fix-typeerror-cannot-read-property-push-of-undefined-in-javascript/"/>
-        <updated>2022-10-11T23:18:26.000Z</updated>
-        <summary type="html"><![CDATA[When working with JavaScript arrays, you have to be careful that you are not calling the push(), pop(), shift(), unShift(), or splice() methods on a variable that is meant to be an array but has a value of undefined. If you mistakenly do this, you'll get this error: If you]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Free Resources to Learn Golang – Go Coding Courses]]></title>
-        <id>https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/</id>
-        <link href="https://www.freecodecamp.org/news/best-resources-to-learn-golang-for-free/"/>
-        <updated>2022-10-11T23:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Golang has been around for a while now, and it's become quite popular among developers. It is a simple yet compelling programming language that's well-loved because of its powerful features like concurrency and the fact that it is developed by Google. Golang is a server-side language that's used in many]]></summary>
-        <author>
-            <name>Avdhoot Fulsundar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Programming Tips to Help You Level Up Your Code]]></title>
-        <id>https://www.freecodecamp.org/news/python-programming-tips/</id>
-        <link href="https://www.freecodecamp.org/news/python-programming-tips/"/>
-        <updated>2022-10-11T19:47:25.000Z</updated>
-        <summary type="html"><![CDATA[Python is one of the most popular programming languages out there today. Its simplicity and readability make it a favorite among many programmers. So in this tutorial, I'm sharing a few pointers and strategies to help you improve your Python programming skills. How to Reverse a String in Python In]]></summary>
-        <author>
-            <name>David Fagbuyiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rendering External API Data in WordPress Blocks on the Front End]]></title>
-        <id>https://css-tricks.com/?p=373952</id>
-        <link href="https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-front-end/"/>
-        <updated>2022-10-11T16:15:48.000Z</updated>
-        <summary type="html"><![CDATA[There’ve been some new tutorials popping here on CSS-Tricks for working with WordPress blocks. One of them is an introduction to WordPress block development and it’s a good place to learn what blocks are and to register them in WordPress …
-Rendering External API Data in WordPress Blocks on the Front End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Manoj Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sustainable Web Development Strategies Within An Organization]]></title>
-        <id>https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/</id>
-        <link href="https://smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/"/>
-        <updated>2022-10-11T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Climate change and sustainability are increasing concerns for digital organizations, as well as individuals working in tech. In this article we’ll explore some of the ways we can raise awareness and effect change within an organization, to create a more positive environmental impact.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
         </author>
     </entry>
 </feed>
