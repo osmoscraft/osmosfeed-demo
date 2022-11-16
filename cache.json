@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375066",
+          "author": "Geoff Graham",
+          "description": "Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …\nBehind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/behind-the-csscenes-november-2022/",
+          "publishedOn": "2022-11-15T15:54:32.000Z",
+          "wordCount": 2643,
+          "title": "Behind the CSScenes, November 2022",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375066"
+        },
+        {
           "id": "https://css-tricks.com/?p=375019",
           "author": "Saleh Mubashar",
           "description": "In this article we will be diving into the world of scrollbars. I know, it doesn’t sound too glamorous, but trust me, a well-designed page goes hand-in-hand with a matching scrollbar. The old-fashioned chrome scrollbar just doesn’t fit in as …\nClassy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -441,21 +451,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3509bd84-1307-4bb5-a00f-1b9da09b8acb/understanding-privacy-banner-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
-          "author": "hello@smashingmagazine.com (Nick Schäferhoff)",
-          "description": "In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.",
-          "link": "https://smashingmagazine.com/2022/10/wordpress-full-site-editing/",
-          "publishedOn": "2022-10-17T12:00:00.000Z",
-          "wordCount": 8369,
-          "title": "WordPress Full-Site Editing: A Deep Dive Into The New Feature",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e92a7c2c-7748-4eb9-8ab8-6a534ad201e0/wordpress-full-site-editing.jpg"
         }
       ]
     },
@@ -464,6 +459,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/",
+          "author": "Jose Vicente Nunez",
+          "description": "Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not",
+          "link": "https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/",
+          "publishedOn": "2022-11-15T21:52:50.000Z",
+          "wordCount": 2638,
+          "title": "How to Provision a Home Lab with Oracle Cloud and Ansible",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-210158.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/",
+          "author": "Kolade Chris",
+          "description": "Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a",
+          "link": "https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/",
+          "publishedOn": "2022-11-15T18:58:58.000Z",
+          "wordCount": 1163,
+          "title": "SQL DATE – Function, Query, Timestamp Example Format",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/date.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/",
+          "author": "Rodrigo Kamada",
+          "description": "In this article, we'll build a web application using the latest version of  Angular [https://angular.io/]. Then we'll add ESLint [https://eslint.org/] which analyzes the JavaScript code statically to find any problems. Prerequisites Before you start, you need to install and configure the tools below (if you don't already have them",
+          "link": "https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/",
+          "publishedOn": "2022-11-15T16:39:58.000Z",
+          "wordCount": 1188,
+          "title": "How to Add ESLint to an Angular Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/angular-eslint-cover-hashnode.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/",
+          "author": "Ibrahim Abayomi Ogunbiyi",
+          "description": "When we wish to conduct an experiment on a population – for example, the entire population of a country – it is not always practical or realistic to include every subject (citizen) in the experiment.  Instead, we rely on a sample, which is a subset of the population, and",
+          "link": "https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/",
+          "publishedOn": "2022-11-15T16:33:52.000Z",
+          "wordCount": 1858,
+          "title": "What is Stratified Random Sampling? Definition and Python Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-viktorya-sergeeva--------10275085.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "When building a web application, you may encounter the SyntaxError: Cannot use import statement outside a module error.  This error might be raised when using either JavaScript or TypeScript in the back-end. So you could be working on the client side with React, Vue, and so on, and still",
+          "link": "https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/",
+          "publishedOn": "2022-11-15T15:30:56.000Z",
+          "wordCount": 1238,
+          "title": "Cannot use import statement outside a module [React TypeScript Error Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/markus-spiske-iar-afB0QQw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manage-state-in-react/",
+          "author": "Beau Carnes",
+          "description": "React state management is a process for managing the data that React components need in order to render themselves. This data is typically stored in the component's state object. When the state object changes, the component will re-render itself. React state management is basically half of a React app. It",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-react/",
+          "publishedOn": "2022-11-15T15:17:14.000Z",
+          "wordCount": 764,
+          "title": "How to Manage State in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/reactstate.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/",
           "author": "Joel Olawanle",

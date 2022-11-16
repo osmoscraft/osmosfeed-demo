@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-15T01:19:46.939Z</updated>
+    <updated>2022-11-16T01:20:00.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Provision a Home Lab with Oracle Cloud and Ansible]]></title>
+        <id>https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/</id>
+        <link href="https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/"/>
+        <updated>2022-11-15T21:52:50.000Z</updated>
+        <summary type="html"><![CDATA[Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL DATE – Function, Query, Timestamp Example Format]]></title>
+        <id>https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/</id>
+        <link href="https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/"/>
+        <updated>2022-11-15T18:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add ESLint to an Angular Application]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/"/>
+        <updated>2022-11-15T16:39:58.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll build a web application using the latest version of  Angular [https://angular.io/]. Then we'll add ESLint [https://eslint.org/] which analyzes the JavaScript code statically to find any problems. Prerequisites Before you start, you need to install and configure the tools below (if you don't already have them]]></summary>
+        <author>
+            <name>Rodrigo Kamada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Stratified Random Sampling? Definition and Python Example]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/"/>
+        <updated>2022-11-15T16:33:52.000Z</updated>
+        <summary type="html"><![CDATA[When we wish to conduct an experiment on a population – for example, the entire population of a country – it is not always practical or realistic to include every subject (citizen) in the experiment.  Instead, we rely on a sample, which is a subset of the population, and]]></summary>
+        <author>
+            <name>Ibrahim Abayomi Ogunbiyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
+        <id>https://css-tricks.com/?p=375066</id>
+        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
+        <updated>2022-11-15T15:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
+Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cannot use import statement outside a module [React TypeScript Error Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/"/>
+        <updated>2022-11-15T15:30:56.000Z</updated>
+        <summary type="html"><![CDATA[When building a web application, you may encounter the SyntaxError: Cannot use import statement outside a module error.  This error might be raised when using either JavaScript or TypeScript in the back-end. So you could be working on the client side with React, Vue, and so on, and still]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Manage State in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-manage-state-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-react/"/>
+        <updated>2022-11-15T15:17:14.000Z</updated>
+        <summary type="html"><![CDATA[React state management is a process for managing the data that React components need in order to render themselves. This data is typically stored in the component's state object. When the state object changes, the component will re-render itself. React state management is basically half of a React app. It]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Declare an Array in JavaScript – Creating an Array in JS]]></title>
         <id>https://www.freecodecamp.org/news/how-to-declare-an-array-in-javascript-creating-an-array-in-js/</id>
@@ -1446,16 +1517,6 @@ Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[Computer Networks are a beautiful, amazing topic. Networks involve so much knowledge from different fields, from physics to algorithms.  When dealing with Computer Networks, there is one framework that puts everything into place – and that is the layers model.  In this post you'll learn why we need]]></summary>
         <author>
             <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Full-Site Editing: A Deep Dive Into The New Feature]]></title>
-        <id>https://smashingmagazine.com/2022/10/wordpress-full-site-editing/</id>
-        <link href="https://smashingmagazine.com/2022/10/wordpress-full-site-editing/"/>
-        <updated>2022-10-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Nick Schäferhoff will take a deep dive into WordPress Full-Site Editing, examine the tools it provides for theme development, and provide a tutorial on how to use it to make changes to your site.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nick Schäferhoff)</name>
         </author>
     </entry>
 </feed>
