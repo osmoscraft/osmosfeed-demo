@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-16T01:20:00.920Z</updated>
+    <updated>2022-11-17T01:19:57.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DigitalOcean Welcomes Cloudways to the Family]]></title>
+        <id>https://css-tricks.com/?p=375385</id>
+        <link href="https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/"/>
+        <updated>2022-11-16T23:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …
+DigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Haley Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Identity and Access Management (IAM) – Explained With an Analogy]]></title>
+        <id>https://www.freecodecamp.org/news/aws-iam-explained/</id>
+        <link href="https://www.freecodecamp.org/news/aws-iam-explained/"/>
+        <updated>2022-11-16T18:51:48.000Z</updated>
+        <summary type="html"><![CDATA[AWS IAM (Identity and Access Management) gives you control over who can access your AWS services and resources based on some predefined permissions.  The two keywords here are “who” and “permissions”. “Who” refers to a specific identity, which can be a user, group or role. “permissions” refer to the]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Modern Documentation Site with VitePress]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/"/>
+        <updated>2022-11-16T17:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Documentation is a crucial aspect of software development. But developers often neglect it because it can be a hassle to maintain. This is why it's important to use tools that help simplify this process.  In this tutorial, you'll learn how to build a complete docs site quickly by utilizing]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finding Front-End Development Scholarships]]></title>
+        <id>https://css-tricks.com/?p=374792</id>
+        <link href="https://css-tricks.com/finding-front-end-development-scholarships/"/>
+        <updated>2022-11-16T14:11:11.000Z</updated>
+        <summary type="html"><![CDATA[I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …
+Finding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Automated Test Results To Improve Accessibility]]></title>
+        <id>https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/</id>
+        <link href="https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/"/>
+        <updated>2022-11-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Noah Mashni and Mark Steadman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Provision a Home Lab with Oracle Cloud and Ansible]]></title>
         <id>https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/</id>
@@ -1412,111 +1464,6 @@ You’d be doing yourself a favor to read Manuel’s breakdown of …
 Manuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Search Tips – How to Search Issues, Repos, and More Effectively on GitHub]]></title>
-        <id>https://www.freecodecamp.org/news/github-search-tips/</id>
-        <link href="https://www.freecodecamp.org/news/github-search-tips/"/>
-        <updated>2022-10-17T19:27:10.000Z</updated>
-        <summary type="html"><![CDATA[When I was a beginner to open-source contributions, one of my greatest challenge was finding the correct projects/issues to work on. For the longest time I relied on resources curated by different writers on the internet (which were good, by the way). But I always wanted to find a way]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Explode – How to Split a String into an Array]]></title>
-        <id>https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/</id>
-        <link href="https://www.freecodecamp.org/news/php-explode-how-to-split-a-string-into-an-array/"/>
-        <updated>2022-10-17T17:19:46.000Z</updated>
-        <summary type="html"><![CDATA[The PHP explode() function converts a string to an array. Each of the characters in the string is given an index that starts from 0. Like the built-in imlode()  function, the explode function does not modify the data (string). Syntax of the explode() Function The explode() function takes in]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Show Upcoming Meetings for a Microsoft 365 User]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-show-upcoming-meetings-for-a-microsoft-365-user/"/>
-        <updated>2022-10-17T17:08:26.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer and you work with an organization that uses Microsoft 365, you probably use it to manage your meetings. In this tutorial, you'll learn how you can build a simple personal assistant in under 10 minutes that'll show a Microsoft 365 user the meetings they have]]></summary>
-        <author>
-            <name>Waldek Mastykarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Architect a Blockchain on Kubernetes – K8S Microservice Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-architect-a-blockchain-on-kubernetes-k8s-microservice-tutorial/"/>
-        <updated>2022-10-17T16:02:43.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will describe how to use microservices architecture and Kubernetes to build a blockchain.  The technologies usually used for blockchains are purpose-driven, and you can use them for other projects as well. The examples in this article can readily handle heavy loads and remain responsive and]]></summary>
-        <author>
-            <name>Kayode Adeniyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Lowercase a String in JavaScript – toLowerCase() in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-lowercase-a-string-in-javascript-tolowercase-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-lowercase-a-string-in-javascript-tolowercase-in-js/"/>
-        <updated>2022-10-17T15:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Strings are a fundamental part of working with JavaScript. And the toLowerCase()  method is one of the many integrated methods that you can use to work with strings. In this article, we'll see how to make strings lowercase with the toLowerCase()  method in Python. What is a String?]]></summary>
-        <author>
-            <name>Ilenia Magoni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pure CSS Bezier Curve Motion Paths]]></title>
-        <id>https://css-tricks.com/?p=373600</id>
-        <link href="https://css-tricks.com/pure-css-bezier-curve-motion-paths/"/>
-        <updated>2022-10-17T15:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Are you a Bezier curve lover like I am?
-CodePen Embed Fallback
-Besides being elegant, Bezier curves have nice mathematical properties due to their definition and construction. No wonder they are widely used in so many areas:
-As a 
-…
-Pure CSS Bezier Curve Motion Paths originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lu Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Svelte in 23 Hours]]></title>
-        <id>https://www.freecodecamp.org/news/learn-svelte-complete-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-svelte-complete-course/"/>
-        <updated>2022-10-17T15:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Svelte is a front-end JavaScript framework for making interactive webpages. Svelte has grown in popularity quite a bit over the last few years. We just published a free 23-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Svelte. Li Hau Tan developed this course. Li]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Interpret Black Box Models using LIME (Local Interpretable Model-Agnostic Explanations)]]></title>
-        <id>https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/</id>
-        <link href="https://www.freecodecamp.org/news/interpret-black-box-model-using-lime/"/>
-        <updated>2022-10-17T15:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning models are black box models. By giving input to these models, we can get output based on the particular model we're using.  The way humans interpret things is different from how machines interpret them. So it's helpful to use tools that can turn the output from certain]]></summary>
-        <author>
-            <name>Josua Antonius Naiborhu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Python? How the Interpreter Works and How to Write "Hello World" in Python]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-python-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-python-beginners-guide/"/>
-        <updated>2022-10-17T13:38:18.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I am going to explain what Python is and how the Python interpreter works. Then you'll write your first "Hello World" program. What is Python? Python is a high-level programming language designed to do many tasks. It's based on the CPython interpreter which translates the Python code]]></summary>
-        <author>
-            <name>Michael Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Five Layers Model? The Framework of the Internet Explained]]></title>
-        <id>https://www.freecodecamp.org/news/the-five-layers-model-explained/</id>
-        <link href="https://www.freecodecamp.org/news/the-five-layers-model-explained/"/>
-        <updated>2022-10-17T13:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Computer Networks are a beautiful, amazing topic. Networks involve so much knowledge from different fields, from physics to algorithms.  When dealing with Computer Networks, there is one framework that puts everything into place – and that is the layers model.  In this post you'll learn why we need]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
         </author>
     </entry>
 </feed>
