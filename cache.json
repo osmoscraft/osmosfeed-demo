@@ -184,26 +184,6 @@
           "wordCount": 2239,
           "title": "Is There Too Much CSS Now?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374194",
-          "author": "Temani Afif",
-          "description": "Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …\nFancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/",
-          "publishedOn": "2022-10-21T12:46:27.000Z",
-          "wordCount": 2860,
-          "title": "Fancy Image Decorations: Masks and Advanced Hover Effects",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374194"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374470",
-          "author": "Geoff Graham",
-          "description": "I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …\nInstant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/",
-          "publishedOn": "2022-10-20T19:59:46.000Z",
-          "wordCount": 1119,
-          "title": "Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374470"
         }
       ]
     },
@@ -451,36 +431,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/72b32b88-9b48-4c44-95f3-d51b26923bde/state-css-survey-2022.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/futuristic-css/",
-          "author": "hello@smashingmagazine.com (Sacha Greif)",
-          "description": "In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.",
-          "link": "https://smashingmagazine.com/2022/10/futuristic-css/",
-          "publishedOn": "2022-10-21T12:00:00.000Z",
-          "wordCount": 4506,
-          "title": "Futuristic CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57790dc2-f3f7-474d-b84e-531a37a1aa5e/futuristic-css.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
-          "author": "hello@smashingmagazine.com (Patrick Brosset)",
-          "description": "In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.",
-          "link": "https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/",
-          "publishedOn": "2022-10-20T14:00:00.000Z",
-          "wordCount": 4954,
-          "title": "What’s New In DevTools: Halloween Edition 🎃",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dbfdc666-af60-48cf-9c7c-c9a1eb8ecb34/devtools-updates-oct-2022.jpg"
         }
       ]
     },
@@ -489,6 +439,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
+          "author": "Arunachalam B",
+          "description": "Linux has many utility tools that help you quickly find the answer to your questions. But many devs aren't aware of them. In this article, you will learn a command that has exceptional benefits.  For example, say you want to take a look at your calendar to plan a",
+          "link": "https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/",
+          "publishedOn": "2022-11-19T19:06:26.000Z",
+          "wordCount": 1998,
+          "title": "Linux Date Command – How to Query the Terminal to Get Dates",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/10.-Date-Command---Brief-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-let-and-const-hoisting/",
           "author": "Dillion Megida",
@@ -538,6 +498,16 @@
           "wordCount": 2180,
           "title": "How to Use Hydra  to Hack Passwords – Penetration Testing Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Stealth-Security---Blog-Banner--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/",
+          "author": "Rajdeep Singh",
+          "description": "Lume is a new static site generator based on Deno. Deno is a JavaScript-based run-time environment that supports TypeScript.  Lume is not built around any specific language. It supports Markdown, Nunjucks, TypeScript, and JavaScript by default. Lume also supports plugins. Some plugins come preinstalled by default. This is why",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/",
+          "publishedOn": "2022-11-18T17:06:55.000Z",
+          "wordCount": 5459,
+          "title": "Lume SSG Handbook – How to Create a Static Blog with Lume",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Create-a-Static-Blog-with-Lume.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/introduction-to-blockchain/",
@@ -1528,56 +1498,6 @@
           "wordCount": 4888,
           "title": "How the Ethernet Protocol Works – A Complete Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Computer-Networks-Ethernet--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/",
-          "author": "Lane Wagner",
-          "description": "Object Oriented programming, or \"OOP\" for short, is a way of writing code that relies on the concepts of classes and objects.  The main benefit of writing your code in an object-oriented way is to structure your program into simple, reusable pieces of code. Stick with me through this",
-          "link": "https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/",
-          "publishedOn": "2022-10-20T22:24:35.000Z",
-          "wordCount": 4556,
-          "title": "Object Oriented Programming in Python – Full Crash Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/udaXTUR.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/crud-operations-crud-definition-in-programming/",
-          "author": "Joel Olawanle",
-          "description": "When interacting with a database or working with an API, you'll often encounter the term CRUD. It is a popular acronym for the four basic operations or functions that a model (in the case of an API) or a database management system uses. This is an acronym everyone learning computer",
-          "link": "https://www.freecodecamp.org/news/crud-operations-crud-definition-in-programming/",
-          "publishedOn": "2022-10-20T21:54:52.000Z",
-          "wordCount": 1798,
-          "title": "CRUD Operations – Crud Definition in Programming",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/cover-template--16-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/computer-programmer-salary-how-much-do-coders-make/",
-          "author": "Dionysia Lemonaki",
-          "description": "Coding is one of the most popular and in-demand careers. There are many reasons why people choose a career in coding and computer science. The technology field offers promising and diverse job prospects in several industries, job security, a generally comfortable starting salary, and increased high-earning potential as developers gain",
-          "link": "https://www.freecodecamp.org/news/computer-programmer-salary-how-much-do-coders-make/",
-          "publishedOn": "2022-10-20T19:34:20.000Z",
-          "wordCount": 2921,
-          "title": "Computer Programmer Salary – How Much Do Coders Make?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-maitree-rimthong-1602726.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tableau-vs-power-bi-whats-the-difference/",
-          "author": "Kolade Chris",
-          "description": "Tableau and Power BI are both data visualization and business intelligence tools. You can extract data with both tools, visualize the data, analyze it, and turn it into a piece of actionable information. In this article, you will learn what both Power BI and Tableau are in detail. I will",
-          "link": "https://www.freecodecamp.org/news/tableau-vs-power-bi-whats-the-difference/",
-          "publishedOn": "2022-10-20T17:48:45.000Z",
-          "wordCount": 1533,
-          "title": "Tableau VS Power BI – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/tableauvPowerBi.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-google-docs-with-flutter/",
-          "author": "Beau Carnes",
-          "description": "Creating a Google Docs clone will help you learn a lot of new concepts. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Flutter to create a Google Docs clone. Rivaan Ranawat created this course. Rivaan has created many popular technical",
-          "link": "https://www.freecodecamp.org/news/code-google-docs-with-flutter/",
-          "publishedOn": "2022-10-20T14:15:37.000Z",
-          "wordCount": 869,
-          "title": "Code Google Docs with Flutter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/flutter-3.png"
         }
       ]
     }

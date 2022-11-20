@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-19T01:21:25.337Z</updated>
+    <updated>2022-11-20T01:24:22.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Date Command – How to Query the Terminal to Get Dates]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/"/>
+        <updated>2022-11-19T19:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Linux has many utility tools that help you quickly find the answer to your questions. But many devs aren't aware of them. In this article, you will learn a command that has exceptional benefits.  For example, say you want to take a look at your calendar to plan a]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hoisting in JavaScript with let and const – and How it Differs from var]]></title>
         <id>https://www.freecodecamp.org/news/javascript-let-and-const-hoisting/</id>
@@ -54,6 +64,16 @@
         <summary type="html"><![CDATA[Hydra is a brute-forcing tool that helps penetration testers and ethical hackers crack the passwords of network services.  Hydra can perform rapid dictionary attacks against more than 50 protocols. This includes telnet, FTP, HTTP, HTTPS, SMB, databases, and several other services. Hydra was developed by the hacker group “The]]></summary>
         <author>
             <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lume SSG Handbook – How to Create a Static Blog with Lume]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-static-blog-with-lume/"/>
+        <updated>2022-11-18T17:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Lume is a new static site generator based on Deno. Deno is a JavaScript-based run-time environment that supports TypeScript.  Lume is not built around any specific language. It supports Markdown, Nunjucks, TypeScript, and JavaScript by default. Lume also supports plugins. Some plugins come preinstalled by default. This is why]]></summary>
+        <author>
+            <name>Rajdeep Singh</name>
         </author>
     </entry>
     <entry>
@@ -1406,98 +1426,6 @@ Is There Too Much CSS Now? originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[Whether you’ve been aware of it or not, you’ve probably used the Ethernet in the past. Does this cable look familiar? (Source: Wikipedia [https://en.wikipedia.org/wiki/Ethernet_physical_layer#/media/File:EthernetCableYellow3.jpg] )Ethernet is extremely popular, and is the most widely used Data Link Layer protocol, at least where the devices are linked by physical cables (rather than]]></summary>
         <author>
             <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Image Decorations: Masks and Advanced Hover Effects]]></title>
-        <id>https://css-tricks.com/?p=374194</id>
-        <link href="https://css-tricks.com/fancy-image-decorations-masks-and-advanced-hover-effects/"/>
-        <updated>2022-10-21T12:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Part 2 of this three-part series! We are still decorating images without any extra elements and pseudo-elements. I hope you already took the time to digest Part 1 because we will continue working with a lot of gradients …
-Fancy Image Decorations: Masks and Advanced Hover Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Futuristic CSS]]></title>
-        <id>https://smashingmagazine.com/2022/10/futuristic-css/</id>
-        <link href="https://smashingmagazine.com/2022/10/futuristic-css/"/>
-        <updated>2022-10-21T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Sacha Greif tries to anticipate future CSS trends and takes a look at some far-fetched and futuristic CSS features that might one day make their way to the browser.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sacha Greif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Object Oriented Programming in Python – Full Crash Course]]></title>
-        <id>https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/crash-course-object-oriented-programming-in-python/"/>
-        <updated>2022-10-20T22:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Object Oriented programming, or "OOP" for short, is a way of writing code that relies on the concepts of classes and objects.  The main benefit of writing your code in an object-oriented way is to structure your program into simple, reusable pieces of code. Stick with me through this]]></summary>
-        <author>
-            <name>Lane Wagner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRUD Operations – Crud Definition in Programming]]></title>
-        <id>https://www.freecodecamp.org/news/crud-operations-crud-definition-in-programming/</id>
-        <link href="https://www.freecodecamp.org/news/crud-operations-crud-definition-in-programming/"/>
-        <updated>2022-10-20T21:54:52.000Z</updated>
-        <summary type="html"><![CDATA[When interacting with a database or working with an API, you'll often encounter the term CRUD. It is a popular acronym for the four basic operations or functions that a model (in the case of an API) or a database management system uses. This is an acronym everyone learning computer]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences]]></title>
-        <id>https://css-tricks.com/?p=374470</id>
-        <link href="https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/"/>
-        <updated>2022-10-20T19:59:46.000Z</updated>
-        <summary type="html"><![CDATA[I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …
-Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Programmer Salary – How Much Do Coders Make?]]></title>
-        <id>https://www.freecodecamp.org/news/computer-programmer-salary-how-much-do-coders-make/</id>
-        <link href="https://www.freecodecamp.org/news/computer-programmer-salary-how-much-do-coders-make/"/>
-        <updated>2022-10-20T19:34:20.000Z</updated>
-        <summary type="html"><![CDATA[Coding is one of the most popular and in-demand careers. There are many reasons why people choose a career in coding and computer science. The technology field offers promising and diverse job prospects in several industries, job security, a generally comfortable starting salary, and increased high-earning potential as developers gain]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tableau VS Power BI – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/tableau-vs-power-bi-whats-the-difference/</id>
-        <link href="https://www.freecodecamp.org/news/tableau-vs-power-bi-whats-the-difference/"/>
-        <updated>2022-10-20T17:48:45.000Z</updated>
-        <summary type="html"><![CDATA[Tableau and Power BI are both data visualization and business intelligence tools. You can extract data with both tools, visualize the data, analyze it, and turn it into a piece of actionable information. In this article, you will learn what both Power BI and Tableau are in detail. I will]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Google Docs with Flutter]]></title>
-        <id>https://www.freecodecamp.org/news/code-google-docs-with-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/code-google-docs-with-flutter/"/>
-        <updated>2022-10-20T14:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Creating a Google Docs clone will help you learn a lot of new concepts. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Flutter to create a Google Docs clone. Rivaan Ranawat created this course. Rivaan has created many popular technical]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New In DevTools: Halloween Edition 🎃]]></title>
-        <id>https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/</id>
-        <link href="https://smashingmagazine.com/2022/10/devtools-updates-halloween-edition/"/>
-        <updated>2022-10-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Patrick Brosset gives an update on the most impactful new features that are now available in DevTools, across Firefox, Chrome, Safari, and Edge.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Patrick Brosset)</name>
         </author>
     </entry>
 </feed>
