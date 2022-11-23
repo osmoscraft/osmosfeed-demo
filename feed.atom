@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-22T01:22:01.454Z</updated>
+    <updated>2022-11-23T01:12:52.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress Developer Blog]]></title>
+        <id>https://css-tricks.com/?p=375599</id>
+        <link href="https://css-tricks.com/wordpress-developer-blog/"/>
+        <updated>2022-11-22T18:36:12.000Z</updated>
+        <summary type="html"><![CDATA[Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:
+The Make Core blog has a heavy 
+…
+WordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizing A Vue App]]></title>
+        <id>https://smashingmagazine.com/2022/11/optimizing-vue-app/</id>
+        <link href="https://smashingmagazine.com/2022/11/optimizing-vue-app/"/>
+        <updated>2022-11-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Arcade-Style Shooting Game with Python and PyGame]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-arcade-style-shooting/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-arcade-style-shooting/"/>
+        <updated>2022-11-22T14:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Validate URLs in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/"/>
+        <updated>2022-11-22T04:12:10.000Z</updated>
+        <summary type="html"><![CDATA[A Uniform Resource Locator (URL) is what leads you to a page or file on the internet. URLs serve as the addresses of things on the internet. All valid URLs follow certain patterns. So if you know those patterns, you can determine whether a URL is valid or not in]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The freeCodeCamp Mobile App – Learn to Code Right On Your Phone]]></title>
         <id>https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/</id>
@@ -1407,17 +1450,6 @@ Creating Animated, Clickable Cards With the :has() Relational Pseudo Class origi
         <summary type="html"><![CDATA[What is the Gradient Descent Algorithm? Gradient descent is probably the most popular machine learning algorithm. At its core, the algorithm exists to minimize errors as much as possible.  The aim of gradient descent as an algorithm is to minimize the cost function of a model. We can tell]]></summary>
         <author>
             <name>Salim Oyinlola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is There Too Much CSS Now?]]></title>
-        <id>https://css-tricks.com/?p=374364</id>
-        <link href="https://css-tricks.com/is-there-too-much-css-now/"/>
-        <updated>2022-10-24T12:59:16.000Z</updated>
-        <summary type="html"><![CDATA[As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …
-Is There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sacha Greif</name>
         </author>
     </entry>
 </feed>

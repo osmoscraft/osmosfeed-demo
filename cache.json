@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375599",
+          "author": "Geoff Graham",
+          "description": "Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:\nThe Make Core blog has a heavy \n…\nWordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-developer-blog/",
+          "publishedOn": "2022-11-22T18:36:12.000Z",
+          "wordCount": 988,
+          "title": "WordPress Developer Blog",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375599"
+        },
+        {
           "id": "https://css-tricks.com/?p=375144",
           "author": "Liam Johnston",
           "description": "BEM. Like seemingly all techniques in the world of front-end development, writing CSS in a BEM format can be polarizing. But it is – at least in my Twitter bubble – one of the better-liked CSS methodologies.\nPersonally, I think …\nTaming the Cascade With BEM and Modern CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -184,16 +194,6 @@
           "wordCount": 2320,
           "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374364",
-          "author": "Sacha Greif",
-          "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/is-there-too-much-css-now/",
-          "publishedOn": "2022-10-24T12:59:16.000Z",
-          "wordCount": 2239,
-          "title": "Is There Too Much CSS Now?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
         }
       ]
     },
@@ -202,6 +202,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.",
+          "link": "https://smashingmagazine.com/2022/11/optimizing-vue-app/",
+          "publishedOn": "2022-11-22T16:00:00.000Z",
+          "wordCount": 5535,
+          "title": "Optimizing A Vue App",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/561426bf-27de-4efe-bdd7-b062284c2187/optimizing-vue-app.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/",
           "author": "hello@smashingmagazine.com (Cristian Díaz)",
@@ -464,6 +479,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
+          "author": "Beau Carnes",
+          "description": "Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is",
+          "link": "https://www.freecodecamp.org/news/create-a-arcade-style-shooting/",
+          "publishedOn": "2022-11-22T14:41:04.000Z",
+          "wordCount": 899,
+          "title": "Create a Arcade-Style Shooting Game with Python and PyGame",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pythongame.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "A Uniform Resource Locator (URL) is what leads you to a page or file on the internet. URLs serve as the addresses of things on the internet. All valid URLs follow certain patterns. So if you know those patterns, you can determine whether a URL is valid or not in",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/",
+          "publishedOn": "2022-11-22T04:12:10.000Z",
+          "wordCount": 1800,
+          "title": "How to Validate URLs in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/web-design-g84d0f5bf9_1920.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
           "author": "Sem Bauke",
