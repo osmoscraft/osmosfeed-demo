@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375278",
+          "author": "Ganesh Dahal",
+          "description": "One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …\nUsing The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-the-new-constrained-layout-in-wordpress-block-themes/",
+          "publishedOn": "2022-11-30T14:11:10.000Z",
+          "wordCount": 2774,
+          "title": "Using The New Constrained Layout In WordPress Block Themes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375278"
+        },
+        {
           "id": "https://css-tricks.com/?p=375190",
           "author": "Geoff Graham",
           "description": "I’m a sucker for anything about front-end job titles.\nAnselm Hannemann:\nCSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, \n…\nMore Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -174,16 +184,6 @@
           "wordCount": 1215,
           "title": "Some Links About CSS Gradients",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374381",
-          "author": "Manoj Kumar",
-          "description": "This is a continuation of my last article about “Rendering External API Data in WordPress Blocks on the Front End”. In that last one, we learned how to take an external API and integrate it with a block that …\nRendering External API Data in WordPress Blocks on the Back End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/rendering-external-api-data-in-wordpress-blocks-on-the-back-end/",
-          "publishedOn": "2022-11-01T12:57:22.000Z",
-          "wordCount": 2807,
-          "title": "Rendering External API Data in WordPress Blocks on the Back End",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374381"
         }
       ]
     },
@@ -192,6 +192,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.",
+          "link": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
+          "publishedOn": "2022-11-30T11:15:00.000Z",
+          "wordCount": 5139,
+          "title": "Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6b9bd64-491c-4be4-bb3e-0295fea6f0c6/dec-19-dear-moon-merry-christmas-preview-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/",
           "author": "hello@smashingmagazine.com (Pearl Akpan)",
@@ -386,21 +401,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
-          "author": "hello@smashingmagazine.com (William Lyon)",
-          "description": "If building a GraphQL API backed by a native graph database sounds interesting or at all helpful for the problems you’re trying to solve as a developer, perhaps you’d like to give the open-source [Neo4j GraphQL Library](https://srv.buysellads.com/ads/long/x/TCZPLYDDTTTTTTFR6JINCTTTTTTGVUIVKKTTTTTTCT2NTYYTTTTTTI4BVH7U4JBCKQ466IDGV2IUWESGCV7WALL5QYYE) a try. Let’s take a closer look at the reasons why!",
-          "link": "https://smashingmagazine.com/2022/11/graph-neo4j-graphql-library/",
-          "publishedOn": "2022-11-01T11:00:00.000Z",
-          "wordCount": 4667,
-          "title": "Putting The Graph In GraphQL With The Neo4j GraphQL Library",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7b065dae-2f88-4864-bd8e-db6c92b7beea/open-source-neo4j-graphql-library.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7b065dae-2f88-4864-bd8e-db6c92b7beea/open-source-neo4j-graphql-library.jpg"
         }
       ]
     },
@@ -409,6 +409,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/schedule-email-in-gmail/",
+          "author": "Benjamin Semah",
+          "description": "Sometimes you might want to compose an email but send it later. Well, did you know that Gmail allows you to schedule up to 100 emails? In this article, you will learn how to schedule your emails using Gmail. There's no need to install any software or plugins. What you",
+          "link": "https://www.freecodecamp.org/news/schedule-email-in-gmail/",
+          "publishedOn": "2022-11-30T22:23:40.000Z",
+          "wordCount": 1108,
+          "title": "How to Schedule an Email in Gmail – a Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/email-gd2563c0fc_1280.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-to-boolean/",
+          "author": "Joel Olawanle",
+          "description": "When you're manipulating data, receiving values from forms, and dealing with data in other ways, these values may take the incorrect datatype. Assume you want your value to be a boolean with either true or false, but it is stored as a string – \"true\" or \"false.\" It becomes challenging",
+          "link": "https://www.freecodecamp.org/news/javascript-string-to-boolean/",
+          "publishedOn": "2022-11-30T22:14:10.000Z",
+          "wordCount": 1479,
+          "title": "JavaScript String to Boolean – How to Parse a Boolean in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-boris-sopko-2376033.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/",
+          "author": "Ophy Boamah",
+          "description": "The World Health Organization reports [https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability]  that about 15% (1.2 billion) of the world's population lives with some form of disability.  This means that as developers, our focus on making websites and applications accessible helps more people use these resources.  In this article, I'll point out barriers",
+          "link": "https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/",
+          "publishedOn": "2022-11-30T18:40:47.000Z",
+          "wordCount": 1966,
+          "title": "Web Accessibility – Best Practices and a Checklist for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/WebAccessibility.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/",
+          "author": "Manish Shivanandhan",
+          "description": "Information technology has made a profound impact on our lives over the last three decades. It has helped us create global businesses, transform industries, and build powerful connections. But it has also led to increased risks in security and privacy. Individuals and businesses are vulnerable to cyber attacks now more",
+          "link": "https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/",
+          "publishedOn": "2022-11-30T18:23:15.000Z",
+          "wordCount": 1952,
+          "title": "Principle of Least Privilege – Definition and Meaning in Cybersecurity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-install-wifi-adapter-driver-on-aml-s905x-cc-le-potato/",
+          "author": "Arunachalam B",
+          "description": "If you're a developer, you might be familiar with Raspberry Pi. But you might not know about the Libre Computer AML-S905X-CC – also called Le Potato.  There was a chip shortage during the pandemic that has resulted in increased Raspberry Pi prices. Other world events have also skyrocketed the",
+          "link": "https://www.freecodecamp.org/news/how-to-install-wifi-adapter-driver-on-aml-s905x-cc-le-potato/",
+          "publishedOn": "2022-11-30T17:27:33.000Z",
+          "wordCount": 1780,
+          "title": "How to Install a Wifi Adapter Driver on AML-S905X-CC (Le Potato)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/How-to-install-driver-for-external-wifi-adapter-in-Le-Potato-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/",
+          "author": "Yogesh Chavan",
+          "description": "In this tutorial, you will learn how to confidently write unit tests using the  Testing Library [https://testing-library.com/]. It is a very popular React testing library for writing unit tests. So let's get started. What We'll Cover:  1. Why Do You Need to Write Unit Tests?  2. What",
+          "link": "https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/",
+          "publishedOn": "2022-11-30T16:53:39.000Z",
+          "wordCount": 4560,
+          "title": "React Testing Library Tutorial – How to Write Unit Tests for React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover_testing.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-searching-works-under-the-hood/",
+          "author": "Houssein Badra",
+          "description": "Searching is something is something many people do every day. Whether they're word searching in documents and databases, or pattern matching in bioinformatics to detect anomalies in DNA, the applications for search are pretty much endless. And these applications require a lot of computation. Imagine searching for a particular DNA",
+          "link": "https://www.freecodecamp.org/news/how-searching-works-under-the-hood/",
+          "publishedOn": "2022-11-30T16:33:48.000Z",
+          "wordCount": 2686,
+          "title": "How Search Works Under the Hood – Data Structures and Search Algorithms Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/182786404-56a9f6725f9b58b7d00038e0.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-matlab-with-this-crash-course/",
+          "author": "Beau Carnes",
+          "description": "MATLAB is a programming language and software suite used for data analysis, scientific computing, and visualization that is widely used in academia and industry.  We just published a MATLAB crash course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of MATLAB. Phillip Parisi developed this course.",
+          "link": "https://www.freecodecamp.org/news/learn-matlab-with-this-crash-course/",
+          "publishedOn": "2022-11-30T14:46:10.000Z",
+          "wordCount": 743,
+          "title": "Learn MATLAB With This Crash Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/matlab.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/",
+          "author": "Beau Carnes",
+          "description": "Django REST Framework is a powerful and flexible toolkit for building Web APIs. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python and the Django REST Framework (DRF) to build a web API. Bobby Stearman developed this course. Bobby has created",
+          "link": "https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/",
+          "publishedOn": "2022-11-30T14:42:28.000Z",
+          "wordCount": 766,
+          "title": "Use Django REST Framework to Create Web APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/djangorest.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/best-backend-service-react/",
           "author": "Reed Barger",
@@ -1258,56 +1348,6 @@
           "wordCount": 1829,
           "title": "How to Handle Errors in Python – the try, except, else, and finally Keywords Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/11.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/event-bubbling-in-javascript/",
-          "author": "Dillion Megida",
-          "description": "HTML elements receive different types of events, from click, to blur, to scroll, and so on. One behavior these events have in common is Event Bubbling. I'll explain what this behavior means in this article. I also made a video version of this article which you can watch here [https://www.youtube.com/watch?v=KaHZdW02Tg0].",
-          "link": "https://www.freecodecamp.org/news/event-bubbling-in-javascript/",
-          "publishedOn": "2022-10-31T21:04:17.000Z",
-          "wordCount": 1877,
-          "title": "Event Bubbling in JavaScript – How Event Propagation Works with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/1.-event-bubbling-js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/",
-          "author": "Kolade Chris",
-          "description": "The Python error \"TypeError: 'int' object is not subscriptable\" occurs when you try to treat an integer like a subscriptable object. In Python, a subscriptable object is one you can “subscript” or iterate over. Why the \"TypeError: 'int' object is not subscriptable Error\" Occurs You can iterate over a string,",
-          "link": "https://www.freecodecamp.org/news/python-typeerror-int-object-not-subscriptable-solved/",
-          "publishedOn": "2022-10-31T17:37:23.000Z",
-          "wordCount": 1298,
-          "title": "TypeError: 'int' object is not subscriptable [Solved Python Error]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/in_not_subable.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/",
-          "author": "Kayode Adeniyi",
-          "description": "Infrastructure as code is the process of provisioning and managing your cloud resources by writing a template file that is both human-readable and machine consumable.  For AWS cloud development, the built-in choice for infrastructure as code is AWS CloudFormation. Using IaC, developers can manage a project’s infrastructure efficiently, allowing",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-infrastructure-as-code-with-aws/",
-          "publishedOn": "2022-10-31T17:07:04.000Z",
-          "wordCount": 1999,
-          "title": "How to Implement Infrastructure as Code with AWS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/network-g381392bcb_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-proxy-object/",
-          "author": "Keyur Paralkar",
-          "description": "In this tutorial, you are going to learn what a proxy object is, along with its limitations. We will also look into some of the use cases that demonstrate how you can use proxy objects to solve various problems. Without further ado, let’s get started. Table of Contents  *",
-          "link": "https://www.freecodecamp.org/news/javascript-proxy-object/",
-          "publishedOn": "2022-10-31T14:56:30.000Z",
-          "wordCount": 2718,
-          "title": "How JavaScript's Proxy Object Works – Explained with Example Use Cases",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/Image-defs.001-1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/",
-          "author": "Edeh Israel Chidera",
-          "description": "Almost every web application requires some form of authentication. This prevents unauthorized users from having access to the app's inner workings.  In this tutorial, you will learn how to authenticate your React app with the Firebase SDK. How to Authenticate with Firebase Authenticating with Firebase makes things easy for",
-          "link": "https://www.freecodecamp.org/news/use-firebase-authentication-in-a-react-app/",
-          "publishedOn": "2022-10-31T14:54:20.000Z",
-          "wordCount": 2360,
-          "title": "How to Use Firebase Authentication in a React App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/ferenc-almasi-tvHtIGbbjMo-unsplash.jpg"
         }
       ]
     }
