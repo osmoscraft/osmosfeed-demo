@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-01T01:21:30.476Z</updated>
+    <updated>2022-12-02T01:07:57.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dijkstra's Algorithm – Explained with a Pseudocode Example]]></title>
+        <id>https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/</id>
+        <link href="https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/"/>
+        <updated>2022-12-01T20:57:53.000Z</updated>
+        <summary type="html"><![CDATA[You can use algorithms in programming to solve specific problems through a set of precise instructions or procedures. Dijkstra's algorithm is one of many graph algorithms you'll come across. It is used to find the shortest path from a fixed node to all other nodes in a graph. There are]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL INSERT Statement – How to Insert Data into a Table in SQL]]></title>
+        <id>https://www.freecodecamp.org/news/sql-insert-statement/</id>
+        <link href="https://www.freecodecamp.org/news/sql-insert-statement/"/>
+        <updated>2022-12-01T18:54:21.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to use the SQL INSERT statement. We'll discuss the syntax of INSERT, and then we'll use an example to show all the different ways you can use INSERT. We'll also combine it with other helpful clauses to perform more complex operations. Prerequisites  *]]></summary>
+        <author>
+            <name>Annoh Karlgusta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digging Deeper Into Container Style Queries]]></title>
+        <id>https://css-tricks.com/?p=375607</id>
+        <link href="https://css-tricks.com/digging-deeper-into-container-style-queries/"/>
+        <updated>2022-12-01T13:59:06.000Z</updated>
+        <summary type="html"><![CDATA[I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …
+Digging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FabUnit: A Smart Way To Control And Synchronize Typo And Space]]></title>
+        <id>https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/</id>
+        <link href="https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/"/>
+        <updated>2022-12-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Fabienne Bielmann)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Schedule an Email in Gmail – a Step-by-Step Guide]]></title>
         <id>https://www.freecodecamp.org/news/schedule-email-in-gmail/</id>
@@ -1250,47 +1291,6 @@ The Difference Between Web Sockets, Web Workers, and Service Workers originally 
         <summary type="html"><![CDATA[When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Links About CSS Gradients]]></title>
-        <id>https://css-tricks.com/?p=374697</id>
-        <link href="https://css-tricks.com/some-links-about-css-gradients/"/>
-        <updated>2022-11-02T12:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …
-Some Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Delegation in JavaScript –Explained with an Example]]></title>
-        <id>https://www.freecodecamp.org/news/event-delegation-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/event-delegation-javascript/"/>
-        <updated>2022-11-01T17:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/"/>
-        <updated>2022-11-01T16:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Errors in Python – the try, except, else, and finally Keywords Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-errors-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-errors-in-python/"/>
-        <updated>2022-11-01T14:53:34.000Z</updated>
-        <summary type="html"><![CDATA[> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic]]></summary>
-        <author>
-            <name>P S Mohammed Ali</name>
         </author>
     </entry>
 </feed>

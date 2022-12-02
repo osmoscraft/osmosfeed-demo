@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375607",
+          "author": "Geoff Graham",
+          "description": "I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …\nDigging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/digging-deeper-into-container-style-queries/",
+          "publishedOn": "2022-12-01T13:59:06.000Z",
+          "wordCount": 2245,
+          "title": "Digging Deeper Into Container Style Queries",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375607"
+        },
+        {
           "id": "https://css-tricks.com/?p=375278",
           "author": "Ganesh Dahal",
           "description": "One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …\nUsing The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -174,16 +184,6 @@
           "wordCount": 2106,
           "title": "The Difference Between Web Sockets, Web Workers, and Service Workers",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374731"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374697",
-          "author": "Geoff Graham",
-          "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-links-about-css-gradients/",
-          "publishedOn": "2022-11-02T12:59:02.000Z",
-          "wordCount": 1215,
-          "title": "Some Links About CSS Gradients",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
         }
       ]
     },
@@ -192,6 +192,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
+          "author": "hello@smashingmagazine.com (Fabienne Bielmann)",
+          "description": "Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.",
+          "link": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
+          "publishedOn": "2022-12-01T09:00:00.000Z",
+          "wordCount": 4976,
+          "title": "FabUnit: A Smart Way To Control And Synchronize Typo And Space",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3b3ae408-a861-423b-a18c-bbe6151bbe83/fabunit-smart-way-control-synchronize-typo-space.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -409,6 +424,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use algorithms in programming to solve specific problems through a set of precise instructions or procedures. Dijkstra's algorithm is one of many graph algorithms you'll come across. It is used to find the shortest path from a fixed node to all other nodes in a graph. There are",
+          "link": "https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/",
+          "publishedOn": "2022-12-01T20:57:53.000Z",
+          "wordCount": 2352,
+          "title": "Dijkstra's Algorithm – Explained with a Pseudocode Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/michael-dziedzic-vLmo8kAVVt4-unsplash--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-insert-statement/",
+          "author": "Annoh Karlgusta",
+          "description": "In this tutorial, you'll learn how to use the SQL INSERT statement. We'll discuss the syntax of INSERT, and then we'll use an example to show all the different ways you can use INSERT. We'll also combine it with other helpful clauses to perform more complex operations. Prerequisites  *",
+          "link": "https://www.freecodecamp.org/news/sql-insert-statement/",
+          "publishedOn": "2022-12-01T18:54:21.000Z",
+          "wordCount": 2312,
+          "title": "SQL INSERT Statement – How to Insert Data into a Table in SQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/SQL-Insert-Statement.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/schedule-email-in-gmail/",
           "author": "Benjamin Semah",
@@ -1318,36 +1353,6 @@
           "wordCount": 1047,
           "title": "Microsoft 365 Fundamentals Certification (MS-900) – Pass the Exam With This Free 4-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ms900.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/event-delegation-javascript/",
-          "author": "Dillion Megida",
-          "description": "Event Delegation is a pattern based upon the concept of Event Bubbling [/news/event-bubbling-in-javascript/]. It is an event-handling pattern that allows you to handle events at a higher level in the DOM tree other than the level where the event was first received. There's a video version of this topic [https://www.youtube.com/watch?v=aZ3JWv0ofuA]",
-          "link": "https://www.freecodecamp.org/news/event-delegation-javascript/",
-          "publishedOn": "2022-11-01T17:58:39.000Z",
-          "wordCount": 1381,
-          "title": "Event Delegation in JavaScript –Explained with an Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/2.-event-delegation-js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
-          "author": "Beau Carnes",
-          "description": "Full stack development is a term used to describe the process of developing a complete website or application from start to finish. A full stack developer is a web developer who can work on all parts of a website or application, from the back-end code that powers the site to",
-          "link": "https://www.freecodecamp.org/news/learn-full-stack-development-html-css-javascript-node-js-mongodb/",
-          "publishedOn": "2022-11-01T16:57:54.000Z",
-          "wordCount": 1246,
-          "title": "Learn Full Stack Development – HTML, CSS, JavaScript, Node.js, MongoDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/webdev.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-handle-errors-in-python/",
-          "author": "P S Mohammed Ali",
-          "description": "> “It’s hard enough to find an error in your code when you’re looking for it; it’s even harder when you’ve assumed your code is error-free.” ― Steve McConnell Errors are inevitable in a programmer's life. In fact, while writing programs, errors can be really helpful in identifying the logic",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-errors-in-python/",
-          "publishedOn": "2022-11-01T14:53:34.000Z",
-          "wordCount": 1829,
-          "title": "How to Handle Errors in Python – the try, except, else, and finally Keywords Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/11.jpg"
         }
       ]
     }
