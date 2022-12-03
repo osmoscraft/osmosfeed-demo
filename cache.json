@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375308",
+          "author": "Temani Afif",
+          "description": "Image sliders (also called carousels) are everywhere. There are a lot of CSS tricks to create the common slider where the images slide from left to right (or the opposite). It’s the same deal with the many JavaScript libraries out …\nCSS Infinite and Circular Rotating Image Slider originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-only-infinite-and-circular-image-slider/",
+          "publishedOn": "2022-12-02T14:12:57.000Z",
+          "wordCount": 2394,
+          "title": "CSS Infinite and Circular Rotating Image Slider",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375308"
+        },
+        {
           "id": "https://css-tricks.com/?p=375607",
           "author": "Geoff Graham",
           "description": "I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …\nDigging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -174,16 +184,6 @@
           "wordCount": 1282,
           "title": "A Couple Changes Coming in Chrome 108",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374894"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374731",
-          "author": "Aisha Bukar",
-          "description": "Web Sockets, Web Workers, Service Workers… these are terms you may have read or overheard. Maybe not all of them, but likely at least one of them. And even if you have a good handle on front-end development, there’s a …\nThe Difference Between Web Sockets, Web Workers, and Service Workers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-difference-between-web-sockets-web-workers-and-service-workers/",
-          "publishedOn": "2022-11-03T12:56:58.000Z",
-          "wordCount": 2106,
-          "title": "The Difference Between Web Sockets, Web Workers, and Service Workers",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374731"
         }
       ]
     },
@@ -192,6 +192,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
+          "author": "hello@smashingmagazine.com (Dan Donald)",
+          "description": "The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.",
+          "link": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
+          "publishedOn": "2022-12-02T09:00:00.000Z",
+          "wordCount": 6411,
+          "title": "The Anatomy Of Themed Design System Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/56513693-7577-4bc5-9baf-ed8f489f24ca/anatomy-themed-design-system-components.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/",
           "author": "hello@smashingmagazine.com (Fabienne Bielmann)",
@@ -386,36 +401,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c9ac3481-4133-40fb-bb5c-6ddf9fe04c03/practical-steps-build-transparency-remote-business.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "What’s the state of HTML Email, Vue.js and Next.js? Would you like to level up with modern CSS? What are new, smart interface design patterns we could use? Let’s figure it all out together with our [brand new online workshops](https://smashingconf.com/online-workshops/) alongside our free community meetups.",
-          "link": "https://smashingmagazine.com/2022/11/new-frontend-coding-ux-online-workshops/",
-          "publishedOn": "2022-11-03T07:00:00.000Z",
-          "wordCount": 3276,
-          "title": "New Smashing Front-End & UX Workshops",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f0edf42-4421-4e65-9a71-0a8bf3dc41b0/online-workshops-2022.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4f0edf42-4421-4e65-9a71-0a8bf3dc41b0/online-workshops-2022.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "When designing navigation on mobile, we don’t have to rely on slide-in-menus or nested accordions. We can also use the curtain design pattern, and show multiple levels of navigation at once.",
-          "link": "https://smashingmagazine.com/2022/11/navigation-design-mobile-ux/",
-          "publishedOn": "2022-11-02T14:00:00.000Z",
-          "wordCount": 5887,
-          "title": "Designing The Perfect Mobile Navigation UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f4f71534-99d6-4c67-866b-808017f4c3a5/navigation-design-mobile-ux.jpg"
         }
       ]
     },
@@ -424,6 +409,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/css-is-pseudo-class-explained/",
+          "author": "Dillion Megida",
+          "description": "Pseudo-classes allow you to style an element in a specific state. There are many supported classes for states in CSS. In this article, I'll explain how the :is  pseudo-class works. This article is the first in a new series I'll be working on over the coming weeks and months:",
+          "link": "https://www.freecodecamp.org/news/css-is-pseudo-class-explained/",
+          "publishedOn": "2022-12-02T22:04:37.000Z",
+          "wordCount": 1587,
+          "title": "CSS Pseudo-Classes – How the :is Pseudo-Class Works with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/1.-is.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-2022-usage-statistics/",
+          "author": "Quincy Larson",
+          "description": "That's 8,000 years. That's a lot of learning. 2022 has been a massive year for the freeCodeCamp community. People around the world are using freeCodeCamp to expand their skills and advance their careers. Here's a breakdown of site usage across the four main pillars of the freeCodeCamp community: /learn (the",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-2022-usage-statistics/",
+          "publishedOn": "2022-12-02T00:22:33.000Z",
+          "wordCount": 1117,
+          "title": "People Spent 4 Billion Minutes Learning on freeCodeCamp in 2022",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/freeCodeCamp_historic_usage_-_Google_Sheets.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/",
+          "author": "Quincy Larson",
+          "description": "2022 was a massive year for the freeCodeCamp community:  * The community helped millions of people around the world learn math,    programming, and computer science. We also helped them stay motivated and    moving forward toward their goals.  * We published thousands of",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/",
+          "publishedOn": "2022-12-02T00:21:15.000Z",
+          "wordCount": 2266,
+          "title": "Announcing freeCodeCamp's 2022 Top Contributors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/thomas-habr-wprOCzLIEYI-unsplash--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/",
           "author": "Ihechikara Vincent Abba",
@@ -1263,96 +1278,6 @@
           "wordCount": 10125,
           "title": "TypeScript for React Developers – Why TypeScript is Useful and How it Works",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/typescript-cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/quick-sort-algorithm-time-complexity-with-cpp-and-java-code/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, you'll learn about one of the most commonly used programming algorithms – the quick sort algorithm.  You'll get to know how the algorithm works with the help of visual guides. You'll also see some code examples that will help you implement the algorithm in C++ and",
-          "link": "https://www.freecodecamp.org/news/quick-sort-algorithm-time-complexity-with-cpp-and-java-code/",
-          "publishedOn": "2022-11-03T00:43:11.000Z",
-          "wordCount": 2528,
-          "title": "Quick Sort – Algorithm Time Complexity with C++ and Java Code Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/kelly-sikkema-377gw1wN0Ic-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/",
-          "author": "Dillion Megida",
-          "description": "You might be wondering – what is minification and how does it improve your JavaScript applications? What tools can you use to minify your JS? I'll answer these questions in this article. What is Minification? Minification is the process of \"minimizing\" code by removing the irrelevant parts of the code.",
-          "link": "https://www.freecodecamp.org/news/javascript-minify-minifying-js-with-a-minifier-or-jsmin/",
-          "publishedOn": "2022-11-02T23:50:39.000Z",
-          "wordCount": 1624,
-          "title": "JavaScript Minify – Minifying JS with a Minifier or jsmin",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/3.-minifying-js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/",
-          "author": "Kolade Chris",
-          "description": "As the name suggests, the error TypeError: builtin_function_or_method object is not subscriptable is a “typeerror” that occurs when you try to call a built-in function the wrong way. When a \"typeerror\" occurs, the program is telling you that you’re mixing up types. That means, for example, you might be concatenating",
-          "link": "https://www.freecodecamp.org/news/typeerror-builtin-function-or-method-object-is-not-subscriptable-python-error-solved/",
-          "publishedOn": "2022-11-02T23:43:20.000Z",
-          "wordCount": 1131,
-          "title": "TypeError: builtin_function_or_method object is not subscriptable Python Error [SOLVED]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/built_in_not_subable.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "Before I get into what this post is all about, I'd like to share the motivation that prompted me to write it.  I'm writing this article because I recall the first time I learned about customer segmentation or clustering. I didn't fully grasp what I was doing back then.",
-          "link": "https://www.freecodecamp.org/news/customer-segmentation-python-machine-learning/",
-          "publishedOn": "2022-11-02T18:56:39.000Z",
-          "wordCount": 3363,
-          "title": "How to Perform Customer Segmentation in Python – Machine Learning Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/-GetPaidStock.com--635e3fa0c561f.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/",
-          "author": "Caleb Olojo",
-          "description": "One of the methods frontend developers use the most in JavaScript is the  Array.prototype.map() method.  From having to render a list of items in the DOM to looping through a series of blog posts – and many more – the usefulness goes on and on. Say you have",
-          "link": "https://www.freecodecamp.org/news/destructure-object-properties-using-array-map-in-react/",
-          "publishedOn": "2022-11-02T17:07:58.000Z",
-          "wordCount": 1432,
-          "title": "How to Destructure Object Properties Using array.map() in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-pixabay-276502.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/",
-          "author": "Aaron Katz",
-          "description": "What is a cybersecurity tabletop exercise (TTX)? Cybersecurity breaches are resulting in an increasing number of losses ($4.2 million in 2021 [https://purplesec.us/resources/cyber-security-statistics/#Cybercrime]). So it's important to do as much as possible to prepare and train before experiencing a potential incident yourself.  A cybersecurity tabletop exercise (TTX) is one of",
-          "link": "https://www.freecodecamp.org/news/build-an-effective-cyber-tabletop-exercise/",
-          "publishedOn": "2022-11-02T16:41:13.000Z",
-          "wordCount": 2389,
-          "title": "How to Build an Effective Cyber Tabletop Exercise",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-fauxels-3183197.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/",
-          "author": "Dionysia Lemonaki",
-          "description": "In this article, you will learn what the Python error TypeError: can't multiply sequence by non-int of type float means. Firstly, I will explain why this error gets raised. You will also learn how to solve the error and how to avoid it in the first place. Here is what",
-          "link": "https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error/",
-          "publishedOn": "2022-11-02T16:36:15.000Z",
-          "wordCount": 1534,
-          "title": "TypeError: can't multiply sequence by non-int of type float [Solved Python Error]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/10/pexels-pixabay-355948.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
-          "author": "Jessica Wilkins",
-          "description": "Hacktoberfest is a month long celebration of open source. And this year I participated as a maintainer for freeCodeCamp's Developer Quiz Site [https://github.com/freeCodeCamp/Developer_Quiz_Site]. I merged a total of 356 pull requests and helped a lot of new contributors get started with open source. We were able to add a total",
-          "link": "https://www.freecodecamp.org/news/what-i-learned-as-a-hacktoberfest-repo-maintainer/",
-          "publishedOn": "2022-11-02T16:17:06.000Z",
-          "wordCount": 2431,
-          "title": "What I Learned from Maintaining a Repo During Hacktoberfest and Merging 356 PRs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Screen-Shot-2022-10-31-at-5.56.25-PM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
-          "author": "Andrew Brown",
-          "description": "You can learn everything you need to know to earn the Microsoft 365 Fundamentals Certification by completing this free 4-hour course. What is the Microsoft 365 Fundamentals? The Microsoft 365 Fundamentals is an entry level Microsoft certification into a broad amount of Microsoft Software-as-a-Service (SaaS) products. These Microsoft SaaS products",
-          "link": "https://www.freecodecamp.org/news/microsoft-365-fundamentals-certification-ms-900-course/",
-          "publishedOn": "2022-11-02T14:10:44.000Z",
-          "wordCount": 1047,
-          "title": "Microsoft 365 Fundamentals Certification (MS-900) – Pass the Exam With This Free 4-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ms900.png"
         }
       ]
     }
