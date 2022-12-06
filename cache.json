@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375184",
+          "author": "Pieter De Decker",
+          "description": "For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …\nDoes WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/does-www-still-belong-in-urls/",
+          "publishedOn": "2022-12-05T15:20:22.000Z",
+          "wordCount": 1667,
+          "title": "Does WWW still belong in URLs?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375184"
+        },
+        {
           "id": "https://css-tricks.com/?p=375308",
           "author": "Temani Afif",
           "description": "Image sliders (also called carousels) are everywhere. There are a lot of CSS tricks to create the common slider where the images slide from left to right (or the opposite). It’s the same deal with the many JavaScript libraries out …\nCSS Infinite and Circular Rotating Image Slider originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -384,6 +394,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
+          "author": "Manish Shivanandhan",
+          "description": "There’s much more to web servers and websites than what appears on the surface. The first step an attacker uses when attacking a website is to find the list of URLs and sub-domains. Web developers often expose sensitive files, URL paths, or even sub-domains while building or maintaining a site.",
+          "link": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
+          "publishedOn": "2022-12-05T23:40:58.000Z",
+          "wordCount": 1845,
+          "title": "Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Stealth-Security---Blog-Banner--24-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-apis-work/",
+          "author": "Tooba Jamal",
+          "description": "When I started learning to code, the term API would always haunt me. I couldn't make sense of what it actually meant because I would hear people talking about APIs in different contexts.  The biggest challenge was that I couldn't find resources to learn about APIs in simple terms.",
+          "link": "https://www.freecodecamp.org/news/how-apis-work/",
+          "publishedOn": "2022-12-05T22:56:35.000Z",
+          "wordCount": 1923,
+          "title": "What is an API and How Does it Work? APIs for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/api-article.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/",
+          "author": "Daniel Asta",
+          "description": "We all want to build powerful applications and avoid unnecessary renders. There are some hooks available to help with this, but you might not be sure about which one to use and when. In this article you will learn the differences between useCallback and useMemo  as well as how",
+          "link": "https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/",
+          "publishedOn": "2022-12-05T18:47:25.000Z",
+          "wordCount": 2705,
+          "title": "Better React Performance – When to Use the useCallback vs useMemo Hook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/useCallback-vs-useMemo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-node-js/",
+          "author": "Benjamin Semah",
+          "description": "Node.js allows developers to create both front-end and back-end applications using JavaScript. It was released in 2009 by Ryan Dahl. In this article, you will learn about Node.js. You will learn the following:  * What is Node.js?  * How the Node.js environment differs from the browser.  *",
+          "link": "https://www.freecodecamp.org/news/what-is-node-js/",
+          "publishedOn": "2022-12-05T15:18:12.000Z",
+          "wordCount": 1907,
+          "title": "What Exactly is Node.js? Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/What-is.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/",
+          "author": "Dionysia Lemonaki",
+          "description": "When coding in the C programming language, there may be times when you need to know the size of an array. For example, when you want to loop through all the elements stored in the array to determine whether a specific value is present. In this article, you will learn",
+          "link": "https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/",
+          "publishedOn": "2022-12-05T14:53:05.000Z",
+          "wordCount": 1368,
+          "title": "How to Find the Size of an Array in C with the sizeof Operator",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-eduardo-dutra-2115217-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/css-is-pseudo-class-explained/",
           "author": "Dillion Megida",
