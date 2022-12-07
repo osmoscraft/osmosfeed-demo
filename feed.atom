@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T01:07:15.987Z</updated>
+    <updated>2022-12-07T01:09:44.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Separation of Concerns in React –How to Use Container and Presentational Components]]></title>
+        <id>https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/</id>
+        <link href="https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/"/>
+        <updated>2022-12-06T21:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Many new React developers combine logic and presentation inside the same React component. And they may not know why it's important to separate these two – they just want to make it work. But later, they'll find that they need to make changes to the file and doing so becomes]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to View Your Linux Processes]]></title>
+        <id>https://www.freecodecamp.org/news/linux-top/</id>
+        <link href="https://www.freecodecamp.org/news/linux-top/"/>
+        <updated>2022-12-06T21:09:33.000Z</updated>
+        <summary type="html"><![CDATA[You may be used to using the Activity Monitor in MacOS or the Task Manager for Windows to see the current processes running on your system.  But for those running Linux, if that includes a dual boot, virtual box, or even WSL2, you could use a useful Linux command]]></summary>
+        <author>
+            <name>Anthony Behery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Your Business Strategy with Python and APIs]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/"/>
+        <updated>2022-12-06T18:11:07.000Z</updated>
+        <summary type="html"><![CDATA[When you work in e-commerce operations, you'll have to perform many tasks daily to implement your company's business strategies.  But these often repetitive tasks can be time-consuming and leave room for errors. Some of these errors can cost your company money, reputation, and time.  Luckily, Python and APIs]]></summary>
+        <author>
+            <name>Marco Venturi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Node Modules and How Do You Use Them?]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-node-modules/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-node-modules/"/>
+        <updated>2022-12-06T17:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Every Node.js application has modules. These modules form part of the building blocks of the application. They help developers work faster and write more structured code. In this tutorial, you will learn what node modules are. You will also learn about the three types of node modules. And we'll go]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Random Number within Certain a Range in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/"/>
+        <updated>2022-12-06T16:21:25.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you want to generate a random number between 10 and 15 – how do you do that in JavaScript? I'll show you how with examples in this article. In JavaScript, there's the random method of the Math object which returns random numbers. But this has a range limitation.]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS is OK, I guess.]]></title>
+        <id>https://css-tricks.com/?p=375747</id>
+        <link href="https://css-tricks.com/css-is-ok-i-guess/"/>
+        <updated>2022-12-06T15:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Nothing but ear-to-ear smiles as I was watching this video from @quayjn on YouTube. (No actual name in the byline, though I think it’s Brian Katz if my paper trail is correct).
+The best is this Pen you can …
+CSS is OK, I guess. originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible Front-End Patterns For Responsive Tables (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/</id>
+        <link href="https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/"/>
+        <updated>2022-12-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets]]></title>
         <id>https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/</id>

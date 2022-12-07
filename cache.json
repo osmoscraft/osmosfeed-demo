@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375747",
+          "author": "Geoff Graham",
+          "description": "Nothing but ear-to-ear smiles as I was watching this video from @quayjn on YouTube. (No actual name in the byline, though I think it’s Brian Katz if my paper trail is correct).\nThe best is this Pen you can …\nCSS is OK, I guess. originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-is-ok-i-guess/",
+          "publishedOn": "2022-12-06T15:37:50.000Z",
+          "wordCount": 845,
+          "title": "CSS is OK, I guess.",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375747"
+        },
+        {
           "id": "https://css-tricks.com/?p=375184",
           "author": "Pieter De Decker",
           "description": "For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …\nDoes WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -192,6 +202,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
+          "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
+          "publishedOn": "2022-12-06T12:00:00.000Z",
+          "wordCount": 6053,
+          "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/",
           "author": "hello@smashingmagazine.com (Dan Donald)",
@@ -394,6 +419,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
+          "author": "Keyur Paralkar",
+          "description": "Many new React developers combine logic and presentation inside the same React component. And they may not know why it's important to separate these two – they just want to make it work. But later, they'll find that they need to make changes to the file and doing so becomes",
+          "link": "https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/",
+          "publishedOn": "2022-12-06T21:43:19.000Z",
+          "wordCount": 2388,
+          "title": "Separation of Concerns in React –How to Use Container and Presentational Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/container-and-presentational-component-pattern-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linux-top/",
+          "author": "Anthony Behery",
+          "description": "You may be used to using the Activity Monitor in MacOS or the Task Manager for Windows to see the current processes running on your system.  But for those running Linux, if that includes a dual boot, virtual box, or even WSL2, you could use a useful Linux command",
+          "link": "https://www.freecodecamp.org/news/linux-top/",
+          "publishedOn": "2022-12-06T21:09:33.000Z",
+          "wordCount": 1367,
+          "title": "How to View Your Linux Processes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Screenshot-2022-12-05-235534.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/",
+          "author": "Marco Venturi",
+          "description": "When you work in e-commerce operations, you'll have to perform many tasks daily to implement your company's business strategies.  But these often repetitive tasks can be time-consuming and leave room for errors. Some of these errors can cost your company money, reputation, and time.  Luckily, Python and APIs",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/",
+          "publishedOn": "2022-12-06T18:11:07.000Z",
+          "wordCount": 1896,
+          "title": "How to Automate Your Business Strategy with Python and APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-node-modules/",
+          "author": "Benjamin Semah",
+          "description": "Every Node.js application has modules. These modules form part of the building blocks of the application. They help developers work faster and write more structured code. In this tutorial, you will learn what node modules are. You will also learn about the three types of node modules. And we'll go",
+          "link": "https://www.freecodecamp.org/news/what-are-node-modules/",
+          "publishedOn": "2022-12-06T17:54:33.000Z",
+          "wordCount": 1383,
+          "title": "What Are Node Modules and How Do You Use Them?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/stock.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/",
+          "author": "Dillion Megida",
+          "description": "Let's say you want to generate a random number between 10 and 15 – how do you do that in JavaScript? I'll show you how with examples in this article. In JavaScript, there's the random method of the Math object which returns random numbers. But this has a range limitation.",
+          "link": "https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/",
+          "publishedOn": "2022-12-06T16:21:25.000Z",
+          "wordCount": 1269,
+          "title": "How to Generate a Random Number within Certain a Range in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/9.-random-number.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
           "author": "Manish Shivanandhan",
