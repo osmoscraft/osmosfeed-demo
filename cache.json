@@ -406,21 +406,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a4d5c21a-93d3-43e5-b64c-1c3d47305f42/guide-keyboard-accessibility-html-css-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
-          "author": "hello@smashingmagazine.com (Andrew Stetsenko)",
-          "description": "Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.",
-          "link": "https://smashingmagazine.com/2022/11/search-developer-job-abroad/",
-          "publishedOn": "2022-11-11T09:00:00.000Z",
-          "wordCount": 5942,
-          "title": "How To Search For A Developer Job Abroad",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8b185412-0ec6-4926-8a15-a73bf00576e3/search-developer-job-abroad.jpg"
         }
       ]
     },
@@ -429,6 +414,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/",
+          "author": "Joel Olawanle",
+          "description": "JavaScript is a dynamically typed (or loosely typed) programming language. It allows you to declare variables without specifying or defining the variable type. You can create a variable in JavaScript without defining the type of value you can store in the variable. This can affect your program and cause bugs",
+          "link": "https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/",
+          "publishedOn": "2022-12-09T22:16:19.000Z",
+          "wordCount": 2178,
+          "title": "JavaScript Type Checking – How to Check Type in JS with typeof()",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/linux-networking-commands-for-beginners/",
           "author": "Arunachalam B",
@@ -1238,56 +1233,6 @@
           "wordCount": 2408,
           "title": "What is YAML? The YML File Format",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-christina-morillo-1181675.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Type casting or type conversion is the process of converting a variable from one data type to another.  Type casting can be done implicitly or explicitly.  Implicit type casting gets done automatically via the compiler, while explicit type casting is done by the developer. In this article, you'll",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-an-int-to-a-string-in-cpp/",
-          "publishedOn": "2022-11-10T18:54:57.000Z",
-          "wordCount": 1344,
-          "title": "How to Convert an Int to a String in C++ – Integer Cast Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/uday-awal-UjJWhMerJx0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/",
-          "author": "Kolade Chris",
-          "description": "If you work with Node.js and command line interface solutions like Webpack, create-react-app, or vue-cli-service, you might have encountered the error,  Error: error:0308010c:digital envelope routines::unsupported. You’re not alone, because I’m currently getting it too: The React app indeed failed to start: In this article, you’ll learn how to fix",
-          "link": "https://www.freecodecamp.org/news/error-error-0308010c-digital-envelope-routines-unsupported-node-error-solved/",
-          "publishedOn": "2022-11-10T18:39:19.000Z",
-          "wordCount": 1159,
-          "title": "Error: error:0308010c:digital envelope routines::unsupported [Node Error Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/envelope-1829509_1280.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/jamstack-for-beginners/",
-          "author": "Damilola Oladele",
-          "description": "You may have heard the term Jamstack and have been wondering what it means. Well, the Jamstack is nothing more than a modern way of building web applications.  Jamstack takes advantage of existing technologies – which we'll discuss in a minute. The result is better performance, improved security, and",
-          "link": "https://www.freecodecamp.org/news/jamstack-for-beginners/",
-          "publishedOn": "2022-11-10T18:30:49.000Z",
-          "wordCount": 1486,
-          "title": "What is the Jamstack? Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Damilola-Oladele-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/",
-          "author": "Manish Shivanandhan",
-          "description": "Building strong authentication systems is crucial for web applications. Now that many businesses have a growing online presence, a malicious actor taking control of your website can be devastating. In this article, we will learn how to use Ffuf, a fast web fuzzer written in Go. You will learn how",
-          "link": "https://www.freecodecamp.org/news/web-security-fuzz-web-applications-using-ffuf/",
-          "publishedOn": "2022-11-10T17:21:43.000Z",
-          "wordCount": 2445,
-          "title": "How to Fuzz Web Applications using FFuf – Web Security Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/ffuf.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/programming-in-typescript/",
-          "author": "Beau Carnes",
-          "description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. TypeScript provides better error checking than JavaScript. This is because TypeScript uses a static type system, which means that the type of a variable is checked before the code is executed. We just published a 5-hour TypeScript course",
-          "link": "https://www.freecodecamp.org/news/programming-in-typescript/",
-          "publishedOn": "2022-11-10T16:10:57.000Z",
-          "wordCount": 932,
-          "title": "Programming in TypeScript – Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/typescript.png"
         }
       ]
     }
