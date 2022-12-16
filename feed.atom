@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T01:10:56.575Z</updated>
+    <updated>2022-12-16T01:05:53.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS display:none and visibility:hidden – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/</id>
+        <link href="https://www.freecodecamp.org/news/css-display-none-and-visibility-hidden-the-difference/"/>
+        <updated>2022-12-15T23:13:53.000Z</updated>
+        <summary type="html"><![CDATA[display:none and visibility:hidden are two style declarations you can use to hide elements on the screen with CSS. But what are the differences between them? When building applications, there are times that you want to hide elements visually (not deleting them from the DOM, just the screen). You can do]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Select the Right EC2 Instance – A Guide to EC2 Instances and Their Capabilities]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-select-the-right-ec2-instance/"/>
+        <updated>2022-12-15T19:08:27.000Z</updated>
+        <summary type="html"><![CDATA[EC2 (Elastic Compute Cloud) is the most widely-used compute service from AWS. It's also one of the oldest services launched by AWS, as it was started in 2006.  In this article, I will go through some things you should consider when selecting an EC2 instance.  You can think]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Get Request – How to Make an HTTP Request in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-get-request-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-get-request-tutorial/"/>
+        <updated>2022-12-15T19:05:24.000Z</updated>
+        <summary type="html"><![CDATA[When building applications, you will have to interact between the backend and frontend to get, store, and manipulate data. This interaction between your frontend application and the backend server is possible through HTTP requests. There are five popular HTTP methods you can use to make requests and interact with your]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI for Two-Player Turn-based Games]]></title>
+        <id>https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/</id>
+        <link href="https://www.freecodecamp.org/news/build-an-ai-for-two-player-turn-based-games/"/>
+        <updated>2022-12-15T18:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Two-player turn-based games are games where two players play against each other, turn after turn, until one of them wins. Examples of these types of games are Tic-Tac-Toe, Backgammon, Mancala, Chess, and Connect 4. In this tutorial we will learn about the Minimax algorithm. It is a backtracking algorithm that]]></summary>
+        <author>
+            <name>Houssein Badra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Solve Math Equations in the Linux Terminal]]></title>
+        <id>https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/</id>
+        <link href="https://www.freecodecamp.org/news/solve-your-math-equation-on-terminal/"/>
+        <updated>2022-12-15T17:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Can you solve the below math expression on your own without using any device? Take as much time as you need – but no tools allowed: ( ( 11 + 97 ) + ( 2 * 63 ) - ( 7 / 93 ) * ( 8 - 25 )]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Difference Between an Independent Variable and a Dependent Variable?]]></title>
+        <id>https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/</id>
+        <link href="https://www.freecodecamp.org/news/independent-variable-vs-dependent-variable/"/>
+        <updated>2022-12-15T17:32:36.000Z</updated>
+        <summary type="html"><![CDATA[The meaning of the word "variable" depends on the field where it's being used. In programming, a variable is a particular piece of data that holds a value. Depending on the configuration, that value can change or remain fixed. For instance, in JavaScript, you can implement a variable to change]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So, you’d like to animate the display property]]></title>
+        <id>https://css-tricks.com/?p=375714</id>
+        <link href="https://css-tricks.com/so-youd-like-to-animate-the-display-property/"/>
+        <updated>2022-12-15T15:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.
+It’s a bit of a brain-twister to reason …
+So, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Prioritize User Security When Collecting Offline Data]]></title>
+        <id>https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/</id>
+        <link href="https://smashingmagazine.com/2022/12/prioritize-user-security-collecting-offline-data/"/>
+        <updated>2022-12-15T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some Links on AI-Related Stuff]]></title>
         <id>https://css-tricks.com/?p=376201</id>
@@ -1197,77 +1279,6 @@ Finding Front-End Development Scholarships originally published on CSS-Tricks, w
         <summary type="html"><![CDATA[In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Noah Mashni and Mark Steadman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Provision a Home Lab with Oracle Cloud and Ansible]]></title>
-        <id>https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/</id>
-        <link href="https://www.freecodecamp.org/news/provision-home-lab-with-oracle-cloud-and-ansible/"/>
-        <updated>2022-11-15T21:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Imagine for a moment that you been working hard to setup a website, protected with SSL, and then your hardware fails. This means that unless you have a perfect backup of your machine, you will need to install all the software and configuration files by hand. What if it's not]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL DATE – Function, Query, Timestamp Example Format]]></title>
-        <id>https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/</id>
-        <link href="https://www.freecodecamp.org/news/sql-date-function-query-timestamp-example-format/"/>
-        <updated>2022-11-15T18:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Dates are an integral part of any programming language, and SQL is no exception. When you insert data into your SQL database, you can add a date and query the database based on that date. In this article, you’ll learn about DATE functions in SQL and how to query a]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add ESLint to an Angular Application]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-eslint-to-an-angular-application/"/>
-        <updated>2022-11-15T16:39:58.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll build a web application using the latest version of  Angular [https://angular.io/]. Then we'll add ESLint [https://eslint.org/] which analyzes the JavaScript code statically to find any problems. Prerequisites Before you start, you need to install and configure the tools below (if you don't already have them]]></summary>
-        <author>
-            <name>Rodrigo Kamada</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Stratified Random Sampling? Definition and Python Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-stratified-random-sampling-definition-and-python-example/"/>
-        <updated>2022-11-15T16:33:52.000Z</updated>
-        <summary type="html"><![CDATA[When we wish to conduct an experiment on a population – for example, the entire population of a country – it is not always practical or realistic to include every subject (citizen) in the experiment.  Instead, we rely on a sample, which is a subset of the population, and]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
-        <id>https://css-tricks.com/?p=375066</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
-        <updated>2022-11-15T15:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
-Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cannot use import statement outside a module [React TypeScript Error Solved]]]></title>
-        <id>https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/cannot-use-import-statement-outside-a-module-react-typescript-error-solved/"/>
-        <updated>2022-11-15T15:30:56.000Z</updated>
-        <summary type="html"><![CDATA[When building a web application, you may encounter the SyntaxError: Cannot use import statement outside a module error.  This error might be raised when using either JavaScript or TypeScript in the back-end. So you could be working on the client side with React, Vue, and so on, and still]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manage State in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-manage-state-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-react/"/>
-        <updated>2022-11-15T15:17:14.000Z</updated>
-        <summary type="html"><![CDATA[React state management is a process for managing the data that React components need in order to render themselves. This data is typically stored in the component's state object. When the state object changes, the component will re-render itself. React state management is basically half of a React app. It]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
