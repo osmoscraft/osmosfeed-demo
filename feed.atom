@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T01:02:59.543Z</updated>
+    <updated>2022-12-20T01:06:30.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First Job in InfoSec]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/"/>
+        <updated>2022-12-19T23:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Getting your first job in information security (infosec, or cybersecurity) can be tough.  It's (still) a relatively new industry, and job roles and descriptions aren't always consistent. Plus, it can be hard to figure out where to get started, what skills you need, and how you can acquire them.]]></summary>
+        <author>
+            <name>Megan Kaczanowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Have Fun Building React Apps]]></title>
+        <id>https://www.freecodecamp.org/news/have-fun-building-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/have-fun-building-react-apps/"/>
+        <updated>2022-12-19T21:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Building React apps can either be a very fun experience or a very difficult and tedious one, based off of the tools you choose. React is a JavaScript library that, unlike frameworks like Angular, leave us to making a lot of decisions on our own. You have to choose which]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Wireguard VPN in Five Minutes]]></title>
+        <id>https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/"/>
+        <updated>2022-12-19T20:46:15.000Z</updated>
+        <summary type="html"><![CDATA[You may already understand how important a good VPN can be for maintaining the security and privacy of your mobile communications.  Whether you need to use your phone for banking over a public airport or coffee shop WiFi connection, or you're worried about the wrong people listening in on]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Speed up Your Software Development Pipeline]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/"/>
+        <updated>2022-12-19T17:51:06.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever managed a software development pipeline—or have plans to do so—there's one thing you'll need to prioritize above almost all else: speed.  No matter the type of software you're working on, you'll always be under pressure to speed up your team's deliverables. Some of that pressure might]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Playground: Running WordPress in the Browser]]></title>
+        <id>https://css-tricks.com/?p=376297</id>
+        <link href="https://css-tricks.com/wordpress-playground-run-in-browser/"/>
+        <updated>2022-12-19T16:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.
+The friction of uploading files has gotten …
+WordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking The Stress Out Of Design System Management]]></title>
+        <id>https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/</id>
+        <link href="https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/"/>
+        <updated>2022-12-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Masha Shaposhnikova)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Testing Best Practices – How to Test APIs for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/rules-of-api-testing-for-beginners/</id>
@@ -1126,16 +1188,6 @@ Taming the Cascade With BEM and Modern CSS Selectors originally published on CSS
         <summary type="html"><![CDATA[This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cristian Díaz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Date Command – How to Query the Terminal to Get Dates]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-query-the-terminal-to-get-dates-linux/"/>
-        <updated>2022-11-19T19:06:26.000Z</updated>
-        <summary type="html"><![CDATA[Linux has many utility tools that help you quickly find the answer to your questions. But many devs aren't aware of them. In this article, you will learn a command that has exceptional benefits.  For example, say you want to take a look at your calendar to plan a]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
 </feed>
