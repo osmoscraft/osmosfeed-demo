@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T01:05:49.980Z</updated>
+    <updated>2022-12-23T01:03:49.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Cache Expensive Database Queries Using the Momento Serverless Cache]]></title>
+        <id>https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/</id>
+        <link href="https://www.freecodecamp.org/news/serverless-caching-for-your-web-applications/"/>
+        <updated>2022-12-22T20:45:05.000Z</updated>
+        <summary type="html"><![CDATA[When to Use a Cache When you are building a web-application, you'll need to fetch data from a database. As your traffic and the size of your database grows, you will find that querying your database gets slower and slower. In order to return requests to users quickly, a cache]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[String Equality in JavaScript – How to Compare Strings in JS]]></title>
+        <id>https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/string-equality-in-javascript-how-to-compare-strings-in-js/"/>
+        <updated>2022-12-22T18:57:16.000Z</updated>
+        <summary type="html"><![CDATA[When writing code or building a solution, you might need to compare two strings to see if they are the same before proceeding with an operation. For example, when a user signs in, you'll want to compare the username the provide to the one in your database to see if]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding to a Dict in Python – How to Add to a Dictionary]]></title>
+        <id>https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/</id>
+        <link href="https://www.freecodecamp.org/news/adding-to-a-dict-in-python-how-to-add-to-a-dictionary/"/>
+        <updated>2022-12-22T18:04:49.000Z</updated>
+        <summary type="html"><![CDATA[A Python dictionary is like a JavaScript object – it’s a sequence of key:value  pairs. So, you can create them like this: stack_dict = {     "frontend": "JavaScript",     "backend": "Node JS",     "markup": "HTML and JSX", } To access]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Execution Context – How JS Works Behind the Scenes]]></title>
+        <id>https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/</id>
+        <link href="https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/"/>
+        <updated>2022-12-22T17:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how JavaScript works behind the scenes? It's actually quite fascinating! And that's what you'll learn about here. JavaScript is a single-threaded interpreted language. Every browser has its own JavaScript engine. Google Chrome has the V8 engine, Mozilla Firefox has SpiderMonkey, and so on. They all are]]></summary>
+        <author>
+            <name>Rwitesh Bera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is enumerate() in Python? Enumeration Example]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-enumerate-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-enumerate-in-python/"/>
+        <updated>2022-12-22T15:56:07.000Z</updated>
+        <summary type="html"><![CDATA[The enumerate() function is one of the built-in functions in Python. It provides a handy way to access each item in an iterable, along with a count value that specifies the order in which the item was accessed.  In this article you will learn all that you need to]]></summary>
+        <author>
+            <name>Suchandra Datta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Filtering in C# – How to Filter a List with Code Examples]]></title>
         <id>https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/</id>
@@ -1246,39 +1296,6 @@ Newer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tri
 Apple Messages & Color Contrast originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Developer Blog]]></title>
-        <id>https://css-tricks.com/?p=375599</id>
-        <link href="https://css-tricks.com/wordpress-developer-blog/"/>
-        <updated>2022-11-22T18:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:
-The Make Core blog has a heavy 
-…
-WordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimizing A Vue App]]></title>
-        <id>https://smashingmagazine.com/2022/11/optimizing-vue-app/</id>
-        <link href="https://smashingmagazine.com/2022/11/optimizing-vue-app/"/>
-        <updated>2022-11-22T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Arcade-Style Shooting Game with Python and PyGame]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-arcade-style-shooting/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-arcade-style-shooting/"/>
-        <updated>2022-11-22T14:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
