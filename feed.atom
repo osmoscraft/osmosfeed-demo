@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T01:05:12.381Z</updated>
+    <updated>2022-12-28T01:03:52.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Command-Line Data Manipulation]]></title>
+        <id>https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/</id>
+        <link href="https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/"/>
+        <updated>2022-12-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alvin Bryan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deploying CSS Logical Properties On Web Apps]]></title>
         <id>https://smashingmagazine.com/2022/12/deploying-css-logical-properties-on-web-apps/</id>
@@ -1285,16 +1295,6 @@ More Than “Slapping Paint on a Website” originally published on CSS-Tricks, 
 Newer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clear Code – How to Write Code That Is Easy to Read]]></title>
-        <id>https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/</id>
-        <link href="https://www.freecodecamp.org/news/clear-code-how-to-write-code-that-is-easy-to-read/"/>
-        <updated>2022-11-28T12:26:28.000Z</updated>
-        <summary type="html"><![CDATA[This article is a follow up to a tweet I made on how I deal with my poor ability to remember implementation (code). It may seem funny to you, but I do actually tend to forget what I write shortly after writing it.]]></summary>
-        <author>
-            <name>Ryan Michael Kay</name>
         </author>
     </entry>
 </feed>
