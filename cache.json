@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=375486",
+          "author": "Geoff Graham",
+          "description": "You know, this is the time of year where Chris normally publishes a big ol’ reflection of the past year. The first one was published in 2007, the same year CSS-Tricks began, and it continued all the way through 2021…\nThank You (2022 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/thank-you-2022-edition/",
+          "publishedOn": "2022-12-28T15:46:15.000Z",
+          "wordCount": 2951,
+          "title": "Thank You (2022 Edition)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375486"
+        },
+        {
           "id": "https://css-tricks.com/?p=375869",
           "author": "Geoff Graham",
           "description": "We’ve started making a tradition of rounding up the latest front-end research at the end of each year. We did it in 2020 and again in 2021. Reports are released throughout the year by a bunch of different companies …\n2022 Roundup of Web Research originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -204,16 +214,6 @@
           "wordCount": 1078,
           "title": "More Than “Slapping Paint on a Website”",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375190"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375273",
-          "author": "Daniel Schwarz",
-          "description": "HTML lists are boring. They don’t do much, so we don’t really think about them despite how widely used they are. And we’re still able to do the same things we’ve always done to customize them, like removing markers, reversing …\nNewer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/",
-          "publishedOn": "2022-11-28T14:05:11.000Z",
-          "wordCount": 2148,
-          "title": "Newer Things to Know About Good Ol’ HTML Lists",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375273"
         }
       ]
     },
@@ -1303,56 +1303,6 @@
           "wordCount": 1480,
           "title": "Snake Case VS Camel Case VS Pascal Case VS Kebab Case – What's the Difference Between Casings?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-olia-danilevich-4974912.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/",
-          "author": "Bikash Daga (Jain)",
-          "description": "Threads in Java are pre-defined classes that are available in the java.package when you write your programs. Generally, every program has one thread which is provided from the java.package.  All of these threads use the same memory, but they are independent. This means that any exception in a thread",
-          "link": "https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/",
-          "publishedOn": "2022-11-28T22:23:36.000Z",
-          "wordCount": 2344,
-          "title": "What are Threads in Java? How to Create a Thread with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/Copy-of-Copy-of-How-Encapsulation-is-Achieved-in-Python--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deploy-react-app/",
-          "author": "Reed Barger",
-          "description": "You have been working on a React application and now you're ready to actually push it to the web. What services do you use to publish your site and make it live to the world?  Whether you're ready to release your website as a finished product or you are",
-          "link": "https://www.freecodecamp.org/news/deploy-react-app/",
-          "publishedOn": "2022-11-28T21:30:24.000Z",
-          "wordCount": 1572,
-          "title": "How to Deploy Your React App Using Cloudflare Pages, Vercel, and Netlify",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/mugshotbot.com_customize_color-pink-image-9129875b-mode-dark-pattern-none-theme-two_up-url-https___gifcoins.io.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you're using the Windows operating system, you might have heard the phrase \"Rebooting to the safe boot\" or something like that. In this tutorial, I'll explain what that means and how you can do it on your Windows machine. What is Safe Boot or Safe Mode for Windows? Safe",
-          "link": "https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/",
-          "publishedOn": "2022-11-28T18:55:40.000Z",
-          "wordCount": 1089,
-          "title": "How to Enter \"Safe Boot\" On Windows Operating Systems",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-eduardo-dutra-2115217.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/",
-          "author": "Dillion Megida",
-          "description": "There are multiple ways to merge arrays in JavaScript. You can use long or short approaches. I'll be showing 3 of them in this article. When working with arrays in JavaScript, there are cases where you want to combine multiple arrays together. For example, arrays with related data coming from",
-          "link": "https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/",
-          "publishedOn": "2022-11-28T15:37:11.000Z",
-          "wordCount": 1466,
-          "title": "How to Merge Arrays in JavaScript – Array Concatenation in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/7.-merge-arrays.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/",
-          "author": "Joel Olawanle",
-          "description": "An object is one of the most commonly used data types in programming. An object is a collection of related data stored as key-value pairs. For example: let userDetails = {   name: \"John Doe\",   username: \"jonnydoe\",   age: 14, } When working with objects, you",
-          "link": "https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/",
-          "publishedOn": "2022-11-28T15:29:23.000Z",
-          "wordCount": 1695,
-          "title": "How to Check if an Object is Empty in JavaScript – JS Java isEmpty Equivalent",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/cover-template--21-.png"
         }
       ]
     }

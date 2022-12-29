@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T01:03:52.961Z</updated>
+    <updated>2022-12-29T01:06:32.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thank You (2022 Edition)]]></title>
+        <id>https://css-tricks.com/?p=375486</id>
+        <link href="https://css-tricks.com/thank-you-2022-edition/"/>
+        <updated>2022-12-28T15:46:15.000Z</updated>
+        <summary type="html"><![CDATA[You know, this is the time of year where Chris normally publishes a big ol’ reflection of the past year. The first one was published in 2007, the same year CSS-Tricks began, and it continued all the way through 2021…
+Thank You (2022 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Guide To Command-Line Data Manipulation]]></title>
         <id>https://smashingmagazine.com/2022/12/guide-command-line-data-manipulation-cli-miller/</id>
@@ -1234,67 +1245,6 @@ CSS evolved and we’re beyond the point where everyone can just do it as a side
 More Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Threads in Java? How to Create a Thread with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-threads-in-java-how-to-create-one/"/>
-        <updated>2022-11-28T22:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Threads in Java are pre-defined classes that are available in the java.package when you write your programs. Generally, every program has one thread which is provided from the java.package.  All of these threads use the same memory, but they are independent. This means that any exception in a thread]]></summary>
-        <author>
-            <name>Bikash Daga (Jain)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your React App Using Cloudflare Pages, Vercel, and Netlify]]></title>
-        <id>https://www.freecodecamp.org/news/deploy-react-app/</id>
-        <link href="https://www.freecodecamp.org/news/deploy-react-app/"/>
-        <updated>2022-11-28T21:30:24.000Z</updated>
-        <summary type="html"><![CDATA[You have been working on a React application and now you're ready to actually push it to the web. What services do you use to publish your site and make it live to the world?  Whether you're ready to release your website as a finished product or you are]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Enter "Safe Boot" On Windows Operating Systems]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-enter-safe-boot-on-windows-operating-systems/"/>
-        <updated>2022-11-28T18:55:40.000Z</updated>
-        <summary type="html"><![CDATA[If you're using the Windows operating system, you might have heard the phrase "Rebooting to the safe boot" or something like that. In this tutorial, I'll explain what that means and how you can do it on your Windows machine. What is Safe Boot or Safe Mode for Windows? Safe]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Arrays in JavaScript – Array Concatenation in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-merge-arrays-in-javascript-array-concatenation-in-js/"/>
-        <updated>2022-11-28T15:37:11.000Z</updated>
-        <summary type="html"><![CDATA[There are multiple ways to merge arrays in JavaScript. You can use long or short approaches. I'll be showing 3 of them in this article. When working with arrays in JavaScript, there are cases where you want to combine multiple arrays together. For example, arrays with related data coming from]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check if an Object is Empty in JavaScript – JS Java isEmpty Equivalent]]></title>
-        <id>https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/check-if-an-object-is-empty-in-javascript/"/>
-        <updated>2022-11-28T15:29:23.000Z</updated>
-        <summary type="html"><![CDATA[An object is one of the most commonly used data types in programming. An object is a collection of related data stored as key-value pairs. For example: let userDetails = {   name: "John Doe",   username: "jonnydoe",   age: 14, } When working with objects, you]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newer Things to Know About Good Ol’ HTML Lists]]></title>
-        <id>https://css-tricks.com/?p=375273</id>
-        <link href="https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/"/>
-        <updated>2022-11-28T14:05:11.000Z</updated>
-        <summary type="html"><![CDATA[HTML lists are boring. They don’t do much, so we don’t really think about them despite how widely used they are. And we’re still able to do the same things we’ve always done to customize them, like removing markers, reversing …
-Newer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
 </feed>
