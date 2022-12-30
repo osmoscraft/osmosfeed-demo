@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T01:06:32.139Z</updated>
+    <updated>2022-12-30T01:06:24.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Ultimate Guide On Sizing, Spacing, Grids And Layout In Web And UI/UX Design]]></title>
+        <id>https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/</id>
+        <link href="https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/"/>
+        <updated>2022-12-29T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Space is one of the core elements in design that is often overlooked. Proper spatial organization helps to achieve consistency between screens, pages, or even products. It also creates visual rhythm, limits decision-making, and helps to achieve better readability and scannability. In this guide, Paul Matvienko discusses the basics of defining a spatial system.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Matvienko)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thank You (2022 Edition)]]></title>
         <id>https://css-tricks.com/?p=375486</id>
@@ -1151,100 +1161,6 @@ Digging Deeper Into Container Style Queries originally published on CSS-Tricks, 
 Using The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/</id>
-        <link href="https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/"/>
-        <updated>2022-11-30T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Backend as a Service for your React App]]></title>
-        <id>https://www.freecodecamp.org/news/best-backend-service-react/</id>
-        <link href="https://www.freecodecamp.org/news/best-backend-service-react/"/>
-        <updated>2022-11-29T22:56:39.000Z</updated>
-        <summary type="html"><![CDATA[If you're building an app on your own or on a budget, you may want to consider using a backend-as-a-service (BaaS). Doing so allows you to focus on the frontend of your application, but still have a full-stack app with a database, authentication, and more.  In this guide, we]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Strings in JavaScript – Tips for Efficient String Concatenation]]></title>
-        <id>https://www.freecodecamp.org/news/efficient-string-building-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/efficient-string-building-in-javascript/"/>
-        <updated>2022-11-29T20:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Everything you see in browser – except images and videos – is a string.  That's why you should learn how to work with them properly. This will dramatically increase the performance of your web applications, both on the frontend and backend. How Default String Concatenation Works – and Its]]></summary>
-        <author>
-            <name>Andrey Germanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a RESTful API with AdonisJS]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-restful-api-with-adonisjs/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-restful-api-with-adonisjs/"/>
-        <updated>2022-11-29T20:37:35.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, it's important to understand how APIs work. APIs have helped bridged the gap between the frontend and backend. They also let you separate parts of large codebases and take advantage of a microservices architecture. This separation of concerns makes learning and building RESTful APIs an in-demand skill]]></summary>
-        <author>
-            <name>Solomon Eseme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Check for Null – Null Checking in JavaScript Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-check-for-null-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-check-for-null-in-javascript/"/>
-        <updated>2022-11-29T20:16:54.000Z</updated>
-        <summary type="html"><![CDATA[Null is a primitive type in JavaScript. This means you are supposed to be able to check if a variable is null with the typeof() method. But unfortunately, this returns “object” because of an historical bug [https://www.turbinelabs.com/blog/the-odd-history-of-javascripts-null] that cannot be fixed. let userName = null; console.log(typeof(userName)); // object So how]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Reverse an Array in JavaScript – JS .reverse() Function]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-reverse-an-array-in-javascript-js-reverse-function/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-reverse-an-array-in-javascript-js-reverse-function/"/>
-        <updated>2022-11-29T20:12:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll show you two ways to reverse arrays in JavaScript. The reverse method of arrays reverses an array by making the last item the first, and making the first item the last. The other items in between also get reversed, respectively. Before showing you examples of the]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Inheritance Works in C# – with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/inheritance-in-c-sharp/</id>
-        <link href="https://www.freecodecamp.org/news/inheritance-in-c-sharp/"/>
-        <updated>2022-11-29T20:04:11.000Z</updated>
-        <summary type="html"><![CDATA[Inheritance is a branch of object-oriented programming that helps you write reusable code. It allows you to extend the content of a class to another class.  Other pillars of object-oriented programming [/news/four-pillars-of-object-oriented-programming/] include encapsulation, polymorphism, and abstraction.  In this article, we will learn about inheritance in C# and]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snake Case VS Camel Case VS Pascal Case VS Kebab Case – What's the Difference Between Casings?]]></title>
-        <id>https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/</id>
-        <link href="https://www.freecodecamp.org/news/snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-whats-the-difference/"/>
-        <updated>2022-11-29T16:33:11.000Z</updated>
-        <summary type="html"><![CDATA[As a software engineer, you may be familiar with the following quote by Leon Bambrick [https://twitter.com/secretGeek/status/7269997868?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E7269997868%7Ctwgr%5Eb9b41e252e8f8e5c2863c7a50642e9ec2ff0fe18%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmartinfowler.com%2Fbliki%2FTwoHardThings.html] : > “There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.” Indeed, naming things when programming can be challengi]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Than “Slapping Paint on a Website”]]></title>
-        <id>https://css-tricks.com/?p=375190</id>
-        <link href="https://css-tricks.com/more-than-slapping-paint-on-a-website/"/>
-        <updated>2022-11-29T15:03:20.000Z</updated>
-        <summary type="html"><![CDATA[I’m a sucker for anything about front-end job titles.
-Anselm Hannemann:
-CSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, 
-…
-More Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
