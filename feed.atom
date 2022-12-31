@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T01:06:24.190Z</updated>
+    <updated>2022-12-31T01:03:53.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fluid Typography: Predicting A Problem With Your User’s Zoom-In]]></title>
+        <id>https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/</id>
+        <link href="https://smashingmagazine.com/2022/12/fluid-typography-predict-problem-users-zoom-in/"/>
+        <updated>2022-12-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ruslan Yevych will show you an easy way how to predict the appearance of a problem known as WCAG Failure Under 1.4.4 Resize Text (AA) while zooming the page. You will have a clear understanding of the possible risks of using responsive typography at the stage of development.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ruslan Yevych)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Ultimate Guide On Sizing, Spacing, Grids And Layout In Web And UI/UX Design]]></title>
         <id>https://smashingmagazine.com/2022/12/guide-sizing-spacing-grids-layout-web-ui-ux-design/</id>
@@ -1050,117 +1060,6 @@ CSS Infinite and Circular Rotating Image Slider originally published on CSS-Tric
 Digging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FabUnit: A Smart Way To Control And Synchronize Typo And Space]]></title>
-        <id>https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/</id>
-        <link href="https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/"/>
-        <updated>2022-12-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Fabienne Bielmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule an Email in Gmail – a Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/schedule-email-in-gmail/</id>
-        <link href="https://www.freecodecamp.org/news/schedule-email-in-gmail/"/>
-        <updated>2022-11-30T22:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you might want to compose an email but send it later. Well, did you know that Gmail allows you to schedule up to 100 emails? In this article, you will learn how to schedule your emails using Gmail. There's no need to install any software or plugins. What you]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript String to Boolean – How to Parse a Boolean in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-string-to-boolean/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-string-to-boolean/"/>
-        <updated>2022-11-30T22:14:10.000Z</updated>
-        <summary type="html"><![CDATA[When you're manipulating data, receiving values from forms, and dealing with data in other ways, these values may take the incorrect datatype. Assume you want your value to be a boolean with either true or false, but it is stored as a string – "true" or "false." It becomes challenging]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Accessibility – Best Practices and a Checklist for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/</id>
-        <link href="https://www.freecodecamp.org/news/web-accessibility-best-practices-and-checklist/"/>
-        <updated>2022-11-30T18:40:47.000Z</updated>
-        <summary type="html"><![CDATA[The World Health Organization reports [https://www.who.int/teams/noncommunicable-diseases/sensory-functions-disability-and-rehabilitation/world-report-on-disability]  that about 15% (1.2 billion) of the world's population lives with some form of disability.  This means that as developers, our focus on making websites and applications accessible helps more people use these resources.  In this article, I'll point out barriers]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Principle of Least Privilege – Definition and Meaning in Cybersecurity]]></title>
-        <id>https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/</id>
-        <link href="https://www.freecodecamp.org/news/principle-of-lease-privilege-meaning-cybersecurity/"/>
-        <updated>2022-11-30T18:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Information technology has made a profound impact on our lives over the last three decades. It has helped us create global businesses, transform industries, and build powerful connections. But it has also led to increased risks in security and privacy. Individuals and businesses are vulnerable to cyber attacks now more]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install a Wifi Adapter Driver on AML-S905X-CC (Le Potato)]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-wifi-adapter-driver-on-aml-s905x-cc-le-potato/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-wifi-adapter-driver-on-aml-s905x-cc-le-potato/"/>
-        <updated>2022-11-30T17:27:33.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you might be familiar with Raspberry Pi. But you might not know about the Libre Computer AML-S905X-CC – also called Le Potato.  There was a chip shortage during the pandemic that has resulted in increased Raspberry Pi prices. Other world events have also skyrocketed the]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Testing Library Tutorial – How to Write Unit Tests for React Apps]]></title>
-        <id>https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/</id>
-        <link href="https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/"/>
-        <updated>2022-11-30T16:53:39.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to confidently write unit tests using the  Testing Library [https://testing-library.com/]. It is a very popular React testing library for writing unit tests. So let's get started. What We'll Cover:  1. Why Do You Need to Write Unit Tests?  2. What]]></summary>
-        <author>
-            <name>Yogesh Chavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Search Works Under the Hood – Data Structures and Search Algorithms Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-searching-works-under-the-hood/</id>
-        <link href="https://www.freecodecamp.org/news/how-searching-works-under-the-hood/"/>
-        <updated>2022-11-30T16:33:48.000Z</updated>
-        <summary type="html"><![CDATA[Searching is something is something many people do every day. Whether they're word searching in documents and databases, or pattern matching in bioinformatics to detect anomalies in DNA, the applications for search are pretty much endless. And these applications require a lot of computation. Imagine searching for a particular DNA]]></summary>
-        <author>
-            <name>Houssein Badra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn MATLAB With This Crash Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-matlab-with-this-crash-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-matlab-with-this-crash-course/"/>
-        <updated>2022-11-30T14:46:10.000Z</updated>
-        <summary type="html"><![CDATA[MATLAB is a programming language and software suite used for data analysis, scientific computing, and visualization that is widely used in academia and industry.  We just published a MATLAB crash course on the freeCodeCamp.org YouTube channel that will teach you the fundamentals of MATLAB. Phillip Parisi developed this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Django REST Framework to Create Web APIs]]></title>
-        <id>https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/</id>
-        <link href="https://www.freecodecamp.org/news/use-django-rest-framework-to-create-web-apis/"/>
-        <updated>2022-11-30T14:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Django REST Framework is a powerful and flexible toolkit for building Web APIs. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python and the Django REST Framework (DRF) to build a web API. Bobby Stearman developed this course. Bobby has created]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using The New Constrained Layout In WordPress Block Themes]]></title>
-        <id>https://css-tricks.com/?p=375278</id>
-        <link href="https://css-tricks.com/using-the-new-constrained-layout-in-wordpress-block-themes/"/>
-        <updated>2022-11-30T14:11:10.000Z</updated>
-        <summary type="html"><![CDATA[One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …
-Using The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
         </author>
     </entry>
 </feed>
