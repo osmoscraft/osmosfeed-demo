@@ -430,6 +430,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/",
+          "author": "Daniel García Solla",
+          "description": "Have you ever found yourself staring at lines of code, trying to wrap your head around how all the different functions fit together and interact with each other?  It can be a daunting task, especially in larger, more complex programs.  But fear not! There is a way to",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/",
+          "publishedOn": "2023-01-03T23:58:02.000Z",
+          "wordCount": 4065,
+          "title": "What is a Call Graph? And How to Generate them Automatically",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Untitled2-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/",
+          "author": "Sobit Prasad",
+          "description": "As a web developer, you should always strive to learn new techniques and discover ways to work smarter with JavaScript.  One such technique is using higher order functions. Higher order functions are functions that take one or more functions as arguments, or return a function as their result. In",
+          "link": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/",
+          "publishedOn": "2023-01-03T22:11:58.000Z",
+          "wordCount": 3489,
+          "title": "Higher Order Functions in JavaScript – Explained with Practical Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/higher-order-functions-in-javascript-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/format-dates-with-ordinal-number-suffixes-javascript/",
+          "author": "Joel Olawanle",
+          "description": "Many online resources teach you how to format dates. But it's hard to find any that explain how to format dates with an ordinal number suffix (like 1st) in JavaScript – without using a library. In this short article, you will learn how to format dates in JavaScript with ordinal",
+          "link": "https://www.freecodecamp.org/news/format-dates-with-ordinal-number-suffixes-javascript/",
+          "publishedOn": "2023-01-03T21:57:47.000Z",
+          "wordCount": 1207,
+          "title": "How to Format Dates with Ordinal Number Suffixes (-st, -nd, -rd, -th) in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-join-how-to-combine-a-list-into-a-string-in-python/",
+          "author": "Suchandra Datta",
+          "description": "join() is one of the built-in string functions in Python that lets us create a new string from a list of string elements with a user-defined separator.  Today we'll explore join() and learn about:  * join() syntax  * how to use join() to combine a list into",
+          "link": "https://www.freecodecamp.org/news/python-join-how-to-combine-a-list-into-a-string-in-python/",
+          "publishedOn": "2023-01-03T20:11:53.000Z",
+          "wordCount": 1493,
+          "title": "Python join() – How to Combine a List into a String in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-francesco-ungaro-96081.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-react-app-with-a-dot-net-backend/",
+          "author": "Beau Carnes",
+          "description": "ASP.NET Core can work well as a backend for your React apps. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to to create a basic React application that leverages a .NET Web API Component written in C#. In order to integrate React with",
+          "link": "https://www.freecodecamp.org/news/create-a-react-app-with-a-dot-net-backend/",
+          "publishedOn": "2023-01-03T19:57:42.000Z",
+          "wordCount": 911,
+          "title": "Create a React App With a .NET Core Backend",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/webapi.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-protect-against-dom-xss-attacks/",
+          "author": "Andrej Kovacevic",
+          "description": "Website security issues and vulnerabilities are a global problem as cyber security vulnerabilities are increasing. We have seen a major rise in the average number of these cases in the past few years, and 2021 saw an all-time high. So in this tutorial, we are going to talk about DOM",
+          "link": "https://www.freecodecamp.org/news/how-to-protect-against-dom-xss-attacks/",
+          "publishedOn": "2023-01-03T19:51:56.000Z",
+          "wordCount": 2339,
+          "title": "What is XSS? How to Protect Your Website from DOM Cross-Site Scripting Attacks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/xss-code-case.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/",
+          "author": "Ashutosh Krishna",
+          "description": "User authentication is important for protecting sensitive information and resources from unauthorized access. It helps ensure that only authorized users can access and make changes to data, and helps prevent unauthorized users from gaining access to sensitive information. There are different methods for implementing user authentication, including password-based authentication, token-based",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/",
+          "publishedOn": "2023-01-03T14:57:06.000Z",
+          "wordCount": 5996,
+          "title": "How to Set Up Basic User Authentication in a Flask App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/basic-auth.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "Last week, I decided to install Laravel Valet on my Mac. But after the installation, the performance of the microservice architecture application I had it on was quite slow.  I wondered if it was an M1 issue or because I had yet to shut the machine down. I shut",
+          "link": "https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/",
+          "publishedOn": "2023-01-02T23:12:30.000Z",
+          "wordCount": 1638,
+          "title": "Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-jonathan-petersson-399636.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-react-in-2023/",
+          "author": "Reed Barger",
+          "description": "As the most popular JavaScript library for building frontend applications, there has never been a better year to learn React than 2023.  In this guide, I'm going to show you the most valuable resources and tips that I believe will help you learn React faster. You'll also save a",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-react-in-2023/",
+          "publishedOn": "2023-01-02T22:59:24.000Z",
+          "wordCount": 2431,
+          "title": "How to Learn React in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/learn-react-2023.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Figma logo:  * flex-wrap  * multiple classes  * border-radius What We Will Be Creating We will create",
+          "link": "https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/",
+          "publishedOn": "2023-01-02T22:39:24.000Z",
+          "wordCount": 1328,
+          "title": "Learn CSS by Building the Figma Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-Figma-Logo-3.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-to-code-rpg-1-5-update/",
           "author": "Lynn Zheng",
           "description": "Hello from the Learn to Code RPG dev team! We are Lynn, KayLa, and Nielda. And we've been hard at work building out new adventures for our characters. I'm excited to announce the launch of Learn to Code RPG v1.5, a year after the launch of Learn to Code RPG",

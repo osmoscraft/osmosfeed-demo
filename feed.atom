@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T01:04:42.904Z</updated>
+    <updated>2023-01-04T01:06:35.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Call Graph? And How to Generate them Automatically]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/"/>
+        <updated>2023-01-03T23:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever found yourself staring at lines of code, trying to wrap your head around how all the different functions fit together and interact with each other?  It can be a daunting task, especially in larger, more complex programs.  But fear not! There is a way to]]></summary>
+        <author>
+            <name>Daniel García Solla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher Order Functions in JavaScript – Explained with Practical Examples]]></title>
+        <id>https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/</id>
+        <link href="https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/"/>
+        <updated>2023-01-03T22:11:58.000Z</updated>
+        <summary type="html"><![CDATA[As a web developer, you should always strive to learn new techniques and discover ways to work smarter with JavaScript.  One such technique is using higher order functions. Higher order functions are functions that take one or more functions as arguments, or return a function as their result. In]]></summary>
+        <author>
+            <name>Sobit Prasad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Format Dates with Ordinal Number Suffixes (-st, -nd, -rd, -th) in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/format-dates-with-ordinal-number-suffixes-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/format-dates-with-ordinal-number-suffixes-javascript/"/>
+        <updated>2023-01-03T21:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Many online resources teach you how to format dates. But it's hard to find any that explain how to format dates with an ordinal number suffix (like 1st) in JavaScript – without using a library. In this short article, you will learn how to format dates in JavaScript with ordinal]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python join() – How to Combine a List into a String in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-join-how-to-combine-a-list-into-a-string-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-join-how-to-combine-a-list-into-a-string-in-python/"/>
+        <updated>2023-01-03T20:11:53.000Z</updated>
+        <summary type="html"><![CDATA[join() is one of the built-in string functions in Python that lets us create a new string from a list of string elements with a user-defined separator.  Today we'll explore join() and learn about:  * join() syntax  * how to use join() to combine a list into]]></summary>
+        <author>
+            <name>Suchandra Datta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a React App With a .NET Core Backend]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-react-app-with-a-dot-net-backend/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-react-app-with-a-dot-net-backend/"/>
+        <updated>2023-01-03T19:57:42.000Z</updated>
+        <summary type="html"><![CDATA[ASP.NET Core can work well as a backend for your React apps. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to to create a basic React application that leverages a .NET Web API Component written in C#. In order to integrate React with]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is XSS? How to Protect Your Website from DOM Cross-Site Scripting Attacks]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-protect-against-dom-xss-attacks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-against-dom-xss-attacks/"/>
+        <updated>2023-01-03T19:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Website security issues and vulnerabilities are a global problem as cyber security vulnerabilities are increasing. We have seen a major rise in the average number of these cases in the past few years, and 2021 saw an all-time high. So in this tutorial, we are going to talk about DOM]]></summary>
+        <author>
+            <name>Andrej Kovacevic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Basic User Authentication in a Flask App]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/"/>
+        <updated>2023-01-03T14:57:06.000Z</updated>
+        <summary type="html"><![CDATA[User authentication is important for protecting sensitive information and resources from unauthorized access. It helps ensure that only authorized users can access and make changes to data, and helps prevent unauthorized users from gaining access to sensitive information. There are different methods for implementing user authentication, including password-based authentication, token-based]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet]]></title>
+        <id>https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/</id>
+        <link href="https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/"/>
+        <updated>2023-01-02T23:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Last week, I decided to install Laravel Valet on my Mac. But after the installation, the performance of the microservice architecture application I had it on was quite slow.  I wondered if it was an M1 issue or because I had yet to shut the machine down. I shut]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn React in 2023]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-learn-react-in-2023/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-react-in-2023/"/>
+        <updated>2023-01-02T22:59:24.000Z</updated>
+        <summary type="html"><![CDATA[As the most popular JavaScript library for building frontend applications, there has never been a better year to learn React than 2023.  In this guide, I'm going to show you the most valuable resources and tips that I believe will help you learn React faster. You'll also save a]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the Figma Logo in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/"/>
+        <updated>2023-01-02T22:39:24.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Figma logo:  * flex-wrap  * multiple classes  * border-radius What We Will Be Creating We will create]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The State Of Usability In 2023 🎊]]></title>
         <id>https://smashingmagazine.com/2023/01/usability-2023/</id>
