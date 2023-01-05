@@ -164,16 +164,6 @@
           "wordCount": 845,
           "title": "CSS is OK, I guess.",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375747"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375184",
-          "author": "Pieter De Decker",
-          "description": "For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …\nDoes WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/does-www-still-belong-in-urls/",
-          "publishedOn": "2022-12-05T15:20:22.000Z",
-          "wordCount": 1667,
-          "title": "Does WWW still belong in URLs?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375184"
         }
       ]
     },
@@ -406,21 +396,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/36b5e738-ea60-4f9a-91bc-9d66803d8dc1/advent-topple-22.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.",
-          "link": "https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/",
-          "publishedOn": "2022-12-06T12:00:00.000Z",
-          "wordCount": 6053,
-          "title": "Accessible Front-End Patterns For Responsive Tables (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a082e68-4b7b-47df-ab6a-f1b9105b491e/accessible-front-end-patterns-responsive-tables-part1.jpg"
         }
       ]
     },
@@ -429,6 +404,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "author": "Dhawal Shah",
+          "description": "Twelve years ago, universities like Stanford and MIT opened up free online courses [https://www.classcentral.com/] to the public. Today, over 1,200 schools [https://www.classcentral.com/universities] around the world have created thousands of free online courses. To welcome the new year, I’ve compiled this list of 860+ such free online courses that you can",
+          "link": "https://www.freecodecamp.org/news/free-online-programming-cs-courses/",
+          "publishedOn": "2023-01-04T17:00:00.000Z",
+          "wordCount": 9477,
+          "title": "860+ Free Online Programming & Computer Science Courses You Can Start This New Year",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/programming-courses-banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/format-compact-numbers-with-javascript/",
+          "author": "Gerard Hynes",
+          "description": "Sometimes it can be difficult to fit large numbers into your site or app's layout, especially if you have to display several of them together.  As a result, a lot of modern sites and apps use the same format to display large numbers in a compact way. For example,",
+          "link": "https://www.freecodecamp.org/news/format-compact-numbers-with-javascript/",
+          "publishedOn": "2023-01-04T15:39:17.000Z",
+          "wordCount": 1706,
+          "title": "How to Format Compact Numbers with the JavaScript Internationalization API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Format-Compact-Numbers.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-ghost-cms-theme/",
+          "author": "Rajdeep Singh",
+          "description": "Ghost CMS is a platform specifically designed for bloggers and writers. Using Ghost, you can quickly get a blog website up and running.  Ghost targets primarily writers and all the features are specifically built for writing.  Ghost's new dashboard gives you a user-friendly interface, and beginners can easily",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-ghost-cms-theme/",
+          "publishedOn": "2023-01-04T15:20:24.000Z",
+          "wordCount": 5486,
+          "title": "How to Build a Custom Ghost CMS Theme",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/ghost-theme-development-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/",
           "author": "Daniel García Solla",
@@ -1118,56 +1123,6 @@
           "wordCount": 1269,
           "title": "How to Generate a Random Number within Certain a Range in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/9.-random-number.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
-          "author": "Manish Shivanandhan",
-          "description": "There’s much more to web servers and websites than what appears on the surface. The first step an attacker uses when attacking a website is to find the list of URLs and sub-domains. Web developers often expose sensitive files, URL paths, or even sub-domains while building or maintaining a site.",
-          "link": "https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/",
-          "publishedOn": "2022-12-05T23:40:58.000Z",
-          "wordCount": 1845,
-          "title": "Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Stealth-Security---Blog-Banner--24-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-apis-work/",
-          "author": "Tooba Jamal",
-          "description": "When I started learning to code, the term API would always haunt me. I couldn't make sense of what it actually meant because I would hear people talking about APIs in different contexts.  The biggest challenge was that I couldn't find resources to learn about APIs in simple terms.",
-          "link": "https://www.freecodecamp.org/news/how-apis-work/",
-          "publishedOn": "2022-12-05T22:56:35.000Z",
-          "wordCount": 1923,
-          "title": "What is an API and How Does it Work? APIs for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/api-article.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/",
-          "author": "Daniel Asta",
-          "description": "We all want to build powerful applications and avoid unnecessary renders. There are some hooks available to help with this, but you might not be sure about which one to use and when. In this article you will learn the differences between useCallback and useMemo  as well as how",
-          "link": "https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/",
-          "publishedOn": "2022-12-05T18:47:25.000Z",
-          "wordCount": 2705,
-          "title": "Better React Performance – When to Use the useCallback vs useMemo Hook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/useCallback-vs-useMemo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-node-js/",
-          "author": "Benjamin Semah",
-          "description": "Node.js allows developers to create both front-end and back-end applications using JavaScript. It was released in 2009 by Ryan Dahl. In this article, you will learn about Node.js. You will learn the following:  * What is Node.js?  * How the Node.js environment differs from the browser.  *",
-          "link": "https://www.freecodecamp.org/news/what-is-node-js/",
-          "publishedOn": "2022-12-05T15:18:12.000Z",
-          "wordCount": 1907,
-          "title": "What Exactly is Node.js? Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/What-is.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/",
-          "author": "Dionysia Lemonaki",
-          "description": "When coding in the C programming language, there may be times when you need to know the size of an array. For example, when you want to loop through all the elements stored in the array to determine whether a specific value is present. In this article, you will learn",
-          "link": "https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/",
-          "publishedOn": "2022-12-05T14:53:05.000Z",
-          "wordCount": 1368,
-          "title": "How to Find the Size of an Array in C with the sizeof Operator",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/pexels-eduardo-dutra-2115217-1.jpg"
         }
       ]
     }
