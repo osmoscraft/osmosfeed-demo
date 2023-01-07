@@ -144,16 +144,6 @@
           "wordCount": 2431,
           "title": "Animated Background Stripes That Transition on Hover",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375697"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375412",
-          "author": "Ganesh Dahal",
-          "description": "The CSS box-shadow and outline properties gained theme.json support in WordPress 6.1. Let's look at a few examples of how it works in real themes, and what options we have to apply these styles to WordPress blocks and elements.\nAdding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/adding-box-shadows-to-wordpress-blocks-and-elements/",
-          "publishedOn": "2022-12-07T13:59:50.000Z",
-          "wordCount": 1929,
-          "title": "Adding Box Shadows to WordPress Blocks and Elements",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375412"
         }
       ]
     },
@@ -371,21 +361,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).",
-          "link": "https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/",
-          "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 3879,
-          "title": "It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670507147/understanding-privacy-2048-marcthiele-55_weoj8z.jpg"
         }
       ]
     },
@@ -394,6 +369,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/",
+          "author": "Joel Olawanle",
+          "description": "HTTP requests allow your front-end application to interact successfully with a back-end server or database. One of the five popular HTTP methods for making requests and interacting with your servers is the POST method, which you can use to send data to a server. In this article, you will learn",
+          "link": "https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/",
+          "publishedOn": "2023-01-06T23:40:43.000Z",
+          "wordCount": 1818,
+          "title": "JavaScript Post Request – How to Send an HTTP Post Request in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--7-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-ternary-operator-in-javascript/",
+          "author": "Dillion Megida",
+          "description": "There are many operators in JavaScript, one of which is the ternary operator. In this article, I'll explain what this operator is, and how it can be useful when building applications. I have a video version of this topic [https://youtu.be/MmwtZ0AwN9A] you can check out as well to supplement your learning.",
+          "link": "https://www.freecodecamp.org/news/the-ternary-operator-in-javascript/",
+          "publishedOn": "2023-01-06T23:30:48.000Z",
+          "wordCount": 1759,
+          "title": "JavaScript Ternary Operator – Syntax and Example Use Case",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/13.-ternary-operator.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-create-the-microsoft-logo-version-1/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. In this article I will show you two ways that you can create the Microsoft logo.  What We Will Be Creating We will create the Microsoft logo in pure CSS. It will look",
+          "link": "https://www.freecodecamp.org/news/learn-css-create-the-microsoft-logo-version-1/",
+          "publishedOn": "2023-01-06T23:22:38.000Z",
+          "wordCount": 1590,
+          "title": "Learn CSS by Building the Microsoft Logo 2 Different Ways in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-Microsoft-Logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dictionary-iteration-in-python/",
+          "author": "Kolade Chris",
+          "description": "In Python, a dictionary is one of the built-in data structures (the others are tuples, lists, and sets). A dictionary is a collection of key:value pairs and you can use them to solve various programming problems. Dictionaries are very flexible to work with. You can get the keys and values",
+          "link": "https://www.freecodecamp.org/news/dictionary-iteration-in-python/",
+          "publishedOn": "2023-01-06T23:16:43.000Z",
+          "wordCount": 1536,
+          "title": "Dictionary Iteration in Python – How to Iterate Over a Dict with a For Loop",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-stas-knop-1194723.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/laravel-logging/",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "Logs are records of the events happening with your application. Laravel, by default, writes log information into the laravel.log file that ships with a fresh Laravel installation. The file is housed within the storage > logs  directory.  In this tutorial, you'll learn the following:  * Introduction to",
+          "link": "https://www.freecodecamp.org/news/laravel-logging/",
+          "publishedOn": "2023-01-06T19:38:55.000Z",
+          "wordCount": 1817,
+          "title": "How Logging Works in Laravel Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/how-logging-works-laravel.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-hooks-every-project-should-use/",
+          "author": "Reed Barger",
+          "description": "Hooks are one of the most powerful features of React.  They enable us to easily reuse functionality across our application's components. What's best about hooks is their reusability – you can reuse your hooks both across components and your projects. Here are seven of the most important React hooks",
+          "link": "https://www.freecodecamp.org/news/react-hooks-every-project-should-use/",
+          "publishedOn": "2023-01-06T19:23:16.000Z",
+          "wordCount": 2836,
+          "title": "React Hooks You Can Use in Every Project – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/7-react-hooks.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-create-the-youtube-logo/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the YouTube logo:  * Flexbox  * The border-radius property  * How to create a triangle in CSS What",
+          "link": "https://www.freecodecamp.org/news/learn-css-create-the-youtube-logo/",
+          "publishedOn": "2023-01-06T18:39:00.000Z",
+          "wordCount": 1311,
+          "title": "Learn CSS by Building the YouTube Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-YouTube-Logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-solidity-modifiers/",
+          "author": "Chigozie Oduah",
+          "description": "In this article, we will explore the various ways you can use modifiers in Solidity to modify the behavior of functions.  We will cover topics such as the syntax for defining and using modifiers, the _;  symbol, using multiple modifiers on a single function, modifiers with arguments, enum-based",
+          "link": "https://www.freecodecamp.org/news/what-are-solidity-modifiers/",
+          "publishedOn": "2023-01-06T18:18:52.000Z",
+          "wordCount": 1930,
+          "title": "What Are Solidity Modifiers? Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/shubham-dhage-UxDU0Gg5pqQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understanding-digital-security/",
+          "author": "David Clinton",
+          "description": "Whatever your connection to technology, security should play a prominent role in the way you think and act.  Technology, after all, amplifies the impact of everything we do with it. The things we say and write using communication technologies can be read and heard by many, many more people",
+          "link": "https://www.freecodecamp.org/news/understanding-digital-security/",
+          "publishedOn": "2023-01-06T18:09:40.000Z",
+          "wordCount": 3429,
+          "title": "A Beginner's Guide to Digital Security – How to Keep Yourself Safe Online",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-207580--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-to-code-book/",
+          "author": "Quincy Larson",
+          "description": "If you want to learn to code and get a job as a developer, you're in the right place. This book will show you how. And yes this is the full book – for free – right here on this webpage. A few years back, one of the Big 5",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-book/",
+          "publishedOn": "2023-01-06T00:52:11.000Z",
+          "wordCount": 27156,
+          "title": "How to Learn to Code & Get a Developer Job in 2023 [Full Book]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-to-Code-and-Get-a-Developer-Job-Book.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/",
           "author": "Zaira Hira",
@@ -1123,46 +1198,6 @@
           "wordCount": 2256,
           "title": "How to Crack Hashes with Hashcat — a Practical Pentesting Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/hashcat-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/aws-lambda-interview-questions/",
-          "author": "Mugilan Ragupathi",
-          "description": "In this article, I'll go over some of the most commonly asked questions that come up in interviews about AWS Lambda.  Note that this is not an exhaustive list – but you can use this guide as a reference to refresh your knowledge and get pointers for further study.",
-          "link": "https://www.freecodecamp.org/news/aws-lambda-interview-questions/",
-          "publishedOn": "2022-12-07T20:54:49.000Z",
-          "wordCount": 3161,
-          "title": "AWS Lambda Interview Questions and Answers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/AWS-Lambda-Interview-Questions.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/",
-          "author": "Dionysia Lemonaki",
-          "description": "When coding in Python, there may be times when you need to remove a character from a string. Removing characters from strings is handy if you are working with user-generated inputs and need to clean your data and remove unwanted characters. Specifically, you may need to remove only one instance",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/",
-          "publishedOn": "2022-12-07T18:43:30.000Z",
-          "wordCount": 2065,
-          "title": "How to Remove a Specific Character from a String in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-josh-sorenson-1714208.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-swift-programming-language/",
-          "author": "Beau Carnes",
-          "description": "Swift is popular programming language that is often used for creating iOS apps.  We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the Swift programming language. Vandad Nahavandipoor teaches this course. He currently works as a lead iOS developer and he has created",
-          "link": "https://www.freecodecamp.org/news/learn-the-swift-programming-language/",
-          "publishedOn": "2022-12-07T16:51:51.000Z",
-          "wordCount": 716,
-          "title": "Learn the Swift Programming Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/swift.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/",
-          "author": "Beau Carnes",
-          "description": "Learn how to build cross platform desktop apps for Windows, Mac and Linux. PySide6 is a Python binding for the Qt6 application framework. PySide6 allows you to use the Qt6 framework to create graphical user interfaces (GUIs) and other cross-platform applications in Python. It provides a convenient way to access",
-          "link": "https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/",
-          "publishedOn": "2022-12-07T16:45:01.000Z",
-          "wordCount": 825,
-          "title": "Python GUI Development Using PySide6 and Qt",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pyside6.png"
         }
       ]
     }

@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T01:08:19.184Z</updated>
+    <updated>2023-01-07T01:05:37.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Post Request – How to Send an HTTP Post Request in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-post-request-how-to-send-an-http-post-request-in-js/"/>
+        <updated>2023-01-06T23:40:43.000Z</updated>
+        <summary type="html"><![CDATA[HTTP requests allow your front-end application to interact successfully with a back-end server or database. One of the five popular HTTP methods for making requests and interacting with your servers is the POST method, which you can use to send data to a server. In this article, you will learn]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Ternary Operator – Syntax and Example Use Case]]></title>
+        <id>https://www.freecodecamp.org/news/the-ternary-operator-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/the-ternary-operator-in-javascript/"/>
+        <updated>2023-01-06T23:30:48.000Z</updated>
+        <summary type="html"><![CDATA[There are many operators in JavaScript, one of which is the ternary operator. In this article, I'll explain what this operator is, and how it can be useful when building applications. I have a video version of this topic [https://youtu.be/MmwtZ0AwN9A] you can check out as well to supplement your learning.]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the Microsoft Logo 2 Different Ways in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-create-the-microsoft-logo-version-1/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-create-the-microsoft-logo-version-1/"/>
+        <updated>2023-01-06T23:22:38.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. In this article I will show you two ways that you can create the Microsoft logo.  What We Will Be Creating We will create the Microsoft logo in pure CSS. It will look]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dictionary Iteration in Python – How to Iterate Over a Dict with a For Loop]]></title>
+        <id>https://www.freecodecamp.org/news/dictionary-iteration-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/dictionary-iteration-in-python/"/>
+        <updated>2023-01-06T23:16:43.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a dictionary is one of the built-in data structures (the others are tuples, lists, and sets). A dictionary is a collection of key:value pairs and you can use them to solve various programming problems. Dictionaries are very flexible to work with. You can get the keys and values]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Logging Works in Laravel Applications]]></title>
+        <id>https://www.freecodecamp.org/news/laravel-logging/</id>
+        <link href="https://www.freecodecamp.org/news/laravel-logging/"/>
+        <updated>2023-01-06T19:38:55.000Z</updated>
+        <summary type="html"><![CDATA[Logs are records of the events happening with your application. Laravel, by default, writes log information into the laravel.log file that ships with a fresh Laravel installation. The file is housed within the storage > logs  directory.  In this tutorial, you'll learn the following:  * Introduction to]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Hooks You Can Use in Every Project – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/react-hooks-every-project-should-use/</id>
+        <link href="https://www.freecodecamp.org/news/react-hooks-every-project-should-use/"/>
+        <updated>2023-01-06T19:23:16.000Z</updated>
+        <summary type="html"><![CDATA[Hooks are one of the most powerful features of React.  They enable us to easily reuse functionality across our application's components. What's best about hooks is their reusability – you can reuse your hooks both across components and your projects. Here are seven of the most important React hooks]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the YouTube Logo in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-create-the-youtube-logo/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-create-the-youtube-logo/"/>
+        <updated>2023-01-06T18:39:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the YouTube logo:  * Flexbox  * The border-radius property  * How to create a triangle in CSS What]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Solidity Modifiers? Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-solidity-modifiers/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-solidity-modifiers/"/>
+        <updated>2023-01-06T18:18:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will explore the various ways you can use modifiers in Solidity to modify the behavior of functions.  We will cover topics such as the syntax for defining and using modifiers, the _;  symbol, using multiple modifiers on a single function, modifiers with arguments, enum-based]]></summary>
+        <author>
+            <name>Chigozie Oduah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Beginner's Guide to Digital Security – How to Keep Yourself Safe Online]]></title>
+        <id>https://www.freecodecamp.org/news/understanding-digital-security/</id>
+        <link href="https://www.freecodecamp.org/news/understanding-digital-security/"/>
+        <updated>2023-01-06T18:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Whatever your connection to technology, security should play a prominent role in the way you think and act.  Technology, after all, amplifies the impact of everything we do with it. The things we say and write using communication technologies can be read and heard by many, many more people]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn to Code & Get a Developer Job in 2023 [Full Book]]]></title>
+        <id>https://www.freecodecamp.org/news/learn-to-code-book/</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-code-book/"/>
+        <updated>2023-01-06T00:52:11.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn to code and get a job as a developer, you're in the right place. This book will show you how. And yes this is the full book – for free – right here on this webpage. A few years back, one of the Big 5]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Make a File in Linux from the Command Line – Create a File in the Terminal]]></title>
         <id>https://www.freecodecamp.org/news/how-to-make-a-file-in-linux-from-the-command-line-create-a-file-in-terminal/</id>
@@ -1034,67 +1134,6 @@ CSS Infinite Slider Flipping Through Polaroid Images originally published on CSS
 Animated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Here! “Understanding Privacy,” A New Smashing Book Is Shipping Now]]></title>
-        <id>https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/</id>
-        <link href="https://smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/"/>
-        <updated>2022-12-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“Understanding Privacy,” the new Smashing Book by Heather Burns, will help you create inclusive, safe and privacy-aware digital experiences. Print books are now shipping! [Jump to details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) and [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda Interview Questions and Answers]]></title>
-        <id>https://www.freecodecamp.org/news/aws-lambda-interview-questions/</id>
-        <link href="https://www.freecodecamp.org/news/aws-lambda-interview-questions/"/>
-        <updated>2022-12-07T20:54:49.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll go over some of the most commonly asked questions that come up in interviews about AWS Lambda.  Note that this is not an exhaustive list – but you can use this guide as a reference to refresh your knowledge and get pointers for further study.]]></summary>
-        <author>
-            <name>Mugilan Ragupathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove a Specific Character from a String in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-a-specific-character-from-a-string-in-python/"/>
-        <updated>2022-12-07T18:43:30.000Z</updated>
-        <summary type="html"><![CDATA[When coding in Python, there may be times when you need to remove a character from a string. Removing characters from strings is handy if you are working with user-generated inputs and need to clean your data and remove unwanted characters. Specifically, you may need to remove only one instance]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Swift Programming Language]]></title>
-        <id>https://www.freecodecamp.org/news/learn-the-swift-programming-language/</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-swift-programming-language/"/>
-        <updated>2022-12-07T16:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Swift is popular programming language that is often used for creating iOS apps.  We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the Swift programming language. Vandad Nahavandipoor teaches this course. He currently works as a lead iOS developer and he has created]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python GUI Development Using PySide6 and Qt]]></title>
-        <id>https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/</id>
-        <link href="https://www.freecodecamp.org/news/python-gui-development-using-pyside6-and-qt/"/>
-        <updated>2022-12-07T16:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build cross platform desktop apps for Windows, Mac and Linux. PySide6 is a Python binding for the Qt6 application framework. PySide6 allows you to use the Qt6 framework to create graphical user interfaces (GUIs) and other cross-platform applications in Python. It provides a convenient way to access]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Box Shadows to WordPress Blocks and Elements]]></title>
-        <id>https://css-tricks.com/?p=375412</id>
-        <link href="https://css-tricks.com/adding-box-shadows-to-wordpress-blocks-and-elements/"/>
-        <updated>2022-12-07T13:59:50.000Z</updated>
-        <summary type="html"><![CDATA[The CSS box-shadow and outline properties gained theme.json support in WordPress 6.1. Let's look at a few examples of how it works in real themes, and what options we have to apply these styles to WordPress blocks and elements.
-Adding Box Shadows to WordPress Blocks and Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
         </author>
     </entry>
 </feed>
