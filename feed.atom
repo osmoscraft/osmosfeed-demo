@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T01:10:10.878Z</updated>
+    <updated>2023-01-11T01:07:39.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the Git Logo in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-create-the-git-logo/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-create-the-git-logo/"/>
+        <updated>2023-01-10T18:54:59.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Git logo:  * Transform to rotate an image  * position relative and absolute  * pseudo classes ::before]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL CONVERT – The DATE to String or DATETIME Function]]></title>
+        <id>https://www.freecodecamp.org/news/sql-convert-the-date-to-string-or-datetime-function-2/</id>
+        <link href="https://www.freecodecamp.org/news/sql-convert-the-date-to-string-or-datetime-function-2/"/>
+        <updated>2023-01-10T18:30:50.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with SQL, you'll need to learn how to format dates properly. This is because dates are an important aspect of any SQL and other software-related activities. You need to be able to work with dates to add timestamps to entries and keep track of when things happen,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Joins – LEFT Join, RIGHT Join, and INNER Join Explained]]></title>
+        <id>https://www.freecodecamp.org/news/understanding-sql-joins/</id>
+        <link href="https://www.freecodecamp.org/news/understanding-sql-joins/"/>
+        <updated>2023-01-10T18:23:24.000Z</updated>
+        <summary type="html"><![CDATA[SQL is a programming language we use to interact with relational databases. SQL databases contain tables, which contain rows of data. These tables usually contain similar or related data. In an office management web application database, you would have tables for  employees, their departments, their managers, the projects they]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Performance – How to Improve Page Speed with async and defer]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-performance-async-defer/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-performance-async-defer/"/>
+        <updated>2023-01-10T18:18:31.000Z</updated>
+        <summary type="html"><![CDATA[In web programming, JavaScript brings interactiveness and dynamic behaviour to your web pages. While HTML and CSS take care of the structure and aesthetics of the pages, they will be merely usable without JavaScript doing its job in the background. You can include JavaScript code in the HTML file in]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Projects for Beginners in 2023 – Fun Ideas with Code]]></title>
+        <id>https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/</id>
+        <link href="https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/"/>
+        <updated>2023-01-10T17:53:44.000Z</updated>
+        <summary type="html"><![CDATA[You're ready to start making simple projects with React, but you don't know what to make. Where should you start? I have created seven unique and fun React projects for you to make, all of which will teach you essential React concepts that you need to know in 2023.]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Digital Privacy? A Beginner's Guide to Protecting Your Data]]></title>
+        <id>https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/</id>
+        <link href="https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/"/>
+        <updated>2023-01-10T17:45:33.000Z</updated>
+        <summary type="html"><![CDATA[For all the many benefits we enjoy from technology – and particularly the technologies that make up the public internet – there are plenty of costs, too.  Figuring out how you want to balance the benefits against the costs can take some careful thinking. Here's a concise and effective]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Props in React]]></title>
+        <id>https://www.freecodecamp.org/news/props-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/props-in-react/"/>
+        <updated>2023-01-10T16:01:03.000Z</updated>
+        <summary type="html"><![CDATA[When you're first learning React, props are often one of the most difficult topics to understand – especially when it comes to passing props across components. And when you need similar props in more than one component, things can get really tricky. In this guide, we will start by understanding]]></summary>
+        <author>
+            <name>Tooba Jamal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faking Min Width on a Table Column]]></title>
+        <id>https://css-tricks.com/?p=376307</id>
+        <link href="https://css-tricks.com/faking-min-width-on-a-table-column/"/>
+        <updated>2023-01-10T15:11:20.000Z</updated>
+        <summary type="html"><![CDATA[The good ol’ <table> tag is the most semantic HTML for showing tabular data. But I find it very hard to control how the table is presented, particularly column widths in a dynamic environment where you might not know how …
+Faking Min Width on a Table Column originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Anders Pedersen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Your Collaboration Problems Go Away By Sharing Components]]></title>
+        <id>https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/</id>
+        <link href="https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/"/>
+        <updated>2023-01-10T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently UXPin has extended its powerful Merge technology by adding npm integration, allowing designers to sync React component libraries without requiring any developer input. This new step aims to improve collaboration between designers and developers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shane Hudson)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the Nextflix Logo in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/"/>
+        <updated>2023-01-10T01:37:16.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Netflix logo:  * border-left and border-right  * pseudo class ::before  * box-shadow  * transform: skewX What]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Become a Better Web Developer in 2023]]></title>
         <id>https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/</id>
@@ -1143,16 +1244,6 @@ Setting up a screen reader testing environment on your computer originally publi
 Saving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Manoj Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future Of Design: Human-Powered Or AI-Driven?]]></title>
-        <id>https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/</id>
-        <link href="https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/"/>
-        <updated>2022-12-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Keima Kai)</name>
         </author>
     </entry>
 </feed>

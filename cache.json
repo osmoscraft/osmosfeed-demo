@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376307",
+          "author": "Anders Pedersen",
+          "description": "The good ol’ <table> tag is the most semantic HTML for showing tabular data. But I find it very hard to control how the table is presented, particularly column widths in a dynamic environment where you might not know how …\nFaking Min Width on a Table Column originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/faking-min-width-on-a-table-column/",
+          "publishedOn": "2023-01-10T15:11:20.000Z",
+          "wordCount": 1708,
+          "title": "Faking Min Width on a Table Column",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376307"
+        },
+        {
           "id": "https://css-tricks.com/?p=376237",
           "author": "Fränk Klein",
           "description": "A little while back, Ganesh Dahal penned a post here on CSS-Tricks responding to a tweet that asked about adding CSS box shadows on WordPress blocks and elements. There’s a lot of great stuff in there that leverages new features …\nStyling Buttons in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -142,6 +152,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
+          "author": "hello@smashingmagazine.com (Shane Hudson)",
+          "description": "Recently UXPin has extended its powerful Merge technology by adding npm integration, allowing designers to sync React component libraries without requiring any developer input. This new step aims to improve collaboration between designers and developers.",
+          "link": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
+          "publishedOn": "2023-01-10T11:30:00.000Z",
+          "wordCount": 3724,
+          "title": "Making Your Collaboration Problems Go Away By Sharing Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
           "author": "hello@smashingmagazine.com (Eric Burel)",
@@ -351,21 +376,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ef4ceadc-3a08-4ff7-ae9e-4e44b1054feb/accessible-front-end-patterns-responsive-tables-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "author": "hello@smashingmagazine.com (Keima Kai)",
-          "description": "In this article, Keima Kai provides a brief history of AI in web design, explores its current implications for creativity, and offers suggestions for how web designers can stay ahead of the curve.",
-          "link": "https://smashingmagazine.com/2022/12/future-design-human-powered-ai-driven/",
-          "publishedOn": "2022-12-12T13:00:00.000Z",
-          "wordCount": 5849,
-          "title": "The Future Of Design: Human-Powered Or AI-Driven?",
-          "enclosure": {
-            "url": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://res.cloudinary.com/indysigner/image/upload/v1670850655/future-design-human-powered-ai-driven_jn1p6k.jpg"
         }
       ]
     },
@@ -374,6 +384,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Git logo:  * Transform to rotate an image  * position relative and absolute  * pseudo classes ::before",
+          "link": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
+          "publishedOn": "2023-01-10T18:54:59.000Z",
+          "wordCount": 1420,
+          "title": "Learn CSS by Building the Git Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Git-Logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-convert-the-date-to-string-or-datetime-function-2/",
+          "author": "Kolade Chris",
+          "description": "When you're working with SQL, you'll need to learn how to format dates properly. This is because dates are an important aspect of any SQL and other software-related activities. You need to be able to work with dates to add timestamps to entries and keep track of when things happen,",
+          "link": "https://www.freecodecamp.org/news/sql-convert-the-date-to-string-or-datetime-function-2/",
+          "publishedOn": "2023-01-10T18:30:50.000Z",
+          "wordCount": 1249,
+          "title": "SQL CONVERT – The DATE to String or DATETIME Function",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/dateToString.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understanding-sql-joins/",
+          "author": "Zubair Idris Aweda",
+          "description": "SQL is a programming language we use to interact with relational databases. SQL databases contain tables, which contain rows of data. These tables usually contain similar or related data. In an office management web application database, you would have tables for  employees, their departments, their managers, the projects they",
+          "link": "https://www.freecodecamp.org/news/understanding-sql-joins/",
+          "publishedOn": "2023-01-10T18:23:24.000Z",
+          "wordCount": 3144,
+          "title": "SQL Joins – LEFT Join, RIGHT Join, and INNER Join Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/JOIN-s.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-performance-async-defer/",
+          "author": "TAPAS ADHIKARY",
+          "description": "In web programming, JavaScript brings interactiveness and dynamic behaviour to your web pages. While HTML and CSS take care of the structure and aesthetics of the pages, they will be merely usable without JavaScript doing its job in the background. You can include JavaScript code in the HTML file in",
+          "link": "https://www.freecodecamp.org/news/javascript-performance-async-defer/",
+          "publishedOn": "2023-01-10T18:18:31.000Z",
+          "wordCount": 2898,
+          "title": "JavaScript Performance – How to Improve Page Speed with async and defer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/freeCodeCamp-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/",
+          "author": "Reed Barger",
+          "description": "You're ready to start making simple projects with React, but you don't know what to make. Where should you start? I have created seven unique and fun React projects for you to make, all of which will teach you essential React concepts that you need to know in 2023.",
+          "link": "https://www.freecodecamp.org/news/react-projects-for-beginners-easy-ideas-with-code/",
+          "publishedOn": "2023-01-10T17:53:44.000Z",
+          "wordCount": 1985,
+          "title": "React Projects for Beginners in 2023 – Fun Ideas with Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/7-react-projects-beginners.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/",
+          "author": "David Clinton",
+          "description": "For all the many benefits we enjoy from technology – and particularly the technologies that make up the public internet – there are plenty of costs, too.  Figuring out how you want to balance the benefits against the costs can take some careful thinking. Here's a concise and effective",
+          "link": "https://www.freecodecamp.org/news/beginners-guide-to-digital-privacy/",
+          "publishedOn": "2023-01-10T17:45:33.000Z",
+          "wordCount": 3963,
+          "title": "What Is Digital Privacy? A Beginner's Guide to Protecting Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-kevin-paster-1901388.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/props-in-react/",
+          "author": "Tooba Jamal",
+          "description": "When you're first learning React, props are often one of the most difficult topics to understand – especially when it comes to passing props across components. And when you need similar props in more than one component, things can get really tricky. In this guide, we will start by understanding",
+          "link": "https://www.freecodecamp.org/news/props-in-react/",
+          "publishedOn": "2023-01-10T16:01:03.000Z",
+          "wordCount": 3049,
+          "title": "How to Use Props in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/all-about-props-in-react-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Netflix logo:  * border-left and border-right  * pseudo class ::before  * box-shadow  * transform: skewX What",
+          "link": "https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/",
+          "publishedOn": "2023-01-10T01:37:16.000Z",
+          "wordCount": 1328,
+          "title": "Learn CSS by Building the Nextflix Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Netflix-Logo.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/",
           "author": "Shahan Chowdhury",
