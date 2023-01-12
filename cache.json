@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376342",
+          "author": "Geoff Graham",
+          "description": "A little thing happened on the way to publishing the CSS :has() selector to the ol’ Almanac. I had originally described :has() as a “forgiving” selector, the idea being that anything in its argument is evaluated, even if one or …\n:has is an unforgiving selector originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/has-is-an-unforgiving-selector/",
+          "publishedOn": "2023-01-11T14:18:13.000Z",
+          "wordCount": 1048,
+          "title": ":has is an unforgiving selector",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376342"
+        },
+        {
           "id": "https://css-tricks.com/?p=376307",
           "author": "Anders Pedersen",
           "description": "The good ol’ <table> tag is the most semantic HTML for showing tabular data. But I find it very hard to control how the table is presented, particularly column widths in a dynamic environment where you might not know how …\nFaking Min Width on a Table Column originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -124,26 +134,6 @@
           "wordCount": 2299,
           "title": "A Few Times Container Size Queries Would Have Helped Me Out",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375728"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375722",
-          "author": "Geoff Graham",
-          "description": "Sara Soueidan with everything you need, from what screen reading options are out there all the way to setting up virtual machines for them, installing them, and confguring keyboard options. It’s truly a one-stop reference that pulls together disparate …\nSetting up a screen reader testing environment on your computer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/setting-up-a-screen-reader-testing-environment-on-your-computer/",
-          "publishedOn": "2022-12-12T20:56:58.000Z",
-          "wordCount": 807,
-          "title": "Setting up a screen reader testing environment on your computer",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375722"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375577",
-          "author": "Manoj Kumar",
-          "description": "We’ve accomplished a bunch of stuff in this series! We created a custom WordPress block that fetches data from an external API and renders it on the front end. Then we took that work and extended it so the data …\nSaving Settings for a Custom WordPress Block in the Block Editor originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/saving-settings-for-a-custom-wordpress-block-in-the-block-editor/",
-          "publishedOn": "2022-12-12T14:06:39.000Z",
-          "wordCount": 1565,
-          "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
         }
       ]
     },
@@ -152,6 +142,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Captioning can be much more than text. Design patterns for better UX of subtitles, captions, video players, transcripts and on-screen text.",
+          "link": "https://smashingmagazine.com/2023/01/closed-captions-subtitles-ux/",
+          "publishedOn": "2023-01-11T08:00:00.000Z",
+          "wordCount": 5334,
+          "title": "Closed Captions And Subtitles UX",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
           "author": "hello@smashingmagazine.com (Shane Hudson)",
@@ -384,6 +389,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/",
+          "author": "Dillion Megida",
+          "description": "In JavaScript, you can declare variables with the var, let, and const keywords. But what are the differences between them? That's what I'll explain in this tutorial. I have a video version of this topic [https://youtu.be/Gd_JG3e1g4A] you can check out as well. 😇 If you're just starting out using JavaScript,",
+          "link": "https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/",
+          "publishedOn": "2023-01-11T22:48:17.000Z",
+          "wordCount": 2702,
+          "title": "var, let, and const in JavaScript – the Differences Between These Keywords Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/15.-var-let-const.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-accessibility-common-aria-mistakes-to-avoid/",
+          "author": "Ilknur Eren",
+          "description": "Accessible Rich Internet Applications – or ARIA – is a set of attributes and roles defined by the Web Accessibility Initiative [https://www.w3.org/WAI/]. These make the web more accessible to people with disabilities.  ARIA is extremely important for building accessible web applications. But it's very easy to misuse ARIA and",
+          "link": "https://www.freecodecamp.org/news/web-accessibility-common-aria-mistakes-to-avoid/",
+          "publishedOn": "2023-01-11T21:58:45.000Z",
+          "wordCount": 1643,
+          "title": "Web Accessibility – Common ARIA Mistakes to Avoid",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/a11y-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-create-the-google-logo/",
+          "author": "Jennifer Bland",
+          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Google logo:  * position relative and absolute  * pseudo classes ::before and ::after  * positioning an element",
+          "link": "https://www.freecodecamp.org/news/learn-css-create-the-google-logo/",
+          "publishedOn": "2023-01-11T19:15:17.000Z",
+          "wordCount": 1446,
+          "title": "Learn CSS by Building the Google Logo in Pure CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Google-Logo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-react-dev-tools/",
+          "author": "Aman Kalra",
+          "description": "When you're working on a React project, one of the easiest ways to debug your code is using the React Dev Tools. React Dev Tools is an extension created by the React team. It enables developers to debug their code inside their Developer Tools. Once you add the extension, you",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-dev-tools/",
+          "publishedOn": "2023-01-11T18:18:53.000Z",
+          "wordCount": 1734,
+          "title": "How to Use React Dev Tools – With Example Code and Videos",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/thumbnail.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article I will show you how to format cells in Microsoft Excel. We'll be looking particularly at the Accounting format for cells with numbers.  At the end of the article I'll give you two bonuses: a short video walkthrough of the methods we go over, as well",
+          "link": "https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/",
+          "publishedOn": "2023-01-11T18:11:38.000Z",
+          "wordCount": 1316,
+          "title": "Accounting Number Format in Excel – How to Apply it to Selected Cells",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/currency-vs-accounting-fcc-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/",
+          "author": "Beau Carnes",
+          "description": "Unreal Engine 5 is a powerful game engine that has been used to create some of the most popular and critically acclaimed games in recent years.  We just published an 11-hour Unreal Engine course for beginners on the freeCodeCamp.org YouTube channel. Sourav created this coruse. He has 7 years",
+          "link": "https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/",
+          "publishedOn": "2023-01-11T15:27:28.000Z",
+          "wordCount": 1826,
+          "title": "Developing Games Using Unreal Engine 5",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/ue3.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-css-create-the-git-logo/",
           "author": "Jennifer Bland",
@@ -1263,56 +1328,6 @@
           "wordCount": 2081,
           "title": "How to Calculate Percentage Differences Between Two Numbers in Excel - Cell Percentage Change Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/12.13.22-Percent-Change2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-protect-against-sql-injection-attacks/",
-          "author": "Manish Shivanandhan",
-          "description": "Databases are the backbone of any application. They give us a way to store and organize large amounts of data in a way that we can easily access, manage, and update it. From small businesses to large-scale enterprises, databases play a critical role in keeping the systems up and running.",
-          "link": "https://www.freecodecamp.org/news/how-to-protect-against-sql-injection-attacks/",
-          "publishedOn": "2022-12-13T00:40:15.000Z",
-          "wordCount": 1884,
-          "title": "SQL Injection Attacks – How to Use SQLMap to Find Database Vulnerabilities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Stealth-Security---Blog-Banner--27-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-an-algorithm-definition-for-beginners/",
-          "author": "Kolade Chris",
-          "description": "If you’re a student and want to study computer science, or you’re learning to code, then there’s a chance you’ve heard of algorithms. Simply put, an algorithm is a set of instructions that performs a particular action. Contrary to popular belief, an algorithm is not some piece of code that",
-          "link": "https://www.freecodecamp.org/news/what-is-an-algorithm-definition-for-beginners/",
-          "publishedOn": "2022-12-13T00:38:26.000Z",
-          "wordCount": 1577,
-          "title": "What is an Algorithm? Algorithm Definition for Computer Science Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/laptop-gfe4d4bfc0_1280.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-remove-an-item-from-a-list-in-c/",
-          "author": "Edeh Israel Chidera",
-          "description": "While building your application in C#, you might need to store and manipulate sets of data. The List class is a member of the System.Collections.Generic  namespace and you use it to store multiple objects of the same datatype. The List class represents a collection of strongly typed lists of",
-          "link": "https://www.freecodecamp.org/news/how-to-remove-an-item-from-a-list-in-c/",
-          "publishedOn": "2022-12-13T00:28:02.000Z",
-          "wordCount": 1137,
-          "title": "How to Remove an Item from a List in C#",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/bernd-dittrich-d_3EKbSg1tg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/overview-of-cyber-security-certifications/",
-          "author": "Megan Kaczanowski",
-          "description": "Certifications aren't strictly necessary in order to get hired as a cybersecurity analyst (with the notable exception of many government jobs). But they can help you demonstrate to an HR recruiter or hiring manager that you have a specific skillset via a third party's assessment of your skills. The process",
-          "link": "https://www.freecodecamp.org/news/overview-of-cyber-security-certifications/",
-          "publishedOn": "2022-12-13T00:22:54.000Z",
-          "wordCount": 2299,
-          "title": "Cyber Security Certifications – What Certs to Get for a Career in Infosec",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-martijn-adegeest-633565.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Welcome to the amazing world of programming. This is one of the most useful and powerful skills that you can learn and use to make your visions come true.  In this handbook, we will dive into why programming is important, its applications, its basic concepts, and the skills you",
-          "link": "https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/",
-          "publishedOn": "2022-12-12T17:10:03.000Z",
-          "wordCount": 8117,
-          "title": "What is Programming? A Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/what-is-programming.png"
         }
       ]
     }
