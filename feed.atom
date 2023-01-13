@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T01:08:34.698Z</updated>
+    <updated>2023-01-13T01:09:13.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is SQL? Database Definition for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/"/>
+        <updated>2023-01-12T18:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Data is a powerful tool that drives everything you see and interact with on the internet. It facilitates research and powers today's technology. It is the driving force behind today's artificial intelligence and robotics. And so much more. Previously, these data were stored on paper, in physical files within cabinets.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Grid-to-List Layout Toggle using Flexbox and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/flexbox-grid-to-list-toggle-using-javascript/"/>
+        <updated>2023-01-12T17:57:06.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will show you how to create a toggle to display items in a grid from a list. We'll do this using basic JavaScript skills with no external code or libraries. We will be using Flexbox to help us accomplish this. What We Will Be Creating Here's]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software System Design for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/software-system-design-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/software-system-design-for-beginners/"/>
+        <updated>2023-01-12T15:47:53.000Z</updated>
+        <summary type="html"><![CDATA[Building large-scale distributed systems like Google, Facebook, Amazon, and Twitter requires an in-depth understanding of computer science principles. This allows systems to handle millions of users concurrently despite hardware failures. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to design software systems. This]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matplotlib Figure Size – How to Change Plot Size in Python with plt.figsize()]]></title>
+        <id>https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/matplotlib-figure-size-change-plot-size-in-python/"/>
+        <updated>2023-01-12T15:29:17.000Z</updated>
+        <summary type="html"><![CDATA[When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you'll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Front-End Tools Of 2022]]></title>
+        <id>https://smashingmagazine.com/2023/01/top-frontend-tools-2022/</id>
+        <link href="https://smashingmagazine.com/2023/01/top-frontend-tools-2022/"/>
+        <updated>2023-01-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Who doesn’t love a good front-end tool? In this roundup, you’ll find a nice list of useful front-end tools that were popular last year but are still bound to help you speed up and enhance your development workflow. Let’s dive in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[var, let, and const in JavaScript – the Differences Between These Keywords Explained]]></title>
         <id>https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/</id>
@@ -1190,69 +1240,6 @@ See that aria-labelledby attribute? It chains two IDs from the …
 Unchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holiday Snowtacular 2022]]></title>
-        <id>https://css-tricks.com/?p=376229</id>
-        <link href="https://css-tricks.com/holiday-snowtacular-2022/"/>
-        <updated>2022-12-13T23:03:49.000Z</updated>
-        <summary type="html"><![CDATA[We’ve got ourselves a real holiday treat! Join host Alex Trost from the Frontend Horse community for the Holiday Snowtacular 2022 this Friday, December 16.
-There’s a lineup of 12 awesome speakers — including Chris Coyier, Cassidy Williams, Kevin …
-Holiday Snowtacular 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Shells for Beginners – Bash, Zsh, and Fish Explained]]></title>
-        <id>https://www.freecodecamp.org/news/linux-shells-explained/</id>
-        <link href="https://www.freecodecamp.org/news/linux-shells-explained/"/>
-        <updated>2022-12-13T21:55:05.000Z</updated>
-        <summary type="html"><![CDATA[When you open up your terminal, chances are that it uses Bash as its UNIX shell environment. But other "shell" environments exist. There are other environments such as the C Shell, Korn Shell, Z Shell, and even the Fish Shell. All of these different shell environments have their own pros]]></summary>
-        <author>
-            <name>Anthony Behery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Calculate Percentage Differences Between Two Numbers in Excel - Cell Percentage Change Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-calculate-percentage-differences-between-two-numbers-in-excel-cell-percentage-change-tutorial/"/>
-        <updated>2022-12-13T21:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets are powerful and awesome. 💪  In this tutorial I will show you four ways to find the percentage difference between two numbers in Excel. I'll also show you how to use custom functions in Google Sheets. 👍 The four techniques (and one bonus) we'll use are:  1.]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Privacy: Protect Your Users, Protect Yourself]]></title>
-        <id>https://smashingmagazine.com/2022/12/understanding-privacy-protect-your-users-protect-yourself/</id>
-        <link href="https://smashingmagazine.com/2022/12/understanding-privacy-protect-your-users-protect-yourself/"/>
-        <updated>2022-12-13T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[All of us want to create inclusive, safe, and privacy-aware digital experiences, but where to begin? Our brand new Smashing Book, “Understanding Privacy,” written by Heather Burns, can help you lay the ground for future developers, designers, and project managers to build a better web for tomorrow. [Jump to the details](https://www.smashingmagazine.com/2022/12/understanding-privacy-new-smashing-book/#about-the-book) or [get the book right away](https://www.smashingmagazine.com/printed-books/understanding-privacy/).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Heather Burns)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible Front-End Patterns For Responsive Tables (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/</id>
-        <link href="https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part2/"/>
-        <updated>2022-12-13T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Few Times Container Size Queries Would Have Helped Me Out]]></title>
-        <id>https://css-tricks.com/?p=375728</id>
-        <link href="https://css-tricks.com/a-few-times-container-size-queries-would-have-helped-me-out/"/>
-        <updated>2022-12-13T13:53:56.000Z</updated>
-        <summary type="html"><![CDATA[CSS Container Queries are still gaining traction and many of us are getting our hands wet with them, even if it’s for little experiments or whatnot. They’ve got great, but not quite full, browser support — enough to justify using …
-A Few Times Container Size Queries Would Have Helped Me Out originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Dan Christofi</name>
         </author>
     </entry>
 </feed>
