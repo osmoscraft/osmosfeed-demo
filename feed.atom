@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-13T01:09:13.021Z</updated>
+    <updated>2023-01-14T01:03:47.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add Search Functionality to a Ruby on Rails Application]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-search-to-ruby-on-rails-app/"/>
+        <updated>2023-01-13T18:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, most web applications have a search feature. Users can use the search feature in order to navigate websites more easily. Implementing a search feature in Ruby on Rails is very easy. By using only a few lines of code you can set it up. This tutorial assumes that you]]></summary>
+        <author>
+            <name>Sampurna Chapagain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Rename a Column in Pandas – Python Pandas Dataframe Renaming Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-rename-a-column-in-pandas/"/>
+        <updated>2023-01-13T18:18:13.000Z</updated>
+        <summary type="html"><![CDATA[A Pandas Dataframe is a 2-dimensional data structure that displays data in tables with rows and columns.  In this article, you'll learn how to rename columns in a Pandas Dataframe by using:   * The rename() function.  * A List.  * The set_axis() function. How to]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coalesce SQL – Example PostgreSQL and SQL Server Functions]]></title>
+        <id>https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/</id>
+        <link href="https://www.freecodecamp.org/news/coalesce-sql-example-postgresql-and-sql-server-functions/"/>
+        <updated>2023-01-13T18:14:20.000Z</updated>
+        <summary type="html"><![CDATA[In SQL, the COALESCE() function returns the first non-null value in an entry. It evaluates the values of the entries one by one, ignores the null values, then returns the first value that is not null. It works in PostgreSQL, SQL server, and MySQL. In this article, I will show]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# Coding Best Practices – Coding Conventions with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/</id>
+        <link href="https://www.freecodecamp.org/news/coding-best-practices-in-c-sharp/"/>
+        <updated>2023-01-13T16:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Coding conventions ensure that your code is consistent, readable, understandable, and maintainable.  When it comes to writing clean and quality code, there are conventions developers should follow to make this possible.  There are a few things you should keep in mind while writing your code. In this article,]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Permissions in Linux – How to Use the chown and chgrp Commands]]></title>
+        <id>https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/</id>
+        <link href="https://www.freecodecamp.org/news/file-permissions-in-linux-how-to-use-the-chown-chgrp-command-s/"/>
+        <updated>2023-01-13T16:25:20.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to large organizations, Users and Groups in Linux play an important role in helping keep systems secure and properly functioning.  There can be different levels of users in an organization with different roles and permissions. And you'll need a good understanding Linux permissions to manage and/or]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is SQL? Database Definition for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/what-is-sql-database-definition-for-beginners/</id>
@@ -1166,80 +1216,6 @@ So, you’d like to animate the display property originally published on CSS-Tri
         <summary type="html"><![CDATA[Concerns over online privacy and security are nothing new. In this article, Suzanne Scacca explores how the right CSV importer can help businesses better prioritize user security.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Suzanne Scacca)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Links on AI-Related Stuff]]></title>
-        <id>https://css-tricks.com/?p=376201</id>
-        <link href="https://css-tricks.com/some-links-on-ai-related-stuff/"/>
-        <updated>2022-12-14T21:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Every so often, I find that the links I save to read later fall into natural groups or patterns that reveal common threads of interest. The past couple of weeks have produced a lot of thoughts about ChatGPT, an …
-Some Links on AI-Related Stuff originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Range – How to Create an Array of Numbers with .from() in JS ES6]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-range-create-an-array-of-numbers-with-the-from-method/"/>
-        <updated>2022-12-14T21:15:06.000Z</updated>
-        <summary type="html"><![CDATA[The .from() method is a static method of the Array object in JavaScript ES6. It creates a new, shallow-copied Array instance from an array-like or iterable object like map and set. This method returns an array from any object with a length property. You can use it to create an]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improve Your JavaScript Skills by Coding a Card Game]]></title>
-        <id>https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/</id>
-        <link href="https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/"/>
-        <updated>2022-12-14T18:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Building projects is a great way to improve your programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a digital card game with JavaScirpt, HTML, and CSS. This tutorial not only covers creating a basic card game using JavaScript but]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Next.js for Scalable Web Apps]]></title>
-        <id>https://www.freecodecamp.org/news/learn-next-js-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/learn-next-js-tutorial/"/>
-        <updated>2022-12-14T18:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Next.js is a popular framework for building server-rendered JavaScript applications. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn how to use Next.js. Next.js is built on top of React, which is a popular JavaScript library for building user interfaces. Next.js makes it]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read a File Line by Line in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-read-a-file-line-by-line-in-python/"/>
-        <updated>2022-12-14T17:58:48.000Z</updated>
-        <summary type="html"><![CDATA[When coding in Python, there may be times when you need to open and read the contents of a text file. Luckily enough, there are several ways to do this in Python. The language has many built-in functions, methods, and keywords that you can use to create, write, read and]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Solidity – A Handbook for Smart Contract Development]]></title>
-        <id>https://www.freecodecamp.org/news/learn-solidity-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/learn-solidity-handbook/"/>
-        <updated>2022-12-14T15:45:30.000Z</updated>
-        <summary type="html"><![CDATA[When I changed careers from lawyer to software engineer [/news/from-lawyer-to-google-engineer/] in 2018, I never imagined that I’d enjoy being a developer as much as I do. I also never thought I'd end up working for amazing organizations like Google [/news/coding-interview-prep-for-big-tech/]  and Chainlink labs.  After 15 years in law]]></summary>
-        <author>
-            <name>Zubin Pratap</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unchain My Inaccessibly-Labelled Heart]]></title>
-        <id>https://css-tricks.com/?p=375952</id>
-        <link href="https://css-tricks.com/unchain-my-inaccessibly-labelled-heart/"/>
-        <updated>2022-12-14T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[Suzy Naschansky from the HTMHell Advent Calendar:
-<h2 id="article1-heading"All About Dragons</h2<pI like dragons. Blah blah blah blah blah.</p<p<a id="article1-read-more" aria-labelledby="article1-read-more article1-heading"Read more</a</p
-See that aria-labelledby attribute? It chains two IDs from the …
-Unchain My Inaccessibly-Labelled Heart originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
