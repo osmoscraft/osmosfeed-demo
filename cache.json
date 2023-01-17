@@ -83,6 +83,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
+          "author": "hello@smashingmagazine.com (Eloïse Martin)",
+          "description": "Largest Contentful Paint (or LCP) is a major web performance KPI which is still a new concept for many web developers since it became a ranking factor just recently. In this article, Eloïse Martin provides an overview of the best practices for the integration and optimization of an LCP image.",
+          "link": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
+          "publishedOn": "2023-01-16T18:00:00.000Z",
+          "wordCount": 5325,
+          "title": "Optimizing The Image Element LCP",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/903146f1-2255-4a8b-8d33-ff2a54412fc2/optimizing-image-element-lcp.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/01/top-frontend-tools-2022/",
           "author": "hello@smashingmagazine.com (Louis Lazaris)",
           "description": "Who doesn’t love a good front-end tool? In this roundup, you’ll find a nice list of useful front-end tools that were popular last year but are still bound to help you speed up and enhance your development workflow. Let’s dive in!",
@@ -284,6 +299,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
+          "author": "Jennifer Bland",
+          "description": "If you have been a programmer for a while, then you have likely used a  console.log to display data.  You may want to see the value of data while your program is running, or you may be trying to troubleshoot a problem.  Sometimes the data displayed in",
+          "link": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
+          "publishedOn": "2023-01-16T21:46:19.000Z",
+          "wordCount": 1055,
+          "title": "How to Format Output You Send to the Console",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Formatting-Output-To-The-Console.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
+          "author": "Tomer Ben Rachel",
+          "description": "Let's say that you are using a version control system and your project uses services that require API keys. Everything is all good when they're on your local machine, but you don’t want to share these API keys with the world. So how can you still preserve your API keys",
+          "link": "https://www.freecodecamp.org/news/hide-your-api-keys-in-android/",
+          "publishedOn": "2023-01-16T21:03:19.000Z",
+          "wordCount": 1083,
+          "title": "How to Hide Your API Keys in an Android Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/oleg-didenko-lMNo9SwBN_o-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
+          "author": "David Clinton",
+          "description": "You may not always be aware of it, but you're enjoying the many fruits of the cloud just about every hour of every day. Many of the joys (and horrors) of modern life would be impossible without it.  Before we talk about what it does and where it's taking",
+          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing-beginners-guide/",
+          "publishedOn": "2023-01-16T19:03:48.000Z",
+          "wordCount": 3764,
+          "title": "What is Cloud Computing? Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-210158--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
+          "author": "Andrew Brown",
+          "description": "The old authentication systems from monolithic applications don't work well in modern applications. When you build a web-application, you need a way to handle user authentication (the ability for a user to log in to your web-application). Traditionally, web-applications were built as monoliths and authentication systems were installed via a",
+          "link": "https://www.freecodecamp.org/news/how-to-run-your-own-decentralized-authentication-service-using-authn/",
+          "publishedOn": "2023-01-16T18:32:55.000Z",
+          "wordCount": 2451,
+          "title": "How to Run Your Own Decentralized Authentication Service Using AuthN",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-39624--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
+          "author": "Jennifer Bland",
+          "description": "In this article, I will show you how to create a toggle to display items in a grid from a list. This will be using basic JavaScript skills with no external code or libraries. We will be using CSS Grid. What We Will Be Creating How to Create Our Starter",
+          "link": "https://www.freecodecamp.org/news/grid-to-list-toggle-using-css-grid/",
+          "publishedOn": "2023-01-16T17:13:21.000Z",
+          "wordCount": 1488,
+          "title": "How to Build a Grid to List Toggle using CSS Grid and JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Grid-To-List-Toggle-Using-CSS-Grid.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/",
           "author": "Timonwa Akintokun",
