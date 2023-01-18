@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376352",
+          "author": "Mariana Beldi",
+          "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/",
+          "publishedOn": "2023-01-17T13:51:20.000Z",
+          "wordCount": 3072,
+          "title": "6 Common SVG Fails (and How to Fix Them)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376352"
+        },
+        {
           "id": "https://css-tricks.com/?p=376342",
           "author": "Geoff Graham",
           "description": "A little thing happened on the way to publishing the CSS :has() selector to the ol’ Almanac. I had originally described :has() as a “forgiving” selector, the idea being that anything in its argument is evaluated, even if one or …\n:has is an unforgiving selector originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -82,6 +92,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Writing code documentation can be overwhelming when there’s no smooth process in place. Streamlining best practices and setting automation in your favor works a long way toward getting permanently up-to-date content that reflects the important pieces of your codebase.",
+          "link": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
+          "publishedOn": "2023-01-17T14:00:00.000Z",
+          "wordCount": 3671,
+          "title": "Code Documentation, Streamlined",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/code-documentation-streamlined/swimm-code-documentation-streamlined.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/optimizing-image-element-lcp/",
           "author": "hello@smashingmagazine.com (Eloïse Martin)",
@@ -276,21 +301,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
-          "author": "hello@smashingmagazine.com (Masha Shaposhnikova)",
-          "description": "In this article, Masha goes over five tips that make it easier to manage a design system while increasing its effectiveness. This short guide is aimed at smaller teams.",
-          "link": "https://smashingmagazine.com/2022/12/taking-stress-out-design-system-management/",
-          "publishedOn": "2022-12-19T13:00:00.000Z",
-          "wordCount": 5485,
-          "title": "Taking The Stress Out Of Design System Management",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd9f560b-bc0f-49d0-8b82-c9fbaf8d3915/taking-stress-out-design-system-management.jpg"
         }
       ]
     },
@@ -299,6 +309,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/",
+          "author": "Zaira Hira",
+          "description": "Grep is a useful command to search for matching patterns in a file. grep is short for \"global regular expression print\".  If you are a system admin who needs to scrape through log files or a developer trying to find certain occurrences in the code file, then grep is",
+          "link": "https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/",
+          "publishedOn": "2023-01-17T22:40:13.000Z",
+          "wordCount": 1637,
+          "title": "Grep Command in Linux – Usage, Options, and Syntax Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Copy-of-Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/",
+          "author": "Zubair Idris Aweda",
+          "description": "Data analysis involves taking data you have and extracting useful information from them. During the process, you need to clean the data, present them in a useful way, and draw conclusions that can help companies make important decisions. Data analysis is commonly done with languages like Python and R. Very",
+          "link": "https://www.freecodecamp.org/news/basics-of-data-analysis-with-javascript/",
+          "publishedOn": "2023-01-17T21:59:00.000Z",
+          "wordCount": 1884,
+          "title": "How to Use JavaScript for Data Analysis – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-burak-the-weekender-186461.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/",
+          "author": "Vinod Mathew Sebastian",
+          "description": "Setting font sizes is something you'll do often as a web developer. But sometimes, especially for beginners, this can get a bit tricky.  In this article, I'll explain why I think you should always use rem over em for setting the font-size of an element. What are Relative",
+          "link": "https://www.freecodecamp.org/news/why-use-rem-to-set-font-size-in-css/",
+          "publishedOn": "2023-01-17T21:33:17.000Z",
+          "wordCount": 1364,
+          "title": "Why You Should Use rem to Set Font Size in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/em_vs_rem.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/user-authentication-methods-explained/",
+          "author": "Hillary Nyakundi",
+          "description": "In today's digital world, user authentication is essential in ensuring secure access to online accounts and resources. With the rise of cyber-threats, companies need to ensure that their users are authenticated before accessing any sensitive information. This helps protect the online safety of both parties. In the past, the most",
+          "link": "https://www.freecodecamp.org/news/user-authentication-methods-explained/",
+          "publishedOn": "2023-01-17T18:05:56.000Z",
+          "wordCount": 2272,
+          "title": "Secure User Authentication Methods – 2FA, Biometric, and Passwordless Login Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/OOP.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/",
+          "author": "Dillion Megida",
+          "description": "Until recently, I called a ternary operator a conditional operator in JavaScript. But I just learned that this isn't correct. In this tutorial, I will explain how I learned this, and hopefully it teaches you something new. I have a video version on this topic [https://youtu.be/vcNlFKzZTq4] you can watch as",
+          "link": "https://www.freecodecamp.org/news/why-a-ternary-operator-is-not-a-conditional-operator-in-js/",
+          "publishedOn": "2023-01-17T17:17:44.000Z",
+          "wordCount": 1246,
+          "title": "Why a Ternary Operator is not a Conditional Operator in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/17.-ternary-not-conditional.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/",
+          "author": "Dillion Megida",
+          "description": "There are many operators in JavaScript that let you carry out different operations. These operators can be categorized based on the number of operands they require, and I'll be using examples to explain these categories in this tutorial. The three categories of operators based on the number of operands they",
+          "link": "https://www.freecodecamp.org/news/unary-binary-ternary-operators-javascript/",
+          "publishedOn": "2023-01-17T16:58:24.000Z",
+          "wordCount": 1668,
+          "title": "Unary, Binary, and Ternary Operators in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/16.-unary-binary-ternary.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-2d-arrays/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript programming, we are all used to creating and working with one-dimensional arrays. These are arrays that contain elements (elements of similar data types or multiple data types). But it’s also good to know that two-dimensional arrays (2D arrays) exist in JS. In this article, you will learn what",
+          "link": "https://www.freecodecamp.org/news/javascript-2d-arrays/",
+          "publishedOn": "2023-01-17T16:47:25.000Z",
+          "wordCount": 3255,
+          "title": "JavaScript 2D Array – Two Dimensional Arrays in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/cover-template--9-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-audit-web-apps-with-burpsuite/",
+          "author": "Manish Shivanandhan",
+          "description": "What is Burp Suite? Burp Suite is a powerful and widely-used web application testing platform. It helps security engineers identify potential risks in web applications. Burp Suite is also widely used by bug-bounty hunters. Since Burp Suite is a fully featured web-auditing platform, it comes with many tools to help",
+          "link": "https://www.freecodecamp.org/news/how-to-audit-web-apps-with-burpsuite/",
+          "publishedOn": "2023-01-17T14:00:00.000Z",
+          "wordCount": 1538,
+          "title": "How to Use Burp Suite to Audit Web Applications – Pentesting and Bug Bounty Tool Overview",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/burpsuite-article-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! Hooks are one of the main features of modern React code and one of the first concepts you should get comfortable with when learning about this library.  In this article I'm going to explain some of the most useful hooks React provides us with, how they work,",
+          "link": "https://www.freecodecamp.org/news/full-guide-to-react-hooks/",
+          "publishedOn": "2023-01-17T01:04:42.000Z",
+          "wordCount": 5133,
+          "title": "How to Use React Hooks – Full Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/steve-johnson-6sB8gMRlEAU-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/formatting-output-to-the-console/",
           "author": "Jennifer Bland",
