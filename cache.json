@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376435",
+          "author": "Liam Johnston",
+          "description": "If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …\nSolved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/",
+          "publishedOn": "2023-01-18T13:44:00.000Z",
+          "wordCount": 2183,
+          "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
+        },
+        {
           "id": "https://css-tricks.com/?p=376352",
           "author": "Mariana Beldi",
           "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -74,16 +84,6 @@
           "wordCount": 835,
           "title": "Help choose the syntax for CSS Nesting",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376319"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376297",
-          "author": "Geoff Graham",
-          "description": "Being able to quickly spin up a WordPress instance has been the strength of WordPress ever since its famous “five-minute install”. Upload a few files, configure a few settings, and you’re off.\nThe friction of uploading files has gotten …\nWordPress Playground: Running WordPress in the Browser originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/wordpress-playground-run-in-browser/",
-          "publishedOn": "2022-12-19T16:52:45.000Z",
-          "wordCount": 1012,
-          "title": "WordPress Playground: Running WordPress in the Browser",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376297"
         }
       ]
     },
@@ -92,6 +92,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Get better at your craft and support the people in Ukraine — that’s the idea behind our Figma Auto Layout Masterclass with Christine Vallaure. **We are donating all proceeds** from the online workshop to humanitarian aid in Ukraine. Monday, March 27, 09:00AM – 12:00PM PT / 18:00 – 21:00 CET. Donate and join!",
+          "link": "https://smashingmagazine.com/2023/01/figma-auto-layout-masterclass/",
+          "publishedOn": "2023-01-18T14:00:00.000Z",
+          "wordCount": 3141,
+          "title": "Figma Auto Layout Masterclass: An Online Workshop To Support Ukraine 🇺🇦",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/figma-auto-layout-masterclass/banner-figma-auto-layout-masterclass.png"
+        },
         {
           "id": "https://smashingmagazine.com/2023/01/swimm-code-documentation-streamlined/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
@@ -286,21 +301,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dd6913e4-e4eb-4bc9-8b51-0f8d596ee839/deploying-css-logical-properties-on-web-apps.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "description": "In this article, Thomas Bohm shares strategies and methods to tackle some common graphic communication problems and gives you insights into how to improve accessibility and usability and make your designs much better.",
-          "link": "https://smashingmagazine.com/2022/12/useful-accessibility-usability-examples-help-improve-your-designs/",
-          "publishedOn": "2022-12-20T12:00:00.000Z",
-          "wordCount": 8297,
-          "title": "Useful Accessibility And Usability Examples To Help Improve Your Designs",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d616de6-54bc-44cd-b63b-271cc7d5f3be/useful-accessibility-usability-examples-help-improve-your-designs.jpg"
         }
       ]
     },
@@ -309,6 +309,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/",
+          "author": "ASHUTOSH K SINGH",
+          "description": "In this tutorial, we will discuss how to build a Job Description Generator with  Next.js [https://nextjs.org/], and ChatGPT [https://openai.com/blog/chatgpt/], a powerful language generation model developed by OpenAI. We will also use TailwindCSS [https://tailwindcss.com/], a utility-first CSS framework, to style our Next.js app. Check out the GitHub Repo here [https://github.com/lelouchB/ai-job-description]",
+          "link": "https://www.freecodecamp.org/news/build-a-job-description-generator-with-nextjs-and-chatgpt/",
+          "publishedOn": "2023-01-18T23:50:19.000Z",
+          "wordCount": 4420,
+          "title": "How to Build a Job Description Generator with NextJS and ChatGPT",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/m1ieud6fgxhqsgnec96n-1.gif"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/applications-of-julia/",
+          "author": "Ifihanagbara Olusheye",
+          "description": "Julia [https://julialang.org/] is a high-level, high-performance dynamic programming language. It combines the ease of use of scripting languages like Python with the speed and efficiency of compiled languages like C/C++.  Julia has been gaining traction due to its speed, intuitive syntax, and ability to quickly and efficiently solve complex",
+          "link": "https://www.freecodecamp.org/news/applications-of-julia/",
+          "publishedOn": "2023-01-18T21:50:42.000Z",
+          "wordCount": 2046,
+          "title": "Julia Programming Applications – What is Julia Used For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Ifihan-article-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/style-react-apps-with-css/",
+          "author": "Valentine Gatwiri",
+          "description": "React is a JavaScript library for building user interfaces. And it's gained a lot of popularity in the front-end development community.  One of the benefits of using React is its integration with CSS, which allows developers to apply styles to their components in a modular and reusable way.",
+          "link": "https://www.freecodecamp.org/news/style-react-apps-with-css/",
+          "publishedOn": "2023-01-18T20:55:27.000Z",
+          "wordCount": 2732,
+          "title": "How to Style Your React Apps with CSS Like a Pro",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-tyler-hendy-52062.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/free-certificates/",
+          "author": "Dhawal Shah",
+          "description": "Did you know that organizations such as freeCodeCamp, Google, and Harvard offer online courses to help you learn software development? And that many of these include free certificates and badges?  To help you choose one that's right for you, I've created a full list. As avid online learners, my",
+          "link": "https://www.freecodecamp.org/news/free-certificates/",
+          "publishedOn": "2023-01-18T18:01:25.000Z",
+          "wordCount": 2535,
+          "title": "1000+ Free Developer Certifications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/free-developer-certificates-banner.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/",
+          "author": "Dionysia Lemonaki",
+          "description": "While coding in Python, you may need to repeat the same code several times. Writing the same lines of code again and again repeatedly throughout your program is considered a bad practice in programming – this is where loops come in handy. With loops, you can execute a sequence of",
+          "link": "https://www.freecodecamp.org/news/for-loops-in-python-with-example-code/",
+          "publishedOn": "2023-01-18T17:25:16.000Z",
+          "wordCount": 2754,
+          "title": "For Loops in Python – For Loop Syntax Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-106155.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-errors-in-computer-networks/",
+          "author": "Omer Rosenbaum",
+          "description": "There are some magical things about the Internet, and one thing in particular is that it works. In spite of so many obstacles, we can deliver our packets over the globe, and do so fast. Even more specifically, one amazing thing about the Internet is its ability to handle errors.",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-errors-in-computer-networks/",
+          "publishedOn": "2023-01-18T16:05:43.000Z",
+          "wordCount": 3030,
+          "title": "How to Handle Errors in Computer Networks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Copy-of-Computer-Networks-Hub-Switch.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/grep-command-in-linux-usage-options-and-syntax-examples/",
           "author": "Zaira Hira",
@@ -1268,46 +1328,6 @@
           "wordCount": 11135,
           "title": "How to Build Your Own SaaS – PagerDuty Clone",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/maxresdefault.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
-          "author": "Megan Kaczanowski",
-          "description": "Getting your first job in information security (infosec, or cybersecurity) can be tough.  It's (still) a relatively new industry, and job roles and descriptions aren't always consistent. Plus, it can be hard to figure out where to get started, what skills you need, and how you can acquire them.",
-          "link": "https://www.freecodecamp.org/news/how-to-get-your-first-job-in-infosec/",
-          "publishedOn": "2022-12-19T23:32:44.000Z",
-          "wordCount": 3410,
-          "title": "How to Get Your First Job in InfoSec",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-tima-miroshnichenko-5380665.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
-          "author": "Reed Barger",
-          "description": "Building React apps can either be a very fun experience or a very difficult and tedious one, based off of the tools you choose. React is a JavaScript library that, unlike frameworks like Angular, leave us to making a lot of decisions on our own. You have to choose which",
-          "link": "https://www.freecodecamp.org/news/have-fun-building-react-apps/",
-          "publishedOn": "2022-12-19T21:41:26.000Z",
-          "wordCount": 2389,
-          "title": "How to Have Fun Building React Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/mugshotbot.com_customize_color-teal-discounted_price--image-fa229fca-mode-light-pattern-charlie_brown-price--theme-e_commerce-url-https___gifcoins.io.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
-          "author": "David Clinton",
-          "description": "You may already understand how important a good VPN can be for maintaining the security and privacy of your mobile communications.  Whether you need to use your phone for banking over a public airport or coffee shop WiFi connection, or you're worried about the wrong people listening in on",
-          "link": "https://www.freecodecamp.org/news/build-your-own-wireguard-vpn-in-five-minutes/",
-          "publishedOn": "2022-12-19T20:46:15.000Z",
-          "wordCount": 2246,
-          "title": "How to Build Your Own Wireguard VPN in Five Minutes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/pexels-ibrahim-boran-339814.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/",
-          "author": "Andrej Kovacevic",
-          "description": "If you've ever managed a software development pipeline—or have plans to do so—there's one thing you'll need to prioritize above almost all else: speed.  No matter the type of software you're working on, you'll always be under pressure to speed up your team's deliverables. Some of that pressure might",
-          "link": "https://www.freecodecamp.org/news/how-to-speed-up-your-software-development-pipeline/",
-          "publishedOn": "2022-12-19T17:51:06.000Z",
-          "wordCount": 2086,
-          "title": "How to Speed up Your Software Development Pipeline",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/software-development-team.jpg"
         }
       ]
     }
