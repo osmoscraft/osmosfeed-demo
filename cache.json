@@ -123,6 +123,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/02/podcasts-ux-designers/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Podcasts are a fantastic opportunity to get up close with the people who know their craft. In this post, we compiled podcasts that are bound to provide valuable insights into UX and new perspectives on the field. Perfect for a short coffee break or a long commute.",
+          "link": "https://smashingmagazine.com/2023/02/podcasts-ux-designers/",
+          "publishedOn": "2023-02-02T15:00:00.000Z",
+          "wordCount": 4624,
+          "title": "Podcasts For UX Designers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-podcasts/podcasts-ux-designers.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-podcasts/podcasts-ux-designers.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/02/host-wordpress-site-amazon-lightsail/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Lightsail provides all the power we need to host our websites, as we are used to from AWS, but making it way easier than ever before. In this article, Leonardo Losoviz explores how to launch a WordPress site in Lightsail in a quick and easy way.",
+          "link": "https://smashingmagazine.com/2023/02/host-wordpress-site-amazon-lightsail/",
+          "publishedOn": "2023-02-02T09:00:00.000Z",
+          "wordCount": 4981,
+          "title": "How To Host A WordPress Site On Amazon Lightsail",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/wordpress-site-hosted-by-amazon-lightsail/host-wordpress-site-amazon-lightsail.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/wordpress-site-hosted-by-amazon-lightsail/host-wordpress-site-amazon-lightsail.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
           "description": "The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.",
@@ -459,6 +489,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/",
+          "author": "Kolade Chris",
+          "description": "Data structures and algorithms (DSA) are an important aspect of any programming language. Every language has its own data structures and its way of handling different types of algorithms. So, as a programmer, no matter what programming language you are working with, data structures and algorithms have to be an",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms/",
+          "publishedOn": "2023-02-02T23:51:50.000Z",
+          "wordCount": 2224,
+          "title": "Learn Data Structures and Algorithms – Introduction and Learning Resources",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-david-gallie-15128598.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/responsive-layout-react-native/",
+          "author": "Kingsley Ubah",
+          "description": "Having a responsive layout is an important component of user interface (UI) design. It enables a website or application to automatically adjust its size and layout based on the size of the user's device and screen. This provides an optimal viewing experience.  Responsive layouts also give the user a",
+          "link": "https://www.freecodecamp.org/news/responsive-layout-react-native/",
+          "publishedOn": "2023-02-02T23:50:26.000Z",
+          "wordCount": 1514,
+          "title": "React Native Tutorial – How to Create a Simple Responsive Layout for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-luna-lovegood-4087468.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/",
+          "author": "Muhammad Adam",
+          "description": "A calculator application is a simple application that is always available on every Android, iOS, and desktop device.  In this article, we will build a calculator application using React Native and Expo. So why are we using these tools?  React Native is a JavaScript-based framework you can use",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-using-react-native-a-step-by-step-tutorial/",
+          "publishedOn": "2023-02-02T19:29:15.000Z",
+          "wordCount": 2248,
+          "title": "How to Build a Calculator App Using React Native – A Step-by-Step Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/banner---how-to-build-calculator-app-using-react-native-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/",
+          "author": "Beau Carnes",
+          "description": "Django is a powerful and popular web framework for Python. It is used to build robust and scalable web applications with ease. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn Django through building your own online marketplace. Stein from Code with Stein teaches",
+          "link": "https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/",
+          "publishedOn": "2023-02-02T19:28:19.000Z",
+          "wordCount": 972,
+          "title": "Learn Django by Building a Marketplace",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/vue-django.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/computer-basics-beginners/",
+          "author": "Beau Carnes",
+          "description": "You have to start somewhere when learning about computers. We just published a comprehensive video course on the freeCodeCamp.org channel designed to help you develop a solid foundation in computer and technology skills. This course is for anyone who is brand new to working with computers or for those who",
+          "link": "https://www.freecodecamp.org/news/computer-basics-beginners/",
+          "publishedOn": "2023-02-02T19:21:25.000Z",
+          "wordCount": 945,
+          "title": "Computer Basics for Absolute Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/maxresdefault.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, a string is a data type representing a sequence of characters that may consist of letters, numbers, symbols, words, or sentences. Strings are used to represent text-based data and are mostly defined using either single quotes (') or double quotes (\"). let name1 = 'John Doe'; let name2",
+          "link": "https://www.freecodecamp.org/news/how-to-escape-strings-in-javascript/",
+          "publishedOn": "2023-02-02T19:05:19.000Z",
+          "wordCount": 1176,
+          "title": "How to Escape a String in JavaScript – JS Escaping Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/",
+          "author": "Dillion Megida",
+          "description": "Switch statements in JavaScript have a behavior called fall-through which can cause unexpected results. I will explain what this behavior is, how to avoid it, and use cases for it. Switch statements allow you to create conditional statements in JavaScript. You have a conditional expression, and depending on the returned",
+          "link": "https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/",
+          "publishedOn": "2023-02-02T17:42:59.000Z",
+          "wordCount": 2184,
+          "title": "Fall-Through in JavaScript Switch Statements – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/14.-fall-through-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/",
+          "author": "Dionysia Lemonaki",
+          "description": "Python offers a variety of built-in modules that you can include in your program. A module is a Python file containing the necessary code to execute an individual functionality. This file is imported into your application to help you perform a specific task. One of those modules is the datetime",
+          "link": "https://www.freecodecamp.org/news/python-string-to-datetime-how-to-convert-an-str-to-a-date-time-with-strptime/",
+          "publishedOn": "2023-02-02T15:57:55.000Z",
+          "wordCount": 1826,
+          "title": "Python String to Datetime – How to Convert an Str to a Date Time with Strptime",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-marko-klaric-6408282.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/",
+          "author": "Aviator Ifeanyichukwu",
+          "description": "Apache Airflow is a tool that helps you manage and schedule data pipelines. According to the documentation [https://airflow.apache.org/], it lets you \"programmatically author, schedule, and monitor workflows.\"  Airflow is a crucial tool for data engineers and scientists. In this article, I'll show you how to install it on Windows",
+          "link": "https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/",
+          "publishedOn": "2023-02-02T00:18:32.000Z",
+          "wordCount": 1328,
+          "title": "How to Install Apache Airflow on Windows without Docker",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/post-image-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/ai-assistants-for-productivity/",
           "author": "Ijeoma Igboagu",
@@ -1788,76 +1908,6 @@
           "wordCount": 5486,
           "title": "How to Build a Custom Ghost CMS Theme",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/ghost-theme-development-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/",
-          "author": "Daniel García Solla",
-          "description": "Have you ever found yourself staring at lines of code, trying to wrap your head around how all the different functions fit together and interact with each other?  It can be a daunting task, especially in larger, more complex programs.  But fear not! There is a way to",
-          "link": "https://www.freecodecamp.org/news/how-to-automate-call-graph-creation/",
-          "publishedOn": "2023-01-03T23:58:02.000Z",
-          "wordCount": 4065,
-          "title": "What is a Call Graph? And How to Generate them Automatically",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Untitled2-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/",
-          "author": "Sobit Prasad",
-          "description": "As a web developer, you should always strive to learn new techniques and discover ways to work smarter with JavaScript.  One such technique is using higher order functions. Higher order functions are functions that take one or more functions as arguments, or return a function as their result. In",
-          "link": "https://www.freecodecamp.org/news/higher-order-functions-in-javascript-explained/",
-          "publishedOn": "2023-01-03T22:11:58.000Z",
-          "wordCount": 3489,
-          "title": "Higher Order Functions in JavaScript – Explained with Practical Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/higher-order-functions-in-javascript-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/format-dates-with-ordinal-number-suffixes-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Many online resources teach you how to format dates. But it's hard to find any that explain how to format dates with an ordinal number suffix (like 1st) in JavaScript – without using a library. In this short article, you will learn how to format dates in JavaScript with ordinal",
-          "link": "https://www.freecodecamp.org/news/format-dates-with-ordinal-number-suffixes-javascript/",
-          "publishedOn": "2023-01-03T21:57:47.000Z",
-          "wordCount": 1207,
-          "title": "How to Format Dates with Ordinal Number Suffixes (-st, -nd, -rd, -th) in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/cover-template--4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-join-how-to-combine-a-list-into-a-string-in-python/",
-          "author": "Suchandra Datta",
-          "description": "join() is one of the built-in string functions in Python that lets us create a new string from a list of string elements with a user-defined separator.  Today we'll explore join() and learn about:  * join() syntax  * how to use join() to combine a list into",
-          "link": "https://www.freecodecamp.org/news/python-join-how-to-combine-a-list-into-a-string-in-python/",
-          "publishedOn": "2023-01-03T20:11:53.000Z",
-          "wordCount": 1493,
-          "title": "Python join() – How to Combine a List into a String in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-francesco-ungaro-96081.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-react-app-with-a-dot-net-backend/",
-          "author": "Beau Carnes",
-          "description": "ASP.NET Core can work well as a backend for your React apps. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to to create a basic React application that leverages a .NET Web API Component written in C#. In order to integrate React with",
-          "link": "https://www.freecodecamp.org/news/create-a-react-app-with-a-dot-net-backend/",
-          "publishedOn": "2023-01-03T19:57:42.000Z",
-          "wordCount": 911,
-          "title": "Create a React App With a .NET Core Backend",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/webapi.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-protect-against-dom-xss-attacks/",
-          "author": "Andrej Kovacevic",
-          "description": "Website security issues and vulnerabilities are a global problem as cyber security vulnerabilities are increasing. We have seen a major rise in the average number of these cases in the past few years, and 2021 saw an all-time high. So in this tutorial, we are going to talk about DOM",
-          "link": "https://www.freecodecamp.org/news/how-to-protect-against-dom-xss-attacks/",
-          "publishedOn": "2023-01-03T19:51:56.000Z",
-          "wordCount": 2339,
-          "title": "What is XSS? How to Protect Your Website from DOM Cross-Site Scripting Attacks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/xss-code-case.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/",
-          "author": "Ashutosh Krishna",
-          "description": "User authentication is important for protecting sensitive information and resources from unauthorized access. It helps ensure that only authorized users can access and make changes to data, and helps prevent unauthorized users from gaining access to sensitive information. There are different methods for implementing user authentication, including password-based authentication, token-based",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-user-authentication-in-flask/",
-          "publishedOn": "2023-01-03T14:57:06.000Z",
-          "wordCount": 5996,
-          "title": "How to Set Up Basic User Authentication in a Flask App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/basic-auth.png"
         }
       ]
     }
