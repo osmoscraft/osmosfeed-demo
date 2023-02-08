@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376659",
+          "author": "Geoff Graham",
+          "description": "Geez, leave it to Patrick Brosset to talk CSS performance in the most approachable and practical way possible. Not that CSS is always what’s gunking up the speed, or even the lowest hanging fruit when it comes to improving …\nThe truth about CSS selector performance originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-truth-about-css-selector-performance/",
+          "publishedOn": "2023-02-07T15:59:35.000Z",
+          "wordCount": 874,
+          "title": "The truth about CSS selector performance",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376659"
+        },
+        {
           "id": "https://css-tricks.com/?p=376548",
           "author": "Geoff Graham",
           "description": "I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.\n<pI used to have this \n…\nThe Double Emphasis Thing originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -142,6 +152,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.",
+          "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
+          "publishedOn": "2023-02-07T09:30:00.000Z",
+          "wordCount": 11156,
+          "title": "Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
           "author": "hello@smashingmagazine.com (Jennifer Brehm)",
@@ -486,21 +511,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
-          "author": "hello@smashingmagazine.com (Eric Burel)",
-          "description": "This article is Eric Burel’s attempt at making the implementation of authentication less obscure. You’ll learn about tokens, authorization, CORS, credentials, HTTP headers, and such.",
-          "link": "https://smashingmagazine.com/2023/01/authentication-websites-banking-analogy/",
-          "publishedOn": "2023-01-09T09:00:00.000Z",
-          "wordCount": 8917,
-          "title": "Understanding Authentication In Websites: A Banking Analogy",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c05edc94-7dca-4d9f-a4ad-c82dfa00bbf6/authentication-websites-banking-analogy.jpg"
         }
       ]
     },
@@ -509,6 +519,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/",
+          "author": "Franklin Ohaegbulam",
+          "description": "Netlify is a popular web development platform that makes it easier to build, deploy, and manage websites.  You can use Netlify to host websites, and it helps you update and release new changes. It also provides additional features such as security, user authentication and authorization services, and more. This",
+          "link": "https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/",
+          "publishedOn": "2023-02-07T23:46:43.000Z",
+          "wordCount": 3762,
+          "title": "How to Hide API Keys in Frontend Apps using Netlify Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/FCC-hide-API-keys-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "There are several ways to lookup data in a spreadsheet. If you're building a dashboard, you'll find this very useful.  The =XLOOKUP() function is my new favorite way to lookup data. It's discussed in the last section 👇. We'll look at four of the built in lookup functions in",
+          "link": "https://www.freecodecamp.org/news/lookup-functions-in-excel-google-sheets/",
+          "publishedOn": "2023-02-07T20:47:26.000Z",
+          "wordCount": 1997,
+          "title": "LOOKUP Functions in Google Sheets and Excel – VLOOKUP, XLOOKUP, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lookupFCC.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/modern-compute-platforms/",
+          "author": "David Clinton",
+          "description": "The way things sit now, if you were somehow allergic to computers, you'd be hard pressed to really banish them from your life, no matter where you found yourself.  Taking a quiet walk in the woods? What about the smartphone in your pocket. Left the phone in the car?",
+          "link": "https://www.freecodecamp.org/news/modern-compute-platforms/",
+          "publishedOn": "2023-02-07T20:22:32.000Z",
+          "wordCount": 3938,
+          "title": "How Modern Compute Platforms Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-panumas-nikhomkhai-1148820--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-for-loop-example/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use loops in programming to carry out a set of instructions repeatedly until a certain condition is met. There are three types of loops in Java:   * for loop.  * while loop.   * do...while loop. In this article, we'll focus on the for",
+          "link": "https://www.freecodecamp.org/news/java-for-loop-example/",
+          "publishedOn": "2023-02-07T17:41:44.000Z",
+          "wordCount": 1230,
+          "title": "Java For Loop Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/java-for-loop.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/apis-for-beginners/",
           "author": "Beau Carnes",
