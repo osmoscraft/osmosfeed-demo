@@ -134,16 +134,6 @@
           "wordCount": 1708,
           "title": "Faking Min Width on a Table Column",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376307"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376237",
-          "author": "Fränk Klein",
-          "description": "A little while back, Ganesh Dahal penned a post here on CSS-Tricks responding to a tweet that asked about adding CSS box shadows on WordPress blocks and elements. There’s a lot of great stuff in there that leverages new features …\nStyling Buttons in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/styling-buttons-in-wordpress-block-themes/",
-          "publishedOn": "2023-01-09T13:56:19.000Z",
-          "wordCount": 2156,
-          "title": "Styling Buttons in WordPress Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376237"
         }
       ]
     },
@@ -152,6 +142,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
+          "author": "hello@smashingmagazine.com (Andy Budd)",
+          "description": "In this article, Andy Budd shares his way of requesting feedback: rather than sharing a linear case study that explains every design revision, the first thing to do would be to better frame the problem.",
+          "link": "https://smashingmagazine.com/2023/02/designers-ask-receive-high-quality-feedback/",
+          "publishedOn": "2023-02-08T11:00:00.000Z",
+          "wordCount": 4572,
+          "title": "How Designers Should Ask For (And Receive) High-Quality Feedback",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designers-ask-receive-high-quality-feedback/designers-ask-receive-high-quality-feedback.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
@@ -496,21 +501,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5de2f7ff-c421-4bba-84b0-e346653ed12c/closed-captions-subtitles-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
-          "author": "hello@smashingmagazine.com (Shane Hudson)",
-          "description": "Recently UXPin has extended its powerful Merge technology by adding npm integration, allowing designers to sync React component libraries without requiring any developer input. This new step aims to improve collaboration between designers and developers.",
-          "link": "https://smashingmagazine.com/2023/01/sharing-components-designers-developers-collaboration-problems/",
-          "publishedOn": "2023-01-10T11:30:00.000Z",
-          "wordCount": 3724,
-          "title": "Making Your Collaboration Problems Go Away By Sharing Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1b69818-14c4-47c6-8153-dd88b856b756/sharing-components-designers-developers-collaboration-problems.jpg"
         }
       ]
     },
@@ -519,6 +509,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/objects-in-javascript/",
+          "author": "Kamaldeen Lawal",
+          "description": "Objects are important data structures in JavaScript. This is partly because arrays are objects in JavaScript, and you'll use them all the time. Objects are super important for grouping data and functionalities, so you can do a lot with an object in JavaScript. The DOM node, and any DOM node",
+          "link": "https://www.freecodecamp.org/news/objects-in-javascript/",
+          "publishedOn": "2023-02-08T19:23:29.000Z",
+          "wordCount": 2858,
+          "title": "What are Objects in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Your-paragraph-text.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/encode-decode-html-base64-using-javascript/",
+          "author": "Joel Olawanle",
+          "description": "When building an application or writing a program, you may need to encode or decode with HTML Base64 in JavaScript. This is possible thanks to two Base64 helper functions that are part of the HTML specification and are supported by all modern browsers. In this article, you will learn about",
+          "link": "https://www.freecodecamp.org/news/encode-decode-html-base64-using-javascript/",
+          "publishedOn": "2023-02-08T19:20:23.000Z",
+          "wordCount": 1280,
+          "title": "How to Encode and Decode HTML Base64 using JavaScript – JS Encoding Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover-template-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-how-to-code-a-buzzfeed-clone-in-three-ways/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to level up your web development skills? Do you want to know how to build a BuzzFeed clone in three different technologies? Look no further!  We just published a 4-hour video course on the freeCodeCamp.org YouTube channel that will teach you how to code a BuzzFeed",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-code-a-buzzfeed-clone-in-three-ways/",
+          "publishedOn": "2023-02-08T17:06:54.000Z",
+          "wordCount": 928,
+          "title": "Learn to Code a BuzzFeed Clone in Three Ways (JavaScript, React, TypeScript)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/maxresdefault--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-secure-apis-with-flask-and-auth0/",
+          "author": "Juan Cruz Martinez",
+          "description": "APIs are at the heart of modern development. They support all kinds of systems, from mobile, web, and desktop applications, to IoT devices and self-driving cars. They are a bridge between your clients and your application logic and storage.  This central access point to your application’s data raises the",
+          "link": "https://www.freecodecamp.org/news/build-secure-apis-with-flask-and-auth0/",
+          "publishedOn": "2023-02-08T00:32:04.000Z",
+          "wordCount": 2933,
+          "title": "How to Build Secure APIs with Flask and Auth0",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/3.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/",
           "author": "Franklin Ohaegbulam",
@@ -1718,106 +1748,6 @@
           "wordCount": 3049,
           "title": "How to Use Props in React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/all-about-props-in-react-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/",
-          "author": "Jennifer Bland",
-          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Netflix logo:  * border-left and border-right  * pseudo class ::before  * box-shadow  * transform: skewX What",
-          "link": "https://www.freecodecamp.org/news/learn-css-create-the-nextflix-logo/",
-          "publishedOn": "2023-01-10T01:37:16.000Z",
-          "wordCount": 1328,
-          "title": "Learn CSS by Building the Nextflix Logo in Pure CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Learn-CSS-Create-The-Netflix-Logo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/",
-          "author": "Shahan Chowdhury",
-          "description": "Web development is a highly in-demand and popular skill these days. So if you’re at a crossroads in your life and thinking about becoming a web developer – or just want to further improve your skills – read on. To be a great web developer, you must learn many skills",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-better-web-developer/",
-          "publishedOn": "2023-01-09T23:05:20.000Z",
-          "wordCount": 2222,
-          "title": "How to Become a Better Web Developer in 2023",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-461593.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cs50-course-review/",
-          "author": "Phoebe Voong-Fadel",
-          "description": "Are you considering taking the CS50 [/news/harvard-cs50/] Introduction to Computer Science course, but wondering if it's the right fit for you?  As someone who doesn’t have a computer science degree and was looking to learn the fundamentals of the field, I was in the same boat. That's why I",
-          "link": "https://www.freecodecamp.org/news/cs50-course-review/",
-          "publishedOn": "2023-01-09T22:20:27.000Z",
-          "wordCount": 2454,
-          "title": "Review of CS50 – Harvard's Introduction to Computer Science Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/this-is-cs50-1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/",
-          "author": "Segun Ajibola",
-          "description": "Tailwind CSS is a popular CSS framework, and React is one of the most popular JavaScript libraries. And Tailwind CSS and React are a great combo to use if you're building a frontend project. In this article, you will learn how to setup your coding environment with Vite, install React",
-          "link": "https://www.freecodecamp.org/news/how-to-install-tailwindcss-in-react/",
-          "publishedOn": "2023-01-09T18:49:56.000Z",
-          "wordCount": 1592,
-          "title": "How to Setup React and Tailwind CSS with Vite in a Project",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Parameters-vs-Arguments--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/synthetic-identity-theft/",
-          "author": "Dmitry Dragilev",
-          "description": "In today’s digital age, cybercriminals have no shortage of methods to steal people's identities and sensitive data. One such method is synthetic identity theft, which is becoming one of the most dangerous and common forms.  In fact, according to a figures published by Federal Reserve Bank of Boston [https://www.bostonfed.org/news-and-events/news/2022/08/synthetic-identity-fraud-is-not-a-victimless-crime-costs-billions-damages-lives.aspx]",
-          "link": "https://www.freecodecamp.org/news/synthetic-identity-theft/",
-          "publishedOn": "2023-01-09T18:42:56.000Z",
-          "wordCount": 2777,
-          "title": "What is Synthetic Identity Theft and How to Protect Yourself",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/computer-hacker-mask-hoodie-over-abstract-binary-background-obscured-dark-face-data-thief-internet-fraud-computer-hacker-168781090.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-create-the-react-logo/",
-          "author": "Jennifer Bland",
-          "description": "One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the React logo:  * position: absolute  * vw (view width)  * transform: rotate()  * animation using keyframes",
-          "link": "https://www.freecodecamp.org/news/learn-css-create-the-react-logo/",
-          "publishedOn": "2023-01-09T18:21:57.000Z",
-          "wordCount": 1629,
-          "title": "Learn CSS by Building the React Logo in Pure CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/Learn-CSS-Create-The-React-Logo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/setup-email-verification-in-flask-app/",
-          "author": "Ashutosh Krishna",
-          "description": "Email verification is a crucial aspect of creating a new user account or signing up for a service. It helps confirm that the email address provided is valid and belongs to the intended user. In this article, we will explore the process of handling email verification in Flask. The topic",
-          "link": "https://www.freecodecamp.org/news/setup-email-verification-in-flask-app/",
-          "publishedOn": "2023-01-09T17:56:18.000Z",
-          "wordCount": 3943,
-          "title": "How to Set Up Email Verification in a Flask App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-maksim-goncharenok-5605061.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-google-like-a-pro/",
-          "author": "Beau Carnes",
-          "description": "Are you tired of sifting through pages of irrelevant search results? Do you want to become more efficient at finding the information you need on the web? If so, this course is for you. We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how",
-          "link": "https://www.freecodecamp.org/news/how-to-google-like-a-pro/",
-          "publishedOn": "2023-01-09T15:30:56.000Z",
-          "wordCount": 896,
-          "title": "How to Google Like a Pro",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/googlepro.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-delete-a-file-in-python-and-remove-a-directory-too/",
-          "author": "Dillion Megida",
-          "description": "Python offers many standard utility modules which enable several functions in the applications we build. In this article, we'll learn about the modules for deleting files and directories. One of the most popular modules exposed in Python is the os module. This is one of the standard utility modules. This",
-          "link": "https://www.freecodecamp.org/news/how-to-delete-a-file-in-python-and-remove-a-directory-too/",
-          "publishedOn": "2023-01-09T15:24:57.000Z",
-          "wordCount": 1691,
-          "title": "How to Delete a File in Python – And Remove a Directory, Too",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/12.-delete-files-directories.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/iferror-function-in-excel-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use the IFERROR function to catch errors in Excel. Using the function's parameters, you can return a custom value when specific errors occur.  In this article, you'll learn how to use the IFERROR function to evaluate and handle errors in Excel. You can use the IFERROR function",
-          "link": "https://www.freecodecamp.org/news/iferror-function-in-excel-example/",
-          "publishedOn": "2023-01-09T15:21:52.000Z",
-          "wordCount": 1125,
-          "title": "iferror Function in Excel",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/rubaitul-azad-GauA0hiEwDk-unsplash.jpg"
         }
       ]
     }
