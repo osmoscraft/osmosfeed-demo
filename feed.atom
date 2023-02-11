@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-10T01:13:05.896Z</updated>
+    <updated>2023-02-11T01:04:10.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use MySQL Transactions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-mysql-transactions/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-mysql-transactions/"/>
+        <updated>2023-02-10T21:35:03.000Z</updated>
+        <summary type="html"><![CDATA[What is a Database Transaction and Why is it Important? A database transaction is a single area of the database where multiple data operations are carried out and written as a whole.  These operations can be create, read, update, or delete operations.  During the process of a transaction,]]></summary>
+        <author>
+            <name>Aisha Bukar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modulo Operator – How to Use the Modulus in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-modulo-operator-how-to-use-the-modulus-in-js/"/>
+        <updated>2023-02-10T19:35:28.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, you may need to perform mathematical calculations such as determining if a number is even or odd, wrapping values within a range, and converting between degrees and radians in trigonometry. To help you perform all these mathematical calculations, the modulo operator can be extremely useful. This article will]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get GitHub Pro and Replit Hacker for Free as a Student]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-github-pro-and-replit-hacker-for-free-as-a-student/"/>
+        <updated>2023-02-10T17:47:17.000Z</updated>
+        <summary type="html"><![CDATA[If you are in high school or college/university and are interested in coding, you should consider signing up for GitHub Education.  This allows you to use GitHub Pro, as well as having many other benefits.  In this quick guide, I'll show you the steps to sign up for]]></summary>
+        <author>
+            <name>Eesa Zahed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a REST API? API Endpoint Request Example]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-rest-api/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-rest-api/"/>
+        <updated>2023-02-10T16:39:44.000Z</updated>
+        <summary type="html"><![CDATA[An API (short for Application Programming Interface) allows for two or more applications to communicate with one another and send data back and forth. APIs operated based on a standardized set of rules and they're an integral component of modern-day software development. There are different API styles, and each one]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Set and Map in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/set-and-map-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/set-and-map-in-javascript/"/>
+        <updated>2023-02-10T15:29:36.000Z</updated>
+        <summary type="html"><![CDATA[There are three major iterables available in JavaScript: Arrays, Maps, and Sets.  In this article, we will cover the following topics:   * What is an Array?  * What is a Set?  * What is a Map?  * How to Create a Set]]></summary>
+        <author>
+            <name>Kamaldeen Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Ways to Get CSS Gradient Shadows]]></title>
+        <id>https://css-tricks.com/?p=376764</id>
+        <link href="https://css-tricks.com/different-ways-to-get-css-gradient-shadows/"/>
+        <updated>2023-02-10T15:13:42.000Z</updated>
+        <summary type="html"><![CDATA[It’s a question I hear asked quite often: Is it possible to create shadows from gradients instead of solid colors? There is no specific CSS property that does this (believe me, I’ve looked) and any blog post you find about …
+Different Ways to Get CSS Gradient Shadows originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discovering Primitive Objects In JavaScript (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/</id>
+        <link href="https://smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/"/>
+        <updated>2023-02-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the first part of the series, Kirill Myshkin covers some aspects of JavaScript that help bring objects closer to primitive values, which allow benefiting from common language features that aren’t usually associated with an object, like comparisons and arithmetic operators.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the Z-index Property Works – Stacking Order of Elements in CSS]]></title>
         <id>https://www.freecodecamp.org/news/z-index-property-and-stacking-order-css/</id>
@@ -1572,87 +1643,6 @@ Solved With :has(): Vertical Spacing in Long-Form Text originally published on C
         <summary type="html"><![CDATA[When creating plots using Matplotlib, you get a default figure size of 6.4 for the width and 4.8 for the height (in inches). In this article, you'll learn how to change the plot size using the following:   * The figsize() attribute.   * The set_figwidth() method.]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Front-End Tools Of 2022]]></title>
-        <id>https://smashingmagazine.com/2023/01/top-frontend-tools-2022/</id>
-        <link href="https://smashingmagazine.com/2023/01/top-frontend-tools-2022/"/>
-        <updated>2023-01-12T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Who doesn’t love a good front-end tool? In this roundup, you’ll find a nice list of useful front-end tools that were popular last year but are still bound to help you speed up and enhance your development workflow. Let’s dive in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[var, let, and const in JavaScript – the Differences Between These Keywords Explained]]></title>
-        <id>https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/differences-between-var-let-const-javascript/"/>
-        <updated>2023-01-11T22:48:17.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you can declare variables with the var, let, and const keywords. But what are the differences between them? That's what I'll explain in this tutorial. I have a video version of this topic [https://youtu.be/Gd_JG3e1g4A] you can check out as well. 😇 If you're just starting out using JavaScript,]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Accessibility – Common ARIA Mistakes to Avoid]]></title>
-        <id>https://www.freecodecamp.org/news/web-accessibility-common-aria-mistakes-to-avoid/</id>
-        <link href="https://www.freecodecamp.org/news/web-accessibility-common-aria-mistakes-to-avoid/"/>
-        <updated>2023-01-11T21:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Accessible Rich Internet Applications – or ARIA – is a set of attributes and roles defined by the Web Accessibility Initiative [https://www.w3.org/WAI/]. These make the web more accessible to people with disabilities.  ARIA is extremely important for building accessible web applications. But it's very easy to misuse ARIA and]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn CSS by Building the Google Logo in Pure CSS]]></title>
-        <id>https://www.freecodecamp.org/news/learn-css-create-the-google-logo/</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-create-the-google-logo/"/>
-        <updated>2023-01-11T19:15:17.000Z</updated>
-        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS items by creating the Google logo:  * position relative and absolute  * pseudo classes ::before and ::after  * positioning an element]]></summary>
-        <author>
-            <name>Jennifer Bland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Dev Tools – With Example Code and Videos]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-react-dev-tools/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-dev-tools/"/>
-        <updated>2023-01-11T18:18:53.000Z</updated>
-        <summary type="html"><![CDATA[When you're working on a React project, one of the easiest ways to debug your code is using the React Dev Tools. React Dev Tools is an extension created by the React team. It enables developers to debug their code inside their Developer Tools. Once you add the extension, you]]></summary>
-        <author>
-            <name>Aman Kalra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accounting Number Format in Excel – How to Apply it to Selected Cells]]></title>
-        <id>https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/</id>
-        <link href="https://www.freecodecamp.org/news/accounting-number-format-in-excel-how-to-apply-it-to-selected-cells/"/>
-        <updated>2023-01-11T18:11:38.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will show you how to format cells in Microsoft Excel. We'll be looking particularly at the Accounting format for cells with numbers.  At the end of the article I'll give you two bonuses: a short video walkthrough of the methods we go over, as well]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developing Games Using Unreal Engine 5]]></title>
-        <id>https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/</id>
-        <link href="https://www.freecodecamp.org/news/developing-games-using-unreal-engine-5/"/>
-        <updated>2023-01-11T15:27:28.000Z</updated>
-        <summary type="html"><![CDATA[Unreal Engine 5 is a powerful game engine that has been used to create some of the most popular and critically acclaimed games in recent years.  We just published an 11-hour Unreal Engine course for beginners on the freeCodeCamp.org YouTube channel. Sourav created this coruse. He has 7 years]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:has is an unforgiving selector]]></title>
-        <id>https://css-tricks.com/?p=376342</id>
-        <link href="https://css-tricks.com/has-is-an-unforgiving-selector/"/>
-        <updated>2023-01-11T14:18:13.000Z</updated>
-        <summary type="html"><![CDATA[A little thing happened on the way to publishing the CSS :has() selector to the ol’ Almanac. I had originally described :has() as a “forgiving” selector, the idea being that anything in its argument is evaluated, even if one or …
-:has is an unforgiving selector originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
