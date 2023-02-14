@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-02-13T01:11:39.066Z</updated>
+    <updated>2023-02-14T01:11:18.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous Programming in JavaScript for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/asynchronism-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/asynchronism-in-javascript/"/>
+        <updated>2023-02-13T16:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Approach to Lazy Loading Custom Elements]]></title>
+        <id>https://css-tricks.com/?p=376991</id>
+        <link href="https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/"/>
+        <updated>2023-02-13T15:10:41.000Z</updated>
+        <summary type="html"><![CDATA[We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.
+Inspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …
+An Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Frederik Dohr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use MySQL Transactions]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-mysql-transactions/</id>
