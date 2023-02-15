@@ -530,6 +530,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/vim-language-and-motions-explained/",
+          "author": "Simon Späti",
+          "description": "Throughout my time as a developer, I've used VS Code, Sublime, Notepad++, TextMate, and others. But shortcuts like cmd(+shift)+end and jumping with  option+arrow-keys from word to word needed to be faster at some point.  I was hitting my limits. Everything I was doing I did decently fast, but",
+          "link": "https://www.freecodecamp.org/news/vim-language-and-motions-explained/",
+          "publishedOn": "2023-02-14T19:52:55.000Z",
+          "wordCount": 3642,
+          "title": "Why Vim Is More than Just an Editor – Vim Language, Motions, and Modes Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/using-neo-vim-feature-freecode-3.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/",
+          "author": "Shittu Olumide",
+          "description": "Data is all around us. Every website you visit includes data in a readable format that you can utilize for a project.  And although you can easily copy and paste the data, the best approach for big amounts of data is to perform web scraping. Learning web scraping can",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/",
+          "publishedOn": "2023-02-14T19:48:00.000Z",
+          "wordCount": 2199,
+          "title": "How to Scrape Multiple Web Pages Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/How-to-Scrape-Multiple-Web-Pages-Using-Python-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manage-data-storage/",
+          "author": "David Clinton",
+          "description": "We've all been at this 21st Century thing for a while. And by now it's pretty clear that data is the big driver of, well, of everything.  Governments build their policies around economic and population data. Scientists build their theories around environmental, physical, and biological data. Businesses build their",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-data-storage/",
+          "publishedOn": "2023-02-14T19:44:28.000Z",
+          "wordCount": 3085,
+          "title": "How to Manage Data Storage",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-tima-miroshnichenko-6549629.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in game development but don't know where to start? Do you want to create a unique and engaging game with interesting physics and artificial intelligence mechanics? If so, then our new video course is just what you need! We just published a full course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/",
+          "publishedOn": "2023-02-14T18:54:11.000Z",
+          "wordCount": 993,
+          "title": "Create an Animated Physics Game with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/jsgame.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/",
+          "author": "Sobit Prasad",
+          "description": "If you are reading this blog, you're probably learning JavaScript – and that's awesome. Double equals (==) and triple equals (===) in JavaScript often make beginners scratch their heads. This doesn't mean that you should fear JavaScript, in fact jargon like this makes JavaScript even more beautiful once you know",
+          "link": "https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/",
+          "publishedOn": "2023-02-14T18:09:26.000Z",
+          "wordCount": 1590,
+          "title": "How is == Different from === in JavaScript? Strict vs Loose Equality Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/shapes--1--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/",
+          "author": "Dillion Megida",
+          "description": "The exponent of a number refers to the power to which that number should be raised. In this article, I'll show you how to find exponents using two ways: the power function and a loop. Exponents are usually written like this: Baseexponent Take an example like 103. This means, \"10,",
+          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/",
+          "publishedOn": "2023-02-14T17:54:02.000Z",
+          "wordCount": 1256,
+          "title": "Exponent in Python – Power Function and Exponents Using a Loop",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/21.-exponents.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/",
+          "author": "Abdulwahab Ashimi",
+          "description": "Laravel's simplicity and MVC architecture make it an ideal PHP framework for building web applications.  In this article, I will show you how to set up Laravel on your Windows machine and configure it to run on a custom domain name. This guide is best suited for a beginner",
+          "link": "https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/",
+          "publishedOn": "2023-02-14T02:58:05.000Z",
+          "wordCount": 1177,
+          "title": "How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/http-full-course/",
+          "author": "Lane Wagner",
+          "description": "HTTP is the backbone of the modern internet. In this text-based course, you'll learn how the HTTP protocol works and how it's used in real-world web development. All the code samples for this course are in JavaScript, but the networking concepts you'll learn here apply generally to all coding languages.",
+          "link": "https://www.freecodecamp.org/news/http-full-course/",
+          "publishedOn": "2023-02-14T00:42:39.000Z",
+          "wordCount": 8765,
+          "title": "HTTP Networking in JavaScript –Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/CUAP2IZ.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/",
+          "author": "Manish Shivanandhan",
+          "description": "In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but",
+          "link": "https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/",
+          "publishedOn": "2023-02-13T23:44:49.000Z",
+          "wordCount": 2304,
+          "title": "OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/image-39-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/",
+          "author": "Max Rohde",
+          "description": "Amazon Cognito [https://aws.amazon.com/cognito/] is a cloud-based, serverless solution for identity and access management. It provides capabilities similar to  Auth0 [https://aws.amazon.com/cognito/] and Okta [https://aws.amazon.com/cognito/].  Cognito is part of the AWS suite of services so you can easily incorporate it if you are already using AWS in other parts of",
+          "link": "https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/",
+          "publishedOn": "2023-02-13T22:06:41.000Z",
+          "wordCount": 4061,
+          "title": "How to Use Cognito for Web Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Cognito-Title-Picture.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/asynchronism-in-javascript/",
           "author": "Germán Cocca",
           "description": "Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the",
