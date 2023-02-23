@@ -104,16 +104,6 @@
           "wordCount": 1689,
           "title": "Animating CSS Grid (How To + Examples)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376528"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376610",
-          "author": "Adam Rackis",
-          "description": "SvelteKit is the latest of what I’d call next-gen application frameworks. It, of course, scaffolds an application for you, with the file-based routing, deployment, and server-side rendering that Next has done forever. But SvelteKit also supports nested layouts, server mutations …\nGetting Started With SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/getting-started-with-sveltekit/",
-          "publishedOn": "2023-01-23T13:48:43.000Z",
-          "wordCount": 3401,
-          "title": "Getting Started With SvelteKit",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376610"
         }
       ]
     },
@@ -122,6 +112,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/02/meet-smashingconf-antwerp/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Brand new conference on design & UX, for designers and UI engineers who love the web. On design systems, usability, product design and complex UIs. That’s SmashingConf Antwerp, taking place in magical Bourla on October 9–11, 2023.",
+          "link": "https://smashingmagazine.com/2023/02/meet-smashingconf-antwerp/",
+          "publishedOn": "2023-02-22T10:30:00.000Z",
+          "wordCount": 3372,
+          "title": "Chocolate, Waffles And Fries: Meet SmashingConf Antwerp 2023 🇧🇪",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/meet-smashingconf-antwerp/smashingconf-antwerp-banner-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/meet-smashingconf-antwerp/smashingconf-antwerp-banner-opt.png"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/internationalization-i18n-right-remix-headless-cms-storyblok/",
           "author": "hello@smashingmagazine.com (Facundo Giuliani & Arisa Fukuzaki)",
@@ -436,36 +441,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/product-reviews-ratings-ux/sharing-image-product-reviews-ratings-ux.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/copying-designs-doesnt-work/",
-          "author": "hello@smashingmagazine.com (Peter Ramsey)",
-          "description": "Striking the right balance between inspiration and innovation might be hard. Let’s explore how to effectively get inspiration from others without losing that magic spark, including some do’s and don’ts along the way.",
-          "link": "https://smashingmagazine.com/2023/01/copying-designs-doesnt-work/",
-          "publishedOn": "2023-01-24T11:00:00.000Z",
-          "wordCount": 3949,
-          "title": "Copying Designs Doesn’t Work, And Here’s Why",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/copying-designs-doesnt-work/copying-designs-doesnt-work.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/copying-designs-doesnt-work/copying-designs-doesnt-work.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/smashing-podcast-episode-55/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we ask whether technology is making us redundant; will we all soon be replaced with AI? Vitaly Friedman talks to Tejas Kumar to find out.",
-          "link": "https://smashingmagazine.com/2023/01/smashing-podcast-episode-55/",
-          "publishedOn": "2023-01-24T08:00:00.000Z",
-          "wordCount": 11124,
-          "title": "Smashing Podcast Episode 55 With Tejas Kumar: Is Technology Making Us Redundant?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-55/smashing-podcast-episode-55.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-55/smashing-podcast-episode-55.png"
         }
       ]
     },
@@ -474,6 +449,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/",
+          "author": "Kingsley Ubah",
+          "description": "Recently, I came across a tutorial about how to create a 3D tilting card effect (with mouse tracking functionality) on Kevin Powell's YouTube channel [https://www.youtube.com/@KevinPowell]. Kevin used HTML, CSS, and JavaScript to create the markup, style the card, and implement the mouse tracking functionality, respectively. In this tutorial, we'll take",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/",
+          "publishedOn": "2023-02-22T16:35:15.000Z",
+          "wordCount": 2016,
+          "title": "How to Create a 3D Tilting Card Effect in React Native",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Untitled-design--14--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/remote-branches-in-git/",
+          "author": "Dionysia Lemonaki",
+          "description": "Git is a free and open-source tool. Specifically, it is the most popular version control system used in software development today. Git allows you to keep track of and maintain different versions of a coding project. With Git, developers and technical teams can collaborate and work together on a project.",
+          "link": "https://www.freecodecamp.org/news/remote-branches-in-git/",
+          "publishedOn": "2023-02-22T16:22:30.000Z",
+          "wordCount": 1437,
+          "title": "What is a Remote Branch in Git? How to Check out Remote Branches from GitHub",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-antonio-borriello-1297611.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "In mathematics, there are certain operations that are considered to be mathematically undefined operations.  Some examples of these undefined operations are:  * The square root of a negative number (√-2).   * A divisor with a value of zero (20/0).  The \"ValueError: math domain error\" error",
+          "link": "https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/",
+          "publishedOn": "2023-02-22T16:11:13.000Z",
+          "wordCount": 1307,
+          "title": "ValueError: math domain error [Solved Python Error]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/python-math-domain-error.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/",
+          "author": "Kolade Chris",
+          "description": "The Open-Closed principle (OCP) is one the 5 SOLID design principles. It was popularized by the American computer scientist and instructor, Robert C. Martin (aka Uncle Bob) in a paper he published in 2000. The other 4 SOLID design principles are:  * Single Responsibility Principle (SRP)  * Liskov",
+          "link": "https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/",
+          "publishedOn": "2023-02-22T15:50:42.000Z",
+          "wordCount": 1757,
+          "title": "Open-Closed Principle – SOLID Architecture Concept Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/chests-34153_1280.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-build-your-own-open-source-project/",
+          "author": "Prakhar Tiwari",
+          "description": "After starting to learn about Open Source and making some good contributions during my first Hacktoberfest, I was moving ahead in my OSS journey.  I wanted to have a big project of my own to which others could contribute. Fortunately, I had an idea for a project, and decided",
+          "link": "https://www.freecodecamp.org/news/why-build-your-own-open-source-project/",
+          "publishedOn": "2023-02-22T15:41:31.000Z",
+          "wordCount": 2783,
+          "title": "Why You Should Build Your Own Open-Source Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/My-experience-as-an-Open-Source-Project-Maintainer-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-remove-key-from-dictionary/",
+          "author": "Shittu Olumide",
+          "description": "Dictionaries are a useful data type in Python for storing data in a key-value format. And there are times when you might need to remove a particular key-value pair from a dictionary.  You'll learn some dictionary basics, as well as how to delete keys, in this tutorial. How to",
+          "link": "https://www.freecodecamp.org/news/python-remove-key-from-dictionary/",
+          "publishedOn": "2023-02-22T15:36:57.000Z",
+          "wordCount": 1319,
+          "title": "Python Remove Key from Dictionary – How to Delete Keys from a Dict",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Python-Remove-Key-from-Dictionary---How-to-Delete-Keys-from-a-Dict-by-Shittu-Olumide-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/data-driven-reality/",
           "author": "David Clinton",
@@ -1613,66 +1648,6 @@
           "wordCount": 3047,
           "title": "Digital Connectivity – How We Connect to the Internet and IoT Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-andrea-piacquadio-935743.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-does-a-vpn-work/",
-          "author": "Tejan Singh",
-          "description": "Do you worry about online security while using public Wi-Fi? Or has someone told you that you might get hacked when using an insecure connection and someone will steal all your details? Well, you might have also heard that you should use a VPN to protect your online privacy. But",
-          "link": "https://www.freecodecamp.org/news/how-does-a-vpn-work/",
-          "publishedOn": "2023-01-24T00:08:44.000Z",
-          "wordCount": 2750,
-          "title": "How Does a VPN Work? Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/privecstasy-CXlqHmQy3MY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-wireshark-computer-networking/",
-          "author": "Omer Rosenbaum",
-          "description": "In this post, you will learn about the single most important and useful tool in Computer Networks – Wireshark. This post relies on basic knowledge of computer networks. Be sure to check my  previous post about the five layers model [/news/the-five-layers-model-explained/] if you need a refresher. What is Wireshark?",
-          "link": "https://www.freecodecamp.org/news/learn-wireshark-computer-networking/",
-          "publishedOn": "2023-01-23T23:35:33.000Z",
-          "wordCount": 2757,
-          "title": "Learn Wireshark – Computer Networking Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Computer-Networks-Ethernet--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
-          "author": "Beau Carnes",
-          "description": "College Algebra is an important course for a wide variety of professions and University programs. It is especially important for computer science students. We just published a full and comprehensive college Algebra course on the freeCodeCamp.org YouTube channel. This course is designed as a full one-semester college course. This course",
-          "link": "https://www.freecodecamp.org/news/college-algebra-course-with-python-code/",
-          "publishedOn": "2023-01-23T17:00:26.000Z",
-          "wordCount": 1502,
-          "title": "Free College Algebra Course (with Python Code!)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/algebra.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
-          "author": "Kunal Nalawade",
-          "description": "When you're building a website and coding all the cool features you had planned, you'll want to test if everything works as expected. Now, you can’t do that just by going through the website yourself – you need to check if each unit of your code is working as you",
-          "link": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
-          "publishedOn": "2023-01-23T15:35:25.000Z",
-          "wordCount": 3673,
-          "title": "How to Write Unit Tests in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/unit-testing-in-react-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-sim/",
-          "author": "Jacob Stopak",
-          "description": "Git is an essential tool for developers to learn in order to effectively collaborate on source code. But certain Git concepts and commands are notoriously difficult for devs to learn. Not only that, but Git commands often have nuances that lead to varying results on the state of your local",
-          "link": "https://www.freecodecamp.org/news/git-sim/",
-          "publishedOn": "2023-01-23T14:57:06.000Z",
-          "wordCount": 2728,
-          "title": "How to Visualize Confusing Git Commands with Git-Sim",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/git-sim-merge_01-05-23_09-44-46-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-pseudo-classes-css/",
-          "author": "Deborah Kurata",
-          "description": "To make sense of CSS pseudo-classes, we need to understand state. In this context, the word state means a situation or condition that something is in at a particular point in time. Take the state of a stoplight, for example. At any point in time it has one of three",
-          "link": "https://www.freecodecamp.org/news/what-are-pseudo-classes-css/",
-          "publishedOn": "2023-01-23T14:00:00.000Z",
-          "wordCount": 1449,
-          "title": "What Are CSS Pseudo-Classes?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pseudo-classes-thumbnail.png"
         }
       ]
     }
