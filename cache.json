@@ -113,6 +113,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/02/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/",
+          "author": "hello@smashingmagazine.com (Manuel Schröder)",
+          "description": "Let’s see how to achieve phenomenal web performance and great developer experience with Astro and a headless CMS, resulting in the best possible experience for users, developers and content creators alike.",
+          "link": "https://smashingmagazine.com/2023/02/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/",
+          "publishedOn": "2023-02-22T17:30:00.000Z",
+          "wordCount": 5216,
+          "title": "Building Future-Proof High-Performance Websites With Astro Islands And Headless CMS",
+          "enclosure": {
+            "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/meta-building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/meta-building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/02/meet-smashingconf-antwerp/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Brand new conference on design & UX, for designers and UI engineers who love the web. On design systems, usability, product design and complex UIs. That’s SmashingConf Antwerp, taking place in magical Bourla on October 9–11, 2023.",
@@ -426,21 +441,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/better-roi-digital-products-continous-research/better-roi-digital-products-continous-research.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/product-reviews-ratings-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How do we design effective reviews and ratings? With a distribution chart, decimal scores, tags, recommendation score and unedited product photos.",
-          "link": "https://smashingmagazine.com/2023/01/product-reviews-ratings-ux/",
-          "publishedOn": "2023-01-25T12:30:00.000Z",
-          "wordCount": 6569,
-          "title": "Product Reviews And Ratings UX: A Designer’s Guide",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/product-reviews-ratings-ux/sharing-image-product-reviews-ratings-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/product-reviews-ratings-ux/sharing-image-product-reviews-ratings-ux.jpg"
         }
       ]
     },
@@ -449,6 +449,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/why-you-should-use-log-management-software/",
+          "author": "Andrej Kovacevic",
+          "description": "Logging, safeguarding, and utilizing data is a massive part of any software development operation. And chronological records of events have become an invaluable tool for determining future decisions. Today, we're fortunate enough to have the concept of system logs, which represents a collection of files. These files have data crucial",
+          "link": "https://www.freecodecamp.org/news/why-you-should-use-log-management-software/",
+          "publishedOn": "2023-02-23T21:24:21.000Z",
+          "wordCount": 1912,
+          "title": "Why Your Company Should Be Using Log Management Software",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/log-management-apple-mac-tech.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-virtual-inheritance/",
+          "author": "Abhilekh Gautam",
+          "description": "C++ supports the concept of inheritance – that is, a class can inherit properties from other classes.  But sometimes you might need to use what is commonly referred as virtual inheritance.  In this article we will discuss when you might need to use virtual inheritance and how to",
+          "link": "https://www.freecodecamp.org/news/what-is-virtual-inheritance/",
+          "publishedOn": "2023-02-23T21:09:43.000Z",
+          "wordCount": 1348,
+          "title": "What is Virtual Inheritance?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ruiyang-zhang-3717242.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
+          "author": "Jessica Rose",
+          "description": "Over the past 24 months Ramón Huidobro [https://twitter.com/hola_soy_milk] and I have been running free programming bootcamps teaching web development and JavaScript skills.  We've been stunned by the demand for these courses, which averaged 8,000 learners per cohort and let us reach 35,000 unique learners in total.  We've also",
+          "link": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
+          "publishedOn": "2023-02-23T15:57:06.000Z",
+          "wordCount": 1087,
+          "title": "The Bad Website Club (and more free Bootcamps)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-monoar-rahman-114907.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/",
+          "author": "Velda Kiara",
+          "description": "When I was a young girl, we used to have sports competitions like running a hundred meters, relays, swimming, and basketball games.  My strengths were swimming and basketball. I went home with many gifts or, as my school's game master said, a token of appreciation. A token is a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/",
+          "publishedOn": "2023-02-23T15:53:00.000Z",
+          "wordCount": 2714,
+          "title": "How to Implement Tokenization using JWT and Django Rest Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Purple-Colorful-Tech-22-YouTube-Channel-Art.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-linux-part-2/",
+          "author": "Beau Carnes",
+          "description": "In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical User Interfaces and powerful command line tool ecosystem. This is",
+          "link": "https://www.freecodecamp.org/news/introduction-to-linux-part-2/",
+          "publishedOn": "2023-02-23T13:49:38.000Z",
+          "wordCount": 3588,
+          "title": "Introduction to Linux, Part 2",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-linux/",
+          "author": "Beau Carnes",
+          "description": "If you're new to Linux, this course is for you. In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical",
+          "link": "https://www.freecodecamp.org/news/introduction-to-linux/",
+          "publishedOn": "2023-02-23T13:49:13.000Z",
+          "wordCount": 51159,
+          "title": "Introduction to Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nested-functions-in-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "Data analysis is an extremely valuable skill to have. But to make the most of your analysis, it's invaluable to get your data neat and orderly.  In this article, I'll show you how to combine several functions together to better organize your data. gif of toys talking to each",
+          "link": "https://www.freecodecamp.org/news/nested-functions-in-google-sheets/",
+          "publishedOn": "2023-02-23T01:49:44.000Z",
+          "wordCount": 1582,
+          "title": "How to Use Nested Functions in Google Sheets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/nesting-functions-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/",
           "author": "Kingsley Ubah",
@@ -1608,46 +1678,6 @@
           "wordCount": 1860,
           "title": "KNN Algorithm – K-Nearest Neighbors Classifiers and Model Example",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/tim-mossholder-8R-mXppeakM-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-open-policy-agent-and-apache-apisix-opa-plugin/",
-          "author": "Njoku Samson Ebere",
-          "description": "One common thing in every organisation is policy [https://www.openpolicyagent.org/docs/latest/philosophy/#policy]. Policies define how an organisation operates.  They are essential to the long-term success of an organisation. They preserve significant knowledge about how to comply with matters such as legal requirements, work within technical constraints, and avoid repeating mistakes.  Softwares",
-          "link": "https://www.freecodecamp.org/news/how-to-use-open-policy-agent-and-apache-apisix-opa-plugin/",
-          "publishedOn": "2023-01-24T19:28:56.000Z",
-          "wordCount": 2838,
-          "title": "How to Create Better Policy with Open Policy Agent and the Apache APISIX OPA Plugin",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-pixabay-357514.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-sort-a-list-in-java/",
-          "author": "Edeh Israel Chidera",
-          "description": "Sometimes data needs to be arranged in a specific order so it's easier to understand, search, and process.  We call this process sorting. Sorting refers to arranging data in a specific order using certain criteria. You can sort different types of data, including numbers, strings, and objects. Java provides",
-          "link": "https://www.freecodecamp.org/news/how-to-sort-a-list-in-java/",
-          "publishedOn": "2023-01-24T19:22:58.000Z",
-          "wordCount": 1707,
-          "title": "How to Sort a List in Java – Java List Sorting Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/kelly-sikkema-ABkfxGoB-RE-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-smart-goals-you-can-achieve/",
-          "author": "Shruti Kapoor",
-          "description": "As we start the new year, it is a good time to reflect back on how the past 12 months went, and gear up for the next 12.  I like to spend a few hours in the beginning of the year doing a reflection of the past year, and",
-          "link": "https://www.freecodecamp.org/news/how-to-set-smart-goals-you-can-achieve/",
-          "publishedOn": "2023-01-24T17:45:02.000Z",
-          "wordCount": 3541,
-          "title": "How to Set Smart Goals You Can Actually Achieve",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-skitterphoto-15812.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/digital-connectivity-internet-and-iot-explained/",
-          "author": "David Clinton",
-          "description": "Telephones changed the way we all talked to each other and went about our work (well, the way our great-grandparents did, at any rate). Information could now be communicated instantly, rather than being sent over slow, overland routes.  But that's hardly news to anyone these days. The modern network",
-          "link": "https://www.freecodecamp.org/news/digital-connectivity-internet-and-iot-explained/",
-          "publishedOn": "2023-01-24T17:08:41.000Z",
-          "wordCount": 3047,
-          "title": "Digital Connectivity – How We Connect to the Internet and IoT Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-andrea-piacquadio-935743.jpg"
         }
       ]
     }
