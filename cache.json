@@ -94,16 +94,6 @@
           "wordCount": 1524,
           "title": "AR, VR, and a Model for 3D in HTML",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376674"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376528",
-          "author": "Daniel Schwarz",
-          "description": "I’m pleased to shine a light on the fact that the CSS grid-template-rows and grid-template-columns properties are now animatable in all major web browsers! Well, CSS Grid has technically supported animations for a long time, as it’s baked right …\nAnimating CSS Grid (How To + Examples) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/animating-css-grid-how-to-examples/",
-          "publishedOn": "2023-01-25T16:05:04.000Z",
-          "wordCount": 1689,
-          "title": "Animating CSS Grid (How To + Examples)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376528"
         }
       ]
     },
@@ -426,21 +416,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-contrast-custom-properties/meta-image-high-contrast-design-system-css-custom-properties.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/better-roi-digital-products-continous-research/",
-          "author": "hello@smashingmagazine.com (Suzanne Scacca)",
-          "description": "57% of product professionals say that product research has a positive effect on customer satisfaction. 42% agree that it affects profitability. Imagine how much more successful your product would be if you did research continuously?",
-          "link": "https://smashingmagazine.com/2023/01/better-roi-digital-products-continous-research/",
-          "publishedOn": "2023-01-26T10:00:00.000Z",
-          "wordCount": 5206,
-          "title": "Better ROI For Your Digital Products: Why Continuous Research Is Key",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/better-roi-digital-products-continous-research/better-roi-digital-products-continous-research.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/better-roi-digital-products-continous-research/better-roi-digital-products-continous-research.jpg"
         }
       ]
     },
@@ -449,6 +424,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-lambda-functions/",
+          "author": "Ashutosh Krishna",
+          "description": "Lambda functions, also known as anonymous functions, are small, one-time-use functions in Python.  You can define them using the lambda keyword followed by the function's inputs, a colon, and the function's expression. The output of a lambda function is returned as the result of the expression, rather than a",
+          "link": "https://www.freecodecamp.org/news/python-lambda-functions/",
+          "publishedOn": "2023-02-24T17:25:28.000Z",
+          "wordCount": 3031,
+          "title": "Python Lambda Functions – How to Use Anonymous Functions with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/lambda-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-sort-lists-and-reverse-arrays/",
+          "author": "Shittu Olumide",
+          "description": "Arrays and lists in Python are very interesting data structures.  Both lists and arrays consist of ordered, mutable items – but arrays contain items of the same type, while lists can store multiple types of items.  In this article, we will learn how to reverse an array using",
+          "link": "https://www.freecodecamp.org/news/python-sort-lists-and-reverse-arrays/",
+          "publishedOn": "2023-02-24T17:24:10.000Z",
+          "wordCount": 1691,
+          "title": "Python Sorted List – And How to Sort or Reverse an Array in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Python-Sorted-List---And-How-to-Sort-or-Reverse-an-Array-in-Python--by-Shittu-Olumide-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/",
+          "author": "Edeh Israel Chidera",
+          "description": "There are various situations where you need to convert a string to a number. Whether you are working with user input or data from an external source, converting a string to a number is a common task for developers. This article will explore some of the most common methods to",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/",
+          "publishedOn": "2023-02-23T23:22:15.000Z",
+          "wordCount": 1258,
+          "title": "How to Convert a String to an Integer in C# – with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/",
+          "author": "Kolade Chris",
+          "description": "If you’re working with a spreadsheet that contains sensitive or private data, then some rows and columns might be hidden. You might also need to hide unimportant information or data you don’t want others to see in your own spreadsheet. In these cases, you might need to unhide those hidden",
+          "link": "https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/",
+          "publishedOn": "2023-02-23T22:45:03.000Z",
+          "wordCount": 1285,
+          "title": "How to Unhide a Row or Column in Excel – Or Unhide All Rows and Columns",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/unhideExcel.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/why-you-should-use-log-management-software/",
           "author": "Andrej Kovacevic",
@@ -1608,76 +1623,6 @@
           "wordCount": 1320,
           "title": "How to Use Polymorphic Associations in Ruby on Rails",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Add-a-subheading--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
-          "author": "Dhawal Shah",
-          "description": "The 8 Ivy League schools [https://en.wikipedia.org/wiki/Ivy_League] are among the most prestigious universities in the world. They consist of Harvard, Yale, Princeton, Columbia, Cornell, Dartmouth, Brown, and the University of Pennsylvania. In 2023, all 8 Ivy League schools are ranked in the top-20 of the U.S. News & World Report national",
-          "link": "https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/",
-          "publishedOn": "2023-01-26T03:51:00.000Z",
-          "wordCount": 10304,
-          "title": "Here are 850+ Ivy League Courses You Can Take Right Now for Free",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/01/collection-ivy-league-moocs-social-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
-          "author": "Faith Oyama",
-          "description": "Pandas is a fast and approachable open-source library in Python built for analyzing and manipulating data.  This library has a lot of functions and methods to expedite the data analysis process. One of my favorites is the groupby method, mainly because it lets you get quick insights into your",
-          "link": "https://www.freecodecamp.org/news/pandas-dataframe-groupby-method/",
-          "publishedOn": "2023-01-25T21:32:38.000Z",
-          "wordCount": 1656,
-          "title": "How to Use the Pandas DataFrame Groupby Method",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Pandas-Groupby---1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-comparison-operators-how-to-compare-objects-for-equality-in-js/",
-          "author": "Dionysia Lemonaki",
-          "description": "While coding in JavaScript, there may be times when you need to compare objects for equality. The thing is, comparing objects in JavaScript is not that straightforward. In this article, you learn three ways to compare objects for equality in JavaScript. Let's get into it! What's the Difference Between Comparing",
-          "link": "https://www.freecodecamp.org/news/javascript-comparison-operators-how-to-compare-objects-for-equality-in-js/",
-          "publishedOn": "2023-01-25T18:47:40.000Z",
-          "wordCount": 1697,
-          "title": "JavaScript Comparison Operators – How to Compare Objects for Equality in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-christina-morillo-1181675.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/",
-          "author": "Shane Duggan",
-          "description": "Imagine if you had an amazing product landing page, with customers lined up to make a purchase. But your manual JavaScript payment processing with server-side scripts, Authorize.net, or 2Checkout failed you. Frustrated by being unable to make the purchase, your customer leaves to go to your competitors. I imagine that",
-          "link": "https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/",
-          "publishedOn": "2023-01-25T17:35:10.000Z",
-          "wordCount": 3867,
-          "title": "How to Integrate PayPal into Your HTML, CSS, and JS Product Pages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/PayPalHTMLCSSJSCoverImage.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mysql-date-functions/",
-          "author": "Zubair Idris Aweda",
-          "description": "SQL is a programming language we use to interact with relational databases. SQL databases contain tables, which contain rows of data. These tables can contain a wide range of data types. In this article, you'll learn how MySQL functions help make date management very easy.  These functions help perform",
-          "link": "https://www.freecodecamp.org/news/mysql-date-functions/",
-          "publishedOn": "2023-01-25T17:15:13.000Z",
-          "wordCount": 1793,
-          "title": "MySQL Date Functions – Explained with Example Queries",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/image-162-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/",
-          "author": "Beau Carnes",
-          "description": "Coding a Reddit clone is a great project to help you learn a bunch of different programming skills and technologies. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a Reddit clone using React, Firebase, Next.js, Chakra UI, and TypeScript. Shadee Merhi",
-          "link": "https://www.freecodecamp.org/news/code-a-reddit-clone-with-react-and-firebase/",
-          "publishedOn": "2023-01-25T15:18:14.000Z",
-          "wordCount": 936,
-          "title": "Code a Reddit Clone with React and Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/redditclone.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The K-Nearest Neighbors (K-NN) algorithm is a popular Machine Learning algorithm used mostly for solving classification problems.  In this article, you'll learn how the K-NN algorithm works with practical examples. We'll use diagrams, as well sample data to show how you can classify data using the K-NN algorithm. We'll",
-          "link": "https://www.freecodecamp.org/news/k-nearest-neighbors-algorithm-classifiers-and-model-example/",
-          "publishedOn": "2023-01-25T15:17:54.000Z",
-          "wordCount": 1860,
-          "title": "KNN Algorithm – K-Nearest Neighbors Classifiers and Model Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/tim-mossholder-8R-mXppeakM-unsplash.jpg"
         }
       ]
     }
