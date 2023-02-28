@@ -93,6 +93,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
+          "author": "hello@smashingmagazine.com (Sandrina Pereira)",
+          "description": "Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.",
+          "link": "https://smashingmagazine.com/2023/02/guide-accessible-form-validation/",
+          "publishedOn": "2023-02-27T14:00:00.000Z",
+          "wordCount": 6750,
+          "title": "A Guide To Accessible Form Validation",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/02/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/",
           "author": "hello@smashingmagazine.com (Manuel Schröder)",
           "description": "Let’s see how to achieve phenomenal web performance and great developer experience with Astro and a headless CMS, resulting in the best possible experience for users, developers and content creators alike.",
@@ -384,6 +399,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/oss-security-best-practices/",
+          "author": "Sonya Moisset",
+          "description": "Christine Peterson coined the term \"Open Source software\" or OSS in 1998. It refers to software that is freely available for anyone to use, modify, and distribute.  The source code of OSS is openly available and anyone can modify it who has the necessary technical skills. This allows for",
+          "link": "https://www.freecodecamp.org/news/oss-security-best-practices/",
+          "publishedOn": "2023-02-27T22:19:21.000Z",
+          "wordCount": 10096,
+          "title": "Open Source Software Security Handbook – Best Practices for Securing Your Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/2021-annoucment-PR2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/",
+          "author": "Dionysia Lemonaki",
+          "description": "The ternary operator is a helpful feature in JavaScript that allows you to write concise and readable expressions that perform conditional operations on only one line. In this article, you will learn why you may want to use the ternary operator, and you will see an example of how to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/",
+          "publishedOn": "2023-02-27T18:40:47.000Z",
+          "wordCount": 1578,
+          "title": "How to Use the Ternary Operator in JavaScript – JS Conditional Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ken-tomita-389818.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/",
+          "author": "Vikram Aruchamy",
+          "description": "Base64 strings represent binary objects in textual format. They are designed to transmit binary data between channels that only support a textual format. Sometimes, you might receive PDF files from various services as a Base64 string, and you may need to convert them to a PDF file on the client",
+          "link": "https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/",
+          "publishedOn": "2023-02-27T18:20:44.000Z",
+          "wordCount": 1407,
+          "title": "How to Save a Base64 String as a PDF File on the Client Side in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/How-to-check-if-a-String-is-URL-in-Javascript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/",
+          "author": "Ashutosh Krishna",
+          "description": "In today's digital age, having an online presence is crucial for businesses of all sizes.  Whether you're an established retailer or an aspiring entrepreneur, an ecommerce site can provide you with a platform to reach a global audience and sell your products or services around the clock. Building an",
+          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/",
+          "publishedOn": "2023-02-27T15:36:21.000Z",
+          "wordCount": 2363,
+          "title": "How to Build Your Own E-Commerce Site with Medusa",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/medusa.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/",
+          "author": "Maybell Obadoni",
+          "description": "The process of handling errors is known as debugging. It involves identifying and removing errors from your program.  If you want to be an efficient programmer, you'll want to cultivate your ability to debug code. It's one of the main skills you'll need as a software developer or programmer.",
+          "link": "https://www.freecodecamp.org/news/how-to-debug-errors-in-your-source-code/",
+          "publishedOn": "2023-02-24T23:37:18.000Z",
+          "wordCount": 2722,
+          "title": "How to Debug Errors in Your Source Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Errors.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-lambda-functions/",
           "author": "Ashutosh Krishna",
