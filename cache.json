@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=376748",
+          "author": "Šime Vidas",
+          "description": "I was reading “Creative List Styling” on Google’s web.dev blog and noticed something odd in one of the code examples in the ::marker section of the article. The built-in list markers are bullets, ordinal numbers, and letters. The ::marker pseudo-element …\nEverything You Need to Know About the Gap After the List Marker originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/",
+          "publishedOn": "2023-03-02T18:20:03.000Z",
+          "wordCount": 2504,
+          "title": "Everything You Need to Know About the Gap After the List Marker",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376748"
+        },
+        {
           "id": "https://css-tricks.com/?p=376991",
           "author": "Frederik Dohr",
           "description": "We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.\nInspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …\nAn Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -74,16 +84,6 @@
           "wordCount": 3105,
           "title": "A Fancy Hover Effect For Your Avatar",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376676"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376634",
-          "author": "Adam Rackis",
-          "description": "My previous post was a broad overview of SvelteKit where we saw what a great tool it is for web development. This post will fork off what we did there and dive into every developer’s favorite topic: caching. So, …\nCaching Data in SvelteKit originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/caching-data-in-sveltekit/",
-          "publishedOn": "2023-02-01T15:04:33.000Z",
-          "wordCount": 3891,
-          "title": "Caching Data in SvelteKit",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376634"
         }
       ]
     },
@@ -92,6 +92,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/",
+          "author": "hello@smashingmagazine.com (Lisi Linhart)",
+          "description": "In this article, Elisabeth Wieser-Linhart explores its potential benefits and drawbacks and shares what considerations and steps were involved in the process of migrating the front-end interface of Storyblok’s headless content management system.",
+          "link": "https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/",
+          "publishedOn": "2023-03-02T09:00:00.000Z",
+          "wordCount": 6310,
+          "title": "Moving From Vue 1 To Vue 2 To Vue 3: A Case Study Of Migrating A Headless CMS System",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/vue-case-study-migrating-headless-cms-system/meta-vue-case-study-migrating-headless-cms-system.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/vue-case-study-migrating-headless-cms-system/meta-vue-case-study-migrating-headless-cms-system.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -361,36 +376,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/wordpress-site-hosted-by-amazon-lightsail/host-wordpress-site-amazon-lightsail.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "The new App Directory architecture has been the main character of the recent Next.js release, which keeps bringing up many questions. In this article, Atila Fassina explores the advantages and pitfalls of this new strategy and reflects on whether you should use it in production now or not.",
-          "link": "https://smashingmagazine.com/2023/02/understanding-app-directory-architecture-next-js/",
-          "publishedOn": "2023-02-01T11:00:00.000Z",
-          "wordCount": 5407,
-          "title": "Understanding App Directory Architecture In Next.js",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/understanding-app-directory-architecture-next-js/understanding-app-directory-architecture-next-js.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/understanding-app-directory-architecture-next-js/understanding-app-directory-architecture-next-js.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for February 2023.",
-          "link": "https://smashingmagazine.com/2023/01/desktop-wallpaper-calendars-february-2023/",
-          "publishedOn": "2023-01-31T16:00:00.000Z",
-          "wordCount": 5014,
-          "title": "The Magic Of February (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2023/feb-23-plants-preview-opt.png"
         }
       ]
     },
@@ -399,6 +384,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/git-branching-commands-explained/",
+          "author": "Deborah Kurata",
+          "description": "Knowing the right Git command for the task at hand can often be challenging. Especially when you're adding complexity to your task, like with Git branching. Git is a powerful version control system that enables you to track changes to your codebase. One of the key features of Git is",
+          "link": "https://www.freecodecamp.org/news/git-branching-commands-explained/",
+          "publishedOn": "2023-03-02T21:49:02.000Z",
+          "wordCount": 5083,
+          "title": "Git Branching Commands Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/git-commands-thumbnail.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/",
+          "author": "Zaira Hira",
+          "description": "In most network configurations, the router DHCP server assigns the IP address dynamically by default. If you want to ensure that your system IP stays the same every time, you can force it to use a static IP.  That's what we will learn in this article. We will explore",
+          "link": "https://www.freecodecamp.org/news/setting-a-static-ip-in-ubuntu-linux-ip-address-tutorial/",
+          "publishedOn": "2023-03-02T21:24:59.000Z",
+          "wordCount": 1596,
+          "title": "Setting a Static IP in Ubuntu – Linux IP Address Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/setting-static-ip-ubuntu.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-bold-how-to-bold-text-in-html-with-font-weight/",
+          "author": "Joel Olawanle",
+          "description": "CSS is a powerful tool for web developers. It allows you to style and format HTML content in various ways. One common formatting technique is to make text bold using the font-weight  property. Bold text can add emphasis to key information, create visual contrast, and improve the readability of",
+          "link": "https://www.freecodecamp.org/news/css-bold-how-to-bold-text-in-html-with-font-weight/",
+          "publishedOn": "2023-03-02T17:46:56.000Z",
+          "wordCount": 1384,
+          "title": "CSS Bold – How to Bold Text in HTML with Font Weight",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--4-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-d-mean-in-regex/",
+          "author": "Kolade Chris",
+          "description": "Regular expressions, otherwise known as RegEx or RegExp for short, are a defined pattern for matching a string or specific part(s) of a string. This string includes any character out there, be it letters, symbols, or digits. In this article, we’ll look at the RegEx character \\d, which you can",
+          "link": "https://www.freecodecamp.org/news/what-does-d-mean-in-regex/",
+          "publishedOn": "2023-03-02T13:42:55.000Z",
+          "wordCount": 1131,
+          "title": "Regular Expression Metacharacters - What Does \\d Mean in RegEx?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/public-apis-for-developers/",
+          "author": "Ijeoma Igboagu",
+          "description": "A public API, also known as an external API, is a type of application programming interface that allows developers to access specific features and data of a software application or service.  It is \"public\" in the sense that it is made available to third-party developers and is not limited",
+          "link": "https://www.freecodecamp.org/news/public-apis-for-developers/",
+          "publishedOn": "2023-03-02T00:28:23.000Z",
+          "wordCount": 2974,
+          "title": "Public APIs Developers Can Use in Their Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/api-cover.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/html-for-beginners/",
           "author": "Patrick Cyubahiro",
@@ -1638,76 +1673,6 @@
           "wordCount": 1614,
           "title": "How to Serialize Your Data in Kotlin and Jetpack Compose",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/fineas-anton-cnoMG2034k8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/",
-          "author": "Kingsley Ubah",
-          "description": "Are React.js and React Native the same? If you're new to the world of web and mobile development, you might be wondering the same thing.  As a newbie, it's easy to assume that React.js are React Native are the same. After all, they both have \"React\" as part of",
-          "link": "https://www.freecodecamp.org/news/react-js-vs-react-native-whats-the-difference/",
-          "publishedOn": "2023-02-01T00:41:21.000Z",
-          "wordCount": 1807,
-          "title": "React.js vs React Native – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-pixabay-209339.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
-          "author": "Germán Cocca",
-          "description": "Hey everyone! In this article we're going to talk about the THIS keyword in Javascript.  This used to be a concept that confused me a little bit, so I'll try to break it down for you so you can understand its uses and in what situations can it be",
-          "link": "https://www.freecodecamp.org/news/the-this-keyword-in-javascript/",
-          "publishedOn": "2023-01-31T23:40:14.000Z",
-          "wordCount": 1869,
-          "title": "How to Use the \"this\" Keyword in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/brad-_Js9c6w_FDk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
-          "author": "Dickson Boateng",
-          "description": "To understand what asynchronous programming means, think about multiple people working on a project simultaneously, each on a different task. In traditional (synchronous) programming, each person would have to wait for the person before them to finish their task before starting their own.  But with asynchronous programming, everyone can",
-          "link": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/",
-          "publishedOn": "2023-01-31T23:17:27.000Z",
-          "wordCount": 3925,
-          "title": "Asynchronous Programming in JavaScript – Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Asynchronous-programming.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
-          "author": "Kolade Chris",
-          "description": "The first time I heard about “Visual Studio”, I thought it was the same as “Visual Studio Code”. I don’t know why Microsoft decided to confuse everyone with the names of those two development tools. But that’s a story for another day. “Visual Studio” and “Visual Studio Code” are not",
-          "link": "https://www.freecodecamp.org/news/visual-studio-vs-visual-studio-code/",
-          "publishedOn": "2023-01-31T19:17:31.000Z",
-          "wordCount": 1676,
-          "title": "Visual Studio vs Visual Studio Code – What's The Difference Between These IDE Code Editors?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/VSvVSC.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
-          "author": "Swatej Patil",
-          "description": "In this tutorial we will learn how to create a simple pie and doughnut chart using the Chart.js library in an Angular application. What is Chart.js? Chart.js is a JavaScript library for building charts. It's designed to be intuitive and simple, but it's powerful enough to build complex visualizations.",
-          "link": "https://www.freecodecamp.org/news/how-to-make-pie-and-doughnut-charts-using-chartjs-in-angular/",
-          "publishedOn": "2023-01-31T17:03:23.000Z",
-          "wordCount": 1730,
-          "title": "Chart.js Tutorial – How to Make Pie and Doughnut Charts in Angular",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/piechart-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
-          "author": "Dillion Megida",
-          "description": "A list is a data structure in Python that contains multiple elements in a particular order. And sometimes you might need to get the size of a list. I'll show you how to do that in this article. How to Create a List in Python You can create lists in",
-          "link": "https://www.freecodecamp.org/news/python-length-of-list-how-to-find-the-size-of-a-list/",
-          "publishedOn": "2023-01-31T16:56:55.000Z",
-          "wordCount": 1163,
-          "title": "Python Length of List – How to Find the Size of a List",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/18.-length-of-list.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
-          "author": "Gaël Thomas",
-          "description": "Welcome to the world of web scraping! Have you ever needed data from a website but found it hard to access it in a structured format? This is where web scraping comes in. Using scripts, we can extract the data we need from a website for various purposes, such as",
-          "link": "https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/",
-          "publishedOn": "2023-01-31T15:26:55.000Z",
-          "wordCount": 3239,
-          "title": "Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/web-scraping-in-javascript-with-puppeteer.png"
         }
       ]
     }
