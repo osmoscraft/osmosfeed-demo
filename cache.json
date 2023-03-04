@@ -93,6 +93,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
+          "author": "hello@smashingmagazine.com (Nick Babich & Gleb Kuznetsov)",
+          "description": "In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.",
+          "link": "https://smashingmagazine.com/2023/03/ai-technology-transform-design/",
+          "publishedOn": "2023-03-03T11:00:00.000Z",
+          "wordCount": 5529,
+          "title": "How AI Technology Will Transform Design",
+          "enclosure": {
+            "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/",
           "author": "hello@smashingmagazine.com (Lisi Linhart)",
           "description": "In this article, Elisabeth Wieser-Linhart explores its potential benefits and drawbacks and shares what considerations and steps were involved in the process of migrating the front-end interface of Storyblok’s headless content management system.",
@@ -361,21 +376,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-podcasts/podcasts-ux-designers.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/host-wordpress-site-amazon-lightsail/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "Lightsail provides all the power we need to host our websites, as we are used to from AWS, but making it way easier than ever before. In this article, Leonardo Losoviz explores how to launch a WordPress site in Lightsail in a quick and easy way.",
-          "link": "https://smashingmagazine.com/2023/02/host-wordpress-site-amazon-lightsail/",
-          "publishedOn": "2023-02-02T09:00:00.000Z",
-          "wordCount": 4981,
-          "title": "How To Host A WordPress Site On Amazon Lightsail",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/wordpress-site-hosted-by-amazon-lightsail/host-wordpress-site-amazon-lightsail.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/wordpress-site-hosted-by-amazon-lightsail/host-wordpress-site-amazon-lightsail.jpg"
         }
       ]
     },
@@ -384,6 +384,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Python is a powerful and versatile programming language that offers a wide range of functionalities for developers.  One of the most essential features of Python is the ability to define and call functions.  A function is a block of code that performs a specific task. In Python, defining",
+          "link": "https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/",
+          "publishedOn": "2023-03-03T21:18:55.000Z",
+          "wordCount": 1261,
+          "title": "How to Define And Call Functions in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/CD.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d/",
+          "author": "Jane Sorensen",
+          "description": "Only a few of us come naturally to self-marketing. Most of us prefer making the thing and enjoy showing it off (at least a little!), but hope it’ll be appreciated on its own merits – or that someone else will champion it.  Deliberate marketing and sales makes people uncomfortable,",
+          "link": "https://www.freecodecamp.org/news/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d/",
+          "publishedOn": "2023-03-03T18:50:00.000Z",
+          "wordCount": 7532,
+          "title": "How to Market a New Project –Incorporate Design, Create a Landing Page, and Get Users",
+          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/1*RlD_EebvaZt--pxPDmc0rQ.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-strip-trailing-whitespace-in-python/",
+          "author": "Dionysia Lemonaki",
+          "description": "Python has three built-in methods for trimming leading and trailing whitespace and characters from strings: strip(), lstrip(), and rstrip(). In this article, I will explain how to remove trailing whitespace in Python using the rstrip() method. Let's get into it! How To Trim Whitespace From A String in Python To",
+          "link": "https://www.freecodecamp.org/news/how-to-strip-trailing-whitespace-in-python/",
+          "publishedOn": "2023-03-03T17:28:17.000Z",
+          "wordCount": 957,
+          "title": "Trim a String in Python – How to Strip Trailing Whitespace",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-christina-morillo-1181359.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-table-of-contents-component/",
+          "author": "Caleb Olojo",
+          "description": "When you visit documentation sites, you'll notice that many of them have a common component: the  component. The idea behind it is to give the reader a \"heads-up\" about the information they're trying to consume. This feature, in turn, helps the reader go directly to the section that",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-table-of-contents-component/",
+          "publishedOn": "2023-03-03T14:54:50.000Z",
+          "wordCount": 3122,
+          "title": "How to Build a Table of Contents Component for Your Blog",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/toc.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/",
+          "author": "Oluseye Jeremiah",
+          "description": "As a data analyst, you'll want to be as efficient and and effective as possible when working with databases.  SQL is one of the most widely used languages for managing and manipulating data stored in a relational database. In this article, we'll cover some SQL cheat codes that can",
+          "link": "https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/",
+          "publishedOn": "2023-03-03T14:28:39.000Z",
+          "wordCount": 1744,
+          "title": "SQL Tips to Help You Save Time and Write Simpler Queries",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/SQL-TIPS.JPG"
+        },
         {
           "id": "https://www.freecodecamp.org/news/git-branching-commands-explained/",
           "author": "Deborah Kurata",
@@ -1633,46 +1683,6 @@
           "wordCount": 1826,
           "title": "Python String to Datetime – How to Convert an Str to a Date Time with Strptime",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/pexels-marko-klaric-6408282.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/",
-          "author": "Aviator Ifeanyichukwu",
-          "description": "Apache Airflow is a tool that helps you manage and schedule data pipelines. According to the documentation [https://airflow.apache.org/], it lets you \"programmatically author, schedule, and monitor workflows.\"  Airflow is a crucial tool for data engineers and scientists. In this article, I'll show you how to install it on Windows",
-          "link": "https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/",
-          "publishedOn": "2023-02-02T00:18:32.000Z",
-          "wordCount": 1328,
-          "title": "How to Install Apache Airflow on Windows without Docker",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/post-image-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ai-assistants-for-productivity/",
-          "author": "Ijeoma Igboagu",
-          "description": "ChatGPT may be the talk of the town these days, but there are other AI assistants that can help you increase your productivity.  AI assistants are specialized artificial intelligence software programs designed to imitate human behavior and thinking. They are able to recognize objects, solve problems, and perform tasks",
-          "link": "https://www.freecodecamp.org/news/ai-assistants-for-productivity/",
-          "publishedOn": "2023-02-01T22:10:40.000Z",
-          "wordCount": 1856,
-          "title": "Al Assistants That Help Your Productivity (Besides ChatGPT)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-lj-2085831.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/",
-          "author": "Benjamin Semah",
-          "description": "NPM is the largest software registry on the internet. There are over a million packages in the NPM Library.  Developers publish packages on NPM to share their code with others. And organisations also use NPM to share code internally. In this article, you will learn how to create a",
-          "link": "https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/",
-          "publishedOn": "2023-02-01T21:36:23.000Z",
-          "wordCount": 2055,
-          "title": "How to Create and Publish an NPM Package – a Step-by-Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/npm-package-article-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/serializing-your-data-in-kotlin/",
-          "author": "Tomer Ben Rachel",
-          "description": "Serialization is the process of transforming data that's in one format into another format that can be stored.  If you have ever worked with a database or fetching data from a server, this should all be familiar to you. If not, you have come to the right place.",
-          "link": "https://www.freecodecamp.org/news/serializing-your-data-in-kotlin/",
-          "publishedOn": "2023-02-01T21:19:13.000Z",
-          "wordCount": 1614,
-          "title": "How to Serialize Your Data in Kotlin and Jetpack Compose",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/fineas-anton-cnoMG2034k8-unsplash.jpg"
         }
       ]
     }

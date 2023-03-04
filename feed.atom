@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-03T03:07:09.220Z</updated>
+    <updated>2023-03-04T01:08:50.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Define And Call Functions in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-define-and-call-functions-in-python/"/>
+        <updated>2023-03-03T21:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Python is a powerful and versatile programming language that offers a wide range of functionalities for developers.  One of the most essential features of Python is the ability to define and call functions.  A function is a block of code that performs a specific task. In Python, defining]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Market a New Project –Incorporate Design, Create a Landing Page, and Get Users]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-market-your-new-project-incorporate-design-create-a-landing-page-and-get-your-users-97812fd9dd4d/"/>
+        <updated>2023-03-03T18:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Only a few of us come naturally to self-marketing. Most of us prefer making the thing and enjoy showing it off (at least a little!), but hope it’ll be appreciated on its own merits – or that someone else will champion it.  Deliberate marketing and sales makes people uncomfortable,]]></summary>
+        <author>
+            <name>Jane Sorensen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trim a String in Python – How to Strip Trailing Whitespace]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-strip-trailing-whitespace-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-strip-trailing-whitespace-in-python/"/>
+        <updated>2023-03-03T17:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Python has three built-in methods for trimming leading and trailing whitespace and characters from strings: strip(), lstrip(), and rstrip(). In this article, I will explain how to remove trailing whitespace in Python using the rstrip() method. Let's get into it! How To Trim Whitespace From A String in Python To]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Table of Contents Component for Your Blog]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-table-of-contents-component/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-table-of-contents-component/"/>
+        <updated>2023-03-03T14:54:50.000Z</updated>
+        <summary type="html"><![CDATA[When you visit documentation sites, you'll notice that many of them have a common component: the  component. The idea behind it is to give the reader a "heads-up" about the information they're trying to consume. This feature, in turn, helps the reader go directly to the section that]]></summary>
+        <author>
+            <name>Caleb Olojo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL Tips to Help You Save Time and Write Simpler Queries]]></title>
+        <id>https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/</id>
+        <link href="https://www.freecodecamp.org/news/sql-tips-save-time-write-simpler-queries/"/>
+        <updated>2023-03-03T14:28:39.000Z</updated>
+        <summary type="html"><![CDATA[As a data analyst, you'll want to be as efficient and and effective as possible when working with databases.  SQL is one of the most widely used languages for managing and manipulating data stored in a relational database. In this article, we'll cover some SQL cheat codes that can]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Technology Will Transform Design]]></title>
+        <id>https://smashingmagazine.com/2023/03/ai-technology-transform-design/</id>
+        <link href="https://smashingmagazine.com/2023/03/ai-technology-transform-design/"/>
+        <updated>2023-03-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Nick and Gleb cover the current state of design, answer common questions designers have about AI tools, and share practical tips on how designers can make the most of using AI tools.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git Branching Commands Explained with Examples]]></title>
         <id>https://www.freecodecamp.org/news/git-branching-commands-explained/</id>
@@ -1525,56 +1585,6 @@ A Fancy Hover Effect For Your Avatar originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Podcasts are a fantastic opportunity to get up close with the people who know their craft. In this post, we compiled podcasts that are bound to provide valuable insights into UX and new perspectives on the field. Perfect for a short coffee break or a long commute.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Host A WordPress Site On Amazon Lightsail]]></title>
-        <id>https://smashingmagazine.com/2023/02/host-wordpress-site-amazon-lightsail/</id>
-        <link href="https://smashingmagazine.com/2023/02/host-wordpress-site-amazon-lightsail/"/>
-        <updated>2023-02-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lightsail provides all the power we need to host our websites, as we are used to from AWS, but making it way easier than ever before. In this article, Leonardo Losoviz explores how to launch a WordPress site in Lightsail in a quick and easy way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Apache Airflow on Windows without Docker]]></title>
-        <id>https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/</id>
-        <link href="https://www.freecodecamp.org/news/install-apache-airflow-on-windows-without-docker/"/>
-        <updated>2023-02-02T00:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Apache Airflow is a tool that helps you manage and schedule data pipelines. According to the documentation [https://airflow.apache.org/], it lets you "programmatically author, schedule, and monitor workflows."  Airflow is a crucial tool for data engineers and scientists. In this article, I'll show you how to install it on Windows]]></summary>
-        <author>
-            <name>Aviator Ifeanyichukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Al Assistants That Help Your Productivity (Besides ChatGPT)]]></title>
-        <id>https://www.freecodecamp.org/news/ai-assistants-for-productivity/</id>
-        <link href="https://www.freecodecamp.org/news/ai-assistants-for-productivity/"/>
-        <updated>2023-02-01T22:10:40.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT may be the talk of the town these days, but there are other AI assistants that can help you increase your productivity.  AI assistants are specialized artificial intelligence software programs designed to imitate human behavior and thinking. They are able to recognize objects, solve problems, and perform tasks]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create and Publish an NPM Package – a Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/"/>
-        <updated>2023-02-01T21:36:23.000Z</updated>
-        <summary type="html"><![CDATA[NPM is the largest software registry on the internet. There are over a million packages in the NPM Library.  Developers publish packages on NPM to share their code with others. And organisations also use NPM to share code internally. In this article, you will learn how to create a]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Serialize Your Data in Kotlin and Jetpack Compose]]></title>
-        <id>https://www.freecodecamp.org/news/serializing-your-data-in-kotlin/</id>
-        <link href="https://www.freecodecamp.org/news/serializing-your-data-in-kotlin/"/>
-        <updated>2023-02-01T21:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Serialization is the process of transforming data that's in one format into another format that can be stored.  If you have ever worked with a database or fetching data from a server, this should all be familiar to you. If not, you have come to the right place.]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
         </author>
     </entry>
 </feed>
