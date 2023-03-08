@@ -93,6 +93,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
+          "author": "hello@smashingmagazine.com (Paul Scanlon)",
+          "description": "In this article, Paul Scanlon shares a super lightweight approach to creating a Donut chart using conic-gradient(). There are no additional libraries to install or maintain, and there’s no heavy JavaScript that needs to be downloaded by the browser in order for them to work.",
+          "link": "https://smashingmagazine.com/2023/03/dynamic-donut-charts-tailwind-css-react/",
+          "publishedOn": "2023-03-07T15:30:00.000Z",
+          "wordCount": 4516,
+          "title": "How To Create Dynamic Donut Charts With TailwindCSS And React",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/",
+          "author": "hello@smashingmagazine.com (Adam Cowley)",
+          "description": "In this article, Adam Cowley examines the Graph behind GraphQL and demonstrates why Neo4j could be the best fit for your next project.",
+          "link": "https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/",
+          "publishedOn": "2023-03-07T12:00:00.000Z",
+          "wordCount": 4883,
+          "title": "Why You Should Consider Graphs For Your Next GraphQL Project",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/consider-graphs-graphql-project/consider-graphs-graphql-project.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/consider-graphs-graphql-project/consider-graphs-graphql-project.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
@@ -361,21 +391,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-56/smashing-podcast-episode-56.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
-          "author": "hello@smashingmagazine.com (Jennifer Brehm)",
-          "description": "Web development, especially what you can do with CSS, has become increasingly complex. With the added capabilities of CSS Grid, it is now possible to achieve layouts that look like they were laid out by hand. Let’s tackle a practical example of how to do something like that.",
-          "link": "https://smashingmagazine.com/2023/02/build-magazine-layout-css-grid-areas/",
-          "publishedOn": "2023-02-06T13:00:00.000Z",
-          "wordCount": 5591,
-          "title": "How To Build A Magazine Layout With CSS Grid Areas",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-print-like-website-layout-css-grid-areas/build-magazine-layout-css-grid-areas.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-print-like-website-layout-css-grid-areas/build-magazine-layout-css-grid-areas.jpg"
         }
       ]
     },
@@ -384,6 +399,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/rest-vs-graphql-apis/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this article we're going to take a good look at APIs, a core concept in modern software development. We're going to talk about the main kinds of APIs used nowadays (SOAP, REST and GraphQL), their characteristics, pros and cons, and situations in which each of them might",
+          "link": "https://www.freecodecamp.org/news/rest-vs-graphql-apis/",
+          "publishedOn": "2023-03-07T23:24:27.000Z",
+          "wordCount": 4305,
+          "title": "Different Types of APIs – SOAP vs REST vs GraphQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/john-towner-p-rN-n6Miag-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/generate-colors-in-javascript/",
+          "author": "Rufai Mustapha",
+          "description": "In this article, we'll use build a random color generator in JavaScript. Along the way, we will explore general topics in programming like functions and randomization.  We will build a project called Change The Background Color to illustrate these concepts. You can see the demo here [http://rufai.github.io/buildingx/random_bg_color.html].  In",
+          "link": "https://www.freecodecamp.org/news/generate-colors-in-javascript/",
+          "publishedOn": "2023-03-07T22:11:32.000Z",
+          "wordCount": 2396,
+          "title": "How to Generate Colors in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/colotd--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/",
+          "author": "Dillion Megida",
+          "description": "Have you ever encountered a \"circular reference\" error when working with JSON? In this tutorial, I'll explain what this error means as well as how to fix it. This error, in my experience, occurs when you try to convert an object with circular references to JSON. You may have experienced",
+          "link": "https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/",
+          "publishedOn": "2023-03-07T21:52:14.000Z",
+          "wordCount": 1811,
+          "title": "Circular Reference Error in JavaScript – Meaning and How to Fix It",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/22.-circular-reference-error.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-loops-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Loops are an essential concept in programming. They allow you to execute a block of code repeatedly based on certain conditions.  Python offers two types of loops: for and while loops. In this article, we will explore both of these loop types and provide examples of how to use",
+          "link": "https://www.freecodecamp.org/news/how-to-use-loops-in-python/",
+          "publishedOn": "2023-03-07T21:36:52.000Z",
+          "wordCount": 1452,
+          "title": "How to Use Loops in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Loops.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deep-learning-with-julia/",
+          "author": "Andrey Germanov",
+          "description": "Julia [https://julialang.org/] is a general purpose programming language well suited for numerical analysis and computational science. Some consider it the future of machine learning and the most natural replacement for Python in this field. In the previous post \"Machine learning with Julia – How to Build and Deploy a Trained",
+          "link": "https://www.freecodecamp.org/news/deep-learning-with-julia/",
+          "publishedOn": "2023-03-07T21:34:07.000Z",
+          "wordCount": 8443,
+          "title": "Deep Learning with Julia – How to Build and Train a Model using a Neural Network",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/",
+          "author": "David Clinton",
+          "description": "Getting a new technology out to consumers will usually require good people and boat loads of resources – including money. Generally, lots of money.  A lot of that money will be spent on research. And, more often than not, the hard research needed to translate a great idea into",
+          "link": "https://www.freecodecamp.org/news/the-business-of-technology-research-5-10/",
+          "publishedOn": "2023-03-07T17:07:38.000Z",
+          "wordCount": 3027,
+          "title": "The Business of Technology Research – Who Funds It, And What's Being Done",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-2156.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/variable-data-types-explained/",
+          "author": "Deborah Kurata",
+          "description": "Walking into a hardware store, it's not enough to say: \"I need a tool\". You need to be specific about the type of tool you need.  Each tool type has its particular purpose: A hammer to drive a nail into wood, a paint brush to paint, and a wrench",
+          "link": "https://www.freecodecamp.org/news/variable-data-types-explained/",
+          "publishedOn": "2023-03-07T16:54:47.000Z",
+          "wordCount": 2180,
+          "title": "Variable Data Types Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/data-types-thumbnail2.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Conditional statements are an essential part of programming in Python. They allow you to make decisions based on the values of variables or the result of comparisons.  In this article, we'll explore how to use if, else, and elif statements in Python, along with some examples of how to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-conditional-statements-if-else-elif-in-python/",
+          "publishedOn": "2023-03-07T16:03:51.000Z",
+          "wordCount": 1997,
+          "title": "How to Use Conditional Statements in Python – Examples of if, else, and elif",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Conditional.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/static-variables-in-java/",
+          "author": "Edeh Israel Chidera",
+          "description": "Static variables and static methods are two important concepts in Java.  Whenever a variable is declared as static, this means there is only one copy of it for the entire class, rather than each instance having its own copy. A static method means it can be called without creating",
+          "link": "https://www.freecodecamp.org/news/static-variables-in-java/",
+          "publishedOn": "2023-03-07T15:57:36.000Z",
+          "wordCount": 1545,
+          "title": "Static Variables in Java – Why and How to Use Static Methods",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/markus-spiske-AaEQmoufHLk-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/",
+          "author": "Kolade Chris",
+          "description": "In regular expressions, “S” is a metacharacter that represents space. The small letter “s” metacharacter stands for space, and the capital letter “S” stands for non-space. That's how the pattern for most metacharacters works. For instance, the small letter “d” is the metacharacter for a digit, and the capital letter",
+          "link": "https://www.freecodecamp.org/news/what-does-s-in-regex-mean-space-and-negated-space-metacharacters/",
+          "publishedOn": "2023-03-07T14:09:22.000Z",
+          "wordCount": 1038,
+          "title": "What does \\S in Regex Mean? Space and Negated Space Metacharacters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--3-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/",
           "author": "Oluseye Jeremiah",
