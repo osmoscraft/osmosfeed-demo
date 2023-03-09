@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-08T01:14:38.744Z</updated>
+    <updated>2023-03-09T01:14:08.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Convert Arabic Numbers to Roman Numerals with SolidJS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/"/>
+        <updated>2023-03-08T20:52:17.000Z</updated>
+        <summary type="html"><![CDATA[Have you heard about the Romans? Who hasn’t, right 🙂 They used their own numeric system, which was a bit of a mouthful, especially when it came to writing. It looks like this: I, II, III, IV, V, VI and so on. Maybe that’s one of the reasons that people]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read and Write Data to a SQL Database Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/"/>
+        <updated>2023-03-08T19:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Databases are a crucial component of modern-day software systems. And SQL databases are one of the most widely used types of databases.  They are ideal for managing data in a structured and organized way, and they are widely used in various applications, including e-commerce, healthcare, finance, and more.]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MERN App Development – How to Build a CI/CD Pipeline with Jenkins]]></title>
+        <id>https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/</id>
+        <link href="https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/"/>
+        <updated>2023-03-08T17:42:07.000Z</updated>
+        <summary type="html"><![CDATA[As you continue to develop your software, you must also continue to integrate it with previous code and deploy it to servers.  Manually doing this is a time-consuming process that can occasionally result in errors. So we need to do this in a continuous and automated manner – which]]></summary>
+        <author>
+            <name>Rakesh Potnuru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C Operator – Logic Operators in C Programming]]></title>
+        <id>https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/</id>
+        <link href="https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/"/>
+        <updated>2023-03-08T15:25:21.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will learn about the three logical operators in C. I will first explain what operators are in programming and list the different types of operators available in C. Then, you will learn the role logical operators have and how to use them with the help of]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does B in RegEx Mean? Word Boundary and Non-word Boundary Metacharacters]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/"/>
+        <updated>2023-03-08T14:10:22.000Z</updated>
+        <summary type="html"><![CDATA[In regular expressions, “B” is a metacharacter for specifying word boundary. It could be in two forms – the capital letter “B” and the small letter “b”. Since B (and b) is a metacharacter, you need to escape it to make it work (\b  and \B). Otherwise, b or]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Clock with the New CSS sin() and cos() Trigonometry Functions]]></title>
+        <id>https://css-tricks.com/?p=377074</id>
+        <link href="https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/"/>
+        <updated>2023-03-08T14:05:52.000Z</updated>
+        <summary type="html"><![CDATA[CSS trigonometry functions are here! Well, they are if you’re using the latest versions of Firefox and Safari, that is. Having this sort of mathematical power in CSS opens up a whole bunch of possibilities. In this tutorial, I thought …
+Creating a Clock with the New CSS sin() and cos() Trigonometry Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Different Types of APIs – SOAP vs REST vs GraphQL]]></title>
         <id>https://www.freecodecamp.org/news/rest-vs-graphql-apis/</id>
@@ -1590,49 +1651,6 @@ Moving Backgrounds originally published on CSS-Tricks, which is part of the Digi
         <updated>2023-02-07T15:59:35.000Z</updated>
         <summary type="html"><![CDATA[Geez, leave it to Patrick Brosset to talk CSS performance in the most approachable and practical way possible. Not that CSS is always what’s gunking up the speed, or even the lowest hanging fruit when it comes to improving …
 The truth about CSS selector performance originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 56 With Veerle Pieters: How Has The Design Industry Changed?]]></title>
-        <id>https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/</id>
-        <link href="https://smashingmagazine.com/2023/02/smashing-podcast-episode-56/"/>
-        <updated>2023-02-07T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of the Smashing Podcast we ask how has the design industry changed? Is technology making our work easier? Vitaly Friedman talks to veteran designer Veerle Pieters to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APIs for Beginners Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/apis-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/apis-for-beginners/"/>
-        <updated>2023-02-06T17:57:37.000Z</updated>
-        <summary type="html"><![CDATA[APIs, or Application Programming Interfaces, are a critical component of web development and programming. They provide a way for different applications and systems to communicate with each other, exchanging data and enabling functionalities. We just published an API basics course on the freeCodeCamp.org YouTube channel. This is an updated version]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a CRUD Command Line Application With Node.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-command-line-application-with-nodejs/"/>
-        <updated>2023-02-06T15:59:59.000Z</updated>
-        <summary type="html"><![CDATA[If you're looking for a tutorial to teach you the basics of Nodejs [https://nodejs.org/en/] and the command line, you're in the right place. You can use JavaScript to build almost any software (web, mobile, bots, and so on). The reason is that computers no longer depend on browsers only to]]></summary>
-        <author>
-            <name>Njoku Samson Ebere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Double Emphasis Thing]]></title>
-        <id>https://css-tricks.com/?p=376548</id>
-        <link href="https://css-tricks.com/the-double-emphasis-thing/"/>
-        <updated>2023-02-06T15:06:55.000Z</updated>
-        <summary type="html"><![CDATA[I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.
-<pI used to have this 
-…
-The Double Emphasis Thing originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
