@@ -54,16 +54,6 @@
           "wordCount": 2504,
           "title": "Everything You Need to Know About the Gap After the List Marker",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376748"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376991",
-          "author": "Frederik Dohr",
-          "description": "We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.\nInspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …\nAn Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/",
-          "publishedOn": "2023-02-13T15:10:41.000Z",
-          "wordCount": 1617,
-          "title": "An Approach to Lazy Loading Custom Elements",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376991"
         }
       ]
     },
@@ -364,6 +354,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/",
+          "author": "Kolade Chris",
+          "description": "Every programming language has its way of handling exceptions and errors, and Python is no exception. Python comes with a built-in try…except syntax with which you can handle errors and stop them from interrupting the running of your program. In this article, you’ll learn how to use that try…except syntax",
+          "link": "https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/",
+          "publishedOn": "2023-03-15T21:31:00.000Z",
+          "wordCount": 1386,
+          "title": "Python Print Exception – How to Try-Except-Print an Error",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pythonExceptionHandling.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/alternatives-to-prettier/",
+          "author": "Kamaldeen Lawal",
+          "description": "Many programmers hate code formatting because it is tedious and time-consuming. You can spend hours making sure everything is perfect and well-indented.  This is why code formatters are so useful. A code formatter is a tool that formats code according to certain standards. It makes it so you don't",
+          "link": "https://www.freecodecamp.org/news/alternatives-to-prettier/",
+          "publishedOn": "2023-03-15T17:43:50.000Z",
+          "wordCount": 3668,
+          "title": "Alternatives to Prettier – Popular Code Linting and Formatting Tools",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Alternatives-to-Prettier.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/",
+          "author": "Beau Carnes",
+          "description": "React is a popular JavaScript library that is widely used for building dynamic user interfaces. It has gained a lot of popularity over the years due to its flexibility, scalability, and ease of use. If you're a beginner looking to learn React 18 with Redux Toolkit, you're in luck. We",
+          "link": "https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/",
+          "publishedOn": "2023-03-15T15:44:43.000Z",
+          "wordCount": 1029,
+          "title": "Learn React 18 with Redux Toolkit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/react-full.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
+          "author": "Dhawal Shah",
+          "description": "Is Coursera Free? At Class Central [https://www.classcentral.com/], we get that question so often that I wrote a guide to answer it [https://www.classcentral.com/report/coursera-signup-for-free/]. Nowadays, most Coursera courses are free to audit. But if you want to complete graded assignments or get a course certificate, you have to pay. Coursera’s entire catalog",
+          "link": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
+          "publishedOn": "2023-03-15T10:00:00.000Z",
+          "wordCount": 17872,
+          "title": "I uncovered 1700 Coursera Courses that Are Still Completely Free",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/02/coursera-free-courses.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/",
+          "author": "Joel Olawanle",
+          "description": "Quick sort is a widely used sorting algorithm that efficiently sorts an array of elements by dividing it into smaller subarrays based on a chosen pivot element. In this article, we will walk through how to write a quick sort algorithm using JavaScript and explore the key concepts behind the",
+          "link": "https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/",
+          "publishedOn": "2023-03-15T09:27:48.000Z",
+          "wordCount": 1338,
+          "title": "How To Write Quick Sort Algorithm With JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--6-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
           "author": "Kolade Chris",
@@ -1713,56 +1753,6 @@
           "wordCount": 1256,
           "title": "Exponent in Python – Power Function and Exponents Using a Loop",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/21.-exponents.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/",
-          "author": "Abdulwahab Ashimi",
-          "description": "Laravel's simplicity and MVC architecture make it an ideal PHP framework for building web applications.  In this article, I will show you how to set up Laravel on your Windows machine and configure it to run on a custom domain name. This guide is best suited for a beginner",
-          "link": "https://www.freecodecamp.org/news/configure-a-laravel-project-with-custom-domain-name/",
-          "publishedOn": "2023-02-14T02:58:05.000Z",
-          "wordCount": 1177,
-          "title": "How to Configure a Laravel Project with a Custom Domain Name on Windows with XAMPP",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/cover--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/http-full-course/",
-          "author": "Lane Wagner",
-          "description": "HTTP is the backbone of the modern internet. In this text-based course, you'll learn how the HTTP protocol works and how it's used in real-world web development. All the code samples for this course are in JavaScript, but the networking concepts you'll learn here apply generally to all coding languages.",
-          "link": "https://www.freecodecamp.org/news/http-full-course/",
-          "publishedOn": "2023-02-14T00:42:39.000Z",
-          "wordCount": 8765,
-          "title": "HTTP Networking in JavaScript –Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/CUAP2IZ.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/",
-          "author": "Manish Shivanandhan",
-          "description": "In this article, we will look at OWASP and the top 10 web application vulnerabilities they've identified. This is a useful topic for both web app pen-testers and bug bounty hunters. What do web app pen-testers and bug bounty hunters have in common? They are both hunting for bugs, but",
-          "link": "https://www.freecodecamp.org/news/owasp-top-10-vulnerabilities/",
-          "publishedOn": "2023-02-13T23:44:49.000Z",
-          "wordCount": 2304,
-          "title": "OWASP Top 10 Vulnerabilities – A Guide for Pen-Testers & Bug Bounty Hunters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/image-39-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/",
-          "author": "Max Rohde",
-          "description": "Amazon Cognito [https://aws.amazon.com/cognito/] is a cloud-based, serverless solution for identity and access management. It provides capabilities similar to  Auth0 [https://aws.amazon.com/cognito/] and Okta [https://aws.amazon.com/cognito/].  Cognito is part of the AWS suite of services so you can easily incorporate it if you are already using AWS in other parts of",
-          "link": "https://www.freecodecamp.org/news/how-to-use-cognito-for-web-applications/",
-          "publishedOn": "2023-02-13T22:06:41.000Z",
-          "wordCount": 4061,
-          "title": "How to Use Cognito for Web Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Cognito-Title-Picture.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/asynchronism-in-javascript/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at a key topic when it comes to programming: managing asynchronism. We'll start by giving a theoretical foundation about what asynchronism is, and how it relates to key components of JavasScript: The execution thread, the call stack and the",
-          "link": "https://www.freecodecamp.org/news/asynchronism-in-javascript/",
-          "publishedOn": "2023-02-13T16:15:45.000Z",
-          "wordCount": 3718,
-          "title": "Asynchronous Programming in JavaScript for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-giallo-859895.jpg"
         }
       ]
     }
