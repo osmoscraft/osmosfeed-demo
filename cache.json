@@ -63,6 +63,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
+          "author": "hello@smashingmagazine.com (Jan Amann)",
+          "description": "In this article, Jan Amann, based on an example of a multilingual app that displays street photography images from Unsplash, explores next-intl to implement all internationalization needs in React Server Components.",
+          "link": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
+          "publishedOn": "2023-03-16T20:00:00.000Z",
+          "wordCount": 4603,
+          "title": "Internationalization In Next.js 13 With React Server Components",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/internationalization-nextjs-13-react-server-components/internationalization-nextjs-13-react-server-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/internationalization-nextjs-13-react-server-components/internationalization-nextjs-13-react-server-components.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/03/full-stack-graphql-nextjs-neo4j-auradb-vercel/",
+          "author": "hello@smashingmagazine.com (William Lyon)",
+          "description": "In this article, William Lyon explores how to build a full stack GraphQL application that takes advantage of the API Routes feature of Next.js API to combine your GraphQL server and front-end React applications into a single framework.",
+          "link": "https://smashingmagazine.com/2023/03/full-stack-graphql-nextjs-neo4j-auradb-vercel/",
+          "publishedOn": "2023-03-16T10:00:00.000Z",
+          "wordCount": 5909,
+          "title": "Full Stack GraphQL With Next.js, Neo4j AuraDB And Vercel",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/full-stack-graphql-nextjs-neo4j-auradb-vercel/meta-full-stack-graphql-nextjs-neo4j-auradb-vercel.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/full-stack-graphql-nextjs-neo4j-auradb-vercel/meta-full-stack-graphql-nextjs-neo4j-auradb-vercel.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
           "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
@@ -331,21 +361,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/animate-race-cars-using-html/putting-gears-motion-animating-cars-with-html-svg.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
-          "author": "hello@smashingmagazine.com (Chiara Aliotta)",
-          "description": "How to apply powerful storytelling to design a compelling and memorable digital experience on a landing page. A case study of the [Smart Interface Design Patterns landing page](https://smart-interface-design-patterns.com/).",
-          "link": "https://smashingmagazine.com/2023/02/sell-product-powerful-storytelling/",
-          "publishedOn": "2023-02-15T10:00:00.000Z",
-          "wordCount": 7019,
-          "title": "Five Steps To Sell Your Product With Powerful Storytelling",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/sell-product-powerful-storytelling/meta-sell-product-powerful-storytelling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/sell-product-powerful-storytelling/meta-sell-product-powerful-storytelling.jpg"
         }
       ]
     },
@@ -354,6 +369,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/automating-report-generation-from-sql-databases-using-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Generating reports from SQL databases is a common task in many organizations. But the process can be time-consuming and error-prone, especially if it involves manual data extraction, transformation, and formatting.  In this article, we will explore how to use Python to automate the process of generating reports from SQL",
+          "link": "https://www.freecodecamp.org/news/automating-report-generation-from-sql-databases-using-python/",
+          "publishedOn": "2023-03-16T22:09:47.000Z",
+          "wordCount": 1262,
+          "title": "How to Generate Automated Reports from a SQL Database Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/coreet.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/data-visualization-in-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "Spreadsheets are the OG resource for visualizing data with charts and graphs...unless you count chalkboards, I suppose.  Spreadsheets are built to churn through tons of data. And by using a few simple built-in tools, you can glean valuable insights from large chunks of data. gif of \"OG\" graphicWhen dealing",
+          "link": "https://www.freecodecamp.org/news/data-visualization-in-google-sheets/",
+          "publishedOn": "2023-03-16T20:55:12.000Z",
+          "wordCount": 1591,
+          "title": "Data Visualization in Google Sheets for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/FCC-Data-Visualization-in-Google-Sheets---Bar-and-Pie-Charts.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-an-array-in-java/",
+          "author": "Shittu Olumide",
+          "description": "Creating and manipulating arrays is an essential skill for any Java programmer. Arrays provide a way to store and organize multiple values of the same type, making it easier to work with large sets of data. In this article, we will provide a step-by-step guide on how to create an",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-array-in-java/",
+          "publishedOn": "2023-03-16T19:48:12.000Z",
+          "wordCount": 2128,
+          "title": "How to Create an Array in Java – Array Declaration Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/array-declaration.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lambda-sort-list-in-python/",
+          "author": "Kolade Chris",
+          "description": "The sort() method and the sorted() function let you sort iterable data like lists and tuples in ascending or descending order. They take parameters with which you can modify how they perform the sorting. And one of those parameters could be a function or even a lambda function. In this",
+          "link": "https://www.freecodecamp.org/news/lambda-sort-list-in-python/",
+          "publishedOn": "2023-03-16T19:37:09.000Z",
+          "wordCount": 2238,
+          "title": "Lambda Sorted in Python – How to Lambda Sort a List",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lambdaSort.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/complete-guide-to-css-grid/",
+          "author": "Oluwatobi Sofela",
+          "description": "CSS Grid gives you the tools to create basic and advanced website layouts in responsive ways that look great on mobile, tablet, and desktop devices. This tutorial discusses everything you need to know to use CSS Grid like a pro. Table of Contents  1.  What Is CSS Grid?",
+          "link": "https://www.freecodecamp.org/news/complete-guide-to-css-grid/",
+          "publishedOn": "2023-03-16T18:19:27.000Z",
+          "wordCount": 6553,
+          "title": "CSS Grid Handbook – Complete Guide to Grid Containers and Grid Items",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/complete-css-grid-guide-codesweetly-pexels-steve-johnson-1283208.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-summer-of-code-guide/",
+          "author": "Abhisman Sarkar",
+          "description": "Google Summer of Code [https://summerofcode.withgoogle.com/] is an open source program that is managed by Google's Open Source team.  They invite developers to spend their summer contributing to the source code for various different organisations taking part in the program.  There are many organisations that list their project ideas",
+          "link": "https://www.freecodecamp.org/news/google-summer-of-code-guide/",
+          "publishedOn": "2023-03-16T17:04:36.000Z",
+          "wordCount": 3285,
+          "title": "GSoC 2023 Guide – How to Prepare for Google Summer of Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-prateek-katyal-2763246.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/automate-sql-database-backups-using-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "You should back up your SQL database on a regular basis. It's a critical task that helps ensure that your data is always protected.  But manually backing up a database can be time-consuming and error-prone, especially if you have multiple databases to back up.  In this article, we",
+          "link": "https://www.freecodecamp.org/news/automate-sql-database-backups-using-python/",
+          "publishedOn": "2023-03-16T14:49:50.000Z",
+          "wordCount": 1447,
+          "title": "How to Automate SQL Database Backups Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/rere.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in learning how to design and use databases for Windows applications? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a SQL database application with a Windows graphical interface. Led by Shad Sluiter, a Professor Of Computer Science",
+          "link": "https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/",
+          "publishedOn": "2023-03-16T14:09:53.000Z",
+          "wordCount": 858,
+          "title": "Create a SQL Database App with a Windows GUI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sqlapp.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/",
           "author": "Kolade Chris",
@@ -1673,86 +1768,6 @@
           "wordCount": 1660,
           "title": "Type Error vs Reference Error in JavaScript – What's the Difference?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-kim-stiver-909256.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tensorflow-basics/",
-          "author": "Manish Shivanandhan",
-          "description": "TensorFlow is a library that helps engineers build and train deep learning models. It provides all the tools we need to create neural networks. We can use TensorFlow to train simple to complex neural networks using large sets of data. TensorFlow is used in a variety of applications, from image",
-          "link": "https://www.freecodecamp.org/news/tensorflow-basics/",
-          "publishedOn": "2023-02-14T23:46:51.000Z",
-          "wordCount": 2955,
-          "title": "How to Use TensorFlow for Deep Learning – Basics for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/tensorflow.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/",
-          "author": "Kolade Chris",
-          "description": "In Computer Science, Prim’s algorithm helps you find the minimum spanning tree of a graph. It is a greedy algorithm – meaning it selects the option available at the moment. In this article, I’ll show you the pseudocode representation of Prim’s algorithm. But before that, let’s take a deeper look",
-          "link": "https://www.freecodecamp.org/news/prims-algorithm-explained-with-pseudocode/",
-          "publishedOn": "2023-02-14T22:12:43.000Z",
-          "wordCount": 2009,
-          "title": "Prim's Algorithm – Explained with a Pseudocode Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/prim-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/vim-language-and-motions-explained/",
-          "author": "Simon Späti",
-          "description": "Throughout my time as a developer, I've used VS Code, Sublime, Notepad++, TextMate, and others. But shortcuts like cmd(+shift)+end and jumping with  option+arrow-keys from word to word needed to be faster at some point.  I was hitting my limits. Everything I was doing I did decently fast, but",
-          "link": "https://www.freecodecamp.org/news/vim-language-and-motions-explained/",
-          "publishedOn": "2023-02-14T19:52:55.000Z",
-          "wordCount": 3642,
-          "title": "Why Vim Is More than Just an Editor – Vim Language, Motions, and Modes Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/using-neo-vim-feature-freecode-3.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/",
-          "author": "Shittu Olumide",
-          "description": "Data is all around us. Every website you visit includes data in a readable format that you can utilize for a project.  And although you can easily copy and paste the data, the best approach for big amounts of data is to perform web scraping. Learning web scraping can",
-          "link": "https://www.freecodecamp.org/news/how-to-scrape-multiple-web-pages-using-python/",
-          "publishedOn": "2023-02-14T19:48:00.000Z",
-          "wordCount": 2199,
-          "title": "How to Scrape Multiple Web Pages Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/How-to-Scrape-Multiple-Web-Pages-Using-Python-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-data-storage/",
-          "author": "David Clinton",
-          "description": "We've all been at this 21st Century thing for a while. And by now it's pretty clear that data is the big driver of, well, of everything.  Governments build their policies around economic and population data. Scientists build their theories around environmental, physical, and biological data. Businesses build their",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-data-storage/",
-          "publishedOn": "2023-02-14T19:44:28.000Z",
-          "wordCount": 3085,
-          "title": "How to Manage Data Storage",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-tima-miroshnichenko-6549629.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/",
-          "author": "Beau Carnes",
-          "description": "Are you interested in game development but don't know where to start? Do you want to create a unique and engaging game with interesting physics and artificial intelligence mechanics? If so, then our new video course is just what you need! We just published a full course on the freeCodeCamp.org",
-          "link": "https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/",
-          "publishedOn": "2023-02-14T18:54:11.000Z",
-          "wordCount": 993,
-          "title": "Create an Animated Physics Game with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/jsgame.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/",
-          "author": "Sobit Prasad",
-          "description": "If you are reading this blog, you're probably learning JavaScript – and that's awesome. Double equals (==) and triple equals (===) in JavaScript often make beginners scratch their heads. This doesn't mean that you should fear JavaScript, in fact jargon like this makes JavaScript even more beautiful once you know",
-          "link": "https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/",
-          "publishedOn": "2023-02-14T18:09:26.000Z",
-          "wordCount": 1590,
-          "title": "How is == Different from === in JavaScript? Strict vs Loose Equality Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/shapes--1--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/",
-          "author": "Dillion Megida",
-          "description": "The exponent of a number refers to the power to which that number should be raised. In this article, I'll show you how to find exponents using two ways: the power function and a loop. Exponents are usually written like this: Baseexponent Take an example like 103. This means, \"10,",
-          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-str-to-bytes-and-back-again/",
-          "publishedOn": "2023-02-14T17:54:02.000Z",
-          "wordCount": 1256,
-          "title": "Exponent in Python – Power Function and Exponents Using a Loop",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/21.-exponents.png"
         }
       ]
     }
