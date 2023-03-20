@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-19T01:14:34.925Z</updated>
+    <updated>2023-03-20T01:10:58.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
@@ -1499,76 +1499,6 @@ Everything You Need to Know About the Gap After the List Marker originally publi
         <summary type="html"><![CDATA[An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Your Own Commands in Linux]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-your-own-command-in-linux/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-your-own-command-in-linux/"/>
-        <updated>2023-02-17T23:04:51.000Z</updated>
-        <summary type="html"><![CDATA[In this article, let's learn about creating your own commands in Linux. Yes – we're going to talk about creating an alias command.  Before we begin, I want to tell you how the idea for this tutorial came about.  One of the followers of my blog asked me,]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decentralized Identity – Build a Profile with Next.js, Ethereum & Ceramic Network]]></title>
-        <id>https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/</id>
-        <link href="https://www.freecodecamp.org/news/decentralized-identity-build-a-profile-with-ethereum-ceramic-and-reactjs/"/>
-        <updated>2023-02-17T22:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Long-standing centralized intermediaries, like the government or big companies, are the ones who make and keep your ID information in traditional systems that manage who you are.  But this implies that you have no control over the information relating to your identification, who has access to personally identifiable information]]></summary>
-        <author>
-            <name>Idris Olubisi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine learning with Julia – How to Build and Deploy a Trained AI Model as a Web Service]]></title>
-        <id>https://www.freecodecamp.org/news/machine-learning-using-julia/</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-using-julia/"/>
-        <updated>2023-02-17T22:33:02.000Z</updated>
-        <summary type="html"><![CDATA[Julia [https://julialang.org/] is a general purpose programming language well suited for numerical analysis and computational science. Some consider it the future of machine learning and the most natural replacement for Python in this field. This article introduces the Julia language and its ecosystem. You'll learn how to use it to]]></summary>
-        <author>
-            <name>Andrey Germanov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Asynchronous JavaScript Works]]></title>
-        <id>https://www.freecodecamp.org/news/asynchronous-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/asynchronous-javascript/"/>
-        <updated>2023-02-17T18:37:03.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn all about Asynchronous JavaScript.  But before we dive into that, we need to make sure you understand what Synchronous code is and how it works. What is Synchronous Code? When we write a program in JavaScript, it executes line by line. When a line]]></summary>
-        <author>
-            <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Full Stack App with Next.js 13 and Firebase]]></title>
-        <id>https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/</id>
-        <link href="https://www.freecodecamp.org/news/create-full-stack-app-with-nextjs13-and-firebase/"/>
-        <updated>2023-02-17T17:38:20.000Z</updated>
-        <summary type="html"><![CDATA[Next.js is a React framework that makes building powerful full stack (front end + back end) applications a lot easier.  The team behind Next.js recently released Next.js 13 [https://nextjs.org/blog/next-13] which has a whole lot of futures like a new  app Directory, server and client components, and more. In]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dot Notation vs Bracket Notation for Object Properties – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/"/>
-        <updated>2023-02-17T16:55:10.000Z</updated>
-        <summary type="html"><![CDATA[There are multiple ways to access object properties in JavaScript. But two common ones are dot notation and bracket notation. I'll explain the difference between these two approaches in this article. With dot and bracket notation, you can:  * access the value of a property by its key]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Dynamic Object Properties using Computed Property Names]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-dynamic-object-properties-using-computed-property-names/"/>
-        <updated>2023-02-17T16:53:48.000Z</updated>
-        <summary type="html"><![CDATA[When declaring objects before ES6, you had to use static keys for properties. But since the release of ES6, you can use dynamic keys. I'll show you how they work in this article. What are Static and Dynamic Keys? What do I mean by static keys? Take a look at]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
 </feed>
