@@ -63,6 +63,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
+          "link": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
+          "publishedOn": "2023-03-20T09:00:00.000Z",
+          "wordCount": 4657,
+          "title": "Free Fonts For Interface Designers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/open-source-fonts-roundup/meta-free-fonts-interface-designers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/",
           "author": "hello@smashingmagazine.com (Jan Amann)",
           "description": "In this article, Jan Amann, based on an example of a multilingual app that displays street photography images from Unsplash, explores next-intl to implement all internationalization needs in React Server Components.",
@@ -339,6 +354,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
+          "author": "Dmitry Dragilev",
+          "description": "Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of",
+          "link": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
+          "publishedOn": "2023-03-20T22:32:41.000Z",
+          "wordCount": 2873,
+          "title": "How Developers Can Prevent Fraud and Stop Scammers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/48332996261_4f1a1657fc_b.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nextjs-seo/",
+          "author": "Scott Gary",
+          "description": "Next.js is a popular React-based web framework that has gained popularity and a growing community in recent years. It's a powerful tool for building fast and SEO-friendly web applications with dynamic pages that work great on mobile devices.  Due to the complex nature of isomorphic system design, Next.js SEO",
+          "link": "https://www.freecodecamp.org/news/nextjs-seo/",
+          "publishedOn": "2023-03-20T21:17:55.000Z",
+          "wordCount": 3508,
+          "title": "Next.js SEO for Developers – How to Build Highly Performant Apps with Next",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-andrei-photo-2127783.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
+          "author": "Franklin Okolie",
+          "description": "A few months ago, I attempted to solve a math problem in my head before writing it in JavaScript. It was then that I received the most stunning revelation of my career, which was both shocking and eye-opening.  So what did I attempt to do? I made the following",
+          "link": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
+          "publishedOn": "2023-03-20T21:15:49.000Z",
+          "wordCount": 3505,
+          "title": "JavaScript Operators and Operator Precedence – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/JavaScript_Operator_precedence.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/",
+          "author": "Houssein Badra",
+          "description": "JavaScript is a popular programming language that 78% of developers use. You can build almost anything with JavaScript. The problem is that many developers learn JavaScript in a very short period of time, without understanding some of the most essential features of the language. In this article, we will cover",
+          "link": "https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/",
+          "publishedOn": "2023-03-20T20:12:35.000Z",
+          "wordCount": 3139,
+          "title": "JavaScript Basics – How to Work with Strings, Arrays, and Objects in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/js.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to build a classic platformer game in Python from start to finish? If so, you're in the right place! We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a platformer game in Python using the Pygame library. We'll",
+          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
+          "publishedOn": "2023-03-20T19:47:16.000Z",
+          "wordCount": 850,
+          "title": "Create a platformer game with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/python-game.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
+          "author": "Zaira Hira",
+          "description": "In Linux, process automation relies heavily on shell scripting. This involves creating a file containing a series of commands that can be executed together. In this article, we'll start with the basics of bash scripting which includes variables, commands, inputs/ outputs, and debugging. We'll also see examples of each along",
+          "link": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
+          "publishedOn": "2023-03-20T17:35:58.000Z",
+          "wordCount": 4156,
+          "title": "Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/",
+          "author": "Kolade Chris",
+          "description": "Lists are one of the core data structures of Python. Due to their flexibility, there are a lot of things you can do with lists. And one of those things is turning a list of lists into a single list. It is also possible to turn a list of dictionaries,",
+          "link": "https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/",
+          "publishedOn": "2023-03-20T17:02:03.000Z",
+          "wordCount": 1681,
+          "title": "List Flatten in Python – Flattening Nested Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/flattenList.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
+          "author": "Popoola Temitope",
+          "description": "Form building in React [https://reactjs.org/] can be complex and time-consuming, requiring state management, validation, and error handling.  To simplify this process, the Formik [https://formik.org/] library provides an intuitive solution for building forms in React. Formik has a straightforward API and built-in validation, making collecting and manipulating input data in",
+          "link": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
+          "publishedOn": "2023-03-20T16:56:05.000Z",
+          "wordCount": 1598,
+          "title": "How to Build React Forms with Formik",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Group-1--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
+          "author": "Michael Yuan",
+          "description": "Since OpenAI released an official API for ChatGPT [https://openai.com/blog/introducing-chatgpt-and-whisper-apis] in March 2023, many developers and entrepreneurs are interested in integrating it into their own business operations.  But some significant barriers remain that make it difficult for them to do this:  * OpenAI provides a simple stateless API",
+          "link": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
+          "publishedOn": "2023-03-20T16:52:42.000Z",
+          "wordCount": 1923,
+          "title": "How to Create a Serverless ChatGPT App in 10 Minutes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/c0fd422e-f234-49e2-85a6-24f91b0b9991-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/django-model-relationships/",
+          "author": "Damilola Oladele",
+          "description": "Django [https://www.djangoproject.com/] is a free and open-source web framework written in Python. It helps with rapid web development and provides out-of-the-box web security. Websites must be able to store and retrieve data from databases. Django makes provisions for this. By default, Django operates a Relational Database Management System.  >",
+          "link": "https://www.freecodecamp.org/news/django-model-relationships/",
+          "publishedOn": "2023-03-20T16:05:18.000Z",
+          "wordCount": 1582,
+          "title": "How to Define Relationships Between Django Models",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner-560x315-px-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/method-overloading-and-overriding-in-java/",
           "author": "Mikael Lassa",
