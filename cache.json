@@ -63,6 +63,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
+          "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
+          "publishedOn": "2023-03-21T07:00:00.000Z",
+          "wordCount": 12034,
+          "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/free-fonts-interface-designers/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!",
@@ -354,6 +369,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-the-hashrocket-symbol-mean-in-javascript/",
+          "author": "Edeh Israel Chidera",
+          "description": "Prior to the introduction of arrow functions, function expressions in JavaScript had a verbose syntax that often made code harder to read and understand.  As a more concise way of writing function expressions in JavaScript, arrow functions were introduced in ECMAScript 6 (ES6). They quickly gained popularity among developers",
+          "link": "https://www.freecodecamp.org/news/what-does-the-hashrocket-symbol-mean-in-javascript/",
+          "publishedOn": "2023-03-21T22:16:00.000Z",
+          "wordCount": 1454,
+          "title": "What does => Mean in JavaScript? The Equals Greater Than Symbol aka Hashrocket Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/markus-spiske-AaEQmoufHLk-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/modern-social-engineering-cyberattacks/",
+          "author": "Manish Shivanandhan",
+          "description": "Have you ever received a suspicious email or phone call from an unknown number asking for information? Or clicked on that link promising discount deals but ended up entering sensitive information? Chances are you were a victim of a social engineering attack. Social engineering is a manipulation technique used by",
+          "link": "https://www.freecodecamp.org/news/modern-social-engineering-cyberattacks/",
+          "publishedOn": "2023-03-21T22:03:40.000Z",
+          "wordCount": 2227,
+          "title": "Modern Social Engineering Explained – 10 Types of Social Engineering Cyberattacks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/0_gMWjfaXWX6wgkNtF.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-if-statement-equality-and-truthy-falsy/",
+          "author": "Deborah Kurata",
+          "description": "Decisions, decisions, decisions. Go left? Or go right? In programming, we use an  if statement when we want our code to make a decision. In this tutorial, we'll deep dive into the JavaScript if statement. Along the way, we'll examine the difference between single equals, double equals, and triple",
+          "link": "https://www.freecodecamp.org/news/javascript-if-statement-equality-and-truthy-falsy/",
+          "publishedOn": "2023-03-21T21:06:20.000Z",
+          "wordCount": 2883,
+          "title": "JavaScript if Statements, Equality and Truthy/Falsy – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/thumbnail-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/",
+          "author": "Swatej Patil",
+          "description": "Data visualization is an essential part of data analysis. And charts are one of the most effective ways to present data in a clear and concise manner.  Marimekko charts are an excellent choice for displaying complex data sets in a compact and visually appealing format.  A Marimekko chart,",
+          "link": "https://www.freecodecamp.org/news/chart-js-tutorial-how-to-make-marimekko-charts-in-angular/",
+          "publishedOn": "2023-03-21T17:51:26.000Z",
+          "wordCount": 1463,
+          "title": "Chart.js Tutorial – How to Make Marimekko Charts in Angular",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/austin-distel-DfjJMVhwH_8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/advanced-sql-techniques/",
+          "author": "Oluseye Jeremiah",
+          "description": "Structured Query Language or SQL is an effective tool for managing and modifying data that is stored in databases.  The SELECT, INSERT, UPDATE, and DELETE SQL commands are suitable for many common use cases. But sometimes, more sophisticated techniques can help you perform out more complex queries and analyses",
+          "link": "https://www.freecodecamp.org/news/advanced-sql-techniques/",
+          "publishedOn": "2023-03-21T17:01:39.000Z",
+          "wordCount": 1656,
+          "title": "Advanced SQL Techniques for Complex Queries",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/GBL.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/",
+          "author": "Beau Carnes",
+          "description": "Embark on an exciting journey to learn the fundamentals of reinforcement learning and its implementation using Gymnasium, the open-source Python library previously known as OpenAI Gym. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of reinforcement learning using Gymnasium. Mustafa Esoofally",
+          "link": "https://www.freecodecamp.org/news/use-openai-gymnasium-for-reinforcement-learning/",
+          "publishedOn": "2023-03-21T14:17:07.000Z",
+          "wordCount": 1068,
+          "title": "Use OpenAI Gymnasium for Reinforcement Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/gym.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
           "author": "Dmitry Dragilev",
