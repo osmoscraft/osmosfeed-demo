@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377264",
+          "author": "Pankaj Parashar",
+          "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/",
+          "publishedOn": "2023-03-22T20:22:42.000Z",
+          "wordCount": 1861,
+          "title": "Some Cross-Browser DevTools Features You Might Not Know",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
+        },
+        {
           "id": "https://css-tricks.com/?p=376950",
           "author": "Mads Stoumann",
           "description": "Doing a quick search here on CSS-Tricks shows just how many different ways there are to approach calendars. Some show how CSS Grid can create the layout efficiently. Some attempt to bring actual data into the mix. Some …\nMaking Calendars With Accessibility and Internationalization in Mind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -331,36 +341,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/internationalization-i18n-right-remix-headless-cms-storyblok/meta-internationalization-i18n-right-remix-headless-cms-storyblok.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask what’s the key to a great keyboard? Is this essential part of our daily toolkit easily overlooked? Vitaly Friedman talks to expert Marcin Wichary to find out.",
-          "link": "https://smashingmagazine.com/2023/02/smashing-podcast-episode-57/",
-          "publishedOn": "2023-02-21T07:00:00.000Z",
-          "wordCount": 11617,
-          "title": "Smashing Podcast Episode 57 With Marcin Wichary: What’s The Key To A Great Keyboard?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-57/meta-smashing-podcast-episode-57.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
-          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
-          "description": "An accessible product can be daunting to build as there’s so much nuance and technical depth to consider. In this article, Daniel Yuschick demonstrates three keys for approaching and developing accessible content without leaving you lost in the weeds.",
-          "link": "https://smashingmagazine.com/2023/02/keys-accessibility-mindset/",
-          "publishedOn": "2023-02-20T14:00:00.000Z",
-          "wordCount": 5485,
-          "title": "Keys To An Accessibility Mindset",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/keys-accessibility-mindset/keys-accessibility-mindset.jpg"
         }
       ]
     },
@@ -369,6 +349,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/git-squash-commits/",
+          "author": "Kolade Chris",
+          "description": "If you are working on a project and trying to implement a new feature, you might commit your code a few times to test things out. This lets you see how the code works or looks. While doing this, things might get messy because you now have several commits, even",
+          "link": "https://www.freecodecamp.org/news/git-squash-commits/",
+          "publishedOn": "2023-03-22T23:16:43.000Z",
+          "wordCount": 1464,
+          "title": "Git Squash Commits – Squashing the Last N Commits into One Commit",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/squashCommits.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in learning how to build a customer relationship management (CRM) app with Django, Python, and MySQL? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step on how to build a fully-functional CRM application using Django, Python, and MySQL. John Elder developed",
+          "link": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
+          "publishedOn": "2023-03-22T19:58:56.000Z",
+          "wordCount": 997,
+          "title": "CRM App Development with Django, Python, and MySQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/crmdjango.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/print-newline-in-python/",
+          "author": "Shittu Olumide",
+          "description": "Working with strings or text data in programming frequently involves printing a newline. The end of a line is indicated by a newline character, which also advances the cursor to the start of the following line. Using the escape character \"\\n,\" we can print a newline in Python. Other programming",
+          "link": "https://www.freecodecamp.org/news/print-newline-in-python/",
+          "publishedOn": "2023-03-22T19:17:24.000Z",
+          "wordCount": 1323,
+          "title": "Print Newline in Python – Printing a New Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Print-Newline-in-Python---Printing-a-New-Line-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-variables/",
+          "author": "Reed Barger",
+          "description": "Variables are an essential part of Python. They allow us to easily store, manipulate, and reference data throughout our projects. This article will give you all the understanding of Python variables you need to use them effectively in your projects. If you want the most convenient way to review all",
+          "link": "https://www.freecodecamp.org/news/python-variables/",
+          "publishedOn": "2023-03-22T18:30:52.000Z",
+          "wordCount": 1741,
+          "title": "Python Variables – The Complete Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/mugshotbot.com_customize_color-yellow-image-9820e115-mode-light-pattern-texture-theme-two_up-url-https___gifcoins.io.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
+          "author": "Obumuneme Nwabude",
+          "description": "If someone gains unauthorized access to your passwords, two-factor authentication (2FA) can prevent them from accessing your account.  But if you ever lose access to all your 2FA methods, you have lost your account. How do you prevent such loss? In this article, we will look at two-factor authentication",
+          "link": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
+          "publishedOn": "2023-03-22T16:28:07.000Z",
+          "wordCount": 3306,
+          "title": "How to Prevent Account Loss When using Two-Factor Authentication",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-karolina-grabowska-4467737.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
+          "author": "David Clinton",
+          "description": "The word \"audit\" describes any process designed to review and assess a system's current state, capacity, and integrity.  An internal audit is a review process initiated and carried out by an organization itself. External audits are often performed by or on behalf of banking entities or government regulatory bodies",
+          "link": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
+          "publishedOn": "2023-03-22T16:25:10.000Z",
+          "wordCount": 1593,
+          "title": "How to Incorporate Cybersecurity Audits into Your Workflow",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-39584.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "author": "Sem Bauke",
+          "description": "I am happy to announce that the freeCodeCamp mobile app is finally ready for you to download. 🎊 The mobile development team just pushed a big update with many helpful improvements, including the much-awaited /learn user experience. You can now code your way through the Responsive Web Design curriculum and",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/",
+          "publishedOn": "2023-03-22T12:23:00.000Z",
+          "wordCount": 1125,
+          "title": "The freeCodeCamp Mobile App – Learn to Code Right On Your Phone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/11/michal-soukup-hDOskFirs-c-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-does-the-hashrocket-symbol-mean-in-javascript/",
           "author": "Edeh Israel Chidera",
@@ -1758,36 +1808,6 @@
           "wordCount": 898,
           "title": "HTML & Coding Introduction – Course for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/htmlania.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-code-pong-in-python/",
-          "author": "Shane Duggan",
-          "description": "Pong is a classic video game that has stood the test of time. It's a crowd favorite that many among you might recognise.  For the programmers out there, coding Pong in Python is a fun and challenging way to learn the language and basic concepts of game development. But",
-          "link": "https://www.freecodecamp.org/news/how-to-code-pong-in-python/",
-          "publishedOn": "2023-02-20T21:01:47.000Z",
-          "wordCount": 3380,
-          "title": "How to Code Pong in Python – a Step-By-Step Tutorial with Turtle",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Brown-Colorful-Mental-Health-Blog-Banner--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mongodb-in-rust/",
-          "author": "Chigozie Oduah",
-          "description": "MongoDB is a popular NoSQL database that has been gaining increasing popularity in recent years. It offers developers a flexible, scalable, and high-performance database solution, which can be used for a wide range of applications.  For Rust programmers, MongoDB provides an excellent option for storing and retrieving data in",
-          "link": "https://www.freecodecamp.org/news/mongodb-in-rust/",
-          "publishedOn": "2023-02-20T20:41:19.000Z",
-          "wordCount": 2882,
-          "title": "How to Get Started with MongoDB in Rust",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ulucas-dube-cantin-10325707.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-test-user-interactions-in-react/",
-          "author": "Kunal Nalawade",
-          "description": "When you're testing different components in React, you’ll need to simulate user interactions with various parts of each component. In this tutorial, I am going to show you some methods to simulate user interactions with different interactive elements. Before getting started, make sure you know how to structure a test",
-          "link": "https://www.freecodecamp.org/news/how-to-test-user-interactions-in-react/",
-          "publishedOn": "2023-02-20T19:12:24.000Z",
-          "wordCount": 2353,
-          "title": "How to Test User Interactions Using the React Testing Library",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/0_cba5BsaMWpgBXzGK.jpeg"
         }
       ]
     }
