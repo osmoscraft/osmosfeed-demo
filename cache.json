@@ -311,21 +311,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/guide-accessible-form-validation/guide-accessible-form-validation.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/",
-          "author": "hello@smashingmagazine.com (Manuel Schröder)",
-          "description": "Let’s see how to achieve phenomenal web performance and great developer experience with Astro and a headless CMS, resulting in the best possible experience for users, developers and content creators alike.",
-          "link": "https://smashingmagazine.com/2023/02/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/",
-          "publishedOn": "2023-02-22T17:30:00.000Z",
-          "wordCount": 5216,
-          "title": "Building Future-Proof High-Performance Websites With Astro Islands And Headless CMS",
-          "enclosure": {
-            "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/meta-building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok/meta-building-future-proof-high-performance-websites-astro-islands-headless-cms-storyblok.jpg"
         }
       ]
     },
@@ -334,6 +319,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
+          "author": "Shittu Olumide",
+          "description": "Pandas is a widely used open-source library in Python for data manipulation and analysis. It provides a range of data structures and functions for working with data, one of which is the DataFrame.  DataFrames are a powerful tool for storing and analyzing large sets of data, but they can",
+          "link": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
+          "publishedOn": "2023-03-24T18:06:00.000Z",
+          "wordCount": 1308,
+          "title": "Dataframe to CSV – How to Save Pandas Dataframes by Exporting",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Dataframe-to-CSV---How-to-Save-Pandas-Dataframes-by-Exporting.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/",
+          "author": "Mwendwa Bundi Emma",
+          "description": "Sometimes, when you visit a website, you'll notice that certain elements or a particular section gets revealed dynamically as you scroll.  It's like the contents of that particular section weren't available to view until you scrolled into the section – but now, because you're there, the website decides to",
+          "link": "https://www.freecodecamp.org/news/scroll-animations-with-javascript-intersection-observer-api/",
+          "publishedOn": "2023-03-24T17:42:18.000Z",
+          "wordCount": 1812,
+          "title": "How to Add Scroll Animations to a Page with JavaScript's Intersection Observer API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/observer-api.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/",
+          "author": "Kolade Chris",
+          "description": "If you’re working with a database, whether large or small, there might be occasions when you need to search for some entries containing strings. In this article, I’ll show you how to locate strings and substrings in MySQL and SQL Server. I‘ll be using a table I call products_data in",
+          "link": "https://www.freecodecamp.org/news/sql-where-contains-string-substring-query-example/",
+          "publishedOn": "2023-03-23T22:36:06.000Z",
+          "wordCount": 1674,
+          "title": "SQL Where Contains String – Substring Query Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sqlSubstring.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/",
+          "author": "Jaja Ibifubara David",
+          "description": "Are you looking for an elegant way to reveal content on your React website as users scroll down the page? Look no further than the Intersection Observer API. In this article, you’ll learn how to implement the reveal on scroll effect in React using Intersection Observer. This will allow you",
+          "link": "https://www.freecodecamp.org/news/reveal-on-scroll-in-react-using-the-intersection-observer-api/",
+          "publishedOn": "2023-03-23T22:20:44.000Z",
+          "wordCount": 2351,
+          "title": "How to Implement Reveal on Scroll in React using the Intersection Observer API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Group-107.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-remove-from-list-how-to-remove-an-item-from-a-list-in-python-2/",
           "author": "Shittu Olumide",
@@ -1703,76 +1728,6 @@
           "wordCount": 51159,
           "title": "Introduction to Linux",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nested-functions-in-google-sheets/",
-          "author": "Eamonn Cottrell",
-          "description": "Data analysis is an extremely valuable skill to have. But to make the most of your analysis, it's invaluable to get your data neat and orderly.  In this article, I'll show you how to combine several functions together to better organize your data. gif of toys talking to each",
-          "link": "https://www.freecodecamp.org/news/nested-functions-in-google-sheets/",
-          "publishedOn": "2023-02-23T01:49:44.000Z",
-          "wordCount": 1582,
-          "title": "How to Use Nested Functions in Google Sheets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/nesting-functions-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/",
-          "author": "Kingsley Ubah",
-          "description": "Recently, I came across a tutorial about how to create a 3D tilting card effect (with mouse tracking functionality) on Kevin Powell's YouTube channel [https://www.youtube.com/@KevinPowell]. Kevin used HTML, CSS, and JavaScript to create the markup, style the card, and implement the mouse tracking functionality, respectively. In this tutorial, we'll take",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-3d-tilting-card-in-react-native/",
-          "publishedOn": "2023-02-22T16:35:15.000Z",
-          "wordCount": 2016,
-          "title": "How to Create a 3D Tilting Card Effect in React Native",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Untitled-design--14--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/remote-branches-in-git/",
-          "author": "Dionysia Lemonaki",
-          "description": "Git is a free and open-source tool. Specifically, it is the most popular version control system used in software development today. Git allows you to keep track of and maintain different versions of a coding project. With Git, developers and technical teams can collaborate and work together on a project.",
-          "link": "https://www.freecodecamp.org/news/remote-branches-in-git/",
-          "publishedOn": "2023-02-22T16:22:30.000Z",
-          "wordCount": 1437,
-          "title": "What is a Remote Branch in Git? How to Check out Remote Branches from GitHub",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-antonio-borriello-1297611.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In mathematics, there are certain operations that are considered to be mathematically undefined operations.  Some examples of these undefined operations are:  * The square root of a negative number (√-2).   * A divisor with a value of zero (20/0).  The \"ValueError: math domain error\" error",
-          "link": "https://www.freecodecamp.org/news/valueerror-python-math-domain-error-solved/",
-          "publishedOn": "2023-02-22T16:11:13.000Z",
-          "wordCount": 1307,
-          "title": "ValueError: math domain error [Solved Python Error]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/python-math-domain-error.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/",
-          "author": "Kolade Chris",
-          "description": "The Open-Closed principle (OCP) is one the 5 SOLID design principles. It was popularized by the American computer scientist and instructor, Robert C. Martin (aka Uncle Bob) in a paper he published in 2000. The other 4 SOLID design principles are:  * Single Responsibility Principle (SRP)  * Liskov",
-          "link": "https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/",
-          "publishedOn": "2023-02-22T15:50:42.000Z",
-          "wordCount": 1757,
-          "title": "Open-Closed Principle – SOLID Architecture Concept Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/chests-34153_1280.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-build-your-own-open-source-project/",
-          "author": "Prakhar Tiwari",
-          "description": "After starting to learn about Open Source and making some good contributions during my first Hacktoberfest, I was moving ahead in my OSS journey.  I wanted to have a big project of my own to which others could contribute. Fortunately, I had an idea for a project, and decided",
-          "link": "https://www.freecodecamp.org/news/why-build-your-own-open-source-project/",
-          "publishedOn": "2023-02-22T15:41:31.000Z",
-          "wordCount": 2783,
-          "title": "Why You Should Build Your Own Open-Source Project",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/My-experience-as-an-Open-Source-Project-Maintainer-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-remove-key-from-dictionary/",
-          "author": "Shittu Olumide",
-          "description": "Dictionaries are a useful data type in Python for storing data in a key-value format. And there are times when you might need to remove a particular key-value pair from a dictionary.  You'll learn some dictionary basics, as well as how to delete keys, in this tutorial. How to",
-          "link": "https://www.freecodecamp.org/news/python-remove-key-from-dictionary/",
-          "publishedOn": "2023-02-22T15:36:57.000Z",
-          "wordCount": 1319,
-          "title": "Python Remove Key from Dictionary – How to Delete Keys from a Dict",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Python-Remove-Key-from-Dictionary---How-to-Delete-Keys-from-a-Dict-by-Shittu-Olumide-1.png"
         }
       ]
     }
