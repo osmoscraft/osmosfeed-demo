@@ -320,6 +320,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
+          "author": "Liz Johnson",
+          "description": "Over the last couple years, I've learned that being a consultant means you have to be able to learn new things quickly. At first, this was really scary to me. Now, as someone who has had to learn several new tech stacks over the last year, it’s still a little",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
+          "publishedOn": "2023-03-25T17:11:53.000Z",
+          "wordCount": 2584,
+          "title": "How to Learn Different Tech Stacks IRL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/ilya-pavlov-OqtafYT5kTw-unsplash-1.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/",
           "author": "Shittu Olumide",
           "description": "Pandas is a widely used open-source library in Python for data manipulation and analysis. It provides a range of data structures and functions for working with data, one of which is the DataFrame.  DataFrames are a powerful tool for storing and analyzing large sets of data, but they can",
@@ -1648,86 +1658,6 @@
           "wordCount": 1691,
           "title": "Python Sorted List – And How to Sort or Reverse an Array in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Python-Sorted-List---And-How-to-Sort-or-Reverse-an-Array-in-Python--by-Shittu-Olumide-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/",
-          "author": "Edeh Israel Chidera",
-          "description": "There are various situations where you need to convert a string to a number. Whether you are working with user input or data from an external source, converting a string to a number is a common task for developers. This article will explore some of the most common methods to",
-          "link": "https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/",
-          "publishedOn": "2023-02-23T23:22:15.000Z",
-          "wordCount": 1258,
-          "title": "How to Convert a String to an Integer in C# – with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/",
-          "author": "Kolade Chris",
-          "description": "If you’re working with a spreadsheet that contains sensitive or private data, then some rows and columns might be hidden. You might also need to hide unimportant information or data you don’t want others to see in your own spreadsheet. In these cases, you might need to unhide those hidden",
-          "link": "https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/",
-          "publishedOn": "2023-02-23T22:45:03.000Z",
-          "wordCount": 1285,
-          "title": "How to Unhide a Row or Column in Excel – Or Unhide All Rows and Columns",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/unhideExcel.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-you-should-use-log-management-software/",
-          "author": "Andrej Kovacevic",
-          "description": "Logging, safeguarding, and utilizing data is a massive part of any software development operation. And chronological records of events have become an invaluable tool for determining future decisions. Today, we're fortunate enough to have the concept of system logs, which represents a collection of files. These files have data crucial",
-          "link": "https://www.freecodecamp.org/news/why-you-should-use-log-management-software/",
-          "publishedOn": "2023-02-23T21:24:21.000Z",
-          "wordCount": 1912,
-          "title": "Why Your Company Should Be Using Log Management Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/12/log-management-apple-mac-tech.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-virtual-inheritance/",
-          "author": "Abhilekh Gautam",
-          "description": "C++ supports the concept of inheritance – that is, a class can inherit properties from other classes.  But sometimes you might need to use what is commonly referred as virtual inheritance.  In this article we will discuss when you might need to use virtual inheritance and how to",
-          "link": "https://www.freecodecamp.org/news/what-is-virtual-inheritance/",
-          "publishedOn": "2023-02-23T21:09:43.000Z",
-          "wordCount": 1348,
-          "title": "What is Virtual Inheritance?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-ruiyang-zhang-3717242.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
-          "author": "Jessica Rose",
-          "description": "Over the past 24 months Ramón Huidobro [https://twitter.com/hola_soy_milk] and I have been running free programming bootcamps teaching web development and JavaScript skills.  We've been stunned by the demand for these courses, which averaged 8,000 learners per cohort and let us reach 35,000 unique learners in total.  We've also",
-          "link": "https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/",
-          "publishedOn": "2023-02-23T15:57:06.000Z",
-          "wordCount": 1087,
-          "title": "The Bad Website Club (and more free Bootcamps)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-monoar-rahman-114907.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/",
-          "author": "Velda Kiara",
-          "description": "When I was a young girl, we used to have sports competitions like running a hundred meters, relays, swimming, and basketball games.  My strengths were swimming and basketball. I went home with many gifts or, as my school's game master said, a token of appreciation. A token is a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/",
-          "publishedOn": "2023-02-23T15:53:00.000Z",
-          "wordCount": 2714,
-          "title": "How to Implement Tokenization using JWT and Django Rest Framework",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/01/Purple-Colorful-Tech-22-YouTube-Channel-Art.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-linux-part-2/",
-          "author": "Beau Carnes",
-          "description": "In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical User Interfaces and powerful command line tool ecosystem. This is",
-          "link": "https://www.freecodecamp.org/news/introduction-to-linux-part-2/",
-          "publishedOn": "2023-02-23T13:49:38.000Z",
-          "wordCount": 3588,
-          "title": "Introduction to Linux, Part 2",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-linux/",
-          "author": "Beau Carnes",
-          "description": "If you're new to Linux, this course is for you. In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical",
-          "link": "https://www.freecodecamp.org/news/introduction-to-linux/",
-          "publishedOn": "2023-02-23T13:49:13.000Z",
-          "wordCount": 51159,
-          "title": "Introduction to Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/linux.png"
         }
       ]
     }

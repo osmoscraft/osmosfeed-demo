@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-25T01:02:41.013Z</updated>
+    <updated>2023-03-26T01:10:04.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Different Tech Stacks IRL]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/"/>
+        <updated>2023-03-25T17:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Over the last couple years, I've learned that being a consultant means you have to be able to learn new things quickly. At first, this was really scary to me. Now, as someone who has had to learn several new tech stacks over the last year, it’s still a little]]></summary>
+        <author>
+            <name>Liz Johnson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dataframe to CSV – How to Save Pandas Dataframes by Exporting]]></title>
         <id>https://www.freecodecamp.org/news/dataframe-to-csv-how-to-save-pandas-dataframes-by-exporting/</id>
@@ -1560,86 +1570,6 @@ Everything You Need to Know About the Gap After the List Marker originally publi
         <summary type="html"><![CDATA[Arrays and lists in Python are very interesting data structures.  Both lists and arrays consist of ordered, mutable items – but arrays contain items of the same type, while lists can store multiple types of items.  In this article, we will learn how to reverse an array using]]></summary>
         <author>
             <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert a String to an Integer in C# – with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-a-string-to-an-integer-in-c-sharp/"/>
-        <updated>2023-02-23T23:22:15.000Z</updated>
-        <summary type="html"><![CDATA[There are various situations where you need to convert a string to a number. Whether you are working with user input or data from an external source, converting a string to a number is a common task for developers. This article will explore some of the most common methods to]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Unhide a Row or Column in Excel – Or Unhide All Rows and Columns]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-unhide-a-row-or-column-in-excel-or-unhide-all-rows-and-columns/"/>
-        <updated>2023-02-23T22:45:03.000Z</updated>
-        <summary type="html"><![CDATA[If you’re working with a spreadsheet that contains sensitive or private data, then some rows and columns might be hidden. You might also need to hide unimportant information or data you don’t want others to see in your own spreadsheet. In these cases, you might need to unhide those hidden]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Company Should Be Using Log Management Software]]></title>
-        <id>https://www.freecodecamp.org/news/why-you-should-use-log-management-software/</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-use-log-management-software/"/>
-        <updated>2023-02-23T21:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Logging, safeguarding, and utilizing data is a massive part of any software development operation. And chronological records of events have become an invaluable tool for determining future decisions. Today, we're fortunate enough to have the concept of system logs, which represents a collection of files. These files have data crucial]]></summary>
-        <author>
-            <name>Andrej Kovacevic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Virtual Inheritance?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-virtual-inheritance/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-virtual-inheritance/"/>
-        <updated>2023-02-23T21:09:43.000Z</updated>
-        <summary type="html"><![CDATA[C++ supports the concept of inheritance – that is, a class can inherit properties from other classes.  But sometimes you might need to use what is commonly referred as virtual inheritance.  In this article we will discuss when you might need to use virtual inheritance and how to]]></summary>
-        <author>
-            <name>Abhilekh Gautam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Bad Website Club (and more free Bootcamps)]]></title>
-        <id>https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/</id>
-        <link href="https://www.freecodecamp.org/news/the-bad-website-club-and-more-free-bootcamps/"/>
-        <updated>2023-02-23T15:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Over the past 24 months Ramón Huidobro [https://twitter.com/hola_soy_milk] and I have been running free programming bootcamps teaching web development and JavaScript skills.  We've been stunned by the demand for these courses, which averaged 8,000 learners per cohort and let us reach 35,000 unique learners in total.  We've also]]></summary>
-        <author>
-            <name>Jessica Rose</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Tokenization using JWT and Django Rest Framework]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-jwt-and-django-rest-framework-to-get-tokens/"/>
-        <updated>2023-02-23T15:53:00.000Z</updated>
-        <summary type="html"><![CDATA[When I was a young girl, we used to have sports competitions like running a hundred meters, relays, swimming, and basketball games.  My strengths were swimming and basketball. I went home with many gifts or, as my school's game master said, a token of appreciation. A token is a]]></summary>
-        <author>
-            <name>Velda Kiara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Linux, Part 2]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-linux-part-2/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-linux-part-2/"/>
-        <updated>2023-02-23T13:49:38.000Z</updated>
-        <summary type="html"><![CDATA[In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical User Interfaces and powerful command line tool ecosystem. This is]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Linux]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-linux/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-linux/"/>
-        <updated>2023-02-23T13:49:13.000Z</updated>
-        <summary type="html"><![CDATA[If you're new to Linux, this course is for you. In this comprehensive course, you'll learn many of the tools used every day by both Linux SysAdmins and the millions of people running Linux distributions like Ubuntu on their PCs. This course will teach you how to navigate Linux's Graphical]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
