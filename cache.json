@@ -73,6 +73,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.",
+          "link": "https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/",
+          "publishedOn": "2023-03-27T14:00:00.000Z",
+          "wordCount": 3456,
+          "title": "The Best Handoff Is No Handoff",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/best-handoff-is-no-handoff/meta-best-handoff-is-no-handoff.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/best-handoff-is-no-handoff/meta-best-handoff-is-no-handoff.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/overcoming-challenges-content-creation-informational-websites/",
           "author": "hello@smashingmagazine.com (Paul Boag)",
           "description": "Content matters! Unfortunately, when it comes to informational websites, content quality is often poor. There is no magic answer to fix that. However, there are practical techniques you can use to improve the copy on your websites and ensure your users find the content they are looking for.",
@@ -319,6 +334,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/",
+          "author": "Arunachalam B",
+          "description": "Hello Everyone! Deploying a web application is a challenging task (at least for me), especially when it comes to keeping it updated. It can take up a lot of time and energy if it has to be deployed manually every time you make a change.  But I recently discovered",
+          "link": "https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/",
+          "publishedOn": "2023-03-27T21:53:46.000Z",
+          "wordCount": 3197,
+          "title": "How to Setup a CI/CD Pipeline for a Next.js App using AWS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Deploy-Next.js-using-AWS--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/",
+          "author": "Dario Di Cillo",
+          "description": "Arrays are data structures that are extremely useful and versatile. They're present in many programming languages, and they allow you to store multiple values in a single variable. In this tutorial, we will explore how arrays work in JavaScript, their characteristics, and how to manipulate them using the most common",
+          "link": "https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/",
+          "publishedOn": "2023-03-27T19:45:43.000Z",
+          "wordCount": 6799,
+          "title": "JavaScript Array Tutorial – Array Methods in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/tom-wilson-Em2hPK55o8g-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/",
+          "author": "Shittu Olumide",
+          "description": "In Pandas, sometimes you'll need to remove columns from a DataFrame for various reasons, such as cleaning data, reducing memory usage, or simplifying analysis. And in this article, I'll show you how to do it. I'll start by introducing the .drop() method, which is the primary method for removing columns",
+          "link": "https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/",
+          "publishedOn": "2023-03-27T18:03:48.000Z",
+          "wordCount": 1577,
+          "title": "Dataframe Drop Column in Pandas – How to Remove Columns from Dataframes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Dataframe-Drop-Column-in-Pandas---How-to-Remove-Columns-from-Dataframes.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/",
+          "author": "Deborah Kurata",
+          "description": "Working with Git and GitHub is often an essential part of your daily programming tasks. In many cases, you'll want both a local Git repository and a remote GitHub repository for a project.  * With the local repository, you work on your own copy of the project. You make",
+          "link": "https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/",
+          "publishedOn": "2023-03-27T17:50:47.000Z",
+          "wordCount": 4693,
+          "title": "How to Create and Sync Git and GitHub Repositories",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/thumbnail-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/install-chatgpt-in-vscode/",
+          "author": "Ijeoma Igboagu",
+          "description": "ChatGPT – or Chat Generative Pre-Training Transformer – has been making waves in the tech industry recently.  It was first launched in November 2022 and upgraded to ChatGPT-4 in March 2023. In this tutorial, I will explain how you can use ChatGPT to become more productive. Then I'll walk",
+          "link": "https://www.freecodecamp.org/news/install-chatgpt-in-vscode/",
+          "publishedOn": "2023-03-27T17:50:01.000Z",
+          "wordCount": 1331,
+          "title": "How to Instal ChatGPT in VSCode",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/coverchaat.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! React is a popular JavaScript library for building user interfaces. As applications built with React become more complex, their performance can start to degrade.  Poor performance can lead to a frustrating user experience and a negative impact on user engagement. So in this article, we will discuss",
+          "link": "https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/",
+          "publishedOn": "2023-03-27T17:18:19.000Z",
+          "wordCount": 2468,
+          "title": "How to Measure and Improve the Performance of a React App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nicolas-hoizey-poa-Ycw1W8U-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/set-up-aws-simple-email-service/",
+          "author": "Sophia Iroegbu",
+          "description": "If you're looking for a reliable and cost-effective way to send emails, AWS Simple Email Service (SES) is a great option. It's a cloud-based email platform that helps you send and receive emails quickly and easily.  With SES, you don't have to worry about managing your mail server, and",
+          "link": "https://www.freecodecamp.org/news/set-up-aws-simple-email-service/",
+          "publishedOn": "2023-03-27T15:44:03.000Z",
+          "wordCount": 1247,
+          "title": "How to Set Up AWS Simple Email Service",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner---Template--3-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
           "author": "Liz Johnson",
