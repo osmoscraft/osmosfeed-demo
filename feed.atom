@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T01:11:28.357Z</updated>
+    <updated>2023-03-30T01:07:23.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Code a Simple Game and Host it on Your Website]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-code-a-simple-game/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-a-simple-game/"/>
+        <updated>2023-03-29T23:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wanted to create your own game to share with others on your website? In this article, we'll be learning how to code a simple game using HTML, CSS, and JavaScript, and then host it on your website.  The game we'll be coding is a classic word-guessing]]></summary>
+        <author>
+            <name>Shane Duggan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Push Dockerized Applications to the Azure Registry]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/"/>
+        <updated>2023-03-29T21:53:05.000Z</updated>
+        <summary type="html"><![CDATA[A common issue on development teams is that an application might work on one developer’s computer but not on the others. Luckily, there's Docker, a popular containerization technology. It works by packing up all the components needed to run the application and then executing the application in an isolated environment.]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the React Context API in Your Projects]]></title>
+        <id>https://www.freecodecamp.org/news/context-api-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/context-api-in-react/"/>
+        <updated>2023-03-29T20:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Managing state is an essential part of developing applications in React. A common way to manage state is by passing props. Passing props means sending data from one component to another. It's a good way to make sure that data gets to the right place in a React application.]]></summary>
+        <author>
+            <name>Dickson Boateng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Google Apps Script Code to Clear Data Ranges in Google Sheets]]></title>
+        <id>https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/"/>
+        <updated>2023-03-29T19:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Google Apps Script allows you to write code in your spreadsheet. It functions like Visual Basic for Applications (VBA) does in Excel. They're both incredibly useful for executing more complicated actions or for automating repetitive tasks. In this article, I'll give you a brief overview of Google Apps Script by]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the Second Argument in JSON.stringify() usually null?]]></title>
+        <id>https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/</id>
+        <link href="https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/"/>
+        <updated>2023-03-29T17:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Usually, when developers use the JSON.stringify() method, the second argument is usually skipped, or with a value null. But this argument has its relevance. Here's a common example usage of JSON.stringify(): const obj = {   name: "Dillion",   language: "JavaScript",   age: 100,   isEngineer:]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Engineering Job Interview – Full Mock Interview]]></title>
+        <id>https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/</id>
+        <link href="https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/"/>
+        <updated>2023-03-29T14:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Are you preparing for a technical programming interview for a software engineering role? If so, you might want to check out this new informative video, which features a mock full-length, real-world coding technical interview. This is a full-length interview between Keith Gali and Kylie Ying. Keith, who is an experienced]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slicing and Indexing in Python – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/slicing-and-indexing-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/slicing-and-indexing-in-python/"/>
+        <updated>2023-03-29T14:26:25.000Z</updated>
+        <summary type="html"><![CDATA[Slicing and indexing are two fundamental concepts in Python. They help you access specific elements in a sequence, such as a list, tuple or string.  By using these techniques, you can extract substrings from strings, filter lists, and extract columns from 2D lists, among other things.  Understanding how]]></summary>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-Grained Access Handling And Data Management With Row-Level Security]]></title>
+        <id>https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/</id>
+        <link href="https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/"/>
+        <updated>2023-03-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter App Development – Create a Twitter Clone]]></title>
         <id>https://www.freecodecamp.org/news/flutter-app-development-create-a-twitter-clone/</id>
@@ -1610,116 +1690,6 @@ Everything You Need to Know About the Gap After the List Marker originally publi
         <summary type="html"><![CDATA[Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Penpot, An Open-Source Design Platform Made For Designers And Developers Alike]]></title>
-        <id>https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/</id>
-        <link href="https://smashingmagazine.com/2023/02/meet-penpot-open-source-design-platform-designers-developers/"/>
-        <updated>2023-02-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving design tools landscape, it can be difficult to keep up with the latest and greatest. In this article, we’ll take a closer look at Penpot, the first design and prototyping tool that’s fully open-source and based on open web standards, making it an ideal choice for both designers and developers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Replace – How to Replace a String or Substring in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/"/>
-        <updated>2023-02-28T02:24:34.000Z</updated>
-        <summary type="html"><![CDATA[When working with JavaScript, you might need to replace a string or substring with a new one. For example, you might want to replace a certain string (like "color” — American English) or substring in a larger text or document with a different string (“colour” — British English). You may]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TailwindCSS vs NextUI – How to Choose a UI Framework]]></title>
-        <id>https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/</id>
-        <link href="https://www.freecodecamp.org/news/tailwindcss-vs-nextui-how-to-choose-a-ui-framework/"/>
-        <updated>2023-02-28T01:20:44.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, choosing the proper UI framework can be tough. This is partly because there are so many options to choose from, each with its strengths and weaknesses.  In this guide, I will discuss the differences between two popular frameworks: Tailwind CSS and NextUI.  Tailwind CSS]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Mobile Apps with Flutter]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mobile-apps-with-flutter/"/>
-        <updated>2023-02-28T01:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is a mobile app development framework from Google that lets you build beautiful, high-performance iOS and Android applications.  In this article, let’s look at what Flutter is and how to work with it. What is Flutter? Flutter is an open-source mobile application development framework created by Google. It]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is RTLO in Hacking? How to Use Right-to-Left Override and Defend Against it]]></title>
-        <id>https://www.freecodecamp.org/news/rtlo-in-hacking/</id>
-        <link href="https://www.freecodecamp.org/news/rtlo-in-hacking/"/>
-        <updated>2023-02-28T00:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Let’s play a lovely game of hide your malware in plain sight. 🐴 Malicious hackers look for all kinds of underhanded tricks to make everyday users victims as a result of common mistakes. They might get someone to click the wrong link, open the wrong website, or execute the wrong]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Revert – How to Reset a File or Commit]]></title>
-        <id>https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/</id>
-        <link href="https://www.freecodecamp.org/news/git-revert-how-to-reset-a-file-or-commit/"/>
-        <updated>2023-02-28T00:21:11.000Z</updated>
-        <summary type="html"><![CDATA[When working on a project with a team or by yourself, it's important to track changes in the code base through version control.  Git provides you with different commands for tracking file changes. These commands will enable you to collaborate with other developers, access file history, manage code, and]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Software Security Handbook – Best Practices for Securing Your Projects]]></title>
-        <id>https://www.freecodecamp.org/news/oss-security-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/oss-security-best-practices/"/>
-        <updated>2023-02-27T22:19:21.000Z</updated>
-        <summary type="html"><![CDATA[Christine Peterson coined the term "Open Source software" or OSS in 1998. It refers to software that is freely available for anyone to use, modify, and distribute.  The source code of OSS is openly available and anyone can modify it who has the necessary technical skills. This allows for]]></summary>
-        <author>
-            <name>Sonya Moisset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Ternary Operator in JavaScript – JS Conditional Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/"/>
-        <updated>2023-02-27T18:40:47.000Z</updated>
-        <summary type="html"><![CDATA[The ternary operator is a helpful feature in JavaScript that allows you to write concise and readable expressions that perform conditional operations on only one line. In this article, you will learn why you may want to use the ternary operator, and you will see an example of how to]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Save a Base64 String as a PDF File on the Client Side in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/save-a-base64-string-as-pdf-on-client-side-in-javascript/"/>
-        <updated>2023-02-27T18:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Base64 strings represent binary objects in textual format. They are designed to transmit binary data between channels that only support a textual format. Sometimes, you might receive PDF files from various services as a Base64 string, and you may need to convert them to a PDF file on the client]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your Own E-Commerce Site with Medusa]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-your-own-e-commerce-site-with-medusa/"/>
-        <updated>2023-02-27T15:36:21.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital age, having an online presence is crucial for businesses of all sizes.  Whether you're an established retailer or an aspiring entrepreneur, an ecommerce site can provide you with a platform to reach a global audience and sell your products or services around the clock. Building an]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Accessible Form Validation]]></title>
-        <id>https://smashingmagazine.com/2023/02/guide-accessible-form-validation/</id>
-        <link href="https://smashingmagazine.com/2023/02/guide-accessible-form-validation/"/>
-        <updated>2023-02-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Each time we build a field validation from scratch, accessibility doesn’t come out of the box. In this guide, Sandrina breaks down what we need to take into consideration, so that nobody gets stuck on an inaccessible invalid field.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sandrina Pereira)</name>
         </author>
     </entry>
 </feed>
