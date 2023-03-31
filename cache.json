@@ -73,6 +73,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/",
+          "author": "hello@smashingmagazine.com (Slava Shestopalov)",
+          "description": "Workshops are all about people: they involve people, are conducted by people, and aim to close the gaps in people’s communication. Slava Shestopalov shares a checklist with everything you need to keep in mind when running a workshop.",
+          "link": "https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/",
+          "publishedOn": "2023-03-30T13:00:00.000Z",
+          "wordCount": 6695,
+          "title": "Organizing Design Workshops: A Detailed Checklist",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/organizing-design-workshops-checklist/organizing-design-workshops-checklist.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/organizing-design-workshops-checklist/organizing-design-workshops-checklist.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
           "description": "Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.",
@@ -296,21 +311,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/vue-case-study-migrating-headless-cms-system/meta-vue-case-study-migrating-headless-cms-system.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s get ready for March with some fresh wallpapers! Designed with love by the community for the community, the wallpaper designs in this collection are available in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2023/02/desktop-wallpaper-calendars-march-2023/",
-          "publishedOn": "2023-02-28T14:30:00.000Z",
-          "wordCount": 4868,
-          "title": "Daydreaming In March (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2023/mar-23-daydreaming-preview-opt.png"
         }
       ]
     },
@@ -319,6 +319,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/",
+          "author": "Ashutosh Krishna",
+          "description": "In today's digital world, online security is really important, and user authentication is a key aspect of it.  Email-based authentication [https://ashutoshkrris.hashnode.dev/how-to-set-up-email-verification-in-a-flask-app]  is one of the most popular and widely used methods for user registration and login. But it's not always reliable, as users can enter fake or invalid",
+          "link": "https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/",
+          "publishedOn": "2023-03-30T22:22:39.000Z",
+          "wordCount": 2597,
+          "title": "How to Use an Email Validation Service for Flask User Authentication",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/email-validation-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/",
+          "author": "Deji Adesoga",
+          "description": "Charts are a great way of visually displaying large sets of data in formats that are easy to understand and analyze. They are a great way of showing the relationship that exists between two or more data sets.  Different types of charts exist, some of which includes bar chart,",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-chart-js-in-angular-using-data-from-a-rest-api/",
+          "publishedOn": "2023-03-30T15:54:23.000Z",
+          "wordCount": 2379,
+          "title": "How to Integrate Chart.js in Angular Using Data from a REST API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Copy-of-Copy-of-Orange-and-White-Vibrant-Food-YouTube-Thumbnail--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-implement-bubble-sort-algorithm-with-javascript/",
+          "author": "Joel Olawanle",
+          "description": "Sorting is an essential task in programming, and the bubble sort algorithm is one of the simplest and most commonly used methods. As a beginner in solving algorithm questions or preparing for an interview, you might wonder how to implement this algorithm effectively. Don't worry; in this article, I will",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-bubble-sort-algorithm-with-javascript/",
+          "publishedOn": "2023-03-30T15:34:25.000Z",
+          "wordCount": 1743,
+          "title": "How To Implement Bubble Sort Algorithm With JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/",
+          "author": "Beau Carnes",
+          "description": "Are you tired of spending hours writing complex Regular Expressions (RegEx) to manipulate strings? Do you want to learn how to build a RegEx generator quickly and easily? Then this course is for you! We just published a course on the freeCodeCamp.org YouTube channel that will teach you build a",
+          "link": "https://www.freecodecamp.org/news/use-chatgpt-to-build-a-regex-generator/",
+          "publishedOn": "2023-03-30T13:33:02.000Z",
+          "wordCount": 918,
+          "title": "Use ChatGPT to Build a Low Code RegEx Generator",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/maxresdefault.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-do-you-use-regular-expression-in-ctrl-f/",
+          "author": "Kolade Chris",
+          "description": "The conventional CTRL + F does not support Regex in many software tools we use in our day-to-day lives. But almost nothing is impossible in the tech world. Many of these software tools, such as VS Code, Chrome browser, Dreamweaver, Jetbrains, and others, have a built-in mechanism that supports RegEx",
+          "link": "https://www.freecodecamp.org/news/how-do-you-use-regular-expression-in-ctrl-f/",
+          "publishedOn": "2023-03-30T13:12:06.000Z",
+          "wordCount": 1185,
+          "title": "How to Use Regular Expressions in CTRL F",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--6-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-mean-in-python-operator-meaning-for-double-colon/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use the double colon (::) in Python to slice or extract elements in a collection such as a list or string. In this article, you'll learn the syntax and how to use :: to slice a list in Python. You'll also learn how to use the parameters associated",
+          "link": "https://www.freecodecamp.org/news/what-does-mean-in-python-operator-meaning-for-double-colon/",
+          "publishedOn": "2023-03-30T07:21:33.000Z",
+          "wordCount": 1303,
+          "title": "What Does :: Mean in Python? Operator Meaning for Double Colon",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nikolai-chernichenko-hFBsF-CX5eQ-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-code-a-simple-game/",
           "author": "Shane Duggan",
@@ -1718,66 +1778,6 @@
           "wordCount": 1343,
           "title": "Python Dictionary – How to Create a Dict in Python (Hashmap)",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Shittu-Olumide-Python-Dictionary---How-to-Create-a-Dict-in-Python--Hashmap--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-csv-file-in-python/",
-          "author": "Damilola Oladele",
-          "description": "CSV is an acronym for comma-separated values. It's a file format that you can use to store tabular data, such as in a spreadsheet. You can also use it to store data from a tabular database.  You can refer to each row in a CSV file as a data",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-csv-file-in-python/",
-          "publishedOn": "2023-03-01T00:43:48.000Z",
-          "wordCount": 1969,
-          "title": "How to Create a CSV File Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/csv-article-cover-image-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linux-server-tutorial/",
-          "author": "Arunachalam B",
-          "description": "Did you know that 96% of the top 1 million web servers [https://www.zdnet.com/home-and-office/networking/can-the-internet-exist-without-linux/]  are running Linux?  Yes. You heard that right. So being able to work with Linux servers is a great skill to have. In this article, you'll learn how to connect to a Linux server using",
-          "link": "https://www.freecodecamp.org/news/linux-server-tutorial/",
-          "publishedOn": "2023-02-28T23:55:22.000Z",
-          "wordCount": 2392,
-          "title": "Linux Server Tutorial – How to Login, Communicate, and Transfer Files",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Server-Commands---Brief-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nodejs-callbacks/",
-          "author": "Aditya Gupta",
-          "description": "Node.js callbacks are a special type of function passed as an argument to another function.  They're called when the function that contains the callback as an argument completes its execution, and allows the code in the callback to run in the meantime. Callbacks help us make asynchronous calls. Even",
-          "link": "https://www.freecodecamp.org/news/nodejs-callbacks/",
-          "publishedOn": "2023-02-28T22:53:02.000Z",
-          "wordCount": 1239,
-          "title": "How Callbacks Work in Node.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/pexels-chepte--cormani-1416530.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-modules/",
-          "author": "Dapo Adedire",
-          "description": "JavaScript, like most programming languages, was initially used for small tasks. But as its popularity grew, so did the amount of code that needed to be written.  Having a large amount of code in a single file can be problematic, so it's helpful to split the code into multiple",
-          "link": "https://www.freecodecamp.org/news/javascript-modules/",
-          "publishedOn": "2023-02-28T20:42:29.000Z",
-          "wordCount": 1621,
-          "title": "JavaScript Modules – How to Create, Import, and Export a Module in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Add-a-subheading--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tabs-in-jetpack-compose/",
-          "author": "Tomer Ben Rachel",
-          "description": "We’ve all seen it. We’ve all done it. Ain’t nothing like good ol’ tabs to organize content in a complex application. So how do we go about creating a tab layout in Jetpack Compose?  In this tutorial, we’ll go over all of the basics, but also show some things",
-          "link": "https://www.freecodecamp.org/news/tabs-in-jetpack-compose/",
-          "publishedOn": "2023-02-28T19:09:07.000Z",
-          "wordCount": 2831,
-          "title": "How to Create Tabs in Jetpack Compose",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/chiara-f-MI8He1NWPWg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/",
-          "author": "Beau Carnes",
-          "description": "AlphaZero is a game-playing algorithm that uses artificial intelligence and machine learning techniques to learn how to play board games at a superhuman level. We just published a machine learning course on the freeCodeCamp.org channel that will teach you how  to build AlphaZero from scratch. Robert Förster created this course.",
-          "link": "https://www.freecodecamp.org/news/code-alphazero-machine-learning-algorithm/",
-          "publishedOn": "2023-02-28T16:04:29.000Z",
-          "wordCount": 957,
-          "title": "Code an AlphaZero Machine Learning Algorithm to Play Games",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/alphazero.png"
         }
       ]
     }
