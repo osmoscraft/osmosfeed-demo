@@ -73,6 +73,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "With April just around the corner, we have a new collection of desktop and mobile wallpapers waiting for you to celebrate the beginning of the new month. Designed by creatives from all across the globe, the wallpapers come in versions with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/",
+          "publishedOn": "2023-03-31T08:00:00.000Z",
+          "wordCount": 5477,
+          "title": "Swing Into April (2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-23-the-lonliest-house-in-the-world-cal-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-23-the-lonliest-house-in-the-world-cal-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/",
           "author": "hello@smashingmagazine.com (Slava Shestopalov)",
           "description": "Workshops are all about people: they involve people, are conducted by people, and aim to close the gaps in people’s communication. Slava Shestopalov shares a checklist with everything you need to keep in mind when running a workshop.",
@@ -296,21 +311,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/ai-technology-transform-design/meta-ai-technology-transform-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/",
-          "author": "hello@smashingmagazine.com (Lisi Linhart)",
-          "description": "In this article, Elisabeth Wieser-Linhart explores its potential benefits and drawbacks and shares what considerations and steps were involved in the process of migrating the front-end interface of Storyblok’s headless content management system.",
-          "link": "https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/",
-          "publishedOn": "2023-03-02T09:00:00.000Z",
-          "wordCount": 6310,
-          "title": "Moving From Vue 1 To Vue 2 To Vue 3: A Case Study Of Migrating A Headless CMS System",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/vue-case-study-migrating-headless-cms-system/meta-vue-case-study-migrating-headless-cms-system.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/vue-case-study-migrating-headless-cms-system/meta-vue-case-study-migrating-headless-cms-system.jpg"
         }
       ]
     },
@@ -319,6 +319,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/",
+          "author": "Edeh Israel Chidera",
+          "description": "Java is a widely popular programming language that has been used for years in various domains, including web development, mobile app development, desktop applications, and game development.  On the other hand, Kotlin is a relatively new programming language that has been gaining popularity in recent years. Both languages are",
+          "link": "https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/",
+          "publishedOn": "2023-03-31T20:21:28.000Z",
+          "wordCount": 1502,
+          "title": "Kotlin VS Java – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/emile-perron-xrVDYZRGdw4-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/most-asked-questions-about-insertion-sort-algorithm/",
+          "author": "Joel Olawanle",
+          "description": "Sorting algorithms are an essential part of computer science. There are many sorting algorithms used to sort data. The insertion sort algorithm is one of the most basic and simple sorting algorithms. It is an efficient algorithm for small input sizes or for partially sorted data. The algorithm works by",
+          "link": "https://www.freecodecamp.org/news/most-asked-questions-about-insertion-sort-algorithm/",
+          "publishedOn": "2023-03-31T19:26:33.000Z",
+          "wordCount": 1691,
+          "title": "Insertion Sort Algorithm - Most Asked Questions About Insertion Sort",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/",
+          "author": "Idris Olubisi",
+          "description": "In a world where online content is growing exponentially, it's more important than ever to produce unique content that stands out. Paraphrasing tools can offer a quick solution to help you develop unique ideas and create original content. With the help of ReactJs and ChatGPT Turbo, developers can build a",
+          "link": "https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/",
+          "publishedOn": "2023-03-31T17:51:04.000Z",
+          "wordCount": 1971,
+          "title": "How to Build a Paraphrasing Tool with ReactJs & ChatGPT Turbo",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/paraphrase.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-numbers-in-javascript-arrays/",
+          "author": "Dionysia Lemonaki",
+          "description": "An array in JavaScript is an object that allows you to store an ordered collection of multiple values under a single variable name and manipulate those values in numerous ways. In this article, you will learn how to calculate the sum of all the numbers in a given array using",
+          "link": "https://www.freecodecamp.org/news/how-to-add-numbers-in-javascript-arrays/",
+          "publishedOn": "2023-03-31T17:45:12.000Z",
+          "wordCount": 1292,
+          "title": "JS Sum of an Array – How to Add the Numbers in a JavaScript Array",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-chelsey-horne-4506938.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/comments-in-json/",
+          "author": "Joel Olawanle",
+          "description": "JSON (JavaScript Object Notation) is a popular data interchange format used in web development and mobile applications due to its simplicity and flexibility. But JSON files do not officially support comments. This makes providing additional context or explanation for the data challenging. This article will show you how to include",
+          "link": "https://www.freecodecamp.org/news/comments-in-json/",
+          "publishedOn": "2023-03-31T15:10:51.000Z",
+          "wordCount": 1220,
+          "title": "Comments Inside JSON – Commenting in a JSON File",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/",
+          "author": "Kolade Chris",
+          "description": "Regular expressions (RegEx or RegExp for short) are a sequence of characters that define a search pattern. You can use them to search, replace, and validate the strings of a text in a wide variety of applications, such as text editors, developer tools, and command line tools. RegEx is also",
+          "link": "https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/",
+          "publishedOn": "2023-03-31T11:50:00.000Z",
+          "wordCount": 1178,
+          "title": "How to Include an Empty String in RegEx",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--7-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/",
           "author": "Ashutosh Krishna",
@@ -1678,106 +1738,6 @@
           "wordCount": 1131,
           "title": "Regular Expression Metacharacters - What Does \\d Mean in RegEx?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/public-apis-for-developers/",
-          "author": "Ijeoma Igboagu",
-          "description": "A public API, also known as an external API, is a type of application programming interface that allows developers to access specific features and data of a software application or service.  It is \"public\" in the sense that it is made available to third-party developers and is not limited",
-          "link": "https://www.freecodecamp.org/news/public-apis-for-developers/",
-          "publishedOn": "2023-03-02T00:28:23.000Z",
-          "wordCount": 2974,
-          "title": "Public APIs Developers Can Use in Their Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/api-cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-for-beginners/",
-          "author": "Patrick Cyubahiro",
-          "description": "Have you always been interested in learning HTML but didn't know where or how to start? Well, this guide is for you. In it, we will look at:  * An introduction to HTML  * A Brief History of HTML  * Why Learn HTML?  * Prerequisites for",
-          "link": "https://www.freecodecamp.org/news/html-for-beginners/",
-          "publishedOn": "2023-03-01T23:34:27.000Z",
-          "wordCount": 1745,
-          "title": "HTML for Beginners – How to Get Started with Web Development Basics",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/jackson-sophat-_t-l5FFH8VA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-categories-to-ruby-on-rails-apps/",
-          "author": "Sampurna Chapagain",
-          "description": "Creating a category page is essential for most web applications these days. Different kinds of applications like blogs, ecommerce sites, movie streaming platforms, and many others have category features. This article will show how to add categories to Ruby on Rails applications. This is a beginner-friendly tutorial, so you can",
-          "link": "https://www.freecodecamp.org/news/how-to-add-categories-to-ruby-on-rails-apps/",
-          "publishedOn": "2023-03-01T23:31:16.000Z",
-          "wordCount": 1411,
-          "title": "How to Add Categories to a Ruby on Rails Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/fcccat.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/",
-          "author": "Hillary Nyakundi",
-          "description": "Python is a programming language that has relatively simple syntax. This makes it an ideal choice for beginners who are just starting out in the field of programming.  Python is also a very versatile language, which means that you can use i for a wide variety of tasks and",
-          "link": "https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/",
-          "publishedOn": "2023-03-01T23:22:11.000Z",
-          "wordCount": 2210,
-          "title": "Why Python is Good for Beginners – and How to Start Learning It",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/OOP--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-airflow/",
-          "author": "Aviator Ifeanyichukwu",
-          "description": "Data Orchestration involves using different tools and technologies together to extract, transform, and load (ETL) data from multiple sources into a central repository.  Data orchestration typically involves a combination of technologies such as data integration tools and data warehouses. Apache Airflow is a tool for data orchestration. With Airflow,",
-          "link": "https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-airflow/",
-          "publishedOn": "2023-03-01T22:42:42.000Z",
-          "wordCount": 1776,
-          "title": "How to Orchestrate an ETL Data Pipeline with Apache Airflow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/etl_image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/",
-          "author": "Anthony Behery",
-          "description": "Speed is important in programming languages, and some execute much faster than others. For example, you might know that C++ is faster than Python. So why is this the case? Well, C++ is a language that uses a compiler, not to mention it is a much lower-level programming language than",
-          "link": "https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/",
-          "publishedOn": "2023-03-01T19:07:56.000Z",
-          "wordCount": 2255,
-          "title": "Python VS C++ Time Complexity Analysis",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/aron-visuals-BXOXnQ26B7o-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automate-excel-tasks-with-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "",
-          "link": "https://www.freecodecamp.org/news/automate-excel-tasks-with-python/",
-          "publishedOn": "2023-03-01T19:04:17.000Z",
-          "wordCount": 2677,
-          "title": "How to Automate Excel Tasks with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/FreecodeCamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/",
-          "author": "David Clinton",
-          "description": "I've talked a lot about security and privacy in my \"A Beginners Guide to Digital Security [/news/understanding-digital-security/]\" and \"What Is Digital Privacy [/news/beginners-guide-to-digital-privacy/]\" articles. So why are we flogging this certifiably dead horse now? Because it's not dead. Security and privacy are as or more important than anything else in",
-          "link": "https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/",
-          "publishedOn": "2023-03-01T18:36:46.000Z",
-          "wordCount": 2664,
-          "title": "Security and Privacy – What You Should Know to Protect Your Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-photomix-company-96612.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/",
-          "author": "Kolade Chris",
-          "description": "Virtually all the programming languages out there support regular expressions. Regex is built into languages like JavaScript and Pearl, while others like Java and Python have standard libraries for working with it. In this article, we’ll look at how you can import regular expressions in Python and use it. We’ll",
-          "link": "https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/",
-          "publishedOn": "2023-03-01T17:28:02.000Z",
-          "wordCount": 2095,
-          "title": "Python RegEx – How to Import a Regular Expression in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/regexpy.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/",
-          "author": "Shittu Olumide",
-          "description": "Welcome to this Python article on creating a dictionary (also called a hashmap).  A dictionary or hashmap is an unordered grouping of key-value pairs in Python. Since each value can be accessed by its corresponding key, it offers a practical means of storing and retrieving data. We'll cover the",
-          "link": "https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/",
-          "publishedOn": "2023-03-01T15:44:00.000Z",
-          "wordCount": 1343,
-          "title": "Python Dictionary – How to Create a Dict in Python (Hashmap)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/Shittu-Olumide-Python-Dictionary---How-to-Create-a-Dict-in-Python--Hashmap--1.png"
         }
       ]
     }

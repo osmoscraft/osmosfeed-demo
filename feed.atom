@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T01:06:40.691Z</updated>
+    <updated>2023-04-01T01:04:53.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kotlin VS Java – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/</id>
+        <link href="https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/"/>
+        <updated>2023-03-31T20:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Java is a widely popular programming language that has been used for years in various domains, including web development, mobile app development, desktop applications, and game development.  On the other hand, Kotlin is a relatively new programming language that has been gaining popularity in recent years. Both languages are]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insertion Sort Algorithm - Most Asked Questions About Insertion Sort]]></title>
+        <id>https://www.freecodecamp.org/news/most-asked-questions-about-insertion-sort-algorithm/</id>
+        <link href="https://www.freecodecamp.org/news/most-asked-questions-about-insertion-sort-algorithm/"/>
+        <updated>2023-03-31T19:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Sorting algorithms are an essential part of computer science. There are many sorting algorithms used to sort data. The insertion sort algorithm is one of the most basic and simple sorting algorithms. It is an efficient algorithm for small input sizes or for partially sorted data. The algorithm works by]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Paraphrasing Tool with ReactJs & ChatGPT Turbo]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-paraphrasing-tool-with-reactjs-chatgpt-turbo/"/>
+        <updated>2023-03-31T17:51:04.000Z</updated>
+        <summary type="html"><![CDATA[In a world where online content is growing exponentially, it's more important than ever to produce unique content that stands out. Paraphrasing tools can offer a quick solution to help you develop unique ideas and create original content. With the help of ReactJs and ChatGPT Turbo, developers can build a]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Sum of an Array – How to Add the Numbers in a JavaScript Array]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-numbers-in-javascript-arrays/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-numbers-in-javascript-arrays/"/>
+        <updated>2023-03-31T17:45:12.000Z</updated>
+        <summary type="html"><![CDATA[An array in JavaScript is an object that allows you to store an ordered collection of multiple values under a single variable name and manipulate those values in numerous ways. In this article, you will learn how to calculate the sum of all the numbers in a given array using]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comments Inside JSON – Commenting in a JSON File]]></title>
+        <id>https://www.freecodecamp.org/news/comments-in-json/</id>
+        <link href="https://www.freecodecamp.org/news/comments-in-json/"/>
+        <updated>2023-03-31T15:10:51.000Z</updated>
+        <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular data interchange format used in web development and mobile applications due to its simplicity and flexibility. But JSON files do not officially support comments. This makes providing additional context or explanation for the data challenging. This article will show you how to include]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Include an Empty String in RegEx]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-include-empty-string-in-regex/"/>
+        <updated>2023-03-31T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Regular expressions (RegEx or RegExp for short) are a sequence of characters that define a search pattern. You can use them to search, replace, and validate the strings of a text in a wide variety of applications, such as text editors, developer tools, and command line tools. RegEx is also]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swing Into April (2023 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/</id>
+        <link href="https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/"/>
+        <updated>2023-03-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With April just around the corner, we have a new collection of desktop and mobile wallpapers waiting for you to celebrate the beginning of the new month. Designed by creatives from all across the globe, the wallpapers come in versions with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use an Email Validation Service for Flask User Authentication]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-email-validation-api-for-flask-user-authentication/</id>
@@ -1581,115 +1651,6 @@ Everything You Need to Know About the Gap After the List Marker originally publi
         <summary type="html"><![CDATA[Regular expressions, otherwise known as RegEx or RegExp for short, are a defined pattern for matching a string or specific part(s) of a string. This string includes any character out there, be it letters, symbols, or digits. In this article, we’ll look at the RegEx character \d, which you can]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving From Vue 1 To Vue 2 To Vue 3: A Case Study Of Migrating A Headless CMS System]]></title>
-        <id>https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/</id>
-        <link href="https://smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/"/>
-        <updated>2023-03-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Elisabeth Wieser-Linhart explores its potential benefits and drawbacks and shares what considerations and steps were involved in the process of migrating the front-end interface of Storyblok’s headless content management system.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lisi Linhart)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Public APIs Developers Can Use in Their Projects]]></title>
-        <id>https://www.freecodecamp.org/news/public-apis-for-developers/</id>
-        <link href="https://www.freecodecamp.org/news/public-apis-for-developers/"/>
-        <updated>2023-03-02T00:28:23.000Z</updated>
-        <summary type="html"><![CDATA[A public API, also known as an external API, is a type of application programming interface that allows developers to access specific features and data of a software application or service.  It is "public" in the sense that it is made available to third-party developers and is not limited]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML for Beginners – How to Get Started with Web Development Basics]]></title>
-        <id>https://www.freecodecamp.org/news/html-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/html-for-beginners/"/>
-        <updated>2023-03-01T23:34:27.000Z</updated>
-        <summary type="html"><![CDATA[Have you always been interested in learning HTML but didn't know where or how to start? Well, this guide is for you. In it, we will look at:  * An introduction to HTML  * A Brief History of HTML  * Why Learn HTML?  * Prerequisites for]]></summary>
-        <author>
-            <name>Patrick Cyubahiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Categories to a Ruby on Rails Application]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-categories-to-ruby-on-rails-apps/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-categories-to-ruby-on-rails-apps/"/>
-        <updated>2023-03-01T23:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Creating a category page is essential for most web applications these days. Different kinds of applications like blogs, ecommerce sites, movie streaming platforms, and many others have category features. This article will show how to add categories to Ruby on Rails applications. This is a beginner-friendly tutorial, so you can]]></summary>
-        <author>
-            <name>Sampurna Chapagain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Python is Good for Beginners – and How to Start Learning It]]></title>
-        <id>https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/</id>
-        <link href="https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/"/>
-        <updated>2023-03-01T23:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Python is a programming language that has relatively simple syntax. This makes it an ideal choice for beginners who are just starting out in the field of programming.  Python is also a very versatile language, which means that you can use i for a wide variety of tasks and]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Orchestrate an ETL Data Pipeline with Apache Airflow]]></title>
-        <id>https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-airflow/</id>
-        <link href="https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-airflow/"/>
-        <updated>2023-03-01T22:42:42.000Z</updated>
-        <summary type="html"><![CDATA[Data Orchestration involves using different tools and technologies together to extract, transform, and load (ETL) data from multiple sources into a central repository.  Data orchestration typically involves a combination of technologies such as data integration tools and data warehouses. Apache Airflow is a tool for data orchestration. With Airflow,]]></summary>
-        <author>
-            <name>Aviator Ifeanyichukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python VS C++ Time Complexity Analysis]]></title>
-        <id>https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/</id>
-        <link href="https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/"/>
-        <updated>2023-03-01T19:07:56.000Z</updated>
-        <summary type="html"><![CDATA[Speed is important in programming languages, and some execute much faster than others. For example, you might know that C++ is faster than Python. So why is this the case? Well, C++ is a language that uses a compiler, not to mention it is a much lower-level programming language than]]></summary>
-        <author>
-            <name>Anthony Behery</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Excel Tasks with Python]]></title>
-        <id>https://www.freecodecamp.org/news/automate-excel-tasks-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/automate-excel-tasks-with-python/"/>
-        <updated>2023-03-01T19:04:17.000Z</updated>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security and Privacy – What You Should Know to Protect Your Data]]></title>
-        <id>https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/</id>
-        <link href="https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/"/>
-        <updated>2023-03-01T18:36:46.000Z</updated>
-        <summary type="html"><![CDATA[I've talked a lot about security and privacy in my "A Beginners Guide to Digital Security [/news/understanding-digital-security/]" and "What Is Digital Privacy [/news/beginners-guide-to-digital-privacy/]" articles. So why are we flogging this certifiably dead horse now? Because it's not dead. Security and privacy are as or more important than anything else in]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python RegEx – How to Import a Regular Expression in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/"/>
-        <updated>2023-03-01T17:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Virtually all the programming languages out there support regular expressions. Regex is built into languages like JavaScript and Pearl, while others like Java and Python have standard libraries for working with it. In this article, we’ll look at how you can import regular expressions in Python and use it. We’ll]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Dictionary – How to Create a Dict in Python (Hashmap)]]></title>
-        <id>https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/"/>
-        <updated>2023-03-01T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this Python article on creating a dictionary (also called a hashmap).  A dictionary or hashmap is an unordered grouping of key-value pairs in Python. Since each value can be accessed by its corresponding key, it offers a practical means of storing and retrieving data. We'll cover the]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
         </author>
     </entry>
 </feed>
