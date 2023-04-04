@@ -63,6 +63,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/",
+          "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
+          "description": "This article highlights non-technical skills like curiosity, observation, empathy, advocacy, visual communication, and collaboration that designers routinely use in their process to make a difference through design. AI can be used to augment designers’ workflow instead of replacing people.",
+          "link": "https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/",
+          "publishedOn": "2023-04-03T10:00:00.000Z",
+          "wordCount": 6162,
+          "title": "Beyond Algorithms: Skills Of Designers That AI Can’t Replicate",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/skills-designers-ai-cant-replicate/skills-designers-ai-cant-replicate.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/skills-designers-ai-cant-replicate/skills-designers-ai-cant-replicate.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/03/desktop-wallpaper-calendars-april-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "With April just around the corner, we have a new collection of desktop and mobile wallpapers waiting for you to celebrate the beginning of the new month. Designed by creatives from all across the globe, the wallpapers come in versions with and without a calendar. Enjoy!",
@@ -294,6 +309,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/state-management-in-react-and-react-native-with-pullstate/",
+          "author": "Grant Weatherston",
+          "description": "React and React Native are popular JavaScript libraries that allow developers to create complex user interfaces and mobile applications with ease.  One of the key benefits of both these libraries is that they each have the ability to manage their own state within components. But managing state, along with",
+          "link": "https://www.freecodecamp.org/news/state-management-in-react-and-react-native-with-pullstate/",
+          "publishedOn": "2023-04-03T21:47:52.000Z",
+          "wordCount": 2836,
+          "title": "How to Manage State in React and React Native with the PullState Library",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/state-management.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-manage-virtual-machines-with-vagrant/",
+          "author": "ijeoma Eti",
+          "description": "Creating and managing virtual machines used to be a tedious and time-consuming process. Replicating the VM on a different server can also be challenging, and it gets harder if you have to replicate multiple VMs. But then Vagrant came along, a command-line or shell tool that generally works with Type",
+          "link": "https://www.freecodecamp.org/news/create-and-manage-virtual-machines-with-vagrant/",
+          "publishedOn": "2023-04-03T20:15:11.000Z",
+          "wordCount": 1612,
+          "title": "How to Create and Manage Virtual Machines with the Vagrant Command Line Tool",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screenshot-2023-04-01-at-23.42.01-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/maximum-integer-size-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can check the maximum integer size in Python using the maxsize property of the sys module.  In this article, you'll learn about the maximum integer size in Python. You'll also see the differences in Python 2 and Python 3. The maximum value of an integer shouldn't bother you.",
+          "link": "https://www.freecodecamp.org/news/maximum-integer-size-in-python/",
+          "publishedOn": "2023-04-03T18:20:55.000Z",
+          "wordCount": 913,
+          "title": "Int Max in Python – Maximum Integer Size",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/thomas-t-OPpCbAAKWv8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/",
+          "author": "Njoku Samson Ebere",
+          "description": "Every programmer who wants to write clean CSS and build great user interfaces should understand the CSS Box Model.  Before I understood the foundations of CSS, I would often write unnecessary styles for margins and padding.  CSS Box Model forms the basis for styling any element on a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/",
+          "publishedOn": "2023-04-03T17:29:13.000Z",
+          "wordCount": 1990,
+          "title": "How to Use the CSS Box Model and Style SVG Images",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-tiger-lily-4483610--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-review-tips/",
+          "author": "CHRISTINE T. BELZIE",
+          "description": "Hey, open sourcer! 😊 I’ve heard through the digital webs that you’ve become quite the wordsmith when it comes to giving feedback on pull requests and want to learn something new.  No worries, I’ve been there myself when I started getting more comfortable in the open source world. So,",
+          "link": "https://www.freecodecamp.org/news/code-review-tips/",
+          "publishedOn": "2023-04-03T16:49:44.000Z",
+          "wordCount": 2075,
+          "title": "How to Give Good Feedback for Effective Code Reviews",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-for-first-FCC-article.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/next-vs-react/",
+          "author": "Nishant Kumar",
+          "description": "Hey everyone! Next.js 13 is trending these days, and it's a great time to learn it. But what even is Next.js? What is pre-rendering in Next.js, and why do we use it?  Well, let me explain. What is Next.js? Next.js is a backend framework which is based on React.",
+          "link": "https://www.freecodecamp.org/news/next-vs-react/",
+          "publishedOn": "2023-04-03T16:36:18.000Z",
+          "wordCount": 1548,
+          "title": "Next.js vs React – What are the Differences?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/What--7-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-part-in-dart/",
+          "author": "Rutvik Tak",
+          "description": "When you're coding in Dart, you may come across these  following situations:  1. A class/method is associated with a particular file of your codebase and you     want to keep it private only to that one file  2. You want to break your one big",
+          "link": "https://www.freecodecamp.org/news/how-to-use-part-in-dart/",
+          "publishedOn": "2023-04-03T16:17:12.000Z",
+          "wordCount": 1643,
+          "title": "How to Use part in Dart – Splitting Files for Scoped Access",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/parts-in-dart-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-unit-testing/",
+          "author": "Kunal Nalawade",
+          "description": "Let's say you are developing an application. After long hours of coding, you manage to create some cool features. Now, you want to make sure the features are working as you want. This involves testing if each and every piece of code works as expected. This procedure is known as",
+          "link": "https://www.freecodecamp.org/news/java-unit-testing/",
+          "publishedOn": "2023-04-03T15:37:52.000Z",
+          "wordCount": 3220,
+          "title": "Java Unit Testing for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/photo-1498050108023-c5249f4df085.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-search-large-datasets-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Imagine you're trying to find a needle in a haystack, but the haystack is the size of a mountain. That's what it can feel like to search for specific items in a massive dataset using Python.  But fear not! With the right techniques, you can efficiently search and lookup",
+          "link": "https://www.freecodecamp.org/news/how-to-search-large-datasets-in-python/",
+          "publishedOn": "2023-04-03T15:08:39.000Z",
+          "wordCount": 1649,
+          "title": "How to Effectively Search Large Datasets in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/efffe.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/brief-history-of-open-source/",
+          "author": "Agnes Nduta",
+          "description": "It’s difficult to imagine a world without open source. Open source is ubiquitous. In fact, open source is what powers the internet.  For example, 60% of the world’s websites run on Apache and Nginx, the most popular web servers [https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-protect-it#:~:text=Phones%2C%20cars%2C%20planes%2C%20and,Kubernetes%2C%20which%20powers%20cloud%20computing.] . And yes, even Fortune 500 companies use Nginx.",
+          "link": "https://www.freecodecamp.org/news/brief-history-of-open-source/",
+          "publishedOn": "2023-04-03T14:31:21.000Z",
+          "wordCount": 3395,
+          "title": "A Brief History of Open Source",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-markus-winkler-12081252.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/kotlin-vs-java-whats-the-difference/",
           "author": "Edeh Israel Chidera",
