@@ -44,16 +44,6 @@
           "wordCount": 2555,
           "title": "Creating a Clock with the New CSS sin() and cos() Trigonometry Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377074"
-        },
-        {
-          "id": "https://css-tricks.com/?p=377123",
-          "author": "Ganesh Dahal",
-          "description": "Fonts are a defining characteristic of the design of any site. That includes WordPress themes, where it’s common for theme developers to integrate a service like Google Fonts into the WordPress Customizer settings for a “classic” PHP-based theme. That hasn’t …\nManaging Fonts in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/managing-fonts-in-wordpress-block-themes/",
-          "publishedOn": "2023-03-06T15:26:31.000Z",
-          "wordCount": 2703,
-          "title": "Managing Fonts in WordPress Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377123"
         }
       ]
     },
@@ -62,6 +52,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/04/protect-app-threat-model-jsondiff/",
+          "author": "hello@smashingmagazine.com (Zack Grossbart & Terry Yao)",
+          "description": "If you are a developer who wants to concentrate on delivering a killer application rather than worrying about countless security issues, threat model documents can help you do that. With small architectural changes, we can make these threats manageable and prevent them in the future.",
+          "link": "https://smashingmagazine.com/2023/04/protect-app-threat-model-jsondiff/",
+          "publishedOn": "2023-04-05T13:00:00.000Z",
+          "wordCount": 6693,
+          "title": "How To Protect Your App With A Threat Model Based On JSONDiff",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/protect-app-threat-model-jsondiff/protect-app-threat-model-jsondiff.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/protect-app-threat-model-jsondiff/protect-app-threat-model-jsondiff.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/",
           "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
@@ -271,36 +276,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/dynamic-donut-charts-css-conic-gradient-tailwindcss-react/meta-dynamic-donut-charts-tailwind-css-react.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/",
-          "author": "hello@smashingmagazine.com (Adam Cowley)",
-          "description": "In this article, Adam Cowley examines the Graph behind GraphQL and demonstrates why Neo4j could be the best fit for your next project.",
-          "link": "https://smashingmagazine.com/2023/03/consider-graphs-graphql-project/",
-          "publishedOn": "2023-03-07T12:00:00.000Z",
-          "wordCount": 4883,
-          "title": "Why You Should Consider Graphs For Your Next GraphQL Project",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/consider-graphs-graphql-project/consider-graphs-graphql-project.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/consider-graphs-graphql-project/consider-graphs-graphql-project.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you sometimes feel that all websites look the same? In this post, we compiled web design showcases that prove differently. They highlight some of the finest web designs, well-crafted experiences, and delightful interactions from across the web. Inspiration is guaranteed.",
-          "link": "https://smashingmagazine.com/2023/03/inspiring-web-design-ux-showcases/",
-          "publishedOn": "2023-03-06T16:00:00.000Z",
-          "wordCount": 4654,
-          "title": "Inspiring Web Design And UX Showcases",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/web-design-inspiration-roundup/uijar-opt.png"
         }
       ]
     },
@@ -309,6 +284,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/most-asked-questions-about-bubble-sort/",
+          "author": "Joel Olawanle",
+          "description": "Bubble sort is a simple sorting algorithm that repeatedly loops through a list, compares adjacent elements, and swaps them if they are in the wrong order. The bubble sort algorithm is not the most efficient sorting algorithm when it comes to time complexity. But it is still often used as",
+          "link": "https://www.freecodecamp.org/news/most-asked-questions-about-bubble-sort/",
+          "publishedOn": "2023-04-05T21:40:48.000Z",
+          "wordCount": 1437,
+          "title": "Bubble Sort Algorithm - Most Asked Questions About Bubble Sort",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--6-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-user-input-with-automated-trie-visualization/",
+          "author": "Daniel García Solla",
+          "description": "Data structures play a vital role in computer science. They are essential for designing efficient software infrastructure.  Simply put, a data structure is a way of organizing and storing data in a computer so that it can be accessed and manipulated reliably. Also, it provides a set of operations",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-user-input-with-automated-trie-visualization/",
+          "publishedOn": "2023-04-05T21:24:00.000Z",
+          "wordCount": 4002,
+          "title": "How Trie Data Structures Work – Validate User Input with Automated Trie Visualization",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screenshot-2023-04-04-110030.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/encryption-explained-in-plain-english/",
+          "author": "Daniel Adetunji",
+          "description": "Encryption is a way of scrambling data so that it can only be read by the intended recipient.  Encryption is an integral part of our daily lives – whether you are sending messages to friends on WhatsApp, visiting a website and your browser is making sure it's legitimate, or",
+          "link": "https://www.freecodecamp.org/news/encryption-explained-in-plain-english/",
+          "publishedOn": "2023-04-05T20:09:48.000Z",
+          "wordCount": 2743,
+          "title": "Symmetric and Asymmetric Key Encryption – Explained in Plain English",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-and-publish-python-packages-with-poetry/",
+          "author": "Ashutosh Krishna",
+          "description": "A Python package is a collection of Python modules that can be easily distributed and installed. It allows developers to reuse code across multiple projects and share it with others.  Python packages typically include a set of functions, classes, or other components that serve a specific purpose, such as",
+          "link": "https://www.freecodecamp.org/news/how-to-build-and-publish-python-packages-with-poetry/",
+          "publishedOn": "2023-04-05T18:04:44.000Z",
+          "wordCount": 3885,
+          "title": "How to Build and Publish Python Packages With Poetry",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/phone-number-validator.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-personal-website-with-next-js-13-sanity-io-tailwindcss-and-typescript/",
+          "author": "Beau Carnes",
+          "description": "Creating a personal website can be an excellent way to practice various developer skills. And it can also help showcases your skills, projects, and accomplishments. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a personal website using Next.js 13 for the",
+          "link": "https://www.freecodecamp.org/news/create-a-personal-website-with-next-js-13-sanity-io-tailwindcss-and-typescript/",
+          "publishedOn": "2023-04-05T14:15:20.000Z",
+          "wordCount": 944,
+          "title": "Create a Personal Website with Next.js 13, Sanity.io, TailwindCSS, and TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/sanity.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/",
+          "author": "Dhawal Shah",
+          "description": "Many universities offer online courses for credit. Class Central [https://www.classcentral.com/] has already compiled 70+ MOOC-based master’s degrees [https://www.classcentral.com/report/mooc-based-masters-degree/]. Many of the courses in these online degree programs are publicly available: anyone with an internet connection can take them. Some of these courses are “freebies” meant to give prospective students a",
+          "link": "https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/",
+          "publishedOn": "2023-04-05T10:00:00.000Z",
+          "wordCount": 9110,
+          "title": "850+ Online Courses with Real College Credit that You Can Access for Free",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/college-credit-banner.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/angular-signals/",
+          "author": "Deborah Kurata",
+          "description": "An exciting new feature is coming to Angular: signals! Signals provide a new way for our code to tell our templates (and other code) that our data has changed. This improves Angular's change detection, which also improves performance, and makes our code more reactive. You can try out this powerful",
+          "link": "https://www.freecodecamp.org/news/angular-signals/",
+          "publishedOn": "2023-04-05T00:53:15.000Z",
+          "wordCount": 3752,
+          "title": "Signals in Angular – How to Write More Reactive Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/",
+          "author": "Jaja Ibifubara David",
+          "description": "In the modern digital landscape, user experience (UX) has become a central focus of web development. Providing a smooth, captivating, and aesthetically pleasing interface can really influence user satisfaction and retention.  Route animation is a frequently underestimated aspect of UX that can substantially improve a website's interactivity.  In",
+          "link": "https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/",
+          "publishedOn": "2023-04-04T22:27:19.000Z",
+          "wordCount": 3287,
+          "title": "How to Improve User Experience  in React Apps – Animate Routes using Framer Motion",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Article-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/difference-between-python-and-pandas/",
           "author": "Ihechikara Vincent Abba",
@@ -1768,76 +1823,6 @@
           "wordCount": 1038,
           "title": "What does \\S in Regex Mean? Space and Negated Space Metacharacters",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "SQL is a powerful language that allows you to extract, manipulate and analyze data from relational databases. But writing and debugging SQL queries can be a challenging task.  Testing and debugging SQL queries is crucial to ensure that they produce accurate and efficient results. And you can use Python",
-          "link": "https://www.freecodecamp.org/news/testing-and-debugging-sql-queries-with-python/",
-          "publishedOn": "2023-03-06T22:20:45.000Z",
-          "wordCount": 1242,
-          "title": "How to Test and Debug SQL Queries with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Testing.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/using-scanf-in-c/",
-          "author": "Valentine Gatwiri",
-          "description": "The scanf() function is a commonly used input function in the C programming language. It allows you to read input from the user or from a file and store that input in variables of different data types.  Input is an essential part of most programs, and the scanf() function",
-          "link": "https://www.freecodecamp.org/news/using-scanf-in-c/",
-          "publishedOn": "2023-03-06T21:59:30.000Z",
-          "wordCount": 2391,
-          "title": "How to Use scanf( ) in C to Read and Store User Input",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-element-digital-1370294.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/rendering-patterns/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at the different rendering pattern options available nowadays for web applications. I'll start by explaining what a rendering pattern is, then go through each of the main options available. Finally we'll compare them, explaining the pros and cons and",
-          "link": "https://www.freecodecamp.org/news/rendering-patterns/",
-          "publishedOn": "2023-03-06T18:22:40.000Z",
-          "wordCount": 4247,
-          "title": "Rendering Patterns for Web Apps – Server-Side, Client-Side, and SSG Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/sebastian-svenson-8QgqOLJAL8k-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/",
-          "author": "Shittu Olumide",
-          "description": "Data is present in all areas of the modern digital world, and it takes many different forms.  One of the most common formats for data is PDF. Invoices, reports, and other forms are frequently stored in Portable Document Format (PDF) files by businesses and institutions.  It can be",
-          "link": "https://www.freecodecamp.org/news/extract-data-from-pdf-files-with-python/",
-          "publishedOn": "2023-03-06T17:51:46.000Z",
-          "wordCount": 1372,
-          "title": "How to Extract Data from PDF Files with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Extract-Data-from-PDF-Files-with-Python-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/",
-          "author": "Eamonn Cottrell",
-          "description": "I've been using Microsoft Excel and Google Sheets in my business for over a decade. And as I've learned better ways to clean and validate data, it's increased productivity, decreased human errors, and generally caused a lot of joy! 🥳 In this article, we'll look at two ways to validate",
-          "link": "https://www.freecodecamp.org/news/excel-use-data-validation-and-conditional-formatting-to-prevent-errors/",
-          "publishedOn": "2023-03-06T16:41:05.000Z",
-          "wordCount": 1564,
-          "title": "Microsoft Excel – How to Use Data Validation and Conditional Formatting to Prevent Errors",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fcc.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
-          "author": "Arunachalam B",
-          "description": "Hello everyone! Thanks for your great feedback on my tutorial about the basics of the find command [/news/how-to-search-files-in-the-linux-terminal/]. After reading it, many people requested that I write a more advanced version about the  find command.  Well, here it is! Now, it's time to take your skills to the",
-          "link": "https://www.freecodecamp.org/news/how-to-search-files-effectively-in-linux/",
-          "publishedOn": "2023-03-06T14:58:04.000Z",
-          "wordCount": 2005,
-          "title": "How to Search Files Effectively in the Linux Terminal – Advanced Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/11.-Part-2--How-to-search-files-effectively-in-linux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/",
-          "author": "Andrej Kovacevic",
-          "description": "ChatGPT has been in the news a lot recently. The hype around it continues, and many are concerned that this AI service might put many out of work.  Developers in particular feel threatened by this AI bot’s ability to write code on the fly. The general consensus is, however,",
-          "link": "https://www.freecodecamp.org/news/chat-gpt-and-secure-coding/",
-          "publishedOn": "2023-03-06T14:56:56.000Z",
-          "wordCount": 1666,
-          "title": "Can ChatGPT Ensure Secure Coding Practices?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/chatgpt-coding.jpg"
         }
       ]
     }
