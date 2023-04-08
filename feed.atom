@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-07T00:58:17.091Z</updated>
+    <updated>2023-04-08T01:00:22.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Analytics with New Advanced Certifications from Google]]></title>
+        <id>https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/</id>
+        <link href="https://www.freecodecamp.org/news/starting-and-excelling-in-data-analytics/"/>
+        <updated>2023-04-07T20:47:20.000Z</updated>
+        <summary type="html"><![CDATA[Google has been growing a list of certifications for the past few years. And they've just added some advanced coursework to the repertoire.  In this article, I'll introduce you to the Google Certifications and detail what's new. I'll focus on the Data Analytics pathway, but will include resources to]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is CI/CD? Learn Continuous Integration/Continuous Deployment by Building a Project]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-ci-cd/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-ci-cd/"/>
+        <updated>2023-04-07T19:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this article you're going to learn about CI/CD (continuous integration and continuous deployment).  We're going to review what this practice is about, how it compares to the previous approach in the software development industry, and finally see a practical example of how we can implement it]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Docker Compose? How to Use it with an Example]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-docker-compose-how-to-use-it/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-docker-compose-how-to-use-it/"/>
+        <updated>2023-04-07T19:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Docker helps you setup a development environment on your machine quickly. It only takes a couple of minutes to go through the entire process.  But let's assume you were assigned on a project which requires at least 10 different services in a running state to run your project. For]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conda Remove Environment – How to Delete an Env]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-delete-an-environment-in-conda/"/>
+        <updated>2023-04-07T05:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Conda is an open-source package management and environment management system that can be used to create different, isolated coding environments.  With Conda, you can create separate environments for specific projects. You can have one environment for machine learning and another environment for data analytics. Each environment can have its]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Upload Files with JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/upload-files-with-javascript/</id>
@@ -1588,127 +1628,6 @@ in SQL]]></title>
         <summary type="html"><![CDATA[All web browsers implement a security model known as the Same-Origin Policy (SOP). It restricts domains from accessing and retrieving data from other domains’ resources.  The SOP policy helps protect users from malicious scripts that could access their sensitive data or perform unauthorized actions on their behalf. For example,]]></summary>
         <author>
             <name>Nairuz Abulhul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Web Development from Harvard University (CS50 Web)]]></title>
-        <id>https://www.freecodecamp.org/news/learn-web-development-from-harvard-university-cs50/</id>
-        <link href="https://www.freecodecamp.org/news/learn-web-development-from-harvard-university-cs50/"/>
-        <updated>2023-03-09T12:37:49.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to expand your knowledge and skills in web programming? Look no further than CS50's Web Programming with Python and JavaScript course from Harvard University. This full course is designed to provide a comprehensive understanding of web programming, from the basics of HTML and CSS to more advanced]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn LaTeX for Creating Scientific Documents]]></title>
-        <id>https://www.freecodecamp.org/news/learn-latex-full-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-latex-full-course/"/>
-        <updated>2023-03-09T12:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to create professional-looking documents with ease? Look no further than the world of LaTeX. LaTeX is a typesetting system that enables users to produce high-quality documents, such as academic papers, scientific publications, and even books. We just published a beginner's course on the freeCodeCamp.org YouTube channel that]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do I Make RegEx Optional? Specify Optional Pattern in Regular Expressions]]></title>
-        <id>https://www.freecodecamp.org/news/how-do-i-make-regex-optional-specify-optional-pattern-in-regular-expressions/</id>
-        <link href="https://www.freecodecamp.org/news/how-do-i-make-regex-optional-specify-optional-pattern-in-regular-expressions/"/>
-        <updated>2023-03-09T11:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Regular expressions are greedy by default, meaning they try to match as many strings as possible. One of the ways to write accurate regular expressions is to make them as lazy as possible. The metacharacter that helps achieve laziness is the question mark ?. It helps you make any RegEx]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Complex Forms In Vue]]></title>
-        <id>https://smashingmagazine.com/2023/03/building-complex-forms-vue/</id>
-        <link href="https://smashingmagazine.com/2023/03/building-complex-forms-vue/"/>
-        <updated>2023-03-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that creating a complex form can be progressively enhanced using some Vue features like the v-for and the v-model? In this article, Olufunke shares some basic Vue core features that are super useful when building out the complex form in your day-to-day Vue usage.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Olufunke Moronfolu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to React to User and Browser Actions with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/reacting-to-actions-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/reacting-to-actions-with-javascript/"/>
-        <updated>2023-03-09T00:47:36.000Z</updated>
-        <summary type="html"><![CDATA[When a user clicks a button on a webpage, the user expects the page to respond to their action and do something: play the game, buy the product, display a message, and so on. In this tutorial, we walk through how to use JavaScript to react to user or browser]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Search in Java – Algorithm Example]]></title>
-        <id>https://www.freecodecamp.org/news/binary-search-in-java-algorithm-example/</id>
-        <link href="https://www.freecodecamp.org/news/binary-search-in-java-algorithm-example/"/>
-        <updated>2023-03-08T22:26:22.000Z</updated>
-        <summary type="html"><![CDATA[Algorithms provide step by step instructions on solving specific problems. They help you solve problems using efficient, standard, and reusable steps.  The binary search algorithm is one of the commonly used algorithms in programming. It is used to search and find an element in a sorted array.  The]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Convert Arabic Numbers to Roman Numerals with SolidJS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-convert-arabic-numbers-to-roman-numerals-with-solidjs/"/>
-        <updated>2023-03-08T20:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Have you heard about the Romans? Who hasn’t, right 🙂 They used their own numeric system, which was a bit of a mouthful, especially when it came to writing. It looks like this: I, II, III, IV, V, VI and so on. Maybe that’s one of the reasons that people]]></summary>
-        <author>
-            <name>Mihail Gaberov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Read and Write Data to a SQL Database Using Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-read-and-write-data-to-a-sql-database-using-python/"/>
-        <updated>2023-03-08T19:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Databases are a crucial component of modern-day software systems. And SQL databases are one of the most widely used types of databases.  They are ideal for managing data in a structured and organized way, and they are widely used in various applications, including e-commerce, healthcare, finance, and more.]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MERN App Development – How to Build a CI/CD Pipeline with Jenkins]]></title>
-        <id>https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/</id>
-        <link href="https://www.freecodecamp.org/news/automate-mern-app-deployment-with-jenkins-and-aws/"/>
-        <updated>2023-03-08T17:42:07.000Z</updated>
-        <summary type="html"><![CDATA[As you continue to develop your software, you must also continue to integrate it with previous code and deploy it to servers.  Manually doing this is a time-consuming process that can occasionally result in errors. So we need to do this in a continuous and automated manner – which]]></summary>
-        <author>
-            <name>Rakesh Potnuru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C Operator – Logic Operators in C Programming]]></title>
-        <id>https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/</id>
-        <link href="https://www.freecodecamp.org/news/c-operator-logic-operators-in-c-programming/"/>
-        <updated>2023-03-08T15:25:21.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about the three logical operators in C. I will first explain what operators are in programming and list the different types of operators available in C. Then, you will learn the role logical operators have and how to use them with the help of]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does B in RegEx Mean? Word Boundary and Non-word Boundary Metacharacters]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-b-in-regex-mean-word-boundary-and-non-word-boundary-metacharacters/"/>
-        <updated>2023-03-08T14:10:22.000Z</updated>
-        <summary type="html"><![CDATA[In regular expressions, “B” is a metacharacter for specifying word boundary. It could be in two forms – the capital letter “B” and the small letter “b”. Since B (and b) is a metacharacter, you need to escape it to make it work (\b  and \B). Otherwise, b or]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating a Clock with the New CSS sin() and cos() Trigonometry Functions]]></title>
-        <id>https://css-tricks.com/?p=377074</id>
-        <link href="https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/"/>
-        <updated>2023-03-08T14:05:52.000Z</updated>
-        <summary type="html"><![CDATA[CSS trigonometry functions are here! Well, they are if you’re using the latest versions of Firefox and Safari, that is. Having this sort of mathematical power in CSS opens up a whole bunch of possibilities. In this tutorial, I thought …
-Creating a Clock with the New CSS sin() and cos() Trigonometry Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Mads Stoumann</name>
         </author>
     </entry>
 </feed>
