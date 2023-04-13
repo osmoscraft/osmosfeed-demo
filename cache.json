@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377305",
+          "author": "Neal Fennimore",
+          "description": "These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …\nPasskeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/passkeys-what-the-heck-and-why/",
+          "publishedOn": "2023-04-12T17:41:53.000Z",
+          "wordCount": 3346,
+          "title": "Passkeys: What the Heck and Why?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
+        },
+        {
           "id": "https://css-tricks.com/?p=377264",
           "author": "Pankaj Parashar",
           "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -14,16 +24,6 @@
           "wordCount": 1861,
           "title": "Some Cross-Browser DevTools Features You Might Not Know",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376950",
-          "author": "Mads Stoumann",
-          "description": "Doing a quick search here on CSS-Tricks shows just how many different ways there are to approach calendars. Some show how CSS Grid can create the layout efficiently. Some attempt to bring actual data into the mix. Some …\nMaking Calendars With Accessibility and Internationalization in Mind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/",
-          "publishedOn": "2023-03-13T13:23:52.000Z",
-          "wordCount": 3413,
-          "title": "Making Calendars With Accessibility and Internationalization in Mind",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376950"
         }
       ]
     },
@@ -234,6 +234,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
+          "author": "Beau Carnes",
+          "description": "Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll",
+          "link": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
+          "publishedOn": "2023-04-12T20:52:38.000Z",
+          "wordCount": 835,
+          "title": "Use Bash Scripting to Enhance Your Productivity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/bashscrippting.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
+          "author": "Beau Carnes",
+          "description": "Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,",
+          "link": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
+          "publishedOn": "2023-04-12T20:46:42.000Z",
+          "wordCount": 962,
+          "title": "Create Mobile Apps with Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Slide-16_9---4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
+          "author": "Michael Frederick",
+          "description": "Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram",
+          "link": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
+          "publishedOn": "2023-04-12T17:46:38.000Z",
+          "wordCount": 1537,
+          "title": "How to Apply Borders to Clip Paths with CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screen-Shot-2023-04-05-at-7.04.59-PM-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use Conda to create and manage different environments and their packages. It is mostly used for data science and machine learning projects.  In this article, you'll learn how to remove an environment's package using in built Conda commands.  You'll learn the following:   * How",
+          "link": "https://www.freecodecamp.org/news/how-to-remove-a-package-in-anaconda/",
+          "publishedOn": "2023-04-12T12:21:34.000Z",
+          "wordCount": 942,
+          "title": "Conda Remove Package - How To Remove Matplotlib in Anaconda",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/",
+          "author": "Oluseye Jeremiah",
+          "description": "Arrays and lists are two of the most commonly used data structures in Python.  You can use both arrays and lists to store collections of values, but they have some key differences.  For example, arrays are more efficient than lists for certain operations, such as mathematical operations on",
+          "link": "https://www.freecodecamp.org/news/convert-lists-to-arrays-and-back-in-python/",
+          "publishedOn": "2023-04-12T00:04:30.000Z",
+          "wordCount": 1137,
+          "title": "How to Convert a List to an Array and Back in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/dare.JPG"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-validate-forms-in-react/",
           "author": "Yazdun Fadali",
@@ -1693,16 +1743,6 @@
           "wordCount": 1209,
           "title": "How To Change Legend Font Size in Matplotlib",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/",
-          "author": "Quincy Larson",
-          "description": "Hack Summit is one of the largest online developer conferences in history. Across its 5 events over the past decade, more than 130,000 developers have attended. And this year's event should be no different – filled with opportunities to learn from speakers and expand your professional network. This year, the",
-          "link": "https://www.freecodecamp.org/news/hack-summit-2023-developer-conference-focused-on-blockchain-development/",
-          "publishedOn": "2023-03-14T08:03:17.000Z",
-          "wordCount": 762,
-          "title": "Hack Summit 2023 – Developer Conference Focused on Blockchain Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/hacksummit_fcc.jpg"
         }
       ]
     }
