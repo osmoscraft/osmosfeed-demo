@@ -211,21 +211,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/full-stack-graphql-nextjs-neo4j-auradb-vercel/meta-full-stack-graphql-nextjs-neo4j-auradb-vercel.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Perhaps more than any other person in history, Leonardo da Vinci showed the kind of magic that can happen in the overlap between art and science, where much of web development lives. His methods and outlooks are just as applicable to the web today as they were in Renaissance Italy.",
-          "link": "https://smashingmagazine.com/2023/03/leonardo-da-vinci-teach-web-design/",
-          "publishedOn": "2023-03-14T16:00:00.000Z",
-          "wordCount": 5001,
-          "title": "What Leonardo Da Vinci Can Teach Us About Web Design",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/leonardo-da-vinci-teach-web-design/leonardo-da-vinci-teach-web-design.jpg"
         }
       ]
     },
@@ -234,6 +219,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
+          "author": "Rajdeep Singh",
+          "description": "Ghost CMS is a popular content management system that many devs and companies use to host their blogs.  It has many features and an editor that's highly optimized for writing. You can even build different themes using handlebars.js [https://handlebarsjs.com/]. But if you don't know Handlebars, learning it can be",
+          "link": "https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/",
+          "publishedOn": "2023-04-13T21:14:46.000Z",
+          "wordCount": 9282,
+          "title": "How to Build a Blog with the Ghost API and Next.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Ghost-API-and-Nextjs--2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
+          "author": "Dillion Megida",
+          "description": "In JavaScript, there are two types of functions. You have normal functions and arrow functions. Let's explore the difference between them in this article. Arrow functions was introduced in ES6. And it introduced a simple and shorter way to create functions. Here's how to create a normal function, with arguments,",
+          "link": "https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/",
+          "publishedOn": "2023-04-13T21:04:00.000Z",
+          "wordCount": 2569,
+          "title": "The difference between Arrow functions and Normal functions in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/25-arrow-normal-functions.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/",
+          "author": "Mihail Gaberov",
+          "description": "Welcome to yet another tutorial [https://www.mihailgaberov.com/] where you will learn how to build a ⚽ scoreboard app in React. This time we will use Vite as our next generation frontend tooling [https://vitejs.dev/] and Vitest [https://vitest.dev/] as a Vite-native unit testing framework.  You will also learn how to leverage React",
+          "link": "https://www.freecodecamp.org/news/react-project-with-vite-and-vitest/",
+          "publishedOn": "2023-04-13T20:41:33.000Z",
+          "wordCount": 4303,
+          "title": "How to Create a Live Football Scoreboard in React with Vite and Vitest",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article we'll build a dashboard inspired by the recipes in Zelda: Breath of the Wild.  Our dashboard will have multiple data validation dropdown selections for us to choose ingredients. By using a =Query() function, we'll then display the recipes that contain any combination of the selected ingredients.",
+          "link": "https://www.freecodecamp.org/news/google-sheets-advanced-functions-by-building-a-zelda-dashboard/",
+          "publishedOn": "2023-04-13T17:31:52.000Z",
+          "wordCount": 2212,
+          "title": "Google Sheets – Learn Advanced Functions by Building a Zelda Dashboard",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Zelda-Walkthrough.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in learning how to create a social networking site like LinkedIn using React and Firebase? We just published a course on the freeCodeCamp.org YouTube channel that will help you learn how to build a LinkedIn clone from start to finish, using the popular front-end library React and",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-linkedin-clone/",
+          "publishedOn": "2023-04-13T17:24:40.000Z",
+          "wordCount": 944,
+          "title": "How to Create a LinkedIn Clone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/linkedinclone.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/",
+          "author": "Dionysia Lemonaki",
+          "description": "Software engineers are in high demand these days. They generally command comfortable salaries, and can have a good work-life balance. But what do software engineers do? And how can you become one yourself? In this article, I will explain the tasks and responsibilities of software engineers, and I will go",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-software-engineer-2023-roadmap/",
+          "publishedOn": "2023-04-13T16:15:24.000Z",
+          "wordCount": 3531,
+          "title": "How to Become a Software Engineer – 2023 Roadmap",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-christina-morillo-1181675.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/",
+          "author": "Joel Olawanle",
+          "description": "The HTTP (Hypertext Transfer Protocol) is the foundation of communication between clients (such as web browsers) and servers (such as web servers) on the World Wide Web. One crucial aspect of HTTP is the request method, which indicates the type of operation the client wants to perform on a resource.",
+          "link": "https://www.freecodecamp.org/news/call-vs-put-vs-post-http-request-methods-explained/",
+          "publishedOn": "2023-04-13T14:59:18.000Z",
+          "wordCount": 1944,
+          "title": "Call vs Put vs Post – HTTP Request Methods Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--7-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
+          "author": "Kolade Chris",
+          "description": "Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,",
+          "link": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
+          "publishedOn": "2023-04-13T12:24:56.000Z",
+          "wordCount": 1419,
+          "title": "Python Delete File – How to Remove Files and Folders",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pyDeleteFilesAndFolders.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
           "author": "Beau Carnes",
@@ -1633,116 +1698,6 @@
           "wordCount": 1029,
           "title": "Learn React 18 with Redux Toolkit",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/react-full.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
-          "author": "Dhawal Shah",
-          "description": "Is Coursera Free? At Class Central [https://www.classcentral.com/], we get that question so often that I wrote a guide to answer it [https://www.classcentral.com/report/coursera-signup-for-free/]. Nowadays, most Coursera courses are free to audit. But if you want to complete graded assignments or get a course certificate, you have to pay. Coursera’s entire catalog",
-          "link": "https://www.freecodecamp.org/news/coursera-free-online-courses-6d84cdb30da/",
-          "publishedOn": "2023-03-15T10:00:00.000Z",
-          "wordCount": 17872,
-          "title": "I uncovered 1700 Coursera Courses that Are Still Completely Free",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/02/coursera-free-courses.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/",
-          "author": "Joel Olawanle",
-          "description": "Quick sort is a widely used sorting algorithm that efficiently sorts an array of elements by dividing it into smaller subarrays based on a chosen pivot element. In this article, we will walk through how to write a quick sort algorithm using JavaScript and explore the key concepts behind the",
-          "link": "https://www.freecodecamp.org/news/how-to-write-quick-sort-algorithm-with-javascript/",
-          "publishedOn": "2023-03-15T09:27:48.000Z",
-          "wordCount": 1338,
-          "title": "How To Write Quick Sort Algorithm With JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--6-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
-          "author": "Kolade Chris",
-          "description": "Python is a widely used and powerful programming language that's relatively simple to learn. Python releases patch updates every few months and major updates around once in a year. Because of this, it is always a good idea to update the version of Python you have on your computer. In",
-          "link": "https://www.freecodecamp.org/news/pip-upgrade-and-how-to-update-pip-and-python/",
-          "publishedOn": "2023-03-14T21:04:29.000Z",
-          "wordCount": 1141,
-          "title": "Pip Upgrade – And How to Update Pip and Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/updatePip.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
-          "author": "David Clinton",
-          "description": "In order to understand potential threats hanging over your organization, you'll need to understand two things: what dangerous stuff is out there on the internet right now, and what impact it could have were it to actually hit you.  Once you have that information, you'll be in a position",
-          "link": "https://www.freecodecamp.org/news/cybersecurity-vulnerabilities/",
-          "publishedOn": "2023-03-14T18:47:55.000Z",
-          "wordCount": 2075,
-          "title": "Cybersecurity Vulnerabilities – How Attackers Can Get Your Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-38275.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/functional-programming-in-java/",
-          "author": "Sameer Shukla",
-          "description": "Functional programming (FP) is a programming paradigm. It emphasizes the use of pure functions that don't have side effects and always return the same output for a given input.  This article explores how to implement FP concepts in Java, including viewing functions as first-class citizens, chaining, and composing them",
-          "link": "https://www.freecodecamp.org/news/functional-programming-in-java/",
-          "publishedOn": "2023-03-14T17:34:55.000Z",
-          "wordCount": 2795,
-          "title": "Functional Programming in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/lambda.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
-          "author": "Arunachalam B",
-          "description": "Flutter is one of the most popular frameworks for building mobile and desktop applications. And many companies are using it today. This is in part because of its outstanding performance, having a benchmark of 60 Frames Per Second (FPS). This helps it outperform other cross-platform technologies, and it performs better",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-login-app-with-flutter/",
-          "publishedOn": "2023-03-14T16:39:18.000Z",
-          "wordCount": 3523,
-          "title": "How to Build a Simple Login App with Flutter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Flutter-Login-App---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
-          "author": "Shittu Olumide",
-          "description": "The process of combining two or more strings, lists, or other data structures into a single entity is known as concatenation in programming.  Concatenation produces a new object with all the components of the original objects, arranged in the concatenation order. Concatenation in the context of strings refers to",
-          "link": "https://www.freecodecamp.org/news/joining-lists-in-python-how-to-concat-lists/",
-          "publishedOn": "2023-03-14T16:30:27.000Z",
-          "wordCount": 1641,
-          "title": "Joining Lists in Python – How to Concat Lists",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Joining-Lists-in-Python---How-to-Concat-Lists-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Python is a powerful programming language that you can use to interact with SQL databases. With the help of Python, you can create, manipulate, and interact with the tables in the SQL database.  In this tutorial, we will be discussing how to create and manipulate tables in a SQL",
-          "link": "https://www.freecodecamp.org/news/create-and-manipulate-tables-in-a-sql-database-using-python/",
-          "publishedOn": "2023-03-14T16:28:25.000Z",
-          "wordCount": 1507,
-          "title": "How to Create and Manipulate Tables in a SQL Database Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/tables.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/",
-          "author": "Joel Olawanle",
-          "description": "In programming, situations that need you to sort data will always arise. When you sort data, you will always want accurate results because failure to get an accurate result can result in malfunctions or bugs within your code. In this article, you will learn how to sort an array in",
-          "link": "https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/",
-          "publishedOn": "2023-03-14T15:14:41.000Z",
-          "wordCount": 1724,
-          "title": "JavaScript Sort Array - How to Sort an Array Accurately",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/cover-template--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "In this article, you'll learn how to use markers in Matplotlib to indicate specific points in a plot.  The marker parameter can be used to create \"markers\" in a plot. You can specify the shape of the marker by passing a value to the parameter.  Here's what a",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-marker-in-matplotlib/",
-          "publishedOn": "2023-03-14T15:05:00.000Z",
-          "wordCount": 960,
-          "title": "Matplotlib Marker - How To Create a Marker in Matplotlib",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2--1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can modify different properties of a plot — color, size, label, title and so on — when working with Matplotlib.  In this article, you'll learn what a legend is in Matplotlib, and how to use some of its parameters to make your plots more relatable.  You'll then",
-          "link": "https://www.freecodecamp.org/news/how-to-change-legend-fontsize-in-matplotlib/",
-          "publishedOn": "2023-03-14T15:04:13.000Z",
-          "wordCount": 1209,
-          "title": "How To Change Legend Font Size in Matplotlib",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/isaac-smith-6EnTPvPPL6I-unsplash--2-.jpg"
         }
       ]
     }
