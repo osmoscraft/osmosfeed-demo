@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-14T01:01:58.133Z</updated>
+    <updated>2023-04-15T01:03:48.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Conda Channel - What Is a Channel in Conda?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-channel-in-conda/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-channel-in-conda/"/>
+        <updated>2023-04-14T16:36:11.000Z</updated>
+        <summary type="html"><![CDATA[When you install a package in Conda, it is downloaded and extracted from a remote directory using the directory's URL. The directory where these packages are stored is known as a channel. In this article, you'll learn what a channel is, how to use default channels, and how add new]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pretty Print JSON in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-pretty-print-json-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-pretty-print-json-in-python/"/>
+        <updated>2023-04-14T15:38:01.000Z</updated>
+        <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular data interchange format that is widely used in web applications, APIs, and databases. It is a lightweight and human-readable format that is easy to parse and generate.  But when dealing with large and complex JSON data, it can be difficult to read]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does $ Mean in JavaScript? Dollar Sign Operator in JS]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-javascript/"/>
+        <updated>2023-04-14T15:10:37.000Z</updated>
+        <summary type="html"><![CDATA[As you dive into JavaScript code, you may come across the use of a dollar sign ($) in various contexts. In this article, we will explore what the dollar sign means in JavaScript, commonly known as the "dollar sign operator," and how it is used in JavaScript programming. Understanding the]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSONObject.toString() – How to Convert JSON to a String in Java]]></title>
+        <id>https://www.freecodecamp.org/news/jsonobject-tostring-how-to-convert-json-to-a-string-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/jsonobject-tostring-how-to-convert-json-to-a-string-in-java/"/>
+        <updated>2023-04-14T15:05:04.000Z</updated>
+        <summary type="html"><![CDATA[In the world of web applications and services, JSON (JavaScript Object Notation) has become a widely used data format for data exchange between different systems.  In Java, it's common to work with JSON data, and an operation you'll frequently perform is converting a JSON object to a string representation.]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Refresh Page – How to Reload a Page in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-refresh-page-how-to-reload-a-page-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-refresh-page-how-to-reload-a-page-in-js/"/>
+        <updated>2023-04-14T15:01:42.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a versatile programming language that allows developers to create dynamic and interactive web applications. One common task in web development is to refresh or reload a web page, either to update its content or to trigger certain actions. In this article, we will explore different ways to refresh]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is An ACL? Access Control Lists Explained]]></title>
+        <id>https://www.freecodecamp.org/news/a-deep-dive-into-access-control-lists/</id>
+        <link href="https://www.freecodecamp.org/news/a-deep-dive-into-access-control-lists/"/>
+        <updated>2023-04-14T14:43:14.000Z</updated>
+        <summary type="html"><![CDATA[In computing, access control is the concept of limiting or regulating a person or machine's access to certain information or resources.  One of the major mechanisms you use to do that is an access control list (ACL). An ACL is a set of rules for allowing or denying access]]></summary>
+        <author>
+            <name>Chidiadi Anyanwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Initialize a Java List – List of String Initialization in Java]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-initialize-a-java-list/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-initialize-a-java-list/"/>
+        <updated>2023-04-14T14:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Java is a popular programming language widely used for developing robust and scalable applications. One of the essential data structures in Java is a list, which allows developers to store and manipulate a collection of elements. Initializing a list in Java is a crucial step in the development process as]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Blog with the Ghost API and Next.js]]></title>
         <id>https://www.freecodecamp.org/news/build-a-blog-website-with-ghost-api-and-nextjs/</id>
@@ -1584,46 +1654,6 @@ Some Cross-Browser DevTools Features You Might Not Know originally published on 
         <link href="https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/"/>
         <updated>2023-03-16T14:09:53.000Z</updated>
         <summary type="html"><![CDATA[Are you interested in learning how to design and use databases for Windows applications? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a SQL database application with a Windows graphical interface. Led by Shad Sluiter, a Professor Of Computer Science]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack GraphQL With Next.js, Neo4j AuraDB And Vercel]]></title>
-        <id>https://smashingmagazine.com/2023/03/full-stack-graphql-nextjs-neo4j-auradb-vercel/</id>
-        <link href="https://smashingmagazine.com/2023/03/full-stack-graphql-nextjs-neo4j-auradb-vercel/"/>
-        <updated>2023-03-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, William Lyon explores how to build a full stack GraphQL application that takes advantage of the API Routes feature of Next.js API to combine your GraphQL server and front-end React applications into a single framework.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (William Lyon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Print Exception – How to Try-Except-Print an Error]]></title>
-        <id>https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/</id>
-        <link href="https://www.freecodecamp.org/news/python-print-exception-how-to-try-except-print-an-error/"/>
-        <updated>2023-03-15T21:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Every programming language has its way of handling exceptions and errors, and Python is no exception. Python comes with a built-in try…except syntax with which you can handle errors and stop them from interrupting the running of your program. In this article, you’ll learn how to use that try…except syntax]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternatives to Prettier – Popular Code Linting and Formatting Tools]]></title>
-        <id>https://www.freecodecamp.org/news/alternatives-to-prettier/</id>
-        <link href="https://www.freecodecamp.org/news/alternatives-to-prettier/"/>
-        <updated>2023-03-15T17:43:50.000Z</updated>
-        <summary type="html"><![CDATA[Many programmers hate code formatting because it is tedious and time-consuming. You can spend hours making sure everything is perfect and well-indented.  This is why code formatters are so useful. A code formatter is a tool that formats code according to certain standards. It makes it so you don't]]></summary>
-        <author>
-            <name>Kamaldeen Lawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React 18 with Redux Toolkit]]></title>
-        <id>https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/"/>
-        <updated>2023-03-15T15:44:43.000Z</updated>
-        <summary type="html"><![CDATA[React is a popular JavaScript library that is widely used for building dynamic user interfaces. It has gained a lot of popularity over the years due to its flexibility, scalability, and ease of use. If you're a beginner looking to learn React 18 with Redux Toolkit, you're in luck. We]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
