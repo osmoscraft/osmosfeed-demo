@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T01:03:48.768Z</updated>
+    <updated>2023-04-16T01:05:51.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
@@ -1546,116 +1546,6 @@ Some Cross-Browser DevTools Features You Might Not Know originally published on 
         <summary type="html"><![CDATA[The binary search algorithm is a divide and conquer algorithm that you can use to search for and find elements in a sorted array.  The algorithm is fast in searching for elements because it removes half of the array every time the search iteration happens.  So instead of]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python range() Function Example]]></title>
-        <id>https://www.freecodecamp.org/news/python-range-function-example/</id>
-        <link href="https://www.freecodecamp.org/news/python-range-function-example/"/>
-        <updated>2023-03-17T11:55:33.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to use the range() function in Python with some code examples along the way. What is the range() Function in Python? range() Function Syntax Breakdown Python's built-in range() function is mainly used when working with for loops – you can use it to]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python RegEx Tutorial – How to use RegEx inside lambda Expression]]></title>
-        <id>https://www.freecodecamp.org/news/python-regex-tutorial-how-to-use-regex-inside-lambda-expression/</id>
-        <link href="https://www.freecodecamp.org/news/python-regex-tutorial-how-to-use-regex-inside-lambda-expression/"/>
-        <updated>2023-03-17T09:31:41.000Z</updated>
-        <summary type="html"><![CDATA[It’s possible to use RegEx inside a lambda function in Python. You can apply this to any Python method or function that takes a function as a parameter. Such functions and methods include filter(), map(), any(), sort(), and more. Keep reading as I show you how to use regular expressions]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Generate Automated Reports from a SQL Database Using Python]]></title>
-        <id>https://www.freecodecamp.org/news/automating-report-generation-from-sql-databases-using-python/</id>
-        <link href="https://www.freecodecamp.org/news/automating-report-generation-from-sql-databases-using-python/"/>
-        <updated>2023-03-16T22:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Generating reports from SQL databases is a common task in many organizations. But the process can be time-consuming and error-prone, especially if it involves manual data extraction, transformation, and formatting.  In this article, we will explore how to use Python to automate the process of generating reports from SQL]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Visualization in Google Sheets for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/data-visualization-in-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/data-visualization-in-google-sheets/"/>
-        <updated>2023-03-16T20:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Spreadsheets are the OG resource for visualizing data with charts and graphs...unless you count chalkboards, I suppose.  Spreadsheets are built to churn through tons of data. And by using a few simple built-in tools, you can glean valuable insights from large chunks of data. gif of "OG" graphicWhen dealing]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internationalization In Next.js 13 With React Server Components]]></title>
-        <id>https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/</id>
-        <link href="https://smashingmagazine.com/2023/03/internationalization-nextjs-13-react-server-components/"/>
-        <updated>2023-03-16T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Jan Amann, based on an example of a multilingual app that displays street photography images from Unsplash, explores next-intl to implement all internationalization needs in React Server Components.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jan Amann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Array in Java – Array Declaration Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-an-array-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-an-array-in-java/"/>
-        <updated>2023-03-16T19:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Creating and manipulating arrays is an essential skill for any Java programmer. Arrays provide a way to store and organize multiple values of the same type, making it easier to work with large sets of data. In this article, we will provide a step-by-step guide on how to create an]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lambda Sorted in Python – How to Lambda Sort a List]]></title>
-        <id>https://www.freecodecamp.org/news/lambda-sort-list-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/lambda-sort-list-in-python/"/>
-        <updated>2023-03-16T19:37:09.000Z</updated>
-        <summary type="html"><![CDATA[The sort() method and the sorted() function let you sort iterable data like lists and tuples in ascending or descending order. They take parameters with which you can modify how they perform the sorting. And one of those parameters could be a function or even a lambda function. In this]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Grid Handbook – Complete Guide to Grid Containers and Grid Items]]></title>
-        <id>https://www.freecodecamp.org/news/complete-guide-to-css-grid/</id>
-        <link href="https://www.freecodecamp.org/news/complete-guide-to-css-grid/"/>
-        <updated>2023-03-16T18:19:27.000Z</updated>
-        <summary type="html"><![CDATA[CSS Grid gives you the tools to create basic and advanced website layouts in responsive ways that look great on mobile, tablet, and desktop devices. This tutorial discusses everything you need to know to use CSS Grid like a pro. Table of Contents  1.  What Is CSS Grid?]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSoC 2023 Guide – How to Prepare for Google Summer of Code]]></title>
-        <id>https://www.freecodecamp.org/news/google-summer-of-code-guide/</id>
-        <link href="https://www.freecodecamp.org/news/google-summer-of-code-guide/"/>
-        <updated>2023-03-16T17:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Google Summer of Code [https://summerofcode.withgoogle.com/] is an open source program that is managed by Google's Open Source team.  They invite developers to spend their summer contributing to the source code for various different organisations taking part in the program.  There are many organisations that list their project ideas]]></summary>
-        <author>
-            <name>Abhisman Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate SQL Database Backups Using Python]]></title>
-        <id>https://www.freecodecamp.org/news/automate-sql-database-backups-using-python/</id>
-        <link href="https://www.freecodecamp.org/news/automate-sql-database-backups-using-python/"/>
-        <updated>2023-03-16T14:49:50.000Z</updated>
-        <summary type="html"><![CDATA[You should back up your SQL database on a regular basis. It's a critical task that helps ensure that your data is always protected.  But manually backing up a database can be time-consuming and error-prone, especially if you have multiple databases to back up.  In this article, we]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a SQL Database App with a Windows GUI]]></title>
-        <id>https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/</id>
-        <link href="https://www.freecodecamp.org/news/sql-database-app-with-windows-gui/"/>
-        <updated>2023-03-16T14:09:53.000Z</updated>
-        <summary type="html"><![CDATA[Are you interested in learning how to design and use databases for Windows applications? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to create a SQL database application with a Windows graphical interface. Led by Shad Sluiter, a Professor Of Computer Science]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
