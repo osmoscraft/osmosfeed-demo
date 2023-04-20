@@ -33,6 +33,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/",
+          "author": "hello@smashingmagazine.com (Adel Khamatov)",
+          "description": "In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.",
+          "link": "https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/",
+          "publishedOn": "2023-04-19T20:00:00.000Z",
+          "wordCount": 5546,
+          "title": "Color Mechanics In UI Kits",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.",
@@ -181,21 +196,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/overcoming-challenges-content-creation-informational-websites/overcoming-challenges-content-creation-informational-websites.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we ask what is Customer Experience design, and how does it differ from User Experience design? Vitaly Friedman talks to expert Debbie Levitt to find out.",
-          "link": "https://smashingmagazine.com/2023/03/smashing-podcast-episode-58/",
-          "publishedOn": "2023-03-21T07:00:00.000Z",
-          "wordCount": 12034,
-          "title": "Smashing Podcast Episode 58 With Debbie Levitt: What Is CX Design?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-58/meta-smashing-podcast-episode-58.png"
         }
       ]
     },
@@ -204,6 +204,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-network-traffic-is-routed/",
+          "author": "David Clinton",
+          "description": "Moving around the internet – or even over a private local network – requires all kinds of magic wand waving and sorcery.  Or, in sightly more accurate terms, it requires the combination of sophisticated engineering and the existence of key standards, including network ports, the domain Name System (DNS)",
+          "link": "https://www.freecodecamp.org/news/how-network-traffic-is-routed/",
+          "publishedOn": "2023-04-19T22:23:29.000Z",
+          "wordCount": 1392,
+          "title": "How Network Traffic is Routed",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-barry-tan-7994953.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
+          "author": "Alberto Gonzalez Rosales",
+          "description": "No matter how experienced of a developer you are, being interviewed for a new job is always stressful. This is certainly true from my own experience.  In my case, I have been working professionally as a Software Developer for two and a half years, and I've had to face",
+          "link": "https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/",
+          "publishedOn": "2023-04-19T21:14:37.000Z",
+          "wordCount": 3773,
+          "title": "Developer Interview Prep – How to Use a Collaborative Approach to Problem-Solving",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/michal-czyz-ALM7RNZuDH8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/",
+          "author": "David Uzondu",
+          "description": "CSS is a powerful language for styling web pages. But when you're designing a website, things like box shadows can be particularly difficult to get right.  In this guide, you will learn how to create your own box shadow generator with React and Vite. Here is a preview [https://shadowgen.vercel.app/]",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/",
+          "publishedOn": "2023-04-19T20:21:04.000Z",
+          "wordCount": 3163,
+          "title": "How to Build a Box Shadow Generator With React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-Image-6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/",
+          "author": "Olasunkanmi Balogun",
+          "description": "State management is essential in today's world of web development. If you do it well, it helps you create apps that are reliable and effective. Firebase [https://firebase.google.com/] is a Backend-as-a-Service platform that has gained popularity along with the emergence of serverless architecture and cloud technologies. And Cloud Firestore [https://firebase.google.com/docs/firestore] is",
+          "link": "https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/",
+          "publishedOn": "2023-04-19T17:04:27.000Z",
+          "wordCount": 4659,
+          "title": "TypeScript in React – How to Manage State with Firebase Cloud Firestore",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-quintin-gellar-313782.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
+          "author": "Beau Carnes",
+          "description": "The world of artificial intelligence is ever-evolving, and the OpenAI API is at the forefront of it. As the technology becomes more sophisticated, it's imperative for developers and enthusiasts to understand and utilize its potential in various applications. We just published an OpenAI API course on the freeCodeCamp.org YouTube channel.",
+          "link": "https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/",
+          "publishedOn": "2023-04-19T15:15:05.000Z",
+          "wordCount": 973,
+          "title": "ChatGPT Course – Use the OpenAI API to Create Five Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/openai.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in game development but don't know where to start? The Godot game engine is a popular open-source platform for game development, and our new video course on the freeCodeCamp.org YouTube channel will teach you everything you need to know to create your own platformer game. The course",
+          "link": "https://www.freecodecamp.org/news/learn-godot-for-game-development/",
+          "publishedOn": "2023-04-19T15:06:05.000Z",
+          "wordCount": 843,
+          "title": "Learn Godot for Game Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/godot.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/print-methods-in-java/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you're learning Java, you probably started your coding journey by printing the \"Hello World\" program in the console. And that's a great way to begin – but after that, you need to learn how print methods and functions actually work. Well, this article will show you how those print",
+          "link": "https://www.freecodecamp.org/news/print-methods-in-java/",
+          "publishedOn": "2023-04-19T14:28:53.000Z",
+          "wordCount": 1233,
+          "title": "Print Methods in Java – How to Print to the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/tracy-adams-TEemXOpR3cQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-mean-in-regex/",
+          "author": "Kolade Chris",
+          "description": "The $ symbol is one of the most commonly used symbols in RegEx. It is used to match the end of a string. In this article, I’ll show you exactly what the dollar sign ($) does in RegEx and how to use it. What We'll Cover  * What is",
+          "link": "https://www.freecodecamp.org/news/what-does-mean-in-regex/",
+          "publishedOn": "2023-04-19T11:20:42.000Z",
+          "wordCount": 1350,
+          "title": "What Does '$' Mean in RegEx?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/start-graph--10-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-list-is-empty-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "A list [/news/how-to-make-a-list-in-python-declare-lists-in-python-example/] is one of the data structures in Python that you can use to store a collection of variables.  In some cases, you have to iterate through and perform an operation on the elements of a list. But you can't loop/iterate through a list if it has",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-list-is-empty-in-python/",
+          "publishedOn": "2023-04-19T04:52:49.000Z",
+          "wordCount": 1097,
+          "title": "Python isEmpty() equivalent – How to Check if a List is Empty in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/kelly-sikkema--1_RZL8BGBM-unsplash--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
           "author": "Arunachalam B",
@@ -1583,106 +1673,6 @@
           "wordCount": 1068,
           "title": "Use OpenAI Gymnasium for Reinforcement Learning",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/gym.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
-          "author": "Dmitry Dragilev",
-          "description": "Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of",
-          "link": "https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/",
-          "publishedOn": "2023-03-20T22:32:41.000Z",
-          "wordCount": 2873,
-          "title": "How Developers Can Prevent Fraud and Stop Scammers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/48332996261_4f1a1657fc_b.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nextjs-seo/",
-          "author": "Scott Gary",
-          "description": "Next.js is a popular React-based web framework that has gained popularity and a growing community in recent years. It's a powerful tool for building fast and SEO-friendly web applications with dynamic pages that work great on mobile devices.  Due to the complex nature of isomorphic system design, Next.js SEO",
-          "link": "https://www.freecodecamp.org/news/nextjs-seo/",
-          "publishedOn": "2023-03-20T21:17:55.000Z",
-          "wordCount": 3508,
-          "title": "Next.js SEO for Developers – How to Build Highly Performant Apps with Next",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-andrei-photo-2127783.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
-          "author": "Franklin Okolie",
-          "description": "A few months ago, I attempted to solve a math problem in my head before writing it in JavaScript. It was then that I received the most stunning revelation of my career, which was both shocking and eye-opening.  So what did I attempt to do? I made the following",
-          "link": "https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/",
-          "publishedOn": "2023-03-20T21:15:49.000Z",
-          "wordCount": 3505,
-          "title": "JavaScript Operators and Operator Precedence – Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/JavaScript_Operator_precedence.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/",
-          "author": "Houssein Badra",
-          "description": "JavaScript is a popular programming language that 78% of developers use. You can build almost anything with JavaScript. The problem is that many developers learn JavaScript in a very short period of time, without understanding some of the most essential features of the language. In this article, we will cover",
-          "link": "https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/",
-          "publishedOn": "2023-03-20T20:12:35.000Z",
-          "wordCount": 3139,
-          "title": "JavaScript Basics – How to Work with Strings, Arrays, and Objects in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to build a classic platformer game in Python from start to finish? If so, you're in the right place! We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a platformer game in Python using the Pygame library. We'll",
-          "link": "https://www.freecodecamp.org/news/create-a-platformer-game-with-python/",
-          "publishedOn": "2023-03-20T19:47:16.000Z",
-          "wordCount": 850,
-          "title": "Create a platformer game with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/python-game.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
-          "author": "Zaira Hira",
-          "description": "In Linux, process automation relies heavily on shell scripting. This involves creating a file containing a series of commands that can be executed together. In this article, we'll start with the basics of bash scripting which includes variables, commands, inputs/ outputs, and debugging. We'll also see examples of each along",
-          "link": "https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/",
-          "publishedOn": "2023-03-20T17:35:58.000Z",
-          "wordCount": 4156,
-          "title": "Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/",
-          "author": "Kolade Chris",
-          "description": "Lists are one of the core data structures of Python. Due to their flexibility, there are a lot of things you can do with lists. And one of those things is turning a list of lists into a single list. It is also possible to turn a list of dictionaries,",
-          "link": "https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/",
-          "publishedOn": "2023-03-20T17:02:03.000Z",
-          "wordCount": 1681,
-          "title": "List Flatten in Python – Flattening Nested Lists",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/flattenList.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
-          "author": "Popoola Temitope",
-          "description": "Form building in React [https://reactjs.org/] can be complex and time-consuming, requiring state management, validation, and error handling.  To simplify this process, the Formik [https://formik.org/] library provides an intuitive solution for building forms in React. Formik has a straightforward API and built-in validation, making collecting and manipulating input data in",
-          "link": "https://www.freecodecamp.org/news/build-react-forms-with-formik-library/",
-          "publishedOn": "2023-03-20T16:56:05.000Z",
-          "wordCount": 1598,
-          "title": "How to Build React Forms with Formik",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Group-1--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
-          "author": "Michael Yuan",
-          "description": "Since OpenAI released an official API for ChatGPT [https://openai.com/blog/introducing-chatgpt-and-whisper-apis] in March 2023, many developers and entrepreneurs are interested in integrating it into their own business operations.  But some significant barriers remain that make it difficult for them to do this:  * OpenAI provides a simple stateless API",
-          "link": "https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/",
-          "publishedOn": "2023-03-20T16:52:42.000Z",
-          "wordCount": 1923,
-          "title": "How to Create a Serverless ChatGPT App in 10 Minutes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/c0fd422e-f234-49e2-85a6-24f91b0b9991-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/django-model-relationships/",
-          "author": "Damilola Oladele",
-          "description": "Django [https://www.djangoproject.com/] is a free and open-source web framework written in Python. It helps with rapid web development and provides out-of-the-box web security. Websites must be able to store and retrieve data from databases. Django makes provisions for this. By default, Django operates a Relational Database Management System.  >",
-          "link": "https://www.freecodecamp.org/news/django-model-relationships/",
-          "publishedOn": "2023-03-20T16:05:18.000Z",
-          "wordCount": 1582,
-          "title": "How to Define Relationships Between Django Models",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner-560x315-px-1.png"
         }
       ]
     }
