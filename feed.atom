@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T01:02:06.797Z</updated>
+    <updated>2023-04-22T01:03:06.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Navigation in Flutter – How to Add Stack, Tab, and Drawer Navigators to Your Apps]]></title>
+        <id>https://www.freecodecamp.org/news/navigation-in-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/navigation-in-flutter/"/>
+        <updated>2023-04-21T18:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Almost any app that you design or develop will use some type of navigation.  There are three types of navigation that are common to all apps – stack, tab, and drawer navigation. Flutter supports all three types, and implementing them is similar to how you do it in other]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between Pseudo-Classes and Pseudo-Elements in CSS]]></title>
+        <id>https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/</id>
+        <link href="https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/"/>
+        <updated>2023-04-21T17:34:29.000Z</updated>
+        <summary type="html"><![CDATA[In CSS, pseudo-classes and pseudo-elements are two types of keywords that you can combine with selectors. They are used to target the element's state or specific parts of an element.  In this article, we'll explore the differences between the two along with their history and best practices. Syntax]]></summary>
+        <author>
+            <name>Natalie Pina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring The Potential Of Web Workers For Multithreading On The Web]]></title>
+        <id>https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/</id>
+        <link href="https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/"/>
+        <updated>2023-04-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Sarah Oke Okolo explores the importance of Web Workers for multithreading on the web, including the limitations and considerations of using them and the strategies for mitigating potential issues associated with them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Sarah Oke Okolo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Initialize an ArrayList in Java – Declaration with Values]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/"/>
+        <updated>2023-04-21T06:34:22.000Z</updated>
+        <summary type="html"><![CDATA[You can use an ArrayList in Java to store and manipulate a collection of similar variables.  An ArrayList is just like an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] but offers more flexibility. An ArrayList is more dynamic with the size of the collection, and gives you more control over the elements in a]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use APIs in Your Projects to Practice Your Coding Skills]]></title>
         <id>https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/</id>
@@ -1535,87 +1575,6 @@ Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Vite is a powerful build tool and development server designed to speed up modern web development. We just published a full Vite course on the freeCodeCamp.org YouTube channel that will teach you how to use Vite effectively and efficiently to streamline your web development workflow. Arsalan Khattak developed this course.]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started in Data Analytics – A Roadmap for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/data-analytics-roadmap/</id>
-        <link href="https://www.freecodecamp.org/news/data-analytics-roadmap/"/>
-        <updated>2023-03-23T00:06:48.000Z</updated>
-        <summary type="html"><![CDATA[Hello and welcome to the world of data analysis! If you're considering a career in this field, you're in good company. Data analysis is a growing and exciting field that's becoming increasingly important in today's data-driven world. Let's face it, we're all drowning in data these days. From social media]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Squash Commits – Squashing the Last N Commits into One Commit]]></title>
-        <id>https://www.freecodecamp.org/news/git-squash-commits/</id>
-        <link href="https://www.freecodecamp.org/news/git-squash-commits/"/>
-        <updated>2023-03-22T23:16:43.000Z</updated>
-        <summary type="html"><![CDATA[If you are working on a project and trying to implement a new feature, you might commit your code a few times to test things out. This lets you see how the code works or looks. While doing this, things might get messy because you now have several commits, even]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Cross-Browser DevTools Features You Might Not Know]]></title>
-        <id>https://css-tricks.com/?p=377264</id>
-        <link href="https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/"/>
-        <updated>2023-03-22T20:22:42.000Z</updated>
-        <summary type="html"><![CDATA[I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …
-Some Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Pankaj Parashar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRM App Development with Django, Python, and MySQL]]></title>
-        <id>https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/</id>
-        <link href="https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/"/>
-        <updated>2023-03-22T19:58:56.000Z</updated>
-        <summary type="html"><![CDATA[Are you interested in learning how to build a customer relationship management (CRM) app with Django, Python, and MySQL? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step on how to build a fully-functional CRM application using Django, Python, and MySQL. John Elder developed]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print Newline in Python – Printing a New Line]]></title>
-        <id>https://www.freecodecamp.org/news/print-newline-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/print-newline-in-python/"/>
-        <updated>2023-03-22T19:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Working with strings or text data in programming frequently involves printing a newline. The end of a line is indicated by a newline character, which also advances the cursor to the start of the following line. Using the escape character "\n," we can print a newline in Python. Other programming]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Variables – The Complete Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/python-variables/</id>
-        <link href="https://www.freecodecamp.org/news/python-variables/"/>
-        <updated>2023-03-22T18:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Variables are an essential part of Python. They allow us to easily store, manipulate, and reference data throughout our projects. This article will give you all the understanding of Python variables you need to use them effectively in your projects. If you want the most convenient way to review all]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prevent Account Loss When using Two-Factor Authentication]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/"/>
-        <updated>2023-03-22T16:28:07.000Z</updated>
-        <summary type="html"><![CDATA[If someone gains unauthorized access to your passwords, two-factor authentication (2FA) can prevent them from accessing your account.  But if you ever lose access to all your 2FA methods, you have lost your account. How do you prevent such loss? In this article, we will look at two-factor authentication]]></summary>
-        <author>
-            <name>Obumuneme Nwabude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Incorporate Cybersecurity Audits into Your Workflow]]></title>
-        <id>https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/</id>
-        <link href="https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/"/>
-        <updated>2023-03-22T16:25:10.000Z</updated>
-        <summary type="html"><![CDATA[The word "audit" describes any process designed to review and assess a system's current state, capacity, and integrity.  An internal audit is a review process initiated and carried out by an organization itself. External audits are often performed by or on behalf of banking entities or government regulatory bodies]]></summary>
-        <author>
-            <name>David Clinton</name>
         </author>
     </entry>
 </feed>

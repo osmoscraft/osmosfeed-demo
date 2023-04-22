@@ -14,16 +14,6 @@
           "wordCount": 3346,
           "title": "Passkeys: What the Heck and Why?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
-        },
-        {
-          "id": "https://css-tricks.com/?p=377264",
-          "author": "Pankaj Parashar",
-          "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/",
-          "publishedOn": "2023-03-22T20:22:42.000Z",
-          "wordCount": 1861,
-          "title": "Some Cross-Browser DevTools Features You Might Not Know",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
         }
       ]
     },
@@ -32,6 +22,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
+          "author": "hello@smashingmagazine.com (Sarah Oke Okolo)",
+          "description": "In this article, Sarah Oke Okolo explores the importance of Web Workers for multithreading on the web, including the limitations and considerations of using them and the strategies for mitigating potential issues associated with them.",
+          "link": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
+          "publishedOn": "2023-04-21T10:00:00.000Z",
+          "wordCount": 6325,
+          "title": "Exploring The Potential Of Web Workers For Multithreading On The Web",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/potential-web-workers-multithreading-web/potential-web-workers-multithreading-web.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/",
           "author": "hello@smashingmagazine.com (Tejas Kumar)",
@@ -219,6 +224,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/navigation-in-flutter/",
+          "author": "Arunachalam B",
+          "description": "Almost any app that you design or develop will use some type of navigation.  There are three types of navigation that are common to all apps – stack, tab, and drawer navigation. Flutter supports all three types, and implementing them is similar to how you do it in other",
+          "link": "https://www.freecodecamp.org/news/navigation-in-flutter/",
+          "publishedOn": "2023-04-21T18:10:23.000Z",
+          "wordCount": 2917,
+          "title": "Navigation in Flutter – How to Add Stack, Tab, and Drawer Navigators to Your Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Types-of-Navigations-in-Flutter---Banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/",
+          "author": "Natalie Pina",
+          "description": "In CSS, pseudo-classes and pseudo-elements are two types of keywords that you can combine with selectors. They are used to target the element's state or specific parts of an element.  In this article, we'll explore the differences between the two along with their history and best practices. Syntax",
+          "link": "https://www.freecodecamp.org/news/the-difference-between-pseudo-classes-and-elements-in-css/",
+          "publishedOn": "2023-04-21T17:34:29.000Z",
+          "wordCount": 1449,
+          "title": "The Difference Between Pseudo-Classes and Pseudo-Elements in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pseudo-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use an ArrayList in Java to store and manipulate a collection of similar variables.  An ArrayList is just like an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] but offers more flexibility. An ArrayList is more dynamic with the size of the collection, and gives you more control over the elements in a",
+          "link": "https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/",
+          "publishedOn": "2023-04-21T06:34:22.000Z",
+          "wordCount": 1312,
+          "title": "How to Initialize an ArrayList in Java – Declaration with Values",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/java-arraylist-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/",
           "author": "Rahul",
@@ -1618,76 +1653,6 @@
           "wordCount": 1081,
           "title": "Use Vite to Speed Up Web Development",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/vite.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
-          "author": "Oluseye Jeremiah",
-          "description": "Hello and welcome to the world of data analysis! If you're considering a career in this field, you're in good company. Data analysis is a growing and exciting field that's becoming increasingly important in today's data-driven world. Let's face it, we're all drowning in data these days. From social media",
-          "link": "https://www.freecodecamp.org/news/data-analytics-roadmap/",
-          "publishedOn": "2023-03-23T00:06:48.000Z",
-          "wordCount": 3406,
-          "title": "How to Get Started in Data Analytics – A Roadmap for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/dataa.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-squash-commits/",
-          "author": "Kolade Chris",
-          "description": "If you are working on a project and trying to implement a new feature, you might commit your code a few times to test things out. This lets you see how the code works or looks. While doing this, things might get messy because you now have several commits, even",
-          "link": "https://www.freecodecamp.org/news/git-squash-commits/",
-          "publishedOn": "2023-03-22T23:16:43.000Z",
-          "wordCount": 1464,
-          "title": "Git Squash Commits – Squashing the Last N Commits into One Commit",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/squashCommits.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
-          "author": "Beau Carnes",
-          "description": "Are you interested in learning how to build a customer relationship management (CRM) app with Django, Python, and MySQL? We just published a course on the freeCodeCamp.org YouTube channel that will guide you step-by-step on how to build a fully-functional CRM application using Django, Python, and MySQL. John Elder developed",
-          "link": "https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/",
-          "publishedOn": "2023-03-22T19:58:56.000Z",
-          "wordCount": 997,
-          "title": "CRM App Development with Django, Python, and MySQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/crmdjango.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/print-newline-in-python/",
-          "author": "Shittu Olumide",
-          "description": "Working with strings or text data in programming frequently involves printing a newline. The end of a line is indicated by a newline character, which also advances the cursor to the start of the following line. Using the escape character \"\\n,\" we can print a newline in Python. Other programming",
-          "link": "https://www.freecodecamp.org/news/print-newline-in-python/",
-          "publishedOn": "2023-03-22T19:17:24.000Z",
-          "wordCount": 1323,
-          "title": "Print Newline in Python – Printing a New Line",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Print-Newline-in-Python---Printing-a-New-Line-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-variables/",
-          "author": "Reed Barger",
-          "description": "Variables are an essential part of Python. They allow us to easily store, manipulate, and reference data throughout our projects. This article will give you all the understanding of Python variables you need to use them effectively in your projects. If you want the most convenient way to review all",
-          "link": "https://www.freecodecamp.org/news/python-variables/",
-          "publishedOn": "2023-03-22T18:30:52.000Z",
-          "wordCount": 1741,
-          "title": "Python Variables – The Complete Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/mugshotbot.com_customize_color-yellow-image-9820e115-mode-light-pattern-texture-theme-two_up-url-https___gifcoins.io.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
-          "author": "Obumuneme Nwabude",
-          "description": "If someone gains unauthorized access to your passwords, two-factor authentication (2FA) can prevent them from accessing your account.  But if you ever lose access to all your 2FA methods, you have lost your account. How do you prevent such loss? In this article, we will look at two-factor authentication",
-          "link": "https://www.freecodecamp.org/news/how-to-prevent-account-loss-when-using-two-factor-authentication/",
-          "publishedOn": "2023-03-22T16:28:07.000Z",
-          "wordCount": 3306,
-          "title": "How to Prevent Account Loss When using Two-Factor Authentication",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-karolina-grabowska-4467737.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
-          "author": "David Clinton",
-          "description": "The word \"audit\" describes any process designed to review and assess a system's current state, capacity, and integrity.  An internal audit is a review process initiated and carried out by an organization itself. External audits are often performed by or on behalf of banking entities or government regulatory bodies",
-          "link": "https://www.freecodecamp.org/news/incorporate-cybersecurity-audits-into-your-workflow/",
-          "publishedOn": "2023-03-22T16:25:10.000Z",
-          "wordCount": 1593,
-          "title": "How to Incorporate Cybersecurity Audits into Your Workflow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-39584.jpg"
         }
       ]
     }
