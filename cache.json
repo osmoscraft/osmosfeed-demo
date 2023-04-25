@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/",
+          "author": "hello@smashingmagazine.com (Marcus Herrmann)",
+          "description": "In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.",
+          "link": "https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/",
+          "publishedOn": "2023-04-24T08:00:00.000Z",
+          "wordCount": 5025,
+          "title": "The Potentially Dangerous Non-Accessibility Of Cookie Notices",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/potentially-dangerous-accessibility-cookie-notices/potentially-dangerous-non-accessibility-cookie-notices.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/potentially-dangerous-accessibility-cookie-notices/potentially-dangerous-non-accessibility-cookie-notices.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/",
           "author": "hello@smashingmagazine.com (Sarah Oke Okolo)",
           "description": "In this article, Sarah Oke Okolo explores the importance of Web Workers for multithreading on the web, including the limitations and considerations of using them and the strategies for mitigating potential issues associated with them.",
@@ -209,6 +224,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/",
+          "author": "Ijeoma Igboagu",
+          "description": "Do you ever find yourself stuck when it comes to writing or unable to come up with creative solutions to a problem? Don’t worry—you are not alone. Everyone experiences writer's block or a lack of creativity at some point. At times, as writers, we may be really eager to write",
+          "link": "https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/",
+          "publishedOn": "2023-04-24T19:46:18.000Z",
+          "wordCount": 1937,
+          "title": "How to Boost Your Creativity – Strategies for Generating Ideas and Overcoming Writer's Block",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Boost-Your-Creativity-Tools-for-Generating-Ideas-and-Overcoming-Writer-s-Block---Presentation--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/",
+          "author": "Gursimar Singh",
+          "description": "This article is a comprehensive guide on how to read the contents of your computer's RAM.  Random Access Memory (RAM) is a crucial component of any computer system, and it is responsible for temporarily storing data that is required by the system to carry out its functions. But the",
+          "link": "https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/",
+          "publishedOn": "2023-04-24T19:31:18.000Z",
+          "wordCount": 3553,
+          "title": "What is RAM? How to Access Your Computer's RAM and Read the Contents",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/ram-article.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/",
+          "author": "MENE-EJEGI OGBEMI",
+          "description": "SEE [https://tv.apple.com/us/show/see/umc.cmc.3s4mgg2y7h95fks9gnc4pw13m] is a beautiful Apple TV series that depicts a dystopia where humans have lost their sight. Hundreds of years later, it was considered a myth that people could ever see.  Jason Momoa is one of the leads and plays Baba Voss, an elite warrior. Jason's wife gives",
+          "link": "https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/",
+          "publishedOn": "2023-04-24T18:32:32.000Z",
+          "wordCount": 2685,
+          "title": "Data Visualization with Matplotlib – a Step by Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/data-visualization-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-regular-expression-in-json-file/",
+          "author": "Kolade Chris",
+          "description": "JSON stands for JavaScript Object Notation. It is a text-based and lightweight data format for exchanging information between systems, for example, a web server and a web application. JSON files typically contain objects, arrays, strings, and numbers. But you can also have regular expressions in a JSON file. And that’s",
+          "link": "https://www.freecodecamp.org/news/how-to-write-regular-expression-in-json-file/",
+          "publishedOn": "2023-04-24T12:38:59.000Z",
+          "wordCount": 1556,
+          "title": "How to Write Regular Expression in JSON File",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/start-graph--11-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/navigation-in-flutter/",
           "author": "Arunachalam B",
@@ -1548,16 +1603,6 @@
           "wordCount": 1247,
           "title": "How to Set Up AWS Simple Email Service",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Blog-Banner---Template--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
-          "author": "Liz Johnson",
-          "description": "Over the last couple years, I've learned that being a consultant means you have to be able to learn new things quickly. At first, this was really scary to me. Now, as someone who has had to learn several new tech stacks over the last year, it’s still a little",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-different-tech-stacks/",
-          "publishedOn": "2023-03-25T17:11:53.000Z",
-          "wordCount": 2584,
-          "title": "How to Learn Different Tech Stacks IRL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/ilya-pavlov-OqtafYT5kTw-unsplash-1.jpg"
         }
       ]
     }
