@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/04/ux-web3-mass-adoption/",
+          "author": "hello@smashingmagazine.com (Pete Boyle)",
+          "description": "The decentralized web is our new reality, but Web3 UX is shockingly bad. In this article, Pete Boyle addresses the major shortcomings in Web3 adoption and how we might be able to solve them and make the entire ecosystem more user-friendly.",
+          "link": "https://smashingmagazine.com/2023/04/ux-web3-mass-adoption/",
+          "publishedOn": "2023-04-25T15:30:00.000Z",
+          "wordCount": 6996,
+          "title": "Could UX Be The Key To Unlocking Web3 Mass Adoption?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-web3-mass-adoption/ux-web3-mass-adoption.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-web3-mass-adoption/ux-web3-mass-adoption.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/",
           "author": "hello@smashingmagazine.com (Marcus Herrmann)",
           "description": "In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.",
@@ -224,6 +239,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-java-used-for/",
+          "author": "Shittu Olumide",
+          "description": "Java is a very popular programming language you can use to create a variety of software applications. It's an object-oriented language that was made to be simple to read, write, and learn.  Millions of developers use Java to create everything from desktop programs to sophisticated web apps. This makes",
+          "link": "https://www.freecodecamp.org/news/what-is-java-used-for/",
+          "publishedOn": "2023-04-25T21:26:57.000Z",
+          "wordCount": 1579,
+          "title": "What is Java Used For in 2023? The Java Programming Language and Java Platform Strengths",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-What-is-Java-Used-For-in-2022-The-Java-Programming-Language-and-Java-Platform-Strengths-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/",
+          "author": "Otavio Ehrenberger",
+          "description": "You may have heard how students can use ChatGPT [https://chat.openai.com] to cheat on assignments. But we should also talk about what a fantastic study tool it can be.  In this article we'll discuss how you can use ChatGPT to help you study and learn new skills. You'll see how",
+          "link": "https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/",
+          "publishedOn": "2023-04-25T20:35:46.000Z",
+          "wordCount": 2505,
+          "title": "How to Supercharge Your Studying with Python, Anki, and ChatGPT",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pixabay-256302.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/",
+          "author": "Joel Olawanle",
+          "description": "JavaScript arrays are an important part of the language. They allow you to store and manipulate collections of data. Sometimes, you may need to insert a new element into an array at a specific index. To accomplish this task, you can use the push() method or the splice()  method.",
+          "link": "https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/",
+          "publishedOn": "2023-04-25T18:14:43.000Z",
+          "wordCount": 1488,
+          "title": "How to Insert into a JavaScript Array at a Specific Index – JS Push",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--11-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/zustand-course-react-state-management/",
+          "author": "Beau Carnes",
+          "description": "Modern web applications demand efficient and easy-to-use state management solutions that don't compromise on flexibility or performance. Zustand, a minimalistic state management library for React, offers just that. We just released a course on the freeCodeCamp.org YouTube channel that will help you unlock the full potential of Zustand and create",
+          "link": "https://www.freecodecamp.org/news/zustand-course-react-state-management/",
+          "publishedOn": "2023-04-25T17:21:39.000Z",
+          "wordCount": 914,
+          "title": "Mastering Zustand: A Simple and Efficient State Management Library for React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/zustand.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-upload-files-to-aws-s3-with-node/",
+          "author": "Fiyinfoluwa Akinsiku",
+          "description": "File upload is a common feature in a lot of modern applications. These platforms accept different file formats, including jpeg, png, gif, pdf, txt, zip, and mp3.  Some applications will also restrict uploads to a specific file type. For example, when uploading your resume on LinkedIn, you will see",
+          "link": "https://www.freecodecamp.org/news/how-to-upload-files-to-aws-s3-with-node/",
+          "publishedOn": "2023-04-25T16:31:46.000Z",
+          "wordCount": 3276,
+          "title": "How to Upload Files to Amazon S3 with Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-cottonbro-studio-3584994.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-interactive-accordion-component-with-react-and-gsap/",
+          "author": "Jaja Ibifubara David",
+          "description": "As websites become more sophisticated and user expectations continue to rise, web developers must search for ways to create more engaging and interactive user interfaces.  One powerful tool in a developer's arsenal is the accordion component, a versatile and widely-used element found on nearly every website.  In this",
+          "link": "https://www.freecodecamp.org/news/build-an-interactive-accordion-component-with-react-and-gsap/",
+          "publishedOn": "2023-04-25T15:47:34.000Z",
+          "wordCount": 4778,
+          "title": "How to Build an Interactive Accordion Component with React and GSAP",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/",
+          "author": "Daniel Iwugo",
+          "description": "ChatGPT has had well over a billion visits since its release. Now, what happens when you combine the greatest language learning model of the decade with malicious hacking...what could go wrong? 💀 In this article, we'll explore what artificial intelligence is, its current state, how large language models like ChatGPT",
+          "link": "https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/",
+          "publishedOn": "2023-04-25T01:03:55.000Z",
+          "wordCount": 3219,
+          "title": "Large Language Models and Cybersecurity – What You Should Know",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/image-228-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/",
+          "author": "Joel Olawanle",
+          "description": "If you're a web developer, you'll work with JavaScript when building dynamic and interactive web applications. One common task that you'll need to perform is getting the current URL of a web page. In this article, you will learn how to get the current URL using JavaScript's Location object. I'll",
+          "link": "https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/",
+          "publishedOn": "2023-04-25T00:34:45.000Z",
+          "wordCount": 1308,
+          "title": "How to Get the Current URL with JavaScript – JS Location Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--10-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/",
+          "author": "Shittu Olumide",
+          "description": "These days, many people are concerned with the way AI is evolving. They see it effortlessly solving problems, performing tasks quickly and accurately, and doing jobs easily and efficiently.  And while some people are scared, others are actually embracing it. I'm one of those people who are embracing it,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/",
+          "publishedOn": "2023-04-24T23:01:14.000Z",
+          "wordCount": 2671,
+          "title": "How to Use ChatGPT – Prompts for Data Scientists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-How-to-use-ChatGPT-for-Data-Scientists.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/server-side-rendering-javascript/",
+          "author": "Scott Gary",
+          "description": "The concept of Server Side Rendering (SSR) is often misunderstood. So my aim in this article is to bring clarity to this process and how it works.  Here's what we'll cover in this guide:  1. What is server side rendering? What are its pros and cons when compared",
+          "link": "https://www.freecodecamp.org/news/server-side-rendering-javascript/",
+          "publishedOn": "2023-04-24T22:12:31.000Z",
+          "wordCount": 2573,
+          "title": "Server Side Rendering in JavaScript – SSR vs CSR Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-steve-johnson-12939554.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/",
           "author": "Ijeoma Igboagu",
