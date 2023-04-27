@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T01:03:00.211Z</updated>
+    <updated>2023-04-27T01:05:10.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[strcmp in C – How to Compare Strings in C]]></title>
+        <id>https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/"/>
+        <updated>2023-04-26T20:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Comparing strings is a common task in most programming languages. In C, you can use the strcmp function to handle string comparisons.  In this article, I will show you practical examples of the strcmp function, and offer insights into how it compares strings, what its return values mean, and]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Ternary Operator – Conditional Operators in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-tenary-operator/</id>
+        <link href="https://www.freecodecamp.org/news/python-tenary-operator/"/>
+        <updated>2023-04-26T15:29:37.000Z</updated>
+        <summary type="html"><![CDATA[You can use conditional operators in Python to execute code based on a predefined condition(s).  In this article, you'll learn how to use the ternary operator in Python. You'll see its syntax along with some practical examples.  What Is the Ternary Operator Used for in Python? The ternary]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Simple Website with HTML, CSS, JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/"/>
+        <updated>2023-04-26T14:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Embark on an exciting journey to master frontend development with this course created by Jess, the expert behind the acclaimed Coder Coder YouTube channel. This comprehensive course on the freeCodeCamp.org YouTube channel is tailored to empower you with the knowledge and skills required to excel in JavaScript, HTML, and CSS,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Changes to an Application – Deployment Strategies Explained]]></title>
+        <id>https://www.freecodecamp.org/news/application-deployment-strategies/</id>
+        <link href="https://www.freecodecamp.org/news/application-deployment-strategies/"/>
+        <updated>2023-04-26T14:41:00.000Z</updated>
+        <summary type="html"><![CDATA[When deploying changes to an application, there are several strategies you can use.  In this article, I'll explain the different strategies with an analogy, and then we'll analyze the benefits and tradeoffs. Deployment Strategies Imagine you are the manager of a popular pizza restaurant that is open 24/7 for]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Does M Mean in Regular Expressions? M Flag for RegEx]]></title>
+        <id>https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/</id>
+        <link href="https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/"/>
+        <updated>2023-04-26T14:31:31.000Z</updated>
+        <summary type="html"><![CDATA[In regular expressions, "m" is a flag that signifies multiple lines. So, it is popularly called the "multiline flag". In this article, I will show you what the "m" flag does and how you can use it in both regex engines and JavaScript. What Does the "m" Flag Do? Sometimes,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent Infinite Loops When Using useEffect() in ReactJS]]></title>
+        <id>https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/</id>
+        <link href="https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/"/>
+        <updated>2023-04-26T14:07:12.000Z</updated>
+        <summary type="html"><![CDATA[The useEffect hook in React has become a common tool for managing side effects in functional components. But there's a common pitfall when using it: the potential for infinite loops. These can cause performance issues and disrupt the intended behavior of components.  In this tutorial, we will explore how]]></summary>
+        <author>
+            <name>Roy Chng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function Declaration vs Function Expression]]></title>
+        <id>https://www.freecodecamp.org/news/function-declaration-vs-function-expression/</id>
+        <link href="https://www.freecodecamp.org/news/function-declaration-vs-function-expression/"/>
+        <updated>2023-04-26T12:11:48.000Z</updated>
+        <summary type="html"><![CDATA[When creating functions, you can use two approaches: declaration and expression. What's the difference? When talking about functions in JavaScript, you would often hear function declarations and function expressions. Though these approaches are almost similar, they have notable differences. We'll look at the differences in this article. I have a]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Java Used For in 2023? The Java Programming Language and Java Platform Strengths]]></title>
         <id>https://www.freecodecamp.org/news/what-is-java-used-for/</id>
@@ -1535,106 +1605,6 @@ Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Regression analysis is a statistical method used to study the relationship between a dependent variable and one or more independent variables.  One of the most commonly used methods for linear regression analysis is R-Squared.  In this article, you'll get to know what R-Squared is and the meaning of]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to replace links in a text with Anchor Tags using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-replace-links-in-a-text-with-anchor-tags-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-replace-links-in-a-text-with-anchor-tags-using-javascript/"/>
-        <updated>2023-03-28T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[When you make a post on social media, and that post contains links, you would see the links styled differently from other text. How can you achieve this? For example, here's a tweet I made on Twitter The text for my tweet is: > hi good morning my website is]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React by Building a Mortgage Calculator]]></title>
-        <id>https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/react-mortgage-calculator-tutorial-for-beginners/"/>
-        <updated>2023-03-27T22:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Today we will learn and practice ReactJs by building a mortgage calculator step by step. This is the project that we will build today 👇  * Heres a live demo of the project    [https://mortgage-calculator-tutorial.vercel.app/]  * And here's the Github Repo Link    [https://github.com/JoyShaheb/mortgage-calculator-tutorial]]]></summary>
-        <author>
-            <name>Joy Shaheb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Setup a CI/CD Pipeline for a Next.js App using AWS]]></title>
-        <id>https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/</id>
-        <link href="https://www.freecodecamp.org/news/ci-cd-pipeline-for-nextjs-app-with-aws/"/>
-        <updated>2023-03-27T21:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Hello Everyone! Deploying a web application is a challenging task (at least for me), especially when it comes to keeping it updated. It can take up a lot of time and energy if it has to be deployed manually every time you make a change.  But I recently discovered]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array Tutorial – Array Methods in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-tutorial-array-methods-in-js/"/>
-        <updated>2023-03-27T19:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Arrays are data structures that are extremely useful and versatile. They're present in many programming languages, and they allow you to store multiple values in a single variable. In this tutorial, we will explore how arrays work in JavaScript, their characteristics, and how to manipulate them using the most common]]></summary>
-        <author>
-            <name>Dario Di Cillo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataframe Drop Column in Pandas – How to Remove Columns from Dataframes]]></title>
-        <id>https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/</id>
-        <link href="https://www.freecodecamp.org/news/dataframe-drop-column-in-pandas-how-to-remove-columns-from-dataframes/"/>
-        <updated>2023-03-27T18:03:48.000Z</updated>
-        <summary type="html"><![CDATA[In Pandas, sometimes you'll need to remove columns from a DataFrame for various reasons, such as cleaning data, reducing memory usage, or simplifying analysis. And in this article, I'll show you how to do it. I'll start by introducing the .drop() method, which is the primary method for removing columns]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create and Sync Git and GitHub Repositories]]></title>
-        <id>https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/</id>
-        <link href="https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/"/>
-        <updated>2023-03-27T17:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Working with Git and GitHub is often an essential part of your daily programming tasks. In many cases, you'll want both a local Git repository and a remote GitHub repository for a project.  * With the local repository, you work on your own copy of the project. You make]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Instal ChatGPT in VSCode]]></title>
-        <id>https://www.freecodecamp.org/news/install-chatgpt-in-vscode/</id>
-        <link href="https://www.freecodecamp.org/news/install-chatgpt-in-vscode/"/>
-        <updated>2023-03-27T17:50:01.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT – or Chat Generative Pre-Training Transformer – has been making waves in the tech industry recently.  It was first launched in November 2022 and upgraded to ChatGPT-4 in March 2023. In this tutorial, I will explain how you can use ChatGPT to become more productive. Then I'll walk]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Measure and Improve the Performance of a React App]]></title>
-        <id>https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/</id>
-        <link href="https://www.freecodecamp.org/news/measure-and-improve-performance-of-react-apps/"/>
-        <updated>2023-03-27T17:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! React is a popular JavaScript library for building user interfaces. As applications built with React become more complex, their performance can start to degrade.  Poor performance can lead to a frustrating user experience and a negative impact on user engagement. So in this article, we will discuss]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up AWS Simple Email Service]]></title>
-        <id>https://www.freecodecamp.org/news/set-up-aws-simple-email-service/</id>
-        <link href="https://www.freecodecamp.org/news/set-up-aws-simple-email-service/"/>
-        <updated>2023-03-27T15:44:03.000Z</updated>
-        <summary type="html"><![CDATA[If you're looking for a reliable and cost-effective way to send emails, AWS Simple Email Service (SES) is a great option. It's a cloud-based email platform that helps you send and receive emails quickly and easily.  With SES, you don't have to worry about managing your mail server, and]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Handoff Is No Handoff]]></title>
-        <id>https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/</id>
-        <link href="https://smashingmagazine.com/2023/03/best-handoff-is-no-handoff/"/>
-        <updated>2023-03-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design handoffs are inefficient and painful. They cause frustration, friction and a lot of back and forth. Can we avoid them altogether? Of course we can! Let’s see how to do just that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
