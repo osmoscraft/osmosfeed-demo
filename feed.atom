@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-27T01:05:10.142Z</updated>
+    <updated>2023-04-28T01:04:43.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Git Merge – The Definitive Guide]]></title>
+        <id>https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/</id>
+        <link href="https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/"/>
+        <updated>2023-04-27T17:07:19.000Z</updated>
+        <summary type="html"><![CDATA[By reading this post, you are going to really understand git merge, one of the most common operations you'll perform in your Git repositories. Notes before we start  1. I also created two videos covering the contents of this post. If you wish to     watch]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Scrapy for Web Scraping in Python]]></title>
+        <id>https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/use-scrapy-for-web-scraping-in-python/"/>
+        <updated>2023-04-27T15:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Are you tired of manually collecting data from websites? Have you ever wished you could automate the process and gather massive amounts of data in a fraction of the time? We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to scrape websites with Python]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The REST API Handbook – How to Build, Test, Consume, and Document REST APIs]]></title>
+        <id>https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/</id>
+        <link href="https://www.freecodecamp.org/news/build-consume-and-document-a-rest-api/"/>
+        <updated>2023-04-27T13:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! In this tutorial we're going to take a deep dive into REST APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a REST API.]]></summary>
+        <author>
+            <name>Germán Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do I Enable Square Brackets in RegEx?]]></title>
+        <id>https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/</id>
+        <link href="https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/"/>
+        <updated>2023-04-27T12:31:45.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you’ll learn about what square brackets do in regular expressions, how to use them for specifying ranges, and how to match them as a character. What Does Square Bracket Do in RegEx? In regular expressions, square brackets ([ ]) are characters that have a special meaning of]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible Target Sizes Cheatsheet]]></title>
+        <id>https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/</id>
+        <link href="https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/"/>
+        <updated>2023-04-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[strcmp in C – How to Compare Strings in C]]></title>
         <id>https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/</id>
@@ -1515,96 +1565,6 @@ Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[Slicing and indexing are two fundamental concepts in Python. They help you access specific elements in a sequence, such as a list, tuple or string.  By using these techniques, you can extract substrings from strings, filter lists, and extract columns from 2D lists, among other things.  Understanding how]]></summary>
         <author>
             <name>Oluseye Jeremiah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fine-Grained Access Handling And Data Management With Row-Level Security]]></title>
-        <id>https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/</id>
-        <link href="https://smashingmagazine.com/2023/03/access-handling-data-management-row-level-security/"/>
-        <updated>2023-03-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dealing with sensitive data is an important topic for any app. In this article, you will find out how to handle sensitive or confidential information in your apps and what Row-Level Security means.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter App Development – Create a Twitter Clone]]></title>
-        <id>https://www.freecodecamp.org/news/flutter-app-development-create-a-twitter-clone/</id>
-        <link href="https://www.freecodecamp.org/news/flutter-app-development-create-a-twitter-clone/"/>
-        <updated>2023-03-28T20:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to improve your Flutter skills and build a fully-functional Twitter clone? We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Flutter, Appwrite, and Riverpod to create a Twitter clone. Rivaan Ranawat created this course. He is an expereinced course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a 3D Element in Your React Site]]></title>
-        <id>https://www.freecodecamp.org/news/3d-react-webgi-threejs-course/</id>
-        <link href="https://www.freecodecamp.org/news/3d-react-webgi-threejs-course/"/>
-        <updated>2023-03-28T20:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Are you interested in learning how to build a 3D animation using React? We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to add 3D elements into your React websites. Slobodan Gajic created this course. He is a senior fullstack developer and popular]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fix Merge Conflicts in Git]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-fix-merge-conflicts-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fix-merge-conflicts-in-git/"/>
-        <updated>2023-03-28T20:25:24.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever worked on a team that's working on a large codebase, you’ve likely experienced merge conflicts while creating a pull request or merging two branches. Even if you’ve never worked with a team or on a large codebase, it is still possible to have merge conflicts as long]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Iterate Over Rows with Pandas – Loop Through a Dataframe]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-iterate-over-rows-with-pandas-loop-through-a-dataframe/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-iterate-over-rows-with-pandas-loop-through-a-dataframe/"/>
-        <updated>2023-03-28T18:35:22.000Z</updated>
-        <summary type="html"><![CDATA[This article provides a comprehensive guide on how to loop through a Pandas DataFrame in Python.  I'll start by introducing the Pandas library and DataFrame data structure. I'll explain the essential characteristics of Pandas, how to loop through rows in a dataframe, and finally how to loop through columns]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Website Encryption Works]]></title>
-        <id>https://www.freecodecamp.org/news/understanding-website-encryption/</id>
-        <link href="https://www.freecodecamp.org/news/understanding-website-encryption/"/>
-        <updated>2023-03-28T17:35:27.000Z</updated>
-        <summary type="html"><![CDATA[It's one thing to protect your data when it's sitting quietly on your own local machine and not bothering anyone. But moving data between locations – as you do whenever you open a website on a remote server or send an email attachment across the internet – introduces a whole]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Get Current Directory – Print Working Directory PWD Equivalent]]></title>
-        <id>https://www.freecodecamp.org/news/python-get-current-directory/</id>
-        <link href="https://www.freecodecamp.org/news/python-get-current-directory/"/>
-        <updated>2023-03-28T16:27:30.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to get the current working directory (another name for folder) in Python, which is the equivalent of using the pwd  command. There are a couple of ways to get the current working directory in Python:  * By using the os module]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use GitHub Actions to  Automate Open-Source Projects]]></title>
-        <id>https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/</id>
-        <link href="https://www.freecodecamp.org/news/automate-open-source-projects-with-github-actions/"/>
-        <updated>2023-03-28T15:51:39.000Z</updated>
-        <summary type="html"><![CDATA[These days, developers use automation tools all the time to manage tasks effectively and streamline their daily activities. And one of these popular tools is GitHub Actions. When talking about software, including the open-source variety, you'll likely agree with me that efficiency is in high demand. And with the help]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is R Squared? R2 Value Meaning and Definition]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-r-squared-r2-value-meaning-and-definition/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-r-squared-r2-value-meaning-and-definition/"/>
-        <updated>2023-03-28T14:51:21.000Z</updated>
-        <summary type="html"><![CDATA[Regression analysis is a statistical method used to study the relationship between a dependent variable and one or more independent variables.  One of the most commonly used methods for linear regression analysis is R-Squared.  In this article, you'll get to know what R-Squared is and the meaning of]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>
