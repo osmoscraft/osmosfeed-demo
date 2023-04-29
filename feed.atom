@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-28T01:04:43.452Z</updated>
+    <updated>2023-04-29T01:03:06.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/"/>
+        <updated>2023-04-28T14:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Hoisting is a concept or behavior in JavaScript where the declaration of a function, variable, or class goes to the top of the scope they were defined in. What does this mean? Hoisting is a concept you may find in some programming languages (such as JavaScript) and not in others.]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pub/Sub in Redis – How to Use the Publish/Subscribe Messaging Pattern]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/"/>
+        <updated>2023-04-28T14:33:25.000Z</updated>
+        <summary type="html"><![CDATA[When you're working on an application that needs to be easily maintainable, scalable, and performant, the Publish/Subscribe messaging pattern is a good choice. The idea behind it is simple, but powerful. We have senders called publishers.  Their sole role is to send or publish messages. They don’t care about]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Intruders – Top Ways Hackers Can Breach Your Smartphone’s Security]]></title>
+        <id>https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/</id>
+        <link href="https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/"/>
+        <updated>2023-04-28T14:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Smartphones are integral to our lives, making them prime targets for hackers. In this article, we will go through 7 ways hackers can gain access to your smartphone and how to protect against these attacks. Smartphones have become an essential part of our daily lives with instant access to information]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Punct in RegEx? How to Match All Punctuation Marks in Regular Expressions]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/"/>
+        <updated>2023-04-28T11:28:37.000Z</updated>
+        <summary type="html"><![CDATA[In regular expressions, "punct" means punctuation marks. It is all non-word and non-space characters. "Punct" is a predefined character class in regular expressions, and you can use it in any regex flavor that supports it. The Punct character class is denoted by \p{Punct} or simply \p{P}. It matches any punctuation]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write Better CSS By Borrowing Ideas From JavaScript Functions]]></title>
+        <id>https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/</id>
+        <link href="https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/"/>
+        <updated>2023-04-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many problems with website layouts happen when we don’t write CSS with the same care we’d use when writing a JavaScript function. Let’s look at how we can borrow best practices and ideas from writing good JavaScript functions for writing CSS.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yaphi Berhanu)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git Merge – The Definitive Guide]]></title>
         <id>https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/</id>
@@ -1475,96 +1525,6 @@ Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[The conventional CTRL + F does not support Regex in many software tools we use in our day-to-day lives. But almost nothing is impossible in the tech world. Many of these software tools, such as VS Code, Chrome browser, Dreamweaver, Jetbrains, and others, have a built-in mechanism that supports RegEx]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Organizing Design Workshops: A Detailed Checklist]]></title>
-        <id>https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/</id>
-        <link href="https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/"/>
-        <updated>2023-03-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Workshops are all about people: they involve people, are conducted by people, and aim to close the gaps in people’s communication. Slava Shestopalov shares a checklist with everything you need to keep in mind when running a workshop.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does :: Mean in Python? Operator Meaning for Double Colon]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-mean-in-python-operator-meaning-for-double-colon/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-mean-in-python-operator-meaning-for-double-colon/"/>
-        <updated>2023-03-30T07:21:33.000Z</updated>
-        <summary type="html"><![CDATA[You can use the double colon (::) in Python to slice or extract elements in a collection such as a list or string. In this article, you'll learn the syntax and how to use :: to slice a list in Python. You'll also learn how to use the parameters associated]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Code a Simple Game and Host it on Your Website]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-code-a-simple-game/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-a-simple-game/"/>
-        <updated>2023-03-29T23:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wanted to create your own game to share with others on your website? In this article, we'll be learning how to code a simple game using HTML, CSS, and JavaScript, and then host it on your website.  The game we'll be coding is a classic word-guessing]]></summary>
-        <author>
-            <name>Shane Duggan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Push Dockerized Applications to the Azure Registry]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/"/>
-        <updated>2023-03-29T21:53:05.000Z</updated>
-        <summary type="html"><![CDATA[A common issue on development teams is that an application might work on one developer’s computer but not on the others. Luckily, there's Docker, a popular containerization technology. It works by packing up all the components needed to run the application and then executing the application in an isolated environment.]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the React Context API in Your Projects]]></title>
-        <id>https://www.freecodecamp.org/news/context-api-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/context-api-in-react/"/>
-        <updated>2023-03-29T20:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Managing state is an essential part of developing applications in React. A common way to manage state is by passing props. Passing props means sending data from one component to another. It's a good way to make sure that data gets to the right place in a React application.]]></summary>
-        <author>
-            <name>Dickson Boateng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Google Apps Script Code to Clear Data Ranges in Google Sheets]]></title>
-        <id>https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/"/>
-        <updated>2023-03-29T19:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Google Apps Script allows you to write code in your spreadsheet. It functions like Visual Basic for Applications (VBA) does in Excel. They're both incredibly useful for executing more complicated actions or for automating repetitive tasks. In this article, I'll give you a brief overview of Google Apps Script by]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is the Second Argument in JSON.stringify() usually null?]]></title>
-        <id>https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/</id>
-        <link href="https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/"/>
-        <updated>2023-03-29T17:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Usually, when developers use the JSON.stringify() method, the second argument is usually skipped, or with a value null. But this argument has its relevance. Here's a common example usage of JSON.stringify(): const obj = {   name: "Dillion",   language: "JavaScript",   age: 100,   isEngineer:]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Engineering Job Interview – Full Mock Interview]]></title>
-        <id>https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/</id>
-        <link href="https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/"/>
-        <updated>2023-03-29T14:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Are you preparing for a technical programming interview for a software engineering role? If so, you might want to check out this new informative video, which features a mock full-length, real-world coding technical interview. This is a full-length interview between Keith Gali and Kylie Ying. Keith, who is an experienced]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slicing and Indexing in Python – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/slicing-and-indexing-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/slicing-and-indexing-in-python/"/>
-        <updated>2023-03-29T14:26:25.000Z</updated>
-        <summary type="html"><![CDATA[Slicing and indexing are two fundamental concepts in Python. They help you access specific elements in a sequence, such as a list, tuple or string.  By using these techniques, you can extract substrings from strings, filter lists, and extract columns from 2D lists, among other things.  Understanding how]]></summary>
-        <author>
-            <name>Oluseye Jeremiah</name>
         </author>
     </entry>
 </feed>

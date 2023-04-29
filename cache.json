@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/",
+          "author": "hello@smashingmagazine.com (Yaphi Berhanu)",
+          "description": "Many problems with website layouts happen when we don’t write CSS with the same care we’d use when writing a JavaScript function. Let’s look at how we can borrow best practices and ideas from writing good JavaScript functions for writing CSS.",
+          "link": "https://smashingmagazine.com/2023/04/write-better-css-borrow-ideas-javascript-functions/",
+          "publishedOn": "2023-04-28T08:00:00.000Z",
+          "wordCount": 4220,
+          "title": "Write Better CSS By Borrowing Ideas From JavaScript Functions",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.",
@@ -201,21 +216,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-23-the-lonliest-house-in-the-world-cal-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/",
-          "author": "hello@smashingmagazine.com (Slava Shestopalov)",
-          "description": "Workshops are all about people: they involve people, are conducted by people, and aim to close the gaps in people’s communication. Slava Shestopalov shares a checklist with everything you need to keep in mind when running a workshop.",
-          "link": "https://smashingmagazine.com/2023/03/organizing-design-workshops-checklist/",
-          "publishedOn": "2023-03-30T13:00:00.000Z",
-          "wordCount": 6695,
-          "title": "Organizing Design Workshops: A Detailed Checklist",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/organizing-design-workshops-checklist/organizing-design-workshops-checklist.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/organizing-design-workshops-checklist/organizing-design-workshops-checklist.jpg"
         }
       ]
     },
@@ -224,6 +224,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/",
+          "author": "Dillion Megida",
+          "description": "Hoisting is a concept or behavior in JavaScript where the declaration of a function, variable, or class goes to the top of the scope they were defined in. What does this mean? Hoisting is a concept you may find in some programming languages (such as JavaScript) and not in others.",
+          "link": "https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/",
+          "publishedOn": "2023-04-28T14:54:11.000Z",
+          "wordCount": 2132,
+          "title": "What is Hoisting in JavaScript | Hoisting Functions, Variables and Classes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/27-hoisting.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/",
+          "author": "Mihail Gaberov",
+          "description": "When you're working on an application that needs to be easily maintainable, scalable, and performant, the Publish/Subscribe messaging pattern is a good choice. The idea behind it is simple, but powerful. We have senders called publishers.  Their sole role is to send or publish messages. They don’t care about",
+          "link": "https://www.freecodecamp.org/news/how-to-use-pub-sub-in-redis/",
+          "publishedOn": "2023-04-28T14:33:25.000Z",
+          "wordCount": 1925,
+          "title": "Pub/Sub in Redis – How to Use the Publish/Subscribe Messaging Pattern",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/image-332-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/",
+          "author": "Manish Shivanandhan",
+          "description": "Smartphones are integral to our lives, making them prime targets for hackers. In this article, we will go through 7 ways hackers can gain access to your smartphone and how to protect against these attacks. Smartphones have become an essential part of our daily lives with instant access to information",
+          "link": "https://www.freecodecamp.org/news/how-hackers-can-breach-your-smartphones-security/",
+          "publishedOn": "2023-04-28T14:16:33.000Z",
+          "wordCount": 1965,
+          "title": "Digital Intruders – Top Ways Hackers Can Breach Your Smartphone’s Security",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/0_oX7oKDWxr6bwRgXd.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/",
+          "author": "Kolade Chris",
+          "description": "In regular expressions, \"punct\" means punctuation marks. It is all non-word and non-space characters. \"Punct\" is a predefined character class in regular expressions, and you can use it in any regex flavor that supports it. The Punct character class is denoted by \\p{Punct} or simply \\p{P}. It matches any punctuation",
+          "link": "https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/",
+          "publishedOn": "2023-04-28T11:28:37.000Z",
+          "wordCount": 1137,
+          "title": "What is Punct in RegEx? How to Match All Punctuation Marks in Regular Expressions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/matchPunctuationRegEx.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/",
           "author": "Omer Rosenbaum",
@@ -1563,86 +1603,6 @@
           "wordCount": 1185,
           "title": "How to Use Regular Expressions in CTRL F",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/start-graph--6-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-mean-in-python-operator-meaning-for-double-colon/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use the double colon (::) in Python to slice or extract elements in a collection such as a list or string. In this article, you'll learn the syntax and how to use :: to slice a list in Python. You'll also learn how to use the parameters associated",
-          "link": "https://www.freecodecamp.org/news/what-does-mean-in-python-operator-meaning-for-double-colon/",
-          "publishedOn": "2023-03-30T07:21:33.000Z",
-          "wordCount": 1303,
-          "title": "What Does :: Mean in Python? Operator Meaning for Double Colon",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/nikolai-chernichenko-hFBsF-CX5eQ-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-code-a-simple-game/",
-          "author": "Shane Duggan",
-          "description": "Have you ever wanted to create your own game to share with others on your website? In this article, we'll be learning how to code a simple game using HTML, CSS, and JavaScript, and then host it on your website.  The game we'll be coding is a classic word-guessing",
-          "link": "https://www.freecodecamp.org/news/how-to-code-a-simple-game/",
-          "publishedOn": "2023-03-29T23:41:54.000Z",
-          "wordCount": 4441,
-          "title": "How to Code a Simple Game and Host it on Your Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Purple-Modern-Gaming-Background-Futuristic-Game-Zone-Desktop-Wallpaper--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/",
-          "author": "Destiny Erhabor",
-          "description": "A common issue on development teams is that an application might work on one developer’s computer but not on the others. Luckily, there's Docker, a popular containerization technology. It works by packing up all the components needed to run the application and then executing the application in an isolated environment.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-and-push-dockerized-applications-to-azure-registry/",
-          "publishedOn": "2023-03-29T21:53:05.000Z",
-          "wordCount": 1799,
-          "title": "How to Build and Push Dockerized Applications to the Azure Registry",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-pixabay-163726--2-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/context-api-in-react/",
-          "author": "Dickson Boateng",
-          "description": "Managing state is an essential part of developing applications in React. A common way to manage state is by passing props. Passing props means sending data from one component to another. It's a good way to make sure that data gets to the right place in a React application.",
-          "link": "https://www.freecodecamp.org/news/context-api-in-react/",
-          "publishedOn": "2023-03-29T20:04:36.000Z",
-          "wordCount": 2356,
-          "title": "How to Use the React Context API in Your Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/context-api-cover-main.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/",
-          "author": "Eamonn Cottrell",
-          "description": "Google Apps Script allows you to write code in your spreadsheet. It functions like Visual Basic for Applications (VBA) does in Excel. They're both incredibly useful for executing more complicated actions or for automating repetitive tasks. In this article, I'll give you a brief overview of Google Apps Script by",
-          "link": "https://www.freecodecamp.org/news/use-apps-script-to-clear-data-in-google-sheets/",
-          "publishedOn": "2023-03-29T19:55:52.000Z",
-          "wordCount": 1673,
-          "title": "How to Use Google Apps Script Code to Clear Data Ranges in Google Sheets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/fcc-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/",
-          "author": "Dillion Megida",
-          "description": "Usually, when developers use the JSON.stringify() method, the second argument is usually skipped, or with a value null. But this argument has its relevance. Here's a common example usage of JSON.stringify(): const obj = {   name: \"Dillion\",   language: \"JavaScript\",   age: 100,   isEngineer:",
-          "link": "https://www.freecodecamp.org/news/why-is-the-second-argument-in-json-stringify-usually-undefined/",
-          "publishedOn": "2023-03-29T17:43:00.000Z",
-          "wordCount": 1476,
-          "title": "Why is the Second Argument in JSON.stringify() usually null?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/24.-json-stringify-null.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
-          "author": "Beau Carnes",
-          "description": "Are you preparing for a technical programming interview for a software engineering role? If so, you might want to check out this new informative video, which features a mock full-length, real-world coding technical interview. This is a full-length interview between Keith Gali and Kylie Ying. Keith, who is an experienced",
-          "link": "https://www.freecodecamp.org/news/real-world-coding-interview-for-software-engineering/",
-          "publishedOn": "2023-03-29T14:28:02.000Z",
-          "wordCount": 908,
-          "title": "Software Engineering Job Interview – Full Mock Interview",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/software-mock.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/slicing-and-indexing-in-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Slicing and indexing are two fundamental concepts in Python. They help you access specific elements in a sequence, such as a list, tuple or string.  By using these techniques, you can extract substrings from strings, filter lists, and extract columns from 2D lists, among other things.  Understanding how",
-          "link": "https://www.freecodecamp.org/news/slicing-and-indexing-in-python/",
-          "publishedOn": "2023-03-29T14:26:25.000Z",
-          "wordCount": 1918,
-          "title": "Slicing and Indexing in Python – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Sabi.JPG"
         }
       ]
     }
