@@ -201,21 +201,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/protect-app-threat-model-jsondiff/protect-app-threat-model-jsondiff.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/",
-          "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
-          "description": "This article highlights non-technical skills like curiosity, observation, empathy, advocacy, visual communication, and collaboration that designers routinely use in their process to make a difference through design. AI can be used to augment designers’ workflow instead of replacing people.",
-          "link": "https://smashingmagazine.com/2023/04/skills-designers-ai-cant-replicate/",
-          "publishedOn": "2023-04-03T10:00:00.000Z",
-          "wordCount": 6162,
-          "title": "Beyond Algorithms: Skills Of Designers That AI Can’t Replicate",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/skills-designers-ai-cant-replicate/skills-designers-ai-cant-replicate.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/skills-designers-ai-cant-replicate/skills-designers-ai-cant-replicate.jpg"
         }
       ]
     },
@@ -224,6 +209,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/get-started-with-nodejs/",
+          "author": "Krish Jaiswal",
+          "description": "Hello folks! 👋 Over the past couple weeks, I have been learning about Node.js. So I decided to share my learnings with you here. 👨‍💻 In this tutorial, we'll take a high-level look at Node.js [https://twitter.com/nodejs] – what it is, and what can you do with it.  We will",
+          "link": "https://www.freecodecamp.org/news/get-started-with-nodejs/",
+          "publishedOn": "2023-05-02T18:25:47.000Z",
+          "wordCount": 9534,
+          "title": "How to Get Started with NodeJS – a Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/e5aa6e1c-fe02-4e17-bdb1-1622b97831e6.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/",
+          "author": "David Clinton",
+          "description": "AWS Virtual Private Clouds (VPCs) are the organizing structure of most AWS network operations. Without a clear understanding of how they work, it'll be hard to get security and efficiency quite right.  But before talking about VPCs directly, I'm going to take a minute or two to refresh your",
+          "link": "https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/",
+          "publishedOn": "2023-05-02T13:33:22.000Z",
+          "wordCount": 1792,
+          "title": "Understanding VPC Architecture – How to Secure AWS EC2 Instances",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-sevenstorm-juhaszimrus-425160.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ssh-meaning-in-linux/",
+          "author": "Shittu Olumide",
+          "description": "Secure Shell (SSH) is a widely used network protocol that provides a secure way to access remote servers and computers.  In Linux, SSH is an essential tool for remote administration and file transfer. In this article, we will go over the meaning of SSH in Linux, its history, features,",
+          "link": "https://www.freecodecamp.org/news/ssh-meaning-in-linux/",
+          "publishedOn": "2023-05-02T13:29:50.000Z",
+          "wordCount": 1665,
+          "title": "What is SSH? SSH Meaning in Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-What-is-SSH-SSH-Meaning-in-Linux.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/",
+          "author": "Germán Cocca",
+          "description": "Hi everyone! In this tutorial we're going to take a deep dive into GraphQL APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a GraphQL API.",
+          "link": "https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/",
+          "publishedOn": "2023-05-02T13:23:30.000Z",
+          "wordCount": 9114,
+          "title": "The GraphQL API Handbook – How to Build, Test, Consume and Document GraphQL APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/jj-ying-8bghKxNU1j0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/",
+          "author": "Alberto Gonzalez Rosales",
+          "description": "I recently wrote about how competitive programmers debug their solutions during competitions [/news/debugging-like-competitive-programmers/]. We take advantage of randomization and the computing power in the devices we use daily.  That article was selected as one of the winners of the DebuggingFeb Writeathon [https://townhall.hashnode.com/debuggingfeb-writeathon-winners] and got a lot of visibility from",
+          "link": "https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/",
+          "publishedOn": "2023-05-02T08:57:35.000Z",
+          "wordCount": 3091,
+          "title": "How to Build a Stress Tester Tool for Debugging Your Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/nathan-dumlao-pMW4jzELQCw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/",
+          "author": "Abel Lifaefi Mbula",
+          "description": "If you’re just at the beginning of your journey in PHP development, chances are that you use complete file names in the URL to navigate your application, like  server/contact.php. No worries, we all started that way, and it’s how we learn. Today, I want to help you improve how",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/",
+          "publishedOn": "2023-05-02T08:36:11.000Z",
+          "wordCount": 1838,
+          "title": "How to Build a Routing System for a PHP App from Scratch",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Pink-8-March-Happy-Woman-s-Day-Facebook-Post-1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/",
+          "author": "Avdhoot Fulsundar",
+          "description": "Java is a powerful programming language to develop software in. And if you're trying to learn it, that's great. The first thing you'll need to know to develop software in Java is Object Oriented Programming, or OOP for short. Now if you're asking yourself, \"What is OOP?\" don't worry. We'll",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/",
+          "publishedOn": "2023-05-02T07:33:30.000Z",
+          "wordCount": 1760,
+          "title": "Object Oriented Programming Basics – OOP, Classes, and Objects in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Gradient-Modern-Digital-Marketing-Facebook-Cover--51-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-add-a-multiline-comment-in-yaml/",
           "author": "Ihechikara Vincent Abba",
