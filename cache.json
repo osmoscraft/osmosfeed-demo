@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "We’re talking about the process of design. How do you build a process to enable your best work? Vitaly Friedman talks to designer Mei Zhang to find out.",
+          "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/",
+          "publishedOn": "2023-05-02T12:00:00.000Z",
+          "wordCount": 8960,
+          "title": "Smashing Podcast Episode 60 With Mei Zhang: What Is Design Storytelling?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-60/ep-60.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-60/ep-60.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop and mobile wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
@@ -209,6 +224,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-redis-with-php/",
+          "author": "Zubair Idris Aweda",
+          "description": "Redis is a data store that stores data primarily in memory. It's faster than traditional databases, and has grown quite popular. In this tutorial, you'll learn the basics of how Redis works, when to use it, how to install it on your device, and how to use it as a",
+          "link": "https://www.freecodecamp.org/news/how-to-use-redis-with-php/",
+          "publishedOn": "2023-05-03T19:51:55.000Z",
+          "wordCount": 2374,
+          "title": "How to Use Redis in Your PHP Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-tom-fisk-3063470.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pointers-in-c-programming/",
+          "author": "Valentine Gatwiri",
+          "description": "If you are learning C programming, you have probably heard the term \"pointer\" before.  Pointers are one of the most important and powerful features of the C programming language. They allow us to manipulate memory directly, which can be very useful in many programming scenarios. In C, a pointer",
+          "link": "https://www.freecodecamp.org/news/pointers-in-c-programming/",
+          "publishedOn": "2023-05-03T19:46:04.000Z",
+          "wordCount": 2059,
+          "title": "How to Use Pointers in C Programming",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-eyu-p-belen-1428634.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions/",
+          "author": "Eesa Zahed",
+          "description": "When you're coding in JavaScript, conditions are important for developing a functional application.  Conditional statements are important because you use them as \"validators\" which can either return truth or false. You can then use them to trigger further actions within the program. But with many long, messy if statements",
+          "link": "https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions/",
+          "publishedOn": "2023-05-03T17:44:11.000Z",
+          "wordCount": 1580,
+          "title": "How to Write More Efficient JavaScript Conditions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/image3-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/check-if-string-is-empty-or-null-javascript/",
+          "author": "Joel Olawanle",
+          "description": "In JavaScript, it's important to check whether a string is empty or null before performing any operation. Trying to operate on an empty or null string can lead to errors, bugs, and unexpected results. In this tutorial, we'll explore the different ways of checking whether a string is empty or",
+          "link": "https://www.freecodecamp.org/news/check-if-string-is-empty-or-null-javascript/",
+          "publishedOn": "2023-05-03T17:26:58.000Z",
+          "wordCount": 1379,
+          "title": "How to Check if a String is Empty or Null in JavaScript – JS Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cover-template--13-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/solid-principles-for-better-software-design/",
+          "author": "Ashutosh Krishna",
+          "description": "The SOLID principles are a set of guidelines for writing high-quality, maintainable, and scalable software.  They were introduced by Robert C. Martin in his 2000 paper “Design Principles and Design Patterns” [https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf] to help developers write software that is easy to understand, modify, and extend.  These concepts were",
+          "link": "https://www.freecodecamp.org/news/solid-principles-for-better-software-design/",
+          "publishedOn": "2023-05-03T14:00:01.000Z",
+          "wordCount": 2747,
+          "title": "What is SOLID? Principles for Better Software Design",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/solid-principles.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-regression-analysis-for-machine-learning/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to embark on a fascinating journey into the world of machine learning? Look no further!  We just posted a machine learning course for beginners on the freeCodeCamp.org YouTube channel. The course focusses on regression analysis. Ayush Singh is a data scientist and popular course creator. He",
+          "link": "https://www.freecodecamp.org/news/master-regression-analysis-for-machine-learning/",
+          "publishedOn": "2023-05-03T13:58:31.000Z",
+          "wordCount": 823,
+          "title": "Master Regression Analysis for Machine Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/machinelearning-regression.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/",
+          "author": "Shittu Olumide",
+          "description": "Often times you'll want to copy a folder in Linux to perform specific tasks – maybe for backup, sharing, editing, an so on. This is a frequent task that you can perform using the cp command.  The cp command is a simple yet powerful command you can use to",
+          "link": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/",
+          "publishedOn": "2023-05-03T13:30:33.000Z",
+          "wordCount": 1319,
+          "title": "How to Copy a Directory in Linux – Use the cp Command to Copy a Folder",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-How-to-Copy-a-Directory-in-Linux---Use-the-cp-Command-to-Copy-a-Folder.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/xml-formatting-in-notepad-how-to-format-xml-files/",
+          "author": "Kolade Chris",
+          "description": "If you're working with XML files in Notepad++, formatting them manually could be a cumbersome task especially if the XML files are large. In this article, I will show you how to format your XML files in a few clicks. I will also show you how to check that the",
+          "link": "https://www.freecodecamp.org/news/xml-formatting-in-notepad-how-to-format-xml-files/",
+          "publishedOn": "2023-05-03T12:41:46.000Z",
+          "wordCount": 1016,
+          "title": "XML Formatting in Notepad++ – How to Format XML Files",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Copy-of-matchPunctuationRegEx.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/",
+          "author": "Dionysia Lemonaki",
+          "description": "More and more companies are making a shift towards cloud services and cloud-based systems these days, resulting in cloud computing being one of the most in-demand tech skills for 2023. AWS is currently the most popular cloud service provider, as it owns around 33% of the cloud market. Companies and",
+          "link": "https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/",
+          "publishedOn": "2023-05-03T06:51:34.000Z",
+          "wordCount": 1587,
+          "title": "AWS Cloud Practitioner Salary – 2023 Amazon Certification Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/ethan-yrGn-av5WF8-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/get-started-with-nodejs/",
           "author": "Krish Jaiswal",
@@ -1458,116 +1563,6 @@
           "wordCount": 1655,
           "title": "What is Encryption at Rest? Explained for Security Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-cottonbro-studio-7319078.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-str-function-how-to-convert-to-a-string/",
-          "author": "Kolade Chris",
-          "description": "Python’s primitive data types include float, integer, Boolean, and string. The programming language provides several functions you can use to convert any of these data types to the other. One of those functions we’ll look at in this article is str(). It’s a built-in function you can use to convert",
-          "link": "https://www.freecodecamp.org/news/python-str-function-how-to-convert-to-a-string/",
-          "publishedOn": "2023-04-04T12:48:48.000Z",
-          "wordCount": 1449,
-          "title": "Python str() Function – How to Convert to a String",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/str-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/state-management-in-react-and-react-native-with-pullstate/",
-          "author": "Grant Weatherston",
-          "description": "React and React Native are popular JavaScript libraries that allow developers to create complex user interfaces and mobile applications with ease.  One of the key benefits of both these libraries is that they each have the ability to manage their own state within components. But managing state, along with",
-          "link": "https://www.freecodecamp.org/news/state-management-in-react-and-react-native-with-pullstate/",
-          "publishedOn": "2023-04-03T21:47:52.000Z",
-          "wordCount": 2836,
-          "title": "How to Manage State in React and React Native with the PullState Library",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/state-management.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-and-manage-virtual-machines-with-vagrant/",
-          "author": "ijeoma Eti",
-          "description": "Creating and managing virtual machines used to be a tedious and time-consuming process. Replicating the VM on a different server can also be challenging, and it gets harder if you have to replicate multiple VMs. But then Vagrant came along, a command-line or shell tool that generally works with Type",
-          "link": "https://www.freecodecamp.org/news/create-and-manage-virtual-machines-with-vagrant/",
-          "publishedOn": "2023-04-03T20:15:11.000Z",
-          "wordCount": 1612,
-          "title": "How to Create and Manage Virtual Machines with the Vagrant Command Line Tool",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screenshot-2023-04-01-at-23.42.01-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/maximum-integer-size-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can check the maximum integer size in Python using the maxsize property of the sys module.  In this article, you'll learn about the maximum integer size in Python. You'll also see the differences in Python 2 and Python 3. The maximum value of an integer shouldn't bother you.",
-          "link": "https://www.freecodecamp.org/news/maximum-integer-size-in-python/",
-          "publishedOn": "2023-04-03T18:20:55.000Z",
-          "wordCount": 913,
-          "title": "Int Max in Python – Maximum Integer Size",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/thomas-t-OPpCbAAKWv8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/",
-          "author": "Njoku Samson Ebere",
-          "description": "Every programmer who wants to write clean CSS and build great user interfaces should understand the CSS Box Model.  Before I understood the foundations of CSS, I would often write unnecessary styles for margins and padding.  CSS Box Model forms the basis for styling any element on a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/",
-          "publishedOn": "2023-04-03T17:29:13.000Z",
-          "wordCount": 1990,
-          "title": "How to Use the CSS Box Model and Style SVG Images",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-tiger-lily-4483610--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-review-tips/",
-          "author": "CHRISTINE T. BELZIE",
-          "description": "Hey, open sourcer! 😊 I’ve heard through the digital webs that you’ve become quite the wordsmith when it comes to giving feedback on pull requests and want to learn something new.  No worries, I’ve been there myself when I started getting more comfortable in the open source world. So,",
-          "link": "https://www.freecodecamp.org/news/code-review-tips/",
-          "publishedOn": "2023-04-03T16:49:44.000Z",
-          "wordCount": 2075,
-          "title": "How to Give Good Feedback for Effective Code Reviews",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-for-first-FCC-article.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/next-vs-react/",
-          "author": "Nishant Kumar",
-          "description": "Hey everyone! Next.js 13 is trending these days, and it's a great time to learn it. But what even is Next.js? What is pre-rendering in Next.js, and why do we use it?  Well, let me explain. What is Next.js? Next.js is a backend framework which is based on React.",
-          "link": "https://www.freecodecamp.org/news/next-vs-react/",
-          "publishedOn": "2023-04-03T16:36:18.000Z",
-          "wordCount": 1548,
-          "title": "Next.js vs React – What are the Differences?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/What--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-part-in-dart/",
-          "author": "Rutvik Tak",
-          "description": "When you're coding in Dart, you may come across these  following situations:  1. A class/method is associated with a particular file of your codebase and you     want to keep it private only to that one file  2. You want to break your one big",
-          "link": "https://www.freecodecamp.org/news/how-to-use-part-in-dart/",
-          "publishedOn": "2023-04-03T16:17:12.000Z",
-          "wordCount": 1643,
-          "title": "How to Use part in Dart – Splitting Files for Scoped Access",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/parts-in-dart-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-unit-testing/",
-          "author": "Kunal Nalawade",
-          "description": "Let's say you are developing an application. After long hours of coding, you manage to create some cool features. Now, you want to make sure the features are working as you want. This involves testing if each and every piece of code works as expected. This procedure is known as",
-          "link": "https://www.freecodecamp.org/news/java-unit-testing/",
-          "publishedOn": "2023-04-03T15:37:52.000Z",
-          "wordCount": 3220,
-          "title": "Java Unit Testing for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/photo-1498050108023-c5249f4df085.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-search-large-datasets-in-python/",
-          "author": "Oluseye Jeremiah",
-          "description": "Imagine you're trying to find a needle in a haystack, but the haystack is the size of a mountain. That's what it can feel like to search for specific items in a massive dataset using Python.  But fear not! With the right techniques, you can efficiently search and lookup",
-          "link": "https://www.freecodecamp.org/news/how-to-search-large-datasets-in-python/",
-          "publishedOn": "2023-04-03T15:08:39.000Z",
-          "wordCount": 1649,
-          "title": "How to Effectively Search Large Datasets in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/efffe.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/brief-history-of-open-source/",
-          "author": "Agnes Nduta",
-          "description": "It’s difficult to imagine a world without open source. Open source is ubiquitous. In fact, open source is what powers the internet.  For example, 60% of the world’s websites run on Apache and Nginx, the most popular web servers [https://hbr.org/2021/09/the-digital-economy-runs-on-open-source-heres-how-to-protect-it#:~:text=Phones%2C%20cars%2C%20planes%2C%20and,Kubernetes%2C%20which%20powers%20cloud%20computing.] . And yes, even Fortune 500 companies use Nginx.",
-          "link": "https://www.freecodecamp.org/news/brief-history-of-open-source/",
-          "publishedOn": "2023-04-03T14:31:21.000Z",
-          "wordCount": 3395,
-          "title": "A Brief History of Open Source",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/pexels-markus-winkler-12081252.jpg"
         }
       ]
     }
