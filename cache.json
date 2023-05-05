@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/effective-password-management/",
+          "author": "hello@smashingmagazine.com (Iliya Garakh)",
+          "description": "Highlighting the advantages of self-hosted solutions over cloud-based alternatives and exploring collaborative password management and more, P demonstrates how to organize convenient and secure password management in a company.",
+          "link": "https://smashingmagazine.com/2023/05/effective-password-management/",
+          "publishedOn": "2023-05-04T12:00:00.000Z",
+          "wordCount": 4612,
+          "title": "The Growing Need For Effective Password Management",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/effective-password-management/effective-password-management.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/effective-password-management/effective-password-management.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "We’re talking about the process of design. How do you build a process to enable your best work? Vitaly Friedman talks to designer Mei Zhang to find out.",
@@ -224,6 +239,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-parse-a-string-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Parsing a string can mean different things in Python. You can parse a string by splitting or extracting the substrings.  You can also parse a string by converting it to an integer or float variable. Although this should be categorized as a type conversion operation, you'll come across resources",
+          "link": "https://www.freecodecamp.org/news/how-to-parse-a-string-in-python/",
+          "publishedOn": "2023-05-04T21:04:02.000Z",
+          "wordCount": 1486,
+          "title": "How to Parse a String in Python – Parsing Strings Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/split-and-split-methods-in-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/",
+          "author": "Andrey Germanov",
+          "description": "Object detection is a computer vision task that involves identifying and locating objects in images or videos. It is an important part of many applications, such as self-driving cars, robotics, and video surveillance. Over the years, many methods and algorithms have been developed to find objects in images and their",
+          "link": "https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/",
+          "publishedOn": "2023-05-04T18:17:42.000Z",
+          "wordCount": 6356,
+          "title": "How to Detect Objects in Images Using the YOLOv8 Neural Network",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/n2auv9i8405cgnxhru40.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/youre-offline-check-your-connection-how-to-fix-youtube-error/",
+          "author": "Kolade Chris",
+          "description": "Have you ever logged on to YouTube to watch videos only to see the error, \"You're offline. Check your Connection\"? This error can occur on both the YouTube website and the mobile apps for Android and iPhone. In the case of the mobile apps, you might get the error \"You're",
+          "link": "https://www.freecodecamp.org/news/youre-offline-check-your-connection-how-to-fix-youtube-error/",
+          "publishedOn": "2023-05-04T17:44:45.000Z",
+          "wordCount": 1562,
+          "title": "You're offline. Check your Connection. [How to Fix YouTube Error]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/yt-error--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-the-strategy-design-pattern/",
+          "author": "Ashutosh Krishna",
+          "description": "The Strategy Design Pattern is a behavioral design pattern [https://shrinke.me/XNNXyxVS]. It allows you to dynamically change the behavior of an object by encapsulating it into different strategies.  This pattern enables an object to choose from multiple algorithms and behaviors at runtime, rather than statically choosing a single one. It",
+          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-the-strategy-design-pattern/",
+          "publishedOn": "2023-05-04T17:43:03.000Z",
+          "wordCount": 2300,
+          "title": "A Beginner's Guide to the Strategy Design Pattern",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/strategy-design-pattern.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-delete-a-file-or-directory-in-linux/",
+          "author": "Shittu Olumide",
+          "description": "In Linux, deleting files or directories is a fundamental operation that every user must know. Although it may seem like a straightforward task, there are different methods to delete files or directories, each with its specific use case.  This tutorial will provide a step-by-step guide on how to delete",
+          "link": "https://www.freecodecamp.org/news/how-to-delete-a-file-or-directory-in-linux/",
+          "publishedOn": "2023-05-04T15:15:36.000Z",
+          "wordCount": 1663,
+          "title": "How to Delete a File or Directory in Linux – Command to Remove a Folder and its Contents",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-How-to-Delete-a-File-or-Directory-in-Linux---Command-to-Remove-a-Folder-and-its-Contents.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-net-maui-for-cross-platform-apps/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to develop cross-platform desktop and mobile applications? If so, we have just the course for you! We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the essential skills you need to build your own mobile applications using .NET MAUI. Frank Liu",
+          "link": "https://www.freecodecamp.org/news/learn-net-maui-for-cross-platform-apps/",
+          "publishedOn": "2023-05-04T15:09:23.000Z",
+          "wordCount": 898,
+          "title": "Learn .NET MAUI for cross-platform apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/netmaui.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/",
+          "author": "Joel Olawanle",
+          "description": "Git is a popular version control system that's used by millions of developers to manage their codebases. One of the most powerful features of Git is its ability to work with remote repositories. When working on a project with multiple collaborators, you must be able to fetch changes from the",
+          "link": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/",
+          "publishedOn": "2023-05-04T14:27:39.000Z",
+          "wordCount": 1152,
+          "title": "Git Pull Remote Branch – How To Fetch Remote Branches in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cover-template--12-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/",
+          "author": "Dickson Boateng",
+          "description": "When I started learning Redux, I found it challenging to wrap my head around the concepts. Despite reading many online resources, I struggled to grasp the core ideas.  While the online tutorials and guides provided helpful information, I needed more clarity to really understand Redux. But with persistence and",
+          "link": "https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/",
+          "publishedOn": "2023-05-04T14:20:56.000Z",
+          "wordCount": 4862,
+          "title": "How to Use Redux and Redux Toolkit – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/redux-for-beginners1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/styled-components-in-react/",
+          "author": "Kedar Makode",
+          "description": "Styled-components is a library that allows you to write CSS in JS while building custom components in Reactjs. There are multiple options you can go with to style a React application. But the  CSS in JS technique is good approach, where you write the CSS code right in the",
+          "link": "https://www.freecodecamp.org/news/styled-components-in-react/",
+          "publishedOn": "2023-05-04T14:19:57.000Z",
+          "wordCount": 3762,
+          "title": "How to Use Styled Components in Your React Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Frame-390.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-redis-with-php/",
           "author": "Zubair Idris Aweda",
@@ -1443,126 +1548,6 @@
           "wordCount": 944,
           "title": "Create a Personal Website with Next.js 13, Sanity.io, TailwindCSS, and TypeScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/sanity.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/",
-          "author": "Dhawal Shah",
-          "description": "Many universities offer online courses for credit. Class Central [https://www.classcentral.com/] has already compiled 70+ MOOC-based master’s degrees [https://www.classcentral.com/report/mooc-based-masters-degree/]. Many of the courses in these online degree programs are publicly available: anyone with an internet connection can take them. Some of these courses are “freebies” meant to give prospective students a",
-          "link": "https://www.freecodecamp.org/news/370-online-courses-with-real-college-credit-that-you-can-access-for-free-4fec5a28646/",
-          "publishedOn": "2023-04-05T10:00:00.000Z",
-          "wordCount": 9110,
-          "title": "850+ Online Courses with Real College Credit that You Can Access for Free",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/college-credit-banner.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/angular-signals/",
-          "author": "Deborah Kurata",
-          "description": "An exciting new feature is coming to Angular: signals! Signals provide a new way for our code to tell our templates (and other code) that our data has changed. This improves Angular's change detection, which also improves performance, and makes our code more reactive. You can try out this powerful",
-          "link": "https://www.freecodecamp.org/news/angular-signals/",
-          "publishedOn": "2023-04-05T00:53:15.000Z",
-          "wordCount": 3752,
-          "title": "Signals in Angular – How to Write More Reactive Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/",
-          "author": "Jaja Ibifubara David",
-          "description": "In the modern digital landscape, user experience (UX) has become a central focus of web development. Providing a smooth, captivating, and aesthetically pleasing interface can really influence user satisfaction and retention.  Route animation is a frequently underestimated aspect of UX that can substantially improve a website's interactivity.  In",
-          "link": "https://www.freecodecamp.org/news/improve-user-experience-in-react-by-animating-routes-using-framer-motion/",
-          "publishedOn": "2023-04-04T22:27:19.000Z",
-          "wordCount": 3287,
-          "title": "How to Improve User Experience  in React Apps – Animate Routes using Framer Motion",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Article-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/difference-between-python-and-pandas/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "The difference between Python and Pandas is a topic that often confuses some beginners in the Python ecosystem.  In this article, you'll learn about the differences between Python and Pandas, and what they are used for. You'll start by learning what each technology is used for, then you'll see",
-          "link": "https://www.freecodecamp.org/news/difference-between-python-and-pandas/",
-          "publishedOn": "2023-04-04T21:46:34.000Z",
-          "wordCount": 1010,
-          "title": "Python vs Pandas - Difference Between Python and Pandas",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/markus-winkler-IrRbSND5EUc-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-dorking-for-pentesters-a-practical-tutorial/",
-          "author": "Manish Shivanandhan",
-          "description": "Every day, Google processes over 8.5 billion searches. We know how much we use Google daily. With the crawling capabilities of Google, it can also be a powerful tool for pen testers. Google can help us find exposed files, scripts and other critical resources in web applications. To find this",
-          "link": "https://www.freecodecamp.org/news/google-dorking-for-pentesters-a-practical-tutorial/",
-          "publishedOn": "2023-04-04T21:10:01.000Z",
-          "wordCount": 1916,
-          "title": "Google Dorking for Penetration Testers — A Practical Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/dorks.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-split-string-how-to-split-a-string-into-a-list-or-array-in-python/",
-          "author": "Shittu Olumide",
-          "description": "In this article, we will walk through a comprehensive guide on how to split a string in Python and convert it into a list or array.  We'll start by introducing the string data type in Python and explaining its properties. Then we'll discuss the various ways in which you",
-          "link": "https://www.freecodecamp.org/news/python-split-string-how-to-split-a-string-into-a-list-or-array-in-python/",
-          "publishedOn": "2023-04-04T20:24:05.000Z",
-          "wordCount": 1494,
-          "title": "Python Split String – How to Split a String into a List or Array in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Python-Split-String---How-to-Split-a-String-into-a-List-or-Array-in-Python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/upload-files-with-html/",
-          "author": "Austin Gil",
-          "description": "When building applications with HTML, you may eventually come to a point where you need to allow users to upload files. Surprisingly, it's not quite as straightforward as you might assume. In this post, we'll look at all things you need to support file uploads in HTML. How to Access",
-          "link": "https://www.freecodecamp.org/news/upload-files-with-html/",
-          "publishedOn": "2023-04-04T20:17:14.000Z",
-          "wordCount": 1288,
-          "title": "How to Upload Files with HTML",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/HTML-Blog-Cover-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-minimal-apis-in-net-7/",
-          "author": "Beau Carnes",
-          "description": "Minimal APIs offer a streamlined approach to constructing HTTP APIs with minimal dependencies, making them perfect for microservices and applications that aim to incorporate only the essential files, features, and dependencies within ASP.NET Core. We just published a coruse on the freeCodeCamp.org YouTube channel that will teach you the power",
-          "link": "https://www.freecodecamp.org/news/build-minimal-apis-in-net-7/",
-          "publishedOn": "2023-04-04T18:41:29.000Z",
-          "wordCount": 1113,
-          "title": "Build Minimal APIs in .NET 7",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/minimalapi.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Are you looking to improve your frontend web development skills with HTML, CSS, JavaScript, TypeScript, and React? If so, we have the perfect video course for you! We just published a 10-hour project-based, frontend web development course on the freeCodeCamp.org YouTube channel. Zach Gollwitzer published this course. Zach is a",
-          "link": "https://www.freecodecamp.org/news/frontend-web-development-in-depth-project-tutorial/",
-          "publishedOn": "2023-04-04T18:29:33.000Z",
-          "wordCount": 956,
-          "title": "Frontend Web Development: In-Depth Project Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/tictAC.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-truncate-text-with-css-javascript/",
-          "author": "David Fagbuyiro",
-          "description": "CSS [https://developer.mozilla.org/en-US/docs/Web/CSS] is a powerful tool to have in your programming toolkit. It offers numerous features that allow you to create responsive and attractive websites.  Sometimes you might see an ellipsis (...) that appears to indicate that some content or text is hidden. Have you ever wondered how you",
-          "link": "https://www.freecodecamp.org/news/how-to-truncate-text-with-css-javascript/",
-          "publishedOn": "2023-04-04T18:06:04.000Z",
-          "wordCount": 2406,
-          "title": "How to Truncate Text with CSS and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pixabay-261763.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-geolocation-based-weather-forecasting-system-using-tkinter/",
-          "author": "Ashutosh Krishna",
-          "description": "Tkinter is a Python GUI (Graphical User Interface) toolkit that allows developers to create desktop applications with Python. It provides a set of tools and widgets for building graphical interfaces that are simple and intuitive to use.  Tkinter is included in the standard Python distribution and supports cross-platform development,",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-geolocation-based-weather-forecasting-system-using-tkinter/",
-          "publishedOn": "2023-04-04T16:01:03.000Z",
-          "wordCount": 2899,
-          "title": "How to Build a Weather Forecasting System in Python using Tkinter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/weather-forecast.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/encryption-at-rest/",
-          "author": "David Clinton",
-          "description": "Encryption is a technique for secure communication that converts plain text into a coded form that can only be deciphered with a secret key. Let's explore some of encryption's fun bits. Encryption works by using an algorithm to convert plaintext into ciphertext, which is unreadable without a corresponding decryption key.",
-          "link": "https://www.freecodecamp.org/news/encryption-at-rest/",
-          "publishedOn": "2023-04-04T15:49:01.000Z",
-          "wordCount": 1655,
-          "title": "What is Encryption at Rest? Explained for Security Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-cottonbro-studio-7319078.jpg"
         }
       ]
     }
