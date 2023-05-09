@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
+          "author": "hello@smashingmagazine.com (Jessica Joseph)",
+          "description": "Want to make sure your API keys are safe and sound when working with React? Jessica Joseph’s got you covered! She will show you the best ways to hide your API keys, from using environment variables to building your own back-end proxy server.",
+          "link": "https://smashingmagazine.com/2023/05/safest-way-hide-api-keys-react/",
+          "publishedOn": "2023-05-08T13:00:00.000Z",
+          "wordCount": 4445,
+          "title": "The Safest Way To Hide Your API Keys When Using React",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/safest-way-hide-api-keys-react/safest-way-hide-api-keys-react.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/safest-way-hide-api-keys-react/safest-way-hide-api-keys-react.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
           "author": "hello@smashingmagazine.com (Kylo Robinson)",
           "description": "This is the story of how one little octopus, explaining one beginner’s concept, carried such weight and power for Kylo that it drove his work and led him to research something that is really quite silly. And yet, it transformed how he learned to write — and finally understand — JavaScript.",
@@ -239,6 +254,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/cybersecurity-professional-certificate-by-google/",
+          "author": "Eamonn Cottrell",
+          "description": "Google has released a new professional certificate in Cybersecurity. The  announcement [https://blog.google/outreach-initiatives/grow-with-google/google-cybersecurity-career-certificate/]  came on May 4th, 2023 and marks the 6th topical branch in their continually expanding certificate program. It follows five other successful entry-level certificate programs in IT Support, Data Analytics, Digital Marketing & E-commerce, Project Management",
+          "link": "https://www.freecodecamp.org/news/cybersecurity-professional-certificate-by-google/",
+          "publishedOn": "2023-05-08T21:38:43.000Z",
+          "wordCount": 1412,
+          "title": "Google's New Cybersecurity Professional Certificate Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Cybersecurity-CertificateFCC.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/euclidean-algorithm-in-golang/",
+          "author": "Otavio Ehrenberger",
+          "description": "The Euclidean Algorithm is a well-known and efficient method for finding the greatest common divisor (GCD) of two integers. The GCD is the largest number that can divide both integers without leaving a remainder.  The algorithm is named after the ancient Greek mathematician Euclid, who presented it in his",
+          "link": "https://www.freecodecamp.org/news/euclidean-algorithm-in-golang/",
+          "publishedOn": "2023-05-08T20:18:08.000Z",
+          "wordCount": 2454,
+          "title": "How the Euclidean Algorithm Works – with Code Examples in Go",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-skitterphoto-1019470.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tech-communities/",
+          "author": "Pulkit Singh",
+          "description": "In the tech industry, joining a community is one of the best ways to stay informed about the latest trends, connect with like-minded professionals, and stay up-to-date on the latest career opportunities.  Tech communities are groups of professionals with a common interest in technology and a shared passion for",
+          "link": "https://www.freecodecamp.org/news/tech-communities/",
+          "publishedOn": "2023-05-08T20:09:52.000Z",
+          "wordCount": 2139,
+          "title": "How Joining a Tech Community Can Help Grow Your Career",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Elegant-Travel-Blog-Youtube-Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/xor-py-how-the-python-xor-operator-works/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use bitwise operators in Python to perform different operations on the individual bits of an integer.  There are different bitwise operators like the bitwise AND (&), bitwise OR (|), bitwise XOR (^), and so on.  In this article, we'll focus on the bitwise XOR (^) operator.",
+          "link": "https://www.freecodecamp.org/news/xor-py-how-the-python-xor-operator-works/",
+          "publishedOn": "2023-05-08T16:35:55.000Z",
+          "wordCount": 1271,
+          "title": "xor.py – How the Python XOR Operator Works",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/xor-in-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai/",
+          "author": "Edem Gold",
+          "description": "> Our intelligence is what makes us human, and AI is an extension of that quality\" – Yan LeCun Since the advent of Neural Networks (also known as artificial neural networks), the AI industry has enjoyed unparalleled success. Neural Networks are the driving force behind modern AI systems and they",
+          "link": "https://www.freecodecamp.org/news/the-brain-inspired-approach-to-ai/",
+          "publishedOn": "2023-05-08T15:43:38.000Z",
+          "wordCount": 3801,
+          "title": "The Brain-Inspired Approach to AI – Explained for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-tara-winstead-8386365.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/usestate-hook-3-different-examples/",
+          "author": "Mwendwa Bundi Emma",
+          "description": "One of the most well-known React hooks is the useState() hook. It lets you add a state variable to your component. The useState() hook can conveniently hold strings, arrays, numbers, objects and much more. In this article, we are going to learn about the useState() hook and demonstrate its use",
+          "link": "https://www.freecodecamp.org/news/usestate-hook-3-different-examples/",
+          "publishedOn": "2023-05-08T14:11:06.000Z",
+          "wordCount": 1937,
+          "title": "How to Use the useState() Hook in React – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/usestate---hook-2.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/kotlin-vs-java/",
+          "author": "Shittu Olumide",
+          "description": "Technology advances very quickly these days, and there's always a new programming language or tool to learn.  You may have heard developers discussing the merits of and differences between two popular programming languages – Java and Kotlin.  So what's the difference between them? Which one should you learn?",
+          "link": "https://www.freecodecamp.org/news/kotlin-vs-java/",
+          "publishedOn": "2023-05-08T13:48:47.000Z",
+          "wordCount": 1850,
+          "title": "Kotlin VS Java – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Kotlin-VS-Java---What-s-the-Difference.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/",
+          "author": "Pacifique LINJANJA",
+          "description": "In software development, design patterns are reusable solutions to common problems that developers encounter. These patterns provide a structure for organizing code that makes it more maintainable, modular, and scalable.  In modern backend development, design patterns are crucial for building robust and flexible systems that can adapt to changing",
+          "link": "https://www.freecodecamp.org/news/design-pattern-for-modern-backend-development-and-use-cases/",
+          "publishedOn": "2023-05-06T12:44:00.000Z",
+          "wordCount": 5454,
+          "title": "Design Patterns for Modern Backend Development – with Example Use Cases",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/maxwell-nelson-taiuG8CPKAQ-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/",
           "author": "Njoku Samson Ebere",
