@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+          "author": "hello@smashingmagazine.com (Deepak Kumar)",
+          "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
+          "link": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
+          "publishedOn": "2023-05-10T10:00:00.000Z",
+          "wordCount": 5973,
+          "title": "A Guide To Redux Toolkit With TypeScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/ai-tools-skyrocket-programming-productivity/",
           "author": "hello@smashingmagazine.com (Shane Duggan)",
           "description": "The rise of Artificial Intelligence (AI) in recent times has incited fear in many over losing their jobs. However, that shouldn’t be the case. On the contrary, AI is an opportunity to take your programming to the next level when used tactfully with the right knowledge, as we’ll cover today.",
@@ -269,6 +284,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/artificial-intelligence-vs-machine-learning/",
+          "author": "Edem Gold",
+          "description": "Artificial Intelligence and Machine Learning are two terms that are commonly used interchangeably. But they are not the same thing. Artificial Intelligence is a field which contains a lot of sub-fields, including Machine Learning. In this article I hope to comprehensively differentiate between AI and Machine Learning. I'll explain how",
+          "link": "https://www.freecodecamp.org/news/artificial-intelligence-vs-machine-learning/",
+          "publishedOn": "2023-05-10T22:37:37.000Z",
+          "wordCount": 3345,
+          "title": "The Difference Between AI and Machine Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-tara-winstead-8386440--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/",
+          "author": "Faith Oyama",
+          "description": "PostgreSQL is a powerful open-source relational database management system (RDBMS). It was initially created as a successor to the Ingres database system and was later named \"PostgreSQL\" (short for \"Post-Ingres SQL\"). PostgreSQL is known for its robustness, reliability, and scalability, making it a popular choice for large and complex database",
+          "link": "https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/",
+          "publishedOn": "2023-05-10T20:02:00.000Z",
+          "wordCount": 2308,
+          "title": "PostgreSQL and JSON – How to Use JSON Data in PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/PostgreSQL-and-JSON-Using-JSON-Data-in-PostgreSQL.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-accurate-cybersecurity-risk-assessment/",
+          "author": "David Clinton",
+          "description": "Are you responsible for the safety and reliability of IT infrastructure and applications? You'll absolutely need regular and accurate assessments.  Effective risk assessments are about establishing how far your organization's IT stack can be stretched before it breaks.  From a big-picture perspective, you'll need to think about how",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-accurate-cybersecurity-risk-assessment/",
+          "publishedOn": "2023-05-10T19:39:51.000Z",
+          "wordCount": 1728,
+          "title": "How to Build an Accurate Cybersecurity Risk Assessment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-jonathan-petersson-965879.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
+          "author": "Dionysia Lemonaki",
+          "description": "Full-stack engineering roles have been growing in popularity over the last decade and are among the most sought-after positions in the tech job market. But what exactly are full-stack engineers? What do they do on a day-to-day basis? And how can you become a full-stack engineer yourself? In this article,",
+          "link": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
+          "publishedOn": "2023-05-10T17:27:43.000Z",
+          "wordCount": 2542,
+          "title": "Full Stack Engineer – Career Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nubelson-fernandes-UcYBL5V0xWQ-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/functional-programming-with-elixir/",
+          "author": "Beau Carnes",
+          "description": "Transform your development approach and embrace the power of Elixir and functional programming with our new beginner's course. It is designed to help you build scalable, maintainable applications like never before. We just published a new course on the freeCodeCamp channel that will teach you how to build your own",
+          "link": "https://www.freecodecamp.org/news/functional-programming-with-elixir/",
+          "publishedOn": "2023-05-10T15:59:36.000Z",
+          "wordCount": 979,
+          "title": "Discover the Power of Functional Programming with Elixir",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/elixir.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-sql-full-course/",
+          "author": "Beau Carnes",
+          "description": "Unlock the power of data with SQL! Master one of the most in-demand skill in the data-driven world and supercharge your career with our new video course. We just released a comprehensive video course on the freeCodeCamp.org YouTube channel that will take you on a journey from understanding the basics",
+          "link": "https://www.freecodecamp.org/news/learn-sql-full-course/",
+          "publishedOn": "2023-05-10T15:50:13.000Z",
+          "wordCount": 1008,
+          "title": "Learn SQL for Efficient Data Storage and Retrieval",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/sql.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/smart-quotes-single-quote-and-double-quotation-mark-for-copy-paste/",
+          "author": "Kolade Chris",
+          "description": "Smart quotes are commonly used punctuation marks in HTML and in writing. Knowing how to use them correctly can make a significant difference in the clarity and professionalism of your writing. So in this article, you will get access to the commonly used quotation marks out there that you can",
+          "link": "https://www.freecodecamp.org/news/smart-quotes-single-quote-and-double-quotation-mark-for-copy-paste/",
+          "publishedOn": "2023-05-10T14:31:24.000Z",
+          "wordCount": 1296,
+          "title": "Smart Quotes – Single Quote and Double Quotation Mark for Copy + Paste",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/smartQuotes-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-wireframing/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "What are Wireframes? Wireframes are visual representations of the structure, layout, and functionality of a website, application, or other digital product.  You typically create them during the early stages of the design process, and they provide a simplified and focused view of the user interface and user experience. You",
+          "link": "https://www.freecodecamp.org/news/what-is-wireframing/",
+          "publishedOn": "2023-05-09T22:06:49.000Z",
+          "wordCount": 3043,
+          "title": "What is Wireframing? How to Go from Paper Sketches to High Fidelity Wireframes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/unsplash_Pa0I38PfNPs.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/",
           "author": "Arunachalam B",
@@ -1538,66 +1633,6 @@
           "wordCount": 5592,
           "title": "Learn JavaScript Object-Oriented Programming by Building a Timer Application",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/---.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/",
-          "author": "Shittu Olumide",
-          "description": "In this article, you will learn how to convert a bytestring. I know the word bytestring might sound technical and difficult to understand. But trust me – we will break the process down and understand everything about bytestrings before writing the Python code that converts bytes to a string. So",
-          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-how-to-convert-a-bytestring/",
-          "publishedOn": "2023-04-10T22:52:41.000Z",
-          "wordCount": 1888,
-          "title": "Python Bytes to String – How to Convert a Bytestring",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Shittu-Olumide-Python-Bytes-to-String---How-to-Convert-a-Bytestring.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/using-prettier-and-jslint/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to take a look at two very useful tools we can use to make our lives easier when writing code: linting tools and code formatters. We're going to talk about what these tools are, how they work, why are they useful, and finally",
-          "link": "https://www.freecodecamp.org/news/using-prettier-and-jslint/",
-          "publishedOn": "2023-04-10T22:02:17.000Z",
-          "wordCount": 2504,
-          "title": "How to Use Linters and Code Formatters in Your Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/alysa-bajenaru-88IV5AtWjB8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-render-lists-in-react/",
-          "author": "Mwendwa Bundi Emma",
-          "description": "When you're working with React, you will often times need to render lists of items. With the map() method, you can create new results from your current lists or even showcase all the items in your lists. In this tutorial, you will learn how to use this method to access",
-          "link": "https://www.freecodecamp.org/news/how-to-render-lists-in-react/",
-          "publishedOn": "2023-04-10T21:39:53.000Z",
-          "wordCount": 1581,
-          "title": "How to Render Lists in React using array.map()",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Lists-in-React.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-history-of-ai/",
-          "author": "Edem Gold",
-          "description": "Humans have always been interested in making machines that display intelligence.  The Ancient Egyptians and Romans were awe-struck by religious statues that were manipulated by priests behind the scenes. Medieval lore is packed with tales of items which could move and talk like their human masters. And there have",
-          "link": "https://www.freecodecamp.org/news/the-history-of-ai/",
-          "publishedOn": "2023-04-10T21:35:22.000Z",
-          "wordCount": 4403,
-          "title": "The History of Artificial Intelligence from the 1950s to Today",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-tara-winstead-8386440.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/",
-          "author": "Ashutosh Krishna",
-          "description": "Tkinter is a built-in Python library for creating graphical user interfaces (GUIs). It provides a set of tools for building windows, frames, buttons, textboxes, and other GUI elements.  It is easy to use and widely available, making it a popular choice for building GUI applications in Python. It is",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-currency-converter-gui-with-tkinter/",
-          "publishedOn": "2023-04-10T16:44:45.000Z",
-          "wordCount": 3773,
-          "title": "How to Build a Currency Converter GUI with Tkinter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/currency-converter.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to dive into the world of React Native and create stunning mobile applications that work seamlessly on both Android and iOS platforms? We've got you covered! We just published a full React Native course on the freeCodeCamp.org YouTube channel.  Emma Williams created this course. She is",
-          "link": "https://www.freecodecamp.org/news/react-native-full-course-android-ios-development/",
-          "publishedOn": "2023-04-10T15:37:07.000Z",
-          "wordCount": 1138,
-          "title": "Unleash the Power of React Native to Build Mobile Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/reactnative.png"
         }
       ]
     }
