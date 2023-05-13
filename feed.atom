@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-12T01:03:30.061Z</updated>
+    <updated>2023-05-13T01:00:46.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Advanced Indexing Strategies in PostgreSQL]]></title>
+        <id>https://www.freecodecamp.org/news/postgresql-indexing-strategies/</id>
+        <link href="https://www.freecodecamp.org/news/postgresql-indexing-strategies/"/>
+        <updated>2023-05-12T20:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a]]></summary>
+        <author>
+            <name>Faith Oyama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Greedy Algorithm? Examples of Greedy Algorithms]]></title>
+        <id>https://www.freecodecamp.org/news/greedy-algorithms/</id>
+        <link href="https://www.freecodecamp.org/news/greedy-algorithms/"/>
+        <updated>2023-05-12T17:57:48.000Z</updated>
+        <summary type="html"><![CDATA[According to the Oxford English Dictionary, "greedy" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the]]></summary>
+        <author>
+            <name>Tantoluwa Heritage Alabi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does a Linked List Work? A Beginner's Guide to Linked Lists]]></title>
+        <id>https://www.freecodecamp.org/news/how-linked-lists-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-linked-lists-work/"/>
+        <updated>2023-05-12T17:45:27.000Z</updated>
+        <summary type="html"><![CDATA[A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build]]></summary>
+        <author>
+            <name>Palistha</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Sticky Menus: UX Guidelines]]></title>
+        <id>https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/</id>
+        <link href="https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/"/>
+        <updated>2023-05-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Number Systems Work in Java – Decimal, Binary, Octal, and Hexadecimal Explained]]></title>
         <id>https://www.freecodecamp.org/news/number-systems-in-java/</id>
@@ -1474,57 +1514,6 @@
         <summary type="html"><![CDATA[The HTTP (Hypertext Transfer Protocol) is the foundation of communication between clients (such as web browsers) and servers (such as web servers) on the World Wide Web. One crucial aspect of HTTP is the request method, which indicates the type of operation the client wants to perform on a resource.]]></summary>
         <author>
             <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Delete File – How to Remove Files and Folders]]></title>
-        <id>https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/</id>
-        <link href="https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/"/>
-        <updated>2023-04-13T12:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Bash Scripting to Enhance Your Productivity]]></title>
-        <id>https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/"/>
-        <updated>2023-04-12T20:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Mobile Apps with Firebase]]></title>
-        <id>https://www.freecodecamp.org/news/firebase-course-html-css-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/firebase-course-html-css-javascript/"/>
-        <updated>2023-04-12T20:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Apply Borders to Clip Paths with CSS]]></title>
-        <id>https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/</id>
-        <link href="https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/"/>
-        <updated>2023-04-12T17:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram]]></summary>
-        <author>
-            <name>Michael Frederick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passkeys: What the Heck and Why?]]></title>
-        <id>https://css-tricks.com/?p=377305</id>
-        <link href="https://css-tricks.com/passkeys-what-the-heck-and-why/"/>
-        <updated>2023-04-12T17:41:53.000Z</updated>
-        <summary type="html"><![CDATA[These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …
-Passkeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Neal Fennimore</name>
         </author>
     </entry>
 </feed>

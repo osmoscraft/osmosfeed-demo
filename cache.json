@@ -4,24 +4,28 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=377305",
-          "author": "Neal Fennimore",
-          "description": "These things called passkeys sure are making the rounds these days. They were a main attraction at W3C TPAC 2022, gained support in Safari 16, are finding their way into macOS and iOS, and are slated to …\nPasskeys: What the Heck and Why? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/passkeys-what-the-heck-and-why/",
-          "publishedOn": "2023-04-12T17:41:53.000Z",
-          "wordCount": 3346,
-          "title": "Passkeys: What the Heck and Why?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377305"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Are sticky headers always a good idea? Best practices for designing sticky headers, with examples, UX guidelines and usability considerations.",
+          "link": "https://smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/",
+          "publishedOn": "2023-05-12T11:00:00.000Z",
+          "wordCount": 3901,
+          "title": "Designing Sticky Menus: UX Guidelines",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sticky-menus-ux-guidelines/sticky-menus-ux-guidelines.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2023/05/boost-design-workflow-setapp/",
           "author": "hello@smashingmagazine.com (Rachel How)",
@@ -284,6 +288,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "author": "Faith Oyama",
+          "description": "Indexing in PostgreSQL is a process that involves creating data structures that are optimized to efficiently search and retrieve data from tables.  An index is a copy of a portion of a table, arranged in a way that enables PostgreSQL to quickly locate and retrieve rows that match a",
+          "link": "https://www.freecodecamp.org/news/postgresql-indexing-strategies/",
+          "publishedOn": "2023-05-12T20:46:41.000Z",
+          "wordCount": 2133,
+          "title": "Advanced Indexing Strategies in PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/postresql-indexing.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "author": "Tantoluwa Heritage Alabi",
+          "description": "According to the Oxford English Dictionary, \"greedy\" means having excessive desire for something without considering the effect or damage done.  In computer science, a greedy algorithm is an algorithm that finds a solution to problems in the shortest time possible. It picks the path that seems optimal at the",
+          "link": "https://www.freecodecamp.org/news/greedy-algorithms/",
+          "publishedOn": "2023-05-12T17:57:48.000Z",
+          "wordCount": 4298,
+          "title": "What is a Greedy Algorithm? Examples of Greedy Algorithms",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-206627.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "author": "Palistha",
+          "description": "A Linked List is a linear data structure used for storing a collection of elements. Unlike arrays, linked lists use nodes to store elements which are not stored in contiguous memory locations.  In this article, you will learn what linked lists are, how they work, and how to build",
+          "link": "https://www.freecodecamp.org/news/how-linked-lists-work/",
+          "publishedOn": "2023-05-12T17:45:27.000Z",
+          "wordCount": 2730,
+          "title": "How Does a Linked List Work? A Beginner's Guide to Linked Lists",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-joey-kyber-119562.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/number-systems-in-java/",
           "author": "Mikael Lassa",
@@ -1583,46 +1617,6 @@
           "wordCount": 1944,
           "title": "Call vs Put vs Post – HTTP Request Methods Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
-          "author": "Kolade Chris",
-          "description": "Many programming languages have built-in functionalities for working with files and folders. As a rich programming language with many exciting functionalities built into it, Python is not an exception to that. Python has the OS and Pathlib modules with which you can create files and folders, edit files and folders,",
-          "link": "https://www.freecodecamp.org/news/python-delete-file-how-to-remove-files-and-folders/",
-          "publishedOn": "2023-04-13T12:24:56.000Z",
-          "wordCount": 1419,
-          "title": "Python Delete File – How to Remove Files and Folders",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pyDeleteFilesAndFolders.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Bash scripting is an essential skill for any developer, system administrator, or power user who wants to automate repetitive tasks and make their workflow more efficient. We just published a bash scripting for beginners course on the freeCodeCamp.org YouTube channel. Herbert from Herbertech created this course. In this course, you'll",
-          "link": "https://www.freecodecamp.org/news/learn-bash-scripting-tutorial/",
-          "publishedOn": "2023-04-12T20:52:38.000Z",
-          "wordCount": 835,
-          "title": "Use Bash Scripting to Enhance Your Productivity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/bashscrippting.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
-          "author": "Beau Carnes",
-          "description": "Firebase is an app development platform from Google that offers tools and services for building and scaling applications. It includes real-time databases, authentication, analytics, and hosting features. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a mobile app with HTML, CSS,",
-          "link": "https://www.freecodecamp.org/news/firebase-course-html-css-javascript/",
-          "publishedOn": "2023-04-12T20:46:42.000Z",
-          "wordCount": 962,
-          "title": "Create Mobile Apps with Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Slide-16_9---4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
-          "author": "Michael Frederick",
-          "description": "Applying borders to non-rectangular shapes in CSS can be challenging. In this article, we will explore ways to apply different border types to trapezoidal shapes in CSS.  The final shape we aim to achieve is a golden dashed parallelogram border, as you can see in the screenshot below: Parallelogram",
-          "link": "https://www.freecodecamp.org/news/apply-borders-to-clip-paths-with-css/",
-          "publishedOn": "2023-04-12T17:46:38.000Z",
-          "wordCount": 1537,
-          "title": "How to Apply Borders to Clip Paths with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screen-Shot-2023-04-05-at-7.04.59-PM-1.png"
         }
       ]
     }
