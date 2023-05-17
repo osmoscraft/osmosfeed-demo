@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
+          "author": "hello@smashingmagazine.com (Ben Clemens)",
+          "description": "Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.",
+          "link": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
+          "publishedOn": "2023-05-16T11:00:00.000Z",
+          "wordCount": 5823,
+          "title": "Design Patterns Are A Better Way To Collaborate On Your Design System",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
           "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
           "description": "This article covers common problems using CSS floats and how to solve them using a block formatting context (BFC). Whether you are a beginner or an experienced web developer, you will learn valuable insights and practical solutions for dealing with CSS float issues.",
@@ -303,6 +318,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/",
+          "author": "Amazing Enyichi Agu",
+          "description": "JavaScript is a popular programming language used for developing interactive front-end web applications, among other things.  It's widely known for its major features: it is single-threaded, non-blocking, and asynchronous. But what do these three things mean? What Does \"Single-Threaded\" Mean? When a programming language is referred to as single-threaded,",
+          "link": "https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/",
+          "publishedOn": "2023-05-16T21:58:01.000Z",
+          "wordCount": 3742,
+          "title": "How JavaScript’s Asynchronous Operations Work in the Browser",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/",
+          "author": "Beau Carnes",
+          "description": "Ionic and Capacitor are two powerful tools that can be used to build native mobile applications. Ionic is a UI framework that provides a wide range of components and features for building mobile apps, while Capacitor is a runtime that allows Ionic apps to be deployed to both iOS and",
+          "link": "https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/",
+          "publishedOn": "2023-05-16T21:14:30.000Z",
+          "wordCount": 1000,
+          "title": "Create Native Apps with Ionic and Capacitor",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/ionic.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-does-the-javascript-sort-function-work/",
+          "author": "Grant Weatherston",
+          "description": "In this article I will explain how to use, and maximize the full potential of the sort() function. What is the sort() Function? The sort() function allows you to sort an array object by either the default sorting order, or by a custom sorting function. By default, it sorts the",
+          "link": "https://www.freecodecamp.org/news/how-does-the-javascript-sort-function-work/",
+          "publishedOn": "2023-05-16T20:29:44.000Z",
+          "wordCount": 2655,
+          "title": "JavaScript Sort() – How to Use the Sort Function in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/blog_header2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/",
+          "author": "Beau Carnes",
+          "description": "In a world where cybersecurity threats are more prevalent than ever, understanding how to safeguard your web applications is of paramount importance. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn common JavaScript security vulnerabilities and how to prevent them. Brandon teaches this course.",
+          "link": "https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/",
+          "publishedOn": "2023-05-16T17:43:07.000Z",
+          "wordCount": 1040,
+          "title": "Can you find the bug? JavaScript security vulnerabilities course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/semgrep2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/",
+          "author": "Eamonn Cottrell",
+          "description": "Google Sheets are powerful, and Apps Script makes them even more versatile and useful. Yes, you can use them for finance dashboards, personal budgets, and project management (and we'll cover these as future topics). But in this article, I'll go through the basics of Apps Script by building a simple",
+          "link": "https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/",
+          "publishedOn": "2023-05-16T16:58:37.000Z",
+          "wordCount": 1990,
+          "title": "Learn Google Apps Script Basics by Building a Tic Tac Toe Game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Tic-Tac-Toe-Google-Sheet2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can execute Python code in a terminal just like you would in an IDE like VS Code, Atom, and so on. You can do this in both Windows and Unix operating systems like Linux and macOS.  In this article, you'll learn how to exit a Python program in",
+          "link": "https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/",
+          "publishedOn": "2023-05-16T16:48:59.000Z",
+          "wordCount": 1143,
+          "title": "Python End Program – How to Exit a Python Program in the Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/jake-walker-MPKQiDpMyqU-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/",
+          "author": "Adekola Olawale",
+          "description": "If you're a software developer, you may be familiar with the concept of version control. Version control is the practice of managing changes to your codebase over time. It's an essential tool for any development project.  One of the most popular version control systems is Git, which is widely",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/",
+          "publishedOn": "2023-05-16T16:33:59.000Z",
+          "wordCount": 6224,
+          "title": "Git Best Practices – A Guide to Version Control for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/header-min-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/",
+          "author": "Daniel Adetunji",
+          "description": "Abstracting is the process of reducing something to its most basic form. It is the hiding away of the inessential.  For a drawing, this could be reducing it to its basic lines and shapes. Naturally, there are many levels of an abstraction, since what is inessential is subjective.",
+          "link": "https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/",
+          "publishedOn": "2023-05-16T16:31:36.000Z",
+          "wordCount": 2728,
+          "title": "Cloud Computing Abstractions – IaaS, PaaS, FaaS, and SaaS Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pictures-2.001-2.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-networking-in-flutter/",
           "author": "Arunachalam B",
