@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-17T01:06:12.840Z</updated>
+    <updated>2023-05-18T01:03:37.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/"/>
+        <updated>2023-05-17T14:48:51.000Z</updated>
+        <summary type="html"><![CDATA[YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Deal With Big Tooling Upgrades In Large Organizations]]></title>
+        <id>https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/</id>
+        <link href="https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/"/>
+        <updated>2023-05-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joran Quinten)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Interactive Heatmap Using JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/"/>
+        <updated>2023-05-16T23:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Data visualization is a powerful tool that helps us make sense of complex data. With it, we can spot patterns and trends that might take much more time to become obvious just by looking at raw numbers.  One particularly useful chart type is the heatmap, and I’m excited to]]></summary>
+        <author>
+            <name>Shachee Swadia</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How JavaScript’s Asynchronous Operations Work in the Browser]]></title>
         <id>https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/</id>
@@ -1474,76 +1504,6 @@
         <summary type="html"><![CDATA[Hi everyone! In JavaScript, variables can hold two types of data: primitive values and reference values. Understanding the difference between these two types of data is crucial for writing efficient and bug-free code.  In this short article, we will explore the difference between values and references in JavaScript. Table]]></summary>
         <author>
             <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 59 With Chiara Aliotta: What Is Design Storytelling?]]></title>
-        <id>https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/</id>
-        <link href="https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/"/>
-        <updated>2023-04-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ModuleNotFoundError: no module named 'requests' [Solved in Python Django]]]></title>
-        <id>https://www.freecodecamp.org/news/python-module-not-found-error-solved/</id>
-        <link href="https://www.freecodecamp.org/news/python-module-not-found-error-solved/"/>
-        <updated>2023-04-17T23:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Errors are an inevitable part of programming, and every programmer will encounter them at some point in their career.  Errors in programming can take various forms, including syntax errors, logic errors, and runtime errors, and they can have a significant impact on the functioning of a program. Understanding the]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is DevOps? How Development + Operations Helps Teams Work More Efficiently]]></title>
-        <id>https://www.freecodecamp.org/news/how-devops-works/</id>
-        <link href="https://www.freecodecamp.org/news/how-devops-works/"/>
-        <updated>2023-04-17T23:37:44.000Z</updated>
-        <summary type="html"><![CDATA[When developers and operations teams work together, they can identify and solve problems more quickly. This helps them deliver software to users faster and with fewer errors.  This general practice is called DevOps. It involves using tools and techniques to automate tasks and make software development and deployment more]]></summary>
-        <author>
-            <name>Satyam Tripathi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Git Rebase – Tutorial for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-git-rebase/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-git-rebase/"/>
-        <updated>2023-04-17T22:17:32.000Z</updated>
-        <summary type="html"><![CDATA[The software engineering landscape is constantly changing. Staying up to date on new technologies is absolutely critical. But as developers, sometimes we forget how important it is to dig a bit deeper into the tried and true technologies that are the backbone of software development – such as version control]]></summary>
-        <author>
-            <name>Nick Abbene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your PWA – Web App Security Best Practices]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-protect-your-pwa/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-protect-your-pwa/"/>
-        <updated>2023-04-17T21:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Hey, everybody! I'm Rahul [https://fueler.io/rahoool]. In today's world, web apps have become more prevalent because they work seamlessly on multiple devices. But as with any application, PWAs can be vulnerable to security threats, which can compromise user data and damage the reputation. It's natural to get excited about launching something]]></summary>
-        <author>
-            <name>Rahul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Machine Leaning without Libraries or Frameworks]]></title>
-        <id>https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/</id>
-        <link href="https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/"/>
-        <updated>2023-04-17T16:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to unravel the mysteries of machine learning algorithms and elevate your software development skills? Look no further!  We just published a machine learning course on the freeCodeCamp.org YouTube channel. This "No Black Box" Machine Learning Course in JavaScript offers a unique, hands-on approach to understanding machine]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Design Thinking?]]></title>
-        <id>https://smashingmagazine.com/2023/04/what-is-design-thinking/</id>
-        <link href="https://smashingmagazine.com/2023/04/what-is-design-thinking/"/>
-        <updated>2023-04-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered if things could have been done differently? But not sure how? Well, then, do not fall in love with the solution, but fall in love with the problem! Here’s an article to dive deep into how design thinking could do just that.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Krithika Subramanian)</name>
         </author>
     </entry>
 </feed>

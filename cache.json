@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/",
+          "author": "hello@smashingmagazine.com (Joran Quinten)",
+          "description": "The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.",
+          "link": "https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/",
+          "publishedOn": "2023-05-17T10:00:00.000Z",
+          "wordCount": 5177,
+          "title": "How To Deal With Big Tooling Upgrades In Large Organizations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-deal-big-tooling-upgrades-large-organizations/big-tooling-upgrades-large-organizations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-deal-big-tooling-upgrades-large-organizations/big-tooling-upgrades-large-organizations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
           "author": "hello@smashingmagazine.com (Ben Clemens)",
           "description": "Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.",
@@ -280,36 +295,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/color-mechanics-ui-kits/color-mechanics-ui-kits-sharing-image.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of The Smashing Podcast, we take a look at design storytelling. What is it, and how can it help us shape digital experiences? Vitaly talks to Chiara Aliotta to find out.",
-          "link": "https://smashingmagazine.com/2023/04/smashing-podcast-episode-59/",
-          "publishedOn": "2023-04-18T12:00:00.000Z",
-          "wordCount": 10292,
-          "title": "Smashing Podcast Episode 59 With Chiara Aliotta: What Is Design Storytelling?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-59/smashing-podcast-episode-59.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-59/smashing-podcast-episode-59.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/what-is-design-thinking/",
-          "author": "hello@smashingmagazine.com (Krithika Subramanian)",
-          "description": "Have you ever wondered if things could have been done differently? But not sure how? Well, then, do not fall in love with the solution, but fall in love with the problem! Here’s an article to dive deep into how design thinking could do just that.",
-          "link": "https://smashingmagazine.com/2023/04/what-is-design-thinking/",
-          "publishedOn": "2023-04-17T15:00:00.000Z",
-          "wordCount": 4535,
-          "title": "What Is Design Thinking?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/what-is-design-thinking/what-is-design-thinking-sharing-image.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/what-is-design-thinking/what-is-design-thinking-sharing-image.jpg"
         }
       ]
     },
@@ -318,6 +303,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
+          "author": "Kolade Chris",
+          "description": "YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are",
+          "link": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
+          "publishedOn": "2023-05-17T14:48:51.000Z",
+          "wordCount": 1566,
+          "title": "How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/yamlRe.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/",
+          "author": "Shachee Swadia",
+          "description": "Data visualization is a powerful tool that helps us make sense of complex data. With it, we can spot patterns and trends that might take much more time to become obvious just by looking at raw numbers.  One particularly useful chart type is the heatmap, and I’m excited to",
+          "link": "https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/",
+          "publishedOn": "2023-05-16T23:26:39.000Z",
+          "wordCount": 3620,
+          "title": "How to Create an Interactive Heatmap Using JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/heatmapchartjs.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/",
           "author": "Amazing Enyichi Agu",
@@ -1607,56 +1612,6 @@
           "wordCount": 2123,
           "title": "JavaScript Primitive Values vs Reference Values – Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pedro-figueras-681447.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-module-not-found-error-solved/",
-          "author": "Shittu Olumide",
-          "description": "Errors are an inevitable part of programming, and every programmer will encounter them at some point in their career.  Errors in programming can take various forms, including syntax errors, logic errors, and runtime errors, and they can have a significant impact on the functioning of a program. Understanding the",
-          "link": "https://www.freecodecamp.org/news/python-module-not-found-error-solved/",
-          "publishedOn": "2023-04-17T23:55:53.000Z",
-          "wordCount": 1064,
-          "title": "ModuleNotFoundError: no module named 'requests' [Solved in Python Django]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-ModuleNotFoundError-no-module-named--requests---Solved-in-Python-Django-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-devops-works/",
-          "author": "Satyam Tripathi",
-          "description": "When developers and operations teams work together, they can identify and solve problems more quickly. This helps them deliver software to users faster and with fewer errors.  This general practice is called DevOps. It involves using tools and techniques to automate tasks and make software development and deployment more",
-          "link": "https://www.freecodecamp.org/news/how-devops-works/",
-          "publishedOn": "2023-04-17T23:37:44.000Z",
-          "wordCount": 1782,
-          "title": "What is DevOps? How Development + Operations Helps Teams Work More Efficiently",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/03/Getting-Started-With-DevOps--3--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-git-rebase/",
-          "author": "Nick Abbene",
-          "description": "The software engineering landscape is constantly changing. Staying up to date on new technologies is absolutely critical. But as developers, sometimes we forget how important it is to dig a bit deeper into the tried and true technologies that are the backbone of software development – such as version control",
-          "link": "https://www.freecodecamp.org/news/how-to-use-git-rebase/",
-          "publishedOn": "2023-04-17T22:17:32.000Z",
-          "wordCount": 1384,
-          "title": "How to Use Git Rebase – Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Screenshot-2023-04-15-at-10.58.48-PM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-protect-your-pwa/",
-          "author": "Rahul",
-          "description": "Hey, everybody! I'm Rahul [https://fueler.io/rahoool]. In today's world, web apps have become more prevalent because they work seamlessly on multiple devices. But as with any application, PWAs can be vulnerable to security threats, which can compromise user data and damage the reputation. It's natural to get excited about launching something",
-          "link": "https://www.freecodecamp.org/news/how-to-protect-your-pwa/",
-          "publishedOn": "2023-04-17T21:28:20.000Z",
-          "wordCount": 2132,
-          "title": "How to Protect Your PWA – Web App Security Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pwa.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to unravel the mysteries of machine learning algorithms and elevate your software development skills? Look no further!  We just published a machine learning course on the freeCodeCamp.org YouTube channel. This \"No Black Box\" Machine Learning Course in JavaScript offers a unique, hands-on approach to understanding machine",
-          "link": "https://www.freecodecamp.org/news/learn-machine-leaning-without-libraries-or-frameworks/",
-          "publishedOn": "2023-04-17T16:56:00.000Z",
-          "wordCount": 936,
-          "title": "Learn Machine Leaning without Libraries or Frameworks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/radu.png"
         }
       ]
     }
