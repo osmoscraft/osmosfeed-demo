@@ -304,6 +304,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/",
+          "author": "David Clinton",
+          "description": "Hi there. Great to have you here. But I'm afraid I'm going to have to start off with some bad news.  Before you can really improve the security of your Amazon EC2 instances, you'll need to get a handle on all the stuff that can go wrong. And I'll",
+          "link": "https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/",
+          "publishedOn": "2023-05-18T19:07:42.000Z",
+          "wordCount": 2253,
+          "title": "Amazon EC2 – Understanding and Addressing the Security Problem",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-277574.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/exploring-component-based-architecture-in-medusa-building-robust-user-interfaces/",
+          "author": "Valentine Gatwiri",
+          "description": "Medusa is a modern JavaScript framework that makes it easy to build robust user interfaces.  It is built around a component-based architecture, which is a design pattern that breaks down a UI into smaller, reusable components. This makes it easier to maintain and update the UI, as well as",
+          "link": "https://www.freecodecamp.org/news/exploring-component-based-architecture-in-medusa-building-robust-user-interfaces/",
+          "publishedOn": "2023-05-18T18:22:11.000Z",
+          "wordCount": 2668,
+          "title": "Component-Based Architecture in Medusa – How to Build Robust User Interfaces",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Screenshot-from-2023-05-18-21-05-01.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/",
+          "author": "Beau Carnes",
+          "description": "ChatGPT can be used to supercharge software development. You even create complete applications with ChatGPT. We just published a course on the freeCodeCamp.org YouTube channel that will show you how you can create a full stack app with ChatGPT. This course, authored by Judy from webdecoded, leverages the power of",
+          "link": "https://www.freecodecamp.org/news/build-a-full-stack-application-using-chatgpt/",
+          "publishedOn": "2023-05-18T15:52:20.000Z",
+          "wordCount": 999,
+          "title": "How to Build a Full Stack Application Using ChatGPT",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/chatdev.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/",
+          "author": "Kolade Chris",
+          "description": "Regular expressions let you match any string, be it in the form of various user inputs such as username, password, URL, and even different date formats. In this article, I’ll show you several ways you can match a date with regular expressions. In the programming world, there are always multiple",
+          "link": "https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/",
+          "publishedOn": "2023-05-18T12:41:17.000Z",
+          "wordCount": 1295,
+          "title": "RegEx for Date Formats – Regular Expressions for Matching Dates",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/dateRegEx.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/",
+          "author": "Brenda Chepkorir",
+          "description": "When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust",
+          "link": "https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/",
+          "publishedOn": "2023-05-17T23:40:59.000Z",
+          "wordCount": 1481,
+          "title": "Angular Upgrades That Will Improve Your Developer Experience",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-thisisengineering-3861958.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/",
           "author": "Kolade Chris",
           "description": "YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are",
@@ -1552,66 +1602,6 @@
           "wordCount": 1233,
           "title": "Print Methods in Java – How to Print to the Terminal",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/tracy-adams-TEemXOpR3cQ-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-mean-in-regex/",
-          "author": "Kolade Chris",
-          "description": "The $ symbol is one of the most commonly used symbols in RegEx. It is used to match the end of a string. In this article, I’ll show you exactly what the dollar sign ($) does in RegEx and how to use it. What We'll Cover  * What is",
-          "link": "https://www.freecodecamp.org/news/what-does-mean-in-regex/",
-          "publishedOn": "2023-04-19T11:20:42.000Z",
-          "wordCount": 1350,
-          "title": "What Does '$' Mean in RegEx?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/start-graph--10-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-list-is-empty-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "A list [/news/how-to-make-a-list-in-python-declare-lists-in-python-example/] is one of the data structures in Python that you can use to store a collection of variables.  In some cases, you have to iterate through and perform an operation on the elements of a list. But you can't loop/iterate through a list if it has",
-          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-list-is-empty-in-python/",
-          "publishedOn": "2023-04-19T04:52:49.000Z",
-          "wordCount": 1097,
-          "title": "Python isEmpty() equivalent – How to Check if a List is Empty in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/kelly-sikkema--1_RZL8BGBM-unsplash--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
-          "author": "Arunachalam B",
-          "description": "Imagine you have built a great product and its user base is growing rapidly. You want to scale your product to be available to people around the world. To do this, you'll need good cloud infrastructure. But managing your cloud infrastructure manually can be exhausting. You might start wondering, \"how",
-          "link": "https://www.freecodecamp.org/news/deploy-nodejs-app-with-cloudformation/",
-          "publishedOn": "2023-04-18T18:03:26.000Z",
-          "wordCount": 3101,
-          "title": "How to Deploy a NodeJS App with AWS CloudFormation",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/CloudFormation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/invalid-html-syntax-examples-and-fixes/",
-          "author": "CHRISTINE T. BELZIE",
-          "description": "Remember those treehouses that we had as children and how the wood would wear, tear, and eventually collapse because we just would not stop jumping around inside it? Well that's kind of like HTML. This markup language is like the wood to your coding project. If it’s invalid, your solution",
-          "link": "https://www.freecodecamp.org/news/invalid-html-syntax-examples-and-fixes/",
-          "publishedOn": "2023-04-18T16:51:50.000Z",
-          "wordCount": 1682,
-          "title": "Common Causes of Invalid HTML Syntax – and How to Fix Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Blog-post-cover-for-FCC---2-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Operators are special symbols you can use to perform different operations on variables (operands) in programming.  Python has different operators like arithmetic operators, assignment operators, logical operators, boolean operators, comparison operators, bitwise operators, and so on.  Although you'll not come across the dollar sign ($) operator when learning",
-          "link": "https://www.freecodecamp.org/news/what-does-the-dollar-sign-mean-in-python/",
-          "publishedOn": "2023-04-18T16:39:34.000Z",
-          "wordCount": 1320,
-          "title": "What Does $ Mean in Python? Operator Meaning + String Formatting Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/what-does-the-dollar-sign-mean-in-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-assigning-values-vs-assigning-references/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In JavaScript, variables can hold two types of data: primitive values and reference values. Understanding the difference between these two types of data is crucial for writing efficient and bug-free code.  In this short article, we will explore the difference between values and references in JavaScript. Table",
-          "link": "https://www.freecodecamp.org/news/javascript-assigning-values-vs-assigning-references/",
-          "publishedOn": "2023-04-18T16:31:17.000Z",
-          "wordCount": 2123,
-          "title": "JavaScript Primitive Values vs Reference Values – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pedro-figueras-681447.jpg"
         }
       ]
     }
