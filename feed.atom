@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T01:05:04.162Z</updated>
+    <updated>2023-05-20T01:01:53.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Server Components – A Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/react-server-components-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/react-server-components-for-beginners/"/>
+        <updated>2023-05-19T20:31:21.000Z</updated>
+        <summary type="html"><![CDATA[React Server Components have been generating significant buzz and excitement lately. They've recently been adopted as the default option in Next.js 13, so now more and more developers are using them. React Server Components seamlessly blend server-side rendering with the interactivity of client-side JavaScript. And in this tutorial, you'll learn]]></summary>
+        <author>
+            <name>Adwaith KS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandas Count Rows – How to Get the Number of Rows in a Dataframe]]></title>
+        <id>https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/</id>
+        <link href="https://www.freecodecamp.org/news/pandas-count-rows-how-to-get-the-number-of-rows-in-a-dataframe/"/>
+        <updated>2023-05-19T15:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Pandas is a library built on the Python programming language. You can use it to analyze and manipulate data. A dataframe is two-dimensional data structure in Pandas that organizes data in a tabular format with rows and columns.  In this article, you'll learn how to get the number of]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State Management in React –Props vs the Context API]]></title>
+        <id>https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api/</id>
+        <link href="https://www.freecodecamp.org/news/state-management-in-react-props-vs-context-api/"/>
+        <updated>2023-05-19T14:31:28.000Z</updated>
+        <summary type="html"><![CDATA[Figuring out state management in React applications can feel like trying to find your way through a labyrinth. You'll constantly be searching for the most efficient, scalable, and maintainable solution.  The journey often leads to two primary paths: Using Props or the Context API. As you embark on this]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon EC2 – Understanding and Addressing the Security Problem]]></title>
         <id>https://www.freecodecamp.org/news/amazon-ec2-understanding-the-security-problem/</id>
@@ -1394,106 +1424,6 @@
         <summary type="html"><![CDATA[When working with Python, there may be times when you need to copy a file. Copying files comes in handy when you need to create a backup. In this article, you will learn how to copy a file in Python using the shutil  module and its different methods. The]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building And Dockerizing A Node.js App With Stateless Architecture With Help From Kinsta]]></title>
-        <id>https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/</id>
-        <link href="https://smashingmagazine.com/2023/04/building-dockerizing-nodejs-app-stateless-architecture-kinsta/"/>
-        <updated>2023-04-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dockerizing your Node.js apps can lead to smashing success—offering consistency, easy debugging, and hassle-free dependency management. When you host this container on Kinsta, you also benefit from high-speed performance, robust security, and top-notch scalability. By combining these two, you'll surely have a whale of a time as you sail smoothly through the development seas.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tejas Kumar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Concepts to Know Before Learning React]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-react/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-react/"/>
-        <updated>2023-04-20T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A lot of web developers use React as their go-to library for building UI components for their websites. React is one of the most popular frameworks for web development and it is written entirely in JavaScript. Since React was written in JavaScript, it uses a lot of the JavaScript concepts]]></summary>
-        <author>
-            <name>Musab Habeeb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Network Traffic is Routed]]></title>
-        <id>https://www.freecodecamp.org/news/how-network-traffic-is-routed/</id>
-        <link href="https://www.freecodecamp.org/news/how-network-traffic-is-routed/"/>
-        <updated>2023-04-19T22:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Moving around the internet – or even over a private local network – requires all kinds of magic wand waving and sorcery.  Or, in sightly more accurate terms, it requires the combination of sophisticated engineering and the existence of key standards, including network ports, the domain Name System (DNS)]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Interview Prep – How to Use a Collaborative Approach to Problem-Solving]]></title>
-        <id>https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/collaborative-problem-solving-with-python/"/>
-        <updated>2023-04-19T21:14:37.000Z</updated>
-        <summary type="html"><![CDATA[No matter how experienced of a developer you are, being interviewed for a new job is always stressful. This is certainly true from my own experience.  In my case, I have been working professionally as a Software Developer for two and a half years, and I've had to face]]></summary>
-        <author>
-            <name>Alberto Gonzalez Rosales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Box Shadow Generator With React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-box-shadow-generator-in-react/"/>
-        <updated>2023-04-19T20:21:04.000Z</updated>
-        <summary type="html"><![CDATA[CSS is a powerful language for styling web pages. But when you're designing a website, things like box shadows can be particularly difficult to get right.  In this guide, you will learn how to create your own box shadow generator with React and Vite. Here is a preview [https://shadowgen.vercel.app/]]]></summary>
-        <author>
-            <name>David Uzondu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Mechanics In UI Kits]]></title>
-        <id>https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/</id>
-        <link href="https://smashingmagazine.com/2023/04/color-mechanics-ui-kits/"/>
-        <updated>2023-04-19T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Adel Khamatov shares a model of color mechanics that he came up with during research on developing UI kits and illustrates an approach to solving related problems with best practices.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adel Khamatov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript in React – How to Manage State with Firebase Cloud Firestore]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-manage-state-in-react-apps-with-firebase-cloud-firestore/"/>
-        <updated>2023-04-19T17:04:27.000Z</updated>
-        <summary type="html"><![CDATA[State management is essential in today's world of web development. If you do it well, it helps you create apps that are reliable and effective. Firebase [https://firebase.google.com/] is a Backend-as-a-Service platform that has gained popularity along with the emergence of serverless architecture and cloud technologies. And Cloud Firestore [https://firebase.google.com/docs/firestore] is]]></summary>
-        <author>
-            <name>Olasunkanmi Balogun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Course – Use the OpenAI API to Create Five Projects]]></title>
-        <id>https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/</id>
-        <link href="https://www.freecodecamp.org/news/chatgpt-course-use-the-openai-api-to-create-five-projects/"/>
-        <updated>2023-04-19T15:15:05.000Z</updated>
-        <summary type="html"><![CDATA[The world of artificial intelligence is ever-evolving, and the OpenAI API is at the forefront of it. As the technology becomes more sophisticated, it's imperative for developers and enthusiasts to understand and utilize its potential in various applications. We just published an OpenAI API course on the freeCodeCamp.org YouTube channel.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Godot for Game Development]]></title>
-        <id>https://www.freecodecamp.org/news/learn-godot-for-game-development/</id>
-        <link href="https://www.freecodecamp.org/news/learn-godot-for-game-development/"/>
-        <updated>2023-04-19T15:06:05.000Z</updated>
-        <summary type="html"><![CDATA[Are you interested in game development but don't know where to start? The Godot game engine is a popular open-source platform for game development, and our new video course on the freeCodeCamp.org YouTube channel will teach you everything you need to know to create your own platformer game. The course]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print Methods in Java – How to Print to the Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/print-methods-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/print-methods-in-java/"/>
-        <updated>2023-04-19T14:28:53.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning Java, you probably started your coding journey by printing the "Hello World" program in the console. And that's a great way to begin – but after that, you need to learn how print methods and functions actually work. Well, this article will show you how those print]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
 </feed>
