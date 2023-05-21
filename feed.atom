@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-20T01:01:53.696Z</updated>
+    <updated>2023-05-21T01:08:05.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
@@ -1344,86 +1344,6 @@
         <summary type="html"><![CDATA[In CSS, pseudo-classes and pseudo-elements are two types of keywords that you can combine with selectors. They are used to target the element's state or specific parts of an element.  In this article, we'll explore the differences between the two along with their history and best practices. Syntax]]></summary>
         <author>
             <name>Natalie Pina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring The Potential Of Web Workers For Multithreading On The Web]]></title>
-        <id>https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/</id>
-        <link href="https://smashingmagazine.com/2023/04/potential-web-workers-multithreading-web/"/>
-        <updated>2023-04-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Sarah Oke Okolo explores the importance of Web Workers for multithreading on the web, including the limitations and considerations of using them and the strategies for mitigating potential issues associated with them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sarah Oke Okolo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Initialize an ArrayList in Java – Declaration with Values]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-initialize-an-arraylist-in-java-with-values/"/>
-        <updated>2023-04-21T06:34:22.000Z</updated>
-        <summary type="html"><![CDATA[You can use an ArrayList in Java to store and manipulate a collection of similar variables.  An ArrayList is just like an array [/news/java-array-how-to-declare-and-initialize-an-array-in-java-example/] but offers more flexibility. An ArrayList is more dynamic with the size of the collection, and gives you more control over the elements in a]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use APIs in Your Projects to Practice Your Coding Skills]]></title>
-        <id>https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/</id>
-        <link href="https://www.freecodecamp.org/news/use-apis-to-practice-coding-skills/"/>
-        <updated>2023-04-20T22:28:01.000Z</updated>
-        <summary type="html"><![CDATA[As web developers, we all know that practice makes perfect. But when it comes to practice, it's easy to get stuck in a programming rut. But how do you come up with new ideas to build? Sooner or later, you will find yourself running out of features to add or]]></summary>
-        <author>
-            <name>Rahul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle File Uploads on the Back End in Node.js and Nuxt]]></title>
-        <id>https://www.freecodecamp.org/news/handle-file-uploads-on-the-backend-in-node-js-nuxt/</id>
-        <link href="https://www.freecodecamp.org/news/handle-file-uploads-on-the-backend-in-node-js-nuxt/"/>
-        <updated>2023-04-20T22:27:42.000Z</updated>
-        <summary type="html"><![CDATA[In some previous tutorials, I covered how to upload files using HTML [https://austingil.com/uploading-files-with-html/] and JavaScript [https://austingil.com/upload-files-with-javascript/]. It requires sending HTTP requests with the Content-Type [https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type] header set to multipart/form-data. Today, we are going to the back end to receive those multipart/form-data  requests and access the binary data from those]]></summary>
-        <author>
-            <name>Austin Gil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Communicate with ChatGPT – A Guide to Prompt Engineering]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-communicate-with-ai-tools-prompt-engineering/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-communicate-with-ai-tools-prompt-engineering/"/>
-        <updated>2023-04-20T20:54:11.000Z</updated>
-        <summary type="html"><![CDATA[AI has become an integral part of our lives and businesses. Over the past few years, we’ve seen the rapid rise of AI tools, and their impact on our day-to-day activities can't be ignored. From virtual assistants to chatbots, AI just keeps getting smarter with more functionalities than before. This]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepare for Your JavaScript Interview]]></title>
-        <id>https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/"/>
-        <updated>2023-04-20T17:04:45.000Z</updated>
-        <summary type="html"><![CDATA[Are you preparing for a JavaScript interview and want to ensure that you have a deep understanding of closures, functions, and currying? Then Roadside Coder's video course is just what you need. We just published a full course on the freeCodeCamp.org YouTube channel that will help prepare you for a]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does the Caret Mean in RegEx? Caret Metacharacter in Regular Expressions]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-the-caret-mean-in-regex-how-to-match-the-start-of-a-line-in-regular-expressions/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-the-caret-mean-in-regex-how-to-match-the-start-of-a-line-in-regular-expressions/"/>
-        <updated>2023-04-20T16:47:22.000Z</updated>
-        <summary type="html"><![CDATA[A caret (^) is one of the many symbols for creating patterns in regular expressions. A caret matches the start of a line or a particular string. But that’s not all there is to the caret (^) symbol. The caret symbol (^) is often referred to as an "anchor" because]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Copy File – Copying Files to Another Directory]]></title>
-        <id>https://www.freecodecamp.org/news/python-copy-file-copying-files-to-another-directory/</id>
-        <link href="https://www.freecodecamp.org/news/python-copy-file-copying-files-to-another-directory/"/>
-        <updated>2023-04-20T14:16:43.000Z</updated>
-        <summary type="html"><![CDATA[When working with Python, there may be times when you need to copy a file. Copying files comes in handy when you need to create a backup. In this article, you will learn how to copy a file in Python using the shutil  module and its different methods. The]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
 </feed>
