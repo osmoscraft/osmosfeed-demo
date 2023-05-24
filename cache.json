@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.",
+          "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
+          "publishedOn": "2023-05-23T08:00:00.000Z",
+          "wordCount": 10432,
+          "title": "Smashing Podcast Episode 61 With Rachel Andrew: What Is Web Platform Baseline?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-61/smashing-podcast-episode-61.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-61/smashing-podcast-episode-61.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/practical-design-tips-guidelines-beginner-designers/",
           "author": "hello@smashingmagazine.com (Laurent Baumann)",
           "description": "It’s easy for beginner designers to get overwhelmed and lose confidence when creating presentations, landing pages, app and web design mockups, and even cards. Laurent Baumann shares a few simple guidelines and practical tips to help you in such situations.",
@@ -250,21 +265,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/ux-web3-mass-adoption/ux-web3-mass-adoption.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/",
-          "author": "hello@smashingmagazine.com (Marcus Herrmann)",
-          "description": "In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.",
-          "link": "https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/",
-          "publishedOn": "2023-04-24T08:00:00.000Z",
-          "wordCount": 5025,
-          "title": "The Potentially Dangerous Non-Accessibility Of Cookie Notices",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/potentially-dangerous-accessibility-cookie-notices/potentially-dangerous-non-accessibility-cookie-notices.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/potentially-dangerous-accessibility-cookie-notices/potentially-dangerous-non-accessibility-cookie-notices.jpg"
         }
       ]
     },
@@ -273,6 +273,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
+          "author": "Manoel Cortes Mendez",
+          "description": "In this article, I compiled 120 free online courses offered by the 60 best universities in the world for studying math in 2023. I did so by combining popular university rankings to identify the best institutions, and then I used the Class Central database [https://www.classcentral.com/subjects] to find all their math",
+          "link": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
+          "publishedOn": "2023-05-23T22:12:28.000Z",
+          "wordCount": 2364,
+          "title": "120 Free Online Math Courses from the World’s Top Universities",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/mathematics-banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
+          "author": "Austin Gil",
+          "description": "To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file",
+          "link": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
+          "publishedOn": "2023-05-23T19:51:05.000Z",
+          "wordCount": 3784,
+          "title": "How to Stream File Uploads to S3 Object Storage and Reduce Costs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-219717.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
+          "author": "Arunachalam B",
+          "description": "If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have",
+          "link": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
+          "publishedOn": "2023-05-23T14:45:51.000Z",
+          "wordCount": 2319,
+          "title": "How to Use RabbitMQ with NodeJS to Send and Receive Messages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/What-is-RabbitMQ-and-How-to-use-it-with-NodeJS_1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
           "author": "Beau Carnes",
@@ -1462,16 +1492,6 @@
           "wordCount": 2685,
           "title": "Data Visualization with Matplotlib – a Step by Step Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/data-visualization-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-regular-expression-in-json-file/",
-          "author": "Kolade Chris",
-          "description": "JSON stands for JavaScript Object Notation. It is a text-based and lightweight data format for exchanging information between systems, for example, a web server and a web application. JSON files typically contain objects, arrays, strings, and numbers. But you can also have regular expressions in a JSON file. And that’s",
-          "link": "https://www.freecodecamp.org/news/how-to-write-regular-expression-in-json-file/",
-          "publishedOn": "2023-04-24T12:38:59.000Z",
-          "wordCount": 1556,
-          "title": "How to Write Regular Expression in JSON File",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/start-graph--11-.png"
         }
       ]
     }

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-23T01:03:45.161Z</updated>
+    <updated>2023-05-24T01:06:20.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[120 Free Online Math Courses from the World’s Top Universities]]></title>
+        <id>https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/</id>
+        <link href="https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/"/>
+        <updated>2023-05-23T22:12:28.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I compiled 120 free online courses offered by the 60 best universities in the world for studying math in 2023. I did so by combining popular university rankings to identify the best institutions, and then I used the Class Central database [https://www.classcentral.com/subjects] to find all their math]]></summary>
+        <author>
+            <name>Manoel Cortes Mendez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Stream File Uploads to S3 Object Storage and Reduce Costs]]></title>
+        <id>https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/</id>
+        <link href="https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/"/>
+        <updated>2023-05-23T19:51:05.000Z</updated>
+        <summary type="html"><![CDATA[To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file]]></summary>
+        <author>
+            <name>Austin Gil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use RabbitMQ with NodeJS to Send and Receive Messages]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/"/>
+        <updated>2023-05-23T14:45:51.000Z</updated>
+        <summary type="html"><![CDATA[If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 61 With Rachel Andrew: What Is Web Platform Baseline?]]></title>
+        <id>https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/</id>
+        <link href="https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/"/>
+        <updated>2023-05-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full-Stack Development with Next.js, TypeScript, and AWS]]></title>
         <id>https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/</id>
@@ -1354,26 +1394,6 @@
         <summary type="html"><![CDATA[SEE [https://tv.apple.com/us/show/see/umc.cmc.3s4mgg2y7h95fks9gnc4pw13m] is a beautiful Apple TV series that depicts a dystopia where humans have lost their sight. Hundreds of years later, it was considered a myth that people could ever see.  Jason Momoa is one of the leads and plays Baba Voss, an elite warrior. Jason's wife gives]]></summary>
         <author>
             <name>MENE-EJEGI OGBEMI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Regular Expression in JSON File]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-regular-expression-in-json-file/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-regular-expression-in-json-file/"/>
-        <updated>2023-04-24T12:38:59.000Z</updated>
-        <summary type="html"><![CDATA[JSON stands for JavaScript Object Notation. It is a text-based and lightweight data format for exchanging information between systems, for example, a web server and a web application. JSON files typically contain objects, arrays, strings, and numbers. But you can also have regular expressions in a JSON file. And that’s]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Potentially Dangerous Non-Accessibility Of Cookie Notices]]></title>
-        <id>https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/</id>
-        <link href="https://smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/"/>
-        <updated>2023-04-24T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this piece, a Web Content Accessibility Guidelines (WCAG) auditor shares some cookie banner error patterns that can massively hurt a page’s overall conformance. Let’s explore what to look out for with this omnipresent piece of the web interface.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Marcus Herrmann)</name>
         </author>
     </entry>
 </feed>
