@@ -274,6 +274,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/",
+          "author": "Shittu Olumide",
+          "description": "Copying directories is an essential task in Linux. It allows you to duplicate directories, create backups, or transfer data between different locations.  One of the most commonly used commands for copying files and directories in Linux is cp. In this tutorial, we will explore how to copy directories effectively",
+          "link": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/",
+          "publishedOn": "2023-05-24T22:21:19.000Z",
+          "wordCount": 1182,
+          "title": "How to Copy a Directory in Linux with the cp Command",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-How-to-Copy-a-Directory-in-Linux-with-the-cp-Command.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/",
+          "author": "Eamonn Cottrell",
+          "description": "In this article we'll link two Google services -> Google Sheets and Google Calendar. By using a very short custom function in Google Apps Script, we can add a list of events from a Google Sheet to a Google Calendar. 🤯 And we'll even have it email our guests as",
+          "link": "https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/",
+          "publishedOn": "2023-05-24T21:44:39.000Z",
+          "wordCount": 1430,
+          "title": "Google Sheets – How to Automatically Post Events to Google Calendar with Apps Script",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Sheets-to-Calendar3.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/",
+          "author": "Sonya Moisset",
+          "description": "Artificial intelligence (AI) has been a game-changer in cybersecurity. It has revolutionized the approach to cybersecurity by providing advanced techniques to detect and mitigate cyber threats.  The use of AI in cybersecurity is increasing rapidly, with many companies adopting it as a key tool in their cybersecurity strategy.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/",
+          "publishedOn": "2023-05-24T20:58:02.000Z",
+          "wordCount": 5438,
+          "title": "How Security Analysts Can Use Artificial Intelligence (AI) in Cybersecurity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/_71704ac1-39a2-4892-875c-0f342230ec89.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/",
+          "author": "Victor Eke",
+          "description": "Navigation bars are essential components used a lot in websites and web apps. As a web developer, you will need to be able to customize them, either for a client project or a basic portfolio site. In this guide, you'll learn how to build a navigation bas for yourself from",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/",
+          "publishedOn": "2023-05-24T20:52:51.000Z",
+          "wordCount": 3314,
+          "title": "How to Build a Responsive Navigation Bar with a Dropdown Menu using JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/responsive-navigation-bar-with-dropdown-menu-using-javascript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-django-to-code-a-chatgpt-clone/",
+          "author": "Beau Carnes",
+          "description": "Creating an AI chatbot might seem like a daunting task, especially if you're not an experienced programmer. But we just launched a course on the freeCodeCamp.org YouTube channel that will demystify the process and walk you through it step-by-step. This course focuses on using Django, a high-level Python web framework,",
+          "link": "https://www.freecodecamp.org/news/use-django-to-code-a-chatgpt-clone/",
+          "publishedOn": "2023-05-24T18:30:52.000Z",
+          "wordCount": 959,
+          "title": "Use Django to Code a ChatGPT Clone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/chatbot.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
           "author": "Manoel Cortes Mendez",
           "description": "In this article, I compiled 120 free online courses offered by the 60 best universities in the world for studying math in 2023. I did so by combining popular university rankings to identify the best institutions, and then I used the Class Central database [https://www.classcentral.com/subjects] to find all their math",
@@ -1422,76 +1472,6 @@
           "wordCount": 4778,
           "title": "How to Build an Interactive Accordion Component with React and GSAP",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-image-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/",
-          "author": "Daniel Iwugo",
-          "description": "ChatGPT has had well over a billion visits since its release. Now, what happens when you combine the greatest language learning model of the decade with malicious hacking...what could go wrong? 💀 In this article, we'll explore what artificial intelligence is, its current state, how large language models like ChatGPT",
-          "link": "https://www.freecodecamp.org/news/large-language-models-and-cybersecurity/",
-          "publishedOn": "2023-04-25T01:03:55.000Z",
-          "wordCount": 3219,
-          "title": "Large Language Models and Cybersecurity – What You Should Know",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/image-228-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/",
-          "author": "Joel Olawanle",
-          "description": "If you're a web developer, you'll work with JavaScript when building dynamic and interactive web applications. One common task that you'll need to perform is getting the current URL of a web page. In this article, you will learn how to get the current URL using JavaScript's Location object. I'll",
-          "link": "https://www.freecodecamp.org/news/how-to-get-the-current-url-with-javascript/",
-          "publishedOn": "2023-04-25T00:34:45.000Z",
-          "wordCount": 1308,
-          "title": "How to Get the Current URL with JavaScript – JS Location Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--10-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/",
-          "author": "Shittu Olumide",
-          "description": "These days, many people are concerned with the way AI is evolving. They see it effortlessly solving problems, performing tasks quickly and accurately, and doing jobs easily and efficiently.  And while some people are scared, others are actually embracing it. I'm one of those people who are embracing it,",
-          "link": "https://www.freecodecamp.org/news/how-to-use-chatgpt-for-data-scientists/",
-          "publishedOn": "2023-04-24T23:01:14.000Z",
-          "wordCount": 2671,
-          "title": "How to Use ChatGPT – Prompts for Data Scientists",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-How-to-use-ChatGPT-for-Data-Scientists.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/server-side-rendering-javascript/",
-          "author": "Scott Gary",
-          "description": "The concept of Server Side Rendering (SSR) is often misunderstood. So my aim in this article is to bring clarity to this process and how it works.  Here's what we'll cover in this guide:  1. What is server side rendering? What are its pros and cons when compared",
-          "link": "https://www.freecodecamp.org/news/server-side-rendering-javascript/",
-          "publishedOn": "2023-04-24T22:12:31.000Z",
-          "wordCount": 2573,
-          "title": "Server Side Rendering in JavaScript – SSR vs CSR Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-steve-johnson-12939554.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/",
-          "author": "Ijeoma Igboagu",
-          "description": "Do you ever find yourself stuck when it comes to writing or unable to come up with creative solutions to a problem? Don’t worry—you are not alone. Everyone experiences writer's block or a lack of creativity at some point. At times, as writers, we may be really eager to write",
-          "link": "https://www.freecodecamp.org/news/how-to-overcome-writers-block-and-boost-creativity/",
-          "publishedOn": "2023-04-24T19:46:18.000Z",
-          "wordCount": 1937,
-          "title": "How to Boost Your Creativity – Strategies for Generating Ideas and Overcoming Writer's Block",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Boost-Your-Creativity-Tools-for-Generating-Ideas-and-Overcoming-Writer-s-Block---Presentation--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/",
-          "author": "Gursimar Singh",
-          "description": "This article is a comprehensive guide on how to read the contents of your computer's RAM.  Random Access Memory (RAM) is a crucial component of any computer system, and it is responsible for temporarily storing data that is required by the system to carry out its functions. But the",
-          "link": "https://www.freecodecamp.org/news/how-to-access-and-read-ram-contents/",
-          "publishedOn": "2023-04-24T19:31:18.000Z",
-          "wordCount": 3553,
-          "title": "What is RAM? How to Access Your Computer's RAM and Read the Contents",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/ram-article.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/",
-          "author": "MENE-EJEGI OGBEMI",
-          "description": "SEE [https://tv.apple.com/us/show/see/umc.cmc.3s4mgg2y7h95fks9gnc4pw13m] is a beautiful Apple TV series that depicts a dystopia where humans have lost their sight. Hundreds of years later, it was considered a myth that people could ever see.  Jason Momoa is one of the leads and plays Baba Voss, an elite warrior. Jason's wife gives",
-          "link": "https://www.freecodecamp.org/news/introduction-to-data-vizualization-using-matplotlib/",
-          "publishedOn": "2023-04-24T18:32:32.000Z",
-          "wordCount": 2685,
-          "title": "Data Visualization with Matplotlib – a Step by Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/data-visualization-1.jpg"
         }
       ]
     }
