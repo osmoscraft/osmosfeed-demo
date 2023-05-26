@@ -12,6 +12,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/success-at-scale-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Meet “Success At Scale”, our upcoming book with best-practice case studies from industry experts. Print and eBook shipping in fall 2023. Pre-order the book.",
+          "link": "https://smashingmagazine.com/2023/05/success-at-scale-pre-release/",
+          "publishedOn": "2023-05-25T20:00:00.000Z",
+          "wordCount": 3278,
+          "title": "Meet Success At Scale, A New Smashing Book By Addy Osmani",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/success-at-scale-pre-release/success-at-scale-preorder-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/success-at-scale-pre-release/success-at-scale-preorder-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
+          "author": "hello@smashingmagazine.com (Sarah Oke Okolo)",
+          "description": "Say goodbye to traditional workflows and embrace Agile to unlock the power of high-quality code. Discover how Agile methodologies promote simplicity, modularization, readability, and continuous improvement, resulting in faster turnaround times, more responsive development processes, and ultimately, the creation of high-quality software that meets customer needs.",
+          "link": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
+          "publishedOn": "2023-05-25T11:00:00.000Z",
+          "wordCount": 5644,
+          "title": "The Impact Of Agile Methodologies On Code Quality",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.",
@@ -250,21 +280,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/ux-web3-mass-adoption/",
-          "author": "hello@smashingmagazine.com (Pete Boyle)",
-          "description": "The decentralized web is our new reality, but Web3 UX is shockingly bad. In this article, Pete Boyle addresses the major shortcomings in Web3 adoption and how we might be able to solve them and make the entire ecosystem more user-friendly.",
-          "link": "https://smashingmagazine.com/2023/04/ux-web3-mass-adoption/",
-          "publishedOn": "2023-04-25T15:30:00.000Z",
-          "wordCount": 6996,
-          "title": "Could UX Be The Key To Unlocking Web3 Mass Adoption?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-web3-mass-adoption/ux-web3-mass-adoption.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ux-web3-mass-adoption/ux-web3-mass-adoption.png"
         }
       ]
     },
@@ -273,6 +288,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-sort-dictionary-by-key/",
+          "author": "Shittu Olumide",
+          "description": "Sorting is a fundamental operation in computer programming that involves arranging elements in a specific order.  Whether you're working with numbers, strings, or complex data structures, sorting plays a crucial role in organizing and manipulating data efficiently.  From small arrays to large datasets, sorting algorithms allow programmers to",
+          "link": "https://www.freecodecamp.org/news/python-sort-dictionary-by-key/",
+          "publishedOn": "2023-05-25T23:57:54.000Z",
+          "wordCount": 1329,
+          "title": "Python Sort Dictionary by Key – How to Sort a Dict with Keys",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Python-Sort-Dictionary-by-Key---How-to-Sort-a-Dict-with-Keys.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/",
+          "author": "Amazing Enyichi Agu",
+          "description": "If you're thinking about doing back-end development using JavaScript, you will hear the term ‘Node.js’. Node is often associated with developing powerful web servers. But what exactly is Node.js? Is it a JavaScript framework just like Angular [https://angular.io/]? Is it a programming language? Is it a JavaScript Library? Is it",
+          "link": "https://www.freecodecamp.org/news/what-exactly-is-node-guide-for-beginners/",
+          "publishedOn": "2023-05-25T23:08:59.000Z",
+          "wordCount": 3349,
+          "title": "What Exactly is Node.js? A Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/revised_node.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-golang-handbook/",
+          "author": "Lane Wagner",
+          "description": "The Go programming languagehas been exploding in popularity. Tons of companies are using Go to build scalable, modern, backend infrastructure.  If you're looking to learn a new programming language, Go is a great choice. It's fast, lightweight, has an amazing open source community, and is actually quite easy to",
+          "link": "https://www.freecodecamp.org/news/learn-golang-handbook/",
+          "publishedOn": "2023-05-25T18:11:18.000Z",
+          "wordCount": 13539,
+          "title": "The Golang Handbook – A Beginner's Guide to Learning Go",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/maxresdefault.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-and-deploy-a-leetcode-clone-with-react-next-js-typescript-tailwind-css-firebase/",
+          "author": "Beau Carnes",
+          "description": "Solving coding challenges on the LeetCode website is a great way to improve your developer skills. But an even better way to improve your skills is to develop your own LeetCode website. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build and",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-leetcode-clone-with-react-next-js-typescript-tailwind-css-firebase/",
+          "publishedOn": "2023-05-25T15:09:01.000Z",
+          "wordCount": 1177,
+          "title": "Build and Deploy a LeetCode Clone with React, Next JS, TypeScript, Tailwind CSS, Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/leetcode.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-component-lifecycle-methods/",
+          "author": "Valentine Gatwiri",
+          "description": "In React, components have a lifecycle that consists of different phases. Each phase has a set of lifecycle methods that are called at specific points in the component's lifecycle. These methods allow you to control the component's behavior and perform specific actions at different stages of its lifecycle. A component's",
+          "link": "https://www.freecodecamp.org/news/react-component-lifecycle-methods/",
+          "publishedOn": "2023-05-25T14:28:35.000Z",
+          "wordCount": 3383,
+          "title": "React Component Lifecycle Methods – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Screenshot-from-2023-05-23-10-50-48.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/aws-basics-for-devops/",
+          "author": "Satyam Tripathi",
+          "description": "To create an application like WhatsApp or Facebook, you'd need many servers (30-40), operating system licenses, routers, cables, switches, gateways, air conditioning units, and employees for maintenance.  All this can be expensive and time-consuming, and there is no guarantee that the application will be successful in the market. But",
+          "link": "https://www.freecodecamp.org/news/aws-basics-for-devops/",
+          "publishedOn": "2023-05-25T14:26:19.000Z",
+          "wordCount": 2081,
+          "title": "AWS Basics for DevOps – How to Setup a Linux Machine",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Getting-Started-With-DevOps.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/socket-programming-in-python/",
+          "author": "P S Mohammed Ali",
+          "description": "In this article, you will learn how to code a socket program in Python. But before that, let's understand what a socket is and where you might use it. We can define a socket as a quick connection which allows the transmission of data between two processes on the same",
+          "link": "https://www.freecodecamp.org/news/socket-programming-in-python/",
+          "publishedOn": "2023-05-25T14:25:40.000Z",
+          "wordCount": 1792,
+          "title": "What is Socket Programming in Python?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/ab_networks_network_8uds-1030x438-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "Accessibility is a word that is often thrown around in the design field. As a UI/UX/Web Designer, you might have heard this word a few times and you might wonder why it's important.  In this article, you will learn:  * What accessibility means  * Some myths surrounding",
+          "link": "https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/",
+          "publishedOn": "2023-05-25T14:18:24.000Z",
+          "wordCount": 1751,
+          "title": "Why Accessibility Matters in UI/UX Design",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels--------------3077882.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/",
           "author": "Shittu Olumide",
@@ -1402,76 +1497,6 @@
           "wordCount": 1860,
           "title": "How to Prevent Infinite Loops When Using useEffect() in ReactJS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/preventing-infinite-loops-react.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/function-declaration-vs-function-expression/",
-          "author": "Dillion Megida",
-          "description": "When creating functions, you can use two approaches: declaration and expression. What's the difference? When talking about functions in JavaScript, you would often hear function declarations and function expressions. Though these approaches are almost similar, they have notable differences. We'll look at the differences in this article. I have a",
-          "link": "https://www.freecodecamp.org/news/function-declaration-vs-function-expression/",
-          "publishedOn": "2023-04-26T12:11:48.000Z",
-          "wordCount": 1987,
-          "title": "Function Declaration vs Function Expression",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/26-function-declaration-vs-expression.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-java-used-for/",
-          "author": "Shittu Olumide",
-          "description": "Java is a very popular programming language you can use to create a variety of software applications. It's an object-oriented language that was made to be simple to read, write, and learn.  Millions of developers use Java to create everything from desktop programs to sophisticated web apps. This makes",
-          "link": "https://www.freecodecamp.org/news/what-is-java-used-for/",
-          "publishedOn": "2023-04-25T21:26:57.000Z",
-          "wordCount": 1579,
-          "title": "What is Java Used For in 2023? The Java Programming Language and Java Platform Strengths",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Shittu-Olumide-What-is-Java-Used-For-in-2022-The-Java-Programming-Language-and-Java-Platform-Strengths-3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/",
-          "author": "Otavio Ehrenberger",
-          "description": "You may have heard how students can use ChatGPT [https://chat.openai.com] to cheat on assignments. But we should also talk about what a fantastic study tool it can be.  In this article we'll discuss how you can use ChatGPT to help you study and learn new skills. You'll see how",
-          "link": "https://www.freecodecamp.org/news/supercharged-studying-with-python-anki-chatgpt/",
-          "publishedOn": "2023-04-25T20:35:46.000Z",
-          "wordCount": 2505,
-          "title": "How to Supercharge Your Studying with Python, Anki, and ChatGPT",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-pixabay-256302.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/",
-          "author": "Joel Olawanle",
-          "description": "JavaScript arrays are an important part of the language. They allow you to store and manipulate collections of data. Sometimes, you may need to insert a new element into an array at a specific index. To accomplish this task, you can use the push() method or the splice()  method.",
-          "link": "https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/",
-          "publishedOn": "2023-04-25T18:14:43.000Z",
-          "wordCount": 1488,
-          "title": "How to Insert into a JavaScript Array at a Specific Index – JS Push",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-template--11-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/zustand-course-react-state-management/",
-          "author": "Beau Carnes",
-          "description": "Modern web applications demand efficient and easy-to-use state management solutions that don't compromise on flexibility or performance. Zustand, a minimalistic state management library for React, offers just that. We just released a course on the freeCodeCamp.org YouTube channel that will help you unlock the full potential of Zustand and create",
-          "link": "https://www.freecodecamp.org/news/zustand-course-react-state-management/",
-          "publishedOn": "2023-04-25T17:21:39.000Z",
-          "wordCount": 914,
-          "title": "Mastering Zustand: A Simple and Efficient State Management Library for React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/zustand.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-upload-files-to-aws-s3-with-node/",
-          "author": "Fiyinfoluwa Akinsiku",
-          "description": "File upload is a common feature in a lot of modern applications. These platforms accept different file formats, including jpeg, png, gif, pdf, txt, zip, and mp3.  Some applications will also restrict uploads to a specific file type. For example, when uploading your resume on LinkedIn, you will see",
-          "link": "https://www.freecodecamp.org/news/how-to-upload-files-to-aws-s3-with-node/",
-          "publishedOn": "2023-04-25T16:31:46.000Z",
-          "wordCount": 3276,
-          "title": "How to Upload Files to Amazon S3 with Node.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pexels-cottonbro-studio-3584994.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-interactive-accordion-component-with-react-and-gsap/",
-          "author": "Jaja Ibifubara David",
-          "description": "As websites become more sophisticated and user expectations continue to rise, web developers must search for ways to create more engaging and interactive user interfaces.  One powerful tool in a developer's arsenal is the accordion component, a versatile and widely-used element found on nearly every website.  In this",
-          "link": "https://www.freecodecamp.org/news/build-an-interactive-accordion-component-with-react-and-gsap/",
-          "publishedOn": "2023-04-25T15:47:34.000Z",
-          "wordCount": 4778,
-          "title": "How to Build an Interactive Accordion Component with React and GSAP",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Cover-image-1.png"
         }
       ]
     }
