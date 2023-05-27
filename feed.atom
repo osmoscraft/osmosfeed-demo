@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-26T01:04:03.743Z</updated>
+    <updated>2023-05-27T01:05:42.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Designing A Better Design Handoff File In Figma]]></title>
+        <id>https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/</id>
+        <link href="https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/"/>
+        <updated>2023-05-26T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ben Shih)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strings in C# – What's New, Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/new-ish-things-about-c-strings/</id>
+        <link href="https://www.freecodecamp.org/news/new-ish-things-about-c-strings/"/>
+        <updated>2023-05-26T13:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Much of what we work with in our code are strings. Let's look at some of the newish things about C# strings ... including raw string literals and raw string interpolation that are new in C# 11. Raw string literals make it easy to build complex, multi-line strings, including JSON,]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Golang Environment – GOPATH vs go.mod]]></title>
+        <id>https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/</id>
+        <link href="https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/"/>
+        <updated>2023-05-26T00:23:11.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll explore the differences between the traditional GOPATH  environment and the go.mod based environment for Go programming.  This distinction has significant implications for how Go developers structure and manage their project workspaces and dependencies. We'll start by understanding the GOPATH environment, its organization and its]]></summary>
+        <author>
+            <name>Otavio Ehrenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Data Validation Rules in Excel]]></title>
+        <id>https://www.freecodecamp.org/news/create-data-validation-rules-excel/</id>
+        <link href="https://www.freecodecamp.org/news/create-data-validation-rules-excel/"/>
+        <updated>2023-05-26T00:07:47.000Z</updated>
+        <summary type="html"><![CDATA[Data validation is a feature in Excel used in restricting data entry in specific cells. It can also prompt the user to enter valid data into the cells based on the rules and restrictions provided by the creator of the Excel worksheet.  When setting up a workbook, you might]]></summary>
+        <author>
+            <name>Faith Oyama</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Sort Dictionary by Key – How to Sort a Dict with Keys]]></title>
         <id>https://www.freecodecamp.org/news/python-sort-dictionary-by-key/</id>
@@ -1314,86 +1354,6 @@
         <summary type="html"><![CDATA[Hi everyone! In this tutorial we're going to take a deep dive into REST APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a REST API.]]></summary>
         <author>
             <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do I Enable Square Brackets in RegEx?]]></title>
-        <id>https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/</id>
-        <link href="https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/"/>
-        <updated>2023-04-27T12:31:45.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you’ll learn about what square brackets do in regular expressions, how to use them for specifying ranges, and how to match them as a character. What Does Square Bracket Do in RegEx? In regular expressions, square brackets ([ ]) are characters that have a special meaning of]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible Target Sizes Cheatsheet]]></title>
-        <id>https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/</id>
-        <link href="https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/"/>
-        <updated>2023-04-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[strcmp in C – How to Compare Strings in C]]></title>
-        <id>https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/</id>
-        <link href="https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/"/>
-        <updated>2023-04-26T20:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Comparing strings is a common task in most programming languages. In C, you can use the strcmp function to handle string comparisons.  In this article, I will show you practical examples of the strcmp function, and offer insights into how it compares strings, what its return values mean, and]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Ternary Operator – Conditional Operators in Python]]></title>
-        <id>https://www.freecodecamp.org/news/python-tenary-operator/</id>
-        <link href="https://www.freecodecamp.org/news/python-tenary-operator/"/>
-        <updated>2023-04-26T15:29:37.000Z</updated>
-        <summary type="html"><![CDATA[You can use conditional operators in Python to execute code based on a predefined condition(s).  In this article, you'll learn how to use the ternary operator in Python. You'll see its syntax along with some practical examples.  What Is the Ternary Operator Used for in Python? The ternary]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Simple Website with HTML, CSS, JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/"/>
-        <updated>2023-04-26T14:59:39.000Z</updated>
-        <summary type="html"><![CDATA[Embark on an exciting journey to master frontend development with this course created by Jess, the expert behind the acclaimed Coder Coder YouTube channel. This comprehensive course on the freeCodeCamp.org YouTube channel is tailored to empower you with the knowledge and skills required to excel in JavaScript, HTML, and CSS,]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Changes to an Application – Deployment Strategies Explained]]></title>
-        <id>https://www.freecodecamp.org/news/application-deployment-strategies/</id>
-        <link href="https://www.freecodecamp.org/news/application-deployment-strategies/"/>
-        <updated>2023-04-26T14:41:00.000Z</updated>
-        <summary type="html"><![CDATA[When deploying changes to an application, there are several strategies you can use.  In this article, I'll explain the different strategies with an analogy, and then we'll analyze the benefits and tradeoffs. Deployment Strategies Imagine you are the manager of a popular pizza restaurant that is open 24/7 for]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Does M Mean in Regular Expressions? M Flag for RegEx]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/"/>
-        <updated>2023-04-26T14:31:31.000Z</updated>
-        <summary type="html"><![CDATA[In regular expressions, "m" is a flag that signifies multiple lines. So, it is popularly called the "multiline flag". In this article, I will show you what the "m" flag does and how you can use it in both regex engines and JavaScript. What Does the "m" Flag Do? Sometimes,]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prevent Infinite Loops When Using useEffect() in ReactJS]]></title>
-        <id>https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/</id>
-        <link href="https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/"/>
-        <updated>2023-04-26T14:07:12.000Z</updated>
-        <summary type="html"><![CDATA[The useEffect hook in React has become a common tool for managing side effects in functional components. But there's a common pitfall when using it: the potential for infinite loops. These can cause performance issues and disrupt the intended behavior of components.  In this tutorial, we will explore how]]></summary>
-        <author>
-            <name>Roy Chng</name>
         </author>
     </entry>
 </feed>

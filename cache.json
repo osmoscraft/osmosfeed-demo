@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
+          "author": "hello@smashingmagazine.com (Ben Shih)",
+          "description": "This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.",
+          "link": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
+          "publishedOn": "2023-05-26T15:30:00.000Z",
+          "wordCount": 5877,
+          "title": "Designing A Better Design Handoff File In Figma",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-better-design-handoff-file-figma/designing-better-design-handoff-file-figma.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/success-at-scale-pre-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Meet “Success At Scale”, our upcoming book with best-practice case studies from industry experts. Print and eBook shipping in fall 2023. Pre-order the book.",
@@ -265,21 +280,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/write-better-css-borrow-ideas-functions/write-better-css-borrow-ideas-javascript-functions.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Practical guidelines to prevent rage taps and rage clicks with accessible tap targets for icons, links and buttons — on desktop and on mobile. With useful techniques and guidelines.",
-          "link": "https://smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/",
-          "publishedOn": "2023-04-27T12:00:00.000Z",
-          "wordCount": 4118,
-          "title": "Accessible Target Sizes Cheatsheet",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/accessible-tap-target-sizes-rage-taps-clicks/accessible-tap-target-sizes-rage-taps-clicks.png"
         }
       ]
     },
@@ -288,6 +288,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/new-ish-things-about-c-strings/",
+          "author": "Deborah Kurata",
+          "description": "Much of what we work with in our code are strings. Let's look at some of the newish things about C# strings ... including raw string literals and raw string interpolation that are new in C# 11. Raw string literals make it easy to build complex, multi-line strings, including JSON,",
+          "link": "https://www.freecodecamp.org/news/new-ish-things-about-c-strings/",
+          "publishedOn": "2023-05-26T13:49:06.000Z",
+          "wordCount": 2460,
+          "title": "Strings in C# – What's New, Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/things-about-strings.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/",
+          "author": "Otavio Ehrenberger",
+          "description": "In this article, we'll explore the differences between the traditional GOPATH  environment and the go.mod based environment for Go programming.  This distinction has significant implications for how Go developers structure and manage their project workspaces and dependencies. We'll start by understanding the GOPATH environment, its organization and its",
+          "link": "https://www.freecodecamp.org/news/golang-environment-gopath-vs-go-mod/",
+          "publishedOn": "2023-05-26T00:23:11.000Z",
+          "wordCount": 2424,
+          "title": "Golang Environment – GOPATH vs go.mod",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-james-wheeler-1578750.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-data-validation-rules-excel/",
+          "author": "Faith Oyama",
+          "description": "Data validation is a feature in Excel used in restricting data entry in specific cells. It can also prompt the user to enter valid data into the cells based on the rules and restrictions provided by the creator of the Excel worksheet.  When setting up a workbook, you might",
+          "link": "https://www.freecodecamp.org/news/create-data-validation-rules-excel/",
+          "publishedOn": "2023-05-26T00:07:47.000Z",
+          "wordCount": 1314,
+          "title": "How to Create Data Validation Rules in Excel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-262438.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-sort-dictionary-by-key/",
           "author": "Shittu Olumide",
@@ -1427,76 +1457,6 @@
           "wordCount": 6753,
           "title": "The REST API Handbook – How to Build, Test, Consume, and Document REST APIs",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/pavan-trikutam-71CjSSB83Wo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/",
-          "author": "Kolade Chris",
-          "description": "In this article, you’ll learn about what square brackets do in regular expressions, how to use them for specifying ranges, and how to match them as a character. What Does Square Bracket Do in RegEx? In regular expressions, square brackets ([ ]) are characters that have a special meaning of",
-          "link": "https://www.freecodecamp.org/news/how-do-i-enable-square-brackets-in-regex/",
-          "publishedOn": "2023-04-27T12:31:45.000Z",
-          "wordCount": 1114,
-          "title": "How do I Enable Square Brackets in RegEx?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/regexSquareBrackets.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Comparing strings is a common task in most programming languages. In C, you can use the strcmp function to handle string comparisons.  In this article, I will show you practical examples of the strcmp function, and offer insights into how it compares strings, what its return values mean, and",
-          "link": "https://www.freecodecamp.org/news/strcmp-in-c-how-to-compare-strings-in-c/",
-          "publishedOn": "2023-04-26T20:32:19.000Z",
-          "wordCount": 2291,
-          "title": "strcmp in C – How to Compare Strings in C",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/max-duzij-qAjJk-un3BI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-tenary-operator/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use conditional operators in Python to execute code based on a predefined condition(s).  In this article, you'll learn how to use the ternary operator in Python. You'll see its syntax along with some practical examples.  What Is the Ternary Operator Used for in Python? The ternary",
-          "link": "https://www.freecodecamp.org/news/python-tenary-operator/",
-          "publishedOn": "2023-04-26T15:29:37.000Z",
-          "wordCount": 914,
-          "title": "Python Ternary Operator – Conditional Operators in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/chris-ried-ieic5Tq8YMk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/",
-          "author": "Beau Carnes",
-          "description": "Embark on an exciting journey to master frontend development with this course created by Jess, the expert behind the acclaimed Coder Coder YouTube channel. This comprehensive course on the freeCodeCamp.org YouTube channel is tailored to empower you with the knowledge and skills required to excel in JavaScript, HTML, and CSS,",
-          "link": "https://www.freecodecamp.org/news/create-a-simple-website-with-html-css-javascript/",
-          "publishedOn": "2023-04-26T14:59:39.000Z",
-          "wordCount": 954,
-          "title": "Create a Simple Website with HTML, CSS, JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/codercoder.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/application-deployment-strategies/",
-          "author": "Daniel Adetunji",
-          "description": "When deploying changes to an application, there are several strategies you can use.  In this article, I'll explain the different strategies with an analogy, and then we'll analyze the benefits and tradeoffs. Deployment Strategies Imagine you are the manager of a popular pizza restaurant that is open 24/7 for",
-          "link": "https://www.freecodecamp.org/news/application-deployment-strategies/",
-          "publishedOn": "2023-04-26T14:41:00.000Z",
-          "wordCount": 3039,
-          "title": "How to Deploy Changes to an Application – Deployment Strategies Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/cover-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/",
-          "author": "Kolade Chris",
-          "description": "In regular expressions, \"m\" is a flag that signifies multiple lines. So, it is popularly called the \"multiline flag\". In this article, I will show you what the \"m\" flag does and how you can use it in both regex engines and JavaScript. What Does the \"m\" Flag Do? Sometimes,",
-          "link": "https://www.freecodecamp.org/news/what-does-m-mean-in-regular-expressions-m-flag-for-regex/",
-          "publishedOn": "2023-04-26T14:31:31.000Z",
-          "wordCount": 1016,
-          "title": "What Does M Mean in Regular Expressions? M Flag for RegEx",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/mFlagRegex.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/",
-          "author": "Roy Chng",
-          "description": "The useEffect hook in React has become a common tool for managing side effects in functional components. But there's a common pitfall when using it: the potential for infinite loops. These can cause performance issues and disrupt the intended behavior of components.  In this tutorial, we will explore how",
-          "link": "https://www.freecodecamp.org/news/prevent-infinite-loops-when-using-useeffect-in-reactjs/",
-          "publishedOn": "2023-04-26T14:07:12.000Z",
-          "wordCount": 1860,
-          "title": "How to Prevent Infinite Loops When Using useEffect() in ReactJS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/preventing-infinite-loops-react.png"
         }
       ]
     }
