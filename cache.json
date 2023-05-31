@@ -250,21 +250,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-60/ep-60.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop and mobile wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2023/04/desktop-wallpaper-calendars-may-2023/",
-          "publishedOn": "2023-04-30T15:00:00.000Z",
-          "wordCount": 5089,
-          "title": "Make Your May Magnificent (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-23-the-mushroom-band-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-23-the-mushroom-band-preview-opt.png"
         }
       ]
     },
@@ -273,6 +258,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-cookies-to-customize-web-page-content/",
+          "author": "Marco Venturi",
+          "description": "If you develop websites or web apps, someday you’ll have to deal with cookies. That’s why I decided to write this tutorial on how to use cookies to customize a web page according to the previous web page the user comes from.  I wrote this tutorial using PHP, but",
+          "link": "https://www.freecodecamp.org/news/how-to-use-cookies-to-customize-web-page-content/",
+          "publishedOn": "2023-05-30T22:04:35.000Z",
+          "wordCount": 1695,
+          "title": "How to Use Cookies to Customize a Web Page's Content",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/vyshnavi-bisani-z8kriatLFdA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-full-stack-application-with-nextjs/",
+          "author": "Yazdun Fadali",
+          "description": "Next.js can seem intimidating at first, with so many new concepts to grasp. But don't worry – in this step-by-step tutorial, I will provide you with all the essential information you need to create your first modern full-stack application with Next.js. In this tutorial, I will take you through the",
+          "link": "https://www.freecodecamp.org/news/build-a-full-stack-application-with-nextjs/",
+          "publishedOn": "2023-05-30T21:54:36.000Z",
+          "wordCount": 6847,
+          "title": "How to Create a Full-Stack Application with Next.js – A Step-By-Step Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Frame-3-2.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update/",
+          "author": "Brian Barrow",
+          "description": "Back in 2020, I wrote a post [/news/how-to-create-and-publish-a-vue-component-library/] about building a Vue Component library. Since then the package I used has been deprecated, and the recommended way to build a library/package is to use Vite.  Getting Started I started off the project by running npm create vite@latest and naming",
+          "link": "https://www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update/",
+          "publishedOn": "2023-05-30T20:11:28.000Z",
+          "wordCount": 1408,
+          "title": "How to Create and Publish a Vue Component Library – 2023 Update",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-159711.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/responsive-design-best-practices/",
+          "author": "Fakorede Damilola",
+          "description": "The way we interact with the web has changed dramatically, and it will keep changing. In the past, most people used desktop computers to access the internet. But today, people are using a wide variety of devices, including laptops, tablets, and smartphones. This has resulted in a growing demand for",
+          "link": "https://www.freecodecamp.org/news/responsive-design-best-practices/",
+          "publishedOn": "2023-05-30T20:04:07.000Z",
+          "wordCount": 3461,
+          "title": "How to Build Responsive Websites – Best Practices for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/responsive-g619d39e59_1280.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/graphql-queries-for-everyone/",
+          "author": "Velda Kiara",
+          "description": "I enjoy fictional books about greek gods, demigods, the oracle, and prophecies.  I am a huge fan of Rick Riordan's books. I recently came across Apollo's Trials, based on the greek god Apollo.  When I hear any mention of Apollo, my mind goes to the greek god who",
+          "link": "https://www.freecodecamp.org/news/graphql-queries-for-everyone/",
+          "publishedOn": "2023-05-30T18:07:33.000Z",
+          "wordCount": 2817,
+          "title": "GraphQL Tutorial – How to Query The Rick and Morty API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cover-image--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/logical-operators-in-php/",
+          "author": "Michael Para",
+          "description": "Logical operators play a key role in programming languages. They let you manipulate boolean values and evaluate logical conditions.  In PHP, there are four fundamental logical operators: AND, OR, NOT, and XOR. This guide will help you understand these operators, and I'll explain how they work using code examples",
+          "link": "https://www.freecodecamp.org/news/logical-operators-in-php/",
+          "publishedOn": "2023-05-30T17:35:08.000Z",
+          "wordCount": 1487,
+          "title": "Logical Operators in PHP – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are learning machine learning / deep learning, you may be using the free  Google Colab [https://colab.research.google.com/]. But you might wonder if the free version is adequate.  If you can afford a good Nvidia Graphics Card (with a decent amount of CUDA cores) then you can easily",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/",
+          "publishedOn": "2023-05-30T14:58:31.000Z",
+          "wordCount": 3185,
+          "title": "How to Setup a Windows Machine for Machine Learning/Deep Learning Using an Nvidia Graphics Card (CUDA)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/arseny-togulev-MECKPoKJYjM-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/",
+          "author": "Shittu Olumide",
+          "description": "Version control is a system that helps manage changes to files and directories over time. It allows multiple people to collaborate on a project, keep track of modifications, and revert to previous versions if needed.  One of the most popular version control systems is Git. Git [https://git-scm.com/] is a",
+          "link": "https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/",
+          "publishedOn": "2023-05-30T14:18:30.000Z",
+          "wordCount": 1825,
+          "title": "Git Abort Merge – How to Cancel a Merge in Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Git-Abort-Merge---How-to-Cancel-a-Merge-in-Git.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/",
+          "author": "Dillion Megida",
+          "description": "Have you ever gotten an error similar to this? This error occurs because the call stack has exceeded its limit. But what does this mean? First, let's understand what the call stack is. The Call Stack The call stack is a data structure in JavaScript that contains the function(s) being",
+          "link": "https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/",
+          "publishedOn": "2023-05-30T07:56:07.000Z",
+          "wordCount": 1797,
+          "title": "What does the \"Maximum call stack exceeded\" error mean?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/29-maximum-call-stack-exceeded.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/new-ish-things-about-c-strings/",
           "author": "Deborah Kurata",
