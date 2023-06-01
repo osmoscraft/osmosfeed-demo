@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
+          "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
+          "publishedOn": "2023-05-31T08:00:00.000Z",
+          "wordCount": 5295,
+          "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/designing-better-design-handoff-file-figma/",
           "author": "hello@smashingmagazine.com (Ben Shih)",
           "description": "This article provides practical tips for improving the handoff process between design and development in product development. The guidance covers effective communication, documentation, design details, version control, and plugin usage.",
@@ -235,21 +250,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/effective-password-management/effective-password-management.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "We’re talking about the process of design. How do you build a process to enable your best work? Vitaly Friedman talks to designer Mei Zhang to find out.",
-          "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-60/",
-          "publishedOn": "2023-05-02T12:00:00.000Z",
-          "wordCount": 8960,
-          "title": "Smashing Podcast Episode 60 With Mei Zhang: What Is Design Storytelling?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-60/ep-60.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-60/ep-60.png"
         }
       ]
     },
@@ -258,6 +258,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/",
+          "author": "Joel Olawanle",
+          "description": "Dates are a fundamental part of many JavaScript applications, whether it's displaying the current date on a webpage or handling user input for scheduling events. But displaying dates in a clear and consistent format is crucial for a positive user experience. In the past, I have written two articles on",
+          "link": "https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/",
+          "publishedOn": "2023-05-31T17:48:04.000Z",
+          "wordCount": 1604,
+          "title": "How to Format a Date with JavaScript – Date Formatting in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cover-template.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/",
+          "author": "Liz Johnson",
+          "description": "If you've been using GitHub for a while, you've probably heard of or used GitHub actions.  If you haven't heard of Github Actions or used them before, you can use them for automating your build, test, or deployment pipelines. You can create workflows that will be triggered upon certain",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/",
+          "publishedOn": "2023-05-31T17:25:11.000Z",
+          "wordCount": 2080,
+          "title": "How to Build a Simple Deployment Pipeline with Reusable Github Actions and Heroku",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/AdobeStock_131006414-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-temp-table-how-to-create-a-temporary-sql-table/",
+          "author": "Shittu Olumide",
+          "description": "SQL, which stands for Structured Query Language, is a programming language specifically designed for managing and manipulating relational databases.  It provides a standardized way to interact with databases and perform tasks such as querying data, inserting, updating, and deleting records, creating and modifying database structures, and more. SQL is",
+          "link": "https://www.freecodecamp.org/news/sql-temp-table-how-to-create-a-temporary-sql-table/",
+          "publishedOn": "2023-05-31T17:22:54.000Z",
+          "wordCount": 1772,
+          "title": "SQL Temp Table – How to Create a Temporary SQL Table",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-SQL-Temp-Table---How-to-Create-a-Temporary-SQL-Table.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-aws-cognito-for-user-authentication/",
+          "author": "Arunachalam B",
+          "description": "When you're building complex applications, one seemingly simple feature can be difficult to implement: user authentication.  Though some apps don't need it depending on their use case, many do. You might spend a ton of time building an authentication module to provide a secure experience to your users and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-aws-cognito-for-user-authentication/",
+          "publishedOn": "2023-05-31T17:01:00.000Z",
+          "wordCount": 2462,
+          "title": "How to Use AWS Cognito for User Authentication",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/AWS-cognito.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-playbooks-for-incident-recovery/",
+          "author": "David Clinton",
+          "description": "A playbook is the official, formal written record that describes policies and processes that will reliably produce a working deployment of an organization's resource stack. When it comes to generating predictable results, the playbook is  the plan. I'll describe all the key elements of a good playbook in just",
+          "link": "https://www.freecodecamp.org/news/use-playbooks-for-incident-recovery/",
+          "publishedOn": "2023-05-31T01:28:09.000Z",
+          "wordCount": 1663,
+          "title": "How to Use Playbooks to Execute an Incident Recovery Plan",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-mateusz-dach-353644.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-cookies-to-customize-web-page-content/",
           "author": "Marco Venturi",
@@ -297,6 +347,16 @@
           "wordCount": 3461,
           "title": "How to Build Responsive Websites – Best Practices for Developers",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/responsive-g619d39e59_1280.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scenes/",
+          "author": "Esther Christopher",
+          "description": "So you may know that your code somehow compiles and executes in your browser to display the beautiful web application you’ve built. But are you aware of all the components that come into play to enable the output?  Let’s dive a little into JavaScript behind the scenes. The abstract",
+          "link": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scenes/",
+          "publishedOn": "2023-05-30T18:41:00.000Z",
+          "wordCount": 2077,
+          "title": "How Does JavaScript Work Behind the Scenes? JS Engine and Runtime Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/CFF8A164-D6C4-4A88-85F2-388E83A2E3E7.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/graphql-queries-for-everyone/",
@@ -1387,66 +1447,6 @@
           "wordCount": 1665,
           "title": "What is SSH? SSH Meaning in Linux",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-What-is-SSH-SSH-Meaning-in-Linux.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this tutorial we're going to take a deep dive into GraphQL APIs. I recently wrote this article [/news/rest-vs-graphql-apis/] where I explained the main differences between common API types nowadays. And this tutorial aims to show you an example of how you can fully implement a GraphQL API.",
-          "link": "https://www.freecodecamp.org/news/building-consuming-and-documenting-a-graphql-api/",
-          "publishedOn": "2023-05-02T13:23:30.000Z",
-          "wordCount": 9114,
-          "title": "The GraphQL API Handbook – How to Build, Test, Consume and Document GraphQL APIs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/jj-ying-8bghKxNU1j0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/",
-          "author": "Alberto Gonzalez Rosales",
-          "description": "I recently wrote about how competitive programmers debug their solutions during competitions [/news/debugging-like-competitive-programmers/]. We take advantage of randomization and the computing power in the devices we use daily.  That article was selected as one of the winners of the DebuggingFeb Writeathon [https://townhall.hashnode.com/debuggingfeb-writeathon-winners] and got a lot of visibility from",
-          "link": "https://www.freecodecamp.org/news/build-a-stress-tester-debugging-tool/",
-          "publishedOn": "2023-05-02T08:57:35.000Z",
-          "wordCount": 3091,
-          "title": "How to Build a Stress Tester Tool for Debugging Your Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/nathan-dumlao-pMW4jzELQCw-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/",
-          "author": "Abel Lifaefi Mbula",
-          "description": "If you’re just at the beginning of your journey in PHP development, chances are that you use complete file names in the URL to navigate your application, like  server/contact.php. No worries, we all started that way, and it’s how we learn. Today, I want to help you improve how",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-routing-system-in-php/",
-          "publishedOn": "2023-05-02T08:36:11.000Z",
-          "wordCount": 1838,
-          "title": "How to Build a Routing System for a PHP App from Scratch",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Pink-8-March-Happy-Woman-s-Day-Facebook-Post-1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/",
-          "author": "Avdhoot Fulsundar",
-          "description": "Java is a powerful programming language to develop software in. And if you're trying to learn it, that's great. The first thing you'll need to know to develop software in Java is Object Oriented Programming, or OOP for short. Now if you're asking yourself, \"What is OOP?\" don't worry. We'll",
-          "link": "https://www.freecodecamp.org/news/object-oriented-programming-basics-oop-classes-and-objects-in-java/",
-          "publishedOn": "2023-05-02T07:33:30.000Z",
-          "wordCount": 1760,
-          "title": "Object Oriented Programming Basics – OOP, Classes, and Objects in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Gradient-Modern-Digital-Marketing-Facebook-Cover--51-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-a-multiline-comment-in-yaml/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can use a YAML file to store data in a format that can be easily read and understood by humans. It is a data serialization language [/news/what-is-yaml-the-yml-file-format/#intro:~:text=Serialization%20is%20a%20process%20where%20one%20application%20or%20service%20that%20has%20different%20data%20structures%20and%20is%20written%20in%20a%20different%20set%20of%20technologies%20can%20transfer%20data%20to%20another%20application%20using%20a%20standard%20format.]  that is often used for configurat",
-          "link": "https://www.freecodecamp.org/news/how-to-add-a-multiline-comment-in-yaml/",
-          "publishedOn": "2023-05-01T18:28:28.000Z",
-          "wordCount": 956,
-          "title": "YAML Commenting – How to Add a Multiline Comment in YAML",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/vipul-jha-a4X1cdC1QAc-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-python-from-harvard-university/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to embark on a journey to learn one of the most popular programming languages in the world? Introducing Harvard University's CS50P: Introduction to Programming with Python, a comprehensive video course tailored to teach Python programming from scratch. Taught by the renowned Dr. David J. Malan, this course",
-          "link": "https://www.freecodecamp.org/news/learn-python-from-harvard-university/",
-          "publishedOn": "2023-05-01T14:11:40.000Z",
-          "wordCount": 981,
-          "title": "Learn Python from Harvard University",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cs50python.png"
         }
       ]
     }
