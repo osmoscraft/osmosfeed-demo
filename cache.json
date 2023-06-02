@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
+          "link": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
+          "publishedOn": "2023-06-01T10:00:00.000Z",
+          "wordCount": 6270,
+          "title": "Advanced Form Control Styling With Selectmenu And Anchoring API",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
@@ -258,6 +273,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/",
+          "author": "Beau Carnes",
+          "description": "You can level up your web development skills by harnessing the power of AI. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build AI apps with ChatGPT, Dall-E, and GPT-4. This course is designed to equip you with the knowledge and skills",
+          "link": "https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/",
+          "publishedOn": "2023-06-01T17:55:28.000Z",
+          "wordCount": 1070,
+          "title": "Build AI Apps with ChatGPT, Dall-E, and GPT-4",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/aiapps.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-neo4j-database-course/",
+          "author": "Beau Carnes",
+          "description": "Neo4j is revolutionizing the way we handle complex relationships between data points. Its intuitive graph-based structure provides a flexible and efficient solution for various applications. We just published a Neo4j course on the freeCodeCamp.org YouTube channel. Whether you're a developer, a data scientist, or an aspiring technology enthusiast, this course",
+          "link": "https://www.freecodecamp.org/news/learn-neo4j-database-course/",
+          "publishedOn": "2023-06-01T16:49:15.000Z",
+          "wordCount": 994,
+          "title": "Learn to Build Graph Databases with Neo4j (Full Course)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/neo4j.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/",
+          "author": "Shane Duggan",
+          "description": "You may have read about the large number of AI apps that have been released over the last couple of months. You may have even started using some of them. AI tools such as ChatPDF [https://www.chatpdf.com/] and CustomGPT AI [https://customgpt.ai/use-cases/] have become very useful to people – and for good",
+          "link": "https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/",
+          "publishedOn": "2023-06-01T15:41:20.000Z",
+          "wordCount": 2722,
+          "title": "LangChain Tutorial – How to Build a Custom-Knowledge Chatbot",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/ThumbnailArticle--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-data-visualization-is-important-for-ux-design/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "These days, we find ourselves consuming vast amounts of information, at an unprecedented rate. From online transactions, to social media interactions, to scientific research, the complexity of data grows exponentially. This reveals a challenge — how to transform this raw data to actionable insight.  This is where data visualization",
+          "link": "https://www.freecodecamp.org/news/why-data-visualization-is-important-for-ux-design/",
+          "publishedOn": "2023-06-01T15:39:07.000Z",
+          "wordCount": 2066,
+          "title": "Why Data Visualization is Important for UX Design",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/",
           "author": "Joel Olawanle",
@@ -1397,56 +1452,6 @@
           "wordCount": 1319,
           "title": "How to Copy a Directory in Linux – Use the cp Command to Copy a Folder",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-How-to-Copy-a-Directory-in-Linux---Use-the-cp-Command-to-Copy-a-Folder.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/xml-formatting-in-notepad-how-to-format-xml-files/",
-          "author": "Kolade Chris",
-          "description": "If you're working with XML files in Notepad++, formatting them manually could be a cumbersome task especially if the XML files are large. In this article, I will show you how to format your XML files in a few clicks. I will also show you how to check that the",
-          "link": "https://www.freecodecamp.org/news/xml-formatting-in-notepad-how-to-format-xml-files/",
-          "publishedOn": "2023-05-03T12:41:46.000Z",
-          "wordCount": 1016,
-          "title": "XML Formatting in Notepad++ – How to Format XML Files",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Copy-of-matchPunctuationRegEx.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/",
-          "author": "Dionysia Lemonaki",
-          "description": "More and more companies are making a shift towards cloud services and cloud-based systems these days, resulting in cloud computing being one of the most in-demand tech skills for 2023. AWS is currently the most popular cloud service provider, as it owns around 33% of the cloud market. Companies and",
-          "link": "https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/",
-          "publishedOn": "2023-05-03T06:51:34.000Z",
-          "wordCount": 1587,
-          "title": "AWS Cloud Practitioner Salary – 2023 Amazon Certification Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/ethan-yrGn-av5WF8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/get-started-with-nodejs/",
-          "author": "Krish Jaiswal",
-          "description": "Hello folks! 👋 Over the past couple weeks, I have been learning about Node.js. So I decided to share my learnings with you here. 👨‍💻 In this tutorial, we'll take a high-level look at Node.js [https://twitter.com/nodejs] – what it is, and what can you do with it.  We will",
-          "link": "https://www.freecodecamp.org/news/get-started-with-nodejs/",
-          "publishedOn": "2023-05-02T18:25:47.000Z",
-          "wordCount": 9534,
-          "title": "How to Get Started with NodeJS – a Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/e5aa6e1c-fe02-4e17-bdb1-1622b97831e6.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/",
-          "author": "David Clinton",
-          "description": "AWS Virtual Private Clouds (VPCs) are the organizing structure of most AWS network operations. Without a clear understanding of how they work, it'll be hard to get security and efficiency quite right.  But before talking about VPCs directly, I'm going to take a minute or two to refresh your",
-          "link": "https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/",
-          "publishedOn": "2023-05-02T13:33:22.000Z",
-          "wordCount": 1792,
-          "title": "Understanding VPC Architecture – How to Secure AWS EC2 Instances",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-sevenstorm-juhaszimrus-425160.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ssh-meaning-in-linux/",
-          "author": "Shittu Olumide",
-          "description": "Secure Shell (SSH) is a widely used network protocol that provides a secure way to access remote servers and computers.  In Linux, SSH is an essential tool for remote administration and file transfer. In this article, we will go over the meaning of SSH in Linux, its history, features,",
-          "link": "https://www.freecodecamp.org/news/ssh-meaning-in-linux/",
-          "publishedOn": "2023-05-02T13:29:50.000Z",
-          "wordCount": 1665,
-          "title": "What is SSH? SSH Meaning in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-What-is-SSH-SSH-Meaning-in-Linux.png"
         }
       ]
     }

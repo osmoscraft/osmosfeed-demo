@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-01T01:27:23.315Z</updated>
+    <updated>2023-06-02T01:15:00.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build AI Apps with ChatGPT, Dall-E, and GPT-4]]></title>
+        <id>https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/</id>
+        <link href="https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/"/>
+        <updated>2023-06-01T17:55:28.000Z</updated>
+        <summary type="html"><![CDATA[You can level up your web development skills by harnessing the power of AI. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build AI apps with ChatGPT, Dall-E, and GPT-4. This course is designed to equip you with the knowledge and skills]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Build Graph Databases with Neo4j (Full Course)]]></title>
+        <id>https://www.freecodecamp.org/news/learn-neo4j-database-course/</id>
+        <link href="https://www.freecodecamp.org/news/learn-neo4j-database-course/"/>
+        <updated>2023-06-01T16:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Neo4j is revolutionizing the way we handle complex relationships between data points. Its intuitive graph-based structure provides a flexible and efficient solution for various applications. We just published a Neo4j course on the freeCodeCamp.org YouTube channel. Whether you're a developer, a data scientist, or an aspiring technology enthusiast, this course]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain Tutorial – How to Build a Custom-Knowledge Chatbot]]></title>
+        <id>https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/</id>
+        <link href="https://www.freecodecamp.org/news/langchain-how-to-create-custom-knowledge-chatbots/"/>
+        <updated>2023-06-01T15:41:20.000Z</updated>
+        <summary type="html"><![CDATA[You may have read about the large number of AI apps that have been released over the last couple of months. You may have even started using some of them. AI tools such as ChatPDF [https://www.chatpdf.com/] and CustomGPT AI [https://customgpt.ai/use-cases/] have become very useful to people – and for good]]></summary>
+        <author>
+            <name>Shane Duggan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Data Visualization is Important for UX Design]]></title>
+        <id>https://www.freecodecamp.org/news/why-data-visualization-is-important-for-ux-design/</id>
+        <link href="https://www.freecodecamp.org/news/why-data-visualization-is-important-for-ux-design/"/>
+        <updated>2023-06-01T15:39:07.000Z</updated>
+        <summary type="html"><![CDATA[These days, we find ourselves consuming vast amounts of information, at an unprecedented rate. From online transactions, to social media interactions, to scientific research, the complexity of data grows exponentially. This reveals a challenge — how to transform this raw data to actionable insight.  This is where data visualization]]></summary>
+        <author>
+            <name>Ijelekhai Faith Olohijere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Form Control Styling With Selectmenu And Anchoring API]]></title>
+        <id>https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/</id>
+        <link href="https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/"/>
+        <updated>2023-06-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Format a Date with JavaScript – Date Formatting in JS]]></title>
         <id>https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/</id>
@@ -1302,56 +1352,6 @@
         <link href="https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/"/>
         <updated>2023-05-03T13:30:33.000Z</updated>
         <summary type="html"><![CDATA[Often times you'll want to copy a folder in Linux to perform specific tasks – maybe for backup, sharing, editing, an so on. This is a frequent task that you can perform using the cp command.  The cp command is a simple yet powerful command you can use to]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XML Formatting in Notepad++ – How to Format XML Files]]></title>
-        <id>https://www.freecodecamp.org/news/xml-formatting-in-notepad-how-to-format-xml-files/</id>
-        <link href="https://www.freecodecamp.org/news/xml-formatting-in-notepad-how-to-format-xml-files/"/>
-        <updated>2023-05-03T12:41:46.000Z</updated>
-        <summary type="html"><![CDATA[If you're working with XML files in Notepad++, formatting them manually could be a cumbersome task especially if the XML files are large. In this article, I will show you how to format your XML files in a few clicks. I will also show you how to check that the]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Cloud Practitioner Salary – 2023 Amazon Certification Guide]]></title>
-        <id>https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/</id>
-        <link href="https://www.freecodecamp.org/news/aws-cloud-practitioner-salary-2023-amazon-certification-guide/"/>
-        <updated>2023-05-03T06:51:34.000Z</updated>
-        <summary type="html"><![CDATA[More and more companies are making a shift towards cloud services and cloud-based systems these days, resulting in cloud computing being one of the most in-demand tech skills for 2023. AWS is currently the most popular cloud service provider, as it owns around 33% of the cloud market. Companies and]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with NodeJS – a Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/get-started-with-nodejs/</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-nodejs/"/>
-        <updated>2023-05-02T18:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Hello folks! 👋 Over the past couple weeks, I have been learning about Node.js. So I decided to share my learnings with you here. 👨‍💻 In this tutorial, we'll take a high-level look at Node.js [https://twitter.com/nodejs] – what it is, and what can you do with it.  We will]]></summary>
-        <author>
-            <name>Krish Jaiswal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding VPC Architecture – How to Secure AWS EC2 Instances]]></title>
-        <id>https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/</id>
-        <link href="https://www.freecodecamp.org/news/understanding-vpc-architecture-securing-aws-ec2-instances/"/>
-        <updated>2023-05-02T13:33:22.000Z</updated>
-        <summary type="html"><![CDATA[AWS Virtual Private Clouds (VPCs) are the organizing structure of most AWS network operations. Without a clear understanding of how they work, it'll be hard to get security and efficiency quite right.  But before talking about VPCs directly, I'm going to take a minute or two to refresh your]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is SSH? SSH Meaning in Linux]]></title>
-        <id>https://www.freecodecamp.org/news/ssh-meaning-in-linux/</id>
-        <link href="https://www.freecodecamp.org/news/ssh-meaning-in-linux/"/>
-        <updated>2023-05-02T13:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Secure Shell (SSH) is a widely used network protocol that provides a secure way to access remote servers and computers.  In Linux, SSH is an essential tool for remote administration and file transfer. In this article, we will go over the meaning of SSH in Linux, its history, features,]]></summary>
         <author>
             <name>Shittu Olumide</name>
         </author>
