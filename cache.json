@@ -12,6 +12,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
+          "author": "hello@smashingmagazine.com (Hannah Kühne & Madlaina Kalunder)",
+          "description": "As Artificial Intelligence becomes more widespread, so too does the adoption of digital agents and voice interactions. Explore the power of mixed reality systems and multimodal communication to enhance collaboration between consultants and clients, transforming advisory services.",
+          "link": "https://smashingmagazine.com/2023/06/enable-collaboration-multiparty-setting/",
+          "publishedOn": "2023-06-02T16:00:00.000Z",
+          "wordCount": 5511,
+          "title": "How To Enable Collaboration In A Multiparty Setting",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/enable-collaboration-multiparty-setting/enable-collaboration-multiparty-setting.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/06/ia-presenter-case-study-product-pricing-considerations/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Pricing a product or service is one of the more challenging aspects of product development. Pricing is an inexact science, and chances are you will not get it right the first time. But where do you even begin? Let’s explore the important considerations that go into product pricing.",
+          "link": "https://smashingmagazine.com/2023/06/ia-presenter-case-study-product-pricing-considerations/",
+          "publishedOn": "2023-06-02T08:00:00.000Z",
+          "wordCount": 5100,
+          "title": "iA Presenter: A Case Study On Product Pricing Considerations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ia-presenter-case-study-product-pricing-considerations/ia-presenter-case-study-product-pricing-considerations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ia-presenter-case-study-product-pricing-considerations/ia-presenter-case-study-product-pricing-considerations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/",
           "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
           "description": "Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.",
@@ -250,21 +280,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/learning-javascript-with-imagination/learning-javascript-with-imagination.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/effective-password-management/",
-          "author": "hello@smashingmagazine.com (Iliya Garakh)",
-          "description": "Highlighting the advantages of self-hosted solutions over cloud-based alternatives and exploring collaborative password management and more, P demonstrates how to organize convenient and secure password management in a company.",
-          "link": "https://smashingmagazine.com/2023/05/effective-password-management/",
-          "publishedOn": "2023-05-04T12:00:00.000Z",
-          "wordCount": 4612,
-          "title": "The Growing Need For Effective Password Management",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/effective-password-management/effective-password-management.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/effective-password-management/effective-password-management.jpg"
         }
       ]
     },
@@ -273,6 +288,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/dynamic-search-bar-google-sheets/",
+          "author": "Eamonn Cottrell",
+          "description": "This tutorial is for when CTRL + F is not enough. 🔥 I bet I've used the CTRL + F shortcut more than any other keyboard shortcut in my life. CTRL + Z probably comes close, but I use CTRL + F to find things... 💥ALL 💥 💥💥THE 💥💥 💥💥💥TIME",
+          "link": "https://www.freecodecamp.org/news/dynamic-search-bar-google-sheets/",
+          "publishedOn": "2023-06-02T13:31:11.000Z",
+          "wordCount": 1312,
+          "title": "Google Sheets – How to Make a Dynamic Search Bar",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Google-Sheets-Dynamic-Search-Bar-with-profile.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-choose-a-cms/",
+          "author": "Scott Gary",
+          "description": "If you're an entrepreneur or a developer, chances are you'll work with a content management systems (CMS) at some point. And knowing how to analyze the many features of the CMS options out there is important when choosing the right one for your use case. In this article, I'll explain",
+          "link": "https://www.freecodecamp.org/news/how-to-choose-a-cms/",
+          "publishedOn": "2023-06-01T23:06:02.000Z",
+          "wordCount": 1843,
+          "title": "How to Choose a CMS – Tips for Content Management Systems",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/how-to-choose-cms.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/build-ai-apps-with-chatgpt-dall-e-and-gpt-4/",
           "author": "Beau Carnes",
@@ -1382,76 +1417,6 @@
           "wordCount": 3762,
           "title": "How to Use Styled Components in Your React Apps",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Frame-390.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-redis-with-php/",
-          "author": "Zubair Idris Aweda",
-          "description": "Redis is a data store that stores data primarily in memory. It's faster than traditional databases, and has grown quite popular. In this tutorial, you'll learn the basics of how Redis works, when to use it, how to install it on your device, and how to use it as a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-redis-with-php/",
-          "publishedOn": "2023-05-03T19:51:55.000Z",
-          "wordCount": 2374,
-          "title": "How to Use Redis in Your PHP Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-tom-fisk-3063470.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pointers-in-c-programming/",
-          "author": "Valentine Gatwiri",
-          "description": "If you are learning C programming, you have probably heard the term \"pointer\" before.  Pointers are one of the most important and powerful features of the C programming language. They allow us to manipulate memory directly, which can be very useful in many programming scenarios. In C, a pointer",
-          "link": "https://www.freecodecamp.org/news/pointers-in-c-programming/",
-          "publishedOn": "2023-05-03T19:46:04.000Z",
-          "wordCount": 2059,
-          "title": "How to Use Pointers in C Programming",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-eyu-p-belen-1428634.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions/",
-          "author": "Eesa Zahed",
-          "description": "When you're coding in JavaScript, conditions are important for developing a functional application.  Conditional statements are important because you use them as \"validators\" which can either return truth or false. You can then use them to trigger further actions within the program. But with many long, messy if statements",
-          "link": "https://www.freecodecamp.org/news/how-to-write-more-efficient-javascript-conditions/",
-          "publishedOn": "2023-05-03T17:44:11.000Z",
-          "wordCount": 1580,
-          "title": "How to Write More Efficient JavaScript Conditions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/image3-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/check-if-string-is-empty-or-null-javascript/",
-          "author": "Joel Olawanle",
-          "description": "In JavaScript, it's important to check whether a string is empty or null before performing any operation. Trying to operate on an empty or null string can lead to errors, bugs, and unexpected results. In this tutorial, we'll explore the different ways of checking whether a string is empty or",
-          "link": "https://www.freecodecamp.org/news/check-if-string-is-empty-or-null-javascript/",
-          "publishedOn": "2023-05-03T17:26:58.000Z",
-          "wordCount": 1379,
-          "title": "How to Check if a String is Empty or Null in JavaScript – JS Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cover-template--13-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/solid-principles-for-better-software-design/",
-          "author": "Ashutosh Krishna",
-          "description": "The SOLID principles are a set of guidelines for writing high-quality, maintainable, and scalable software.  They were introduced by Robert C. Martin in his 2000 paper “Design Principles and Design Patterns” [https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf] to help developers write software that is easy to understand, modify, and extend.  These concepts were",
-          "link": "https://www.freecodecamp.org/news/solid-principles-for-better-software-design/",
-          "publishedOn": "2023-05-03T14:00:01.000Z",
-          "wordCount": 2747,
-          "title": "What is SOLID? Principles for Better Software Design",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/solid-principles.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-regression-analysis-for-machine-learning/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to embark on a fascinating journey into the world of machine learning? Look no further!  We just posted a machine learning course for beginners on the freeCodeCamp.org YouTube channel. The course focusses on regression analysis. Ayush Singh is a data scientist and popular course creator. He",
-          "link": "https://www.freecodecamp.org/news/master-regression-analysis-for-machine-learning/",
-          "publishedOn": "2023-05-03T13:58:31.000Z",
-          "wordCount": 823,
-          "title": "Master Regression Analysis for Machine Learning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/machinelearning-regression.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/",
-          "author": "Shittu Olumide",
-          "description": "Often times you'll want to copy a folder in Linux to perform specific tasks – maybe for backup, sharing, editing, an so on. This is a frequent task that you can perform using the cp command.  The cp command is a simple yet powerful command you can use to",
-          "link": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-use-the-cp-command-to-copy-a-folder/",
-          "publishedOn": "2023-05-03T13:30:33.000Z",
-          "wordCount": 1319,
-          "title": "How to Copy a Directory in Linux – Use the cp Command to Copy a Folder",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-How-to-Copy-a-Directory-in-Linux---Use-the-cp-Command-to-Copy-a-Folder.png"
         }
       ]
     }
