@@ -265,21 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/safest-way-hide-api-keys-react/safest-way-hide-api-keys-react.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-          "author": "hello@smashingmagazine.com (Kylo Robinson)",
-          "description": "This is the story of how one little octopus, explaining one beginner’s concept, carried such weight and power for Kylo that it drove his work and led him to research something that is really quite silly. And yet, it transformed how he learned to write — and finally understand — JavaScript.",
-          "link": "https://smashingmagazine.com/2023/05/learning-javascript-with-imagination/",
-          "publishedOn": "2023-05-05T09:00:00.000Z",
-          "wordCount": 4803,
-          "title": "Learning JavaScript With Imagination",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/learning-javascript-with-imagination/learning-javascript-with-imagination.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/learning-javascript-with-imagination/learning-javascript-with-imagination.jpg"
         }
       ]
     },
@@ -1307,116 +1292,6 @@
           "wordCount": 1781,
           "title": "Docker Extensions to Help You Improve Your Workflow",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/04/Copy-of-What-is-Docker-compose.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-find-string-with-regular-expression-in-notepad-find-and-replace-in-notepad/",
-          "author": "Kolade Chris",
-          "description": "Notepad++ has a Find feature with which you can search for any text in a file. But it doesn’t end there. You can also use Notepad++'s Find and Replace feature to search for a text and replace it with a specified replacement. The Find and Find and Replace features accept",
-          "link": "https://www.freecodecamp.org/news/how-to-find-string-with-regular-expression-in-notepad-find-and-replace-in-notepad/",
-          "publishedOn": "2023-05-05T13:21:02.000Z",
-          "wordCount": 1395,
-          "title": "Find and Replace in Notepad++ – How to Find String with Regular Expression in Notepad++",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/findAndReplacewithRe.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-the-nullish-coalescing-operator-in-javascript-and-how-is-it-useful/",
-          "author": "Dillion Megida",
-          "description": "The Nullish Coalescing Operator is a new logical operator in JavaScript introduced in ES 2020. In this article, we'll understand how this operator works. There are over four logical operators in JavaScript: the AND &&, OR ||, NOT !, and the Nullish Coalescing Operator ??. Sometimes called the Nullish Operator,",
-          "link": "https://www.freecodecamp.org/news/what-is-the-nullish-coalescing-operator-in-javascript-and-how-is-it-useful/",
-          "publishedOn": "2023-05-05T06:55:34.000Z",
-          "wordCount": 2094,
-          "title": "What is the Nullish Coalescing Operator in JavaScript, and how is it useful",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/28-nullish-coalescing-operator.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-parse-a-string-in-python/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Parsing a string can mean different things in Python. You can parse a string by splitting or extracting the substrings.  You can also parse a string by converting it to an integer or float variable. Although this should be categorized as a type conversion operation, you'll come across resources",
-          "link": "https://www.freecodecamp.org/news/how-to-parse-a-string-in-python/",
-          "publishedOn": "2023-05-04T21:04:02.000Z",
-          "wordCount": 1486,
-          "title": "How to Parse a String in Python – Parsing Strings Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/split-and-split-methods-in-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/",
-          "author": "Andrey Germanov",
-          "description": "Object detection is a computer vision task that involves identifying and locating objects in images or videos. It is an important part of many applications, such as self-driving cars, robotics, and video surveillance. Over the years, many methods and algorithms have been developed to find objects in images and their",
-          "link": "https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/",
-          "publishedOn": "2023-05-04T18:17:42.000Z",
-          "wordCount": 6356,
-          "title": "How to Detect Objects in Images Using the YOLOv8 Neural Network",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/n2auv9i8405cgnxhru40.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/youre-offline-check-your-connection-how-to-fix-youtube-error/",
-          "author": "Kolade Chris",
-          "description": "Have you ever logged on to YouTube to watch videos only to see the error, \"You're offline. Check your Connection\"? This error can occur on both the YouTube website and the mobile apps for Android and iPhone. In the case of the mobile apps, you might get the error \"You're",
-          "link": "https://www.freecodecamp.org/news/youre-offline-check-your-connection-how-to-fix-youtube-error/",
-          "publishedOn": "2023-05-04T17:44:45.000Z",
-          "wordCount": 1562,
-          "title": "You're offline. Check your Connection. [How to Fix YouTube Error]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/yt-error--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-the-strategy-design-pattern/",
-          "author": "Ashutosh Krishna",
-          "description": "The Strategy Design Pattern is a behavioral design pattern [https://shrinke.me/XNNXyxVS]. It allows you to dynamically change the behavior of an object by encapsulating it into different strategies.  This pattern enables an object to choose from multiple algorithms and behaviors at runtime, rather than statically choosing a single one. It",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-the-strategy-design-pattern/",
-          "publishedOn": "2023-05-04T17:43:03.000Z",
-          "wordCount": 2300,
-          "title": "A Beginner's Guide to the Strategy Design Pattern",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/strategy-design-pattern.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-delete-a-file-or-directory-in-linux/",
-          "author": "Shittu Olumide",
-          "description": "In Linux, deleting files or directories is a fundamental operation that every user must know. Although it may seem like a straightforward task, there are different methods to delete files or directories, each with its specific use case.  This tutorial will provide a step-by-step guide on how to delete",
-          "link": "https://www.freecodecamp.org/news/how-to-delete-a-file-or-directory-in-linux/",
-          "publishedOn": "2023-05-04T15:15:36.000Z",
-          "wordCount": 1663,
-          "title": "How to Delete a File or Directory in Linux – Command to Remove a Folder and its Contents",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-How-to-Delete-a-File-or-Directory-in-Linux---Command-to-Remove-a-Folder-and-its-Contents.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-net-maui-for-cross-platform-apps/",
-          "author": "Beau Carnes",
-          "description": "Are you looking to develop cross-platform desktop and mobile applications? If so, we have just the course for you! We just published a full course on the freeCodeCamp.org YouTube channel that will teach you the essential skills you need to build your own mobile applications using .NET MAUI. Frank Liu",
-          "link": "https://www.freecodecamp.org/news/learn-net-maui-for-cross-platform-apps/",
-          "publishedOn": "2023-05-04T15:09:23.000Z",
-          "wordCount": 898,
-          "title": "Learn .NET MAUI for cross-platform apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/netmaui.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/",
-          "author": "Joel Olawanle",
-          "description": "Git is a popular version control system that's used by millions of developers to manage their codebases. One of the most powerful features of Git is its ability to work with remote repositories. When working on a project with multiple collaborators, you must be able to fetch changes from the",
-          "link": "https://www.freecodecamp.org/news/git-pull-remote-branch-how-to-fetch-remote-branches-in-git/",
-          "publishedOn": "2023-05-04T14:27:39.000Z",
-          "wordCount": 1152,
-          "title": "Git Pull Remote Branch – How To Fetch Remote Branches in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cover-template--12-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/",
-          "author": "Dickson Boateng",
-          "description": "When I started learning Redux, I found it challenging to wrap my head around the concepts. Despite reading many online resources, I struggled to grasp the core ideas.  While the online tutorials and guides provided helpful information, I needed more clarity to really understand Redux. But with persistence and",
-          "link": "https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/",
-          "publishedOn": "2023-05-04T14:20:56.000Z",
-          "wordCount": 4862,
-          "title": "How to Use Redux and Redux Toolkit – Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/redux-for-beginners1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/styled-components-in-react/",
-          "author": "Kedar Makode",
-          "description": "Styled-components is a library that allows you to write CSS in JS while building custom components in Reactjs. There are multiple options you can go with to style a React application. But the  CSS in JS technique is good approach, where you write the CSS code right in the",
-          "link": "https://www.freecodecamp.org/news/styled-components-in-react/",
-          "publishedOn": "2023-05-04T14:19:57.000Z",
-          "wordCount": 3762,
-          "title": "How to Use Styled Components in Your React Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Frame-390.png"
         }
       ]
     }
