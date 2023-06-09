@@ -265,21 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/boost-design-workflow-time-saving-tools-setapp/boost-design-workflow-setapp.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-          "author": "hello@smashingmagazine.com (Deepak Kumar)",
-          "description": "The Redux Toolkit documentation calls the library a better way to write Redux logic for React apps and a simple and efficient toolkit for Redux development. In this article, you will learn about the Redux toolkit by building an app that tracks project issues.",
-          "link": "https://smashingmagazine.com/2023/05/guide-redux-toolkit-typescript/",
-          "publishedOn": "2023-05-10T10:00:00.000Z",
-          "wordCount": 5973,
-          "title": "A Guide To Redux Toolkit With TypeScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/guide-redux-toolkit-typescript/guide-redux-toolkit-typescript.jpg"
         }
       ]
     },
@@ -288,6 +273,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-set-up-java-development-environment-a-comprehensive-guide/",
+          "author": "Isah Jacob",
+          "description": "Setting up an efficient Java development environment is key if you're a Java dev. It helps streamline your coding process and makes you more productive.  In this article, I will walk you through the important steps you need to set up a Java development environment. We'll cover how to",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-java-development-environment-a-comprehensive-guide/",
+          "publishedOn": "2023-06-08T20:14:59.000Z",
+          "wordCount": 1664,
+          "title": "How to Set Up Your Java Development Environment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/How-To-Set-Up-Java-Development-Environment--A-Comprehensive-Guide-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/",
+          "author": "Adekola Olawale",
+          "description": "Frontend frameworks are indispensable in web development. They provide structured approaches and pre-defined components to streamline the coding process.  These tools can also help boost productivity by offering reusable components and abstracting complex tasks like DOM manipulation and state management. This allows developers to focus on application logic rather",
+          "link": "https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/",
+          "publishedOn": "2023-06-08T13:57:21.000Z",
+          "wordCount": 12732,
+          "title": "Front End JavaScript Development Handbook – React, Angular, and Vue Compared",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/frontend-framework-cover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rust-programming-course-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "Rust is a safe, concurrent, and practical language that guarantees memory safety and prevents runtime errors, making it increasingly popular among developers and big tech firms like Microsoft and Google. With its efficiency, growing industry demand, and robust features, learning Rust opens up exciting opportunities in systems programming and beyond.",
+          "link": "https://www.freecodecamp.org/news/rust-programming-course-for-beginners/",
+          "publishedOn": "2023-06-08T12:43:38.000Z",
+          "wordCount": 989,
+          "title": "Complete Rust Programming Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/rust.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-set-up-tailwind-css-with-next-js/",
           "author": "Kelvin Moses",
@@ -1237,36 +1252,6 @@
           "wordCount": 1296,
           "title": "Smart Quotes – Single Quote and Double Quotation Mark for Copy + Paste",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/smartQuotes-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-wireframing/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "What are Wireframes? Wireframes are visual representations of the structure, layout, and functionality of a website, application, or other digital product.  You typically create them during the early stages of the design process, and they provide a simplified and focused view of the user interface and user experience. You",
-          "link": "https://www.freecodecamp.org/news/what-is-wireframing/",
-          "publishedOn": "2023-05-09T22:06:49.000Z",
-          "wordCount": 3043,
-          "title": "What is Wireframing? How to Go from Paper Sketches to High Fidelity Wireframes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/unsplash_Pa0I38PfNPs.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/",
-          "author": "Arunachalam B",
-          "description": "Building and managing applications on the cloud can be a daunting task. This is especially true when it comes to handling different environments, scaling, and deploying updates.  But there's a service in AWS that can simplify this. AWS Elastic Beanstalk is here to make your life easier. It provides",
-          "link": "https://www.freecodecamp.org/news/how-to-use-elastic-beanstalk-to-deploy-node-js-app/",
-          "publishedOn": "2023-05-09T21:34:49.000Z",
-          "wordCount": 1922,
-          "title": "How to Use Elastic Beanstalk to Deploy a Node.js App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Elastic-Beanstalk---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-beginner-friendly-javascript-application/",
-          "author": "TAPAS ADHIKARY",
-          "description": "JavaScript is a popular programming language for building web, mobile, and desktop applications.  There are many frameworks and libraries that have been built around JavaScript, with more likely being developed even as you are reading this article. If you plan to start learning JavaScript, some of them are worth",
-          "link": "https://www.freecodecamp.org/news/build-a-beginner-friendly-javascript-application/",
-          "publishedOn": "2023-05-09T16:05:03.000Z",
-          "wordCount": 2159,
-          "title": "How to Build a Beginner-Friendly JavaScript Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/freeCodeCamp-Cover.png"
         }
       ]
     }
