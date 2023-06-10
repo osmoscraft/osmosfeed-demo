@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Unleash the power of creative limitation! Learn how constraints aren’t barriers but instead stepping stones to innovative design. Find out how to challenge unproductive restrictions and leverage the rest to your advantage.",
+          "link": "https://smashingmagazine.com/2023/06/design-constraints-challenges-opportunities-practical-strategies/",
+          "publishedOn": "2023-06-09T10:00:00.000Z",
+          "wordCount": 4755,
+          "title": "Design Under Constraints: Challenges, Opportunities, And Practical Strategies",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
           "author": "hello@smashingmagazine.com (Slava Shestopalov & Eugene Shykiriavyi)",
           "description": "While compliance with accessibility checklists is essential, it doesn’t necessarily mean a pleasant experience. That’s why live sessions can give you lots of priceless insights.",
@@ -273,6 +288,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/",
+          "author": "Shittu Olumide",
+          "description": "Commit messages play a crucial role in Git version control. They provide a historical record of changes made to a repository.  Clear and descriptive commit messages help you collaborate better with team members, more easily maintain your code, and understand how the project works.  But there are times",
+          "link": "https://www.freecodecamp.org/news/how-to-edit-git-commit-messages-with-git-amend/",
+          "publishedOn": "2023-06-09T17:58:23.000Z",
+          "wordCount": 1574,
+          "title": "Git Change Commit Message – How to Edit Commit Messages with Git Amend",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Git-Change-Commit-Message---How-to-Edit-Commit-Messages-with-Git-Amend.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/",
+          "author": "Clinton Joy",
+          "description": "In this tutorial, we're going to talk about spacing in CSS spacing – sounds so basic, right? Well, it's not as basic as you might think.  Take, for instance, when you visit your favorite e-commerce site to scout for products. The first thing that welcomes you to the platform",
+          "link": "https://www.freecodecamp.org/news/css-spacing-guide-for-web-devs/",
+          "publishedOn": "2023-06-09T16:26:46.000Z",
+          "wordCount": 3796,
+          "title": "How CSS Spacing Works – A Guide for Web Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-2023-06-08-at-10.32.24.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/5-ways-to-use-linux-on-a-windows-machine/",
+          "author": "Zaira Hira",
+          "description": "As a developer, you might need to run both Linux and Windows side by side. Luckily, there are a number of ways you can get the best of both worlds without getting different computers for each operating system.  In this article, we'll explore a few ways to use Linux",
+          "link": "https://www.freecodecamp.org/news/5-ways-to-use-linux-on-a-windows-machine/",
+          "publishedOn": "2023-06-09T15:03:52.000Z",
+          "wordCount": 1559,
+          "title": "5 Ways You Can Use Linux on a Windows Machine",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/5-ways-to-use-Linux-on-a-Windows-machine.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-set-up-java-development-environment-a-comprehensive-guide/",
           "author": "Isah Jacob",
@@ -1182,76 +1227,6 @@
           "wordCount": 1064,
           "title": "The Ultimate Go Programming Video Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/golang.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/artificial-intelligence-vs-machine-learning/",
-          "author": "Edem Gold",
-          "description": "Artificial Intelligence and Machine Learning are two terms that are commonly used interchangeably. But they are not the same thing. Artificial Intelligence is a field which contains a lot of sub-fields, including Machine Learning. In this article I hope to comprehensively differentiate between AI and Machine Learning. I'll explain how",
-          "link": "https://www.freecodecamp.org/news/artificial-intelligence-vs-machine-learning/",
-          "publishedOn": "2023-05-10T22:37:37.000Z",
-          "wordCount": 3345,
-          "title": "The Difference Between AI and Machine Learning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-tara-winstead-8386440--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/",
-          "author": "Faith Oyama",
-          "description": "PostgreSQL is a powerful open-source relational database management system (RDBMS). It was initially created as a successor to the Ingres database system and was later named \"PostgreSQL\" (short for \"Post-Ingres SQL\"). PostgreSQL is known for its robustness, reliability, and scalability, making it a popular choice for large and complex database",
-          "link": "https://www.freecodecamp.org/news/postgresql-and-json-use-json-data-in-postgresql/",
-          "publishedOn": "2023-05-10T20:02:00.000Z",
-          "wordCount": 2308,
-          "title": "PostgreSQL and JSON – How to Use JSON Data in PostgreSQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/PostgreSQL-and-JSON-Using-JSON-Data-in-PostgreSQL.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-accurate-cybersecurity-risk-assessment/",
-          "author": "David Clinton",
-          "description": "Are you responsible for the safety and reliability of IT infrastructure and applications? You'll absolutely need regular and accurate assessments.  Effective risk assessments are about establishing how far your organization's IT stack can be stretched before it breaks.  From a big-picture perspective, you'll need to think about how",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-accurate-cybersecurity-risk-assessment/",
-          "publishedOn": "2023-05-10T19:39:51.000Z",
-          "wordCount": 1728,
-          "title": "How to Build an Accurate Cybersecurity Risk Assessment",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-jonathan-petersson-965879.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
-          "author": "Dionysia Lemonaki",
-          "description": "Full-stack engineering roles have been growing in popularity over the last decade and are among the most sought-after positions in the tech job market. But what exactly are full-stack engineers? What do they do on a day-to-day basis? And how can you become a full-stack engineer yourself? In this article,",
-          "link": "https://www.freecodecamp.org/news/full-stack-engineer-career-guide/",
-          "publishedOn": "2023-05-10T17:27:43.000Z",
-          "wordCount": 2542,
-          "title": "Full Stack Engineer – Career Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nubelson-fernandes-UcYBL5V0xWQ-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/functional-programming-with-elixir/",
-          "author": "Beau Carnes",
-          "description": "Transform your development approach and embrace the power of Elixir and functional programming with our new beginner's course. It is designed to help you build scalable, maintainable applications like never before. We just published a new course on the freeCodeCamp channel that will teach you how to build your own",
-          "link": "https://www.freecodecamp.org/news/functional-programming-with-elixir/",
-          "publishedOn": "2023-05-10T15:59:36.000Z",
-          "wordCount": 979,
-          "title": "Discover the Power of Functional Programming with Elixir",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/elixir.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-sql-full-course/",
-          "author": "Beau Carnes",
-          "description": "Unlock the power of data with SQL! Master one of the most in-demand skill in the data-driven world and supercharge your career with our new video course. We just released a comprehensive video course on the freeCodeCamp.org YouTube channel that will take you on a journey from understanding the basics",
-          "link": "https://www.freecodecamp.org/news/learn-sql-full-course/",
-          "publishedOn": "2023-05-10T15:50:13.000Z",
-          "wordCount": 1008,
-          "title": "Learn SQL for Efficient Data Storage and Retrieval",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/sql.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/smart-quotes-single-quote-and-double-quotation-mark-for-copy-paste/",
-          "author": "Kolade Chris",
-          "description": "Smart quotes are commonly used punctuation marks in HTML and in writing. Knowing how to use them correctly can make a significant difference in the clarity and professionalism of your writing. So in this article, you will get access to the commonly used quotation marks out there that you can",
-          "link": "https://www.freecodecamp.org/news/smart-quotes-single-quote-and-double-quotation-mark-for-copy-paste/",
-          "publishedOn": "2023-05-10T14:31:24.000Z",
-          "wordCount": 1296,
-          "title": "Smart Quotes – Single Quote and Double Quotation Mark for Copy + Paste",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/smartQuotes-1.png"
         }
       ]
     }
