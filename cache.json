@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
+          "link": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
+          "publishedOn": "2023-06-13T14:00:00.000Z",
+          "wordCount": 10080,
+          "title": "Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.",
@@ -250,21 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
-          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
-          "description": "This article covers common problems using CSS floats and how to solve them using a block formatting context (BFC). Whether you are a beginner or an experienced web developer, you will learn valuable insights and practical solutions for dealing with CSS float issues.",
-          "link": "https://smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/",
-          "publishedOn": "2023-05-15T13:00:00.000Z",
-          "wordCount": 4853,
-          "title": "Solving Media Object Float Issues With CSS Block Formatting Contexts",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/media-object-float-issues-css-block-formatting-contexts/media-object-float-issues-css-block-formatting-contexts.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/media-object-float-issues-css-block-formatting-contexts/media-object-float-issues-css-block-formatting-contexts.jpg"
         }
       ]
     },
@@ -273,6 +273,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/html-page-elements/",
+          "author": "David Clinton",
+          "description": "HTML, which stands for Hypertext Markup Language, is the standard markup language used for creating web pages and structuring their content on the World Wide Web.  HTML serves as the backbone of web development and acts as a fundamental building block for creating web-based documents. Let's take a quick",
+          "link": "https://www.freecodecamp.org/news/html-page-elements/",
+          "publishedOn": "2023-06-13T21:01:13.000Z",
+          "wordCount": 1740,
+          "title": "HTML Page Elements – Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-joshua-135018.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/guide-to-javascript-promises/",
+          "author": "Amazing Enyichi Agu",
+          "description": "JavaScript has the ability to carry out asynchronous (or async) instructions. These instructions run in the background until they have finished processing.  Asynchronous instructions do not stop the JavaScript engine from actively accepting and processing more instructions. This is why JavaScript is non-blocking in nature. There are a few",
+          "link": "https://www.freecodecamp.org/news/guide-to-javascript-promises/",
+          "publishedOn": "2023-06-13T16:35:33.000Z",
+          "wordCount": 5419,
+          "title": "How Promises Work in JavaScript – A Comprehensive Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/promises.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/",
+          "author": "Beau Carnes",
+          "description": "Certifications like the Microsoft Power Platform Fundamentals can help you advance in your career. You can learn everything you need to know to earn the Microsoft Power Platform Fundamentals Certification by completing this free 4-hour course that we just posted on the freeCodeCamp.org YouTube channel. Andrew Brown created this course.",
+          "link": "https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/",
+          "publishedOn": "2023-06-13T14:28:52.000Z",
+          "wordCount": 1520,
+          "title": "Microsoft Power Platform Fundamentals Certification (PL-900) – Pass the Exam With This Free 4-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/powerfund.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/ai-in-google-sheets/",
           "author": "Eamonn Cottrell",
@@ -1182,16 +1212,6 @@
           "wordCount": 5430,
           "title": "How to Write Clean Code – Tips and Best Practices",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-ken-tomita-389819.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/",
-          "author": "Kolade Chris",
-          "description": "Regular expressions provide a powerful and flexible way to define patterns and match specific strings, be it usernames, passwords, phone numbers, or even URLs. In this article, I'll show you the fundamentals of crafting a regular expression for URLs. Whether you need to validate user input, extract components from URLs,",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/",
-          "publishedOn": "2023-05-15T12:22:48.000Z",
-          "wordCount": 1157,
-          "title": "URL RegEx Pattern – How to Write a Regular Expression for a URL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/urlRegEx.png"
         }
       ]
     }
