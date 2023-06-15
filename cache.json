@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
+          "author": "hello@smashingmagazine.com (Sriram Thiagarajan)",
+          "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
+          "link": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
+          "publishedOn": "2023-06-14T11:00:00.000Z",
+          "wordCount": 5659,
+          "title": "How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
@@ -250,21 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-deal-big-tooling-upgrades-large-organizations/big-tooling-upgrades-large-organizations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
-          "author": "hello@smashingmagazine.com (Ben Clemens)",
-          "description": "Every company and team has to have deep collaboration between engineering and design to get the value out of a design system (and not go nuts). Building design patterns first unblock people to work in parallel, keeps people synced up, and results in reusable modules that speed up your next project.",
-          "link": "https://smashingmagazine.com/2023/05/design-patterns-collaborate-design-system/",
-          "publishedOn": "2023-05-16T11:00:00.000Z",
-          "wordCount": 5823,
-          "title": "Design Patterns Are A Better Way To Collaborate On Your Design System",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/design-patterns-collaborate-design-system/design-patterns-collaborate-design-system.jpg"
         }
       ]
     },
@@ -1152,66 +1152,6 @@
           "wordCount": 2728,
           "title": "Cloud Computing Abstractions – IaaS, PaaS, FaaS, and SaaS Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pictures-2.001-2.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-networking-in-flutter/",
-          "author": "Arunachalam B",
-          "description": "Almost all apps you use today run by accessing the internet. You can hardly find an app that runs without connecting to the internet.  The internet has become an integral part of our lives, as it solves one of the most critical problems we have to handle: data transfer.",
-          "link": "https://www.freecodecamp.org/news/learn-networking-in-flutter/",
-          "publishedOn": "2023-05-15T18:42:25.000Z",
-          "wordCount": 2122,
-          "title": "Learn Networking in Flutter By Building a Simple App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Networking-in-Flutter---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/caching-in-react/",
-          "author": "Scott Gary",
-          "description": "As React developers become more proficient with the library, the topic of performance becomes a major focal point in their development process.  As with any tool or programming methodology, caching plays a huge role when it comes to optimizing React applications. Caching in React typically goes by the term",
-          "link": "https://www.freecodecamp.org/news/caching-in-react/",
-          "publishedOn": "2023-05-15T18:39:25.000Z",
-          "wordCount": 1622,
-          "title": "Caching in React – How to Use the useMemo and useCallback Hooks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/caching-react.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-60-30-10-rule-in-design/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "As designers, colour is a huge component of our work. But many of us struggle with the usage of colours in our designs.  In this article, you will learn about the 60-30-10 colour rule, how it's used, and see a practical example of it. What is the 60-30-10 rule?",
-          "link": "https://www.freecodecamp.org/news/the-60-30-10-rule-in-design/",
-          "publishedOn": "2023-05-15T17:20:43.000Z",
-          "wordCount": 1457,
-          "title": "What is the 60-30-10 Rule in Design? And How to Use it in Your Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-39828.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-secure-your-mern-stack-application/",
-          "author": "FADAHUNSI SEYI SAMUEL",
-          "description": "MongoDB [https://www.mongodb.com/docs/], Express [https://expressjs.com/en/starter/installing.html], React [https://react.dev/learn], and Node.js [https://nodejs.org/en/docs] are the components of the MERN stack, one of the most widely used web development stacks out there today. The MERN stack enables programmers to create dependable web applications with strong capabilities. Yet, security should be a key concern with any",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-your-mern-stack-application/",
-          "publishedOn": "2023-05-15T17:15:14.000Z",
-          "wordCount": 4934,
-          "title": "How to Secure Your MERN Stack App with JWT-Based User Authentication and Authorization",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/trlyJUK.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/method-overloading-in-php/",
-          "author": "Zubair Idris Aweda",
-          "description": "As software engineers, we sometimes have to perform certain tasks that can be achieved with a variable number of inputs.  To solve this problem, you can create multiple functions to solve for the different possible number of inputs. Or we can write a large function to solve this problem.",
-          "link": "https://www.freecodecamp.org/news/method-overloading-in-php/",
-          "publishedOn": "2023-05-15T17:11:35.000Z",
-          "wordCount": 1551,
-          "title": "How Method Overloading Works in PHP",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/kisscc0-line-art-drawing-drum-cartoon-overload-5b74068a69e855.7493203415343305064338.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-write-clean-code/",
-          "author": "Germán Cocca",
-          "description": "Hi everyone! In this article we're going to talk about writing \"clean\" code. It's a topic that used to confuse me a bit when I was starting out as a programmer, and I find that it has many nuances and possible interpretations. So in this article we'll talk about what",
-          "link": "https://www.freecodecamp.org/news/how-to-write-clean-code/",
-          "publishedOn": "2023-05-15T14:43:44.000Z",
-          "wordCount": 5430,
-          "title": "How to Write Clean Code – Tips and Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-ken-tomita-389819.jpg"
         }
       ]
     }
