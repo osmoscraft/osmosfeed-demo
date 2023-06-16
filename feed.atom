@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T01:10:47.255Z</updated>
+    <updated>2023-06-16T01:11:23.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unlock the Mysteries of Pointers in C]]></title>
+        <id>https://www.freecodecamp.org/news/finally-understand-pointers-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/finally-understand-pointers-in-c/"/>
+        <updated>2023-06-15T15:14:30.000Z</updated>
+        <summary type="html"><![CDATA[There are few things in the programming universe that seem as daunting to beginners as pointers in C. Many new programmers shy away from tackling this essential component of the C programming language, which can leave a critical gap in their knowledge. We just posted a full course on the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Infrastructure as Code? Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/infrastructure-as-code-basics/</id>
+        <link href="https://www.freecodecamp.org/news/infrastructure-as-code-basics/"/>
+        <updated>2023-06-15T14:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Infrastructure as Code (IaC) is a way of managing your infrastructure like it was code. This gives you all the benefits of using code to create your infrastructure, like version control, faster and safer infrastructure deployments across different environments, and having up to date documentation of your infrastructure. The article]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Codux: The React Visual Editor That Improves Developer Experience]]></title>
+        <id>https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/</id>
+        <link href="https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/"/>
+        <updated>2023-06-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[Codux](https://codux.hopp.to/smashing) is a new visual IDE brought to you by the fine folks over at[ Wix](https://www.wix.com/). It’s got a lot of low-code features that level the playing field for app development but is really designed for React developers. How so, you ask? That’s what we’re going to explore in this article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit]]></title>
         <id>https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/</id>
@@ -954,106 +984,6 @@
         <summary type="html"><![CDATA[YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Deal With Big Tooling Upgrades In Large Organizations]]></title>
-        <id>https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/</id>
-        <link href="https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/"/>
-        <updated>2023-05-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joran Quinten)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Interactive Heatmap Using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/"/>
-        <updated>2023-05-16T23:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Data visualization is a powerful tool that helps us make sense of complex data. With it, we can spot patterns and trends that might take much more time to become obvious just by looking at raw numbers.  One particularly useful chart type is the heatmap, and I’m excited to]]></summary>
-        <author>
-            <name>Shachee Swadia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JavaScript’s Asynchronous Operations Work in the Browser]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/"/>
-        <updated>2023-05-16T21:58:01.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a popular programming language used for developing interactive front-end web applications, among other things.  It's widely known for its major features: it is single-threaded, non-blocking, and asynchronous. But what do these three things mean? What Does "Single-Threaded" Mean? When a programming language is referred to as single-threaded,]]></summary>
-        <author>
-            <name>Amazing Enyichi Agu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create Native Apps with Ionic and Capacitor]]></title>
-        <id>https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/</id>
-        <link href="https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/"/>
-        <updated>2023-05-16T21:14:30.000Z</updated>
-        <summary type="html"><![CDATA[Ionic and Capacitor are two powerful tools that can be used to build native mobile applications. Ionic is a UI framework that provides a wide range of components and features for building mobile apps, while Capacitor is a runtime that allows Ionic apps to be deployed to both iOS and]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Sort() – How to Use the Sort Function in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-does-the-javascript-sort-function-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-does-the-javascript-sort-function-work/"/>
-        <updated>2023-05-16T20:29:44.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will explain how to use, and maximize the full potential of the sort() function. What is the sort() Function? The sort() function allows you to sort an array object by either the default sorting order, or by a custom sorting function. By default, it sorts the]]></summary>
-        <author>
-            <name>Grant Weatherston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you find the bug? JavaScript security vulnerabilities course]]></title>
-        <id>https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/</id>
-        <link href="https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/"/>
-        <updated>2023-05-16T17:43:07.000Z</updated>
-        <summary type="html"><![CDATA[In a world where cybersecurity threats are more prevalent than ever, understanding how to safeguard your web applications is of paramount importance. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn common JavaScript security vulnerabilities and how to prevent them. Brandon teaches this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Google Apps Script Basics by Building a Tic Tac Toe Game]]></title>
-        <id>https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/</id>
-        <link href="https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/"/>
-        <updated>2023-05-16T16:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Google Sheets are powerful, and Apps Script makes them even more versatile and useful. Yes, you can use them for finance dashboards, personal budgets, and project management (and we'll cover these as future topics). But in this article, I'll go through the basics of Apps Script by building a simple]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python End Program – How to Exit a Python Program in the Terminal]]></title>
-        <id>https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/</id>
-        <link href="https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/"/>
-        <updated>2023-05-16T16:48:59.000Z</updated>
-        <summary type="html"><![CDATA[You can execute Python code in a terminal just like you would in an IDE like VS Code, Atom, and so on. You can do this in both Windows and Unix operating systems like Linux and macOS.  In this article, you'll learn how to exit a Python program in]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Best Practices – A Guide to Version Control for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/"/>
-        <updated>2023-05-16T16:33:59.000Z</updated>
-        <summary type="html"><![CDATA[If you're a software developer, you may be familiar with the concept of version control. Version control is the practice of managing changes to your codebase over time. It's an essential tool for any development project.  One of the most popular version control systems is Git, which is widely]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Computing Abstractions – IaaS, PaaS, FaaS, and SaaS Explained]]></title>
-        <id>https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/</id>
-        <link href="https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/"/>
-        <updated>2023-05-16T16:31:36.000Z</updated>
-        <summary type="html"><![CDATA[Abstracting is the process of reducing something to its most basic form. It is the hiding away of the inessential.  For a drawing, this could be reducing it to its basic lines and shapes. Naturally, there are many levels of an abstraction, since what is inessential is subjective.]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
         </author>
     </entry>
 </feed>

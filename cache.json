@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "[Codux](https://codux.hopp.to/smashing) is a new visual IDE brought to you by the fine folks over at[ Wix](https://www.wix.com/). It’s got a lot of low-code features that level the playing field for app development but is really designed for React developers. How so, you ask? That’s what we’re going to explore in this article.",
+          "link": "https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/",
+          "publishedOn": "2023-06-15T08:00:00.000Z",
+          "wordCount": 4020,
+          "title": "Meet Codux: The React Visual Editor That Improves Developer Experience",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/codux-react-visual-editor-improves-developer-experience/codux-react-visual-editor-improves-developer-experience.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/codux-react-visual-editor-improves-developer-experience/codux-react-visual-editor-improves-developer-experience.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
           "author": "hello@smashingmagazine.com (Sriram Thiagarajan)",
           "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
@@ -250,21 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/practical-design-tips-guidelines-beginner-designers/practical-design-tips-guidelines-beginner-designers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/",
-          "author": "hello@smashingmagazine.com (Joran Quinten)",
-          "description": "The process of upgrading large third-party packages in equally large organizations is rarely, if ever, as easy as running an npm update and calling it a day in this context. Joran Quinten shares valuable lessons from his team’s experiences in upgrading third-party code that affects codebases across the entire organization.",
-          "link": "https://smashingmagazine.com/2023/05/big-tooling-upgrades-large-organizations/",
-          "publishedOn": "2023-05-17T10:00:00.000Z",
-          "wordCount": 5177,
-          "title": "How To Deal With Big Tooling Upgrades In Large Organizations",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-deal-big-tooling-upgrades-large-organizations/big-tooling-upgrades-large-organizations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-deal-big-tooling-upgrades-large-organizations/big-tooling-upgrades-large-organizations.jpg"
         }
       ]
     },
@@ -273,6 +273,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/finally-understand-pointers-in-c/",
+          "author": "Beau Carnes",
+          "description": "There are few things in the programming universe that seem as daunting to beginners as pointers in C. Many new programmers shy away from tackling this essential component of the C programming language, which can leave a critical gap in their knowledge. We just posted a full course on the",
+          "link": "https://www.freecodecamp.org/news/finally-understand-pointers-in-c/",
+          "publishedOn": "2023-06-15T15:14:30.000Z",
+          "wordCount": 1095,
+          "title": "Unlock the Mysteries of Pointers in C",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pointers.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/infrastructure-as-code-basics/",
+          "author": "Daniel Adetunji",
+          "description": "Infrastructure as Code (IaC) is a way of managing your infrastructure like it was code. This gives you all the benefits of using code to create your infrastructure, like version control, faster and safer infrastructure deployments across different environments, and having up to date documentation of your infrastructure. The article",
+          "link": "https://www.freecodecamp.org/news/infrastructure-as-code-basics/",
+          "publishedOn": "2023-06-15T14:32:46.000Z",
+          "wordCount": 2145,
+          "title": "What is Infrastructure as Code? Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover-5.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/html-page-elements/",
           "author": "David Clinton",
@@ -1062,96 +1082,6 @@
           "wordCount": 1566,
           "title": "How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/yamlRe.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/",
-          "author": "Shachee Swadia",
-          "description": "Data visualization is a powerful tool that helps us make sense of complex data. With it, we can spot patterns and trends that might take much more time to become obvious just by looking at raw numbers.  One particularly useful chart type is the heatmap, and I’m excited to",
-          "link": "https://www.freecodecamp.org/news/interactive-heatmap-in-javascript/",
-          "publishedOn": "2023-05-16T23:26:39.000Z",
-          "wordCount": 3620,
-          "title": "How to Create an Interactive Heatmap Using JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/heatmapchartjs.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/",
-          "author": "Amazing Enyichi Agu",
-          "description": "JavaScript is a popular programming language used for developing interactive front-end web applications, among other things.  It's widely known for its major features: it is single-threaded, non-blocking, and asynchronous. But what do these three things mean? What Does \"Single-Threaded\" Mean? When a programming language is referred to as single-threaded,",
-          "link": "https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/",
-          "publishedOn": "2023-05-16T21:58:01.000Z",
-          "wordCount": 3742,
-          "title": "How JavaScript’s Asynchronous Operations Work in the Browser",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pankaj-patel-1IW4HQuauSU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/",
-          "author": "Beau Carnes",
-          "description": "Ionic and Capacitor are two powerful tools that can be used to build native mobile applications. Ionic is a UI framework that provides a wide range of components and features for building mobile apps, while Capacitor is a runtime that allows Ionic apps to be deployed to both iOS and",
-          "link": "https://www.freecodecamp.org/news/create-native-apps-with-ionic-and-capacitor/",
-          "publishedOn": "2023-05-16T21:14:30.000Z",
-          "wordCount": 1000,
-          "title": "Create Native Apps with Ionic and Capacitor",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/ionic.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-does-the-javascript-sort-function-work/",
-          "author": "Grant Weatherston",
-          "description": "In this article I will explain how to use, and maximize the full potential of the sort() function. What is the sort() Function? The sort() function allows you to sort an array object by either the default sorting order, or by a custom sorting function. By default, it sorts the",
-          "link": "https://www.freecodecamp.org/news/how-does-the-javascript-sort-function-work/",
-          "publishedOn": "2023-05-16T20:29:44.000Z",
-          "wordCount": 2655,
-          "title": "JavaScript Sort() – How to Use the Sort Function in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/blog_header2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/",
-          "author": "Beau Carnes",
-          "description": "In a world where cybersecurity threats are more prevalent than ever, understanding how to safeguard your web applications is of paramount importance. We just published a course on the freeCodeCamp.org YouTube channel that will help you learn common JavaScript security vulnerabilities and how to prevent them. Brandon teaches this course.",
-          "link": "https://www.freecodecamp.org/news/can-you-find-the-bug-javascript-security-vulnerabilities-course/",
-          "publishedOn": "2023-05-16T17:43:07.000Z",
-          "wordCount": 1040,
-          "title": "Can you find the bug? JavaScript security vulnerabilities course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/semgrep2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/",
-          "author": "Eamonn Cottrell",
-          "description": "Google Sheets are powerful, and Apps Script makes them even more versatile and useful. Yes, you can use them for finance dashboards, personal budgets, and project management (and we'll cover these as future topics). But in this article, I'll go through the basics of Apps Script by building a simple",
-          "link": "https://www.freecodecamp.org/news/learn-google-apps-script-basics-by-building-tic-tac-toe/",
-          "publishedOn": "2023-05-16T16:58:37.000Z",
-          "wordCount": 1990,
-          "title": "Learn Google Apps Script Basics by Building a Tic Tac Toe Game",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Tic-Tac-Toe-Google-Sheet2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "You can execute Python code in a terminal just like you would in an IDE like VS Code, Atom, and so on. You can do this in both Windows and Unix operating systems like Linux and macOS.  In this article, you'll learn how to exit a Python program in",
-          "link": "https://www.freecodecamp.org/news/python-end-program-how-to-exit-a-python-program-in-terminal/",
-          "publishedOn": "2023-05-16T16:48:59.000Z",
-          "wordCount": 1143,
-          "title": "Python End Program – How to Exit a Python Program in the Terminal",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/jake-walker-MPKQiDpMyqU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/",
-          "author": "Adekola Olawale",
-          "description": "If you're a software developer, you may be familiar with the concept of version control. Version control is the practice of managing changes to your codebase over time. It's an essential tool for any development project.  One of the most popular version control systems is Git, which is widely",
-          "link": "https://www.freecodecamp.org/news/how-to-use-git-best-practices-for-beginners/",
-          "publishedOn": "2023-05-16T16:33:59.000Z",
-          "wordCount": 6224,
-          "title": "Git Best Practices – A Guide to Version Control for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/header-min-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/",
-          "author": "Daniel Adetunji",
-          "description": "Abstracting is the process of reducing something to its most basic form. It is the hiding away of the inessential.  For a drawing, this could be reducing it to its basic lines and shapes. Naturally, there are many levels of an abstraction, since what is inessential is subjective.",
-          "link": "https://www.freecodecamp.org/news/cloud-computing-abstractions-explained/",
-          "publishedOn": "2023-05-16T16:31:36.000Z",
-          "wordCount": 2728,
-          "title": "Cloud Computing Abstractions – IaaS, PaaS, FaaS, and SaaS Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pictures-2.001-2.jpeg"
         }
       ]
     }
