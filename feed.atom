@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-16T01:11:23.410Z</updated>
+    <updated>2023-06-17T01:07:10.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use GitHub Copilot to Become a Happier and More Productive Developer]]></title>
+        <id>https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/</id>
+        <link href="https://www.freecodecamp.org/news/developer-productivity-with-github-copilot/"/>
+        <updated>2023-06-16T17:02:17.000Z</updated>
+        <summary type="html"><![CDATA[There are a number of AI tools for developers emerging on the market. But in my mind GitHub Copilot stands above the rest because of its usability, seamless IDE integration, and remarkable enhancements to developer productivity. Copilot offers a variety of AI tools that have radically streamlined my experience as]]></summary>
+        <author>
+            <name>Tim Kleier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Was SmashingConf In San Franciso Like?]]></title>
+        <id>https://smashingmagazine.com/2023/06/smashingconf-sanfrancisco2023-recap/</id>
+        <link href="https://smashingmagazine.com/2023/06/smashingconf-sanfrancisco2023-recap/"/>
+        <updated>2023-06-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One way of getting a more behind-the-scenes experience of any Smashing event is to apply as a volunteer, and Ren did just that! The SmashingConf team organized a conference in good ol’ San Francisco this year, and here’s pretty much how it went down.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ren Chen)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlock the Mysteries of Pointers in C]]></title>
         <id>https://www.freecodecamp.org/news/finally-understand-pointers-in-c/</id>
@@ -954,36 +974,6 @@
         <summary type="html"><![CDATA[ChatGPT can be used to supercharge software development. You even create complete applications with ChatGPT. We just published a course on the freeCodeCamp.org YouTube channel that will show you how you can create a full stack app with ChatGPT. This course, authored by Judy from webdecoded, leverages the power of]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RegEx for Date Formats – Regular Expressions for Matching Dates]]></title>
-        <id>https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/</id>
-        <link href="https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/"/>
-        <updated>2023-05-18T12:41:17.000Z</updated>
-        <summary type="html"><![CDATA[Regular expressions let you match any string, be it in the form of various user inputs such as username, password, URL, and even different date formats. In this article, I’ll show you several ways you can match a date with regular expressions. In the programming world, there are always multiple]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular Upgrades That Will Improve Your Developer Experience]]></title>
-        <id>https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/</id>
-        <link href="https://www.freecodecamp.org/news/angular-upgrades-to-improve-developer-experience/"/>
-        <updated>2023-05-17T23:40:59.000Z</updated>
-        <summary type="html"><![CDATA[When we talk about the Developer Experience [https://microsoft.github.io/code-with-engineering-playbook/developer-experience/] , we're referring to the level of difficulty a developer faces when completing essential tasks.  Factors like the complexity of a development framework or the absence of  syntactic sugar [https://www.techopedia.com/definition/10212/syntactic-sugar] in a programming language can negatively impact it. A robust]]></summary>
-        <author>
-            <name>Brenda Chepkorir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Regular Expressions in YAML File – RegEx in YAML Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/"/>
-        <updated>2023-05-17T14:48:51.000Z</updated>
-        <summary type="html"><![CDATA[YAML does not have built-in support for regular expressions. But you can still include regex patterns as part of a YAML file's contents, access those patterns, and create a regex out of them. You can do this, for example, with the JavaScript RegExp constructor. So, in YAML, regular expressions are]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
