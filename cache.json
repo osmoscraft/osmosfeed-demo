@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
+          "author": "hello@smashingmagazine.com (Scott Gallant)",
+          "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
+          "link": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
+          "publishedOn": "2023-06-20T09:00:00.000Z",
+          "wordCount": 3621,
+          "title": "Visual Editing Comes To The Headless CMS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/visual-editing-headless-cms/visual-editing-headless-cms.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/visual-editing-headless-cms/visual-editing-headless-cms.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-2/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "Part 2 of the series concentrates on implementing internationalization (i18n) on a Gatsby website, an essential feature on any multilingual website that can be quite a bit of trouble if incorrectly implemented, creating more problems than it solves.",
@@ -280,21 +295,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-61/smashing-podcast-episode-61.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/practical-design-tips-guidelines-beginner-designers/",
-          "author": "hello@smashingmagazine.com (Laurent Baumann)",
-          "description": "It’s easy for beginner designers to get overwhelmed and lose confidence when creating presentations, landing pages, app and web design mockups, and even cards. Laurent Baumann shares a few simple guidelines and practical tips to help you in such situations.",
-          "link": "https://smashingmagazine.com/2023/05/practical-design-tips-guidelines-beginner-designers/",
-          "publishedOn": "2023-05-22T11:00:00.000Z",
-          "wordCount": 5573,
-          "title": "Practical Design Tips And Guidelines For Beginner Designers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/practical-design-tips-guidelines-beginner-designers/practical-design-tips-guidelines-beginner-designers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/practical-design-tips-guidelines-beginner-designers/practical-design-tips-guidelines-beginner-designers.jpg"
         }
       ]
     },
@@ -303,6 +303,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/creating-html-forms/",
+          "author": "David Clinton",
+          "description": "If you have a website, it's only a matter of time before you feel the irrepressible urge to gather information about your site's users.  The most direct way to do that is to ask them some questions. And, in the HTML world, the best tool for recording the answers",
+          "link": "https://www.freecodecamp.org/news/creating-html-forms/",
+          "publishedOn": "2023-06-20T22:17:13.000Z",
+          "wordCount": 1783,
+          "title": "How to Create a Simple HTML and PHP Form",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-john-petalcurin-2115257.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/",
+          "author": "Deborah Kurata",
+          "description": "Have you noticed a hash symbol showing up in Angular code samples? If not, you may see it soon. What is the purpose of the # and when should you use it? The # symbol was recently added to JavaScript to denote private class properties. Making a class variable private",
+          "link": "https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/",
+          "publishedOn": "2023-06-20T20:39:45.000Z",
+          "wordCount": 1795,
+          "title": "How to Hide Your Angular Properties – # vs private Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/hash-v-private-thumbnail.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/complete-guide-to-css-transform-functions-and-properties/",
           "author": "Oluwatobi Sofela",
