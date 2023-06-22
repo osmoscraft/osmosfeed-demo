@@ -280,21 +280,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of the Smashing Podcast, we’re talking about Web Platform Baseline. What is it, and how can it help determine your browser support policy? Drew McLellan talks to expert Rachel Andrew to find out.",
-          "link": "https://smashingmagazine.com/2023/05/smashing-podcast-episode-61/",
-          "publishedOn": "2023-05-23T08:00:00.000Z",
-          "wordCount": 10432,
-          "title": "Smashing Podcast Episode 61 With Rachel Andrew: What Is Web Platform Baseline?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-61/smashing-podcast-episode-61.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-61/smashing-podcast-episode-61.png"
         }
       ]
     },
@@ -303,6 +288,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
+          "author": "Prajwal Kulkarni",
+          "description": "In today's fast-paced world, seamless integration between various services and systems has become ever more important. Security is also equally important while stitching these services together. So it's crucial to design applications meaningfully so that there's minimal friction between various systems.  This article focuses on the communication between a",
+          "link": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
+          "publishedOn": "2023-06-21T16:43:47.000Z",
+          "wordCount": 2213,
+          "title": "How to Create an API Proxy Gateway with AWS HTTP API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/praneet-kumar-H8dcf-v98mA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
+          "author": "Tom Chant",
+          "description": "Chatbots are transforming the way we interact online. Thanks to the OpenAI API, crafting intelligent, context-aware chatbots is now well within the reach of any budding web developer.  In this tutorial, I will teach you everything you need to know to build your own chatbot using the GPT-4 API.",
+          "link": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
+          "publishedOn": "2023-06-21T14:07:17.000Z",
+          "wordCount": 5118,
+          "title": "How to Build a ChatBot using the GPT-4 API – Full Project-Based Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Slide-16_9---15.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/",
+          "author": "Arunachalam B",
+          "description": "In the world of cloud computing and serverless architecture, AWS API Gateway is a powerful tool that helps you build robust, secure, and scalable APIs.  In this tutorial, I'll introduce you to API Gateway and explain the benefits of using this helpful tool. Then I'll show you how to",
+          "link": "https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/",
+          "publishedOn": "2023-06-21T13:56:00.000Z",
+          "wordCount": 2007,
+          "title": "How to Offer Custom APIs to Your Users with AWS API Gateway",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/AWS-API-Gateway-Banner.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/creating-html-forms/",
           "author": "David Clinton",
@@ -1032,46 +1047,6 @@
           "wordCount": 2319,
           "title": "How to Use RabbitMQ with NodeJS to Send and Receive Messages",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/What-is-RabbitMQ-and-How-to-use-it-with-NodeJS_1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
-          "author": "Beau Carnes",
-          "description": "Learn how create a full stack app with Next.js, TypeScript, and AWS Amplify. We just publshed a new full stack app course on the freeCodeCamp.org YouTube channel. Brian H. Hough, a renowned software engineer and course creator, is your guide. He'll help you build an inspirational quote generator app. You'll",
-          "link": "https://www.freecodecamp.org/news/full-stack-development-with-next-js-typescript-and-aws/",
-          "publishedOn": "2023-05-22T18:06:08.000Z",
-          "wordCount": 964,
-          "title": "Full-Stack Development with Next.js, TypeScript, and AWS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/nextfullstack.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/",
-          "author": "Favour C. Felix",
-          "description": "Before now, making your website responsive was limited to resizing HTML elements with media queries. This was, and still is, a brilliant innovation for web development in general.  But web development has evolved with the advent of JavaScript frameworks—particularly with the use of components as building blocks in developing",
-          "link": "https://www.freecodecamp.org/news/container-queries-responsive-design-beyond-the-viewport/",
-          "publishedOn": "2023-05-22T16:24:14.000Z",
-          "wordCount": 1413,
-          "title": "How to Use Container Queries – Responsive Design Beyond the Viewport",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/container-queries-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/",
-          "author": "Kolade Chris",
-          "description": "YouTube is the most popular platform for watching and discovering educational and entertainment-focused videos. But if you have a privacy concern and want to clear your YouTube history for a fresh start, deleting your YouTube search and watch histories can be an effective solution. In this article, I will guide",
-          "link": "https://www.freecodecamp.org/news/delete-youtube-history-how-to-delete-youtube-search-and-watch-histories/",
-          "publishedOn": "2023-05-22T14:55:02.000Z",
-          "wordCount": 1284,
-          "title": "Delete YouTube History – How to Delete YouTube Search and Watch Histories",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/deleteYtHistories.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/",
-          "author": "Shane Duggan",
-          "description": "As a software developer, I've always tried to write flawless code. Great code is not just functional – it should also be elegant, efficient, and robust.  But let's be honest – the journey towards code perfection can sometimes feel like an uphill battle. Or more often than not, a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-ai-to-improve-code-quality/",
-          "publishedOn": "2023-05-22T13:57:16.000Z",
-          "wordCount": 3094,
-          "title": "How You Can Use AI to Improve Your Code Quality",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/AICodeQuality--1-.png"
         }
       ]
     }
