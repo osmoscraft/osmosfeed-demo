@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
+          "link": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
+          "publishedOn": "2023-06-22T08:00:00.000Z",
+          "wordCount": 5030,
+          "title": "Using AI To Detect Sentiment In Audio Files",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/visual-editing-headless-cms/",
           "author": "hello@smashingmagazine.com (Scott Gallant)",
           "description": "Visual editing is beginning to make its way into headless architecture and the early results look promising. We’ll look at a few headless CMSs that currently support visual editing in this article.",
@@ -288,6 +303,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
+          "author": "Wenbin Fang",
+          "description": "ChatGPT [https://chat.openai.com/] is a highly intelligent auto-completion tool. It takes instructions or questions in natural language and provides good enough text-based outputs.  But there’s a catch — ChatGPT’s knowledge only goes up until September 2021. So, as of writing this blog post (June 2023), the model itself is not aware of",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
+          "publishedOn": "2023-06-22T23:01:49.000Z",
+          "wordCount": 1888,
+          "title": "How to Build a ChatGPT Plugin – Case Study using PodcastAPI.com and Serverless Cloudflare Pages",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/56ae8d3bf6a04a8b85c96c695f29643f.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you are learning MySQL, then you are likely enjoying executing different commands and checking the results afterward.  But you may be working on a project where you have modified your database to an acceptable state and you're worried about altering it by mistake. This could happen when you're",
+          "link": "https://www.freecodecamp.org/news/how-to-make-a-database-read-only-in-mysql/",
+          "publishedOn": "2023-06-22T22:49:49.000Z",
+          "wordCount": 1184,
+          "title": "How to Make a Database Read-Only in MySQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/altumcode-dMUt0X3f59Q-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/",
+          "author": "Eamonn Cottrell",
+          "description": "Are you tired of all the AI talk yet? I am too, but I'm also intrigued by the technology behind it. If you'd like to dive into some of the details behind how AI actually works and take a break from the many creepy AI examples on the internet, check",
+          "link": "https://www.freecodecamp.org/news/intro-to-generative-ai-10-free-courses-by-google/",
+          "publishedOn": "2023-06-22T22:22:52.000Z",
+          "wordCount": 1579,
+          "title": "Intro to Generative AI – 10 Free Courses by Google",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/gen-AI.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-every-software-engineer-should-know/",
+          "author": "Tamerlan Gudabayev",
+          "description": "If you're a software engineer, you may feel like you are in a bit of a rat race.  The rat race to learn the new technologies. A new frontend framework, a new database or even a new language which is a variation of another language. It's never ending and",
+          "link": "https://www.freecodecamp.org/news/what-every-software-engineer-should-know/",
+          "publishedOn": "2023-06-22T22:06:46.000Z",
+          "wordCount": 3015,
+          "title": "Key Computer Science Concepts Every Software Engineer Should Know – and How to Learn Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-christina-morillo-1181298--2-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/",
+          "author": "Rajdeep Singh",
+          "description": "If you're a beginner who's using a Gnome-based distro like Ubuntu, Fedora, Arch Linux, and so on, there are tons of extensions available from the Gnome community. Gnome is an open-source Linux-based distro desktop environment (operating system) maintained by a large number of developers. Choosing the right Gnome extension(s) can",
+          "link": "https://www.freecodecamp.org/news/the-best-gnome-extensions-for-developers/",
+          "publishedOn": "2023-06-22T22:02:31.000Z",
+          "wordCount": 1265,
+          "title": "The Best Gnome Extensions For Developer Productivity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/The-Best-Gnome-Extensions-For-Developer-Productivity.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/",
+          "author": "Shane Duggan",
+          "description": "I've got a fun tutorial for you today. If you've read my previous article on building custom-knowledge chatbots using LangChain [/news/langchain-how-to-create-custom-knowledge-chatbots/], then you must be bursting with ideas of great projects you can create. Well, I want to encourage your creativity and give a concrete example of what you can",
+          "link": "https://www.freecodecamp.org/news/create-an-ai-tweet-generator-openai-langchain/",
+          "publishedOn": "2023-06-22T20:20:04.000Z",
+          "wordCount": 2390,
+          "title": "How to Create an AI Tweet Generator Using LangChain",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
+          "author": "Beau Carnes",
+          "description": "Pandas is an open source data analysis and manipulation tool. It is important to learn if you are interested in data science. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Pandas through interactive projects. You will develop 7 projects ranging from",
+          "link": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
+          "publishedOn": "2023-06-22T12:50:51.000Z",
+          "wordCount": 1126,
+          "title": "Learn Pandas & Python for Data Analysis [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pandas.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
+          "author": "Beau Carnes",
+          "description": "Supabase is an open-source Firebase alternative that is rapidly gaining popularity in the developer community. If you are looking to sharpen their backend skills, consider learning how to use Supabase. We just published a course on the freeCodeCamp.org channel that is designed to help you master Supabase. This course was",
+          "link": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
+          "publishedOn": "2023-06-22T12:20:35.000Z",
+          "wordCount": 1039,
+          "title": "Learn Supabase, an Open-Source Firebase Alternative",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/supabase.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
           "author": "Prajwal Kulkarni",
@@ -1017,36 +1112,6 @@
           "wordCount": 959,
           "title": "Use Django to Code a ChatGPT Clone",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/chatbot.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
-          "author": "Manoel Cortes Mendez",
-          "description": "In this article, I compiled 120 free online courses offered by the 60 best universities in the world for studying math in 2023. I did so by combining popular university rankings to identify the best institutions, and then I used the Class Central database [https://www.classcentral.com/subjects] to find all their math",
-          "link": "https://www.freecodecamp.org/news/math-online-courses-from-worlds-top-universities/",
-          "publishedOn": "2023-05-23T22:12:28.000Z",
-          "wordCount": 2364,
-          "title": "120 Free Online Math Courses from the World’s Top Universities",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/mathematics-banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
-          "author": "Austin Gil",
-          "description": "To support file uploads in your application, you will have to learn how to send files from the frontend [https://austingil.com/uploading-files-with-html/] and  receive files on the backend [https://austingil.com/file-uploads-in-node/].  This tutorial is going to take a step back and explore architectural changes that'll help you reduce costs when adding file",
-          "link": "https://www.freecodecamp.org/news/stream-file-uploads-to-s3-object-storage-and-reduce-costs/",
-          "publishedOn": "2023-05-23T19:51:05.000Z",
-          "wordCount": 3784,
-          "title": "How to Stream File Uploads to S3 Object Storage and Reduce Costs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-219717.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
-          "author": "Arunachalam B",
-          "description": "If you're exploring the world of distributed systems and real-time data pipelines, you've probably come across the concept of message queues.  There are a number of tools in this field, but RabbitMQ and Apache Kafka are two of the most popular. While both are robust and reliable, they have",
-          "link": "https://www.freecodecamp.org/news/how-to-use-rabbitmq-with-nodejs/",
-          "publishedOn": "2023-05-23T14:45:51.000Z",
-          "wordCount": 2319,
-          "title": "How to Use RabbitMQ with NodeJS to Send and Receive Messages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/What-is-RabbitMQ-and-How-to-use-it-with-NodeJS_1.png"
         }
       ]
     }
