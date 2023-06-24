@@ -12,6 +12,36 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/penpot-flex-layout-building-css-layouts-design-tool/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "In today’s article, let’s explore how we can use Flex Layout and see how it empowers designers with greater control over their work while saving everyone’s time.",
+          "link": "https://smashingmagazine.com/2023/06/penpot-flex-layout-building-css-layouts-design-tool/",
+          "publishedOn": "2023-06-23T13:00:00.000Z",
+          "wordCount": 3947,
+          "title": "Penpot’s Flex Layout: Building CSS Layouts In A Design Tool",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/penpot-flex-layout-building-css-layouts-design-tool/penpot-flex-layout-building-css-layouts-design-tool.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/penpot-flex-layout-building-css-layouts-design-tool/penpot-flex-layout-building-css-layouts-design-tool.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollendar and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.",
+          "link": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
+          "publishedOn": "2023-06-23T08:00:00.000Z",
+          "wordCount": 6432,
+          "title": "Behind The Curtains Of Wikipedia Redesign",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
@@ -280,21 +310,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/success-at-scale-pre-release/success-at-scale-preorder-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
-          "author": "hello@smashingmagazine.com (Sarah Oke Okolo)",
-          "description": "Say goodbye to traditional workflows and embrace Agile to unlock the power of high-quality code. Discover how Agile methodologies promote simplicity, modularization, readability, and continuous improvement, resulting in faster turnaround times, more responsive development processes, and ultimately, the creation of high-quality software that meets customer needs.",
-          "link": "https://smashingmagazine.com/2023/05/impact-agile-methodologies-code-quality/",
-          "publishedOn": "2023-05-25T11:00:00.000Z",
-          "wordCount": 5644,
-          "title": "The Impact Of Agile Methodologies On Code Quality",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/impact-agile-methodologies-code-quality/impact-agile-methodologies-code-quality.jpg"
         }
       ]
     },
@@ -303,6 +318,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/exception-filters-in-nestjs/",
+          "author": "Okoye Victor Chukwuebuka",
+          "description": "It's common to find errors and bugs in your code if you're a software developer. They might occur because of incorrect input, from passing the wrong data types, or because of delays or response timeouts.  And even though errors and bugs are a part of life, they can stress",
+          "link": "https://www.freecodecamp.org/news/exception-filters-in-nestjs/",
+          "publishedOn": "2023-06-23T21:38:23.000Z",
+          "wordCount": 1597,
+          "title": "How to Use Exception Filters to Catch Bugs in Nest.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/brett-jordan-XWar9MbNGUY-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/",
+          "author": "Mihail Gaberov",
+          "description": "In this tutorial we are going to build a real-life shopping cart 🛒 application.  We'll talk about the technology stack and the features it will have in a minute. I'll also walk you through the process step-by-step. But first, let me show you what it's going to look like.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-shopping-cart-with-react-and-typescript/",
+          "publishedOn": "2023-06-23T17:09:00.000Z",
+          "wordCount": 5635,
+          "title": "How to Build a Shopping Cart with React and TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/shopping-cart-app-article.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-chatgpt-plugin-case-study/",
           "author": "Wenbin Fang",
@@ -1062,56 +1097,6 @@
           "wordCount": 1751,
           "title": "Why Accessibility Matters in UI/UX Design",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels--------------3077882.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/",
-          "author": "Shittu Olumide",
-          "description": "Copying directories is an essential task in Linux. It allows you to duplicate directories, create backups, or transfer data between different locations.  One of the most commonly used commands for copying files and directories in Linux is cp. In this tutorial, we will explore how to copy directories effectively",
-          "link": "https://www.freecodecamp.org/news/how-to-copy-a-directory-in-linux-with-the-cp-command/",
-          "publishedOn": "2023-05-24T22:21:19.000Z",
-          "wordCount": 1182,
-          "title": "How to Copy a Directory in Linux with the cp Command",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-How-to-Copy-a-Directory-in-Linux-with-the-cp-Command.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/",
-          "author": "Eamonn Cottrell",
-          "description": "In this article we'll link two Google services -> Google Sheets and Google Calendar. By using a very short custom function in Google Apps Script, we can add a list of events from a Google Sheet to a Google Calendar. 🤯 And we'll even have it email our guests as",
-          "link": "https://www.freecodecamp.org/news/google-sheets-automatically-post-events-to-google-calendar-with-apps-script/",
-          "publishedOn": "2023-05-24T21:44:39.000Z",
-          "wordCount": 1430,
-          "title": "Google Sheets – How to Automatically Post Events to Google Calendar with Apps Script",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Sheets-to-Calendar3.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/",
-          "author": "Sonya Moisset",
-          "description": "Artificial intelligence (AI) has been a game-changer in cybersecurity. It has revolutionized the approach to cybersecurity by providing advanced techniques to detect and mitigate cyber threats.  The use of AI in cybersecurity is increasing rapidly, with many companies adopting it as a key tool in their cybersecurity strategy.",
-          "link": "https://www.freecodecamp.org/news/how-to-use-artificial-intelligence-in-cybersecurity/",
-          "publishedOn": "2023-05-24T20:58:02.000Z",
-          "wordCount": 5438,
-          "title": "How Security Analysts Can Use Artificial Intelligence (AI) in Cybersecurity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/_71704ac1-39a2-4892-875c-0f342230ec89.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/",
-          "author": "Victor Eke",
-          "description": "Navigation bars are essential components used a lot in websites and web apps. As a web developer, you will need to be able to customize them, either for a client project or a basic portfolio site. In this guide, you'll learn how to build a navigation bas for yourself from",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-responsive-navigation-bar-with-dropdown-menu-using-javascript/",
-          "publishedOn": "2023-05-24T20:52:51.000Z",
-          "wordCount": 3314,
-          "title": "How to Build a Responsive Navigation Bar with a Dropdown Menu using JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/responsive-navigation-bar-with-dropdown-menu-using-javascript.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-django-to-code-a-chatgpt-clone/",
-          "author": "Beau Carnes",
-          "description": "Creating an AI chatbot might seem like a daunting task, especially if you're not an experienced programmer. But we just launched a course on the freeCodeCamp.org YouTube channel that will demystify the process and walk you through it step-by-step. This course focuses on using Django, a high-level Python web framework,",
-          "link": "https://www.freecodecamp.org/news/use-django-to-code-a-chatgpt-clone/",
-          "publishedOn": "2023-05-24T18:30:52.000Z",
-          "wordCount": 959,
-          "title": "Use Django to Code a ChatGPT Clone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/chatbot.png"
         }
       ]
     }
