@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
+          "author": "hello@smashingmagazine.com (Patrick Brosset)",
+          "description": "Let’s discover the most popular DevTools tips that can boost your productivity and revolutionize your debugging workflow.",
+          "link": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
+          "publishedOn": "2023-06-27T12:00:00.000Z",
+          "wordCount": 5944,
+          "title": "Useful DevTools Tips and Tricks",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/penpot-flex-layout-building-css-layouts-design-tool/",
           "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
           "description": "In today’s article, let’s explore how we can use Flex Layout and see how it empowers designers with greater control over their work while saving everyone’s time.",
@@ -288,6 +303,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
+          "author": "Sampurna Chapagain",
+          "description": "Django is a free and open-source Python web framework that helps you quickly develop secure and maintainable web applications. In this tutorial, I will guide you step by step as we create a calculator app using django. This is a beginner-friendly tutorial, so if you are new to Django, you",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
+          "publishedOn": "2023-06-27T17:29:01.000Z",
+          "wordCount": 1882,
+          "title": "How to Create a Simple Calculator App in Django",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Add-a-subheading--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/",
+          "author": "Rahul",
+          "description": "Have you ever worked with promises in JavaScript and gotten frustrated when one rejects and ruins everything?  You write some promise-based code, everything is chugging along nicely, and then boom – one little promise rejects and the whole chain comes crashing down. Your code grinds to a halt and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/",
+          "publishedOn": "2023-06-27T17:03:57.000Z",
+          "wordCount": 1605,
+          "title": "How to Use Promise.allSettled() in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/andrew-petrov-hopnkQoC0dg-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/",
+          "author": "Hillary Nyakundi",
+          "description": "Python is one of the most popular programming languages today. Its usage cuts across multiple fields, but the most common ones are data science, machine learning, and web development. When you're coding in Python, you'll use different data structures. In Python, among the most used is the dictionary. A dictionary",
+          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/",
+          "publishedOn": "2023-06-27T16:59:26.000Z",
+          "wordCount": 1291,
+          "title": "How to Check if a Key Exists in a Dictionary in Python – Python Dict Has Key",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImage-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-data-types-and-variables/",
+          "author": "Isah Jacob",
+          "description": "As a beginner learning Java, one of the fundamental topics you'll need to understand is data types.  Every day in the life of every software engineer is about how to manipulate data, how to get data from users, the format of the data, and how this data is stored",
+          "link": "https://www.freecodecamp.org/news/java-data-types-and-variables/",
+          "publishedOn": "2023-06-27T16:59:18.000Z",
+          "wordCount": 2237,
+          "title": "Java Data Types And Variables – Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/data-types-and-variables.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/",
+          "author": "Hillary Nyakundi",
+          "description": "Encountering errors is very common during software development, and when working with Python and Django one such error is ImportError: cannot import name 'force text' from 'django.utils.encoding'. This particular error indicates that there is a problem with importing the force text method from the django.utils.encoding module. The missing method is",
+          "link": "https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/",
+          "publishedOn": "2023-06-27T16:43:24.000Z",
+          "wordCount": 942,
+          "title": "ImportError: cannot import name 'force text' from 'django.utils.encoding' [Python Error Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImage-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-advanced-c-concepts/",
+          "author": "Beau Carnes",
+          "description": "As a software developer, staying up-to-date with evolving technologies is a cornerstone of your career.  C# is a powerful language that has continued to evolve and transform the landscape of software development. If you are a programmer with some experience in C# and looking to deepen your knowledge, then",
+          "link": "https://www.freecodecamp.org/news/learn-advanced-c-concepts/",
+          "publishedOn": "2023-06-27T13:51:52.000Z",
+          "wordCount": 1027,
+          "title": "Learn Advanced C# Concepts",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/csharp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-progressive-web-apps/",
+          "author": "Hillary Nyakundi",
+          "description": "These days, everything is made possible with the help of mobile phones and applications. Let's say you need to order food – you can do so instantly via the company's app. Maybe you need government services – the same thing applies. You can even get medical emergency dial services via",
+          "link": "https://www.freecodecamp.org/news/what-are-progressive-web-apps/",
+          "publishedOn": "2023-06-27T12:00:00.000Z",
+          "wordCount": 2883,
+          "title": "What is a PWA? Progressive Web Apps for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImagePWA.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/difference-between-logical-operators-and-and-or/",
+          "author": "Dillion Megida",
+          "description": "AND && and OR || are logical operators in JavaScript which you can use for performing different logical expressions. In this article, I'll explain the difference between them. The goal of this article is for you to understand how these operators work and how they are different. To understand these",
+          "link": "https://www.freecodecamp.org/news/difference-between-logical-operators-and-and-or/",
+          "publishedOn": "2023-06-27T08:15:17.000Z",
+          "wordCount": 2200,
+          "title": "Difference between logical operators AND and OR",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/31-and-or.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cdns-speed-up-performance-by-reducing-latency/",
+          "author": "Austin Gil",
+          "description": "In some recent tutorials, I covered supporting file uploads on the front end [https://austingil.com/uploading-files-with-html/], supporting file uploads on the back end [https://austingil.com/file-uploads-in-node/], and optimizing costs by moving file uploads to object storage. [https://austingil.com/upload-to-s3/] Today, I'll continue to focus on more architectural work, but this time it’ll be focused on optimizing",
+          "link": "https://www.freecodecamp.org/news/cdns-speed-up-performance-by-reducing-latency/",
+          "publishedOn": "2023-06-27T00:17:23.000Z",
+          "wordCount": 2060,
+          "title": "How CDNs Help Speed Up Performance by Reducing Latency",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-pixabay-315934.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/getting-started-with-nlp-using-spacy/",
           "author": "Arunachalam B",
