@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-28T01:21:19.789Z</updated>
+    <updated>2023-06-29T01:18:11.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use a Postman Mock Server with Angular]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/"/>
+        <updated>2023-06-28T21:47:41.000Z</updated>
+        <summary type="html"><![CDATA[New front end features often require back end data support – especially where new endpoints are concerned.  For example, an application that needs an authenticated user experience may need a new /authenticate endpoint. If for any reason endpoint development is stalled or lags behind, despite the sprint planning, you]]></summary>
+        <author>
+            <name>Brenda Chepkorir</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Simple Calculator App in Django]]></title>
         <id>https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/</id>
@@ -954,16 +964,6 @@
         <summary type="html"><![CDATA[Version control is a system that helps manage changes to files and directories over time. It allows multiple people to collaborate on a project, keep track of modifications, and revert to previous versions if needed.  One of the most popular version control systems is Git. Git [https://git-scm.com/] is a]]></summary>
         <author>
             <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does the "Maximum call stack exceeded" error mean?]]></title>
-        <id>https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/</id>
-        <link href="https://www.freecodecamp.org/news/what-does-the-maximum-call-stack-stack-exceeded-error-mean/"/>
-        <updated>2023-05-30T07:56:07.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever gotten an error similar to this? This error occurs because the call stack has exceeded its limit. But what does this mean? First, let's understand what the call stack is. The Call Stack The call stack is a data structure in JavaScript that contains the function(s) being]]></summary>
-        <author>
-            <name>Dillion Megida</name>
         </author>
     </entry>
 </feed>
