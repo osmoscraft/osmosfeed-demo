@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/06/perfect-design-process/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "The design process is messy. You might be following a structured approach, but too often, it takes a life of its own. And before you know it, you are designing in chaos, with last-minute changes and missed deadlines. So, what’s the “perfect” design process?",
+          "link": "https://smashingmagazine.com/2023/06/perfect-design-process/",
+          "publishedOn": "2023-06-29T10:00:00.000Z",
+          "wordCount": 3903,
+          "title": "What’s The Perfect Design Process?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/perfect-design-process/perfect-design-process.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/perfect-design-process/perfect-design-process.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
           "author": "hello@smashingmagazine.com (Patrick Brosset)",
           "description": "Let’s discover the most popular DevTools tips that can boost your productivity and revolutionize your debugging workflow.",
@@ -280,21 +295,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/advanced-form-control-styling-selectmenu-anchoring-api/advanced-form-control-styling-selectmenu-anchoring-api.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar for June 2023. Enjoy!",
-          "link": "https://smashingmagazine.com/2023/05/desktop-wallpaper-calendars-june-2023/",
-          "publishedOn": "2023-05-31T08:00:00.000Z",
-          "wordCount": 5295,
-          "title": "Create Your Own Path In June (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-june-2023/june-22-create-your-own-path-preview-opt.png"
         }
       ]
     },
@@ -303,6 +303,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
+          "author": "Valentine Gatwiri",
+          "description": "In the field of machine learning, there are two approaches: supervised learning and unsupervised learning. And it all depends on whether your data is labeled or not. Labels shape the way models are trained and affect how we gather insights from them. In this article, we'll explore the concepts of",
+          "link": "https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/",
+          "publishedOn": "2023-06-29T16:10:36.000Z",
+          "wordCount": 2638,
+          "title": "Supervised vs Unsupervised Learning – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Screenshot-from-2023-06-27-14-46-14.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-3d-rpg-game-with-godot/",
+          "author": "Beau Carnes",
+          "description": "Embark on a journey through the realms of 3D game development with a new video course on the freeCodeCamp.org YouTube channel. Designed by the experienced game developer Omar Zaki, this course will help you master the creation of a 3D Action Role-Playing Game (RPG) with the open source Godot engine.",
+          "link": "https://www.freecodecamp.org/news/create-a-3d-rpg-game-with-godot/",
+          "publishedOn": "2023-06-29T13:50:40.000Z",
+          "wordCount": 1019,
+          "title": "Create a 3D RPG Game with Godot",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/godot.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/",
           "author": "Brenda Chepkorir",
@@ -972,106 +992,6 @@
           "wordCount": 2462,
           "title": "How to Use AWS Cognito for User Authentication",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/AWS-cognito.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-playbooks-for-incident-recovery/",
-          "author": "David Clinton",
-          "description": "A playbook is the official, formal written record that describes policies and processes that will reliably produce a working deployment of an organization's resource stack. When it comes to generating predictable results, the playbook is  the plan. I'll describe all the key elements of a good playbook in just",
-          "link": "https://www.freecodecamp.org/news/use-playbooks-for-incident-recovery/",
-          "publishedOn": "2023-05-31T01:28:09.000Z",
-          "wordCount": 1663,
-          "title": "How to Use Playbooks to Execute an Incident Recovery Plan",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-mateusz-dach-353644.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-cookies-to-customize-web-page-content/",
-          "author": "Marco Venturi",
-          "description": "If you develop websites or web apps, someday you’ll have to deal with cookies. That’s why I decided to write this tutorial on how to use cookies to customize a web page according to the previous web page the user comes from.  I wrote this tutorial using PHP, but",
-          "link": "https://www.freecodecamp.org/news/how-to-use-cookies-to-customize-web-page-content/",
-          "publishedOn": "2023-05-30T22:04:35.000Z",
-          "wordCount": 1695,
-          "title": "How to Use Cookies to Customize a Web Page's Content",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/vyshnavi-bisani-z8kriatLFdA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-full-stack-application-with-nextjs/",
-          "author": "Yazdun Fadali",
-          "description": "Next.js can seem intimidating at first, with so many new concepts to grasp. But don't worry – in this step-by-step tutorial, I will provide you with all the essential information you need to create your first modern full-stack application with Next.js. In this tutorial, I will take you through the",
-          "link": "https://www.freecodecamp.org/news/build-a-full-stack-application-with-nextjs/",
-          "publishedOn": "2023-05-30T21:54:36.000Z",
-          "wordCount": 6847,
-          "title": "How to Create a Full-Stack Application with Next.js – A Step-By-Step Tutorial for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Frame-3-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update/",
-          "author": "Brian Barrow",
-          "description": "Back in 2020, I wrote a post [/news/how-to-create-and-publish-a-vue-component-library/] about building a Vue Component library. Since then the package I used has been deprecated, and the recommended way to build a library/package is to use Vite.  Getting Started I started off the project by running npm create vite@latest and naming",
-          "link": "https://www.freecodecamp.org/news/how-to-create-and-publish-a-vue-component-library-update/",
-          "publishedOn": "2023-05-30T20:11:28.000Z",
-          "wordCount": 1408,
-          "title": "How to Create and Publish a Vue Component Library – 2023 Update",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/pexels-pixabay-159711.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/responsive-design-best-practices/",
-          "author": "Fakorede Damilola",
-          "description": "The way we interact with the web has changed dramatically, and it will keep changing. In the past, most people used desktop computers to access the internet. But today, people are using a wide variety of devices, including laptops, tablets, and smartphones. This has resulted in a growing demand for",
-          "link": "https://www.freecodecamp.org/news/responsive-design-best-practices/",
-          "publishedOn": "2023-05-30T20:04:07.000Z",
-          "wordCount": 3461,
-          "title": "How to Build Responsive Websites – Best Practices for Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/responsive-g619d39e59_1280.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scenes/",
-          "author": "Esther Christopher",
-          "description": "So you may know that your code somehow compiles and executes in your browser to display the beautiful web application you’ve built. But are you aware of all the components that come into play to enable the output?  Let’s dive a little into JavaScript behind the scenes. The abstract",
-          "link": "https://www.freecodecamp.org/news/how-javascript-works-behind-the-scenes/",
-          "publishedOn": "2023-05-30T18:41:00.000Z",
-          "wordCount": 2077,
-          "title": "How Does JavaScript Work Behind the Scenes? JS Engine and Runtime Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/CFF8A164-D6C4-4A88-85F2-388E83A2E3E7.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/graphql-queries-for-everyone/",
-          "author": "Velda Kiara",
-          "description": "I enjoy fictional books about greek gods, demigods, the oracle, and prophecies.  I am a huge fan of Rick Riordan's books. I recently came across Apollo's Trials, based on the greek god Apollo.  When I hear any mention of Apollo, my mind goes to the greek god who",
-          "link": "https://www.freecodecamp.org/news/graphql-queries-for-everyone/",
-          "publishedOn": "2023-05-30T18:07:33.000Z",
-          "wordCount": 2817,
-          "title": "GraphQL Tutorial – How to Query The Rick and Morty API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/cover-image--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/logical-operators-in-php/",
-          "author": "Michael Para",
-          "description": "Logical operators play a key role in programming languages. They let you manipulate boolean values and evaluate logical conditions.  In PHP, there are four fundamental logical operators: AND, OR, NOT, and XOR. This guide will help you understand these operators, and I'll explain how they work using code examples",
-          "link": "https://www.freecodecamp.org/news/logical-operators-in-php/",
-          "publishedOn": "2023-05-30T17:35:08.000Z",
-          "wordCount": 1487,
-          "title": "Logical Operators in PHP – A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/luca-bravo-XJXWbfSo2f0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you are learning machine learning / deep learning, you may be using the free  Google Colab [https://colab.research.google.com/]. But you might wonder if the free version is adequate.  If you can afford a good Nvidia Graphics Card (with a decent amount of CUDA cores) then you can easily",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-windows-machine-for-ml-dl-using-nvidia-graphics-card-cuda/",
-          "publishedOn": "2023-05-30T14:58:31.000Z",
-          "wordCount": 3185,
-          "title": "How to Setup a Windows Machine for Machine Learning/Deep Learning Using an Nvidia Graphics Card (CUDA)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/arseny-togulev-MECKPoKJYjM-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/",
-          "author": "Shittu Olumide",
-          "description": "Version control is a system that helps manage changes to files and directories over time. It allows multiple people to collaborate on a project, keep track of modifications, and revert to previous versions if needed.  One of the most popular version control systems is Git. Git [https://git-scm.com/] is a",
-          "link": "https://www.freecodecamp.org/news/git-abort-merge-how-to-cancel-a-merge-in-git/",
-          "publishedOn": "2023-05-30T14:18:30.000Z",
-          "wordCount": 1825,
-          "title": "Git Abort Merge – How to Cancel a Merge in Git",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/05/Shittu-Olumide-Git-Abort-Merge---How-to-Cancel-a-Merge-in-Git.png"
         }
       ]
     }
