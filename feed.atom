@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T01:15:53.369Z</updated>
+    <updated>2023-07-01T01:26:02.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Install MySQL and MySQL Workbench on Windows]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-mysql-workbench-on-windows/"/>
+        <updated>2023-06-30T18:23:15.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn MySQL, starting with a good client is super helpful – especially when you are just beginning your journey. There are a lot of clients out there for your MySQL-based needs, like XAMPP, DataGrip, and others. Among all of them, I prefer the MySQL Workbench [https://www.mysql.com/products/workbench/].]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with CSS Style Sheets – the Basics for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/css-style-sheets-basics/</id>
+        <link href="https://www.freecodecamp.org/news/css-style-sheets-basics/"/>
+        <updated>2023-06-30T16:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Using HTML tags like 
+, , and so on can help you organize your web page content nicely, but only up to a point.  HTML-only pages can be pleasant and easy to read – which is hugely important – but, after a while, they all do tend to look]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Off To New Adventures (July 2023 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2023/06/desktop-wallpaper-calendars-july-2023/</id>
+        <link href="https://smashingmagazine.com/2023/06/desktop-wallpaper-calendars-july-2023/"/>
+        <updated>2023-06-30T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s welcome the new month with some fresh desktop wallpapers. Designed by artists and designers from around the globe, they come in versions with and without a calendar for July 2023. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supervised vs Unsupervised Learning – What's the Difference?]]></title>
         <id>https://www.freecodecamp.org/news/supervised-vs-unsupervised-learning/</id>
@@ -834,56 +865,6 @@
         <summary type="html"><![CDATA[These days, we find ourselves consuming vast amounts of information, at an unprecedented rate. From online transactions, to social media interactions, to scientific research, the complexity of data grows exponentially. This reveals a challenge — how to transform this raw data to actionable insight.  This is where data visualization]]></summary>
         <author>
             <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Form Control Styling With Selectmenu And Anchoring API]]></title>
-        <id>https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/</id>
-        <link href="https://smashingmagazine.com/2023/06/advanced-form-control-styling-selectmenu-anchoring-api/"/>
-        <updated>2023-06-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to the Open UI working community group, there’s a new element on the horizon, <selectmenu>, that will make styling this type of form control a whole lot better. You’re going to walk through an early implementation of this new experimental element by creating a pattern that you would never have thought possible with CSS alone — a radial selection menu.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Format a Date with JavaScript – Date Formatting in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-format-a-date-with-javascript-date-formatting-in-js/"/>
-        <updated>2023-05-31T17:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Dates are a fundamental part of many JavaScript applications, whether it's displaying the current date on a webpage or handling user input for scheduling events. But displaying dates in a clear and consistent format is crucial for a positive user experience. In the past, I have written two articles on]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Simple Deployment Pipeline with Reusable Github Actions and Heroku]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/"/>
-        <updated>2023-05-31T17:25:11.000Z</updated>
-        <summary type="html"><![CDATA[If you've been using GitHub for a while, you've probably heard of or used GitHub actions.  If you haven't heard of Github Actions or used them before, you can use them for automating your build, test, or deployment pipelines. You can create workflows that will be triggered upon certain]]></summary>
-        <author>
-            <name>Liz Johnson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Temp Table – How to Create a Temporary SQL Table]]></title>
-        <id>https://www.freecodecamp.org/news/sql-temp-table-how-to-create-a-temporary-sql-table/</id>
-        <link href="https://www.freecodecamp.org/news/sql-temp-table-how-to-create-a-temporary-sql-table/"/>
-        <updated>2023-05-31T17:22:54.000Z</updated>
-        <summary type="html"><![CDATA[SQL, which stands for Structured Query Language, is a programming language specifically designed for managing and manipulating relational databases.  It provides a standardized way to interact with databases and perform tasks such as querying data, inserting, updating, and deleting records, creating and modifying database structures, and more. SQL is]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use AWS Cognito for User Authentication]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-aws-cognito-for-user-authentication/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-aws-cognito-for-user-authentication/"/>
-        <updated>2023-05-31T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[When you're building complex applications, one seemingly simple feature can be difficult to implement: user authentication.  Though some apps don't need it depending on their use case, many do. You might spend a ton of time building an authentication module to provide a secure experience to your users and]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
 </feed>
