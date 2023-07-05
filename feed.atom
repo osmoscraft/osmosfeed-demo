@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T01:20:12.731Z</updated>
+    <updated>2023-07-05T01:20:43.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sustainable Design Toolkits And Resources]]></title>
+        <id>https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/</id>
+        <link href="https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/"/>
+        <updated>2023-07-04T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How can we create products and experiences that don’t cause harm to the planet and to the people who use them? What do we need to consider to make more sustainable design decisions and reduce the carbon footprint of our websites? In this post, we compiled valuable resources that will get you familiar with the principles of sustainable design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke &amp; Geoff Graham)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Helpful Linux Commands You Should Know]]></title>
         <id>https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/</id>
@@ -825,16 +835,6 @@
         <summary type="html"><![CDATA[The exit() function in Python is used to exit or terminate the current running script or program. You can use it to stop the execution of the program at any point. When the exit() function is called, the program will immediately stop running and exit. The syntax of the exit()]]></summary>
         <author>
             <name>Shittu Olumide</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primitive Objects In JavaScript: When To Use Them (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/</id>
-        <link href="https://smashingmagazine.com/2023/06/primitive-objects-javascript-part-2/"/>
-        <updated>2023-06-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of the series, Kirill looks at the usefulness of primitive objects, exploring how reducing capabilities could be a benefit for your project.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kirill Myshkin)</name>
         </author>
     </entry>
 </feed>
