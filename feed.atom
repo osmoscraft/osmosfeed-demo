@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T01:20:43.369Z</updated>
+    <updated>2023-07-06T01:21:38.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Firebase Cloud Messaging in Flutter Using Firebase]]></title>
+        <id>https://www.freecodecamp.org/news/set-up-firebase-cloud-messaging-in-flutter/</id>
+        <link href="https://www.freecodecamp.org/news/set-up-firebase-cloud-messaging-in-flutter/"/>
+        <updated>2023-07-05T16:38:21.000Z</updated>
+        <summary type="html"><![CDATA[In today's highly competitive mobile app landscape, effectively engaging your app's users and delivering timely information is key.  Firebase Cloud Messaging (FCM) is a powerful push notification service provided by Firebase. It offers a seamless way to connect with your app's users and keep them engaged.  In this]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sustainable Design Toolkits And Resources]]></title>
         <id>https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/</id>
@@ -765,76 +775,6 @@
         <summary type="html"><![CDATA[Computer vision is being used in more and more places. From enhancing security systems to improving healthcare diagnostics, computer vision techniques are revolutionizing multiple industries.  We just published a 37-hour course on the freeCodeCamp.org YouTube channel that will teach you about deep learning for computer vision using TensorFlow. The]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Shuffle an Array of Items Using JavaScript or TypeScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/"/>
-        <updated>2023-06-05T23:32:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article we'll be exploring how we can shuffle an array of items in multiple different ways using TypeScript, or JavaScript should you prefer. Pre-Requisites:  * An understanding of TypeScript or JavaScript  * A basic understanding of For Loops and Arrays The following examples are written in]]></summary>
-        <author>
-            <name>Grant Weatherston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Laravel APIs – Security, Features, and More]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-laravel-apis/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-laravel-apis/"/>
-        <updated>2023-06-05T23:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Laravel is the most popular PHP framework, with its elegant syntax, extensive feature set, and developer-friendly environment. And it's gained significant traction in recent years. The Laravel ecosystem is constantly being updated with new features. Laravel 10 [https://laravel.com/docs/10.x/releases] is exciting! Among its many strengths is the robust support for APIs]]></summary>
-        <author>
-            <name>Abdulwahab Ashimi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the JSON Module in Python – A Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-json-module-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-json-module-in-python/"/>
-        <updated>2023-06-05T22:51:24.000Z</updated>
-        <summary type="html"><![CDATA[JSON (JavaScript Object Notation) is a popular, lightweight data interchange standard. It represents data structures made up of key-value pairs that's quite straightforward and human-readable.  JSON has become the industry standard for data interchange between online services. And it's widely utilized in modern programming languages, including Python. JSON data]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Style a React Application – Different Options Compared]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-style-a-react-app/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-style-a-react-app/"/>
-        <updated>2023-06-05T21:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Styling plays a vital role in creating visually appealing and user-friendly web applications. When it comes to React applications, there are numerous ways to style components and UI elements.  In this article, we will explore several popular options, including pure CSS, CSS modules, CSS preprocessors, Tailwind CSS, CSS-in-JS libraries]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Patterns for Distributed Systems – Key Concepts Every Developer Should Know]]></title>
-        <id>https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/</id>
-        <link href="https://www.freecodecamp.org/news/design-patterns-for-distributed-systems/"/>
-        <updated>2023-06-05T20:49:03.000Z</updated>
-        <summary type="html"><![CDATA[When I first started my career as a backend engineer, I always worked with monolithic systems. The work was good but I always had this thought in the back of my mind: > "Man, I want to work on big systems such as ones for Google, Netflix, etc..." I was]]></summary>
-        <author>
-            <name>Tamerlan Gudabayev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Image Carousel Component with TypeScript and Styled-Components]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-image-carousel-component/"/>
-        <updated>2023-06-05T17:28:08.000Z</updated>
-        <summary type="html"><![CDATA[In recent years, OTT (over-the-top) video streaming platforms have become more innovative and convenient to use. In their user interfaces, movies and series titles are arranged so that the titles are clearly visible. In this tutorial, I’ll guide you through the process of creating an image carousel component that looks]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Exit – How to Use an Exit Function in Python to Stop a Program]]></title>
-        <id>https://www.freecodecamp.org/news/python-exit-how-to-use-an-exit-function-in-python-to-stop-a-program/</id>
-        <link href="https://www.freecodecamp.org/news/python-exit-how-to-use-an-exit-function-in-python-to-stop-a-program/"/>
-        <updated>2023-06-05T13:54:40.000Z</updated>
-        <summary type="html"><![CDATA[The exit() function in Python is used to exit or terminate the current running script or program. You can use it to stop the execution of the program at any point. When the exit() function is called, the program will immediately stop running and exit. The syntax of the exit()]]></summary>
-        <author>
-            <name>Shittu Olumide</name>
         </author>
     </entry>
 </feed>
