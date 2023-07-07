@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
+          "author": "hello@smashingmagazine.com (Robert Goesch)",
+          "description": "As of today, the world’s 50 top airlines have all agreed on the same flight search pattern. Yet the path to booking the right flight remains frustrating and confusing. Is there really only one solution? Or are they afraid to break the mold? Explore the thought experiment which turned the seemingly untouchable pattern on its head.",
+          "link": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
+          "publishedOn": "2023-07-06T10:00:00.000Z",
+          "wordCount": 6387,
+          "title": "The UX Of Flight Searches: How We Challenged Industry Standards",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/",
           "author": "hello@smashingmagazine.com (Cosima Mielke & Geoff Graham)",
           "description": "How can we create products and experiences that don’t cause harm to the planet and to the people who use them? What do we need to consider to make more sustainable design decisions and reduce the carbon footprint of our websites? In this post, we compiled valuable resources that will get you familiar with the principles of sustainable design.",
@@ -235,36 +250,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/design-constraints-challenges-opportunities-practical-strategies/design-constraints-challenges-opportunities-practical-strategies.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
-          "author": "hello@smashingmagazine.com (Slava Shestopalov & Eugene Shykiriavyi)",
-          "description": "While compliance with accessibility checklists is essential, it doesn’t necessarily mean a pleasant experience. That’s why live sessions can give you lots of priceless insights.",
-          "link": "https://smashingmagazine.com/2023/06/testing-sites-apps-blind-users-cheat-sheet/",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": 6543,
-          "title": "Testing Sites And Apps With Blind Users: A Cheat Sheet",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/testing-sites-apps-blind-users-cheat-sheet/testing-sites-apps-blind-users-cheat-sheet.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/testing-sites-apps-blind-users-cheat-sheet/testing-sites-apps-blind-users-cheat-sheet.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
-          "author": "hello@smashingmagazine.com (Yuliia Nikitina)",
-          "description": "This article covers the best tips and recommendations on the elements to pay attention to, the rules to follow, and life hacks to get around certain difficulties in table design.",
-          "link": "https://smashingmagazine.com/2023/06/universal-cognitive-friendly-ux-design-tables-grids/",
-          "publishedOn": "2023-06-06T16:30:00.000Z",
-          "wordCount": 8888,
-          "title": "Exploring Universal And Cognitive-Friendly UX Design Through Pivot Tables And Grids",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/universal-cognitive-friendly-ux-design-tables-grids/universal-cognitive-friendly-ux-design-tables-grids.jpg"
         }
       ]
     },
@@ -273,6 +258,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/python-import-from-file-importing-local-files-in-python/",
+          "author": "Shittu Olumide",
+          "description": "There are many reasons you might want to import files in Python. Perhaps you're doing data analysis, custom file processing, file manipulation, automation and so on.  Fortunately, Python provides a number of ways and methods to help you accomplish this task.  In this article, we will examine some",
+          "link": "https://www.freecodecamp.org/news/python-import-from-file-importing-local-files-in-python/",
+          "publishedOn": "2023-07-06T22:40:27.000Z",
+          "wordCount": 1847,
+          "title": "Python Import from File – Importing Local Files in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-Import-from-File---Importing-Local-Files-in-Python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/",
+          "author": "Sampurna Chapagain",
+          "description": "In Django, there are three main types of relationships: one-to-one, many-to-one, and many-to-many. In this article, I will explain the many-to-one relationship in Django. If you are a beginner with some knowledge about Django project setup or even have some decent experience in Django, you can follow along with this",
+          "link": "https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/",
+          "publishedOn": "2023-07-06T20:33:56.000Z",
+          "wordCount": 1186,
+          "title": "How to Use a Foreign Key to Create Many-to-One Relationships in Django",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Add-a-subheading--5-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/",
+          "author": "Umoh Tobby",
+          "description": "In C#, types called delegates represent references to methods with specific signatures.  Developers use delegates to implement callback methods, handle events, and perform tasks where executing a method at a later time is necessary.  C# offers various delegates, and two commonly used ones are Action and Func, both",
+          "link": "https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/",
+          "publishedOn": "2023-07-06T19:46:15.000Z",
+          "wordCount": 1131,
+          "title": "Action and Func Delegates in C# – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Untitled--Copy-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-css-selectors/",
+          "author": "David Clinton",
+          "description": "You can apply CSS to elements like paragraphs and ordered lists, which you can learn more about by reading this article [/news/css-style-sheets-basics/]. But you're not just restricted to those two approaches.  As we'll see in this tutorial, you can also control content behavior using custom or ID styles, pseudo",
+          "link": "https://www.freecodecamp.org/news/how-to-use-css-selectors/",
+          "publishedOn": "2023-07-06T19:42:00.000Z",
+          "wordCount": 2054,
+          "title": "How to Use CSS Selectors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-karolina-grabowska-4016510.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/string-to-array-in-java-how-to-convert-a-string-to-an-array-in-java/",
+          "author": "Shittu Olumide",
+          "description": "Being able to convert a string into an array can be quite helpful when you're developing text-processing applications or working with data.  A string in Java is a group of characters, whereas an array is a collection of the same type of element. You may deconstruct a string into",
+          "link": "https://www.freecodecamp.org/news/string-to-array-in-java-how-to-convert-a-string-to-an-array-in-java/",
+          "publishedOn": "2023-07-06T19:37:24.000Z",
+          "wordCount": 2545,
+          "title": "String to Array in Java – How to Convert Strings to Arrays",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-String-to-Array-in-Java---How-to-Convert-a-String-to-an-Array-in-Java.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-javascript-for-beginners/",
+          "author": "Nathan Sebhastian",
+          "description": "The goal of this handbook is to quickly introduce you to the basics of JavaScript so you can start programming applications. Instead of covering all the theories and concepts of JavaScript, I'll be teaching you only the most important building blocks of the language. We'll cover things like variables, data",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-for-beginners/",
+          "publishedOn": "2023-07-06T19:01:25.000Z",
+          "wordCount": 15521,
+          "title": "Learn JavaScript for Beginners – JS Basics Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/book-cover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/",
+          "author": "Zubair Idris Aweda",
+          "description": "When you're building large scale web applications, speed is a major priority. Users don't want to wait long for responses anymore, and they shouldn't have to. But some processes take time, and they cannot be made any faster or eliminated. Message queues help solve this problem by providing an additional",
+          "link": "https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/",
+          "publishedOn": "2023-07-06T16:23:18.000Z",
+          "wordCount": 3073,
+          "title": "How to Use Queues in Web Applications – Node.js and Redis Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/businessmen02.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-your-own-programming-language-using-python/",
+          "author": "Beau Carnes",
+          "description": "Create Your Own Programming Language with Advanced Python: A Deep Dive into the Art of Language Design Imagine being able to build your own programming language from scratch. The ability to design and create a language tailored to your own vision and specifications is an incredible achievement for any programmer.",
+          "link": "https://www.freecodecamp.org/news/create-your-own-programming-language-using-python/",
+          "publishedOn": "2023-07-06T14:30:36.000Z",
+          "wordCount": 1011,
+          "title": "Create Your Own Programming Language Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/language.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/set-up-firebase-cloud-messaging-in-flutter/",
           "author": "Arunachalam B",
@@ -832,46 +897,6 @@
           "wordCount": 1800,
           "title": "How to Set Up Tailwind CSS with NextJS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Tutorials.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-decorators-explained/",
-          "author": "Roy Chng",
-          "description": "In the world of Python programming, decorators can be an elegant and powerful tool in the hands of experienced developers.  Decorators give you the ability to modify the behavior of functions without altering their source code, providing a concise and flexible way to enhance and extend their functionality. In",
-          "link": "https://www.freecodecamp.org/news/python-decorators-explained/",
-          "publishedOn": "2023-06-06T18:50:33.000Z",
-          "wordCount": 2321,
-          "title": "Python Decorators Explained For Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/python_decorators_explained.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-protect-social-media-accounts-from-attackers/",
-          "author": "Daniel Iwugo",
-          "description": "Hey everyone, and welcome to the world of Social Media 📲. In this article, we will explore the famous (or infamous) sphere of social media, why it is critical to both you and hackers, and how you can avoid having your social media accounts attacked. Disclaimer: Hacking is a tool",
-          "link": "https://www.freecodecamp.org/news/how-to-protect-social-media-accounts-from-attackers/",
-          "publishedOn": "2023-06-06T16:42:11.000Z",
-          "wordCount": 2297,
-          "title": "How Hackers Attack Social Media Media Accounts – And How to Defend Against Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/aman-pal-15r9RAOy38Q-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/",
-          "author": "Arunachalam B",
-          "description": "Flutter has been getting more and more popular lately. You can use it to build complex applications that work smoothly on MacOS, Windows, and Linux.  But building these applications is not always a simple process. You often have to refactor your code to maintain the app’s performance.  One",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/",
-          "publishedOn": "2023-06-06T15:12:48.000Z",
-          "wordCount": 2534,
-          "title": "How to Build a Custom Widget in Flutter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Custom-Widget-in-Flutter---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-computer-vision-with-deep-learning-and-tensorflow/",
-          "author": "Beau Carnes",
-          "description": "Computer vision is being used in more and more places. From enhancing security systems to improving healthcare diagnostics, computer vision techniques are revolutionizing multiple industries.  We just published a 37-hour course on the freeCodeCamp.org YouTube channel that will teach you about deep learning for computer vision using TensorFlow. The",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-computer-vision-with-deep-learning-and-tensorflow/",
-          "publishedOn": "2023-06-06T15:08:54.000Z",
-          "wordCount": 1182,
-          "title": "How to Implement Computer Vision with Deep Learning and TensorFlow",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/computervision.png"
         }
       ]
     }
