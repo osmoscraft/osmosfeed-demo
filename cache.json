@@ -259,6 +259,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/",
+          "author": "Shittu Olumide",
+          "description": "Environment variables play a crucial role in Python programming. They provide a way to store and access configuration values, system-specific information, and sensitive data.  In this article, we will explore various methods to retrieve environment variables in Python and discuss best practices for handling and managing them effectively. What",
+          "link": "https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/",
+          "publishedOn": "2023-07-10T21:39:01.000Z",
+          "wordCount": 1548,
+          "title": "Python Env Vars – How to Get an Environment Variable in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-Env-Vars---How-to-get-an-Environment-Variable-in-Python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/",
+          "author": "Deborah Kurata",
+          "description": "One of the new features in Angular v16 is automatic route parameter mapping using the @Input() decorator. What does that mean? Well, you may have code that reads route parameters using the Activated Route service, like this:   private route = inject(ActivatedRoute);   ngOnInit(): void {",
+          "link": "https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/",
+          "publishedOn": "2023-07-10T21:18:44.000Z",
+          "wordCount": 2156,
+          "title": "How to Use @Input() to Read Angular Route Parameters",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/",
+          "author": "Gideon Akinsanmi",
+          "description": "The Fullscreen API is a browser web API that allows you to enable fullscreen mode for HTML elements. It saves you the stress of using CSS and JavaScript to implement fullscreen functionality. The use cases of fullscreen API are numerous because of the increased complexity of today's websites. In this",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/",
+          "publishedOn": "2023-07-10T21:02:06.000Z",
+          "wordCount": 2029,
+          "title": "How to Use the JavaScript Fullscreen API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/js_fullscreen_png.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typescript-satisfies-operator/",
+          "author": "Satyam Tripathi",
+          "description": "In TypeScript, the satisfies operator is a very useful tool. It was introduced in TypeScript v4.9 [https://github.com/microsoft/TypeScript/issues/50457] as an effective way to ensure type safety. The satisfies operator tells you whether a given type satisfies a particular condition – and it provides this information before running your code. Also, when",
+          "link": "https://www.freecodecamp.org/news/typescript-satisfies-operator/",
+          "publishedOn": "2023-07-10T17:12:59.000Z",
+          "wordCount": 2526,
+          "title": "How to Use the TypeScript satisfies Operator",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Copy-of-Getting-Started-With-DevOps.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/check-python-version-how-to-check-py-in-mac-windows-and-linux/",
           "author": "Shittu Olumide",
           "description": "Python is a versatile and widely used programming language known for its simplicity and readability.  With its ever-evolving nature, different versions of Python are often released, each offering new features, enhancements, and bug fixes.  As a Python developer, it is crucial to be aware of the Python version",
