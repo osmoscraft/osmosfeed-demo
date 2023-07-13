@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-12T01:19:05.750Z</updated>
+    <updated>2023-07-13T01:22:23.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The freeCodeCamp Podcast Season #2: Quincy's Back to Interview Devs]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/"/>
+        <updated>2023-07-12T23:21:41.000Z</updated>
+        <summary type="html"><![CDATA[We're bringing you a new season of insights from developers, entrepreneurs, and ambitious people getting into tech. I'm Quincy Larson, the teacher who founded freeCodeCamp.org. And I've been running around Dallas, San Francisco, and New York City interviewing fascinating people. And I'm excited to share these interviews with you. It's]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Arrays Work in Python – Array Methods Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-arrays-work-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-arrays-work-in-python/"/>
+        <updated>2023-07-12T22:19:23.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn what an array is in Python. You'll also learn some possible ways to add elements to an existing array.  In Python, there is no need to use a specific data type for arrays. You can simply use a list with all the attributes of]]></summary>
+        <author>
+            <name>David Fagbuyiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Docker Image Building and Publishing with Pack CLI and GitHub Actions]]></title>
+        <id>https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/</id>
+        <link href="https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/"/>
+        <updated>2023-07-12T21:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Building and publishing Docker images is a crucial aspect of modern software development. The traditional approach often involves writing complex Dockerfiles and managing dependencies. But in this tutorial post, I'll show you a simpler way that uses the Pack CLI. PackCLI leverages Cloud Native Buildpacks to transform your application source]]></summary>
+        <author>
+            <name>Destiny Erhabor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Astro UI Framework [Full Book]]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/"/>
+        <updated>2023-07-12T20:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Astro is a new UI framework that's designed for speed. And if you want to learn how to use it, you've come to the right place.  Table of Contents   1.  Introduction   2.  Chapter 1: Build your first Astro Application   3.]]></summary>
+        <author>
+            <name>Emmanuel Ohans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A Rapid Research Program To Support Insights At Scale]]></title>
+        <id>https://smashingmagazine.com/2023/07/create-rapid-research-program-support-insights-scale/</id>
+        <link href="https://smashingmagazine.com/2023/07/create-rapid-research-program-support-insights-scale/"/>
+        <updated>2023-07-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accelerate your organization’s growth and innovation with the power of Rapid Research. From inception to implementation, here is the step-by-step roadmap on how to build the program from scratch and uncover the untapped ROI opportunities waiting to propel your initiatives to new heights.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Devin Harold)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NLP Tutorial – Text Pre-Processing Techniques for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/"/>
+        <updated>2023-07-12T14:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Natural Language Processing (NLP) is a branch of Machine learning (ML) that is focused on making computers understand the human language. It is used to create language models, language translation apps like Google translate, and virtual assistants, among other things. This article takes you through one of the most basic]]></summary>
+        <author>
+            <name>Hikmah Olawore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Search – Algorithm and Time Complexity Explained]]></title>
+        <id>https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/</id>
+        <link href="https://www.freecodecamp.org/news/binary-search-algorithm-and-time-complexity-explained/"/>
+        <updated>2023-07-12T14:26:58.000Z</updated>
+        <summary type="html"><![CDATA[When working with arrays, you’ll often have to search through them to check if they contain a target element. You can always run a sequential search—scanning the array from the beginning to the end—on the array. But if the array is sorted, running the binary search algorithm is much more]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript Handbook for React Developers – How to Build a Type-Safe Todo App]]></title>
         <id>https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/</id>
@@ -795,66 +865,6 @@
         <summary type="html"><![CDATA[In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI in Google Sheets – How to Use GPT Copilot]]></title>
-        <id>https://www.freecodecamp.org/news/ai-in-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/ai-in-google-sheets/"/>
-        <updated>2023-06-12T22:10:01.000Z</updated>
-        <summary type="html"><![CDATA[It seems to be the year of AI. And my favorite tool, Google Sheets, is not to be left out of the fun. 🎉 Coefficient [https://coefficient.io/gpt-google-sheets] produced a Google sheets extension with the ability to use OpenAI's GPT models from within a spreadsheet. It’s called GPT Copilot and it’s available]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use MySQL Stored Procedures to Simplify Database Operations]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-simplify-database-operations-using-mysql-stored-procedures/"/>
-        <updated>2023-06-12T22:05:52.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of database management, MySQL has emerged as one of the most popular and reliable choices.  MySQL not only offers robust data storage capabilities but also provides a powerful feature called "procedures" that allows developers to streamline complex database operations.  In this tutorial, we will delve]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Upgrade Your React Skills with Three Helpful Tools]]></title>
-        <id>https://www.freecodecamp.org/news/upgrade-your-react-skills/</id>
-        <link href="https://www.freecodecamp.org/news/upgrade-your-react-skills/"/>
-        <updated>2023-06-12T21:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Since its announcement in 2013, React.js continues to be one of the most widely used JavaScript tools, thanks to its unmatched versatility and efficiency.  Backed by its component-based architecture and virtual DOM implementation, React.js excels in building modern and dynamic web applications. It enables developers to create reusable UI]]></summary>
-        <author>
-            <name>Moyosore J Olaojo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Streamline Your File Upload Process in Express.js with Multer]]></title>
-        <id>https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/</id>
-        <link href="https://www.freecodecamp.org/news/simplify-your-file-upload-process-in-express-js/"/>
-        <updated>2023-06-12T21:05:14.000Z</updated>
-        <summary type="html"><![CDATA[File uploading is a common requirement in web development projects. But handling file uploads in Node.js can be complex and time-consuming. That's where Multer comes in.  Multer is a powerful middleware for Node.js that simplifies the file upload process by handling multipart/form-data requests. In this tutorial, you will learn]]></summary>
-        <author>
-            <name>Kelvin Moses</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your Technical Writing Skills by Contributing to Open Source Projects]]></title>
-        <id>https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/</id>
-        <link href="https://www.freecodecamp.org/news/improve-tech-writing-skills-by-contributing-to-open-source/"/>
-        <updated>2023-06-12T18:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Have you been writing your tech blog posts on Hashnode [https://hashnode.com/about] or Dev.to [http://dev.to/], but you're itching to try something new? If so, there is something that can quench your thirst: contributing to open source.  I know, I know, you’ve probably heard “Contribute to open source!” countless times in]]></summary>
-        <author>
-            <name>CHRISTINE T. BELZIE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gatsby Headaches And How To Cure Them: i18n (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/</id>
-        <link href="https://smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/"/>
-        <updated>2023-06-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this first part of a two-part hands-on guide, Juan Rodriguez explains how to use several i18n plugins for Gatsby and reviews some others.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
