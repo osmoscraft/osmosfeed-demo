@@ -235,36 +235,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/codux-react-visual-editor-improves-developer-experience/codux-react-visual-editor-improves-developer-experience.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
-          "author": "hello@smashingmagazine.com (Sriram Thiagarajan)",
-          "description": "SvelteKit is a framework for building apps using Svelte. In this article, Sriram shows you how to build a server-side rendered (SSR) SvelteKit application and deploy it to Netlify by following this step-by-step guide.",
-          "link": "https://smashingmagazine.com/2023/06/build-server-side-rendered-svelte-apps-sveltekit/",
-          "publishedOn": "2023-06-14T11:00:00.000Z",
-          "wordCount": 5659,
-          "title": "How To Build Server-Side Rendered (SSR) Svelte Apps With SvelteKit",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/build-server-side-rendered-svelte-apps-sveltekit/build-server-side-rendered-svelte-apps-sveltekit.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of The Smashing Podcast, we ask what is a design manager? What does it take and how does it relate to the role of Designer? Vitaly talks to Slava Shestopalov to find out.",
-          "link": "https://smashingmagazine.com/2023/06/smashing-podcast-episode-62/",
-          "publishedOn": "2023-06-13T14:00:00.000Z",
-          "wordCount": 10080,
-          "title": "Smashing Podcast Episode 62 With Slava Shestopalov: What Is Design Management?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-62/smashing-podcast-episode-62.png"
         }
       ]
     },
@@ -273,6 +243,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-terraform-to-deploy-a-site-on-google-cloud-platform/",
+          "author": "Beau Carnes",
+          "description": "Modern cloud technologies have revolutionized the way we develop and deploy applications. But managing complex infrastructure can still be a daunting task, especially when working at scale. The solution? Infrastructure as Code (IaC) — an approach that brings programming paradigms to infrastructure management, thereby enhancing efficiency, repeatability, and agility. With",
+          "link": "https://www.freecodecamp.org/news/how-to-use-terraform-to-deploy-a-site-on-google-cloud-platform/",
+          "publishedOn": "2023-07-13T21:46:56.000Z",
+          "wordCount": 985,
+          "title": "How to Use Terraform to Deploy a Site on Google Cloud Platform",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/terrafromgcp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-javascript/",
+          "author": "David Clinton",
+          "description": "Just in case you haven't yet been properly introduced, JavaScript is a powerful programming language that provides significant value in web development. Its benefits include:  * Server-side development through Node.js  * Client-side interactivity where scripts run directly within your users'    browsers  * Responsive and",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-javascript/",
+          "publishedOn": "2023-07-13T20:22:41.000Z",
+          "wordCount": 2060,
+          "title": "How to Start Learning JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-mikhail-nilov-6968122.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/",
+          "author": "Daniel Iwugo",
+          "description": "Ladies and Gentlemen, welcome to the world of Spies 🕵️. In the movie Uncharted (great movie by the way), Tom Holland and his brother have a secret form of communication. They would write a message on a plain postcard with special ink that became invisible and then send it to",
+          "link": "https://www.freecodecamp.org/news/what-is-steganography-hide-data-inside-data/",
+          "publishedOn": "2023-07-13T17:15:06.000Z",
+          "wordCount": 2140,
+          "title": "What is Steganography? How to Hide Data Inside Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/steganography-image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/open-source-ai/",
+          "author": "Shane Duggan",
+          "description": "If you've been developing your coding skills so you can work on AI projects, you've probably come across some open source AI resources. I know I have. In fact, I think I use open source more than I do APIs and proprietary software these days.  When it comes to",
+          "link": "https://www.freecodecamp.org/news/open-source-ai/",
+          "publishedOn": "2023-07-13T16:01:02.000Z",
+          "wordCount": 2875,
+          "title": "Open Source AI Projects and Tools to Try in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/",
+          "author": "Rahul",
+          "description": "Do you have an old computer that’s showing its age but you still want to get some use out of it? Don't throw it out just yet!  There are lightweight Linux distributions designed to breathe new life into older hardware. These operating systems are streamlined to use limited system",
+          "link": "https://www.freecodecamp.org/news/lightweight-linux-distributions-for-your-pc/",
+          "publishedOn": "2023-07-13T15:37:31.000Z",
+          "wordCount": 2360,
+          "title": "Lightweight Linux Distributions For Older PCs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/lukas-NLSXFjl_nhc-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-api-testing-with-postman/",
+          "author": "Beau Carnes",
+          "description": "If you've been hunting for a comprehensive course that dives deep into the world of API testing and automation, your search ends here. We just posted a new course on the freeCodeCamp.org YouTube channel that will teach you how to use Postman to write and automate API tests. The course",
+          "link": "https://www.freecodecamp.org/news/master-api-testing-with-postman/",
+          "publishedOn": "2023-07-13T13:14:59.000Z",
+          "wordCount": 1007,
+          "title": "Master API Testing with Postman",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/postman.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-season-2-developer-interviews/",
           "author": "Quincy Larson",
@@ -932,36 +962,6 @@
           "wordCount": 2145,
           "title": "What is Infrastructure as Code? Explained for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover-5.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-page-elements/",
-          "author": "David Clinton",
-          "description": "HTML, which stands for Hypertext Markup Language, is the standard markup language used for creating web pages and structuring their content on the World Wide Web.  HTML serves as the backbone of web development and acts as a fundamental building block for creating web-based documents. Let's take a quick",
-          "link": "https://www.freecodecamp.org/news/html-page-elements/",
-          "publishedOn": "2023-06-13T21:01:13.000Z",
-          "wordCount": 1740,
-          "title": "HTML Page Elements – Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-joshua-135018.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/guide-to-javascript-promises/",
-          "author": "Amazing Enyichi Agu",
-          "description": "JavaScript has the ability to carry out asynchronous (or async) instructions. These instructions run in the background until they have finished processing.  Asynchronous instructions do not stop the JavaScript engine from actively accepting and processing more instructions. This is why JavaScript is non-blocking in nature. There are a few",
-          "link": "https://www.freecodecamp.org/news/guide-to-javascript-promises/",
-          "publishedOn": "2023-06-13T16:35:33.000Z",
-          "wordCount": 5419,
-          "title": "How Promises Work in JavaScript – A Comprehensive Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/promises.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/",
-          "author": "Beau Carnes",
-          "description": "Certifications like the Microsoft Power Platform Fundamentals can help you advance in your career. You can learn everything you need to know to earn the Microsoft Power Platform Fundamentals Certification by completing this free 4-hour course that we just posted on the freeCodeCamp.org YouTube channel. Andrew Brown created this course.",
-          "link": "https://www.freecodecamp.org/news/microsoft-power-platform-fundamentals-certification-pl-900/",
-          "publishedOn": "2023-06-13T14:28:52.000Z",
-          "wordCount": 1520,
-          "title": "Microsoft Power Platform Fundamentals Certification (PL-900) – Pass the Exam With This Free 4-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/powerfund.png"
         }
       ]
     }
