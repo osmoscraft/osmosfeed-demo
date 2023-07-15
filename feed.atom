@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-14T01:21:31.990Z</updated>
+    <updated>2023-07-15T01:20:23.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Free WebDev Bootcamp for 2023 – Learn Responsive Web Design]]></title>
+        <id>https://www.freecodecamp.org/news/free-webdev-bootcamp/</id>
+        <link href="https://www.freecodecamp.org/news/free-webdev-bootcamp/"/>
+        <updated>2023-07-14T19:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's an exciting announcement that'll help make your summer a little busier and a lot more educational. Two developers and teachers are running a free, part time, remote bootcamp where you'll go through the freeCodeCamp Responsive Web Design Certification [https://www.freecodecamp.org/learn/2022/responsive-web-design/] together. You might be thinking that bootcamps are expensive, full]]></summary>
+        <author>
+            <name>Jessica Rose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Github Student Developer Pack]]></title>
+        <id>https://www.freecodecamp.org/news/github-student-developer-pack/</id>
+        <link href="https://www.freecodecamp.org/news/github-student-developer-pack/"/>
+        <updated>2023-07-14T17:35:43.000Z</updated>
+        <summary type="html"><![CDATA[For many students who are passionate about technology, limited access to crucial tools and resources is a common challenge.  Fortunately, the GitHub Student Developer Pack comes to the rescue. This pack provides students with exclusive access to a variety of top-notch developer tools, allowing them to learn through practical]]></summary>
+        <author>
+            <name>Salim Oyinlola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Your First Open Source Code Contribution]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution/"/>
+        <updated>2023-07-14T17:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Making your first Open Source contribution, like any other first endeavor, can be difficult. Especially given the abundance of open-source projects out there. This article will help you to dip your toe into the open source community waters by making your first-ever open-source contribution. By exploring the world of open]]></summary>
+        <author>
+            <name>Aroboto Ife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing CSS In 2023: Is It Any Different Than A Few Years Ago?]]></title>
+        <id>https://smashingmagazine.com/2023/07/writing-css-2023/</id>
+        <link href="https://smashingmagazine.com/2023/07/writing-css-2023/"/>
+        <updated>2023-07-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS is evolving faster than ever. With all of the new features that are now available — and forthcoming — since we got Flexbox and Grid years ago, the way we write CSS is evolving, too. In this article, Geoff Graham shares which features have had the most influence on his current approaches to CSS, as well as those that have not (at least yet).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Terraform to Deploy a Site on Google Cloud Platform]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-terraform-to-deploy-a-site-on-google-cloud-platform/</id>
@@ -154,6 +194,16 @@
         <summary type="html"><![CDATA[spaCy is an open-source software library for advanced natural language processing. It's written in the programming languages Python and Cython, and is published under the MIT license.  spaCy excels at large-scale information extraction tasks. It's written from the ground up in carefully memory-managed Cython. spaCy is designed to help]]></summary>
         <author>
             <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 63 With Chris Ferdinandi: What Is The Transitional Web?]]></title>
+        <id>https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/</id>
+        <link href="https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/"/>
+        <updated>2023-07-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode of The Smashing Podcast, we’re talking about The Transitional Web. What is it, and how does it describe the technologies we’re using? Drew McLellan talks to Chris Ferdinandi to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
     <entry>
@@ -865,16 +915,6 @@
         <summary type="html"><![CDATA[Infrastructure as Code (IaC) is a way of managing your infrastructure like it was code. This gives you all the benefits of using code to create your infrastructure, like version control, faster and safer infrastructure deployments across different environments, and having up to date documentation of your infrastructure. The article]]></summary>
         <author>
             <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Codux: The React Visual Editor That Improves Developer Experience]]></title>
-        <id>https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/</id>
-        <link href="https://smashingmagazine.com/2023/06/codux-react-visual-editor-improves-developer-experience/"/>
-        <updated>2023-06-15T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[Codux](https://codux.hopp.to/smashing) is a new visual IDE brought to you by the fine folks over at[ Wix](https://www.wix.com/). It’s got a lot of low-code features that level the playing field for app development but is really designed for React developers. How so, you ask? That’s what we’re going to explore in this article.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>
