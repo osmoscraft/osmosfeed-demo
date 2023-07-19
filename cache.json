@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/07/designing-age-inclusive-products-guidelines-best-practices/",
+          "author": "hello@smashingmagazine.com (Michal Halperin Ben Zvi)",
+          "description": "With an estimated one in every eight individuals worldwide surpassing the age of 60, who are actively adopting online shopping, the need for user-friendly interfaces tailored to their needs becomes apparent. Explore the guidelines to help you design a more inclusive product for all, particularly for an older audience and your future self as well.",
+          "link": "https://smashingmagazine.com/2023/07/designing-age-inclusive-products-guidelines-best-practices/",
+          "publishedOn": "2023-07-18T12:00:00.000Z",
+          "wordCount": 4641,
+          "title": "Designing Age-Inclusive Products: Guidelines And Best Practices",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-age-inclusive-products-guidelines-best-practices/designing-age-inclusive-products-guidelines-best-practices.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-age-inclusive-products-guidelines-best-practices/designing-age-inclusive-products-guidelines-best-practices.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/writing-css-2023/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "CSS is evolving faster than ever. With all of the new features that are now available — and forthcoming — since we got Flexbox and Grid years ago, the way we write CSS is evolving, too. In this article, Geoff Graham shares which features have had the most influence on his current approaches to CSS, as well as those that have not (at least yet).",
@@ -243,6 +258,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "At some point in your design career, you may hear about Information Architecture (or IA). You might even have to create a userflow or sitemap. Now, this article aims to help you go back to the basics and remind you of the meaning and importance of IA. So if you",
+          "link": "https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/",
+          "publishedOn": "2023-07-18T20:40:51.000Z",
+          "wordCount": 2848,
+          "title": "What is Information Architecture? How to Create Userflows and Sitemaps for UX Design",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-sevenstorm-juhaszimrus-425160--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/",
+          "author": "Dillion Megida",
+          "description": "In JavaScript, two objects cannot be equal even though they are similar. Why is that the case? 🤔 Let's understand why. For example: const obj1 = {   name: \"Dillion\" } const obj2 = {   name: \"Dillion\" } console.log(obj1 === obj2) // false As you can see",
+          "link": "https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/",
+          "publishedOn": "2023-07-18T18:53:47.000Z",
+          "wordCount": 1643,
+          "title": "Why are two similar objects not equal in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/32-objects-not-equal-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/modern-python-app-design-with-ttkbootstrap/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to add a touch of modernity to your Python apps? Do you want to master Tkinter and ttkbootstrap for a sleek, contemporary design? freeCodeCamp.org has just launched a brand new video course on YouTube that will teach you how to easily implement modern designs in your Tkinter-based",
+          "link": "https://www.freecodecamp.org/news/modern-python-app-design-with-ttkbootstrap/",
+          "publishedOn": "2023-07-18T18:39:10.000Z",
+          "wordCount": 954,
+          "title": "Modern Python App Design with ttkbootstrap",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/ttkbootstrap.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/shells-a-history-of-human-computer-interfaces/",
+          "author": "Chidiadi Anyanwu",
+          "description": "A computer is basically a piece of electronic circuitry that performs tasks as instructed by its users. But for a human to interact with this hardware, they must really know and understand how it works. The person must also know the order in which to give the computer various tasks",
+          "link": "https://www.freecodecamp.org/news/shells-a-history-of-human-computer-interfaces/",
+          "publishedOn": "2023-07-18T16:45:23.000Z",
+          "wordCount": 2626,
+          "title": "CLI Shells – A Brief History of Human-Computer Interfaces",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Evernote-cli-geeknote.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-measure-django-code-quality-using-sonarqube-pytest-and-coverage/",
+          "author": "Ridwan Yusuf",
+          "description": "Greetings, fellow coding enthusiasts! We're going to dive deep into the realm of Django code quality assessment. In this comprehensive guide, I'll walk you through an in-depth approach to measuring the code quality of your Django-based application. By the end of this tutorial, you will be able to:  1.",
+          "link": "https://www.freecodecamp.org/news/how-to-measure-django-code-quality-using-sonarqube-pytest-and-coverage/",
+          "publishedOn": "2023-07-18T16:36:32.000Z",
+          "wordCount": 3271,
+          "title": "How to Measure Django Code Quality Using SonarQube, Pytest, and Coverage",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/istockphoto-91813442-612x612.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-dockerize-a-react-application/",
+          "author": "Kunal Nalawade",
+          "description": "Picture this: you have developed an application that is ready to be deployed. You have worked really hard on it, so you want to make sure it gets deployed seamlessly and the final product is both fast and reliable. Enter images and containers. Images and containers help you package your",
+          "link": "https://www.freecodecamp.org/news/how-to-dockerize-a-react-application/",
+          "publishedOn": "2023-07-18T14:54:23.000Z",
+          "wordCount": 2782,
+          "title": "How to Dockerize a React Application – A Step by Step Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-pixabay-39656--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-add-stargzers-and-forkers-to-your-github-repository/",
           "author": "Md. Fahim Bin Amin",
