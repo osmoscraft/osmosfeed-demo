@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T01:08:56.805Z</updated>
+    <updated>2023-07-21T01:09:45.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate ChatGPT with Google Sheets Using Google Apps Script]]></title>
+        <id>https://www.freecodecamp.org/news/create-chat-gpt-formulas-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/create-chat-gpt-formulas-in-google-sheets/"/>
+        <updated>2023-07-20T16:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this tutorial on how to integrate ChatGPT with Google Spreadsheets using the GPT API and Google Apps Script. We will create two custom formulas, GPT_SUMMARY and GPT_SIMPLIFY. You can use GPT_SUMMARY to summarize a large passage or text into a few bullet points for easy reading. And you]]></summary>
+        <author>
+            <name>Nibesh Khadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Full Stack Development with Next.js and Supabase by Building a Twitter Clone.]]></title>
+        <id>https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/</id>
+        <link href="https://www.freecodecamp.org/news/learn-full-stack-development-with-next-js-and-supabase-by-building-a-twitter-clone/"/>
+        <updated>2023-07-20T15:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Turn this: Into this: We just launched a course on the freeCodeCamp.org YouTube channel that will help you master full stack development with Next.js 13 and Supabase by building a Twitter clone. The course also uses Tailwind CSS and TypeScript. This intensive course has been expertly developed by Pranjal Soni,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Join the #100daysofOSS Challenge and Embrace the Power of Open Source]]></title>
         <id>https://www.freecodecamp.org/news/100-days-of-oss-challenge/</id>
@@ -965,26 +985,6 @@
         <summary type="html"><![CDATA[In the world of cloud computing and serverless architecture, AWS API Gateway is a powerful tool that helps you build robust, secure, and scalable APIs.  In this tutorial, I'll introduce you to API Gateway and explain the benefits of using this helpful tool. Then I'll show you how to]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Simple HTML and PHP Form]]></title>
-        <id>https://www.freecodecamp.org/news/creating-html-forms/</id>
-        <link href="https://www.freecodecamp.org/news/creating-html-forms/"/>
-        <updated>2023-06-20T22:17:13.000Z</updated>
-        <summary type="html"><![CDATA[If you have a website, it's only a matter of time before you feel the irrepressible urge to gather information about your site's users.  The most direct way to do that is to ask them some questions. And, in the HTML world, the best tool for recording the answers]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Hide Your Angular Properties – # vs private Explained]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-vs-typescript-private-in-angular-explained/"/>
-        <updated>2023-06-20T20:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Have you noticed a hash symbol showing up in Angular code samples? If not, you may see it soon. What is the purpose of the # and when should you use it? The # symbol was recently added to JavaScript to denote private class properties. Making a class variable private]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
         </author>
     </entry>
 </feed>
