@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/07/critical-reflection-individual-contributors/",
+          "author": "hello@smashingmagazine.com (Kristian Mikhel)",
+          "description": "Discover the importance of critical reflective practice and challenge some beliefs about reflection and its role in our work and growth. Kristian Mikhel suggests a critical reflective routine for individual contributors and gives some practical recommendations that will make reflection meaningful and actionable.",
+          "link": "https://smashingmagazine.com/2023/07/critical-reflection-individual-contributors/",
+          "publishedOn": "2023-07-21T12:00:00.000Z",
+          "wordCount": 5069,
+          "title": "The Art Of Looking Back: A Critical Reflection For Individual Contributors",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/critical-reflection-individual-contributors/critical-reflection-individual-contributors.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/critical-reflection-individual-contributors/critical-reflection-individual-contributors.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/designing-age-inclusive-products-guidelines-best-practices/",
           "author": "hello@smashingmagazine.com (Michal Halperin Ben Zvi)",
           "description": "With an estimated one in every eight individuals worldwide surpassing the age of 60, who are actively adopting online shopping, the need for user-friendly interfaces tailored to their needs becomes apparent. Explore the guidelines to help you design a more inclusive product for all, particularly for an older audience and your future self as well.",
@@ -205,21 +220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Dive into an article where you will build an app that evaluates audio files for positive and negative sentiments. The idea is that you will create an interface for uploading an audio file, then transcribe the contents into text before analyzing the text and assigning it a positive or negative score for how the tone is perceived.",
-          "link": "https://smashingmagazine.com/2023/06/ai-detect-sentiment-audio-files/",
-          "publishedOn": "2023-06-22T08:00:00.000Z",
-          "wordCount": 5030,
-          "title": "Using AI To Detect Sentiment In Audio Files",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-detect-sentiment-audio-files/ai-detect-sentiment-audio-files.jpg"
         }
       ]
     },
@@ -1017,56 +1017,6 @@
           "wordCount": 2390,
           "title": "How to Create an AI Tweet Generator Using LangChain",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
-          "author": "Beau Carnes",
-          "description": "Pandas is an open source data analysis and manipulation tool. It is important to learn if you are interested in data science. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use Pandas through interactive projects. You will develop 7 projects ranging from",
-          "link": "https://www.freecodecamp.org/news/learn-pandas-for-data-science/",
-          "publishedOn": "2023-06-22T12:50:51.000Z",
-          "wordCount": 1126,
-          "title": "Learn Pandas & Python for Data Analysis [Full Course]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pandas.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
-          "author": "Beau Carnes",
-          "description": "Supabase is an open-source Firebase alternative that is rapidly gaining popularity in the developer community. If you are looking to sharpen their backend skills, consider learning how to use Supabase. We just published a course on the freeCodeCamp.org channel that is designed to help you master Supabase. This course was",
-          "link": "https://www.freecodecamp.org/news/learn-supabase-open-source-firebase-alternative/",
-          "publishedOn": "2023-06-22T12:20:35.000Z",
-          "wordCount": 1039,
-          "title": "Learn Supabase, an Open-Source Firebase Alternative",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/supabase.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
-          "author": "Prajwal Kulkarni",
-          "description": "In today's fast-paced world, seamless integration between various services and systems has become ever more important. Security is also equally important while stitching these services together. So it's crucial to design applications meaningfully so that there's minimal friction between various systems.  This article focuses on the communication between a",
-          "link": "https://www.freecodecamp.org/news/create-an-api-proxy-gateway-with-aws-http-api/",
-          "publishedOn": "2023-06-21T16:43:47.000Z",
-          "wordCount": 2213,
-          "title": "How to Create an API Proxy Gateway with AWS HTTP API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/praneet-kumar-H8dcf-v98mA-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
-          "author": "Tom Chant",
-          "description": "Chatbots are transforming the way we interact online. Thanks to the OpenAI API, crafting intelligent, context-aware chatbots is now well within the reach of any budding web developer.  In this tutorial, I will teach you everything you need to know to build your own chatbot using the GPT-4 API.",
-          "link": "https://www.freecodecamp.org/news/build-gpt-4-api-chatbot-turorial/",
-          "publishedOn": "2023-06-21T14:07:17.000Z",
-          "wordCount": 5118,
-          "title": "How to Build a ChatBot using the GPT-4 API – Full Project-Based Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Slide-16_9---15.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/",
-          "author": "Arunachalam B",
-          "description": "In the world of cloud computing and serverless architecture, AWS API Gateway is a powerful tool that helps you build robust, secure, and scalable APIs.  In this tutorial, I'll introduce you to API Gateway and explain the benefits of using this helpful tool. Then I'll show you how to",
-          "link": "https://www.freecodecamp.org/news/how-to-offer-custom-apis-to-your-users-aws-api-gateway/",
-          "publishedOn": "2023-06-21T13:56:00.000Z",
-          "wordCount": 2007,
-          "title": "How to Offer Custom APIs to Your Users with AWS API Gateway",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/AWS-API-Gateway-Banner.png"
         }
       ]
     }
