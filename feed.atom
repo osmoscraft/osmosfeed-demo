@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-24T01:09:41.340Z</updated>
+    <updated>2023-07-25T01:13:43.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recreating YouTube’s Ambient Mode Glow Effect]]></title>
+        <id>https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/</id>
+        <link href="https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/"/>
+        <updated>2023-07-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Adrian deconstructs YouTube’s “Ambient Mode” feature and how HTML `` and the `requestAnimationFrame` function are used to create the glowing effect.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy a Next.js App with Custom Domain on AWS Using SST]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/"/>
+        <updated>2023-07-24T07:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Art Of Looking Back: A Critical Reflection For Individual Contributors]]></title>
         <id>https://smashingmagazine.com/2023/07/critical-reflection-individual-contributors/</id>
