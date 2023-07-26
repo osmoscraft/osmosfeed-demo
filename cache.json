@@ -205,21 +205,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "The Wikipedia team shipped a redesign of the ubiquitous and one of the [most visited websites](https://en.wikipedia.org/wiki/List_of_most_visited_websites) on the web. Alex Hollender and Jon Robson led the work and generously discussed the effort with us in a thorough, wide-ranging interview that covers the design, development, and processes that went into the project.",
-          "link": "https://smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/",
-          "publishedOn": "2023-06-26T08:00:00.000Z",
-          "wordCount": 6428,
-          "title": "Behind The Curtains Of Wikipedia Redesign",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/behind-curtains-wikipedia-redesign/behind-curtains-wikipedia-redesign.jpg"
         }
       ]
     },
@@ -228,6 +213,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/fastapi-quickstart/",
+          "author": "Atharva Shah",
+          "description": "Welcome to the world of FastAPI, a sleek and high-performance web framework for constructing Python APIs. Don't worry if you're new to API programming – we'll start at the beginning.  An API (Application Programming Interface) connects several software programs allowing them to converse and exchange information. APIs are essential",
+          "link": "https://www.freecodecamp.org/news/fastapi-quickstart/",
+          "publishedOn": "2023-07-25T20:54:10.000Z",
+          "wordCount": 5825,
+          "title": "FastAPI Tutorial – How to Develop, Test, and Deploy APIs",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/fastapi--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/node-js-basics/",
+          "author": "David Clinton",
+          "description": "Node.js is a powerful runtime environment for executing JavaScript code outside  of a web browser. It brings the JavaScript language to the server-side, enabling developers to build scalable, high-performance, and event-driven applications. Let's discover how Node.js code works, and how that code can be integrated within your JavaScript and",
+          "link": "https://www.freecodecamp.org/news/node-js-basics/",
+          "publishedOn": "2023-07-25T18:24:42.000Z",
+          "wordCount": 1760,
+          "title": "What is Node.js? Server-Side JavaScript Development Basics",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-tomasz-filipek-1630035.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-dns-for-beginners/",
+          "author": "Kealan Parr",
+          "description": "When you access a website like www.google.com [https://www.google.com/], would it surprise you to learn that the URL isn't really the website address?  There is some work \"under the hood\" to ensure that, when you type in a human friendly name like Google, it takes you to the website you're",
+          "link": "https://www.freecodecamp.org/news/what-is-dns-for-beginners/",
+          "publishedOn": "2023-07-25T18:07:28.000Z",
+          "wordCount": 1744,
+          "title": "What is DNS? Basics for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/02/dns.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/google-sheets-for-beginners/",
+          "author": "Eamonn Cottrell",
+          "description": "Google Sheets is an online spreadsheet app with real-time collaboration features. It's like Microsoft Excel for regular people. 🙌 gif of guy saying aren't ordinary people adorableAnd, these days, it's actually giving Excel a run for its money. It's picked up a lot of features and processing power over the",
+          "link": "https://www.freecodecamp.org/news/google-sheets-for-beginners/",
+          "publishedOn": "2023-07-25T17:53:57.000Z",
+          "wordCount": 2384,
+          "title": "How to Use Google Sheets – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/maxresdefault.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
           "author": "Arunachalam B",
