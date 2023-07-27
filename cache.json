@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/",
+          "author": "hello@smashingmagazine.com (Adriano Raiano)",
+          "description": "The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.",
+          "link": "https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/",
+          "publishedOn": "2023-07-26T12:00:00.000Z",
+          "wordCount": 5177,
+          "title": "Modern Technology And The Future Of Language Translation",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-technology-future-language-translation/modern-technology-future-language-translation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-technology-future-language-translation/modern-technology-future-language-translation.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "In this article, Adrian deconstructs YouTube’s “Ambient Mode” feature and how HTML `` and the `requestAnimationFrame` function are used to create the glowing effect.",
@@ -190,21 +205,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/perfect-design-process/perfect-design-process.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
-          "author": "hello@smashingmagazine.com (Patrick Brosset)",
-          "description": "Let’s discover the most popular DevTools tips that can boost your productivity and revolutionize your debugging workflow.",
-          "link": "https://smashingmagazine.com/2023/06/popular-devtools-tips/",
-          "publishedOn": "2023-06-27T12:00:00.000Z",
-          "wordCount": 5944,
-          "title": "Useful DevTools Tips and Tricks",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/popular-devtools-tips/popular-devtools-tips.jpg"
         }
       ]
     },
@@ -213,6 +213,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/",
+          "author": "Ridwan Yusuf",
+          "description": "Hi, friends, and welcome to another tutorial. We'll be talking about RabbitMQ, a tool that is widely used as a message broker in distributed and Pub-Sub systems.  While multiple applications can share a single RabbitMQ instance, it's a great approach to configure it to have different virtual hosts for",
+          "link": "https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/",
+          "publishedOn": "2023-07-26T21:25:15.000Z",
+          "wordCount": 1449,
+          "title": "How to Create Multiple Virtual Hosts on a Single RabbitMQ Instance",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Untitled-design.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/creating-custom-animations-in-flutter/",
+          "author": "Arunachalam B",
+          "description": "Animations play a crucial role in enhancing user experience and making mobile apps more engaging.  Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop, offers a powerful animation system that allows developers to create stunning custom animations.  In this step-by-step guide, we will",
+          "link": "https://www.freecodecamp.org/news/creating-custom-animations-in-flutter/",
+          "publishedOn": "2023-07-26T17:44:21.000Z",
+          "wordCount": 2333,
+          "title": "How to Create Custom Animations in Flutter – A Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Flutter-Animation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cloud-storage-options/",
+          "author": "Daniel Adetunji",
+          "description": "There are three types of storage options offered by most cloud providers: block storage, file storage, and object storage (often referred to as BLOB or Binary Large Object).  This tutorial will explain these types of storage, their real-world use cases, and some trade-offs. What is Block Storage? Imagine you",
+          "link": "https://www.freecodecamp.org/news/cloud-storage-options/",
+          "publishedOn": "2023-07-26T17:10:33.000Z",
+          "wordCount": 2410,
+          "title": "Cloud Storage Options – Block Storage vs File Storage vs Object Storage Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pictures.001.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-chatbot-with-the-chatgpt-api/",
+          "author": "Kingsley Ubah",
+          "description": "OpenAI's ChatGPT is a great tool for getting information as quickly as possible for your coding projects. Even better, you can now integrate the artificial intelligence-powered chat capability of OpenAI's models directly into your application. Recently, the OpenAI team expanded their API by giving developers access to their pretrained AI",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-chatbot-with-the-chatgpt-api/",
+          "publishedOn": "2023-07-26T15:48:02.000Z",
+          "wordCount": 1843,
+          "title": "How to Create a Chatbot With the ChatGPT API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/levart_photographer-drwpcjkvxuU-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/",
+          "author": "Kolade Chris",
+          "description": "If you want to master regular expressions and understand how they work in JavaScript, this book's for you. Regular expressions can be intimidating when you first encounter them. When I started learning to code, I gave up on regular expressions twice. While that was partly because I was intimidated by",
+          "link": "https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/",
+          "publishedOn": "2023-07-26T15:27:12.000Z",
+          "wordCount": 21033,
+          "title": "The Regular Expressions Book – RegEx for JavaScript Developers [Full Book]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Regex-for-JavaScript-Developers-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/",
+          "author": "Zaira Hira",
+          "description": "Emmet is an essential development tool that helps you quickly create repetitive structures like lists, tables, or ordered elements with minimal typing. It is more like a shorthand that translates to multiple lines of HTML or a CSS attribute. Emmet is built-in in many of the text editors like VS",
+          "link": "https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/",
+          "publishedOn": "2023-07-26T14:24:12.000Z",
+          "wordCount": 1301,
+          "title": "How to Write Faster HTML and CSS Code Using Emmet",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Copy-of-Copy-of-Copy-of-Copy-of-read-write-files-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-post-notifications-to-your-react-applications/",
+          "author": "Nishant Kumar",
+          "description": "Recently, I was working on an application.  That application was a Thread Clone, the newly launched social media platform. The tech stack I was using was React for the front end and Firebase for authentication, real-time database, and for file uploads. As I was building the app, I thought wouldn’t",
+          "link": "https://www.freecodecamp.org/news/how-to-add-post-notifications-to-your-react-applications/",
+          "publishedOn": "2023-07-26T14:22:14.000Z",
+          "wordCount": 2144,
+          "title": "How to Add Real-time Post Notifications to Your React Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Depth-First-Search--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/fastapi-quickstart/",
           "author": "Atharva Shah",
@@ -932,46 +1002,6 @@
           "wordCount": 1027,
           "title": "Learn Advanced C# Concepts",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/csharp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-progressive-web-apps/",
-          "author": "Hillary Nyakundi",
-          "description": "These days, everything is made possible with the help of mobile phones and applications. Let's say you need to order food – you can do so instantly via the company's app. Maybe you need government services – the same thing applies. You can even get medical emergency dial services via",
-          "link": "https://www.freecodecamp.org/news/what-are-progressive-web-apps/",
-          "publishedOn": "2023-06-27T12:00:00.000Z",
-          "wordCount": 2883,
-          "title": "What is a PWA? Progressive Web Apps for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImagePWA.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/difference-between-logical-operators-and-and-or/",
-          "author": "Dillion Megida",
-          "description": "AND && and OR || are logical operators in JavaScript which you can use for performing different logical expressions. In this article, I'll explain the difference between them. The goal of this article is for you to understand how these operators work and how they are different. To understand these",
-          "link": "https://www.freecodecamp.org/news/difference-between-logical-operators-and-and-or/",
-          "publishedOn": "2023-06-27T08:15:17.000Z",
-          "wordCount": 2200,
-          "title": "Difference between logical operators AND and OR",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/31-and-or.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cdns-speed-up-performance-by-reducing-latency/",
-          "author": "Austin Gil",
-          "description": "In some recent tutorials, I covered supporting file uploads on the front end [https://austingil.com/uploading-files-with-html/], supporting file uploads on the back end [https://austingil.com/file-uploads-in-node/], and optimizing costs by moving file uploads to object storage. [https://austingil.com/upload-to-s3/] Today, I'll continue to focus on more architectural work, but this time it’ll be focused on optimizing",
-          "link": "https://www.freecodecamp.org/news/cdns-speed-up-performance-by-reducing-latency/",
-          "publishedOn": "2023-06-27T00:17:23.000Z",
-          "wordCount": 2060,
-          "title": "How CDNs Help Speed Up Performance by Reducing Latency",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-pixabay-315934.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-with-nlp-using-spacy/",
-          "author": "Arunachalam B",
-          "description": "In today's data-driven world, vast amounts of unstructured text data are generated every day. And to help handle all that data, Natural Language Processing (NLP) has emerged as a transformative technology.  NLP is a sub-field of artificial intelligence. It focuses on enabling machines to understand, interpret, and generate human",
-          "link": "https://www.freecodecamp.org/news/getting-started-with-nlp-using-spacy/",
-          "publishedOn": "2023-06-26T23:10:31.000Z",
-          "wordCount": 2102,
-          "title": "NLP using spaCy – How to Get Started with Natural Language Processing",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/NLP-using-Spacy---Banner.png"
         }
       ]
     }
