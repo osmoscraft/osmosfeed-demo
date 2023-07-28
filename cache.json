@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).",
+          "link": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
+          "publishedOn": "2023-07-27T15:00:00.000Z",
+          "wordCount": 4100,
+          "title": "How To Use Artificial Intelligence And Machine Learning To Summarize Chat Conversations",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/artificial-intelligence-machine-learning-summarize-chat-conversations/artificial-intelligence-machine-learning-summarize-chat-conversations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/artificial-intelligence-machine-learning-summarize-chat-conversations/artificial-intelligence-machine-learning-summarize-chat-conversations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/",
           "author": "hello@smashingmagazine.com (Adriano Raiano)",
           "description": "The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.",
@@ -213,6 +228,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/",
+          "author": "Olasunkanmi Balogun",
+          "description": "In this article, we will explore the powerful synergy between TypeScript generics and functional React components. Generics allow you to define flexible components that can adapt to different data structures and enforce type safety throughout your codebase. By leveraging Generics in functional components, you can create highly reusable and adaptable",
+          "link": "https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/",
+          "publishedOn": "2023-07-27T18:53:32.000Z",
+          "wordCount": 2364,
+          "title": "How to Use TypeScript Generics with Functional React Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/federico-beccari-ahi73ZN5P0Y-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/",
+          "author": "Beau Carnes",
+          "description": "Imagine transforming your surroundings with interactive digital overlays, creating new experiences, and changing the way you interact with the world around you. Welcome to the future – the future of Augmented Reality (AR). The freeCodeCamp.org YouTube channel just launched a comprehensive new course that will teach you how to implement",
+          "link": "https://www.freecodecamp.org/news/take-your-first-steps-into-the-world-of-augmented-reality/",
+          "publishedOn": "2023-07-27T13:00:56.000Z",
+          "wordCount": 1093,
+          "title": "Augmented Reality Course – Take Your First Steps into the World of AR",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/augmented-reality.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/",
+          "author": "Beau Carnes",
+          "description": "We're excited to announce the launch of a new course on the freeCodeCamp.org YouTube channel that will give you an in-depth understanding of how to build a custom API using Next.js and MongoDB. This course was created by Hitesh Choudhary. He is an an expert in the field and has",
+          "link": "https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/",
+          "publishedOn": "2023-07-27T12:28:05.000Z",
+          "wordCount": 1204,
+          "title": "Learn Next.js by Building a Custom API with MongoDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/next.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/",
           "author": "Ridwan Yusuf",
@@ -942,66 +987,6 @@
           "wordCount": 2133,
           "title": "How to Use a Postman Mock Server with Angular",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-christina-morillo-1181247.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
-          "author": "Sampurna Chapagain",
-          "description": "Django is a free and open-source Python web framework that helps you quickly develop secure and maintainable web applications. In this tutorial, I will guide you step by step as we create a calculator app using django. This is a beginner-friendly tutorial, so if you are new to Django, you",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-calculator-app-in-django/",
-          "publishedOn": "2023-06-27T17:29:01.000Z",
-          "wordCount": 1882,
-          "title": "How to Create a Simple Calculator App in Django",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Add-a-subheading--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/",
-          "author": "Rahul",
-          "description": "Have you ever worked with promises in JavaScript and gotten frustrated when one rejects and ruins everything?  You write some promise-based code, everything is chugging along nicely, and then boom – one little promise rejects and the whole chain comes crashing down. Your code grinds to a halt and",
-          "link": "https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/",
-          "publishedOn": "2023-06-27T17:03:57.000Z",
-          "wordCount": 1605,
-          "title": "How to Use Promise.allSettled() in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/andrew-petrov-hopnkQoC0dg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/",
-          "author": "Hillary Nyakundi",
-          "description": "Python is one of the most popular programming languages today. Its usage cuts across multiple fields, but the most common ones are data science, machine learning, and web development. When you're coding in Python, you'll use different data structures. In Python, among the most used is the dictionary. A dictionary",
-          "link": "https://www.freecodecamp.org/news/how-to-check-if-a-key-exists-in-a-dictionary-in-python/",
-          "publishedOn": "2023-06-27T16:59:26.000Z",
-          "wordCount": 1291,
-          "title": "How to Check if a Key Exists in a Dictionary in Python – Python Dict Has Key",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImage-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-data-types-and-variables/",
-          "author": "Isah Jacob",
-          "description": "As a beginner learning Java, one of the fundamental topics you'll need to understand is data types.  Every day in the life of every software engineer is about how to manipulate data, how to get data from users, the format of the data, and how this data is stored",
-          "link": "https://www.freecodecamp.org/news/java-data-types-and-variables/",
-          "publishedOn": "2023-06-27T16:59:18.000Z",
-          "wordCount": 2237,
-          "title": "Java Data Types And Variables – Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/data-types-and-variables.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/",
-          "author": "Hillary Nyakundi",
-          "description": "Encountering errors is very common during software development, and when working with Python and Django one such error is ImportError: cannot import name 'force text' from 'django.utils.encoding'. This particular error indicates that there is a problem with importing the force text method from the django.utils.encoding module. The missing method is",
-          "link": "https://www.freecodecamp.org/news/importerror-cannot-import-name-force-text-from-django-utils-encoding-python-error-solved/",
-          "publishedOn": "2023-06-27T16:43:24.000Z",
-          "wordCount": 942,
-          "title": "ImportError: cannot import name 'force text' from 'django.utils.encoding' [Python Error Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/CoverImage-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-advanced-c-concepts/",
-          "author": "Beau Carnes",
-          "description": "As a software developer, staying up-to-date with evolving technologies is a cornerstone of your career.  C# is a powerful language that has continued to evolve and transform the landscape of software development. If you are a programmer with some experience in C# and looking to deepen your knowledge, then",
-          "link": "https://www.freecodecamp.org/news/learn-advanced-c-concepts/",
-          "publishedOn": "2023-06-27T13:51:52.000Z",
-          "wordCount": 1027,
-          "title": "Learn Advanced C# Concepts",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/csharp.png"
         }
       ]
     }
