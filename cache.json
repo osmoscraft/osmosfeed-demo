@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/07/define-array-colors-css/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.",
+          "link": "https://smashingmagazine.com/2023/07/define-array-colors-css/",
+          "publishedOn": "2023-07-28T10:00:00.000Z",
+          "wordCount": 4712,
+          "title": "How To Define An Array Of Colors With CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/define-array-colors-css/define-array-colors-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/define-array-colors-css/define-array-colors-css.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/07/artificial-intelligence-machine-learning-summarize-chat-conversations/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "In this article, we’ll explore how to build a chat summarizer using the Cohere API and deploy it as a web application using Gradio.[ Cohere](https://cohere.com/) is an AI platform that provides state-of-the-art natural language processing models for a variety of tasks, including summarization. We’ll cover the steps involved in training the summarizer using sample chat conversations, interacting with the Cohere API to generate summaries, and creating a user-friendly interface using [Gradio](https://www.gradio.app/).",
@@ -205,21 +220,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2023/july-23-under-the-enchanting-moonlight-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/06/perfect-design-process/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "The design process is messy. You might be following a structured approach, but too often, it takes a life of its own. And before you know it, you are designing in chaos, with last-minute changes and missed deadlines. So, what’s the “perfect” design process?",
-          "link": "https://smashingmagazine.com/2023/06/perfect-design-process/",
-          "publishedOn": "2023-06-29T10:00:00.000Z",
-          "wordCount": 3903,
-          "title": "What’s The Perfect Design Process?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/perfect-design-process/perfect-design-process.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/perfect-design-process/perfect-design-process.jpg"
         }
       ]
     },
@@ -228,6 +228,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/higher-order-components-in-react/",
+          "author": "Valentine Gatwiri",
+          "description": "Higher-order components (HOCs) are a powerful feature of the React library. They allow you to reuse component logic across multiple components.  In React, a higher-order component is a function that takes a component as an argument and returns a new component that wraps the original component. HOCs allow you",
+          "link": "https://www.freecodecamp.org/news/higher-order-components-in-react/",
+          "publishedOn": "2023-07-28T17:40:06.000Z",
+          "wordCount": 2161,
+          "title": "How to Use Higher-Order Components in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Screenshot-from-2023-07-26-11-39-58.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/",
+          "author": "Victor Eke",
+          "description": "Knowing how to handle content is important when creating a personal website for yourself or a client.  This is because maintaining and updating a site can result in substantial expenses if you don't do it correctly. This is even more the case if you're building for someone with a",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/",
+          "publishedOn": "2023-07-28T16:30:03.000Z",
+          "wordCount": 6257,
+          "title": "How to Build a Portfolio Site with Sanity and Next.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Sanity-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/",
+          "author": "Rafael D. Hernandez",
+          "description": "Hello! My name is Rafael Hernandez and I'm excited to announce the launch of our new podcast: El Podcast de freeCodeCamp en Español [https://freecodecamp-en-espanol.transistor.fm/].  ‌‌‌‌In this podcast, we'll dive into the stories of inspiring people in the world of technology and content creation. Our goal is to bring you",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/",
+          "publishedOn": "2023-07-28T15:33:33.000Z",
+          "wordCount": 952,
+          "title": "freeCodeCamp is Launching a Podcast in Spanish",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/fcc-podcast-cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/",
           "author": "Olasunkanmi Balogun",
@@ -977,16 +1007,6 @@
           "wordCount": 1019,
           "title": "Create a 3D RPG Game with Godot",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/godot.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/",
-          "author": "Brenda Chepkorir",
-          "description": "New front end features often require back end data support – especially where new endpoints are concerned.  For example, an application that needs an authenticated user experience may need a new /authenticate endpoint. If for any reason endpoint development is stalled or lags behind, despite the sprint planning, you",
-          "link": "https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/",
-          "publishedOn": "2023-06-28T21:47:41.000Z",
-          "wordCount": 2133,
-          "title": "How to Use a Postman Mock Server with Angular",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/pexels-christina-morillo-1181247.jpg"
         }
       ]
     }

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-28T01:01:52.200Z</updated>
+    <updated>2023-07-29T01:03:40.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Higher-Order Components in React]]></title>
+        <id>https://www.freecodecamp.org/news/higher-order-components-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/higher-order-components-in-react/"/>
+        <updated>2023-07-28T17:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Higher-order components (HOCs) are a powerful feature of the React library. They allow you to reuse component logic across multiple components.  In React, a higher-order component is a function that takes a component as an argument and returns a new component that wraps the original component. HOCs allow you]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Portfolio Site with Sanity and Next.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-sanity-and-nextjs/"/>
+        <updated>2023-07-28T16:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to handle content is important when creating a personal website for yourself or a client.  This is because maintaining and updating a site can result in substantial expenses if you don't do it correctly. This is even more the case if you're building for someone with a]]></summary>
+        <author>
+            <name>Victor Eke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp is Launching a Podcast in Spanish]]></title>
+        <id>https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-podcast-in-spanish/"/>
+        <updated>2023-07-28T15:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Hello! My name is Rafael Hernandez and I'm excited to announce the launch of our new podcast: El Podcast de freeCodeCamp en Español [https://freecodecamp-en-espanol.transistor.fm/].  ‌‌‌‌In this podcast, we'll dive into the stories of inspiring people in the world of technology and content creation. Our goal is to bring you]]></summary>
+        <author>
+            <name>Rafael D. Hernandez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Define An Array Of Colors With CSS]]></title>
+        <id>https://smashingmagazine.com/2023/07/define-array-colors-css/</id>
+        <link href="https://smashingmagazine.com/2023/07/define-array-colors-css/"/>
+        <updated>2023-07-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Join Temani Afif on experiment with modern CSS features to create an array of colors. The goal is to define a comma-separated list of colors and iterate through them using an index.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use TypeScript Generics with Functional React Components]]></title>
         <id>https://www.freecodecamp.org/news/typescript-generics-with-functional-react-components/</id>
@@ -885,26 +925,6 @@
         <summary type="html"><![CDATA[Embark on a journey through the realms of 3D game development with a new video course on the freeCodeCamp.org YouTube channel. Designed by the experienced game developer Omar Zaki, this course will help you master the creation of a 3D Action Role-Playing Game (RPG) with the open source Godot engine.]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s The Perfect Design Process?]]></title>
-        <id>https://smashingmagazine.com/2023/06/perfect-design-process/</id>
-        <link href="https://smashingmagazine.com/2023/06/perfect-design-process/"/>
-        <updated>2023-06-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The design process is messy. You might be following a structured approach, but too often, it takes a life of its own. And before you know it, you are designing in chaos, with last-minute changes and missed deadlines. So, what’s the “perfect” design process?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use a Postman Mock Server with Angular]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-a-postman-mock-server-with-angular/"/>
-        <updated>2023-06-28T21:47:41.000Z</updated>
-        <summary type="html"><![CDATA[New front end features often require back end data support – especially where new endpoints are concerned.  For example, an application that needs an authenticated user experience may need a new /authenticate endpoint. If for any reason endpoint development is stalled or lags behind, despite the sprint planning, you]]></summary>
-        <author>
-            <name>Brenda Chepkorir</name>
         </author>
     </entry>
 </feed>
