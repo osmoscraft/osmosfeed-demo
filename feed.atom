@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-02T01:01:27.150Z</updated>
+    <updated>2023-08-03T01:03:56.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I Got Accepted as an Author at freeCodeCamp]]></title>
+        <id>https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/</id>
+        <link href="https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/"/>
+        <updated>2023-08-01T21:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Life is full of surprises. Certain actions may lead to a chain of events and you find yourself in a completely different state.  One of my biggest achievements in 2021 was to get accepted as an author at freeCodeCamp. I have been writing articles on freeCodeCamp's community publication since]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide to Regular Expressions – Learn RegEx with Real Life Examples]]></title>
+        <id>https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/</id>
+        <link href="https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/"/>
+        <updated>2023-08-01T20:42:27.000Z</updated>
+        <summary type="html"><![CDATA[What are Regular Expressions? Regular expressions, also known as regex, work by defining patterns that you can use to search for certain characters or words inside strings. Once you define the pattern you want to use, you can make edits, delete certain characters or words, substitute one thing for another,]]></summary>
+        <author>
+            <name>Tasnim Ferdous</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Two Numbers – The Machine Learning Way]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/"/>
+        <updated>2023-08-01T19:51:50.000Z</updated>
+        <summary type="html"><![CDATA[In the world of machine learning, we often encounter complex problems, from image recognition to natural language processing.  But let's take a step back and explore something more elementary yet equally intriguing: addition! Yes, you read that right – addition.  In this tutorial, we'll build a neural network]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 64 With Alvin Bryan: What Is A Headless CMS?]]></title>
+        <id>https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/</id>
+        <link href="https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/"/>
+        <updated>2023-08-01T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re talking about headless content management systems. What are they, and how do they differ from more traditional systems? Drew McLellan talks to Alvin Bryan to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Server Components – How and Why You Should Use Them in Your Code]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-react-server-components/</id>
@@ -874,56 +914,6 @@
         <summary type="html"><![CDATA[In today's highly competitive mobile app landscape, effectively engaging your app's users and delivering timely information is key.  Firebase Cloud Messaging (FCM) is a powerful push notification service provided by Firebase. It offers a seamless way to connect with your app's users and keep them engaged.  In this]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sustainable Design Toolkits And Resources]]></title>
-        <id>https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/</id>
-        <link href="https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/"/>
-        <updated>2023-07-04T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How can we create products and experiences that don’t cause harm to the planet and to the people who use them? What do we need to consider to make more sustainable design decisions and reduce the carbon footprint of our websites? In this post, we compiled valuable resources that will get you familiar with the principles of sustainable design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke &amp; Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helpful Linux Commands You Should Know]]></title>
-        <id>https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/</id>
-        <link href="https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/"/>
-        <updated>2023-07-03T20:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Ever feel like you’ve mastered the basics of Linux and are ready to level up your skills? Well, good news – there are many powerful commands that you might not know about. In this article, I'll introduce you to some lesser-known Linux commands that will help you become a more]]></summary>
-        <author>
-            <name>Rahul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Authenticate Users in Next.js With NextAuth – App Router VS Pages Router]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/"/>
-        <updated>2023-07-03T19:32:37.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is a key security feature of any application. But it can be complex to implement properly. This tutorial will show you an easy and secure way to handle authentication in your apps. It involves allowing trusted organizations (such as Google, Facebook, Github, and so on) to authenticate your users]]></summary>
-        <author>
-            <name>Njoku Samson Ebere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot dog or not hot dog? Find out with Convolutional Neural Networks]]></title>
-        <id>https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/"/>
-        <updated>2023-07-03T15:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Is this a hot dog? What about this image? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Convolutional Neural Networks. Then you will build a project that can determine if an image is a hot dog or not a hot dog! Kylie]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Git Rebase Handbook – A Definitive Guide to Rebasing]]></title>
-        <id>https://www.freecodecamp.org/news/git-rebase-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/git-rebase-handbook/"/>
-        <updated>2023-07-03T13:56:34.000Z</updated>
-        <summary type="html"><![CDATA[One of the most powerful tools a developer can have in their toolbox is git rebase. Yet it is notorious for being complex and misunderstood.  The truth is, if you understand what it actually does, git rebase is a very elegant, and straightforward tool to achieve so many different]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
         </author>
     </entry>
 </feed>

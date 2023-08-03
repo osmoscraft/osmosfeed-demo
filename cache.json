@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "We’re talking about headless content management systems. What are they, and how do they differ from more traditional systems? Drew McLellan talks to Alvin Bryan to find out.",
+          "link": "https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/",
+          "publishedOn": "2023-08-01T18:00:00.000Z",
+          "wordCount": 8123,
+          "title": "Smashing Podcast Episode 64 With Alvin Bryan: What Is A Headless CMS?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-64/smashing-podcast-episode-64.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-64/smashing-podcast-episode-64.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/css-accessibility-inclusion-user-choice/",
           "author": "hello@smashingmagazine.com (Carie Fisher)",
           "description": "In this article, Carie Fisher outlines which CSS media features are available for detecting user preferences and how they are used to design and build more inclusive user experiences.",
@@ -220,21 +235,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke & Geoff Graham)",
-          "description": "How can we create products and experiences that don’t cause harm to the planet and to the people who use them? What do we need to consider to make more sustainable design decisions and reduce the carbon footprint of our websites? In this post, we compiled valuable resources that will get you familiar with the principles of sustainable design.",
-          "link": "https://smashingmagazine.com/2023/07/sustainable-design-toolkits-and-resources/",
-          "publishedOn": "2023-07-04T09:00:00.000Z",
-          "wordCount": 5847,
-          "title": "Sustainable Design Toolkits And Resources",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/sustainable-design-toolkits/sustainability-innovation-framework-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/sustainable-design-toolkits/sustainability-innovation-framework-opt.png"
         }
       ]
     },
@@ -243,6 +243,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
+          "author": "Zaira Hira",
+          "description": "Life is full of surprises. Certain actions may lead to a chain of events and you find yourself in a completely different state.  One of my biggest achievements in 2021 was to get accepted as an author at freeCodeCamp. I have been writing articles on freeCodeCamp's community publication since",
+          "link": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
+          "publishedOn": "2023-08-01T21:30:58.000Z",
+          "wordCount": 1530,
+          "title": "How I Got Accepted as an Author at freeCodeCamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/fcc-author-application.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/",
+          "author": "Tasnim Ferdous",
+          "description": "What are Regular Expressions? Regular expressions, also known as regex, work by defining patterns that you can use to search for certain characters or words inside strings. Once you define the pattern you want to use, you can make edits, delete certain characters or words, substitute one thing for another,",
+          "link": "https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/",
+          "publishedOn": "2023-08-01T20:42:27.000Z",
+          "wordCount": 4940,
+          "title": "A Practical Guide to Regular Expressions – Learn RegEx with Real Life Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Most-concise-guide-with-real-life-examples.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/",
+          "author": "Arunachalam B",
+          "description": "In the world of machine learning, we often encounter complex problems, from image recognition to natural language processing.  But let's take a step back and explore something more elementary yet equally intriguing: addition! Yes, you read that right – addition.  In this tutorial, we'll build a neural network",
+          "link": "https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/",
+          "publishedOn": "2023-08-01T19:51:50.000Z",
+          "wordCount": 1636,
+          "title": "How to Add Two Numbers – The Machine Learning Way",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Sum-of-2-numbers-using-ML---Banner.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
           "author": "TAPAS ADHIKARY",
@@ -972,46 +1002,6 @@
           "wordCount": 1935,
           "title": "How to Set Up Firebase Cloud Messaging in Flutter Using Firebase",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/A-Complete-Guide-to-FCM-Integration-in-Flutter-Using-Firebase.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/",
-          "author": "Rahul",
-          "description": "Ever feel like you’ve mastered the basics of Linux and are ready to level up your skills? Well, good news – there are many powerful commands that you might not know about. In this article, I'll introduce you to some lesser-known Linux commands that will help you become a more",
-          "link": "https://www.freecodecamp.org/news/helpful-linux-commands-you-should-know/",
-          "publishedOn": "2023-07-03T20:36:49.000Z",
-          "wordCount": 3340,
-          "title": "Helpful Linux Commands You Should Know",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/gabriel-heinzer-4Mw7nkQDByk-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/",
-          "author": "Njoku Samson Ebere",
-          "description": "Authentication is a key security feature of any application. But it can be complex to implement properly. This tutorial will show you an easy and secure way to handle authentication in your apps. It involves allowing trusted organizations (such as Google, Facebook, Github, and so on) to authenticate your users",
-          "link": "https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/",
-          "publishedOn": "2023-07-03T19:32:37.000Z",
-          "wordCount": 3360,
-          "title": "How to Authenticate Users in Next.js With NextAuth – App Router VS Pages Router",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-isaque-pereira-394377--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Is this a hot dog? What about this image? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about Convolutional Neural Networks. Then you will build a project that can determine if an image is a hot dog or not a hot dog! Kylie",
-          "link": "https://www.freecodecamp.org/news/convolutional-neural-networks-course-for-beginners/",
-          "publishedOn": "2023-07-03T15:13:35.000Z",
-          "wordCount": 891,
-          "title": "Hot dog or not hot dog? Find out with Convolutional Neural Networks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/hotdog.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-rebase-handbook/",
-          "author": "Omer Rosenbaum",
-          "description": "One of the most powerful tools a developer can have in their toolbox is git rebase. Yet it is notorious for being complex and misunderstood.  The truth is, if you understand what it actually does, git rebase is a very elegant, and straightforward tool to achieve so many different",
-          "link": "https://www.freecodecamp.org/news/git-rebase-handbook/",
-          "publishedOn": "2023-07-03T13:56:34.000Z",
-          "wordCount": 5418,
-          "title": "The Git Rebase Handbook – A Definitive Guide to Rebasing",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/The-Git-Rebase-Handbook-Book-Cover--1-.png"
         }
       ]
     }
