@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/",
+          "author": "hello@smashingmagazine.com (Hannah Milan)",
+          "description": "In this two-part series of articles, Hannah Milan covers the best practices when using various accessible text over images techniques for designing your web and mobile app content.",
+          "link": "https://smashingmagazine.com/2023/08/designing-accessible-text-over-images-part1/",
+          "publishedOn": "2023-08-04T08:00:00.000Z",
+          "wordCount": 4987,
+          "title": "Designing Accessible Text Over Images: Best Practices, Techniques, And Resources (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-accessible-text-over-images-part1/designing-accessible-text-over-images-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-accessible-text-over-images-part1/designing-accessible-text-over-images-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/optimize-performance-serve-global-audience/",
           "author": "hello@smashingmagazine.com (Liran Cohen)",
           "description": "Liran Cohen and the team at Bookaway, a travel booking service, dramatically improved their site’s performance by auditing Core Web Vitals. In this article, Liran shares his team’s process for auditing and monitoring Web Vitals and the effort it took to dramatically improve Bookaway’s performance — and the benefits that came with it.",
@@ -235,21 +250,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/shines-perspective-rotations-css-3d-effects-images/shines-perspective-rotations-css-3d-effects-images.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
-          "author": "hello@smashingmagazine.com (Robert Goesch)",
-          "description": "As of today, the world’s 50 top airlines have all agreed on the same flight search pattern. Yet the path to booking the right flight remains frustrating and confusing. Is there really only one solution? Or are they afraid to break the mold? Explore the thought experiment which turned the seemingly untouchable pattern on its head.",
-          "link": "https://smashingmagazine.com/2023/07/reimagining-flight-search-ux/",
-          "publishedOn": "2023-07-06T10:00:00.000Z",
-          "wordCount": 6387,
-          "title": "The UX Of Flight Searches: How We Challenged Industry Standards",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/reimagining-flight-search-challenged-industry-norms/ux-flight-searches-challenged-industry-standards.jpg"
         }
       ]
     },
@@ -258,6 +258,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-js-and-sql/",
+          "author": "David Clinton",
+          "description": "For the most part, interactive website architectures will involve generating or dispensing data of one sort or another. You can certainly use HTML forms to collect user input. But the kind of web form that's described here [/news/creating-html-forms/] will only take you so far.  What we really need is",
+          "link": "https://www.freecodecamp.org/news/how-to-perform-crud-operations-js-and-sql/",
+          "publishedOn": "2023-08-03T20:41:40.000Z",
+          "wordCount": 1950,
+          "title": "How to Perform CRUD Operations – JavaScript and SQL Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/5f9ca0b7740569d1a4ca4a58.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-dynamic-wordpress-website/",
+          "author": "Jim Campbell",
+          "description": "Hello, fellow WordPress enthusiasts! Today, I want to share with you an exciting journey I took while building Honeymoons.com [https://honeymoons.com]. It's a dynamic website that uses Advanced Custom Fields (ACF) [https://www.advancedcustomfields.com/] and Custom Post Types [https://developer.wordpress.org/plugins/post-types/registering-custom-post-types/] .  As a travel company specializing in dreamy honeymoon destinations, it was crucial",
+          "link": "https://www.freecodecamp.org/news/build-a-dynamic-wordpress-website/",
+          "publishedOn": "2023-08-03T20:36:38.000Z",
+          "wordCount": 2063,
+          "title": "How to Build a Dynamic Wordpress Site with Advanced Custom Fields and Custom Post Types",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot-2023-08-03-at-3.50.46-AM.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/etl-vs-elt-which-data-integration-technique-should-you-choose/",
           "author": "Bala Priya C",
@@ -307,6 +327,16 @@
           "wordCount": 3066,
           "title": "How to Build a WhatsApp Dictionary Chatbot using Twilio, FastAPI, and MongoDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-chinese/",
+          "author": "Miya Liu",
+          "description": "Hello, everyone! I am Miya Liu. And I'm excited to announce the launch of the  freeCodeCamp Chinese Podcast [https://freecodecamp-in-chinese.transistor.fm/]. In this podcast, we'll bring you the inspiring learning and career development stories of developers, technical content creators, and other tech professionals We'll also share their insights into the world",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-chinese/",
+          "publishedOn": "2023-08-02T09:53:00.000Z",
+          "wordCount": 1141,
+          "title": "freeCodeCamp is Launching a Podcast in Chinese",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/----.jpeg"
         },
         {
           "id": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
@@ -1057,16 +1087,6 @@
           "wordCount": 1011,
           "title": "Create Your Own Programming Language Using Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/language.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/set-up-firebase-cloud-messaging-in-flutter/",
-          "author": "Arunachalam B",
-          "description": "In today's highly competitive mobile app landscape, effectively engaging your app's users and delivering timely information is key.  Firebase Cloud Messaging (FCM) is a powerful push notification service provided by Firebase. It offers a seamless way to connect with your app's users and keep them engaged.  In this",
-          "link": "https://www.freecodecamp.org/news/set-up-firebase-cloud-messaging-in-flutter/",
-          "publishedOn": "2023-07-05T16:38:21.000Z",
-          "wordCount": 1935,
-          "title": "How to Set Up Firebase Cloud Messaging in Flutter Using Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/A-Complete-Guide-to-FCM-Integration-in-Flutter-Using-Firebase.png"
         }
       ]
     }
