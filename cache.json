@@ -235,21 +235,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/become-better-speaker-conferences/become-better-speaker-conferences.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "description": "CSS has all kinds of tricks that are capable of turning images into neat, interactive elements. This article is a collection of fancy 3D effects for images that demonstrate those CSS powers.",
-          "link": "https://smashingmagazine.com/2023/07/shines-perspective-rotations-css-3d-effects-images/",
-          "publishedOn": "2023-07-07T11:00:00.000Z",
-          "wordCount": 5868,
-          "title": "Shines, Perspective, And Rotations: Fancy CSS 3D Effects For Images",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/shines-perspective-rotations-css-3d-effects-images/shines-perspective-rotations-css-3d-effects-images.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/shines-perspective-rotations-css-3d-effects-images/shines-perspective-rotations-css-3d-effects-images.jpg"
         }
       ]
     },
@@ -1007,86 +992,6 @@
           "wordCount": 1572,
           "title": "How to Come Up With Good Coding Project Ideas",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/steve-johnson-lPX6-ee-1zU-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-import-from-file-importing-local-files-in-python/",
-          "author": "Shittu Olumide",
-          "description": "There are many reasons you might want to import files in Python. Perhaps you're doing data analysis, custom file processing, file manipulation, automation and so on.  Fortunately, Python provides a number of ways and methods to help you accomplish this task.  In this article, we will examine some",
-          "link": "https://www.freecodecamp.org/news/python-import-from-file-importing-local-files-in-python/",
-          "publishedOn": "2023-07-06T22:40:27.000Z",
-          "wordCount": 1847,
-          "title": "Python Import from File – Importing Local Files in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-Import-from-File---Importing-Local-Files-in-Python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/",
-          "author": "Sampurna Chapagain",
-          "description": "In Django, there are three main types of relationships: one-to-one, many-to-one, and many-to-many. In this article, I will explain the many-to-one relationship in Django. If you are a beginner with some knowledge about Django project setup or even have some decent experience in Django, you can follow along with this",
-          "link": "https://www.freecodecamp.org/news/what-is-one-to-many-relationship-in-django/",
-          "publishedOn": "2023-07-06T20:33:56.000Z",
-          "wordCount": 1186,
-          "title": "How to Use a Foreign Key to Create Many-to-One Relationships in Django",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Add-a-subheading--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/",
-          "author": "Umoh Tobby",
-          "description": "In C#, types called delegates represent references to methods with specific signatures.  Developers use delegates to implement callback methods, handle events, and perform tasks where executing a method at a later time is necessary.  C# offers various delegates, and two commonly used ones are Action and Func, both",
-          "link": "https://www.freecodecamp.org/news/action-and-func-delegates-in-c-sharp/",
-          "publishedOn": "2023-07-06T19:46:15.000Z",
-          "wordCount": 1131,
-          "title": "Action and Func Delegates in C# – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Untitled--Copy-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-css-selectors/",
-          "author": "David Clinton",
-          "description": "You can apply CSS to elements like paragraphs and ordered lists, which you can learn more about by reading this article [/news/css-style-sheets-basics/]. But you're not just restricted to those two approaches.  As we'll see in this tutorial, you can also control content behavior using custom or ID styles, pseudo",
-          "link": "https://www.freecodecamp.org/news/how-to-use-css-selectors/",
-          "publishedOn": "2023-07-06T19:42:00.000Z",
-          "wordCount": 2054,
-          "title": "How to Use CSS Selectors",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/pexels-karolina-grabowska-4016510.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/string-to-array-in-java-how-to-convert-a-string-to-an-array-in-java/",
-          "author": "Shittu Olumide",
-          "description": "Being able to convert a string into an array can be quite helpful when you're developing text-processing applications or working with data.  A string in Java is a group of characters, whereas an array is a collection of the same type of element. You may deconstruct a string into",
-          "link": "https://www.freecodecamp.org/news/string-to-array-in-java-how-to-convert-a-string-to-an-array-in-java/",
-          "publishedOn": "2023-07-06T19:37:24.000Z",
-          "wordCount": 2545,
-          "title": "String to Array in Java – How to Convert Strings to Arrays",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-String-to-Array-in-Java---How-to-Convert-a-String-to-an-Array-in-Java.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-javascript-for-beginners/",
-          "author": "Nathan Sebhastian",
-          "description": "The goal of this handbook is to quickly introduce you to the basics of JavaScript so you can start programming applications. Instead of covering all the theories and concepts of JavaScript, I'll be teaching you only the most important building blocks of the language. We'll cover things like variables, data",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-for-beginners/",
-          "publishedOn": "2023-07-06T19:01:25.000Z",
-          "wordCount": 15521,
-          "title": "Learn JavaScript for Beginners – JS Basics Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/book-cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/",
-          "author": "Zubair Idris Aweda",
-          "description": "When you're building large scale web applications, speed is a major priority. Users don't want to wait long for responses anymore, and they shouldn't have to. But some processes take time, and they cannot be made any faster or eliminated. Message queues help solve this problem by providing an additional",
-          "link": "https://www.freecodecamp.org/news/how-to-use-queues-in-web-applications/",
-          "publishedOn": "2023-07-06T16:23:18.000Z",
-          "wordCount": 3073,
-          "title": "How to Use Queues in Web Applications – Node.js and Redis Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/businessmen02.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-your-own-programming-language-using-python/",
-          "author": "Beau Carnes",
-          "description": "Create Your Own Programming Language with Advanced Python: A Deep Dive into the Art of Language Design Imagine being able to build your own programming language from scratch. The ability to design and create a language tailored to your own vision and specifications is an incredible achievement for any programmer.",
-          "link": "https://www.freecodecamp.org/news/create-your-own-programming-language-using-python/",
-          "publishedOn": "2023-07-06T14:30:36.000Z",
-          "wordCount": 1011,
-          "title": "Create Your Own Programming Language Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/language.png"
         }
       ]
     }
