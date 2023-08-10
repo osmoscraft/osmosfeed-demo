@@ -220,36 +220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/create-rapid-research-program-support-insights-scale/create-rapid-research-program-support-insights-scale.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode of The Smashing Podcast, we’re talking about The Transitional Web. What is it, and how does it describe the technologies we’re using? Drew McLellan talks to Chris Ferdinandi to find out.",
-          "link": "https://smashingmagazine.com/2023/07/smashing-podcast-episode-63/",
-          "publishedOn": "2023-07-11T08:00:00.000Z",
-          "wordCount": 9982,
-          "title": "Smashing Podcast Episode 63 With Chris Ferdinandi: What Is The Transitional Web?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-63/smashing-podcast-episode-63.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-63/smashing-podcast-episode-63.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/become-better-speaker-conferences/",
-          "author": "hello@smashingmagazine.com (Andy Budd)",
-          "description": "In this article, Andy Budd, curator of UX London and Leading Design conferences, outlines some of the things that make a potentially amazing presentation, as well as a few big gotchas. If you’ve ever wondered what it takes to get a speaking slot at a conference, this article is for you.",
-          "link": "https://smashingmagazine.com/2023/07/become-better-speaker-conferences/",
-          "publishedOn": "2023-07-11T07:00:00.000Z",
-          "wordCount": 7091,
-          "title": "How To Become A Better Speaker At Conferences",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/become-better-speaker-conferences/become-better-speaker-conferences.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/become-better-speaker-conferences/become-better-speaker-conferences.jpg"
         }
       ]
     },
@@ -258,6 +228,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/",
+          "author": "Sule-Balogun Olanrewaju Ganiu",
+          "description": "Composer is a dependency management tool for projects running on PHP. PHP frameworks like Laravel, Symfony, and CodeIgniter use Composer to manage libraries and packages. In this tutorial, you’ll learn the following:  * Introduction to Composer.  * Minimum stability in Composer.  * Levels of stability, and the",
+          "link": "https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/",
+          "publishedOn": "2023-08-09T17:31:49.000Z",
+          "wordCount": 1164,
+          "title": "What is Minimum Stability In Composer?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/javier-garcia-chavez-bdZ3bzRde5g-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/",
+          "author": "Beau Carnes",
+          "description": "Ensuring the reliability and performance of your web applications is important. Testing is a key tool that will help with these things and more.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Cypress to create end-to-end tests for your JavaScript",
+          "link": "https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/",
+          "publishedOn": "2023-08-09T16:58:06.000Z",
+          "wordCount": 872,
+          "title": "Learn End-to-End Testing with Cypress for JavaScript Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cypress.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "Are you new to the world of programming? Are you eager to unlock the potential of JavaScript to create more readable and maintainable code? If so, we have an excellent course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you everything you need",
+          "link": "https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/",
+          "publishedOn": "2023-08-09T16:40:40.000Z",
+          "wordCount": 16060,
+          "title": "Mastering JavaScript Functions for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/functions.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/",
+          "author": "Ijeoma Igboagu",
+          "description": "Deploying your application is a key aspect of software development. Typically, having an app on your local system isn't enough – it needs to be accessible online. So choosing a suitable and user-friendly hosting and deployment plan is vital. The key to making the right decision lies in understanding the",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/",
+          "publishedOn": "2023-08-09T14:23:41.000Z",
+          "wordCount": 3303,
+          "title": "How to Deploy Your Websites and Apps – User-Friendly Deployment Strategies",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover-friendly-deploy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deploying-a-django-app-to-render/",
+          "author": "Sophia Iroegbu",
+          "description": "Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,",
+          "link": "https://www.freecodecamp.org/news/deploying-a-django-app-to-render/",
+          "publishedOn": "2023-08-09T14:13:39.000Z",
+          "wordCount": 1604,
+          "title": "How to Deploy a Django App on Render",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Blog-Banner---Template--6-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/",
           "author": "CHRISTINE T. BELZIE",
@@ -967,46 +987,6 @@
           "wordCount": 2015,
           "title": "How to Fine-Tune spaCy Models for NLP Use Cases",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Fine-tune-Spacy---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/",
-          "author": "Shittu Olumide",
-          "description": "Environment variables play a crucial role in Python programming. They provide a way to store and access configuration values, system-specific information, and sensitive data.  In this article, we will explore various methods to retrieve environment variables in Python and discuss best practices for handling and managing them effectively. What",
-          "link": "https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/",
-          "publishedOn": "2023-07-10T21:39:01.000Z",
-          "wordCount": 1548,
-          "title": "Python Env Vars – How to Get an Environment Variable in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Shittu-Olumide-Python-Env-Vars---How-to-get-an-Environment-Variable-in-Python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/",
-          "author": "Deborah Kurata",
-          "description": "One of the new features in Angular v16 is automatic route parameter mapping using the @Input() decorator. What does that mean? Well, you may have code that reads route parameters using the Activated Route service, like this:   private route = inject(ActivatedRoute);   ngOnInit(): void {",
-          "link": "https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/",
-          "publishedOn": "2023-07-10T21:18:44.000Z",
-          "wordCount": 2156,
-          "title": "How to Use @Input() to Read Angular Route Parameters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/",
-          "author": "Gideon Akinsanmi",
-          "description": "The Fullscreen API is a browser web API that allows you to enable fullscreen mode for HTML elements. It saves you the stress of using CSS and JavaScript to implement fullscreen functionality. The use cases of fullscreen API are numerous because of the increased complexity of today's websites. In this",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/",
-          "publishedOn": "2023-07-10T21:02:06.000Z",
-          "wordCount": 2029,
-          "title": "How to Use the JavaScript Fullscreen API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/js_fullscreen_png.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/typescript-satisfies-operator/",
-          "author": "Satyam Tripathi",
-          "description": "In TypeScript, the satisfies operator is a very useful tool. It was introduced in TypeScript v4.9 [https://github.com/microsoft/TypeScript/issues/50457] as an effective way to ensure type safety. The satisfies operator tells you whether a given type satisfies a particular condition – and it provides this information before running your code. Also, when",
-          "link": "https://www.freecodecamp.org/news/typescript-satisfies-operator/",
-          "publishedOn": "2023-07-10T17:12:59.000Z",
-          "wordCount": 2526,
-          "title": "How to Use the TypeScript satisfies Operator",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Copy-of-Getting-Started-With-DevOps.png"
         }
       ]
     }
