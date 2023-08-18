@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T00:51:32.289Z</updated>
+    <updated>2023-08-18T00:52:11.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is College Still Worth it? Tips from my 20 Years in Adult Education]]></title>
+        <id>https://www.freecodecamp.org/news/is-college-worth-it/</id>
+        <link href="https://www.freecodecamp.org/news/is-college-worth-it/"/>
+        <updated>2023-08-17T17:46:36.000Z</updated>
+        <summary type="html"><![CDATA[So many people ask me each week: is college still worth it? In this 1-hour video I answer this question and other commonly asked questions about university. I've been in adult education for two decades at this point, and even though I'm not a labor market economist, I do feel]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement a Blender Model in a React.js Application using Three.js]]></title>
+        <id>https://www.freecodecamp.org/news/blender-three-js-react-js/</id>
+        <link href="https://www.freecodecamp.org/news/blender-three-js-react-js/"/>
+        <updated>2023-08-17T14:58:49.000Z</updated>
+        <summary type="html"><![CDATA[In this step-by-step guide, you'll learn how to build a basic Blender file with incorporated fundamental animations. After that, you'll learn how to integrate Three.js with your React apps using React Three Fiber.  Getting familiar with these concepts can help you make sure your upcoming React.js applications stand out.]]></summary>
+        <author>
+            <name>Matthes Bär</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn HTML and CSS – Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/html-css-handbook-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/html-css-handbook-for-beginners/"/>
+        <updated>2023-08-17T14:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Greetings, and welcome to this comprehensive HTML and CSS handbook. My goal is to teach you everything you need to know about building fast and beautiful websites that look great on any device. I'm assuming you have no knowledge of HTML or CSS and want to learn everything from scratch.]]></summary>
+        <author>
+            <name>Karlgusta Annoh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 7 Hour Course]]></title>
+        <id>https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/</id>
+        <link href="https://www.freecodecamp.org/news/hashicorp-terraform-associate-certification-study-course-pass-the-exam-with-this-free-12-hour-course/"/>
+        <updated>2023-08-17T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification (003) with this free 7-hour course. What is the HashiCorp Terraform Associate? HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained]]></title>
         <id>https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/</id>
@@ -774,66 +814,6 @@
         <summary type="html"><![CDATA[In JavaScript, the HTML DOM (Document Object Model) represents the structure and content of an HTML document as a tree-like structure. In it, each element, attribute, and text node in the HTML document is represented as a node in the DOM tree.  In this article you're going to learn]]></summary>
         <author>
             <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Information Architecture? How to Create Userflows and Sitemaps for UX Design]]></title>
-        <id>https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/</id>
-        <link href="https://www.freecodecamp.org/news/information-architecture-userflow-sitemap/"/>
-        <updated>2023-07-18T20:40:51.000Z</updated>
-        <summary type="html"><![CDATA[At some point in your design career, you may hear about Information Architecture (or IA). You might even have to create a userflow or sitemap. Now, this article aims to help you go back to the basics and remind you of the meaning and importance of IA. So if you]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are two similar objects not equal in JavaScript?]]></title>
-        <id>https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/"/>
-        <updated>2023-07-18T18:53:47.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, two objects cannot be equal even though they are similar. Why is that the case? 🤔 Let's understand why. For example: const obj1 = {   name: "Dillion" } const obj2 = {   name: "Dillion" } console.log(obj1 === obj2) // false As you can see]]></summary>
-        <author>
-            <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Python App Design with ttkbootstrap]]></title>
-        <id>https://www.freecodecamp.org/news/modern-python-app-design-with-ttkbootstrap/</id>
-        <link href="https://www.freecodecamp.org/news/modern-python-app-design-with-ttkbootstrap/"/>
-        <updated>2023-07-18T18:39:10.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to add a touch of modernity to your Python apps? Do you want to master Tkinter and ttkbootstrap for a sleek, contemporary design? freeCodeCamp.org has just launched a brand new video course on YouTube that will teach you how to easily implement modern designs in your Tkinter-based]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLI Shells – A Brief History of Human-Computer Interfaces]]></title>
-        <id>https://www.freecodecamp.org/news/shells-a-history-of-human-computer-interfaces/</id>
-        <link href="https://www.freecodecamp.org/news/shells-a-history-of-human-computer-interfaces/"/>
-        <updated>2023-07-18T16:45:23.000Z</updated>
-        <summary type="html"><![CDATA[A computer is basically a piece of electronic circuitry that performs tasks as instructed by its users. But for a human to interact with this hardware, they must really know and understand how it works. The person must also know the order in which to give the computer various tasks]]></summary>
-        <author>
-            <name>Chidiadi Anyanwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Measure Django Code Quality Using SonarQube, Pytest, and Coverage]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-measure-django-code-quality-using-sonarqube-pytest-and-coverage/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-measure-django-code-quality-using-sonarqube-pytest-and-coverage/"/>
-        <updated>2023-07-18T16:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Greetings, fellow coding enthusiasts! We're going to dive deep into the realm of Django code quality assessment. In this comprehensive guide, I'll walk you through an in-depth approach to measuring the code quality of your Django-based application. By the end of this tutorial, you will be able to:  1.]]></summary>
-        <author>
-            <name>Ridwan Yusuf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dockerize a React Application – A Step by Step Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-dockerize-a-react-application/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dockerize-a-react-application/"/>
-        <updated>2023-07-18T14:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Picture this: you have developed an application that is ready to be deployed. You have worked really hard on it, so you want to make sure it gets deployed seamlessly and the final product is both fast and reliable. Enter images and containers. Images and containers help you package your]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
         </author>
     </entry>
 </feed>
