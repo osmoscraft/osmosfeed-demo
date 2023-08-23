@@ -220,21 +220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modern-technology-future-language-translation/modern-technology-future-language-translation.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "In this article, Adrian deconstructs YouTube’s “Ambient Mode” feature and how HTML `` and the `requestAnimationFrame` function are used to create the glowing effect.",
-          "link": "https://smashingmagazine.com/2023/07/recreating-youtube-ambient-mode-glow-effect/",
-          "publishedOn": "2023-07-24T12:00:00.000Z",
-          "wordCount": 5715,
-          "title": "Recreating YouTube’s Ambient Mode Glow Effect",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/recreating-youtube-ambient-mode-glow-effect/recreating-youtube-ambient-mode-glow-effect.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/recreating-youtube-ambient-mode-glow-effect/recreating-youtube-ambient-mode-glow-effect.jpg"
         }
       ]
     },
@@ -243,6 +228,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
+          "author": "Valentine Gatwiri",
+          "description": "Bundling is an important phase in the web development process, particularly when dealing with JavaScript frameworks like React. It entails combining all the various JavaScript files and dependencies into a single file for faster browser loading and execution.  esbuild is a lightweight and efficient bundler for React apps. Here's",
+          "link": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
+          "publishedOn": "2023-08-22T20:56:13.000Z",
+          "wordCount": 1397,
+          "title": "How to Bundle a Simple React Application Using esbuild",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot-from-2023-08-21-16-04-04.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/",
+          "author": "Nathan Sebhastian",
+          "description": "There are times when you need to validate a date input in your JavaScript applications. This article will show you how to perform the following date validations:  1. Check if a string is a valid date  2. Validate a string in the DD/MM/YYYY format  3. Check if",
+          "link": "https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/",
+          "publishedOn": "2023-08-22T19:08:29.000Z",
+          "wordCount": 1582,
+          "title": "JS Date Validations – How To Validate a Date in JavaScript (With Examples)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/js-date-validations.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/",
+          "author": "Kunal Nalawade",
+          "description": "In today's ever-changing technology landscape, companies are looking for reliable and scalable ways to run and manage software. And containers have transformed the way we deliver software. Container orchestration platforms have made it possible to deploy and manage containerised applications. Kubernetes is one such platform that has been a game-changer",
+          "link": "https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/",
+          "publishedOn": "2023-08-22T16:34:30.000Z",
+          "wordCount": 3408,
+          "title": "How to Deploy an Application to a Kubernetes Cluster",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/deploy-app-to-k8s-cluster.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
+          "author": "Isah Jacob",
+          "description": "In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO",
+          "link": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
+          "publishedOn": "2023-08-22T16:20:41.000Z",
+          "wordCount": 3680,
+          "title": "How to Protect Your Website Against SEO Poisoning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/How-to-Protect-Your-Website-Against-SEO-Poisoning.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/",
+          "author": "Adejumo Ridwan Suleiman",
+          "description": "Svelte is an open-source front-end JavaScript framework used for building web applications, designed to make developing interactive user interfaces more efficient and performant.  Compared to other front-end frameworks like React, Vue, or Angular, it focuses on a different approach by compiling components. In most traditional frameworks, you build components",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/",
+          "publishedOn": "2023-08-22T15:48:35.000Z",
+          "wordCount": 2775,
+          "title": "How to Build a Calculator App with Svelte",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/",
+          "author": "Daniel Adetunji",
+          "description": "In programming, \"state\" refers to the condition of a system, component, or application at a particular point in time.  As a simple example, if you are shopping on amazon.com, whether you are currently logged into the site or if you have anything stored in your cart are some examples",
+          "link": "https://www.freecodecamp.org/news/stateful-vs-stateless-architectures-explained/",
+          "publishedOn": "2023-08-21T21:08:59.000Z",
+          "wordCount": 2217,
+          "title": "Stateful vs Stateless Architecture – Explained for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover-photo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practice-web-scraping-safely/",
+          "author": "Quincy Larson",
+          "description": "When I grew up in the 1990s, we skateboarded everywhere. If a parking lot had a ledge or a handrail, you'd better believe we waxed it and grinded our boards across it. Fast forward to the 2020s – many cities have built public skate parks. These are safe, legal",
+          "link": "https://www.freecodecamp.org/news/practice-web-scraping-safely/",
+          "publishedOn": "2023-08-21T19:50:15.000Z",
+          "wordCount": 999,
+          "title": "Introducing ScrapePark.org – Practice Web Scraping Without Hurting Anyone",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/shawn-henry-eK_aInAXydw-unsplash--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/development-with-large-language-models/",
           "author": "Beau Carnes",
@@ -882,16 +937,6 @@
           "wordCount": 2384,
           "title": "How to Use Google Sheets – A Beginner's Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/maxresdefault.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
-          "author": "Arunachalam B",
-          "description": "Serverless architectures have transformed the way we build and deploy applications in the cloud, bringing in more efficiency and scalability. In this article, we'll dive into the Serverless Stack Toolkit (SST), a framework for building serverless applications. We'll deploy a Next.js application and set up a custom domain, all without",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-next-js-app-with-custom-domain-on-aws-using-sst/",
-          "publishedOn": "2023-07-24T07:18:19.000Z",
-          "wordCount": 2563,
-          "title": "How to Deploy a Next.js App with Custom Domain on AWS Using SST",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/AWS---SST---Banner.png"
         }
       ]
     }
