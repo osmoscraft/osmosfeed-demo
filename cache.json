@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.",
+          "link": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
+          "publishedOn": "2023-08-23T15:00:00.000Z",
+          "wordCount": 4494,
+          "title": "A Few Interesting Ways To Use CSS Shadows For More Than Depth",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/better-context-menus-safe-triangles/",
           "author": "hello@smashingmagazine.com (Costa Alexoglou)",
           "description": "Discover how to improve the user experience of nested menus and tackle a minor yet common issue with them when the user’s pointer leaves the menu item for a moment, and the nested menu goes away, requiring the user to re-hover and try again. A well-known concept called the “safe triangle” solves this problem.",
@@ -229,6 +244,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/build-a-photo-encryption-app/",
+          "author": "Houssein Badra",
+          "description": "In this digital age, data flows freely across networks and devices. So protecting sensitive information from unauthorized access is crucial. That's where encryption comes in.  Encryption involves converting plain, readable data into an incomprehensible form. It's also essential to have a way to convert the data back into a",
+          "link": "https://www.freecodecamp.org/news/build-a-photo-encryption-app/",
+          "publishedOn": "2023-08-23T21:06:02.000Z",
+          "wordCount": 2715,
+          "title": "How to Build a Photo Encryption App using Steganography",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot--122-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/beginners-python-tutorial-pong/",
+          "author": "Beau Carnes",
+          "description": "Pong was one of the first video games. And it also makes a good first (or early) Python project when you are learning to code. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Python and Pygame skills by teaching you how to",
+          "link": "https://www.freecodecamp.org/news/beginners-python-tutorial-pong/",
+          "publishedOn": "2023-08-23T20:45:10.000Z",
+          "wordCount": 2105,
+          "title": "Beginner's Python Tutorial: Pong",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/pong.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced",
+          "link": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
+          "publishedOn": "2023-08-23T17:56:28.000Z",
+          "wordCount": 852,
+          "title": "Free Perl Programming Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/prl.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
+          "author": "Tasnim Ferdous",
+          "description": "What is Tampermonkey? Tampermonkey is a browser extension that lets you add custom scripts to websites, making them work or look the way you want. It's like giving websites a makeover or adding new features. These scripts are called userscripts and you can make tampermonkey run those scripts when you",
+          "link": "https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/",
+          "publishedOn": "2023-08-22T22:32:35.000Z",
+          "wordCount": 3908,
+          "title": "How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover_image.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
+          "author": "Farhan Hasin Chowdhury",
+          "description": "Very few programming languages are as universally loved as Python. The brainchild of Dutch programmer Guido van Rossum [https://en.wikipedia.org/wiki/Guido_van_Rossum], Python is easy to learn, powerful, and an utter joy to work with. Thanks to its popularity, video and written resources about Python are plentiful. This handbook, however, tries to be",
+          "link": "https://www.freecodecamp.org/news/the-python-code-example-handbook/",
+          "publishedOn": "2023-08-22T21:54:38.000Z",
+          "wordCount": 19330,
+          "title": "The Python Code Example Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Learn-Python-with-Code-Examples-Handbook-Cover.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/",
           "author": "Valentine Gatwiri",
           "description": "Bundling is an important phase in the web development process, particularly when dealing with JavaScript frameworks like React. It entails combining all the various JavaScript files and dependencies into a single file for faster browser loading and execution.  esbuild is a lightweight and efficient bundler for React apps. Here's",
@@ -257,6 +322,16 @@
           "wordCount": 3408,
           "title": "How to Deploy an Application to a Kubernetes Cluster",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/deploy-app-to-k8s-cluster.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/",
+          "author": "Isah Jacob",
+          "description": "In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO",
+          "link": "https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/",
+          "publishedOn": "2023-08-22T16:20:41.000Z",
+          "wordCount": 3680,
+          "title": "How to Protect Your Website Against SEO Poisoning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/How-to-Protect-Your-Website-Against-SEO-Poisoning.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/",
