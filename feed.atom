@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-24T00:52:27.824Z</updated>
+    <updated>2023-08-25T00:53:45.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Routing in Next.js – How to Use App Router in your Next Apps]]></title>
+        <id>https://www.freecodecamp.org/news/routing-in-nextjs/</id>
+        <link href="https://www.freecodecamp.org/news/routing-in-nextjs/"/>
+        <updated>2023-08-24T15:13:32.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving world of web development, Next.js has consistently been a beacon of hope for developers seeking a balance between performance and ease of use.  With the introduction of the App Router in 2023, the framework has once again stirred the pot, leaving many of us scratching our]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering SQL for Web Developers – Full Course]]></title>
+        <id>https://www.freecodecamp.org/news/untitled-135/</id>
+        <link href="https://www.freecodecamp.org/news/untitled-135/"/>
+        <updated>2023-08-24T13:55:38.000Z</updated>
+        <summary type="html"><![CDATA[In today's data-driven world, the ability to effectively manage and query databases is an essential skill for any programmer, data analyst, or software engineer. Whether you want to streamline business operations, uncover critical insights, or create dynamic applications, a solid understanding of Structured Query Language (SQL) is paramount. We just]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Photo Encryption App using Steganography]]></title>
         <id>https://www.freecodecamp.org/news/build-a-photo-encryption-app/</id>
@@ -874,56 +894,6 @@
         <summary type="html"><![CDATA[Recently, I was working on an application.  That application was a Thread Clone, the newly launched social media platform. The tech stack I was using was React for the front end and Firebase for authentication, real-time database, and for file uploads. As I was building the app, I thought wouldn’t]]></summary>
         <author>
             <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Technology And The Future Of Language Translation]]></title>
-        <id>https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/</id>
-        <link href="https://smashingmagazine.com/2023/07/modern-technology-future-language-translation/"/>
-        <updated>2023-07-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The field of language translation has never been more exciting. Explore the evolution of language translation platforms, how we got to where we are today, and what advancements we can look forward to in the coming years.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adriano Raiano)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastAPI Tutorial – How to Develop, Test, and Deploy APIs]]></title>
-        <id>https://www.freecodecamp.org/news/fastapi-quickstart/</id>
-        <link href="https://www.freecodecamp.org/news/fastapi-quickstart/"/>
-        <updated>2023-07-25T20:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the world of FastAPI, a sleek and high-performance web framework for constructing Python APIs. Don't worry if you're new to API programming – we'll start at the beginning.  An API (Application Programming Interface) connects several software programs allowing them to converse and exchange information. APIs are essential]]></summary>
-        <author>
-            <name>Atharva Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Node.js? Server-Side JavaScript Development Basics]]></title>
-        <id>https://www.freecodecamp.org/news/node-js-basics/</id>
-        <link href="https://www.freecodecamp.org/news/node-js-basics/"/>
-        <updated>2023-07-25T18:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Node.js is a powerful runtime environment for executing JavaScript code outside  of a web browser. It brings the JavaScript language to the server-side, enabling developers to build scalable, high-performance, and event-driven applications. Let's discover how Node.js code works, and how that code can be integrated within your JavaScript and]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is DNS? Basics for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-dns-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-dns-for-beginners/"/>
-        <updated>2023-07-25T18:07:28.000Z</updated>
-        <summary type="html"><![CDATA[When you access a website like www.google.com [https://www.google.com/], would it surprise you to learn that the URL isn't really the website address?  There is some work "under the hood" to ensure that, when you type in a human friendly name like Google, it takes you to the website you're]]></summary>
-        <author>
-            <name>Kealan Parr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Google Sheets – A Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/google-sheets-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/google-sheets-for-beginners/"/>
-        <updated>2023-07-25T17:53:57.000Z</updated>
-        <summary type="html"><![CDATA[Google Sheets is an online spreadsheet app with real-time collaboration features. It's like Microsoft Excel for regular people. 🙌 gif of guy saying aren't ordinary people adorableAnd, these days, it's actually giving Excel a run for its money. It's picked up a lot of features and processing power over the]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
         </author>
     </entry>
 </feed>
