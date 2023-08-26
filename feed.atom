@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-25T00:53:45.275Z</updated>
+    <updated>2023-08-26T00:51:34.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Real-Time Notification System with Go and Kafka]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-real-time-notification-system-with-go-and-kafka/"/>
+        <updated>2023-08-25T21:41:27.000Z</updated>
+        <summary type="html"><![CDATA[These days, applications need to have instant data access and processing capabilities. Whether it's updating real-time stock trades for financial institutions or navigating through live traffic data, the ability to process and react to data in real time is crucial. In this tutorial, you’ll delve into the mechanics of Kafka]]></summary>
+        <author>
+            <name>Hermann Rösch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Large Language Model from Scratch Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/"/>
+        <updated>2023-08-25T15:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever been fascinated by the capabilities of large language models like GPT-4 but wondered how they are actually work? If you want to uncover the mysteries behind these powerful models, our latest video course on the freeCodeCamp.org YouTube channel is perfect for you. In this comprehensive course, you]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Double Diamond Design Process]]></title>
+        <id>https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/</id>
+        <link href="https://smashingmagazine.com/2023/08/improving-double-diamond-design-process/"/>
+        <updated>2023-08-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The so-called “Double Diamond” is a great way of visualizing an ideal design process — but it’s just not the way most companies deliver new projects or services. Andy Budd proposes a new “Double Diamond” idea that better aligns with the way work actually gets done and highlights the place where design has the most leverage.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Budd)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Routing in Next.js – How to Use App Router in your Next Apps]]></title>
         <id>https://www.freecodecamp.org/news/routing-in-nextjs/</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[In the ever-evolving world of web development, Next.js has consistently been a beacon of hope for developers seeking a balance between performance and ease of use.  With the introduction of the App Router in 2023, the framework has once again stirred the pot, leaving many of us scratching our]]></summary>
         <author>
             <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering SQL for Web Developers – Full Course]]></title>
+        <id>https://www.freecodecamp.org/news/sql-for-web-devs/</id>
+        <link href="https://www.freecodecamp.org/news/sql-for-web-devs/"/>
+        <updated>2023-08-24T13:55:38.000Z</updated>
+        <summary type="html"><![CDATA[In today's data-driven world, the ability to effectively manage and query databases is an essential skill for any programmer, data analyst, or software engineer. Whether you want to streamline business operations, uncover critical insights, or create dynamic applications, a solid understanding of Structured Query Language (SQL) is paramount. We just]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -814,86 +854,6 @@
         <summary type="html"><![CDATA[Imagine transforming your surroundings with interactive digital overlays, creating new experiences, and changing the way you interact with the world around you. Welcome to the future – the future of Augmented Reality (AR). The freeCodeCamp.org YouTube channel just launched a comprehensive new course that will teach you how to implement]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Next.js by Building a Custom API with MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/</id>
-        <link href="https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/"/>
-        <updated>2023-07-27T12:28:05.000Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce the launch of a new course on the freeCodeCamp.org YouTube channel that will give you an in-depth understanding of how to build a custom API using Next.js and MongoDB. This course was created by Hitesh Choudhary. He is an an expert in the field and has]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Multiple Virtual Hosts on a Single RabbitMQ Instance]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-multiple-virtual-hosts-on-one-rabbitmq-instance/"/>
-        <updated>2023-07-26T21:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Hi, friends, and welcome to another tutorial. We'll be talking about RabbitMQ, a tool that is widely used as a message broker in distributed and Pub-Sub systems.  While multiple applications can share a single RabbitMQ instance, it's a great approach to configure it to have different virtual hosts for]]></summary>
-        <author>
-            <name>Ridwan Yusuf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Custom Animations in Flutter – A Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/creating-custom-animations-in-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/creating-custom-animations-in-flutter/"/>
-        <updated>2023-07-26T17:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Animations play a crucial role in enhancing user experience and making mobile apps more engaging.  Flutter, Google's UI toolkit for building natively compiled applications for mobile, web, and desktop, offers a powerful animation system that allows developers to create stunning custom animations.  In this step-by-step guide, we will]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Storage Options – Block Storage vs File Storage vs Object Storage Explained]]></title>
-        <id>https://www.freecodecamp.org/news/cloud-storage-options/</id>
-        <link href="https://www.freecodecamp.org/news/cloud-storage-options/"/>
-        <updated>2023-07-26T17:10:33.000Z</updated>
-        <summary type="html"><![CDATA[There are three types of storage options offered by most cloud providers: block storage, file storage, and object storage (often referred to as BLOB or Binary Large Object).  This tutorial will explain these types of storage, their real-world use cases, and some trade-offs. What is Block Storage? Imagine you]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Chatbot With the ChatGPT API]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-chatbot-with-the-chatgpt-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-chatbot-with-the-chatgpt-api/"/>
-        <updated>2023-07-26T15:48:02.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI's ChatGPT is a great tool for getting information as quickly as possible for your coding projects. Even better, you can now integrate the artificial intelligence-powered chat capability of OpenAI's models directly into your application. Recently, the OpenAI team expanded their API by giving developers access to their pretrained AI]]></summary>
-        <author>
-            <name>Kingsley Ubah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Regular Expressions Book – RegEx for JavaScript Developers [Full Book]]]></title>
-        <id>https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/</id>
-        <link href="https://www.freecodecamp.org/news/regular-expressions-for-javascript-developers/"/>
-        <updated>2023-07-26T15:27:12.000Z</updated>
-        <summary type="html"><![CDATA[If you want to master regular expressions and understand how they work in JavaScript, this book's for you. Regular expressions can be intimidating when you first encounter them. When I started learning to code, I gave up on regular expressions twice. While that was partly because I was intimidated by]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Faster HTML and CSS Code Using Emmet]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-faster-html-and-css-using-emmet/"/>
-        <updated>2023-07-26T14:24:12.000Z</updated>
-        <summary type="html"><![CDATA[Emmet is an essential development tool that helps you quickly create repetitive structures like lists, tables, or ordered elements with minimal typing. It is more like a shorthand that translates to multiple lines of HTML or a CSS attribute. Emmet is built-in in many of the text editors like VS]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Real-time Post Notifications to Your React Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-post-notifications-to-your-react-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-post-notifications-to-your-react-applications/"/>
-        <updated>2023-07-26T14:22:14.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I was working on an application.  That application was a Thread Clone, the newly launched social media platform. The tech stack I was using was React for the front end and Firebase for authentication, real-time database, and for file uploads. As I was building the app, I thought wouldn’t]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
         </author>
     </entry>
 </feed>
