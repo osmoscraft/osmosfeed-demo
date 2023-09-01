@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s get ready for September with some fresh wallpaper designs! Created with love by artists and designers from across the globe, the wallpapers in this collection come in versions with and without a calendar. Enjoy!",
+          "link": "https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/",
+          "publishedOn": "2023-08-31T08:15:00.000Z",
+          "wordCount": 4799,
+          "title": "A September Of Never Ending Adventures (2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.",
@@ -175,21 +190,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/optimize-performance-serve-global-audience/optimize-performance-serve-global-audience.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "We’re talking about headless content management systems. What are they, and how do they differ from more traditional systems? Drew McLellan talks to Alvin Bryan to find out.",
-          "link": "https://smashingmagazine.com/2023/08/smashing-podcast-episode-64/",
-          "publishedOn": "2023-08-01T18:00:00.000Z",
-          "wordCount": 8123,
-          "title": "Smashing Podcast Episode 64 With Alvin Bryan: What Is A Headless CMS?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-64/smashing-podcast-episode-64.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-64/smashing-podcast-episode-64.png"
         }
       ]
     },
@@ -198,6 +198,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/mern-stack-crash-course/",
+          "author": "Beau Carnes",
+          "description": "The MERN stack is a set of technologies often used to build full stack web apps.  We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create full stack apps with the MERN stack. In this comprehensive course, we will take you",
+          "link": "https://www.freecodecamp.org/news/mern-stack-crash-course/",
+          "publishedOn": "2023-08-31T19:03:05.000Z",
+          "wordCount": 989,
+          "title": "MERN Stack Crash Course – Build a Book Store App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/merncrash.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-secure-django-web-app/",
+          "author": "Isah Jacob",
+          "description": "Web security is an important aspect of the web application development process. Especially as more data is stored, managed, and shared.  As a web developer, it's essential to prioritize security measures to protect your company’s users and data from potential threats.  In this article, I will demonstrate web",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-secure-django-web-app/",
+          "publishedOn": "2023-08-31T18:52:53.000Z",
+          "wordCount": 2763,
+          "title": "Web Security in Django – How to Build a Secure Web Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Web-Security-in-Django---How-to-Build-a-Secure-Web-Application.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ai-and-cybersecurity-handbook/",
+          "author": "Sonya Moisset",
+          "description": "Artificial intelligence (AI) has become one of the most talked about technologies in cybersecurity. Driven by the rising sophistication of cyber threats and large talent shortages, organizations are turning to AI as a force multiplier for security teams.  But integrating AI into security workflows requires thoughtful planning and evaluation.",
+          "link": "https://www.freecodecamp.org/news/ai-and-cybersecurity-handbook/",
+          "publishedOn": "2023-08-31T16:36:20.000Z",
+          "wordCount": 6094,
+          "title": "The AI and Cybersecurity Handbook – Past the Hype and Onto the ROI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-AI-and-Cibersecurity-Handbook-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-array-handbook/",
+          "author": "Nathan Sebhastian",
+          "description": "In programming, an array is a data structure that contains a collection of elements. Arrays are very useful because you can store, access, and manipulate multiple elements in a single array. In this handbook, you'll learn how to work with arrays in JavaScript. We'll cover the specific rules you need",
+          "link": "https://www.freecodecamp.org/news/javascript-array-handbook/",
+          "publishedOn": "2023-08-31T14:22:03.000Z",
+          "wordCount": 5217,
+          "title": "JavaScript Array Handbook – Learn How JS Array Methods Work With Examples and Cheat Sheet",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/JavaScript-Array-for-Beginners-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/social-media-based-web-authentication-with-firebase/",
+          "author": "Jaja Ibifubara David",
+          "description": "User authentication is extremely important in the context of web development. The way users log in affects their overall experience and engagement with an application. It also affects how they initially perceive it. Authentication techniques are continually evolving as social media sites continue to grow in popularity. The ability to",
+          "link": "https://www.freecodecamp.org/news/social-media-based-web-authentication-with-firebase/",
+          "publishedOn": "2023-08-31T00:12:32.000Z",
+          "wordCount": 4615,
+          "title": "How to Set Up Social Media Web Authentication using Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Article-Cover--3.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/",
           "author": "Beau Carnes",
@@ -907,56 +957,6 @@
           "wordCount": 3066,
           "title": "How to Build a WhatsApp Dictionary Chatbot using Twilio, FastAPI, and MongoDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/WHATSAPP-DICTIONARY-CHATBOT.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-chinese/",
-          "author": "Miya Liu",
-          "description": "Hello, everyone! I am Miya Liu. And I'm excited to announce the launch of the  freeCodeCamp Chinese Podcast [https://freecodecamp-in-chinese.transistor.fm/]. In this podcast, we'll bring you the inspiring learning and career development stories of developers, technical content creators, and other tech professionals We'll also share their insights into the world",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-podcast-in-chinese/",
-          "publishedOn": "2023-08-02T09:53:00.000Z",
-          "wordCount": 1141,
-          "title": "freeCodeCamp is Launching a Podcast in Chinese",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/----.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
-          "author": "Zaira Hira",
-          "description": "Life is full of surprises. Certain actions may lead to a chain of events and you find yourself in a completely different state.  One of my biggest achievements in 2021 was to get accepted as an author at freeCodeCamp. I have been writing articles on freeCodeCamp's community publication since",
-          "link": "https://www.freecodecamp.org/news/how-i-got-accepted-as-an-author-at-freecodecamp/",
-          "publishedOn": "2023-08-01T21:30:58.000Z",
-          "wordCount": 1530,
-          "title": "How I Got Accepted as an Author at freeCodeCamp",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/fcc-author-application.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/",
-          "author": "Tasnim Ferdous",
-          "description": "What are Regular Expressions? Regular expressions, also known as regex, work by defining patterns that you can use to search for certain characters or words inside strings. Once you define the pattern you want to use, you can make edits, delete certain characters or words, substitute one thing for another,",
-          "link": "https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/",
-          "publishedOn": "2023-08-01T20:42:27.000Z",
-          "wordCount": 4940,
-          "title": "A Practical Guide to Regular Expressions – Learn RegEx with Real Life Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Most-concise-guide-with-real-life-examples.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/",
-          "author": "Arunachalam B",
-          "description": "In the world of machine learning, we often encounter complex problems, from image recognition to natural language processing.  But let's take a step back and explore something more elementary yet equally intriguing: addition! Yes, you read that right – addition.  In this tutorial, we'll build a neural network",
-          "link": "https://www.freecodecamp.org/news/how-to-add-two-numbers-using-machine-learning/",
-          "publishedOn": "2023-08-01T19:51:50.000Z",
-          "wordCount": 1636,
-          "title": "How to Add Two Numbers – The Machine Learning Way",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/Sum-of-2-numbers-using-ML---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
-          "author": "TAPAS ADHIKARY",
-          "description": "In late 2020, the React team introduced the \"Zero-Bundle-Size React Server Components\" concept. Since then, the React developer community has been experimenting with and learning how to apply this forward-looking approach. React has changed how we think about building user interfaces. And the new model using React Server Components is",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-server-components/",
-          "publishedOn": "2023-08-01T14:52:33.000Z",
-          "wordCount": 4204,
-          "title": "React Server Components – How and Why You Should Use Them in Your Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/07/React-Server-Components-2.png"
         }
       ]
     }
