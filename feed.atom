@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-07T00:53:27.124Z</updated>
+    <updated>2023-09-08T00:53:41.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with Google Sheets – How to Scrape Web Pages with Built-in Functions]]></title>
+        <id>https://www.freecodecamp.org/news/web-scraping-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-google-sheets/"/>
+        <updated>2023-09-07T21:14:07.000Z</updated>
+        <summary type="html"><![CDATA[You read that right – you can practice web scraping without leaving your happy place: Google Sheets. Google Sheets has five built-in functions that help you import data from other sheets and other web pages. We'll walk through all of them in order from easiest (most limited) to hardest (most]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Java in Ubuntu – JDK Linux Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-java-in-ubuntu/"/>
+        <updated>2023-09-07T19:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Installing software on Linux is usually easier, or at least that's what it seems like. But this is usually not the case as we've come to a realization that installing and configuring some specific tools on Linux might be more time-consuming than on Windows or MacOS. An example of this]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript String Concatenation Works – the "+" Operator vs the "+=" Operator]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-concatenation/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-concatenation/"/>
+        <updated>2023-09-07T18:50:21.000Z</updated>
+        <summary type="html"><![CDATA[String concatenation is a common task that we do often. String concatenation is the operation of joining character strings end-to-end. For example, the concatenation of "snow" and "ball" is "snowball". In this article, I will be showing two methods by which you can concatenate strings in JavaScript. I will also]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Object-Oriented Programming in Python – Explained in Plain English]]></title>
+        <id>https://www.freecodecamp.org/news/object-oriented-programming-python/</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-python/"/>
+        <updated>2023-09-07T18:39:52.000Z</updated>
+        <summary type="html"><![CDATA[> “Any fool can know. The point is to understand.” - Albert Einstein Object-oriented programming is a popular way to write computer programs. Because of this, all programmers should understand what OOP is, what languages you can use to program this way, and why it is important. When asked in]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master the T3 Stack and Build a YouTube Clone]]></title>
+        <id>https://www.freecodecamp.org/news/master-the-t3-stack-and-build-a-youtube-clone/</id>
+        <link href="https://www.freecodecamp.org/news/master-the-t3-stack-and-build-a-youtube-clone/"/>
+        <updated>2023-09-07T16:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Creating a full-featured YouTube clone requres a deep understanding of a wide variety of technologies. If you want to gain that understading, we have a course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use the T3 stack to create]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Remove Empty Rows and Columns in Google Sheets]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-remove-empty-rows-and-columns-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-remove-empty-rows-and-columns-in-google-sheets/"/>
+        <updated>2023-09-07T07:10:42.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to remove empty rows and columns from Google Sheets using Google Apps Script. A while ago I wrote an article on how to remove empty rows and columns from Google Sheets [https://kcl.hashnode.dev/how-to-delete-empty-rows-and-columns-in-google-sheets] .  I recently revisited that article and I now present]]></summary>
+        <author>
+            <name>Nibesh Khadka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Diagrams as Code with Mermaid, GitHub, and Visual Studio Code]]></title>
         <id>https://www.freecodecamp.org/news/diagrams-as-code-with-mermaid-github-and-vs-code/</id>
@@ -944,46 +1004,6 @@
         <summary type="html"><![CDATA[Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,]]></summary>
         <author>
             <name>Sophia Iroegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find Good First Issues On GitHub]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-good-first-issues-on-github/"/>
-        <updated>2023-08-08T23:31:27.000Z</updated>
-        <summary type="html"><![CDATA[So you may have been hearing about OpenSauced’s 100 Days of Open Source challenge [https://docs.opensauced.pizza/community/100-days-of-oss/] on X (Twitter) or from your friends in an online coding group. And maybe you want to join in but don’t know where to start.  Ooh, I know the feeling. When I first joined]]></summary>
-        <author>
-            <name>CHRISTINE T. BELZIE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a JavaScript Utility Library like Lodash]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-javascript-utility-library-like-lodash/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-javascript-utility-library-like-lodash/"/>
-        <updated>2023-08-08T21:15:08.000Z</updated>
-        <summary type="html"><![CDATA[A utility library is a library that helps you streamline the implementation of common coding tasks. With it, you only need to focus on writing code that makes your project unique. One of the most popular JavaScript utility libraries is Lodash. Lodash is a JS library with over 40 million]]></summary>
-        <author>
-            <name>Gideon Akinsanmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add ESLint to Your React Project]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-eslint-to-your-react-project/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-eslint-to-your-react-project/"/>
-        <updated>2023-08-08T16:36:10.000Z</updated>
-        <summary type="html"><![CDATA[As a React developer, maintaining code quality is essential for building robust and maintainable applications. Fortunately, there's a powerful tool called ESLint that can significantly improve the quality of your React projects. In this article, we will explore how ESLint works and create a sign-up button component to demonstrate its]]></summary>
-        <author>
-            <name>Isah Jacob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Web APIs in Your Coding Projects]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-apis-in-web-development/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-apis-in-web-development/"/>
-        <updated>2023-08-08T16:27:48.000Z</updated>
-        <summary type="html"><![CDATA[As a developer, what comes to mind when you hear the word "API"? For me, I think of the word "connector", something that connects one thing to another.  So, what exactly is an API? API stands for Application Programming Interface [/news/how-apis-work/]. APIs connect different software applications, websites, and web]]></summary>
-        <author>
-            <name>Juliet Ofoegbu</name>
         </author>
     </entry>
 </feed>
