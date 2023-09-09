@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-08T00:53:41.518Z</updated>
+    <updated>2023-09-09T00:52:19.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Learning to Code in your 30s with Patrick San Juan]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/"/>
+        <updated>2023-09-08T17:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Patrick San Juan, a software engineer who first learned to code in his 30s. I've known Patrick since the early days of freeCodeCamp. He has always been a positive, supportive force within the community. Patrick grew up the son of first-generation immigrants from the Philippines. His]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rediscovering The Joy Of Design]]></title>
+        <id>https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/</id>
+        <link href="https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/"/>
+        <updated>2023-09-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pratik Joglekar takes a philosophical approach to remind designers about the lost joy within themselves by effectively placing massive importance on mindfulness, introspection, and forward-looking. Without joy, the work we do would feel meaningless. To prevent it from happening, check out a few ideas that would help rediscover that spark of joy.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Scraping with Google Sheets – How to Scrape Web Pages with Built-in Functions]]></title>
         <id>https://www.freecodecamp.org/news/web-scraping-google-sheets/</id>
@@ -944,66 +964,6 @@
         <summary type="html"><![CDATA[Have you ever wanted to share your expertise at conferences, but something inside you is holding you back?  Perhaps it's the fear of speaking in front of a large audience, the worry of forgetting your words, or the challenge of finding the perfect topic to discuss. You're not alone]]></summary>
         <author>
             <name>Shruti Kapoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running A Page Speed Test: Monitoring vs. Measuring]]></title>
-        <id>https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/</id>
-        <link href="https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/"/>
-        <updated>2023-08-10T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What does your performance “stack” look like? There are all kinds of tools available for measuring page speed, but what data and assumptions do they use to measure performance? And speaking of *measuring* performance, there’s quite a difference between that and *monitoring* performance. Let’s dig in!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Minimum Stability In Composer?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/"/>
-        <updated>2023-08-09T17:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Composer is a dependency management tool for projects running on PHP. PHP frameworks like Laravel, Symfony, and CodeIgniter use Composer to manage libraries and packages. In this tutorial, you’ll learn the following:  * Introduction to Composer.  * Minimum stability in Composer.  * Levels of stability, and the]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn End-to-End Testing with Cypress for JavaScript Applications]]></title>
-        <id>https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/</id>
-        <link href="https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/"/>
-        <updated>2023-08-09T16:58:06.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring the reliability and performance of your web applications is important. Testing is a key tool that will help with these things and more.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Cypress to create end-to-end tests for your JavaScript]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering JavaScript Functions for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/"/>
-        <updated>2023-08-09T16:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Are you new to the world of programming? Are you eager to unlock the potential of JavaScript to create more readable and maintainable code? If so, we have an excellent course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you everything you need]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Your Websites and Apps – User-Friendly Deployment Strategies]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/"/>
-        <updated>2023-08-09T14:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Deploying your application is a key aspect of software development. Typically, having an app on your local system isn't enough – it needs to be accessible online. So choosing a suitable and user-friendly hosting and deployment plan is vital. The key to making the right decision lies in understanding the]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy a Django App on Render]]></title>
-        <id>https://www.freecodecamp.org/news/deploying-a-django-app-to-render/</id>
-        <link href="https://www.freecodecamp.org/news/deploying-a-django-app-to-render/"/>
-        <updated>2023-08-09T14:13:39.000Z</updated>
-        <summary type="html"><![CDATA[Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,]]></summary>
-        <author>
-            <name>Sophia Iroegbu</name>
         </author>
     </entry>
 </feed>

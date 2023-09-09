@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/",
+          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
+          "description": "Pratik Joglekar takes a philosophical approach to remind designers about the lost joy within themselves by effectively placing massive importance on mindfulness, introspection, and forward-looking. Without joy, the work we do would feel meaningless. To prevent it from happening, check out a few ideas that would help rediscover that spark of joy.",
+          "link": "https://smashingmagazine.com/2023/09/rediscovering-joy-happiness-design/",
+          "publishedOn": "2023-09-08T11:00:00.000Z",
+          "wordCount": 6297,
+          "title": "Rediscovering The Joy Of Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rediscovering-joy-design/rediscovering-joy-happiness-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rediscovering-joy-design/rediscovering-joy-happiness-design.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/long-live-test-pyramid/",
           "author": "hello@smashingmagazine.com (Ramona Schwering)",
           "description": "Is the Test Pyramid really dead? Discover the more contemporary testing strategies and evaluate the Test Pyramid’s relevance in today’s software development practices.",
@@ -160,21 +175,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-accessible-text-over-images-part2/designing-accessible-text-over-images-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "What does your performance “stack” look like? There are all kinds of tools available for measuring page speed, but what data and assumptions do they use to measure performance? And speaking of *measuring* performance, there’s quite a difference between that and *monitoring* performance. Let’s dig in!",
-          "link": "https://smashingmagazine.com/2023/08/running-page-speed-test-monitoring-versus-measuring/",
-          "publishedOn": "2023-08-10T08:00:00.000Z",
-          "wordCount": 4415,
-          "title": "Running A Page Speed Test: Monitoring vs. Measuring",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/running-page-speed-test-monitoring-versus-measuring/running-page-speed-test-monitoring-versus-measuring.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/running-page-speed-test-monitoring-versus-measuring/running-page-speed-test-monitoring-versus-measuring.jpg"
         }
       ]
     },
@@ -183,6 +183,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/",
+          "author": "Quincy Larson",
+          "description": "Today I'm joined by Patrick San Juan, a software engineer who first learned to code in his 30s. I've known Patrick since the early days of freeCodeCamp. He has always been a positive, supportive force within the community. Patrick grew up the son of first-generation immigrants from the Philippines. His",
+          "link": "https://www.freecodecamp.org/news/podcast-learning-to-code-in-your-30s-patrick-san-juan/",
+          "publishedOn": "2023-09-08T17:33:21.000Z",
+          "wordCount": 861,
+          "title": "Podcast: Learning to Code in your 30s with Patrick San Juan",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Screenshot_9_8_23__12_28_PM-2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/web-scraping-google-sheets/",
           "author": "Eamonn Cottrell",
@@ -1022,56 +1032,6 @@
           "wordCount": 3231,
           "title": "How to Deliver Powerful Tech Conference Talks",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Thumbnail1_SK.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/",
-          "author": "Sule-Balogun Olanrewaju Ganiu",
-          "description": "Composer is a dependency management tool for projects running on PHP. PHP frameworks like Laravel, Symfony, and CodeIgniter use Composer to manage libraries and packages. In this tutorial, you’ll learn the following:  * Introduction to Composer.  * Minimum stability in Composer.  * Levels of stability, and the",
-          "link": "https://www.freecodecamp.org/news/what-is-minimum-stability-in-composer/",
-          "publishedOn": "2023-08-09T17:31:49.000Z",
-          "wordCount": 1164,
-          "title": "What is Minimum Stability In Composer?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/javier-garcia-chavez-bdZ3bzRde5g-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/",
-          "author": "Beau Carnes",
-          "description": "Ensuring the reliability and performance of your web applications is important. Testing is a key tool that will help with these things and more.  We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to use Cypress to create end-to-end tests for your JavaScript",
-          "link": "https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/",
-          "publishedOn": "2023-08-09T16:58:06.000Z",
-          "wordCount": 872,
-          "title": "Learn End-to-End Testing with Cypress for JavaScript Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cypress.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Are you new to the world of programming? Are you eager to unlock the potential of JavaScript to create more readable and maintainable code? If so, we have an excellent course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you everything you need",
-          "link": "https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/",
-          "publishedOn": "2023-08-09T16:40:40.000Z",
-          "wordCount": 16060,
-          "title": "Mastering JavaScript Functions for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/functions.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/",
-          "author": "Ijeoma Igboagu",
-          "description": "Deploying your application is a key aspect of software development. Typically, having an app on your local system isn't enough – it needs to be accessible online. So choosing a suitable and user-friendly hosting and deployment plan is vital. The key to making the right decision lies in understanding the",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-websites-and-applications/",
-          "publishedOn": "2023-08-09T14:23:41.000Z",
-          "wordCount": 3303,
-          "title": "How to Deploy Your Websites and Apps – User-Friendly Deployment Strategies",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/cover-friendly-deploy.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deploying-a-django-app-to-render/",
-          "author": "Sophia Iroegbu",
-          "description": "Render is a hosting platform that helps you deploy your apps easily. Whether you're building web servers, static websites, cron jobs, or containers, this tool can help you streamline the process. If you're a developer early in your career and you need to build a compelling CV, résumé, or portfolio,",
-          "link": "https://www.freecodecamp.org/news/deploying-a-django-app-to-render/",
-          "publishedOn": "2023-08-09T14:13:39.000Z",
-          "wordCount": 1604,
-          "title": "How to Deploy a Django App on Render",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Blog-Banner---Template--6-.png"
         }
       ]
     }
