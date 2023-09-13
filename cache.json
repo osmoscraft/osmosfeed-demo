@@ -160,21 +160,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
-          "author": "hello@smashingmagazine.com (Lars Kappert)",
-          "description": "Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.",
-          "link": "https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/",
-          "publishedOn": "2023-08-14T10:00:00.000Z",
-          "wordCount": 4637,
-          "title": "Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/knip-automated-tool-find-unused-files-exports-dependencies/knip-automated-tool-find-unused-files-exports-dependencies.jpg"
         }
       ]
     },
@@ -183,6 +168,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/",
+          "author": "Eivind Kjosbakken",
+          "description": "The Donut model in Python is a model you can use to extract text from a given image. This can be useful in various scenarios, like scanning receipts, for example.  You can easily download the Donut model from GitHub [https://github.com/clovaai/donut]. But as is common with AI models, you should",
+          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/",
+          "publishedOn": "2023-09-12T17:59:17.000Z",
+          "wordCount": 1848,
+          "title": "How to Fine-Tune the Donut Model – With Example Use Case",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/undraw_Dashboard_re_3b76-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/",
+          "author": "Manish Shivanandhan",
+          "description": "In 2023, the digital landscape is filled with unprecedented cybersecurity risks. From phishing scams to ransomware attacks. This article outlines different types of cyber attacks that individuals and businesses should be vigilant about. Cyber-attacks are a prevalent threat in the online world. They have the potential to cause substantial difficulties",
+          "link": "https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/",
+          "publishedOn": "2023-09-12T17:28:42.000Z",
+          "wordCount": 3371,
+          "title": "13 Types of Cyber Attacks You Should Know in 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/cyberattack.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/",
+          "author": "Chinwendu Enyinna",
+          "description": "When you’re building the backend of an application, you’ve got to figure out how all the different components are going to talk to each other.  It’s like setting up a communication network for your app’s brain, and the way you do it can seriously impact how well your app",
+          "link": "https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/",
+          "publishedOn": "2023-09-12T16:25:03.000Z",
+          "wordCount": 3894,
+          "title": "Communication Design Patterns for Backend Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/comm-design-patterns.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/",
+          "author": "Beau Carnes",
+          "description": "In the ever-evolving landscape of business, understanding the intricacies of finance and economics is essential for success. Topics such as the principles of money and deciphering the impact of macroeconomic changes serve as the bedrock of strategic decision-making. We just posted a full course on the freeCodeCamp.org YouTube channel that",
+          "link": "https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/",
+          "publishedOn": "2023-09-12T14:58:32.000Z",
+          "wordCount": 1066,
+          "title": "Fundamentals of Finance & Economics for Businesses",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/finance.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/",
+          "author": "Vikram Aruchamy",
+          "description": "Amazon Simple Storage Service (S3) is a highly scalable, durable, and available object storage service. It is designed to store any amount of data, anytime, from anywhere on the web.  S3 is a key component of the Amazon Web Services (AWS) cloud platform. AWS Lambda is a serverless computing",
+          "link": "https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/",
+          "publishedOn": "2023-09-12T10:44:09.000Z",
+          "wordCount": 1928,
+          "title": "How to Read a CSV File from S3 Bucket in AWS Lambda - A Definitive Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/unnamed.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
+          "author": "Oluwatobi Sofela",
+          "description": "CSS transitions and animations provide smooth, gradual ways to change an element's style. But they work in different ways. Here are the main distinctions between them: CSS Transition CSS Animation  * Creates smooth transitions from one CSS value to    another.   * You need triggers",
+          "link": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
+          "publishedOn": "2023-09-12T00:20:36.000Z",
+          "wordCount": 5908,
+          "title": "CSS Transition vs Animation Handbook – How to Animate Elements in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/How-to-Animate-Elements-in-CSS-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/improve-reactjs-code/",
           "author": "Neha sharma",

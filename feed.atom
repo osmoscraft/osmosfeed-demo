@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-12T00:52:29.844Z</updated>
+    <updated>2023-09-13T00:55:09.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Fine-Tune the Donut Model – With Example Use Case]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/"/>
+        <updated>2023-09-12T17:59:17.000Z</updated>
+        <summary type="html"><![CDATA[The Donut model in Python is a model you can use to extract text from a given image. This can be useful in various scenarios, like scanning receipts, for example.  You can easily download the Donut model from GitHub [https://github.com/clovaai/donut]. But as is common with AI models, you should]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Types of Cyber Attacks You Should Know in 2023]]></title>
+        <id>https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/</id>
+        <link href="https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/"/>
+        <updated>2023-09-12T17:28:42.000Z</updated>
+        <summary type="html"><![CDATA[In 2023, the digital landscape is filled with unprecedented cybersecurity risks. From phishing scams to ransomware attacks. This article outlines different types of cyber attacks that individuals and businesses should be vigilant about. Cyber-attacks are a prevalent threat in the online world. They have the potential to cause substantial difficulties]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Communication Design Patterns for Backend Development]]></title>
+        <id>https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/</id>
+        <link href="https://www.freecodecamp.org/news/communication-design-patterns-for-backend-development/"/>
+        <updated>2023-09-12T16:25:03.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building the backend of an application, you’ve got to figure out how all the different components are going to talk to each other.  It’s like setting up a communication network for your app’s brain, and the way you do it can seriously impact how well your app]]></summary>
+        <author>
+            <name>Chinwendu Enyinna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fundamentals of Finance & Economics for Businesses]]></title>
+        <id>https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/</id>
+        <link href="https://www.freecodecamp.org/news/fundamentals-of-finance-economics-for-businesses/"/>
+        <updated>2023-09-12T14:58:32.000Z</updated>
+        <summary type="html"><![CDATA[In the ever-evolving landscape of business, understanding the intricacies of finance and economics is essential for success. Topics such as the principles of money and deciphering the impact of macroeconomic changes serve as the bedrock of strategic decision-making. We just posted a full course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Read a CSV File from S3 Bucket in AWS Lambda - A Definitive Guide]]></title>
+        <id>https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/</id>
+        <link href="https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/"/>
+        <updated>2023-09-12T10:44:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Simple Storage Service (S3) is a highly scalable, durable, and available object storage service. It is designed to store any amount of data, anytime, from anywhere on the web.  S3 is a key component of the Amazon Web Services (AWS) cloud platform. AWS Lambda is a serverless computing]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Transition vs Animation Handbook – How to Animate Elements in CSS]]></title>
+        <id>https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/"/>
+        <updated>2023-09-12T00:20:36.000Z</updated>
+        <summary type="html"><![CDATA[CSS transitions and animations provide smooth, gradual ways to change an element's style. But they work in different ways. Here are the main distinctions between them: CSS Transition CSS Animation  * Creates smooth transitions from one CSS value to    another.   * You need triggers]]></summary>
+        <author>
+            <name>Oluwatobi Sofela</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Improve Your ReactJS Code – Tips for Code Readability and Performance]]></title>
         <id>https://www.freecodecamp.org/news/improve-reactjs-code/</id>
@@ -943,16 +1003,6 @@
         <summary type="html"><![CDATA[Learn how to make AI Art with Stable Diffusion]]></summary>
         <author>
             <name>Lynn Zheng</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knip: An Automated Tool For Finding Unused Files, Exports, And Dependencies]]></title>
-        <id>https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/</id>
-        <link href="https://smashingmagazine.com/2023/08/knip-automated-tool-find-unused-files-exports-dependencies/"/>
-        <updated>2023-08-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most of the projects have at least a few unused files, exports, and dependencies lying around, often because it’s difficult knowing when one thing relies on another and scary removing something you’re not sure is in use. Lars Kappert shares a tool he’s been working on that offers a solution.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lars Kappert)</name>
         </author>
     </entry>
 </feed>
