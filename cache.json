@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/",
+          "author": "hello@smashingmagazine.com (Ben Shih)",
+          "description": "Running a workshop can be an effective alternative to traditional, long-standing meetings. To help ensure its success, Ben Shih introduces the concept of an inclusive workshop. In Part 1 of the series, you discover the fundamentals of inclusivity and get some solid guidance on how to plan an inclusive remote workshop.",
+          "link": "https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part1/",
+          "publishedOn": "2023-09-13T11:00:00.000Z",
+          "wordCount": 6250,
+          "title": "Facilitating Inclusive Online Workshops (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/facilitating-inclusive-online-workshops-part1/facilitating-inclusive-online-workshops.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/facilitating-inclusive-online-workshops-part1/facilitating-inclusive-online-workshops.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/",
           "author": "hello@smashingmagazine.com (Preethi Samathanam)",
           "description": "Gradients are a powerful CSS feature. We use them for texture, depth, and even to hide parts of elements with CSS masking. This article covers another interesting way to use gradients — as a hover effect that affects the appearance of other elements around the hovered element.",
@@ -145,21 +160,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/better-context-menus-safe-triangles/better-context-menus-safe-triangles.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
-          "author": "hello@smashingmagazine.com (Mike Herchel)",
-          "description": "The background image used in the hero component, which is slow to load, is a very common problem with any component that uses a large image file as a background image. In this article, Mike Herchel walks you through how to tackle this common performance issue using modern techniques.",
-          "link": "https://smashingmagazine.com/2023/08/methods-improving-drupal-largest-contentful-paint-core-web-vital/",
-          "publishedOn": "2023-08-15T10:00:00.000Z",
-          "wordCount": 4434,
-          "title": "Modern Methods For Improving Drupal’s Largest Contentful Paint Core Web Vital",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/methods-improving-drupal-largest-contentful-paint-core-web-vital/methods-improving-drupal-largest-contentful-paint-core-web-vital.jpg"
         }
       ]
     },
@@ -168,6 +168,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/",
+          "author": "Seth Falco",
+          "description": "On the modern web, we've normalized fetching fonts from client-side, or embedding fonts in resources that are served to users. While this may be tempting, it actually makes very little sense for most use-cases. This isn't suggesting to never use external fonts. Just a reminder that fonts aren't free, and",
+          "link": "https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/",
+          "publishedOn": "2023-09-13T11:18:31.000Z",
+          "wordCount": 2517,
+          "title": "Things to Consider When Picking Fonts for your Next Project – An In-Depth Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/markus-spiske-f81ym3dE5N4-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-fine-tune-the-donut-model/",
           "author": "Eivind Kjosbakken",
@@ -1017,56 +1027,6 @@
           "wordCount": 5569,
           "title": "JavaScript Tips to Help You Build Better Web Development Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/start-graph--15-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-web-scraping-with-python-and-beautiful-soup-in-spanish-course-for-beginners/",
-          "author": "Estefania Cassingena Navone",
-          "description": "If your goal is to collect data from websites automatically, web scraping may be exactly what you need. In this course, you will learn all the basics with exercises and practical projects. We published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you how to use",
-          "link": "https://www.freecodecamp.org/news/learn-web-scraping-with-python-and-beautiful-soup-in-spanish-course-for-beginners/",
-          "publishedOn": "2023-08-15T04:50:16.000Z",
-          "wordCount": 1077,
-          "title": "Learn Web Scraping with Python and Beautiful Soup in Spanish – Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Web-Scraping-Thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/",
-          "author": "Yazdun Fadali",
-          "description": "JavaScript is one of the most popular programming languages among web developers. And it offers multiple ways to organize and share code between different files.  When working with modules, you might come across two common ways of exporting: Default exports and Named exports.  Understanding the difference between these",
-          "link": "https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/",
-          "publishedOn": "2023-08-14T16:36:15.000Z",
-          "wordCount": 3290,
-          "title": "What's the Difference Between Default and Named Exports in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Frame-6-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/",
-          "author": "Salim Oyinlola",
-          "description": "The Microsoft Learn Student Ambassadors [https://mvp.microsoft.com/studentambassadors] program is a student-focused program designed to empower students to become advocates and leaders in the tech ecosystem.  Microsoft Learn Student Ambassadors are student leaders who collaborate with Microsoft to help fellow students learn about technology and engage with various Microsoft technologies and",
-          "link": "https://www.freecodecamp.org/news/how-to-become-a-microsoft-learn-student-ambassador/",
-          "publishedOn": "2023-08-14T16:11:33.000Z",
-          "wordCount": 2238,
-          "title": "How to Become a Microsoft Learn Student Ambassador",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/asdfghjkl-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-operators/",
-          "author": "Nathan Sebhastian",
-          "description": "JavaScript has many operators that you can use to perform operations on values and variables (also called operands) Based on the types of operations these JS operators perform, we can divide them up into seven groups:  1. Arithmetic Operators  2. Assignment Operators  3. Comparison Operators  4.",
-          "link": "https://www.freecodecamp.org/news/javascript-operators/",
-          "publishedOn": "2023-08-14T15:44:58.000Z",
-          "wordCount": 4006,
-          "title": "Learn JavaScript Operators – Logical, Comparison, Ternary, and More JS Operators With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/JS-EVERY-OPERATOR.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/stable-diffusion-crash-course/",
-          "author": "Lynn Zheng",
-          "description": "Learn how to make AI Art with Stable Diffusion",
-          "link": "https://www.freecodecamp.org/news/stable-diffusion-crash-course/",
-          "publishedOn": "2023-08-14T13:35:55.000Z",
-          "wordCount": 1034,
-          "title": "How to Make AI Art with Stable Diffusion",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/stableif.png"
         }
       ]
     }
