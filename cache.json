@@ -169,6 +169,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source/",
+          "author": "Ayu Adiati",
+          "description": "I've contributed to open-source projects for a few years and learned a lot from the process. These experiences allowed me to look closer at the open source flow, from the technical, such as Git and GitHub, to the non-technical aspects. Although they are as important as the technical sides, the",
+          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source/",
+          "publishedOn": "2023-09-14T17:34:52.000Z",
+          "wordCount": 2715,
+          "title": "How to Contribute to Open Source Projects – Non-Technical Things You Should Know",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/How-to-Contribute-to-Open-Source-Projects-Non-Technical-Things-You-Should-Know--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/return-results-from-a-python-function-when-library-is-blocking-the-way/",
+          "author": "David A. Kra",
+          "description": "Usually a Python function passes its results back using a return statement. The problem is that sometimes it can't, so you need to figure out a different way to return those results.  This happens, most often, when someone else's library's interface is in the way, and you can't change",
+          "link": "https://www.freecodecamp.org/news/return-results-from-a-python-function-when-library-is-blocking-the-way/",
+          "publishedOn": "2023-09-14T10:46:14.000Z",
+          "wordCount": 6854,
+          "title": "How to Return Results from a Python Function to Your Program When a Library is Blocking the Way",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/master-gmd-gmd370-g3701-g3701s-cw0011000.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/vector-embeddings-course/",
+          "author": "Beau Carnes",
+          "description": "Vector embeddings are a key concept in the realm of machine learning and artificial intelligence. They bridge the gap between human language and machine understanding. We just posted a course on the freeCodeCamp.org YouTube channel that will teach out about vector embeddings and how to create an AI assistant. Ania",
+          "link": "https://www.freecodecamp.org/news/vector-embeddings-course/",
+          "publishedOn": "2023-09-14T02:18:53.000Z",
+          "wordCount": 933,
+          "title": "Use Vector Embeddings to Create an AI Assistant",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/vector_embeddings_beginners.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-dynamic-programming-in-java/",
+          "author": "Beau Carnes",
+          "description": "Dynamic programming is a powerful technique that has been a cornerstone in the world of algorithms and computer science. It's a method that breaks down problems into smaller, more manageable sub-problems, solving each one only once and storing their solutions in case they're needed again. This approach is particularly useful",
+          "link": "https://www.freecodecamp.org/news/learn-dynamic-programming-in-java/",
+          "publishedOn": "2023-09-14T02:01:12.000Z",
+          "wordCount": 1071,
+          "title": "Learn Dynamic Programming Techniques in Java",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/dynamic.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/",
           "author": "Seth Falco",
           "description": "On the modern web, we've normalized fetching fonts from client-side, or embedding fonts in resources that are served to users. While this may be tempting, it actually makes very little sense for most use-cases. This isn't suggesting to never use external fonts. Just a reminder that fonts aren't free, and",
@@ -997,36 +1037,6 @@
           "wordCount": 974,
           "title": "HashiCorp Terraform Associate Certification Study Course – Pass the Exam With This Free 7 Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/hashicorp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/",
-          "author": "Yogesh Chavan",
-          "description": "In this tutorial, you will learn everything you need to know about using promises and async/await in JavaScript. So let's get started. If you'd like to learn along with a video version of this tutorial, you can also check out my YouTube playlist [https://www.youtube.com/watch?v=4jaiXP6vU2w&list=PLSJnlFr3D-mGIHFpo80ylsaBErtueSpYS&index=14] . Why Use Promises in JavaScript?",
-          "link": "https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/",
-          "publishedOn": "2023-08-15T16:03:55.000Z",
-          "wordCount": 4473,
-          "title": "How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/promises_async_methods.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/",
-          "author": "Beau Carnes",
-          "description": "There are many strategies you can do to increase the performance of your WordPress websites and other websites. In this guide, we'll show you how to identify and fix performance issues for good. This guide combines over 20 years of experience of fine-tuning servers, CDNs, and website code to deliver",
-          "link": "https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/",
-          "publishedOn": "2023-08-15T14:35:11.000Z",
-          "wordCount": 13812,
-          "title": "The Ultimate Guide to High Performance WordPress",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/wordpressop.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/",
-          "author": "Kolade Chris",
-          "description": "JavaScript is a widely used web programming language. If you're getting into software engineering or coding in particular and you want to focus on web development, learning JavaScript is probably the best thing to do. Learning JavaScript empowers you to create dynamic and interactive web experiences. And it lets you",
-          "link": "https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/",
-          "publishedOn": "2023-08-15T14:17:37.000Z",
-          "wordCount": 5569,
-          "title": "JavaScript Tips to Help You Build Better Web Development Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/start-graph--15-.png"
         }
       ]
     }

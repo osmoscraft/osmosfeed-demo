@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-14T00:53:47.962Z</updated>
+    <updated>2023-09-15T00:54:51.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source Projects – Non-Technical Things You Should Know]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-contribute-to-open-source/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source/"/>
+        <updated>2023-09-14T17:34:52.000Z</updated>
+        <summary type="html"><![CDATA[I've contributed to open-source projects for a few years and learned a lot from the process. These experiences allowed me to look closer at the open source flow, from the technical, such as Git and GitHub, to the non-technical aspects. Although they are as important as the technical sides, the]]></summary>
+        <author>
+            <name>Ayu Adiati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Return Results from a Python Function to Your Program When a Library is Blocking the Way]]></title>
+        <id>https://www.freecodecamp.org/news/return-results-from-a-python-function-when-library-is-blocking-the-way/</id>
+        <link href="https://www.freecodecamp.org/news/return-results-from-a-python-function-when-library-is-blocking-the-way/"/>
+        <updated>2023-09-14T10:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Usually a Python function passes its results back using a return statement. The problem is that sometimes it can't, so you need to figure out a different way to return those results.  This happens, most often, when someone else's library's interface is in the way, and you can't change]]></summary>
+        <author>
+            <name>David A. Kra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Vector Embeddings to Create an AI Assistant]]></title>
+        <id>https://www.freecodecamp.org/news/vector-embeddings-course/</id>
+        <link href="https://www.freecodecamp.org/news/vector-embeddings-course/"/>
+        <updated>2023-09-14T02:18:53.000Z</updated>
+        <summary type="html"><![CDATA[Vector embeddings are a key concept in the realm of machine learning and artificial intelligence. They bridge the gap between human language and machine understanding. We just posted a course on the freeCodeCamp.org YouTube channel that will teach out about vector embeddings and how to create an AI assistant. Ania]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Dynamic Programming Techniques in Java]]></title>
+        <id>https://www.freecodecamp.org/news/learn-dynamic-programming-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/learn-dynamic-programming-in-java/"/>
+        <updated>2023-09-14T02:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Dynamic programming is a powerful technique that has been a cornerstone in the world of algorithms and computer science. It's a method that breaks down problems into smaller, more manageable sub-problems, solving each one only once and storing their solutions in case they're needed again. This approach is particularly useful]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Things to Consider When Picking Fonts for your Next Project – An In-Depth Guide]]></title>
         <id>https://www.freecodecamp.org/news/things-to-consider-when-picking-fonts/</id>
@@ -933,36 +973,6 @@
         <summary type="html"><![CDATA[Learn how to pass the HashiCorp Terraform Associate Certification (003) with this free 7-hour course. What is the HashiCorp Terraform Associate? HashiCorp is a company specializing in open-source tools for multi-cloud workloads. HashiCorp's most popular tool is Terraform, which allows DevOps Engineers to write code to provision infrastructure for multiple]]></summary>
         <author>
             <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use JavaScript Promises – Callbacks, Async/Await, and Promise Methods Explained]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/"/>
-        <updated>2023-08-15T16:03:55.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn everything you need to know about using promises and async/await in JavaScript. So let's get started. If you'd like to learn along with a video version of this tutorial, you can also check out my YouTube playlist [https://www.youtube.com/watch?v=4jaiXP6vU2w&list=PLSJnlFr3D-mGIHFpo80ylsaBErtueSpYS&index=14] . Why Use Promises in JavaScript?]]></summary>
-        <author>
-            <name>Yogesh Chavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to High Performance WordPress]]></title>
-        <id>https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/</id>
-        <link href="https://www.freecodecamp.org/news/the-ultimate-guide-to-high-performance-wordpress/"/>
-        <updated>2023-08-15T14:35:11.000Z</updated>
-        <summary type="html"><![CDATA[There are many strategies you can do to increase the performance of your WordPress websites and other websites. In this guide, we'll show you how to identify and fix performance issues for good. This guide combines over 20 years of experience of fine-tuning servers, CDNs, and website code to deliver]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Tips to Help You Build Better Web Development Projects]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/"/>
-        <updated>2023-08-15T14:17:37.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a widely used web programming language. If you're getting into software engineering or coding in particular and you want to focus on web development, learning JavaScript is probably the best thing to do. Learning JavaScript empowers you to create dynamic and interactive web experiences. And it lets you]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
 </feed>
