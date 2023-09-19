@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "This article is a peek behind the curtain of how content is managed here at Smashing Magazine. In it, you’ll get a tour of an article’s full lifecycle, from a basic outline to the sort of thing you’re reading right this second.",
+          "link": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
+          "publishedOn": "2023-09-18T18:00:00.000Z",
+          "wordCount": 4779,
+          "title": "How Smashing Magazine Uses TinaCMS To Manage An Editorial Workflow",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/revealing-images-css-mask-animations/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
           "description": "Let’s play with images and experiment with CSS masks. The idea is fairly simple: take a single `` tag and harness the power of CSS to accomplish complex hover transitions. Through different demos, you will see how CSS masks combined with gradients allow us to create fancy effects — with efficient, reusable code.",
@@ -183,6 +198,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
+          "author": "Destiny Erhabor",
+          "description": "Serverless computing has revolutionized the way developers build and deploy applications in the cloud. It takes away the complexities of server management, allowing developers to focus solely on writing code and delivering value to their users. In the realm of serverless computing, AWS Lambda stands out as a leading platform",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
+          "publishedOn": "2023-09-18T23:52:30.000Z",
+          "wordCount": 2211,
+          "title": "How to Deploy an AWS Lambda Function with Serverless Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
+          "author": "Beau Carnes",
+          "description": "It is easier than ever to launch your own Software as a Service (SaaS) company! (The hard part is getting people interested in it). We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through every step of building and deploying a full-stack AI SaaS application.",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
+          "publishedOn": "2023-09-18T17:14:49.000Z",
+          "wordCount": 906,
+          "title": "Build and Deploy an AI SaaS with Paid Subscriptions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/saas.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/",
+          "author": "Jose Vicente Nunez",
+          "description": "I was tasked recently to find which of our processes was accessing a NFS share [https://en.wikipedia.org/wiki/Network_File_System]. During this process, I found that some tools are better adapted than others for the task. In this article, I want to share with you my findings. The whole process was fun and gave",
+          "link": "https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/",
+          "publishedOn": "2023-09-18T06:54:37.000Z",
+          "wordCount": 4154,
+          "title": "Network File System – How to Confirm Your Application is Using NFS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/article-raspberrypi-cover.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/podcast-data-scientist-at-disney-eric-leung-on-math-medicine-and-learning-to-code/",
           "author": "Quincy Larson",
