@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T00:54:09.036Z</updated>
+    <updated>2023-09-22T00:54:42.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Binary Classification with TensorFlow Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/</id>
+        <link href="https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/"/>
+        <updated>2023-09-21T14:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Binary classification is a fundamental task in machine learning, where the goal is to categorize data into one of two classes or categories.  Binary classification is used in a wide range of applications, such as spam email detection, medical diagnosis, sentiment analysis, fraud detection, and many more. In this]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Mojo Programming Language for AI Developers]]></title>
+        <id>https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/</id>
+        <link href="https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/"/>
+        <updated>2023-09-21T14:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Mojo combines the usability of Python with the performance of C, leading to greater programmability of AI hardware and extensibility of AI models. It's basically an enhanced version of Python specifically designed for Artificial Intelligence developers. We just posted a full Mojo course on the freeCodeCamp.org YouTube channel. Elliot Arledge]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Self-Playing AI Chess Engine from Scratch with Imitation Learning]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-self-playing-ai-chess-engine-from-scratch/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-self-playing-ai-chess-engine-from-scratch/"/>
+        <updated>2023-09-21T08:11:38.000Z</updated>
+        <summary type="html"><![CDATA[This is an article on how I created an AI chess engine, starting completely from scratch to building my very own AI chess engine.  Because creating an AI chess engine from scratch is a relatively complex task, this will be a long article, but stay tuned, as the product]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Design System in Next.js with Tailwind CSS and Class Variance Authority]]></title>
+        <id>https://www.freecodecamp.org/news/how-a-design-system-in-next-js-with-tailwind-css-and-class-variance-authority/</id>
+        <link href="https://www.freecodecamp.org/news/how-a-design-system-in-next-js-with-tailwind-css-and-class-variance-authority/"/>
+        <updated>2023-09-21T07:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Building a web application and producing a smooth user experience in the always changing world of web development requires more than just good looks – you also need to make sure that your application's design is efficient and consistent throughout. If you have a design system in place, you can]]></summary>
+        <author>
+            <name>Olasunkanmi Balogun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code Dark Mode for Google Sheets with Apps Script and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-code-dark-mode-for-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-dark-mode-for-google-sheets/"/>
+        <updated>2023-09-20T22:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Google Sheets is a great tool for working and collaborating on spreadsheets, but it doesn't have native support for dark mode.  In this article, we'll create our own dark mode. One way to do that would be by selecting all the cells and manually changing their background color and]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Effects of AI in Cybersecurity Handbook – The Malicious Use of AI in Cyberattacks]]></title>
         <id>https://www.freecodecamp.org/news/effects-of-ai-in-cybersecurity-handbook/</id>
@@ -24,6 +74,16 @@
         <summary type="html"><![CDATA[Creating a feature-rich blog is a great way to improve your web development skills.  We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to create a blog that is not just visually appealing but also SEO-optimized for higher Google rankings. Codebucks created the]]></summary>
         <author>
             <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facilitating Inclusive Online Workshops (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part2/</id>
+        <link href="https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part2/"/>
+        <updated>2023-09-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To help ensure the success of a workshop, Ben Shih introduces the concept of an inclusive workshop. In Part 2 of the series, you will continue to delve deeper into several key principles and guidelines that you can follow during and after the workshop to encourage an inclusive atmosphere.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ben Shih)</name>
         </author>
     </entry>
     <entry>
@@ -903,86 +963,6 @@
         <summary type="html"><![CDATA[We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Tampermonkey to Improve a Website's UI – Example Using freeCodeCamp]]></title>
-        <id>https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/</id>
-        <link href="https://www.freecodecamp.org/news/customize-website-experience-with-tampermonkey/"/>
-        <updated>2023-08-22T22:32:35.000Z</updated>
-        <summary type="html"><![CDATA[What is Tampermonkey? Tampermonkey is a browser extension that lets you add custom scripts to websites, making them work or look the way you want. It's like giving websites a makeover or adding new features. These scripts are called userscripts and you can make tampermonkey run those scripts when you]]></summary>
-        <author>
-            <name>Tasnim Ferdous</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Python Code Example Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/the-python-code-example-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-python-code-example-handbook/"/>
-        <updated>2023-08-22T21:54:38.000Z</updated>
-        <summary type="html"><![CDATA[Very few programming languages are as universally loved as Python. The brainchild of Dutch programmer Guido van Rossum [https://en.wikipedia.org/wiki/Guido_van_Rossum], Python is easy to learn, powerful, and an utter joy to work with. Thanks to its popularity, video and written resources about Python are plentiful. This handbook, however, tries to be]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Bundle a Simple React Application Using esbuild]]></title>
-        <id>https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/</id>
-        <link href="https://www.freecodecamp.org/news/bundle-a-basic-react-application-using-esbuild/"/>
-        <updated>2023-08-22T20:56:13.000Z</updated>
-        <summary type="html"><![CDATA[Bundling is an important phase in the web development process, particularly when dealing with JavaScript frameworks like React. It entails combining all the various JavaScript files and dependencies into a single file for faster browser loading and execution.  esbuild is a lightweight and efficient bundler for React apps. Here's]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Date Validations – How To Validate a Date in JavaScript (With Examples)]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-validate-a-date-in-javascript/"/>
-        <updated>2023-08-22T19:08:29.000Z</updated>
-        <summary type="html"><![CDATA[There are times when you need to validate a date input in your JavaScript applications. This article will show you how to perform the following date validations:  1. Check if a string is a valid date  2. Validate a string in the DD/MM/YYYY format  3. Check if]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy an Application to a Kubernetes Cluster]]></title>
-        <id>https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/</id>
-        <link href="https://www.freecodecamp.org/news/deploy-docker-image-to-kubernetes/"/>
-        <updated>2023-08-22T16:34:30.000Z</updated>
-        <summary type="html"><![CDATA[In today's ever-changing technology landscape, companies are looking for reliable and scalable ways to run and manage software. And containers have transformed the way we deliver software. Container orchestration platforms have made it possible to deploy and manage containerised applications. Kubernetes is one such platform that has been a game-changer]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your Website Against SEO Poisoning]]></title>
-        <id>https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/</id>
-        <link href="https://www.freecodecamp.org/news/protect-your-website-against-seo-poisoning/"/>
-        <updated>2023-08-22T16:20:41.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO]]></summary>
-        <author>
-            <name>Isah Jacob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Your Website Against SEO Poisoning]]></title>
-        <id>https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/</id>
-        <link href="https://www.freecodecamp.org/news/ensuring-website-security-collaborative-measures-for-cybersecurity-and-seo-experts-to-prevent-seo-poisoning/"/>
-        <updated>2023-08-22T16:20:41.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital landscape, search engine optimization (SEO) is important for increasing online visibility and driving organic traffic to websites.  But cybersecurity threats, including SEO poisoning, pose a great risks to both website owners and SEO efforts.  To fight these risks and safeguard websites, cybersecurity experts and SEO]]></summary>
-        <author>
-            <name>Isah Jacob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Calculator App with Svelte]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/"/>
-        <updated>2023-08-22T15:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Svelte is an open-source front-end JavaScript framework used for building web applications, designed to make developing interactive user interfaces more efficient and performant.  Compared to other front-end frameworks like React, Vue, or Angular, it focuses on a different approach by compiling components. In most traditional frameworks, you build components]]></summary>
-        <author>
-            <name>Adejumo Ridwan Suleiman</name>
         </author>
     </entry>
 </feed>
