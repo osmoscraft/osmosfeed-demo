@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-22T00:54:42.678Z</updated>
+    <updated>2023-09-23T00:52:52.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: How to Run a Tech Conference with Ben Dunphy]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-how-to-run-a-tech-event/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-how-to-run-a-tech-event/"/>
+        <updated>2023-09-22T17:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Today on the freeCodeCamp Podcast, I interview Benjamin Dunphy, founder of many San Francisco Tech Conferences including Reactathon. Ben studied international relations and had a short career in finance. Among other things, he co-authored a bill that eventually got passed in his state of New Hampshire. But Ben saw the]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Project – Create an Authentication Server]]></title>
+        <id>https://www.freecodecamp.org/news/rust-tutorial-authentication-server/</id>
+        <link href="https://www.freecodecamp.org/news/rust-tutorial-authentication-server/"/>
+        <updated>2023-09-22T16:02:43.000Z</updated>
+        <summary type="html"><![CDATA[The Rust programming language is often used for system-level programming, emphasizing safety, concurrency, and performance, making it a popular choice for building systems software, game engines, and web browsers. An authentication server is another good use case for Rust. We just published a course on the freeCodeCamp.org YouTube channel that]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/</id>
+        <link href="https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/"/>
+        <updated>2023-09-22T12:35:14.000Z</updated>
+        <summary type="html"><![CDATA[The first time I learned about open source was through a tweet that promoted Hacktoberfest in 2019. And my first-ever accepted pull request was to add a book title in emojis to a list. You might think, "You can't count that as an open source contribution. That's a joke!" I]]></summary>
+        <author>
+            <name>Ayu Adiati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Path To Awesome CSS Easing With The linear() Function]]></title>
+        <id>https://smashingmagazine.com/2023/09/path-css-easing-linear-function/</id>
+        <link href="https://smashingmagazine.com/2023/09/path-css-easing-linear-function/"/>
+        <updated>2023-09-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is Hypothesis Testing? Types and Python Code Example]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-hypothesis-testing/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-hypothesis-testing/"/>
+        <updated>2023-09-22T00:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Curiosity has always been a part of human nature. Since the beginning of time, this has been one of the most important tools for birthing civilizations. Still, our curiosity grows — it tests and expands our limits. Humanity has explored the plains of land, water, and air. We've built underwater]]></summary>
+        <author>
+            <name>MENE-EJEGI OGBEMI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binary Classification with TensorFlow Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/</id>
@@ -923,46 +973,6 @@
         <summary type="html"><![CDATA[In today's data-driven world, the ability to effectively manage and query databases is an essential skill for any programmer, data analyst, or software engineer. Whether you want to streamline business operations, uncover critical insights, or create dynamic applications, a solid understanding of Structured Query Language (SQL) is paramount. We just]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Photo Encryption App using Steganography]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-photo-encryption-app/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-photo-encryption-app/"/>
-        <updated>2023-08-23T21:06:02.000Z</updated>
-        <summary type="html"><![CDATA[In this digital age, data flows freely across networks and devices. So protecting sensitive information from unauthorized access is crucial. That's where encryption comes in.  Encryption involves converting plain, readable data into an incomprehensible form. It's also essential to have a way to convert the data back into a]]></summary>
-        <author>
-            <name>Houssein Badra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner's Python Tutorial: Pong]]></title>
-        <id>https://www.freecodecamp.org/news/beginners-python-tutorial-pong/</id>
-        <link href="https://www.freecodecamp.org/news/beginners-python-tutorial-pong/"/>
-        <updated>2023-08-23T20:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Pong was one of the first video games. And it also makes a good first (or early) Python project when you are learning to code. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Python and Pygame skills by teaching you how to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Perl Programming Course for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/"/>
-        <updated>2023-08-23T17:56:28.000Z</updated>
-        <summary type="html"><![CDATA[For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Few Interesting Ways To Use CSS Shadows For More Than Depth]]></title>
-        <id>https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/</id>
-        <link href="https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/"/>
-        <updated>2023-08-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
         </author>
     </entry>
 </feed>

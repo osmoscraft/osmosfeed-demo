@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/path-css-easing-linear-function/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.",
+          "link": "https://smashingmagazine.com/2023/09/path-css-easing-linear-function/",
+          "publishedOn": "2023-09-22T10:00:00.000Z",
+          "wordCount": 5052,
+          "title": "The Path To Awesome CSS Easing With The linear() Function",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/path-css-easing-linear-function/path-css-easing-linear-function.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/path-css-easing-linear-function/path-css-easing-linear-function.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/facilitating-inclusive-online-workshops-part2/",
           "author": "hello@smashingmagazine.com (Ben Shih)",
           "description": "To help ensure the success of a workshop, Ben Shih introduces the concept of an inclusive workshop. In Part 2 of the series, you will continue to delve deeper into several key principles and guidelines that you can follow during and after the workshop to encourage an inclusive atmosphere.",
@@ -175,21 +190,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/improving-double-diamond-design-process/improving-double-diamond-design-process.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
-          "author": "hello@smashingmagazine.com (Preethi Sam)",
-          "description": "We often think of shadows in CSS as something to reach for when we want to add depth to a design. But shadows can be used for more than depth. Let’s experiment with different shadows — two CSS properties and a filter — to make interesting hover effects, different text styles, and even casting shadows on other shadows.",
-          "link": "https://smashingmagazine.com/2023/08/interesting-ways-use-css-shadows/",
-          "publishedOn": "2023-08-23T15:00:00.000Z",
-          "wordCount": 4494,
-          "title": "A Few Interesting Ways To Use CSS Shadows For More Than Depth",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/interesting-ways-use-css-shadows/interesting-ways-use-css-shadows.jpg"
         }
       ]
     },
@@ -198,6 +198,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-how-to-run-a-tech-event/",
+          "author": "Quincy Larson",
+          "description": "Today on the freeCodeCamp Podcast, I interview Benjamin Dunphy, founder of many San Francisco Tech Conferences including Reactathon. Ben studied international relations and had a short career in finance. Among other things, he co-authored a bill that eventually got passed in his state of New Hampshire. But Ben saw the",
+          "link": "https://www.freecodecamp.org/news/podcast-how-to-run-a-tech-event/",
+          "publishedOn": "2023-09-22T17:45:23.000Z",
+          "wordCount": 834,
+          "title": "Podcast: How to Run a Tech Conference with Ben Dunphy",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Cursor.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rust-tutorial-authentication-server/",
+          "author": "Beau Carnes",
+          "description": "The Rust programming language is often used for system-level programming, emphasizing safety, concurrency, and performance, making it a popular choice for building systems software, game engines, and web browsers. An authentication server is another good use case for Rust. We just published a course on the freeCodeCamp.org YouTube channel that",
+          "link": "https://www.freecodecamp.org/news/rust-tutorial-authentication-server/",
+          "publishedOn": "2023-09-22T16:02:43.000Z",
+          "wordCount": 1003,
+          "title": "Rust Project – Create an Authentication Server",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/rustauthserver.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/",
+          "author": "Ayu Adiati",
+          "description": "The first time I learned about open source was through a tweet that promoted Hacktoberfest in 2019. And my first-ever accepted pull request was to add a book title in emojis to a list. You might think, \"You can't count that as an open source contribution. That's a joke!\" I",
+          "link": "https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/",
+          "publishedOn": "2023-09-22T12:35:14.000Z",
+          "wordCount": 3114,
+          "title": "How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/A-beginner-guide-to-git---github-worflow--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-hypothesis-testing/",
+          "author": "MENE-EJEGI OGBEMI",
+          "description": "Curiosity has always been a part of human nature. Since the beginning of time, this has been one of the most important tools for birthing civilizations. Still, our curiosity grows — it tests and expands our limits. Humanity has explored the plains of land, water, and air. We've built underwater",
+          "link": "https://www.freecodecamp.org/news/what-is-hypothesis-testing/",
+          "publishedOn": "2023-09-22T00:41:23.000Z",
+          "wordCount": 2633,
+          "title": "What Is Hypothesis Testing? Types and Python Code Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Banner---Tech-writing---hypothesis.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/",
           "author": "Arunachalam B",
@@ -1007,36 +1047,6 @@
           "wordCount": null,
           "title": "Mastering SQL for Web Developers – Full Course",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-photo-encryption-app/",
-          "author": "Houssein Badra",
-          "description": "In this digital age, data flows freely across networks and devices. So protecting sensitive information from unauthorized access is crucial. That's where encryption comes in.  Encryption involves converting plain, readable data into an incomprehensible form. It's also essential to have a way to convert the data back into a",
-          "link": "https://www.freecodecamp.org/news/build-a-photo-encryption-app/",
-          "publishedOn": "2023-08-23T21:06:02.000Z",
-          "wordCount": 2715,
-          "title": "How to Build a Photo Encryption App using Steganography",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Screenshot--122-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/beginners-python-tutorial-pong/",
-          "author": "Beau Carnes",
-          "description": "Pong was one of the first video games. And it also makes a good first (or early) Python project when you are learning to code. We just published a course on the freeCodeCamp.org YouTube channel that will help you improve your Python and Pygame skills by teaching you how to",
-          "link": "https://www.freecodecamp.org/news/beginners-python-tutorial-pong/",
-          "publishedOn": "2023-08-23T20:45:10.000Z",
-          "wordCount": 2105,
-          "title": "Beginner's Python Tutorial: Pong",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/pong.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "For decades, the Perl programming language has remained important in the realms of text processing, system administration, and even web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use Perl. The course covers topics ranging from basic syntax to advanced",
-          "link": "https://www.freecodecamp.org/news/free-perl-programming-course-for-beginners/",
-          "publishedOn": "2023-08-23T17:56:28.000Z",
-          "wordCount": 852,
-          "title": "Free Perl Programming Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/prl.png"
         }
       ]
     }
