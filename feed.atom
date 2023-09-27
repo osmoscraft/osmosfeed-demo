@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-26T00:55:14.962Z</updated>
+    <updated>2023-09-27T00:55:15.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Neon Branching]]></title>
+        <id>https://smashingmagazine.com/2023/09/getting-started-with-neon-branching/</id>
+        <link href="https://smashingmagazine.com/2023/09/getting-started-with-neon-branching/"/>
+        <updated>2023-09-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Branches are a really nice (and safe) way to configure or reconfigure your database without fear of screwing up the production database. Let’s take a closer look at how branching works with [Neon](https://neon.tech/), and the good news is, you probably already know how it works!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 65 With Alex Older: How Do You Run A Grassroots Conference?]]></title>
+        <id>https://smashingmagazine.com/2023/09/smashing-podcast-episode-65/</id>
+        <link href="https://smashingmagazine.com/2023/09/smashing-podcast-episode-65/"/>
+        <updated>2023-09-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re talking about running grassroots conferences and meet-ups. What does it take to organize a small industry event for your community? Drew McLellan talks to WDC’s Alex Older to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Dynamic Programming to Solve the 0/1 Knapsack Problem]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-dynamic-programming-to-solve-the-0-1-knapsack-problem/</id>
@@ -953,16 +973,6 @@
         <summary type="html"><![CDATA[The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earn a Free C# Certification from Microsoft and freeCodeCamp]]></title>
-        <id>https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/</id>
-        <link href="https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/"/>
-        <updated>2023-08-28T12:53:25.000Z</updated>
-        <summary type="html"><![CDATA[I'm excited to announce that Microsoft and freeCodeCamp have teamed up to bring you a new free professional certification: the Foundational C# Certification. This professional certification includes 35 hours of training from Microsoft and an online certification exam by freeCodeCamp. By the end of this process, you'll have earned your]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
 </feed>
