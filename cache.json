@@ -205,21 +205,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "The CSS Color Module Level 4 specification defined a slew of new color features when it became a candidate recommendation in 2022, including Oklab and Oklch, which have widened the field of color we have to work with. Explore the Oklch color space and how to start using it in CSS today.",
-          "link": "https://smashingmagazine.com/2023/08/oklch-color-spaces-gamuts-css/",
-          "publishedOn": "2023-08-28T13:30:00.000Z",
-          "wordCount": 5775,
-          "title": "Falling For Oklch: A Love Story Of Color Spaces, Gamuts, And CSS",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/oklch-color-spaces-gamuts-css/oklch-color-spaces-gamuts-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/oklch-color-spaces-gamuts-css/oklch-color-spaces-gamuts-css.jpg"
         }
       ]
     },
@@ -228,6 +213,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/",
+          "author": "Quincy Larson",
+          "description": "This morning while I was eating breakfast, I opened YouTube and saw a video by self-taught developer Brian Cache: \"The FASTEST Way to Learn to Code and ACTUALLY Get a Developer Job\" (Capital letter emphasis is his own. The video is an 11 minute watch): I love watching these types",
+          "link": "https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/",
+          "publishedOn": "2023-09-27T15:41:30.000Z",
+          "wordCount": 1602,
+          "title": "Self-Taught Developer's Fastest Path to a Developer Job",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Software-Engineer-Developer-Job.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/",
+          "author": "Beau Carnes",
+          "description": "Java has been a popular programming language for over two decades. Learning Java is a good way to mastering the fundamentals of modern coding practices.  We just posted a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Java programming. Alex Dobinca Cristian developed",
+          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/",
+          "publishedOn": "2023-09-27T14:40:30.000Z",
+          "wordCount": 1010,
+          "title": "Learn the Basics of Java Programming",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/javacrash.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/prismane-react-ui-library/",
+          "author": "Valentine Gatwiri",
+          "description": "Prismane is a free, comprehensive, have-it-all React UI library that provides a broad array of hooks, components, and form validators to help you build beautiful and functional user interfaces. Prismane was designed with performance in mind, ensuring lightning-fast loading times for a better user experience. In this article, you will",
+          "link": "https://www.freecodecamp.org/news/prismane-react-ui-library/",
+          "publishedOn": "2023-09-27T12:52:48.000Z",
+          "wordCount": 1495,
+          "title": "An Overview of Prismane  – An Open-Source React UI Library",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Screenshot-from-2023-09-26-15-16-49.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-html-elements/",
+          "author": "Joan Ayebola",
+          "description": "HTML, which stands for HyperText Markup Language, is the standard markup language used to create webpages. HTML provides a structured way to organize content on a webpage, allowing web developers to present text and media in a clear and meaningful way.  In this article, we'll explore three fundamental HTML",
+          "link": "https://www.freecodecamp.org/news/how-to-use-html-elements/",
+          "publishedOn": "2023-09-26T18:02:38.000Z",
+          "wordCount": 2146,
+          "title": "How to use HTML Elements – Headings, Paragraphs, and Text Formatting Elements Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Pink-Minimalist-Digital-Marketing-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nuxt-3-course-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "Nuxt.js has been making waves in the web development world, especially among Vue.js enthusiasts. With its unique capabilities for server-side rendering, static site generation, and single-page applications, Nuxt offers a robust set of features for developers looking to build modern web apps. We just posted a full course on Nuxt",
+          "link": "https://www.freecodecamp.org/news/nuxt-3-course-for-beginners/",
+          "publishedOn": "2023-09-26T15:37:16.000Z",
+          "wordCount": 833,
+          "title": "Nuxt 3 Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/nuxt.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-dynamic-programming-to-solve-the-0-1-knapsack-problem/",
           "author": "Beau Carnes",
@@ -1027,36 +1062,6 @@
           "wordCount": 7217,
           "title": "How to Build a Task Manager CLI Tool with Node.js",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Add-a-heading--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-date-time-dayjs/",
-          "author": "Grant Weatherston",
-          "description": "When it comes to handling dates and times in JavaScript, developers often find themselves grappling with the complexities of the built-in Date object. While vanilla JavaScript provides fundamental functionality, it can be quite cumbersome to work with, especially when dealing with parsing, formatting, and manipulating dates. This is where external",
-          "link": "https://www.freecodecamp.org/news/javascript-date-time-dayjs/",
-          "publishedOn": "2023-08-28T22:09:07.000Z",
-          "wordCount": 6067,
-          "title": "Javascript Dates – How to Use the DayJS Library to work with Date and Time in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/fcc_template--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-data-science-and-ai-handbook/",
-          "author": "Tatev Karen Aslanyan",
-          "description": "In this handbook, I'll show you how to use proven strategies and insights to get into the fields of AI and Data Science. I'll help you navigate the exciting world of Data Science and AI in 2023 so you can increase your chances of landing a job.  > Every",
-          "link": "https://www.freecodecamp.org/news/the-data-science-and-ai-handbook/",
-          "publishedOn": "2023-08-28T16:44:29.000Z",
-          "wordCount": 11548,
-          "title": "The Data Science and AI Handbook – How to Start a Career in Data Science",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Data-Science-and-AI-Career-Guide-Handbook-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-functions-and-scope/",
-          "author": "Casmir Onyekani",
-          "description": "Welcome to the exciting world of JavaScript Functions and Scope. Have you ever wondered how programs remember things and do tasks over and over again? Well, that's where functions and scope come into play. Whether you're a curious beginner or someone looking to strengthen your coding skills, get ready to",
-          "link": "https://www.freecodecamp.org/news/javascript-functions-and-scope/",
-          "publishedOn": "2023-08-28T14:55:54.000Z",
-          "wordCount": 3970,
-          "title": "JavaScript Functions and Scope – a Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/learn-javascript-functions-and-scope-1.jpg"
         }
       ]
     }
