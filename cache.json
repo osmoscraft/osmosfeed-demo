@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/exploring-enhanced-patterns-system-wordpress/",
+          "author": "hello@smashingmagazine.com (Ganesh Dahal)",
+          "description": "In this article, Ganesh Dahal explains how the features have evolved since reusable blocks were officially released in WordPress 5.0 — and how the two have converged in WordPress 6.3 to form a powerful feature capable of allowing content creators to sync content and design patterns consistently in pages and posts.",
+          "link": "https://smashingmagazine.com/2023/09/exploring-enhanced-patterns-system-wordpress/",
+          "publishedOn": "2023-09-28T13:00:00.000Z",
+          "wordCount": 7241,
+          "title": "Exploring Enhanced Patterns In WordPress 6.3",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/enhanced-patterns-system-wordpress/exploring-enhanced-patterns-system-wordpress.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/enhanced-patterns-system-wordpress/exploring-enhanced-patterns-system-wordpress.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/getting-started-with-neon-branching/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
           "description": "Branches are a really nice (and safe) way to configure or reconfigure your database without fear of screwing up the production database. Let’s take a closer look at how branching works with [Neon](https://neon.tech/), and the good news is, you probably already know how it works!",
@@ -213,6 +228,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/localization-book-how-to-translate-your-website/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Welcome! In a global world where information is available to everyone in just a few clicks, adapting your website and resources to other languages and cultures is essential to succeed. This book will teach you the fundamentals of localization and how to translate your website to reach a global community",
+          "link": "https://www.freecodecamp.org/news/localization-book-how-to-translate-your-website/",
+          "publishedOn": "2023-09-28T18:17:44.000Z",
+          "wordCount": 22341,
+          "title": "The Localization Handbook – How to Translate Your Website Into Different World Languages [Full Book]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Localization-Course-Handbook-Cover-Version-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-langchain-for-llm-development/",
+          "author": "Beau Carnes",
+          "description": "Large language models have revolutionized the realm of Natural Language Processing (NLP) and have opened the doors for numerous applications in the tech world. But integrating and deploying these models to design powerful applications often demands a specialized set of tools and understanding. Enter LangChain: a game-changing framework tailored for",
+          "link": "https://www.freecodecamp.org/news/learn-langchain-for-llm-development/",
+          "publishedOn": "2023-09-28T14:49:29.000Z",
+          "wordCount": 1004,
+          "title": "Learn LangChain for LLM Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/langchain-fcc.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/",
+          "author": "Chris Blakely",
+          "description": "Hey there! Ready to build something cool? In this tutorial, we're going to create a full stack notes app using React, Node.js, and PostgreSQL.  We'll start from scratch and end up with a fully functioning app where you can create, edit, and delete notes. Plus, we're adding validation on",
+          "link": "https://www.freecodecamp.org/news/full-stack-project-tutorial-create-a-notes-app-using-react-and-node-js/",
+          "publishedOn": "2023-09-28T14:10:44.000Z",
+          "wordCount": 8339,
+          "title": "Full Stack Project Tutorial – Create A Notes App Using React and Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/react-node-notes-app-screenshot-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/project-maintainer-guide-to-hacktoberfest/",
+          "author": "Sophia Iroegbu",
+          "description": "Hacktoberfest is a month-long event that promotes open-source contributions, collaboration, and projects.  Participating in this event as either a project maintainer or a contributor gives new perspectives to either your project or your career. You also get to meet fun people. This article will walk you through how to",
+          "link": "https://www.freecodecamp.org/news/project-maintainer-guide-to-hacktoberfest/",
+          "publishedOn": "2023-09-28T07:02:33.000Z",
+          "wordCount": 1301,
+          "title": "A Project Maintainer's Guide to Hacktoberfest",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Blog-Banner---Template--10-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/terraform-security-best-practices/",
+          "author": "Aaron Katz",
+          "description": "Terraform is a popular Infrastructure as Code (IaC) tool that allows users to define and manage cloud infrastructure in a declarative way.  However, like any tool, Terraform can introduce security risks if not used properly. In this article, we will explore the most common security risks when using Terraform, the",
+          "link": "https://www.freecodecamp.org/news/terraform-security-best-practices/",
+          "publishedOn": "2023-09-28T05:12:03.000Z",
+          "wordCount": 1371,
+          "title": "Terraform Security Best Practices",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/1-_rE5zXXVTZ_R4u-2FZh0iw.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/",
           "author": "Quincy Larson",
@@ -1032,36 +1097,6 @@
           "wordCount": 1946,
           "title": "How to Build and Release a Flutter App in Google Play",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Build-and-Release-the-Flutter-App-in-Google-Play.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/",
-          "author": "Dionysia Lemonaki",
-          "description": "C is one of the oldest, most widely known, and most influential programming languages. It is used in many industries because it is a highly flexible and powerful language. Learning C is a worthwhile endeavor – no matter your starting point or aspirations – because it builds a solid foundation",
-          "link": "https://www.freecodecamp.org/news/the-c-programming-handbook-for-beginners/",
-          "publishedOn": "2023-08-29T20:38:16.000Z",
-          "wordCount": 14548,
-          "title": "The C Programming Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/C-Programming-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/unstyled-ui-components-for-front-end-developers/",
-          "author": "Chinenye Anikwenze",
-          "description": "Imagine this situation: you are working on a time-sensitive project, and you need to implement some specific UI components that comply with accessibility best practices.  You may know about some libraries that are full of pre-designed UI elements, each with their own style. But here's the catch – you",
-          "link": "https://www.freecodecamp.org/news/unstyled-ui-components-for-front-end-developers/",
-          "publishedOn": "2023-08-29T15:56:00.000Z",
-          "wordCount": 2759,
-          "title": "How to Use Un-Styled UI Components – Guide for Front-End Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/article---unstyled-ui-components-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/",
-          "author": "Krish Jaiswal",
-          "description": "Hello everyone 👋 In this tutorial, you'll learn how to make a simple Task Manager CLI (Command Line Interface) tool. This means you can use commands to Create, View, Update, or Delete your todos.  We will be building this CLI tool using NodeJS. We'll also use MongoDB as the",
-          "link": "https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/",
-          "publishedOn": "2023-08-29T14:19:19.000Z",
-          "wordCount": 7217,
-          "title": "How to Build a Task Manager CLI Tool with Node.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Add-a-heading--1-.png"
         }
       ]
     }
