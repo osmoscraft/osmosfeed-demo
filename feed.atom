@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-29T00:54:58.097Z</updated>
+    <updated>2023-09-30T00:53:36.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Game Development and AI with Lynn Zheng]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-lynn-zheng-game-development-ai/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-lynn-zheng-game-development-ai/"/>
+        <updated>2023-09-29T18:55:05.000Z</updated>
+        <summary type="html"><![CDATA[99 Game Development and AI with Lynn Zheng Today on the freeCodeCamp Podcast, I'm joined by Lynn Zheng. She's a software engineer at freeCodeCamp and at Salesforce. Lynn grew up in Shenzhen, China – the computer hardware capital of the world. Both of her parents were engineers. And from an]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Astro Web Framework]]></title>
+        <id>https://www.freecodecamp.org/news/learn-the-astro-web-framework/</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-astro-web-framework/"/>
+        <updated>2023-09-29T16:05:36.000Z</updated>
+        <summary type="html"><![CDATA[Astro is rapidly emerging as a go-to choice for developers looking to build fast, content-focused websites. Whether you're crafting landing pages, informative blogs, or intricate technical documentation, Astro offers a comprehensive suite of tools to make the process seamless. We just posted an Astro crash course on the freeCodeCamp.org YouTube]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2023/09/re-creating-pop-out-hover-effect-css-part1/</id>
+        <link href="https://smashingmagazine.com/2023/09/re-creating-pop-out-hover-effect-css-part1/"/>
+        <updated>2023-09-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is all about experimenting with modern CSS features. We will combine things like CSS masks, CSS variables, trigonometric functions, `@property`, and more to create a neat hover effect that would have been extremely difficult to do even a few years ago without the latest and greatest that CSS has to offer.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Localization Handbook – How to Translate Your Website Into Different World Languages [Full Book]]]></title>
         <id>https://www.freecodecamp.org/news/localization-book-how-to-translate-your-website/</id>
@@ -933,86 +963,6 @@
         <summary type="html"><![CDATA[In programming, an array is a data structure that contains a collection of elements. Arrays are very useful because you can store, access, and manipulate multiple elements in a single array. In this handbook, you'll learn how to work with arrays in JavaScript. We'll cover the specific rules you need]]></summary>
         <author>
             <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A September Of Never Ending Adventures (2023 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/</id>
-        <link href="https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/"/>
-        <updated>2023-08-31T08:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s get ready for September with some fresh wallpaper designs! Created with love by artists and designers from across the globe, the wallpapers in this collection come in versions with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Social Media Web Authentication using Firebase]]></title>
-        <id>https://www.freecodecamp.org/news/social-media-based-web-authentication-with-firebase/</id>
-        <link href="https://www.freecodecamp.org/news/social-media-based-web-authentication-with-firebase/"/>
-        <updated>2023-08-31T00:12:32.000Z</updated>
-        <summary type="html"><![CDATA[User authentication is extremely important in the context of web development. The way users log in affects their overall experience and engagement with an application. It also affects how they initially perceive it. Authentication techniques are continually evolving as social media sites continue to grow in popularity. The ability to]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OWASP API Security Top 10 – Secure Your APIs]]></title>
-        <id>https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/</id>
-        <link href="https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/"/>
-        <updated>2023-08-30T19:27:18.000Z</updated>
-        <summary type="html"><![CDATA[The OWASP API Security Top 10 is a standard reference guide highlighting the most critical web API vulnerabilities to help developers and organizations understand and mitigate potential security threats. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about each security risk and techniques to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Online Image-to-PDF Converter with HTML, CSS, JS, and NodeJS]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/"/>
-        <updated>2023-08-30T17:03:33.000Z</updated>
-        <summary type="html"><![CDATA[An online image-to-PDF converter is a website that helps you convert your images to PDFs. This tool is useful because it provides an efficient way to store your images. In this tutorial, you'll learn how you can create your online image-to-pdf converter with HTML, CSS, JavaScript, and NodeJS. Table of]]></summary>
-        <author>
-            <name>Gideon Akinsanmi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing freeCodeCamp Press – Free Books for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/"/>
-        <updated>2023-08-30T16:49:54.000Z</updated>
-        <summary type="html"><![CDATA[The freeCodeCamp community has published more than 10,000 tutorials over the years. But lately we've focused on creating even longer resources for learning math, programming, and computer science. This is why we've created freeCodeCamp Press – a division of freeCodeCamp where we publish full-length books and handbooks – all available]]></summary>
-        <author>
-            <name>Abbey Rennemeyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Machine Learning and Neural Networks without Frameworks]]></title>
-        <id>https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/</id>
-        <link href="https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/"/>
-        <updated>2023-08-30T16:22:01.000Z</updated>
-        <summary type="html"><![CDATA[A lot of machine learning course relay on frameworks that abstract the inner workings of what's going on. If you want to become proficient, it's helpful to understand how things work under the hood. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agile Software Development Handbook – Scrum, Kanban, and Other Methodologies Explained]]></title>
-        <id>https://www.freecodecamp.org/news/agile-software-development-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/agile-software-development-handbook/"/>
-        <updated>2023-08-30T14:26:36.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-paced and ever-evolving world of software development, there's always a need for flexibility, adaptability, and responsiveness. Traditional software development methods often struggled to keep up with changing requirements and market demands. This can lead to delays, cost overruns, and dissatisfied stakeholders. In response to these challenges, the Agile]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Release a Flutter App in Google Play]]></title>
-        <id>https://www.freecodecamp.org/news/build-and-release-flutter-app-in-google-play/</id>
-        <link href="https://www.freecodecamp.org/news/build-and-release-flutter-app-in-google-play/"/>
-        <updated>2023-08-30T14:23:42.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving world of mobile app development, Flutter has gained immense popularity for its ability to create stunning and high-performance apps across multiple platforms.  Flutter's framework allows developers to build beautiful user interfaces, deliver native performance, and streamline development.  In this tutorial, I will walk you]]></summary>
-        <author>
-            <name>Arunachalam B</name>
         </author>
     </entry>
 </feed>

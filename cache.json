@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/09/re-creating-pop-out-hover-effect-css-part1/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "This article is all about experimenting with modern CSS features. We will combine things like CSS masks, CSS variables, trigonometric functions, `@property`, and more to create a neat hover effect that would have been extremely difficult to do even a few years ago without the latest and greatest that CSS has to offer.",
+          "link": "https://smashingmagazine.com/2023/09/re-creating-pop-out-hover-effect-css-part1/",
+          "publishedOn": "2023-09-29T11:00:00.000Z",
+          "wordCount": 5574,
+          "title": "Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-css-part1/re-creating-pop-out-hover-effect-css-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-css-part1/re-creating-pop-out-hover-effect-css-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/09/exploring-enhanced-patterns-system-wordpress/",
           "author": "hello@smashingmagazine.com (Ganesh Dahal)",
           "description": "In this article, Ganesh Dahal explains how the features have evolved since reusable blocks were officially released in WordPress 5.0 — and how the two have converged in WordPress 6.3 to form a powerful feature capable of allowing content creators to sync content and design patterns consistently in pages and posts.",
@@ -205,21 +220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/generating-real-time-audio-sentiment-analysis-ai/generating-real-time-audio-sentiment-analysis-ai.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s get ready for September with some fresh wallpaper designs! Created with love by artists and designers from across the globe, the wallpapers in this collection come in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2023/08/desktop-wallpaper-calendars-september-2023/",
-          "publishedOn": "2023-08-31T08:15:00.000Z",
-          "wordCount": 4799,
-          "title": "A September Of Never Ending Adventures (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-september-2023/sep-23-palette-of-autumn-preview-opt.png"
         }
       ]
     },
@@ -228,6 +228,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-lynn-zheng-game-development-ai/",
+          "author": "Quincy Larson",
+          "description": "99 Game Development and AI with Lynn Zheng Today on the freeCodeCamp Podcast, I'm joined by Lynn Zheng. She's a software engineer at freeCodeCamp and at Salesforce. Lynn grew up in Shenzhen, China – the computer hardware capital of the world. Both of her parents were engineers. And from an",
+          "link": "https://www.freecodecamp.org/news/podcast-lynn-zheng-game-development-ai/",
+          "publishedOn": "2023-09-29T18:55:05.000Z",
+          "wordCount": 830,
+          "title": "Podcast: Game Development and AI with Lynn Zheng",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Screenshot_9_29_23__1_32_PM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-astro-web-framework/",
+          "author": "Beau Carnes",
+          "description": "Astro is rapidly emerging as a go-to choice for developers looking to build fast, content-focused websites. Whether you're crafting landing pages, informative blogs, or intricate technical documentation, Astro offers a comprehensive suite of tools to make the process seamless. We just posted an Astro crash course on the freeCodeCamp.org YouTube",
+          "link": "https://www.freecodecamp.org/news/learn-the-astro-web-framework/",
+          "publishedOn": "2023-09-29T16:05:36.000Z",
+          "wordCount": 917,
+          "title": "Learn the Astro Web Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/astro.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/localization-book-how-to-translate-your-website/",
           "author": "Estefania Cassingena Navone",
@@ -1027,76 +1047,6 @@
           "wordCount": 5217,
           "title": "JavaScript Array Handbook – Learn How JS Array Methods Work With Examples and Cheat Sheet",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/JavaScript-Array-for-Beginners-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/social-media-based-web-authentication-with-firebase/",
-          "author": "Jaja Ibifubara David",
-          "description": "User authentication is extremely important in the context of web development. The way users log in affects their overall experience and engagement with an application. It also affects how they initially perceive it. Authentication techniques are continually evolving as social media sites continue to grow in popularity. The ability to",
-          "link": "https://www.freecodecamp.org/news/social-media-based-web-authentication-with-firebase/",
-          "publishedOn": "2023-08-31T00:12:32.000Z",
-          "wordCount": 4615,
-          "title": "How to Set Up Social Media Web Authentication using Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Article-Cover--3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/",
-          "author": "Beau Carnes",
-          "description": "The OWASP API Security Top 10 is a standard reference guide highlighting the most critical web API vulnerabilities to help developers and organizations understand and mitigate potential security threats. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about each security risk and techniques to",
-          "link": "https://www.freecodecamp.org/news/owasp-api-security-top-10-secure-your-apis/",
-          "publishedOn": "2023-08-30T19:27:18.000Z",
-          "wordCount": 13869,
-          "title": "OWASP API Security Top 10 – Secure Your APIs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/owaslp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/",
-          "author": "Gideon Akinsanmi",
-          "description": "An online image-to-PDF converter is a website that helps you convert your images to PDFs. This tool is useful because it provides an efficient way to store your images. In this tutorial, you'll learn how you can create your online image-to-pdf converter with HTML, CSS, JavaScript, and NodeJS. Table of",
-          "link": "https://www.freecodecamp.org/news/build-an-online-image-to-pdf-converter-with-html-css-js-nodejs/",
-          "publishedOn": "2023-08-30T17:03:33.000Z",
-          "wordCount": 4464,
-          "title": "How to Build an Online Image-to-PDF Converter with HTML, CSS, JS, and NodeJS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/png-img-pdf.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/",
-          "author": "Abbey Rennemeyer",
-          "description": "The freeCodeCamp community has published more than 10,000 tutorials over the years. But lately we've focused on creating even longer resources for learning math, programming, and computer science. This is why we've created freeCodeCamp Press – a division of freeCodeCamp where we publish full-length books and handbooks – all available",
-          "link": "https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/",
-          "publishedOn": "2023-08-30T16:49:54.000Z",
-          "wordCount": 1285,
-          "title": "Introducing freeCodeCamp Press – Free Books for Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/freeCodeCamp-Press.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/",
-          "author": "Beau Carnes",
-          "description": "A lot of machine learning course relay on frameworks that abstract the inner workings of what's going on. If you want to become proficient, it's helpful to understand how things work under the hood. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to",
-          "link": "https://www.freecodecamp.org/news/learn-machine-learning-and-neural-networks-without-frameworks/",
-          "publishedOn": "2023-08-30T16:22:01.000Z",
-          "wordCount": 873,
-          "title": "Learn Machine Learning and Neural Networks without Frameworks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/mlscratch.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/agile-software-development-handbook/",
-          "author": "Adekola Olawale",
-          "description": "In the fast-paced and ever-evolving world of software development, there's always a need for flexibility, adaptability, and responsiveness. Traditional software development methods often struggled to keep up with changing requirements and market demands. This can lead to delays, cost overruns, and dissatisfied stakeholders. In response to these challenges, the Agile",
-          "link": "https://www.freecodecamp.org/news/agile-software-development-handbook/",
-          "publishedOn": "2023-08-30T14:26:36.000Z",
-          "wordCount": 8099,
-          "title": "Agile Software Development Handbook – Scrum, Kanban, and Other Methodologies Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/The-Agile-Development-Handbook-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-and-release-flutter-app-in-google-play/",
-          "author": "Arunachalam B",
-          "description": "In the rapidly evolving world of mobile app development, Flutter has gained immense popularity for its ability to create stunning and high-performance apps across multiple platforms.  Flutter's framework allows developers to build beautiful user interfaces, deliver native performance, and streamline development.  In this tutorial, I will walk you",
-          "link": "https://www.freecodecamp.org/news/build-and-release-flutter-app-in-google-play/",
-          "publishedOn": "2023-08-30T14:23:42.000Z",
-          "wordCount": 1946,
-          "title": "How to Build and Release a Flutter App in Google Play",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Build-and-Release-the-Flutter-App-in-Google-Play.png"
         }
       ]
     }
