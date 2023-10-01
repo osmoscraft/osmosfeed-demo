@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-30T00:53:36.039Z</updated>
+    <updated>2023-10-01T01:02:56.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Text to Meaning: How Computers Understand Language]]></title>
+        <id>https://www.freecodecamp.org/news/how-computers-understand-language/</id>
+        <link href="https://www.freecodecamp.org/news/how-computers-understand-language/"/>
+        <updated>2023-09-30T14:31:13.000Z</updated>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Image Search App Using React – An In-Depth Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-image-search-app-using-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-image-search-app-using-react/"/>
+        <updated>2023-09-30T11:30:22.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we will build step-by-step a beautiful Unsplash Image Search App with pagination using React. By building this app, you will learn:  * How to build an application using Unsplash API in React  * How to make API Calls in different scenarios  * How to]]></summary>
+        <author>
+            <name>Yogesh Chavan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dancing Leaves And Spooky Fellows (October 2023 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/</id>
+        <link href="https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/"/>
+        <updated>2023-09-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How about a little inspiration boost? Well, we might have something for you: desktop wallpapers created with love by artists and designers from across the globe. They are available in versions with and without a calendar for October and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Game Development and AI with Lynn Zheng]]></title>
         <id>https://www.freecodecamp.org/news/podcast-lynn-zheng-game-development-ai/</id>
@@ -923,46 +952,6 @@
         <summary type="html"><![CDATA[Many projects are migrating from React to Next.js in 2023. So now's the right time to understand an important step in creating a Next.js application: deployment. Deploying a Next.js application is an essential step in the lifecycle of your web product. And since various deployment strategies exist, picking the right]]></summary>
         <author>
             <name>Tobenna Okeke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MERN Stack Crash Course – Build a Book Store App]]></title>
-        <id>https://www.freecodecamp.org/news/mern-stack-crash-course/</id>
-        <link href="https://www.freecodecamp.org/news/mern-stack-crash-course/"/>
-        <updated>2023-08-31T19:03:05.000Z</updated>
-        <summary type="html"><![CDATA[The MERN stack is a set of technologies often used to build full stack web apps.  We just released a crash course on the freeCodeCamp.org YouTube channel that will teach you how to create full stack apps with the MERN stack. In this comprehensive course, we will take you]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Security in Django – How to Build a Secure Web Application]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-secure-django-web-app/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-secure-django-web-app/"/>
-        <updated>2023-08-31T18:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Web security is an important aspect of the web application development process. Especially as more data is stored, managed, and shared.  As a web developer, it's essential to prioritize security measures to protect your company’s users and data from potential threats.  In this article, I will demonstrate web]]></summary>
-        <author>
-            <name>Isah Jacob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI and Cybersecurity Handbook – Past the Hype and Onto the ROI]]></title>
-        <id>https://www.freecodecamp.org/news/ai-and-cybersecurity-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/ai-and-cybersecurity-handbook/"/>
-        <updated>2023-08-31T16:36:20.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence (AI) has become one of the most talked about technologies in cybersecurity. Driven by the rising sophistication of cyber threats and large talent shortages, organizations are turning to AI as a force multiplier for security teams.  But integrating AI into security workflows requires thoughtful planning and evaluation.]]></summary>
-        <author>
-            <name>Sonya Moisset</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array Handbook – Learn How JS Array Methods Work With Examples and Cheat Sheet]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-array-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-handbook/"/>
-        <updated>2023-08-31T14:22:03.000Z</updated>
-        <summary type="html"><![CDATA[In programming, an array is a data structure that contains a collection of elements. Arrays are very useful because you can store, access, and manipulate multiple elements in a single array. In this handbook, you'll learn how to work with arrays in JavaScript. We'll cover the specific rules you need]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
         </author>
     </entry>
 </feed>
