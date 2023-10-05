@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.",
+          "link": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
+          "publishedOn": "2023-10-03T10:00:00.000Z",
+          "wordCount": 4173,
+          "title": "The Problem With WordPress Is Positioning, Not Plugins",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/problem-wordpress-positioning-not-plugins/problem-wordpress-positioning-not-plugins.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/problem-wordpress-positioning-not-plugins/problem-wordpress-positioning-not-plugins.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.",
@@ -235,21 +250,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "In this article, Joas Pambou builds the tool to provide a sentiment score in **real-time** with enhanced user experience by providing multilingual support. You will use an OpenAI library called Whisper that transcribes audio files into text and detects the language, and Gradio, a UI framework, to establish the interface.",
-          "link": "https://smashingmagazine.com/2023/09/generating-real-time-audio-sentiment-analysis-ai/",
-          "publishedOn": "2023-09-04T13:00:00.000Z",
-          "wordCount": 5394,
-          "title": "Generating Real-Time Audio Sentiment Analysis With AI",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/generating-real-time-audio-sentiment-analysis-ai/generating-real-time-audio-sentiment-analysis-ai.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/generating-real-time-audio-sentiment-analysis-ai/generating-real-time-audio-sentiment-analysis-ai.jpg"
         }
       ]
     },
@@ -258,6 +258,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/html-lists-with-examples/",
+          "author": "Joan Ayebola",
+          "description": "Imagine you're creating an article with a list of recommendations or a web page with a menu of options. How do you structure this information to make it visually appealing and easy to navigate?  This is where HTML lists come to the rescue. In this article, we'll dive into",
+          "link": "https://www.freecodecamp.org/news/html-lists-with-examples/",
+          "publishedOn": "2023-10-04T16:01:18.000Z",
+          "wordCount": 1717,
+          "title": "HTML Lists – Ordered, Unordered and Definition List Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Blue-And-White-Modern-Effective-Leadership-In-Business-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/",
+          "author": "Hrittik Roy",
+          "description": "Modern software development workflows are complicated, involving many tools and dependencies.  When working in a team, it's not uncommon to use several different software programs, each with its own dependencies. This can quickly become confusing, with each software requiring different configurations and management.  One solution is to use",
+          "link": "https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/",
+          "publishedOn": "2023-10-04T14:45:34.000Z",
+          "wordCount": 2550,
+          "title": "How to Standardize Your Development Environment with devcontainer.json",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/image--9-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/increase-your-vs-code-productivity/",
+          "author": "Beau Carnes",
+          "description": "Have you watched a seasoned developer work in Visual Studio Code (VS Code) and wondered how they make it look so effortless? The freeCodeCamp YouTube channel is here to help you unlock your coding superpowers with a new course we just published about increasing your productivity in VS Code. Chris",
+          "link": "https://www.freecodecamp.org/news/increase-your-vs-code-productivity/",
+          "publishedOn": "2023-10-04T14:05:32.000Z",
+          "wordCount": 1006,
+          "title": "Increase Your VS Code Productivity",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/productivevscode.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/firebase-remote-config/",
           "author": "Tomer Ben Rachel",
@@ -277,6 +307,16 @@
           "wordCount": 1001,
           "title": "Learn SvelteKit and Tailwind CSS by Building a Web Portfolio",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/sveltekit.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/freecodecamp-portuguese-podcast/",
+          "author": "Nielda Karla",
+          "description": "Hello everyone! My name is Nielda Karla and I'm thrilled to announce the launch of our new podcast: freeCodeCamp Podcast em Português [https://www.freecodecamp.org/portuguese/news/freecodecamp-podcast-em-portugues/] . On this podcast, you'll hear the stories of those making a difference in the Portuguese-speaking developer community – each with their own unique journey.  Our",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-portuguese-podcast/",
+          "publishedOn": "2023-10-03T13:25:37.000Z",
+          "wordCount": 962,
+          "title": "New Portuguese freeCodeCamp Podcast",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/podcast-cover-portuguese-Nielda-1300---700-px-.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/freecodecamp-is-launching-a-podcast-in-portuguese/",
