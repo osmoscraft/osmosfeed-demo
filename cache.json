@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.",
+          "link": "https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/",
+          "publishedOn": "2023-10-05T12:00:00.000Z",
+          "wordCount": 5358,
+          "title": "Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-modern-css-part2/re-creating-pop-out-hover-effect-modern-css-part2.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-modern-css-part2/re-creating-pop-out-hover-effect-modern-css-part2.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.",
@@ -235,21 +250,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rediscovering-joy-design/rediscovering-joy-happiness-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/long-live-test-pyramid/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "Is the Test Pyramid really dead? Discover the more contemporary testing strategies and evaluate the Test Pyramid’s relevance in today’s software development practices.",
-          "link": "https://smashingmagazine.com/2023/09/long-live-test-pyramid/",
-          "publishedOn": "2023-09-06T11:00:00.000Z",
-          "wordCount": 5116,
-          "title": "Long Live The Test Pyramid",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/long-live-test-pyramid/long-live-test-pyramid.jpg"
         }
       ]
     },
@@ -258,6 +258,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/",
+          "author": "Casmir Onyekani",
+          "description": "Imagine putting in a ton of work to build a web application. And then it works in the Chrome browser, but misbehaves in Mozilla, Safari, or any other browser. As a web developer, you're likely eager to create amazing web applications that reach users across the globe. But one major",
+          "link": "https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/",
+          "publishedOn": "2023-10-05T23:40:10.000Z",
+          "wordCount": 3160,
+          "title": "Cross-Browser Compatibility Testing – Best Practices for Web Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cross-browser-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/",
+          "author": "Tomer Ben Rachel",
+          "description": "Getting a user’s location can be a bit of hassle. Over the years, the permissions required to do this and the logic associated with it have changed quite drastically.  If your application depends on getting the user’s location, you want to ensure that the user has a good experience",
+          "link": "https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/",
+          "publishedOn": "2023-10-05T19:28:42.000Z",
+          "wordCount": 2480,
+          "title": "How to Request Location Permissions in Jetpack Compose",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/andrew-stutesman-l68Z6eF2peA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/",
+          "author": "Beau Carnes",
+          "description": "When learning how to build a web app it can be helpful to see how everything works together, instead of learning a lot of technologies individually. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a full-stack e-commerce website with",
+          "link": "https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/",
+          "publishedOn": "2023-10-05T15:36:56.000Z",
+          "wordCount": 938,
+          "title": "Build and Deploy an Ecommerce Site with Next.js, Tailwind CSS, Prisma, Vercel, and daisyUI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/NEXTECOMMERCE.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-arduino-handbook/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Arduino is an open-source platform that combines hardware and software in designing and building electronic projects. Arduino can be applied in a variety of projects like:  * Home automation.  * Internet of Things (IoT).  * Audio and music.  * Automated and remote controlled systems.  *",
+          "link": "https://www.freecodecamp.org/news/the-arduino-handbook/",
+          "publishedOn": "2023-10-05T13:15:02.000Z",
+          "wordCount": 14249,
+          "title": "The Arduino Handbook – Learn Microcontrollers for Embedded Systems",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-Arduino-Handbook-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/html-lists-with-examples/",
           "author": "Joan Ayebola",
@@ -1067,106 +1107,6 @@
           "wordCount": 882,
           "title": "HTML, CSS, and JavaScript Project in Spanish – Create a Pokédex",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Thumbnail-Pokedex.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to take your web development skills to the next level and learn a bit about how platforms like Google Drive work under the hood?  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to build a Google Drive clone with",
-          "link": "https://www.freecodecamp.org/news/full-stack-web-development-by-building-a-google-drive-clone-nextjs-firebase/",
-          "publishedOn": "2023-09-06T12:38:00.000Z",
-          "wordCount": 1001,
-          "title": "Full Stack Web Dev with Next.js & Firebase – Google Drive Clone",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/drivenext.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tdd-in-android-apps/",
-          "author": "Siamak Mahmoudi",
-          "description": "TDD, or Test-Driven Development, is a software development approach where tests are written before the actual code is implemented.  It requires a clear understanding of \"What\" and \"How\" in the the requirements of the project/feature.  TDD helps to write less, but enough code. It helps prevent common software",
-          "link": "https://www.freecodecamp.org/news/tdd-in-android-apps/",
-          "publishedOn": "2023-09-06T06:34:34.000Z",
-          "wordCount": 5109,
-          "title": "Test Driven Development in Android Apps – A Practical Guide to TDD",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/TDD--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-manage-users-in-linux/",
-          "author": "Destiny Erhabor",
-          "description": "Linux is an open-source operating system that is widely used in various applications due to its flexibility, stability, and security. One of the fundamental aspects of Linux is user management, which enables administrators to control access to resources and maintain security of the system. In the fast-paced world of technology,",
-          "link": "https://www.freecodecamp.org/news/how-to-manage-users-in-linux/",
-          "publishedOn": "2023-09-06T00:08:04.000Z",
-          "wordCount": 3154,
-          "title": "How to Manage Users in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/gabriel-heinzer-xbEVM6oJ1Fs-unsplash-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/accessibilty-websites-for-developers/",
-          "author": "Ilknur Eren",
-          "description": "Accessibility is never a \"nice-to-have\" requirement when it comes to developing websites and apps. It's a \"must-have\" that should be an integral part of your design and development process.  Ensuring good accessibility is a fundamental responsibility for developers. It can help their applications provide an equitable experience for all",
-          "link": "https://www.freecodecamp.org/news/accessibilty-websites-for-developers/",
-          "publishedOn": "2023-09-05T22:49:13.000Z",
-          "wordCount": 1515,
-          "title": "Accessibility Resources for Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/a11y.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-react-components/",
-          "author": "Casmir Onyekani",
-          "description": "If you're curious about web development, you've probably heard the buzz about React. React is an open-source JavaScript library used for building user interfaces (UIs) in web applications. It has taken the web development world by storm. One of the key concepts in React is components. In this tutorial, we'll",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-components/",
-          "publishedOn": "2023-09-05T22:21:24.000Z",
-          "wordCount": 2108,
-          "title": "How to Use React Components – Props, Default Props, and PropTypes Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/React-compo-2-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-ai-generated-code/",
-          "author": "Sonya Moisset",
-          "description": "At the heart of software development lies code. It's a set of sequential instructions that allow computers to run programs and applications.  The act of writing code has always rested squarely upon the shoulders of skilled programmers. It's been a distinctly human endeavor.  But the this process is",
-          "link": "https://www.freecodecamp.org/news/how-to-use-ai-generated-code/",
-          "publishedOn": "2023-09-05T20:46:49.000Z",
-          "wordCount": 4730,
-          "title": "How to Use AI-Generated Code in a Safe and Effective Way",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/programmer-cyberpunk-580033800-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/",
-          "author": "Beau Carnes",
-          "description": "Large Language Models like ChatGPT can be used to increase your productivity on a ton of different types of tasks. To use LLMs effectively, it is important to understand prompt engineering strategies.  We just published a crash course on the freeCodeCamp.org YouTube channel that will teach you how to",
-          "link": "https://www.freecodecamp.org/news/learn-prompt-engineering-full-course/",
-          "publishedOn": "2023-09-05T17:23:37.000Z",
-          "wordCount": 780,
-          "title": "Learn Prompt Engineering – Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/prompt_engineering_course.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-animated-bubbles-with-html5-canvas-and-javascript/",
-          "author": "Shruti Kapoor",
-          "description": "Hello everyone! Welcome to this tutorial where we're going to dive into the world of creating fun bubbles in code using HTML canvas and JavaScript. The best part? We'll achieve all of this using just a touch of HTML and all JavaScript, no CSS. What we will learn In",
-          "link": "https://www.freecodecamp.org/news/how-to-create-animated-bubbles-with-html5-canvas-and-javascript/",
-          "publishedOn": "2023-09-05T14:08:02.000Z",
-          "wordCount": 2116,
-          "title": "How to Create Animated Bubbles with HTML5 Canvas and JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/shrutikapoor.dev--11-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-beginners-guide-to-sql/",
-          "author": "Lane Wagner",
-          "description": "SQL is everywhere these days. Whether you're learning backend development [https://www.boot.dev/], data engineering, DevOps, or data science, SQL is a skill you'll want in your toolbelt. This a free and open text-based handbook. If you want to get started, just scroll down and start reading. That said, there are two",
-          "link": "https://www.freecodecamp.org/news/a-beginners-guide-to-sql/",
-          "publishedOn": "2023-09-05T13:57:37.000Z",
-          "wordCount": 10247,
-          "title": "The SQL Handbook – A Free Course for Web Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/The-SQL-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/databricks-sql-handbook/",
-          "author": "Atharva Shah",
-          "description": "Welcome to the Databricks Delta Lake with SQL Handbook! Databricks is a unified analytics platform that brings together data engineering, data science, and business analytics into a collaborative workspace.  Delta Lake, a powerful storage layer built on top of Databricks, provides enhanced reliability, performance, and data quality for big",
-          "link": "https://www.freecodecamp.org/news/databricks-sql-handbook/",
-          "publishedOn": "2023-09-05T13:57:32.000Z",
-          "wordCount": 7301,
-          "title": "How to Use Databricks Delta Lake with SQL – Full Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Databricks-Delta-Lake-with-SQL-Handbook-Cover.png"
         }
       ]
     }
