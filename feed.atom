@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-06T00:55:06.333Z</updated>
+    <updated>2023-10-07T00:54:19.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate from create-react-app to Vite using Jest and Browserslist]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/"/>
+        <updated>2023-10-06T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The React team no longer recommends using create-react-app (CRA) [https://github.com/facebook/create-react-app] as a bundler to create a new React application. The team and community realized that even though CRA was a jump-starter, it lacked the flexibility needed to configure or manage large and complex applications. Nowadays, the team recommends using production-grade]]></summary>
+        <author>
+            <name>Saheed Oladele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use URLs for State Management in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-urls-for-state-management-in-react/"/>
+        <updated>2023-10-06T17:50:28.000Z</updated>
+        <summary type="html"><![CDATA[For years, URLs have been synonymous with web navigation. But the tide is turning, especially with the emergence of single-page applications. In the React universe, URLs are stepping up to play a pivotal role in state management. This article will guide you through the transformative journey of URLs as state]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ethics of AI and ML]]></title>
+        <id>https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/</id>
+        <link href="https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/"/>
+        <updated>2023-10-06T15:16:06.000Z</updated>
+        <summary type="html"><![CDATA[The rapid ascent of Artificial Intelligence (AI) and Machine Learning (ML) into mainstream technology and its influence on various sectors of our society raises a series of profound ethical questions. It's not just about the technical ability of these systems but the ethical implications that could shape our future.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cross-Browser Compatibility Testing – Best Practices for Web Developers]]></title>
         <id>https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/</id>
@@ -942,76 +972,6 @@
         <summary type="html"><![CDATA[Creating a full-featured YouTube clone requres a deep understanding of a wide variety of technologies. If you want to gain that understading, we have a course for you. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use the T3 stack to create]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Remove Empty Rows and Columns in Google Sheets]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-remove-empty-rows-and-columns-in-google-sheets/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-remove-empty-rows-and-columns-in-google-sheets/"/>
-        <updated>2023-09-07T07:10:42.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to remove empty rows and columns from Google Sheets using Google Apps Script. A while ago I wrote an article on how to remove empty rows and columns from Google Sheets [https://kcl.hashnode.dev/how-to-delete-empty-rows-and-columns-in-google-sheets] .  I recently revisited that article and I now present]]></summary>
-        <author>
-            <name>Nibesh Khadka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Diagrams as Code with Mermaid, GitHub, and Visual Studio Code]]></title>
-        <id>https://www.freecodecamp.org/news/diagrams-as-code-with-mermaid-github-and-vs-code/</id>
-        <link href="https://www.freecodecamp.org/news/diagrams-as-code-with-mermaid-github-and-vs-code/"/>
-        <updated>2023-09-06T20:51:45.000Z</updated>
-        <summary type="html"><![CDATA[Diagrams are an important part of technical documentation. In this article we will explore how we can use code to generate diagrams and leverage them in Markdown.  Here is an example of how a code generated diagram looks like: Diagram generated by codeNo tools, no dragging, aligning and snapping]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open-Source Projects – A Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-contribute-to-open-source-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-handbook/"/>
-        <updated>2023-09-06T15:39:30.000Z</updated>
-        <summary type="html"><![CDATA[Over the past decade, open-source projects have become the backbone of the technology ecosystem. They power everything from applications to innovations across different fields. These collaborative inventions bring together people with different skill sets including developers, designers, and tech enthusiasts in general with one goal in mind to build: to]]></summary>
-        <author>
-            <name>Hillary Nyakundi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal Processing and Systems in Programming – Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/signal-processing-and-systems-in-programming/</id>
-        <link href="https://www.freecodecamp.org/news/signal-processing-and-systems-in-programming/"/>
-        <updated>2023-09-06T14:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Signal processing is an important field in engineering and programming.  Basically, it allows engineers and programmers to improve data so that people can use it more effectively. For example, it is thanks to signal processing that much of the background noise in a phone call is removed. This way,]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Azure Kubernetes Service for Container Orchestration]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-azure-kubernetes-service-for-container-orchestration/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-azure-kubernetes-service-for-container-orchestration/"/>
-        <updated>2023-09-06T13:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Containerization has transformed the way applications are built, deployed, and scaled. Containers provide a lightweight, portable, and uniform environment for developers to bundle their programs as well as their dependencies into a single unit.  But when a system's container count rises, controlling and coordinating them becomes more difficult. Fortunately,]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Linear Regression Model – Machine Learning Example]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-linear-regression-model-with-an-example/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-linear-regression-model-with-an-example/"/>
-        <updated>2023-09-06T13:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Ever since the launch of OpenAI's ChatGPT, everyone wants to learn about AI and ML.  Not only that – everyone wants to build and release an AI product on their own to mark their position in the global competition.  And if you already own a SaaS product, you]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML, CSS, and JavaScript Project in Spanish – Create a Pokédex]]></title>
-        <id>https://www.freecodecamp.org/news/html-css-and-javascript-project-in-spanish-create-a-pokedex/</id>
-        <link href="https://www.freecodecamp.org/news/html-css-and-javascript-project-in-spanish-create-a-pokedex/"/>
-        <updated>2023-09-06T13:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Building projects is a great way to practice your skills, especially in web development. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will teach you how to build a Pokédex step by step with HTML, CSS, and JavaScript, using data from the PokéAPI [https://pokeapi.co/]. If you]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
         </author>
     </entry>
 </feed>
