@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Discover how to incorporate a variety of media formats, such as images, videos, GIFs, SVGs, and so on, in a Gatsby website. Juan Rodriguez shares what he’s learned about optimizing files for improved performance after working with different plugins and techniques.",
+          "link": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
+          "publishedOn": "2023-10-09T11:00:00.000Z",
+          "wordCount": 6131,
+          "title": "Gatsby Headaches: Working With Media (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/gatsby-headaches-working-media-part1/gatsby-headaches-working-media-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/gatsby-headaches-working-media-part1/gatsby-headaches-working-media-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
           "description": "Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.",
@@ -243,6 +258,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/",
+          "author": "Oluwatobi Sofela",
+          "description": "Web Storage is what the JavaScript API [https://codesweetly.com/application-programming-interface-api-explained]  browsers provide for storing data locally and securely within a user’s browser. Session and local storage are the two main types of web storage. They are similar to regular properties objects [https://codesweetly.com/javascript-properties-object], but they persist (do not disappear) when the webpage",
+          "link": "https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/",
+          "publishedOn": "2023-10-09T16:45:31.000Z",
+          "wordCount": 4183,
+          "title": "Web Storage Explained – How to Use localStorage and sessionStorage in JavaScript Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/web-storage-explained-local-and-session-storage-objects-in-javascript-codesweetly.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-images-in-html/",
+          "author": "Joan Ayebola",
+          "description": "Images are an essential part of web development, adding visual appeal and context to your web pages.  In HTML, you can easily incorporate images to enhance the user experience. This article will guide you through the basics of working with images in HTML and help you understand images in",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-images-in-html/",
+          "publishedOn": "2023-10-09T15:33:43.000Z",
+          "wordCount": 2221,
+          "title": "How to Work with Images in HTML – A Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Beige-and-Blue-Minimal-Modern-Thesis-Defense-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/api-integration-patterns/",
+          "author": "Daniel Adetunji",
+          "description": "API stands for Application Programming Interface. The “I” in API is the key part that explains its purpose. The interface is what the software presents to other humans or programs, allowing them to interact with it.  A good analogy for an interface is a remote control. Imagine you have",
+          "link": "https://www.freecodecamp.org/news/api-integration-patterns/",
+          "publishedOn": "2023-10-09T15:14:33.000Z",
+          "wordCount": 2572,
+          "title": "API Integration Patterns – The Difference between REST, RPC, GraphQL, Polling, WebSockets and WebHooks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/FCC-cover--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-migrate-from-create-react-app-to-vite/",
           "author": "Saheed Oladele",
