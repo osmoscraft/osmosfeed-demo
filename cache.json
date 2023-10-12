@@ -250,21 +250,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/facilitating-inclusive-online-workshops-part1/facilitating-inclusive-online-workshops.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/",
-          "author": "hello@smashingmagazine.com (Preethi Samathanam)",
-          "description": "Gradients are a powerful CSS feature. We use them for texture, depth, and even to hide parts of elements with CSS masking. This article covers another interesting way to use gradients — as a hover effect that affects the appearance of other elements around the hovered element.",
-          "link": "https://smashingmagazine.com/2023/09/gradients-blend-modes-hover-effect/",
-          "publishedOn": "2023-09-11T15:00:00.000Z",
-          "wordCount": 3992,
-          "title": "Gradients, Blend Modes, And A Really Cool Hover Effect",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/gradients-blend-modes-hover-effect/gradients-blend-modes-hover-effect.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/gradients-blend-modes-hover-effect/gradients-blend-modes-hover-effect.jpg"
         }
       ]
     },
@@ -273,6 +258,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/write-better-java-code-pattern-matching-sealed-classes/",
+          "author": "Sameer Shukla",
+          "description": "This article explores how you can improve your Java code quality using Pattern Matching and Sealed Classes.  Java Pattern Matching allows you to write more concise and readable code when working with complex data structures. It simplifies extracting data from data structures and performing operations on them.  Let's",
+          "link": "https://www.freecodecamp.org/news/write-better-java-code-pattern-matching-sealed-classes/",
+          "publishedOn": "2023-10-11T15:48:42.000Z",
+          "wordCount": 1985,
+          "title": "How to Write Better Java Code using Pattern Matching and Sealed Classes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Pattern-Matching.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-and-deploy-a-full-stack-notion-clone-with-next-js-dall-e-vercel/",
+          "author": "Beau Carnes",
+          "description": "Web development has never been more exciting. The influx of new technologies and tools is reshaping the boundaries of what developers can create. At the epicenter of this transformation is the ability to integrate diverse systems seamlessly, creating powerful web applications. We just published a course on the freeCodeCamp.org YouTube",
+          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-full-stack-notion-clone-with-next-js-dall-e-vercel/",
+          "publishedOn": "2023-10-11T14:17:39.000Z",
+          "wordCount": 900,
+          "title": "Build and Deploy a Full Stack Notion Clone with Next.js, DALL-E, Vercel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/notion-clone.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/prompt-engineering-for-web-developers/",
           "author": "Beau Carnes",
@@ -1002,66 +1007,6 @@
           "wordCount": 1066,
           "title": "Fundamentals of Finance & Economics for Businesses",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/finance.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/",
-          "author": "Vikram Aruchamy",
-          "description": "Amazon Simple Storage Service (S3) is a highly scalable, durable, and available object storage service. It is designed to store any amount of data, anytime, from anywhere on the web.  S3 is a key component of the Amazon Web Services (AWS) cloud platform. AWS Lambda is a serverless computing",
-          "link": "https://www.freecodecamp.org/news/read-csv-file-from-s3-bucket-in-aws-lambda/",
-          "publishedOn": "2023-09-12T10:44:09.000Z",
-          "wordCount": 1928,
-          "title": "How to Read a CSV File from S3 Bucket in AWS Lambda - A Definitive Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/unnamed.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
-          "author": "Oluwatobi Sofela",
-          "description": "CSS transitions and animations provide smooth, gradual ways to change an element's style. But they work in different ways. Here are the main distinctions between them: CSS Transition CSS Animation  * Creates smooth transitions from one CSS value to    another.   * You need triggers",
-          "link": "https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/",
-          "publishedOn": "2023-09-12T00:20:36.000Z",
-          "wordCount": 5908,
-          "title": "CSS Transition vs Animation Handbook – How to Animate Elements in CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/How-to-Animate-Elements-in-CSS-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-reactjs-code/",
-          "author": "Neha sharma",
-          "description": "ReactJS is one of the most popular JavaScript libraries for building scalable and performant applications.  When you're working on ReactJS projects, whether they're large or small, you'll need to focus on code quality, readability, maintainable, and scalability.  Writing good code will also help you reduce PR comments from",
-          "link": "https://www.freecodecamp.org/news/improve-reactjs-code/",
-          "publishedOn": "2023-09-11T20:34:10.000Z",
-          "wordCount": 3586,
-          "title": "How to Improve Your ReactJS Code – Tips for Code Readability and Performance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/08/Group-5.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/",
-          "author": "Chris Williams",
-          "description": "I've been meaning to get my Terraform associates certification for some time now, but something always got in the way.  Finally I was able to sit down and work my way through the study materials. Currently Andrew Brown and I are creating two Terraform Bootcamps: one for beginners [https://terraform.cloudprojectbootcamp.com/]",
-          "link": "https://www.freecodecamp.org/news/terraform-certified-associate-003-study-notes/",
-          "publishedOn": "2023-09-11T19:17:49.000Z",
-          "wordCount": 6260,
-          "title": "Terraform Certified Associate (003) – How to Study for the Exam",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/terraform-course.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-no-code-game-with-gdevelop/",
-          "author": "Beau Carnes",
-          "description": "Have you ever dreamt of designing a video game but found yourself hesitant because of the coding aspect? Well, you can create your own came without code! We just released a course on the freeCodeCamp.org that will guide you through the creation of a wave defense game, all without having",
-          "link": "https://www.freecodecamp.org/news/create-a-no-code-game-with-gdevelop/",
-          "publishedOn": "2023-09-11T19:11:45.000Z",
-          "wordCount": 944,
-          "title": "Create a no-code game with GDevelop",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/gdevelop.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-requirementstxt-explained/",
-          "author": "Tantoluwa Heritage Alabi",
-          "description": "There are many Python packages we use to solve our coding problems daily. Take, for instance, the library \"Beautiful Soup,\" – it doesn't come with Python by default and needs to be installed separately.  Many projects rely on libraries and other dependencies, and installing each one can be tedious",
-          "link": "https://www.freecodecamp.org/news/python-requirementstxt-explained/",
-          "publishedOn": "2023-09-11T14:17:18.000Z",
-          "wordCount": 1451,
-          "title": "Python Requirements.txt – How to Create and Pip Install Requirements.txt in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/pexels-christina-morillo-1181671--1-.jpg"
         }
       ]
     }
