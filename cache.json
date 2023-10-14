@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-guide-part1/",
+          "author": "hello@smashingmagazine.com (Daria Karpenko)",
+          "description": "Fintech products are systems that are overloaded by many types of data like numerals, texts, spreadsheets, and so on. Working with these products requires the designer to pay a high level of attention and responsibility, as he becomes a provider between user and data. Daria shares her approach to digital product typography and reviews the key points to consider when choosing typefaces.",
+          "link": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-guide-part1/",
+          "publishedOn": "2023-10-13T11:00:00.000Z",
+          "wordCount": 5432,
+          "title": "How To Choose Typefaces For Fintech Products: Our Best Practices Guide (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
           "author": "hello@smashingmagazine.com (Slava Shestopalov)",
           "description": "Working in the area of UX sometimes feels like a crime drama. Can’t believe it? Then look at these fun parallels between modern UX practices and a classical TV detective.",
@@ -258,6 +273,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/posgresql-course-for-beginners/",
+          "author": "Beau Carnes",
+          "description": "In the realm of databases, making the right decision about which system to adopt can make or break the fluidity and efficiency of your applications. PostgreSQL, an open-source relational database, has increasingly become the go-to choice for developers worldwide.  We just posted a full PostgreSQL course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/posgresql-course-for-beginners/",
+          "publishedOn": "2023-10-13T14:02:48.000Z",
+          "wordCount": 876,
+          "title": "PostgreSQL Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/postgresql.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/add-numbers-in-excel/",
+          "author": "Eamonn Cottrell",
+          "description": "Did you know you can write Python code in a spreadsheet? You'd be surprised how many different ways there are to do things in Excel. Below, I'll show you 9 ways to add two or more numbers. You can skip to a certain section if you'd like to see that",
+          "link": "https://www.freecodecamp.org/news/add-numbers-in-excel/",
+          "publishedOn": "2023-10-12T21:02:58.000Z",
+          "wordCount": 2010,
+          "title": "How to Add Numbers in Excel",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/add-numbers-thumb-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/project-based-learning/",
+          "author": "Nathanael Adam",
+          "description": "In this article you’ll learn about project-based learning – how to get started, how to get ideas for a project, and more. Tutorial hell is real, and it's a terrible place to be in. Project-based learning is the best way to grow as a developer. You’ve probably heard that piece",
+          "link": "https://www.freecodecamp.org/news/project-based-learning/",
+          "publishedOn": "2023-10-12T18:37:42.000Z",
+          "wordCount": 3375,
+          "title": "How to Use Project-Based Learning to Become a Better Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-vlada-karpovich-4050315.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/build-basic-forms-with-html/",
           "author": "Joan Ayebola",
@@ -947,36 +992,6 @@
           "wordCount": 2715,
           "title": "How to Contribute to Open Source Projects – Non-Technical Things You Should Know",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/How-to-Contribute-to-Open-Source-Projects-Non-Technical-Things-You-Should-Know--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/return-results-from-a-python-function-when-library-is-blocking-the-way/",
-          "author": "David A. Kra",
-          "description": "Usually a Python function passes its results back using a return statement. The problem is that sometimes it can't, so you need to figure out a different way to return those results.  This happens, most often, when someone else's library's interface is in the way, and you can't change",
-          "link": "https://www.freecodecamp.org/news/return-results-from-a-python-function-when-library-is-blocking-the-way/",
-          "publishedOn": "2023-09-14T10:46:14.000Z",
-          "wordCount": 6854,
-          "title": "How to Return Results from a Python Function to Your Program When a Library is Blocking the Way",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/master-gmd-gmd370-g3701-g3701s-cw0011000.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/vector-embeddings-course/",
-          "author": "Beau Carnes",
-          "description": "Vector embeddings are a key concept in the realm of machine learning and artificial intelligence. They bridge the gap between human language and machine understanding. We just posted a course on the freeCodeCamp.org YouTube channel that will teach out about vector embeddings and how to create an AI assistant. Ania",
-          "link": "https://www.freecodecamp.org/news/vector-embeddings-course/",
-          "publishedOn": "2023-09-14T02:18:53.000Z",
-          "wordCount": 933,
-          "title": "Use Vector Embeddings to Create an AI Assistant",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/vector_embeddings_beginners.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-dynamic-programming-in-java/",
-          "author": "Beau Carnes",
-          "description": "Dynamic programming is a powerful technique that has been a cornerstone in the world of algorithms and computer science. It's a method that breaks down problems into smaller, more manageable sub-problems, solving each one only once and storing their solutions in case they're needed again. This approach is particularly useful",
-          "link": "https://www.freecodecamp.org/news/learn-dynamic-programming-in-java/",
-          "publishedOn": "2023-09-14T02:01:12.000Z",
-          "wordCount": 1071,
-          "title": "Learn Dynamic Programming Techniques in Java",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/dynamic.png"
         }
       ]
     }
