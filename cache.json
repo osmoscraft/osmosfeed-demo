@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In today’s Smashing Podcast episode, we’re talking about Tech Unions. What part can unions play in a modern tech workplace? Drew McLellan talks to Ethan Marcotte to find out.",
+          "link": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
+          "publishedOn": "2023-10-17T16:00:00.000Z",
+          "wordCount": 8326,
+          "title": "Smashing Podcast Episode 66 With Ethan Marcotte: What Is A Tech Union?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-66/smashing-podcast-episode-66.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-66/smashing-podcast-episode-66.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "In the final part of this two-part series on solving headaches when working with media files in Gatsby projects, Juan Rodriguez demonstrates strategies and techniques for handling various types of documents, including Markdown files, PDFs, and 3D models.",
@@ -273,6 +288,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/secure-routes-in-next-js/",
+          "author": "Edeh Israel Chidera",
+          "description": "Web applications often handle sensitive data and admin functionalities that should only be accessible to authenticated users. In such cases, route protection becomes crucial for safeguarding these routes from unauthorized access.  In this tutorial, we'll explore how to protect routes in Next.js 13 using three different methods. We'll learn",
+          "link": "https://www.freecodecamp.org/news/secure-routes-in-next-js/",
+          "publishedOn": "2023-10-17T14:42:10.000Z",
+          "wordCount": 2468,
+          "title": "How to Secure Routes in Next.js 13 – Client-Side, Server-Side, and Middleware-Based Protection",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/fly-d-ZNOxwCEj5mw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-a-design-system/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "You may have heard of, studied, or used a design system at some point in your coding career. But what role do design systems actually play in our projects? Why should we even bother to create or use them? In this guide, you'll be learning what design systems are, why",
+          "link": "https://www.freecodecamp.org/news/how-to-use-a-design-system/",
+          "publishedOn": "2023-10-17T14:37:29.000Z",
+          "wordCount": 3151,
+          "title": "How to Use a Design System – a Case Study",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-toa-heftiba-s-inca-1194420.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/create-a-fully-animated-sidebar/",
           "author": "Yazdun Fadali",
@@ -982,16 +1017,6 @@
           "wordCount": 906,
           "title": "Build and Deploy an AI SaaS with Paid Subscriptions",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/saas.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/",
-          "author": "Jose Vicente Nunez",
-          "description": "I was tasked recently to find which of our processes was accessing a NFS share [https://en.wikipedia.org/wiki/Network_File_System]. During this process, I found that some tools are better adapted than others for the task. In this article, I want to share with you my findings. The whole process was fun and gave",
-          "link": "https://www.freecodecamp.org/news/how-to-confirm-your-application-is-using-nfs/",
-          "publishedOn": "2023-09-18T06:54:37.000Z",
-          "wordCount": 4154,
-          "title": "Network File System – How to Confirm Your Application is Using NFS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/article-raspberrypi-cover.jpg"
         }
       ]
     }
