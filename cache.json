@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "CSS loaders and progress indicators are some of the most widely used examples in tutorials and documentation. In this article, Preethi demonstrates an approach using animated custom properties, a conic gradient, CSS `offset`, and emoji to create the illusion of a scooter racing along a donut track.",
+          "link": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
+          "publishedOn": "2023-10-18T12:00:00.000Z",
+          "wordCount": 4985,
+          "title": "How To Animate Along A Path In CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/animate-along-path-css/animate-along-path-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/animate-along-path-css/animate-along-path-css.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
           "author": "hello@smashingmagazine.com (Drew McLellan)",
           "description": "In today’s Smashing Podcast episode, we’re talking about Tech Unions. What part can unions play in a modern tech workplace? Drew McLellan talks to Ethan Marcotte to find out.",
@@ -265,21 +280,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/facilitating-inclusive-online-workshops-part2/facilitating-inclusive-online-workshops-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "This article is a peek behind the curtain of how content is managed here at Smashing Magazine. In it, you’ll get a tour of an article’s full lifecycle, from a basic outline to the sort of thing you’re reading right this second.",
-          "link": "https://smashingmagazine.com/2023/09/smashing-magazine-tinacms-manage-editorial-workflow/",
-          "publishedOn": "2023-09-18T18:00:00.000Z",
-          "wordCount": 4779,
-          "title": "How Smashing Magazine Uses TinaCMS To Manage An Editorial Workflow",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-magazine-tinacms-manage-editorial-workflow/tina-editor.png"
         }
       ]
     },
@@ -288,6 +288,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "You can use data insights derived from your website or app to make important decisions that'll help grow your business. This information can help you improve user experience, create effective content strategies, and so on. Google Analytics is an effective tool for tracking and analyzing traffic and events on your",
+          "link": "https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/",
+          "publishedOn": "2023-10-18T18:07:14.000Z",
+          "wordCount": 1986,
+          "title": "How to Add Google Analytics to your Astro Website",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/andy-hermawan-bVBvv5xlX3g-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-css-flexbox-handbook/",
+          "author": "Benjamin Semah",
+          "description": "Flexbox is a useful tool for creating beautiful and responsive layouts for web pages. In this guide, you will learn everything you need to know to start using CSS Flexbox like a pro. We'll also go through loads of practice examples. This is a perfect resource for you if you",
+          "link": "https://www.freecodecamp.org/news/the-css-flexbox-handbook/",
+          "publishedOn": "2023-10-18T17:25:54.000Z",
+          "wordCount": 4695,
+          "title": "The CSS Flexbox Handbook – Complete Guide with Practical Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-CSS-Flexbox-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/",
+          "author": "Beau Carnes",
+          "description": "Chatbots are being used everywhere. And an AI chatbot is a great project to help learn the MERN Stack. We just posted a new video course on the freeCodeCamp.org YouTube channel that will teach you how to create an AI chatbot with the MERN Stack. This course was created by",
+          "link": "https://www.freecodecamp.org/news/build-an-ai-chatbot-with-the-mern-stack/",
+          "publishedOn": "2023-10-18T13:30:01.000Z",
+          "wordCount": 993,
+          "title": "Build an AI Chatbot with the MERN Stack",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/mernai.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-avoid-breaking-your-react-app-in-production/",
+          "author": "Yogesh Chavan",
+          "description": "Did you know that your React application that's deployed to production can crash any time because of unhandled errors? Thankfully, React Error Boundaries are here to save the day! Whenever any type of error happens during the rendering of a component or in lifecycle methods, React displays a blank page",
+          "link": "https://www.freecodecamp.org/news/how-to-avoid-breaking-your-react-app-in-production/",
+          "publishedOn": "2023-10-17T23:13:21.000Z",
+          "wordCount": 2496,
+          "title": "How to Avoid Breaking Your React Application in Production",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cover_image.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-digital-products-store-with-medusa-and-next-js/",
+          "author": "Ashutosh Krishna",
+          "description": "In this tutorial, you will learn how to build an e-book online store using Medusa and Next.js. Throughout the course of the article, we will:  1. Utilize the Medusa Next.js Starter Template     [https://medusajs.com/nextjs-commerce/] along with the Digital Products     Recipe [https://docs.medusajs.com/recipes/digital-products] build",
+          "link": "https://www.freecodecamp.org/news/build-a-digital-products-store-with-medusa-and-next-js/",
+          "publishedOn": "2023-10-17T22:59:34.000Z",
+          "wordCount": 5343,
+          "title": "How to Build a Digital Products Store with Medusa and Next.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/digital-products.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/",
+          "author": "Kamaldeen Lawal",
+          "description": "If you want to improve your JavaScript code, you should understand how event bubbling and event capturing work. The ability to consistently run your code when certain events happen is crucial.  In this tutorial, you’ll learn about the following topics:  * What are Events in JavaScript?  *",
+          "link": "https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/",
+          "publishedOn": "2023-10-17T21:26:37.000Z",
+          "wordCount": 3148,
+          "title": "Event Bubbling and Event Capturing in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Event-Bubbling-and-Event-Capturing-in-JavaScript-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/secure-routes-in-next-js/",
           "author": "Edeh Israel Chidera",
@@ -997,26 +1057,6 @@
           "wordCount": 3367,
           "title": "JavaScript Concepts to Know Before Learning Node.js",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/JavaScript-Concepts-to-master-before-Node.js.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
-          "author": "Destiny Erhabor",
-          "description": "Serverless computing has revolutionized the way developers build and deploy applications in the cloud. It takes away the complexities of server management, allowing developers to focus solely on writing code and delivering value to their users. In the realm of serverless computing, AWS Lambda stands out as a leading platform",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-aws-lambda-with-serverless/",
-          "publishedOn": "2023-09-18T23:52:30.000Z",
-          "wordCount": 2211,
-          "title": "How to Deploy an AWS Lambda Function with Serverless Framework",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/joshua-woroniecki-lzh3hPtJz9c-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
-          "author": "Beau Carnes",
-          "description": "It is easier than ever to launch your own Software as a Service (SaaS) company! (The hard part is getting people interested in it). We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through every step of building and deploying a full-stack AI SaaS application.",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/",
-          "publishedOn": "2023-09-18T17:14:49.000Z",
-          "wordCount": 906,
-          "title": "Build and Deploy an AI SaaS with Paid Subscriptions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/saas.png"
         }
       ]
     }
