@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-19T00:55:17.816Z</updated>
+    <updated>2023-10-20T00:55:07.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your First Web Component]]></title>
+        <id>https://www.freecodecamp.org/news/build-your-first-web-component/</id>
+        <link href="https://www.freecodecamp.org/news/build-your-first-web-component/"/>
+        <updated>2023-10-19T20:35:35.000Z</updated>
+        <summary type="html"><![CDATA[In 2023, browser support for web components (also known as custom elements) is really good. There's never been a better time to start building your own custom elements. Web components, also known as custom elements, are new HTML elements that you create. These elements encapsulate some markup, style, and interactivity.]]></summary>
+        <author>
+            <name>Joe Attardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Stack Project Tutorial – Create a Recipe App Using React, Node.js and PostgreSQL]]></title>
+        <id>https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/</id>
+        <link href="https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/"/>
+        <updated>2023-10-19T20:31:03.000Z</updated>
+        <summary type="html"><![CDATA[In this in-depth tutorial, we'll build a full stack recipe app from scratch, using React, Node.js, Postgres and the Spoonacular API. We'll cover features such as:  * Building an API server in Node  * Integrating securely with a 3rd party API  * Interacting with a Postgres database]]></summary>
+        <author>
+            <name>Chris Blakely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Animation Techniques – CSS vs JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/web-animation-css-vs-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/web-animation-css-vs-javascript/"/>
+        <updated>2023-10-19T14:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Hover me]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Front End Developer Roadmap]]></title>
+        <id>https://www.freecodecamp.org/news/front-end-developer-roadmap/</id>
+        <link href="https://www.freecodecamp.org/news/front-end-developer-roadmap/"/>
+        <updated>2023-10-19T14:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Every week we publish a lot of great content on the freeCodeCamp.org YouTube channel. New people sometimes wonder where to start and what order to watch the courses. Well, if you want to become a front end developer, this is where to start. We just released our front end developer]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Breaking Changes for API and Event Schemas]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-breaking-changes/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-breaking-changes/"/>
+        <updated>2023-10-19T14:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Several years ago while designing APIs for an ecommerce company, I discovered the importance of API versioning. So I wrote about it in a freeCodeCamp [https://www.freecodecamp.org/news] article entitled How to Version a REST API [/news/how-to-version-a-rest-api/].  Now I find myself designing event schemas for sending messages across a distributed system.]]></summary>
+        <author>
+            <name>Tim Kleier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add Google Analytics to your Astro Website]]></title>
         <id>https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/</id>
@@ -933,26 +983,6 @@
         <summary type="html"><![CDATA[To help ensure the success of a workshop, Ben Shih introduces the concept of an inclusive workshop. In Part 2 of the series, you will continue to delve deeper into several key principles and guidelines that you can follow during and after the workshop to encourage an inclusive atmosphere.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ben Shih)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Beginner's Python Course]]></title>
-        <id>https://www.freecodecamp.org/news/ultimate-beginners-python-course/</id>
-        <link href="https://www.freecodecamp.org/news/ultimate-beginners-python-course/"/>
-        <updated>2023-09-20T12:26:54.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever considered venturing into the world of Python programming or if you're just looking for a comprehensive guide to help reinforce your existing knowledge, you're in for a treat. I'm excited to announce that Dave Gray, one of our most popular instructors, has returned to the freCodeCamp.org YouTube]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Concepts to Know Before Learning Node.js]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/"/>
-        <updated>2023-09-19T15:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Before Node.js came into existence,  JavaScript could only be run on the browser. It could only be used as a scripting language for frontend web development.  Then, Node.js came to free JavaScript from this confinement. It made JavaScript ubiquitous (meaning it could now be run everywhere). Node.js is a]]></summary>
-        <author>
-            <name>Musab Habeeb</name>
         </author>
     </entry>
 </feed>

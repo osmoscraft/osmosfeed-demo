@@ -289,6 +289,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/build-your-first-web-component/",
+          "author": "Joe Attardi",
+          "description": "In 2023, browser support for web components (also known as custom elements) is really good. There's never been a better time to start building your own custom elements. Web components, also known as custom elements, are new HTML elements that you create. These elements encapsulate some markup, style, and interactivity.",
+          "link": "https://www.freecodecamp.org/news/build-your-first-web-component/",
+          "publishedOn": "2023-10-19T20:35:35.000Z",
+          "wordCount": 1400,
+          "title": "How to Build Your First Web Component",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-just-another-photography-dude-68725.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/",
+          "author": "Chris Blakely",
+          "description": "In this in-depth tutorial, we'll build a full stack recipe app from scratch, using React, Node.js, Postgres and the Spoonacular API. We'll cover features such as:  * Building an API server in Node  * Integrating securely with a 3rd party API  * Interacting with a Postgres database",
+          "link": "https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/",
+          "publishedOn": "2023-10-19T20:31:03.000Z",
+          "wordCount": 7004,
+          "title": "Full Stack Project Tutorial – Create a Recipe App Using React, Node.js and PostgreSQL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/react-note-photo-gallery-app--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-animation-css-vs-javascript/",
+          "author": "Joan Ayebola",
+          "description": "Hover me",
+          "link": "https://www.freecodecamp.org/news/web-animation-css-vs-javascript/",
+          "publishedOn": "2023-10-19T14:54:50.000Z",
+          "wordCount": 2068,
+          "title": "Web Animation Techniques – CSS vs JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Addition-and-Subtraction-Word-Problems-Math-Presentation-Orange-in-Pink-and-Purple-Groovy-Style.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/front-end-developer-roadmap/",
+          "author": "Beau Carnes",
+          "description": "Every week we publish a lot of great content on the freeCodeCamp.org YouTube channel. New people sometimes wonder where to start and what order to watch the courses. Well, if you want to become a front end developer, this is where to start. We just released our front end developer",
+          "link": "https://www.freecodecamp.org/news/front-end-developer-roadmap/",
+          "publishedOn": "2023-10-19T14:23:48.000Z",
+          "wordCount": 2407,
+          "title": "Front End Developer Roadmap",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/frontendroadmap.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-breaking-changes/",
+          "author": "Tim Kleier",
+          "description": "Several years ago while designing APIs for an ecommerce company, I discovered the importance of API versioning. So I wrote about it in a freeCodeCamp [https://www.freecodecamp.org/news] article entitled How to Version a REST API [/news/how-to-version-a-rest-api/].  Now I find myself designing event schemas for sending messages across a distributed system.",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-breaking-changes/",
+          "publishedOn": "2023-10-19T14:18:25.000Z",
+          "wordCount": 1623,
+          "title": "How to Handle Breaking Changes for API and Event Schemas",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/7115374283_30d07f11c3_c-2.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-add-google-analytics-to-your-astro-website/",
           "author": "Ihechikara Vincent Abba",
           "description": "You can use data insights derived from your website or app to make important decisions that'll help grow your business. This information can help you improve user experience, create effective content strategies, and so on. Google Analytics is an effective tool for tracking and analyzing traffic and events on your",
@@ -1037,26 +1087,6 @@
           "wordCount": 946,
           "title": "Build an SEO-Optimized Blog with Next.js",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/blognext.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ultimate-beginners-python-course/",
-          "author": "Beau Carnes",
-          "description": "If you've ever considered venturing into the world of Python programming or if you're just looking for a comprehensive guide to help reinforce your existing knowledge, you're in for a treat. I'm excited to announce that Dave Gray, one of our most popular instructors, has returned to the freCodeCamp.org YouTube",
-          "link": "https://www.freecodecamp.org/news/ultimate-beginners-python-course/",
-          "publishedOn": "2023-09-20T12:26:54.000Z",
-          "wordCount": 1080,
-          "title": "Ultimate Beginner's Python Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/pythondave.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/",
-          "author": "Musab Habeeb",
-          "description": "Before Node.js came into existence,  JavaScript could only be run on the browser. It could only be used as a scripting language for frontend web development.  Then, Node.js came to free JavaScript from this confinement. It made JavaScript ubiquitous (meaning it could now be run everywhere). Node.js is a",
-          "link": "https://www.freecodecamp.org/news/javascript-concepts-to-know-before-learning-node-js/",
-          "publishedOn": "2023-09-19T15:12:57.000Z",
-          "wordCount": 3367,
-          "title": "JavaScript Concepts to Know Before Learning Node.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/JavaScript-Concepts-to-master-before-Node.js.png"
         }
       ]
     }
