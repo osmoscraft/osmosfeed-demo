@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-21T00:53:37.779Z</updated>
+    <updated>2023-10-22T00:58:58.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Roundup Of WCAG 2.2 Explainers]]></title>
+        <id>https://smashingmagazine.com/2023/10/roundup-wcag-explainers/</id>
+        <link href="https://smashingmagazine.com/2023/10/roundup-wcag-explainers/"/>
+        <updated>2023-10-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Install Node.js on Ubuntu – Node Linux Installation Guide]]></title>
         <id>https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu/</id>
@@ -901,56 +911,6 @@
         <link href="https://www.freecodecamp.org/news/rust-tutorial-authentication-server/"/>
         <updated>2023-09-22T16:02:43.000Z</updated>
         <summary type="html"><![CDATA[The Rust programming language is often used for system-level programming, emphasizing safety, concurrency, and performance, making it a popular choice for building systems software, game engines, and web browsers. An authentication server is another good use case for Rust. We just published a course on the freeCodeCamp.org YouTube channel that]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/</id>
-        <link href="https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/"/>
-        <updated>2023-09-22T12:35:14.000Z</updated>
-        <summary type="html"><![CDATA[The first time I learned about open source was through a tweet that promoted Hacktoberfest in 2019. And my first-ever accepted pull request was to add a book title in emojis to a list. You might think, "You can't count that as an open source contribution. That's a joke!" I]]></summary>
-        <author>
-            <name>Ayu Adiati</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Path To Awesome CSS Easing With The linear() Function]]></title>
-        <id>https://smashingmagazine.com/2023/09/path-css-easing-linear-function/</id>
-        <link href="https://smashingmagazine.com/2023/09/path-css-easing-linear-function/"/>
-        <updated>2023-09-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Is Hypothesis Testing? Types and Python Code Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-hypothesis-testing/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-hypothesis-testing/"/>
-        <updated>2023-09-22T00:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Curiosity has always been a part of human nature. Since the beginning of time, this has been one of the most important tools for birthing civilizations. Still, our curiosity grows — it tests and expands our limits. Humanity has explored the plains of land, water, and air. We've built underwater]]></summary>
-        <author>
-            <name>MENE-EJEGI OGBEMI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binary Classification with TensorFlow Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/</id>
-        <link href="https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/"/>
-        <updated>2023-09-21T14:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Binary classification is a fundamental task in machine learning, where the goal is to categorize data into one of two classes or categories.  Binary classification is used in a wide range of applications, such as spam email detection, medical diagnosis, sentiment analysis, fraud detection, and many more. In this]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Mojo Programming Language for AI Developers]]></title>
-        <id>https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/</id>
-        <link href="https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/"/>
-        <updated>2023-09-21T14:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Mojo combines the usability of Python with the performance of C, leading to greater programmability of AI hardware and extensibility of AI models. It's basically an enhanced version of Python specifically designed for Artificial Intelligence developers. We just posted a full Mojo course on the freeCodeCamp.org YouTube channel. Elliot Arledge]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>

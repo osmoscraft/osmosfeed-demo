@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.",
+          "link": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
+          "publishedOn": "2023-10-21T09:00:00.000Z",
+          "wordCount": 3936,
+          "title": "A Roundup Of WCAG 2.2 Explainers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-best-practices-guide-part2/",
           "author": "hello@smashingmagazine.com (Daria Karpenko)",
           "description": "Finding the right typeface is tricky as a whole. Dividing the process into steps and having the right information at hand will make this journey a design adventure full of surprises. To avoid sinking into unnecessary details, use this guide as a map for your path. Review various font paraments and learn how to apply them to your designs.",
@@ -265,21 +280,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/waterbear-building-free-platform-impactful-documentaries-part1/waterbear-building-free-platform-impactful-documentaries-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/path-css-easing-linear-function/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "With the new CSS `linear()` easing function on the horizon, the possibilities of what we can do to create natural-feeling animations and transitions in the future are greatly expanded. Jhey Tompkins looks at the current state of CSS easing in this article and demonstrates what we can expect from `linear()`, including handy tools to get your hands on it today.",
-          "link": "https://smashingmagazine.com/2023/09/path-css-easing-linear-function/",
-          "publishedOn": "2023-09-22T10:00:00.000Z",
-          "wordCount": 5052,
-          "title": "The Path To Awesome CSS Easing With The linear() Function",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/path-css-easing-linear-function/path-css-easing-linear-function.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/path-css-easing-linear-function/path-css-easing-linear-function.jpg"
         }
       ]
     },
@@ -1017,46 +1017,6 @@
           "wordCount": 1003,
           "title": "Rust Project – Create an Authentication Server",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/rustauthserver.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/",
-          "author": "Ayu Adiati",
-          "description": "The first time I learned about open source was through a tweet that promoted Hacktoberfest in 2019. And my first-ever accepted pull request was to add a book title in emojis to a list. You might think, \"You can't count that as an open source contribution. That's a joke!\" I",
-          "link": "https://www.freecodecamp.org/news/git-and-github-workflow-for-open-source/",
-          "publishedOn": "2023-09-22T12:35:14.000Z",
-          "wordCount": 3114,
-          "title": "How to Contribute to Open-Source Projects – Git & GitHub Workflow for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/A-beginner-guide-to-git---github-worflow--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-hypothesis-testing/",
-          "author": "MENE-EJEGI OGBEMI",
-          "description": "Curiosity has always been a part of human nature. Since the beginning of time, this has been one of the most important tools for birthing civilizations. Still, our curiosity grows — it tests and expands our limits. Humanity has explored the plains of land, water, and air. We've built underwater",
-          "link": "https://www.freecodecamp.org/news/what-is-hypothesis-testing/",
-          "publishedOn": "2023-09-22T00:41:23.000Z",
-          "wordCount": 2633,
-          "title": "What Is Hypothesis Testing? Types and Python Code Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Banner---Tech-writing---hypothesis.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/",
-          "author": "Arunachalam B",
-          "description": "Binary classification is a fundamental task in machine learning, where the goal is to categorize data into one of two classes or categories.  Binary classification is used in a wide range of applications, such as spam email detection, medical diagnosis, sentiment analysis, fraud detection, and many more. In this",
-          "link": "https://www.freecodecamp.org/news/binary-classification-made-simple-with-tensorflow/",
-          "publishedOn": "2023-09-21T14:21:22.000Z",
-          "wordCount": 2674,
-          "title": "Binary Classification with TensorFlow Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Binary-Classification-Made-Simple-with-TensorFlow.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/",
-          "author": "Beau Carnes",
-          "description": "Mojo combines the usability of Python with the performance of C, leading to greater programmability of AI hardware and extensibility of AI models. It's basically an enhanced version of Python specifically designed for Artificial Intelligence developers. We just posted a full Mojo course on the freeCodeCamp.org YouTube channel. Elliot Arledge",
-          "link": "https://www.freecodecamp.org/news/new-mojo-programming-language-for-ai-developers/",
-          "publishedOn": "2023-09-21T14:01:33.000Z",
-          "wordCount": 858,
-          "title": "New Mojo Programming Language for AI Developers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/mojo.png"
         }
       ]
     }
