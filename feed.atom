@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-23T00:55:32.287Z</updated>
+    <updated>2023-10-24T00:54:58.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Excel as a New Developer and Beat the Dunning-Kruger Trap]]></title>
+        <id>https://www.freecodecamp.org/news/the-dunning-kruger-effect/</id>
+        <link href="https://www.freecodecamp.org/news/the-dunning-kruger-effect/"/>
+        <updated>2023-10-23T21:00:12.000Z</updated>
+        <summary type="html"><![CDATA[What is the Dunning-Kruger Effect? Hey there, fellow developers! Imagine this. You've just landed your first tech job or maybe you're fresh out of a coding boot camp/university. You're pumped, excited, and ready to show the world with everything you've got.  But wait a minute—ever heard of the Dunning-Kruger]]></summary>
+        <author>
+            <name>Lee Ren Jie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Center Text Vertically with CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-center-text-vertically-with-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-text-vertically-with-css/"/>
+        <updated>2023-10-23T19:44:32.000Z</updated>
+        <summary type="html"><![CDATA[If you have some text inside a div, and nothing else, the div's height will match the text height. Suppose, though, you have some text and an image. Your text will be aligned at the bottom of the div, which is usually not what you want. In this article, you'll]]></summary>
+        <author>
+            <name>Joe Attardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Writing for Developers – Why You Should Have a Blog and How to Start One]]></title>
+        <id>https://www.freecodecamp.org/news/technical-writing-for-developers/</id>
+        <link href="https://www.freecodecamp.org/news/technical-writing-for-developers/"/>
+        <updated>2023-10-23T17:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Having a blog is a useful asset for developers. It can be a lead magnet, as well as a place where you can sell digital products you create.  It can also simply be the place where you build a loyal audience within your niche, share your knowledge and ideas,]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Docker Containers Work – Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/how-docker-containers-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-docker-containers-work/"/>
+        <updated>2023-10-23T16:45:13.000Z</updated>
+        <summary type="html"><![CDATA[A container is a lightweight, standalone, and executable software package that includes everything needed to run a piece of software. And one of the most popular tools for working with containers is Docker. Docker is both the name of the company (Docker Inc) and the software they have created which]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Removing Object Properties Tells Us About JavaScript]]></title>
+        <id>https://smashingmagazine.com/2023/10/removing-object-properties-javascript/</id>
+        <link href="https://smashingmagazine.com/2023/10/removing-object-properties-javascript/"/>
+        <updated>2023-10-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing in Python with Pytest]]></title>
+        <id>https://www.freecodecamp.org/news/testing-in-python-with-pytest/</id>
+        <link href="https://www.freecodecamp.org/news/testing-in-python-with-pytest/"/>
+        <updated>2023-10-23T12:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring the reliability and functionality of your code is crucial. This is where testing comes into play, serving as a safety net that helps catch bugs and verify that your application behaves as expected. We just published a pytest course on the freeCodeCamp.org YouTube channel. Pytest is one of the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Roundup Of WCAG 2.2 Explainers]]></title>
         <id>https://smashingmagazine.com/2023/10/roundup-wcag-explainers/</id>
@@ -873,26 +933,6 @@
         <summary type="html"><![CDATA[In most conversations about programming, speed, and efficiency in Java are reoccurring terms as it's a language native to these features. You might ask, what is Java? You may also wonder what it means for a programming language to be interpreted or compiled. Let's explore these concepts in the following]]></summary>
         <author>
             <name>Okoye Victor Chukwuebuka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Word Embeddings: The Building Blocks of NLP and GPTs]]></title>
-        <id>https://www.freecodecamp.org/news/understanding-word-embeddings-the-building-blocks-of-nlp-and-gpts/</id>
-        <link href="https://www.freecodecamp.org/news/understanding-word-embeddings-the-building-blocks-of-nlp-and-gpts/"/>
-        <updated>2023-09-24T12:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Word embeddings serve as the foundation for many applications, from simple text classification to complex machine translation systems. But what exactly are word embeddings, and how do they work? Let's find out. What Are Word Embeddings? Word embeddings serve as the digital DNA for words in the world of natural]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to HTML for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-html/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-html/"/>
-        <updated>2023-09-24T11:57:44.000Z</updated>
-        <summary type="html"><![CDATA[HTML, which stands for HyperText Markup Language, serves as the foundation of web development. It enables you to create interactive web pages, structure content, and effectively communicate your message.  In this guide, we'll explore HTML comprehensively, addressing essential questions to provide a strong foundation for budding web developers. The]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
 </feed>
