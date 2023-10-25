@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.",
+          "link": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
+          "publishedOn": "2023-10-24T18:00:00.000Z",
+          "wordCount": 6098,
+          "title": "The Fight For The Main Thread",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.",
@@ -280,21 +295,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-65/smashing-podcast-episode-65.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "Adrian’s kicking off a two-part series, sharing his journey as a lead developer. In the process, you will learn about the lessons and insights Adrian gained at work, including the strategies that went into the technical stack of the project and what it looks like to collaborate with a team he is leading for the first time.",
-          "link": "https://smashingmagazine.com/2023/09/waterbear-building-free-platform-impactful-documentaries-part1/",
-          "publishedOn": "2023-09-25T10:00:00.000Z",
-          "wordCount": 5745,
-          "title": "WaterBear: Building A Free Platform For Impactful Documentaries (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/waterbear-building-free-platform-impactful-documentaries-part1/waterbear-building-free-platform-impactful-documentaries-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/waterbear-building-free-platform-impactful-documentaries-part1/waterbear-building-free-platform-impactful-documentaries-part1.jpg"
         }
       ]
     },
@@ -303,6 +303,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/",
+          "author": "Juliet Ofoegbu",
+          "description": "As a front-end developer, you may have used a free hosting platform like Vercel, Netlify, or GitHub pages to deploy your front-end projects. Personally, I typically use Vercel and Netlify. But I also like trying out different web technologies, and I've used Firebase's authentication and storage features on different projects",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/",
+          "publishedOn": "2023-10-24T15:55:28.000Z",
+          "wordCount": 2591,
+          "title": "How to Host and Deploy a React App with Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-pixabay-207241.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-handbook/",
+          "author": "Tatev Karen Aslanyan",
+          "description": "If you're planning to become a Machine Learning Engineer, Data Scientist, or you want to refresh your memory before your interviews, this handbook is for you.  In it, we'll cover the key Machine Learning algorithms you'll need to know as a Data Scientist, Machine Learning Engineer, Machine Learning Researcher,",
+          "link": "https://www.freecodecamp.org/news/machine-learning-handbook/",
+          "publishedOn": "2023-10-24T14:59:14.000Z",
+          "wordCount": 16216,
+          "title": "Machine Learning Fundamentals Handbook – Key Concepts, Algorithms, and Python Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-Machine-Learning-Fundamentals-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/",
+          "author": "Valentine Gatwiri",
+          "description": "In the world of Java development, selecting the right build tool is a crucial decision. Build tools automate various tasks, making the development process smoother and more efficient.  In this article, we'll explore three popular build tools used in Java development: Maven, Gradle, and Ant. We'll discuss their features,",
+          "link": "https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/",
+          "publishedOn": "2023-10-24T14:57:08.000Z",
+          "wordCount": 1834,
+          "title": "How to Choose the Right Build Tool for Your Java Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Screenshot-from-2023-10-22-18-08-03.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/",
+          "author": "Isah Jacob",
+          "description": "Swapping the values of two variables is a common task in programming. While the most straightforward approach involves using a temporary variable, Python provides several elegant techniques to achieve the same result without the need for that extra variable.  In this tutorial, we will take a look at some",
+          "link": "https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/",
+          "publishedOn": "2023-10-24T14:50:48.000Z",
+          "wordCount": 2569,
+          "title": "How to Swap the Values of Two Variables Without a Temporary Variable in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/How-To-Swap-The-Values-of-Two-Variables-Without-a-Temporary-Variable-in-python-1-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/",
+          "author": "Beau Carnes",
+          "description": "Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 26-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the updated 2023 edition of the course. Dr. David J. Malan is widely considered to be one of the",
+          "link": "https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/",
+          "publishedOn": "2023-10-24T12:43:14.000Z",
+          "wordCount": 808,
+          "title": "Harvard CS50 – Free Computer Science Course (2023 Edition)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cs502023.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/the-dunning-kruger-effect/",
           "author": "Lee Ren Jie",
@@ -1022,26 +1072,6 @@
           "wordCount": 974,
           "title": "How to Use Dynamic Programming to Solve the 0/1 Knapsack Problem",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/knapsack.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-list-methods-explained-in-plain-english/",
-          "author": "GOLD AGBONIFO_ISAAC",
-          "description": "We often make plans about the things we want, what we need to do, and places we want to visit. These lists could go on forever! However, there are times when we need to build a program that requires us to organize and manipulate information using lists.  In this",
-          "link": "https://www.freecodecamp.org/news/python-list-methods-explained-in-plain-english/",
-          "publishedOn": "2023-09-24T14:08:41.000Z",
-          "wordCount": 1977,
-          "title": "Python List Methods Explained in Plain English",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/A.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understanding-java-internals-speed-and-performance/",
-          "author": "Okoye Victor Chukwuebuka",
-          "description": "In most conversations about programming, speed, and efficiency in Java are reoccurring terms as it's a language native to these features. You might ask, what is Java? You may also wonder what it means for a programming language to be interpreted or compiled. Let's explore these concepts in the following",
-          "link": "https://www.freecodecamp.org/news/understanding-java-internals-speed-and-performance/",
-          "publishedOn": "2023-09-24T13:44:14.000Z",
-          "wordCount": 2279,
-          "title": "Understanding Java Internals: Speed and Performance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/terry-vlisidis-WsEbnsnKbUE-unsplash.jpg"
         }
       ]
     }
