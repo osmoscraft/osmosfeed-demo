@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/actionable-reliable-usability-questionnaire-inuit/",
+          "author": "hello@smashingmagazine.com (Maximilian Speicher & Johanna Jagow)",
+          "description": "Inuit (short for “**In**terface **U**sability **I**nstrumen**t**”) is a new questionnaire you can use to assess the usability of your user interface. It has been designed to be more diagnostic than existing usability instruments like, e.g., SUS and for use with machine learning, all the while asking fewer questions than other questionnaires. This article explores how and why Inuit has been developed and why we can be sure that it actually measures usability, and reliably so.",
+          "link": "https://smashingmagazine.com/2023/10/actionable-reliable-usability-questionnaire-inuit/",
+          "publishedOn": "2023-10-26T10:00:00.000Z",
+          "wordCount": 5912,
+          "title": "An Actionable And Reliable Usability Questionnaire With Only 7 Items: <span style=\"font-variant: small-caps\">Inuit</span>",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/actionable-reliable-usability-questionnaire-inuit/reliable-usability-questionnaire-inuit.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/actionable-reliable-usability-questionnaire-inuit/reliable-usability-questionnaire-inuit.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.",
@@ -273,6 +288,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/",
+          "author": "Rajdeep Singh",
+          "description": "Documentation is critical to a successful product. Without documentation, it's more difficult for people to use your product, and it's just as important if you're running an open-source project, too. Creating a documentation site can be challenging, especially if you're not familiar with front-end development.  I have been a",
+          "link": "https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/",
+          "publishedOn": "2023-10-26T19:21:30.000Z",
+          "wordCount": 2372,
+          "title": "How to Write Good Documentation with Docsify",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/docsify.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-algorithmic-trading-using-python/",
+          "author": "Beau Carnes",
+          "description": "In the realm of financial markets, algorithmic trading has revolutionized the way trades are executed, providing a systematic approach to analyzing data and making investment decisions. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement algorithmic trading with Python using a variety",
+          "link": "https://www.freecodecamp.org/news/learn-algorithmic-trading-using-python/",
+          "publishedOn": "2023-10-26T12:38:34.000Z",
+          "wordCount": 1030,
+          "title": "Learn Algorithmic Trading Using Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/trading.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-get-json-back-from-chatgpt-with-function-calling/",
           "author": "James Charlesworth",
@@ -1022,36 +1057,6 @@
           "wordCount": 1010,
           "title": "Learn the Basics of Java Programming",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/javacrash.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/prismane-react-ui-library/",
-          "author": "Valentine Gatwiri",
-          "description": "Prismane is a free, comprehensive, have-it-all React UI library that provides a broad array of hooks, components, and form validators to help you build beautiful and functional user interfaces. Prismane was designed with performance in mind, ensuring lightning-fast loading times for a better user experience. In this article, you will",
-          "link": "https://www.freecodecamp.org/news/prismane-react-ui-library/",
-          "publishedOn": "2023-09-27T12:52:48.000Z",
-          "wordCount": 1495,
-          "title": "An Overview of Prismane  – An Open-Source React UI Library",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Screenshot-from-2023-09-26-15-16-49.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-html-elements/",
-          "author": "Joan Ayebola",
-          "description": "HTML, which stands for HyperText Markup Language, is the standard markup language used to create webpages. HTML provides a structured way to organize content on a webpage, allowing web developers to present text and media in a clear and meaningful way.  In this article, we'll explore three fundamental HTML",
-          "link": "https://www.freecodecamp.org/news/how-to-use-html-elements/",
-          "publishedOn": "2023-09-26T18:02:38.000Z",
-          "wordCount": 2146,
-          "title": "How to use HTML Elements – Headings, Paragraphs, and Text Formatting Elements Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Pink-Minimalist-Digital-Marketing-Presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nuxt-3-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Nuxt.js has been making waves in the web development world, especially among Vue.js enthusiasts. With its unique capabilities for server-side rendering, static site generation, and single-page applications, Nuxt offers a robust set of features for developers looking to build modern web apps. We just posted a full course on Nuxt",
-          "link": "https://www.freecodecamp.org/news/nuxt-3-course-for-beginners/",
-          "publishedOn": "2023-09-26T15:37:16.000Z",
-          "wordCount": 833,
-          "title": "Nuxt 3 Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/nuxt.png"
         }
       ]
     }
