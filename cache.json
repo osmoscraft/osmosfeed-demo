@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/10/beginner-web-development-working-career/",
+          "author": "hello@smashingmagazine.com (Victoria Johnson)",
+          "description": "Victoria Johnson began a career in front-end development upon graduating from college. Now, roughly one year later, she reflects back on the decisions she made to crack into the field and find her first full-time job. This is her story, and she’s sharing it to provide those who are just starting out with another beginner’s perspective.",
+          "link": "https://smashingmagazine.com/2023/10/beginner-web-development-working-career/",
+          "publishedOn": "2023-10-27T15:00:00.000Z",
+          "wordCount": 4837,
+          "title": "What I Wish I Knew About Working In Development Right Out Of School",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/beginner-web-development-working-career/beginner-web-development-working-career.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/beginner-web-development-working-career/beginner-web-development-working-career.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/10/actionable-reliable-usability-questionnaire-inuit/",
           "author": "hello@smashingmagazine.com (Maximilian Speicher & Johanna Jagow)",
           "description": "Inuit (short for “**In**terface **U**sability **I**nstrumen**t**”) is a new questionnaire you can use to assess the usability of your user interface. It has been designed to be more diagnostic than existing usability instruments like, e.g., SUS and for use with machine learning, all the while asking fewer questions than other questionnaires. This article explores how and why Inuit has been developed and why we can be sure that it actually measures usability, and reliably so.",
@@ -288,6 +303,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-kevin-miller-coder-conversations/",
+          "author": "Quincy Larson",
+          "description": "On this week's podcast, I interview Kevin Miller. He's a senior developer and host of the Coder Conversations YouTube channel. Kevin studied accounting in Texas and worked overnight for 7 years at hotels, making only $11 an hour. But his knowledge of spreadsheets lead to him learning more about",
+          "link": "https://www.freecodecamp.org/news/podcast-kevin-miller-coder-conversations/",
+          "publishedOn": "2023-10-27T17:22:26.000Z",
+          "wordCount": 793,
+          "title": "Podcast: Overcoming 3 Layoffs with Senior Dev Kevin Miller",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/IMG_1127_jpg-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-write-good-documentation-with-docsify/",
           "author": "Rajdeep Singh",
@@ -1017,46 +1042,6 @@
           "wordCount": 8339,
           "title": "Full Stack Project Tutorial – Create A Notes App Using React and Node.js",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/react-node-notes-app-screenshot-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/project-maintainer-guide-to-hacktoberfest/",
-          "author": "Sophia Iroegbu",
-          "description": "Hacktoberfest is a month-long event that promotes open-source contributions, collaboration, and projects.  Participating in this event as either a project maintainer or a contributor gives new perspectives to either your project or your career. You also get to meet fun people. This article will walk you through how to",
-          "link": "https://www.freecodecamp.org/news/project-maintainer-guide-to-hacktoberfest/",
-          "publishedOn": "2023-09-28T07:02:33.000Z",
-          "wordCount": 1301,
-          "title": "A Project Maintainer's Guide to Hacktoberfest",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Blog-Banner---Template--10-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/terraform-security-best-practices/",
-          "author": "Aaron Katz",
-          "description": "Terraform is a popular Infrastructure as Code (IaC) tool that allows users to define and manage cloud infrastructure in a declarative way.  However, like any tool, Terraform can introduce security risks if not used properly. In this article, we will explore the most common security risks when using Terraform, the",
-          "link": "https://www.freecodecamp.org/news/terraform-security-best-practices/",
-          "publishedOn": "2023-09-28T05:12:03.000Z",
-          "wordCount": 1371,
-          "title": "Terraform Security Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/1-_rE5zXXVTZ_R4u-2FZh0iw.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/",
-          "author": "Quincy Larson",
-          "description": "This morning while I was eating breakfast, I opened YouTube and saw a video by self-taught developer Brian Cache: \"The FASTEST Way to Learn to Code and ACTUALLY Get a Developer Job\" (Capital letter emphasis is his own. The video is an 11 minute watch): I love watching these types",
-          "link": "https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/",
-          "publishedOn": "2023-09-27T15:41:30.000Z",
-          "wordCount": 1602,
-          "title": "Self-Taught Developer's Fastest Path to a Developer Job",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/Software-Engineer-Developer-Job.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/",
-          "author": "Beau Carnes",
-          "description": "Java has been a popular programming language for over two decades. Learning Java is a good way to mastering the fundamentals of modern coding practices.  We just posted a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Java programming. Alex Dobinca Cristian developed",
-          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-java-programming/",
-          "publishedOn": "2023-09-27T14:40:30.000Z",
-          "wordCount": 1010,
-          "title": "Learn the Basics of Java Programming",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/javacrash.png"
         }
       ]
     }
