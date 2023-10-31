@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-30T00:55:49.303Z</updated>
+    <updated>2023-10-31T00:55:49.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Scrape Amazon Product Reviews Behind a Login]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/"/>
+        <updated>2023-10-30T16:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Amazon is the most popular e-commerce website for web scrapers, with billions of product pages being scraped every month.  It is also home to a vast database of product reviews, which can be very useful for market research and competitor monitoring.  You can extract relevant data from the]]></summary>
+        <author>
+            <name>Satyam Tripathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotlin and Android Development – Build a Chat App]]></title>
+        <id>https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/</id>
+        <link href="https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/"/>
+        <updated>2023-10-30T16:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to dive into the world of Android development using Kotlin? We just posted a 10-hour Android course on the freeCodeCamp.org YouTube channel. Alexandru Cristian created this course. I will help you understand how to develop with Kotlin and Android. This course will take you on a journey]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Data Exports and Email Reports with Python – a Step-by-Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/"/>
+        <updated>2023-10-30T16:08:37.000Z</updated>
+        <summary type="html"><![CDATA[In today's data-driven world, automation is key to streamlining tasks and saving time. In this beginner-friendly tutorial, I'll walk you through the process of automating data exports from a PostgreSQL database and sending them as an email attachment using Python.  This step-by-step guide will help you grasp the fundamentals]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Frameworks vs Custom CSS – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/</id>
+        <link href="https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/"/>
+        <updated>2023-10-30T14:51:25.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to styling web pages, CSS or Cascading Style Sheets is the go-to tool for web developers. CSS is what gives your website that visually appealing look and feel, from colors and fonts to layout and positioning.  But there are two distinct approaches to applying CSS: using]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passkeys: A No-Frills Explainer On The Future Of Password-Less Authentication]]></title>
+        <id>https://smashingmagazine.com/2023/10/passkeys-explainer-future-password-less-authentication/</id>
+        <link href="https://smashingmagazine.com/2023/10/passkeys-explainer-future-password-less-authentication/"/>
+        <updated>2023-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Passkeys are beginning to make their way into popular apps, from password managers to multi-factor authenticators, but what exactly are they? As this new technology promises to make passwords a thing of the past, Neal Fennimore explains the concepts behind passkeys, demonstrates how they work, and speculates what we might expect from them in the future.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Neal Fennimore)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Overcoming 3 Layoffs with Senior Dev Kevin Miller]]></title>
         <id>https://www.freecodecamp.org/news/podcast-kevin-miller-coder-conversations/</id>
@@ -34,6 +84,16 @@
         <summary type="html"><![CDATA[Documentation is critical to a successful product. Without documentation, it's more difficult for people to use your product, and it's just as important if you're running an open-source project, too. Creating a documentation site can be challenging, especially if you're not familiar with front-end development.  I have been a]]></summary>
         <author>
             <name>Rajdeep Singh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Created a SQL-like Language to Run Queries on Local Git Repositories]]></title>
+        <id>https://www.freecodecamp.org/news/gql-design-and-implementation/</id>
+        <link href="https://www.freecodecamp.org/news/gql-design-and-implementation/"/>
+        <updated>2023-10-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! I'm a Software engineer who's interested in low-level programming, compilers, and tool development.  Three months ago I decided to learn the Rust programming language and build a Git client that focuses on simplicity and productivity. ‌I started to think about how I could build the Git client]]></summary>
+        <author>
+            <name>Amr Hesham</name>
         </author>
     </entry>
     <entry>
@@ -834,15 +894,6 @@
         <summary type="html"><![CDATA[Links are an essential part of the web because they connect web pages, documents, and resources across the internet.  In HTML (which is short for Hypertext Markup Language), links play a crucial role in creating a web of interconnected content, allowing users to navigate seamlessly between different web pages]]></summary>
         <author>
             <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Text to Meaning: How Computers Understand Language]]></title>
-        <id>https://www.freecodecamp.org/news/how-computers-understand-language/</id>
-        <link href="https://www.freecodecamp.org/news/how-computers-understand-language/"/>
-        <updated>2023-09-30T14:31:13.000Z</updated>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
 </feed>
