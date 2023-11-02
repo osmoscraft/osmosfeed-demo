@@ -265,36 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-modern-css-part2/re-creating-pop-out-hover-effect-modern-css-part2.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "Geoff explores the often-overlooked divide between WordPress.org and WordPress.com, shedding light on the blurred lines between open-source ideals and commercial interests.",
-          "link": "https://smashingmagazine.com/2023/10/problem-wordpress-positioning-not-plugins/",
-          "publishedOn": "2023-10-03T10:00:00.000Z",
-          "wordCount": 4173,
-          "title": "The Problem With WordPress Is Positioning, Not Plugins",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/problem-wordpress-positioning-not-plugins/problem-wordpress-positioning-not-plugins.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/problem-wordpress-positioning-not-plugins/problem-wordpress-positioning-not-plugins.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "In this second article of a two-part series, Adrian shares insights about building WaterBear — his first project as a lead developer — discussing the challenges his team encountered while building it and various accessibility and performance improvements they’ve made. You’ll get a peek at the inner workings of a team striving to find its groove to systematize the work.",
-          "link": "https://smashingmagazine.com/2023/10/waterbear-building-free-platform-documentaries-part2/",
-          "publishedOn": "2023-10-02T18:00:00.000Z",
-          "wordCount": 6221,
-          "title": "WaterBear: Building A Free Platform For Impactful Documentaries (Part 2)",
-          "enclosure": {
-            "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/waterbear-building-free-platform-documentaries-part2/waterbear-building-free-platform-impactful-documentaries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/waterbear-building-free-platform-documentaries-part2/waterbear-building-free-platform-impactful-documentaries.jpg"
         }
       ]
     },
@@ -303,6 +273,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/",
+          "author": "Beau Carnes",
+          "description": "Infrastructure as Code (IaC) is a revolutionary approach to managing and provisioning computing infrastructure. With IaC, you can automate the process of provisioning, configuring, and managing infrastructure using code and software development techniques. This approach provides a more efficient, consistent, and reliable way of managing infrastructure compared to traditional manual",
+          "link": "https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/",
+          "publishedOn": "2023-11-01T13:39:47.000Z",
+          "wordCount": 5930,
+          "title": "Create and Deploy IaC by Chatting with AI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/iacai.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/loop-through-arrays-javascript/",
+          "author": "Joan Ayebola",
+          "description": "Looping through arrays in JavaScript is a fundamental concept that every JavaScript developer should understand. Whether you're a beginner or an experienced developer, understanding how to loop through an array is crucial for many programming tasks.  In this article, we'll explore the different ways to loop through an array",
+          "link": "https://www.freecodecamp.org/news/loop-through-arrays-javascript/",
+          "publishedOn": "2023-10-31T21:25:00.000Z",
+          "wordCount": 2764,
+          "title": "How to Loop Through Arrays in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Colorful-Bold-Math-Factors-Lesson-and-Quiz.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/",
           "author": "Satyam Tripathi",
@@ -952,66 +942,6 @@
           "wordCount": 971,
           "title": "freeCodeCamp is Launching a Podcast in Portuguese",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/podcast-cover-portuguese-Nielda-1300---700-px-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linkedin-profile-optimization/",
-          "author": "Michael Larocca",
-          "description": "As a web developer, an optimized LinkedIn profile can bring numerous opportunities directly to you. After implementing invaluable optimization advice from industry experts who reviewed my profile, I now receive a steady flow of enticing prospects in my inbox! In this article, I'll share the insights I've gained to help",
-          "link": "https://www.freecodecamp.org/news/linkedin-profile-optimization/",
-          "publishedOn": "2023-10-03T08:32:42.000Z",
-          "wordCount": 4809,
-          "title": "LinkedIn Profile Optimization – A Web Developer's Guide to Attract Opportunity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/FFC-01-NEW.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/guide-to-a-successful-open-source-journey/",
-          "author": "kaxada",
-          "description": "The journey to becoming a successful open-source contributor can be intimidating, frustrating, or confusing depending on your level of confidence, commitment, and expertise. I have had my fair share of all sides of the emotions that come with contributing to open source in the one and a half years (at",
-          "link": "https://www.freecodecamp.org/news/guide-to-a-successful-open-source-journey/",
-          "publishedOn": "2023-10-02T20:07:51.000Z",
-          "wordCount": 2505,
-          "title": "A Guide to a Successful Open Source Journey – Lessons from Real-Life Experience",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cover-image.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ai-in-your-serverless-app-amazon-bedrock/",
-          "author": "Sam Williams",
-          "description": "In today's tech landscape, integrating AI is no longer a luxury – it's a necessity.  AI-driven applications have the potential to transform user experiences, automate complex tasks, and unlock new realms of possibilities. Understanding and leveraging AI APIs is a pivotal skill for developers looking to stay at the",
-          "link": "https://www.freecodecamp.org/news/ai-in-your-serverless-app-amazon-bedrock/",
-          "publishedOn": "2023-10-02T19:23:14.000Z",
-          "wordCount": 4762,
-          "title": "How to Integrate AI into Your Serverless App With Amazon Bedrock",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Screenshot-2023-10-02-at-14.19.28.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-lifecycle-methods-and-hooks-for-beginners/",
-          "author": "Casmir Onyekani",
-          "description": "React [/news/react-beginner-handbook/#howmuchjavascriptyouneedtoknowtousereact]  is all about building user interfaces. And to do that effectively, React provides ways for components to manage their lifecycles.  This means that components can perform specific tasks at different stages of their existence, from the moment they are created to the point they are removed",
-          "link": "https://www.freecodecamp.org/news/react-lifecycle-methods-and-hooks-for-beginners/",
-          "publishedOn": "2023-10-02T17:22:49.000Z",
-          "wordCount": 3065,
-          "title": "React Lifecycle Methods and Hooks – a Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/lifecycle.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/api-security-for-pci-compliance/",
-          "author": "Beau Carnes",
-          "description": "API security is important for everyone, but especially if you are dealing with payment information. We just posted a crash course on the freeCodeCamp.org YouTube channel that will teach you about API security and how to address the pivotal PCI DSS 4.0 requirements. PCI DSS stands for Payment Card Industry",
-          "link": "https://www.freecodecamp.org/news/api-security-for-pci-compliance/",
-          "publishedOn": "2023-10-02T14:45:41.000Z",
-          "wordCount": 857,
-          "title": "API Security for PCI Compliance (DSS 4.0)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/secpci.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/context-managers-in-python/",
-          "author": "Farhan Hasin Chowdhury",
-          "description": "One of the most common tasks that you'll have to perform in your programs is working with external resources. These resources can be files on your computer's storage or an open connection to third-party service on the internet. For the sake of simplicity, imagine a program that opens a file,",
-          "link": "https://www.freecodecamp.org/news/context-managers-in-python/",
-          "publishedOn": "2023-10-02T13:49:54.000Z",
-          "wordCount": 3019,
-          "title": "What Are Context Managers in Python?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/09/python-context-managers-1.jpg"
         }
       ]
     }
