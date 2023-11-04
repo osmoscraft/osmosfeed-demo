@@ -265,21 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/gatsby-headaches-working-media-part1/gatsby-headaches-working-media-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "description": "Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.",
-          "link": "https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/",
-          "publishedOn": "2023-10-05T12:00:00.000Z",
-          "wordCount": 5358,
-          "title": "Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-modern-css-part2/re-creating-pop-out-hover-effect-modern-css-part2.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/re-creating-pop-out-hover-effect-modern-css-part2/re-creating-pop-out-hover-effect-modern-css-part2.jpg"
         }
       ]
     },
@@ -288,6 +273,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/make-api-calls-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "Calling an API (Application Programming Interface) in JavaScript is a fundamental action that web developers need to know how to perform. It allows you to fetch data from external sources and integrate it into your web applications.  In this tutorial, I'll walk you through the process of making API",
+          "link": "https://www.freecodecamp.org/news/make-api-calls-in-javascript/",
+          "publishedOn": "2023-11-03T18:34:49.000Z",
+          "wordCount": 2447,
+          "title": "How to Call an API in JavaScript – with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Brown-Aesthetic-Scrapbook-Vintage-Group-Project-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/benefits-of-typescript/",
+          "author": "Hunor Márton Borbély",
+          "description": "TypeScript is taking over the web. In this article I'll give you a high-level overview of the benefits of TypeScript and how can it help you create websites with fewer bugs.  You'll learn how TypeScript helps with handling edge cases, catching typos, refactoring code, and how types make code",
+          "link": "https://www.freecodecamp.org/news/benefits-of-typescript/",
+          "publishedOn": "2023-11-03T15:16:26.000Z",
+          "wordCount": 4099,
+          "title": "How TypeScript Helps You Write Better Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/thumbnail.001.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/get-started-with-quarkus-and-jpastreamer-2/",
+          "author": "Julia Gustafsson",
+          "description": "Note: This article is by Julia Gustafsson. In the world of software development, innovation often arrives in the form of powerful tools that transform the way we build applications - enter Quarkus, a development platform that's reshaping the Java landscape.  If you are new to the Quarkiverse, this tutorial",
+          "link": "https://www.freecodecamp.org/news/get-started-with-quarkus-and-jpastreamer-2/",
+          "publishedOn": "2023-11-03T14:32:34.000Z",
+          "wordCount": 5878,
+          "title": "Get started with Quarkus and JPAStreamer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/javaquarkus.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hacktoberfest-2023-contributors/",
+          "author": "Naomi Carrigan",
+          "description": "The freeCodeCamp community just finished participating in this year's Hacktoberfest – a month-long celebration of open source. Our core team is excited to recognize all of our wonderful open source contributors. A big thank you to all of these folks for the effort they put into helping improve our curriculum",
+          "link": "https://www.freecodecamp.org/news/hacktoberfest-2023-contributors/",
+          "publishedOn": "2023-11-03T00:03:39.000Z",
+          "wordCount": 1086,
+          "title": "Hacktoberfest 2023 Contributors",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/hf10_banner_sponsors_1032x600.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/helper-functions-in-react/",
           "author": "Adeeko Tobiloba Israel",
@@ -937,36 +962,6 @@
           "wordCount": 14249,
           "title": "The Arduino Handbook – Learn Microcontrollers for Embedded Systems",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-Arduino-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/html-lists-with-examples/",
-          "author": "Joan Ayebola",
-          "description": "Imagine you're creating an article with a list of recommendations or a web page with a menu of options. How do you structure this information to make it visually appealing and easy to navigate?  This is where HTML lists come to the rescue. In this article, we'll dive into",
-          "link": "https://www.freecodecamp.org/news/html-lists-with-examples/",
-          "publishedOn": "2023-10-04T16:01:18.000Z",
-          "wordCount": 1717,
-          "title": "HTML Lists – Ordered, Unordered and Definition List Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Blue-And-White-Modern-Effective-Leadership-In-Business-Presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/",
-          "author": "Hrittik Roy",
-          "description": "Modern software development workflows are complicated, involving many tools and dependencies.  When working in a team, it's not uncommon to use several different software programs, each with its own dependencies. This can quickly become confusing, with each software requiring different configurations and management.  One solution is to use",
-          "link": "https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/",
-          "publishedOn": "2023-10-04T14:45:34.000Z",
-          "wordCount": 2550,
-          "title": "How to Standardize Your Development Environment with devcontainer.json",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/image--9-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/increase-your-vs-code-productivity/",
-          "author": "Beau Carnes",
-          "description": "Have you watched a seasoned developer work in Visual Studio Code (VS Code) and wondered how they make it look so effortless? The freeCodeCamp YouTube channel is here to help you unlock your coding superpowers with a new course we just published about increasing your productivity in VS Code. Chris",
-          "link": "https://www.freecodecamp.org/news/increase-your-vs-code-productivity/",
-          "publishedOn": "2023-10-04T14:05:32.000Z",
-          "wordCount": 1006,
-          "title": "Increase Your VS Code Productivity",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/productivevscode.png"
         }
       ]
     }

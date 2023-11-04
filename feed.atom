@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-03T00:55:47.810Z</updated>
+    <updated>2023-11-04T00:55:02.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Call an API in JavaScript – with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/make-api-calls-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/make-api-calls-in-javascript/"/>
+        <updated>2023-11-03T18:34:49.000Z</updated>
+        <summary type="html"><![CDATA[Calling an API (Application Programming Interface) in JavaScript is a fundamental action that web developers need to know how to perform. It allows you to fetch data from external sources and integrate it into your web applications.  In this tutorial, I'll walk you through the process of making API]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript Helps You Write Better Code]]></title>
+        <id>https://www.freecodecamp.org/news/benefits-of-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/benefits-of-typescript/"/>
+        <updated>2023-11-03T15:16:26.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is taking over the web. In this article I'll give you a high-level overview of the benefits of TypeScript and how can it help you create websites with fewer bugs.  You'll learn how TypeScript helps with handling edge cases, catching typos, refactoring code, and how types make code]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get started with Quarkus and JPAStreamer]]></title>
+        <id>https://www.freecodecamp.org/news/get-started-with-quarkus-and-jpastreamer-2/</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-quarkus-and-jpastreamer-2/"/>
+        <updated>2023-11-03T14:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Note: This article is by Julia Gustafsson. In the world of software development, innovation often arrives in the form of powerful tools that transform the way we build applications - enter Quarkus, a development platform that's reshaping the Java landscape.  If you are new to the Quarkiverse, this tutorial]]></summary>
+        <author>
+            <name>Julia Gustafsson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacktoberfest 2023 Contributors]]></title>
+        <id>https://www.freecodecamp.org/news/hacktoberfest-2023-contributors/</id>
+        <link href="https://www.freecodecamp.org/news/hacktoberfest-2023-contributors/"/>
+        <updated>2023-11-03T00:03:39.000Z</updated>
+        <summary type="html"><![CDATA[The freeCodeCamp community just finished participating in this year's Hacktoberfest – a month-long celebration of open source. Our core team is excited to recognize all of our wonderful open source contributors. A big thank you to all of these folks for the effort they put into helping improve our curriculum]]></summary>
+        <author>
+            <name>Naomi Carrigan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write Helper Functions in React]]></title>
         <id>https://www.freecodecamp.org/news/helper-functions-in-react/</id>
@@ -824,46 +864,6 @@
         <summary type="html"><![CDATA[Arduino is an open-source platform that combines hardware and software in designing and building electronic projects. Arduino can be applied in a variety of projects like:  * Home automation.  * Internet of Things (IoT).  * Audio and music.  * Automated and remote controlled systems.  *]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/</id>
-        <link href="https://smashingmagazine.com/2023/10/re-creating-pop-out-hover-effect-modern-css-part2/"/>
-        <updated>2023-10-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Re-create a fancy hover effect where an avatar pops out of a starburst pattern for the frame on hover. The idea is to apply the concepts in a new context and gain another view of how trigonometric functions can influence the way we mask elements in CSS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Lists – Ordered, Unordered and Definition List Examples]]></title>
-        <id>https://www.freecodecamp.org/news/html-lists-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/html-lists-with-examples/"/>
-        <updated>2023-10-04T16:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're creating an article with a list of recommendations or a web page with a menu of options. How do you structure this information to make it visually appealing and easy to navigate?  This is where HTML lists come to the rescue. In this article, we'll dive into]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Standardize Your Development Environment with devcontainer.json]]></title>
-        <id>https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/</id>
-        <link href="https://www.freecodecamp.org/news/standardize-development-environment-with-devcontainers/"/>
-        <updated>2023-10-04T14:45:34.000Z</updated>
-        <summary type="html"><![CDATA[Modern software development workflows are complicated, involving many tools and dependencies.  When working in a team, it's not uncommon to use several different software programs, each with its own dependencies. This can quickly become confusing, with each software requiring different configurations and management.  One solution is to use]]></summary>
-        <author>
-            <name>Hrittik Roy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Increase Your VS Code Productivity]]></title>
-        <id>https://www.freecodecamp.org/news/increase-your-vs-code-productivity/</id>
-        <link href="https://www.freecodecamp.org/news/increase-your-vs-code-productivity/"/>
-        <updated>2023-10-04T14:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Have you watched a seasoned developer work in Visual Studio Code (VS Code) and wondered how they make it look so effortless? The freeCodeCamp YouTube channel is here to help you unlock your coding superpowers with a new course we just published about increasing your productivity in VS Code. Chris]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
