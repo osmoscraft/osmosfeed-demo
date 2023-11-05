@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-04T00:55:02.996Z</updated>
+    <updated>2023-11-05T00:59:29.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: Trello and Stack Overflow Founder Joel Spolsky]]></title>
+        <id>https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/</id>
+        <link href="https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/"/>
+        <updated>2023-11-04T00:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm joined by Joel Spolsky. He's co-founder of Trello and Stack Overflow, and author of the iconic developer blog Joel on Software. I hung out with Joel in his New York City home to discuss his 4-decade-long career as a developer and a CEO. He shared his insights]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Call an API in JavaScript – with Examples]]></title>
         <id>https://www.freecodecamp.org/news/make-api-calls-in-javascript/</id>
@@ -824,46 +834,6 @@
         <summary type="html"><![CDATA[The rapid ascent of Artificial Intelligence (AI) and Machine Learning (ML) into mainstream technology and its influence on various sectors of our society raises a series of profound ethical questions. It's not just about the technical ability of these systems but the ethical implications that could shape our future.]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Browser Compatibility Testing – Best Practices for Web Developers]]></title>
-        <id>https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/</id>
-        <link href="https://www.freecodecamp.org/news/cross-browser-compatibility-testing-best-practices-for-web-developers/"/>
-        <updated>2023-10-05T23:40:10.000Z</updated>
-        <summary type="html"><![CDATA[Imagine putting in a ton of work to build a web application. And then it works in the Chrome browser, but misbehaves in Mozilla, Safari, or any other browser. As a web developer, you're likely eager to create amazing web applications that reach users across the globe. But one major]]></summary>
-        <author>
-            <name>Casmir Onyekani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Request Location Permissions in Jetpack Compose]]></title>
-        <id>https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/</id>
-        <link href="https://www.freecodecamp.org/news/requesting-location-permissions-in-jetpack-compose/"/>
-        <updated>2023-10-05T19:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Getting a user’s location can be a bit of hassle. Over the years, the permissions required to do this and the logic associated with it have changed quite drastically.  If your application depends on getting the user’s location, you want to ensure that the user has a good experience]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build and Deploy an Ecommerce Site with Next.js, Tailwind CSS, Prisma, Vercel, and daisyUI]]></title>
-        <id>https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/</id>
-        <link href="https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/"/>
-        <updated>2023-10-05T15:36:56.000Z</updated>
-        <summary type="html"><![CDATA[When learning how to build a web app it can be helpful to see how everything works together, instead of learning a lot of technologies individually. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build and deploy a full-stack e-commerce website with]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Arduino Handbook – Learn Microcontrollers for Embedded Systems]]></title>
-        <id>https://www.freecodecamp.org/news/the-arduino-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-arduino-handbook/"/>
-        <updated>2023-10-05T13:15:02.000Z</updated>
-        <summary type="html"><![CDATA[Arduino is an open-source platform that combines hardware and software in designing and building electronic projects. Arduino can be applied in a variety of projects like:  * Home automation.  * Internet of Things (IoT).  * Audio and music.  * Automated and remote controlled systems.  *]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
 </feed>
