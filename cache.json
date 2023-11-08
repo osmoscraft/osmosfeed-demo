@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
+          "author": "hello@smashingmagazine.com (Maxwell Barvian)",
+          "description": "The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.",
+          "link": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
+          "publishedOn": "2023-11-07T18:00:00.000Z",
+          "wordCount": 4970,
+          "title": "Addressing Accessibility Concerns With Using Fluid Type",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/search-ideal-privacy-icon/",
           "author": "hello@smashingmagazine.com (Preethi Sam)",
           "description": "Icons are capable of enhancing the content that surrounds them, but they have to be self-explanatory for that to happen. We have icons for things we like (a thumbs up), things we can share (a box topped with an up arrow), and even for protection against malicious online attacks (a shield), but what are the options we have for representing “privacy”?",
@@ -250,21 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/overview-large-language-model-concepts-use-cases-tools/overview-large-language-model-concepts-use-cases-tools.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "Discover how to incorporate a variety of media formats, such as images, videos, GIFs, SVGs, and so on, in a Gatsby website. Juan Rodriguez shares what he’s learned about optimizing files for improved performance after working with different plugins and techniques.",
-          "link": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/",
-          "publishedOn": "2023-10-09T11:00:00.000Z",
-          "wordCount": 6131,
-          "title": "Gatsby Headaches: Working With Media (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/gatsby-headaches-working-media-part1/gatsby-headaches-working-media-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/gatsby-headaches-working-media-part1/gatsby-headaches-working-media-part1.jpg"
         }
       ]
     },
@@ -273,6 +273,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/",
+          "author": "Yazdun Fadali",
+          "description": "If you're looking to add some polished animations to your React apps, Framer Motion is the tool for the job.  In this tutorial, I'll walk you through creating a fully animated mobile menu using Framer Motion in React. What Are We Going to Build? In this tutorial, I'll guide",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/",
+          "publishedOn": "2023-11-07T17:15:20.000Z",
+          "wordCount": 2378,
+          "title": "How to Create an Animated Hamburger Menu in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Frame-14.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/",
+          "author": "Beau Carnes",
+          "description": "The combination of artificial intelligence (AI) and web development has revolutionized the way we create and manage online content. I just created and released a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI to help create an e-commerce store powered by WordPress. You will",
+          "link": "https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/",
+          "publishedOn": "2023-11-07T15:52:15.000Z",
+          "wordCount": 877,
+          "title": "Create a WordPress Store that Sells Real AI-Generated Products",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/aiwordpress2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
           "author": "Andrico Karoulla",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-07T00:56:58.398Z</updated>
+    <updated>2023-11-08T00:56:08.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Addressing Accessibility Concerns With Using Fluid Type]]></title>
+        <id>https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/</id>
+        <link href="https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/"/>
+        <updated>2023-11-07T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Maxwell Barvian)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Animated Hamburger Menu in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/"/>
+        <updated>2023-11-07T17:15:20.000Z</updated>
+        <summary type="html"><![CDATA[If you're looking to add some polished animations to your React apps, Framer Motion is the tool for the job.  In this tutorial, I'll walk you through creating a fully animated mobile menu using Framer Motion in React. What Are We Going to Build? In this tutorial, I'll guide]]></summary>
+        <author>
+            <name>Yazdun Fadali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a WordPress Store that Sells Real AI-Generated Products]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/"/>
+        <updated>2023-11-07T15:52:15.000Z</updated>
+        <summary type="html"><![CDATA[The combination of artificial intelligence (AI) and web development has revolutionized the way we create and manage online content. I just created and released a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI to help create an e-commerce store powered by WordPress. You will]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write Components that Work in Any Framework]]></title>
         <id>https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/</id>
@@ -804,16 +834,6 @@
         <summary type="html"><![CDATA[API stands for Application Programming Interface. The “I” in API is the key part that explains its purpose. The interface is what the software presents to other humans or programs, allowing them to interact with it.  A good analogy for an interface is a remote control. Imagine you have]]></summary>
         <author>
             <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gatsby Headaches: Working With Media (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/</id>
-        <link href="https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part1/"/>
-        <updated>2023-10-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to incorporate a variety of media formats, such as images, videos, GIFs, SVGs, and so on, in a Gatsby website. Juan Rodriguez shares what he’s learned about optimizing files for improved performance after working with different plugins and techniques.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
