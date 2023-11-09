@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-08T00:56:08.361Z</updated>
+    <updated>2023-11-09T00:56:13.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Segment Anything Model (SAM) to Create Masks]]></title>
+        <id>https://www.freecodecamp.org/news/use-segment-anything-model-to-create-masks/</id>
+        <link href="https://www.freecodecamp.org/news/use-segment-anything-model-to-create-masks/"/>
+        <updated>2023-11-08T20:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! So, you know that buzz about Tesla's autopilot being all futuristic and driverless? Ever thought about how it actually does its magic? Well, let me tell you – it's all about image segmentation and object detection.  What is Image Segmentation? Image segmentation, basically chopping up an image]]></summary>
+        <author>
+            <name>Jess Wilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Course in Spanish  – Learn JavaScript for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-course-in-spanish/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-course-in-spanish/"/>
+        <updated>2023-11-08T16:25:39.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is one of the most popular programming languages out there, and it's essential for web development. Learning JavaScript can be your next step into this amazing world of web dev. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you JavaScript from the]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arduino for Everybody]]></title>
+        <id>https://www.freecodecamp.org/news/arduino-for-everybody/</id>
+        <link href="https://www.freecodecamp.org/news/arduino-for-everybody/"/>
+        <updated>2023-11-08T15:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Arduino is an open-source electronics platform that allows you to create interactive devices with sensors and outputs. With Arduino, you can build DIY electronics projects with minimal technical knowledge. We just published a comprehensive Arduino course on the freeCodeCamp.org YouTube channel. The course covers the basics of Arduino, from hardware]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Online Résumé on AWS Using S3, Route 53, CloudFront, and ACM]]></title>
+        <id>https://www.freecodecamp.org/news/aws-project-build-a-resume/</id>
+        <link href="https://www.freecodecamp.org/news/aws-project-build-a-resume/"/>
+        <updated>2023-11-08T00:38:02.000Z</updated>
+        <summary type="html"><![CDATA[If you're new to AWS, you can probably appreciate the sense of overwhelm that comes from trying to understand all the different services (seriously, like,  hundreds of them). What are they all for, and how do they work together?  And then once you've conquered some basic skills, the]]></summary>
+        <author>
+            <name>Amber Israelsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid Prop Drilling in React]]></title>
+        <id>https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/"/>
+        <updated>2023-11-07T22:58:39.000Z</updated>
+        <summary type="html"><![CDATA[In order to write scalable, reusable, and maintainable applications with React, you'll need to go beyond the surface of using React components, useEffect, useContext, useState, and the like. It involves learning in detail how React works in more depth.  And if you don't properly understand these key React concepts,]]></summary>
+        <author>
+            <name>Ogundiran Ayobami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Whiteboard App with Python and Tkinter]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-whiteboard-app/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-whiteboard-app/"/>
+        <updated>2023-11-07T22:23:59.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to build a simple whiteboard app using Python and Tkinter. Some months ago, I was teaching a Python course. I was struggling to convey certain concepts because it was an online course, and I couldn't use a whiteboard or even a traditional board.]]></summary>
+        <author>
+            <name>Juan P. Romano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Declare Variables in JavaScript – var, let, and const Explained]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-declare-variables-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-declare-variables-in-javascript/"/>
+        <updated>2023-11-07T22:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Declaring variables is something you'll do all the time in JavaScript. And if you know the variable declaration process inside and out, you'll have the confidence to start writing great JS code. Through this article, you will learn how to declare and mutate variables using  var, let, and const,]]></summary>
+        <author>
+            <name>Furkan Emin Can</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Addressing Accessibility Concerns With Using Fluid Type]]></title>
         <id>https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/</id>
@@ -804,36 +874,6 @@
         <summary type="html"><![CDATA[Discuss the concept of large language models (LLMs) and how they are implemented with a set of data to develop an application. Joas compares a collection of no-code and low-code apps designed to help you get a feel for not only how the concept works but also to get a sense of what types of models are available to train AI on different skill sets.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Storage Explained – How to Use localStorage and sessionStorage in JavaScript Projects]]></title>
-        <id>https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/web-storage-localstorage-vs-sessionstorage-in-javascript/"/>
-        <updated>2023-10-09T16:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Web Storage is what the JavaScript API [https://codesweetly.com/application-programming-interface-api-explained]  browsers provide for storing data locally and securely within a user’s browser. Session and local storage are the two main types of web storage. They are similar to regular properties objects [https://codesweetly.com/javascript-properties-object], but they persist (do not disappear) when the webpage]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Images in HTML – A Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-images-in-html/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-images-in-html/"/>
-        <updated>2023-10-09T15:33:43.000Z</updated>
-        <summary type="html"><![CDATA[Images are an essential part of web development, adding visual appeal and context to your web pages.  In HTML, you can easily incorporate images to enhance the user experience. This article will guide you through the basics of working with images in HTML and help you understand images in]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API Integration Patterns – The Difference between REST, RPC, GraphQL, Polling, WebSockets and WebHooks]]></title>
-        <id>https://www.freecodecamp.org/news/api-integration-patterns/</id>
-        <link href="https://www.freecodecamp.org/news/api-integration-patterns/"/>
-        <updated>2023-10-09T15:14:33.000Z</updated>
-        <summary type="html"><![CDATA[API stands for Application Programming Interface. The “I” in API is the key part that explains its purpose. The interface is what the software presents to other humans or programs, allowing them to interact with it.  A good analogy for an interface is a remote control. Imagine you have]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
         </author>
     </entry>
 </feed>
