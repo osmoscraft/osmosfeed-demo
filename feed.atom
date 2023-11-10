@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T00:56:13.698Z</updated>
+    <updated>2023-11-10T00:55:52.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Setup Authentication and Protected Routes in Next.js 13 with next-auth.js]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-setup-authentication-and-protected-route-in-next-js-13-with-next-auth-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-authentication-and-protected-route-in-next-js-13-with-next-auth-js/"/>
+        <updated>2023-11-09T17:54:32.000Z</updated>
+        <summary type="html"><![CDATA[This guide demonstrates the straightforward process of incorporating authentication into your Next.js app using the next-auth.js [https://next-auth.js.org/] library. While the library provides numerous options (providers), this tutorial focuses on the implementation using the Google Provider. You'll also gain insight into effortlessly setting up protected routes within your application, a task]]></summary>
+        <author>
+            <name>Olasunkanmi Balogun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Java Fundamentals – How to Build a Solid Foundation in Object-Oriented Programming]]></title>
+        <id>https://www.freecodecamp.org/news/learn-java-object-oriented-programming/</id>
+        <link href="https://www.freecodecamp.org/news/learn-java-object-oriented-programming/"/>
+        <updated>2023-11-09T17:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Are you just getting into software development, or do you need to upgrade your coding skills? Java's significance within the tech sector stands unchallenged, so it's a great place to start. Java is at the foundation of Object-Oriented Programming (OOP). This is an approach to programming that mirrors our complexity]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Next.js Applications with Role-Based Authentication Using NextAuth]]></title>
+        <id>https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/</id>
+        <link href="https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/"/>
+        <updated>2023-11-09T17:00:01.000Z</updated>
+        <summary type="html"><![CDATA[If you create Next.js apps, chanced are you are going to have to include user authentication at some point.  We just posted a course on the freeCodeCamp.org YouTube channel that teaches how to implement authentication in Next.js 13.5 with the powerful library, NextAuth – which will soon be known]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress Playground: From 5-Minute Install To Instant Spin-Up]]></title>
+        <id>https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/</id>
+        <link href="https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/"/>
+        <updated>2023-11-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ganesh Dahal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use the Segment Anything Model (SAM) to Create Masks]]></title>
         <id>https://www.freecodecamp.org/news/use-segment-anything-model-to-create-masks/</id>
@@ -844,36 +884,6 @@
         <summary type="html"><![CDATA[Web development has never been more exciting. The influx of new technologies and tools is reshaping the boundaries of what developers can create. At the epicenter of this transformation is the ability to integrate diverse systems seamlessly, creating powerful web applications. We just published a course on the freeCodeCamp.org YouTube]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering for Web Developers]]></title>
-        <id>https://www.freecodecamp.org/news/prompt-engineering-for-web-developers/</id>
-        <link href="https://www.freecodecamp.org/news/prompt-engineering-for-web-developers/"/>
-        <updated>2023-10-10T17:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to supercharge your web development skills? Do you want to harness the power of AI to streamline your workflow? If so, freeCodeCamp.org's YouTube channel has just the course for you! We just posted a course that will teach you how to use prompt engineering to improve your]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Stunning Animations with the Vue.js Transition API]]></title>
-        <id>https://www.freecodecamp.org/news/animations-with-vuejs-transition-api/</id>
-        <link href="https://www.freecodecamp.org/news/animations-with-vuejs-transition-api/"/>
-        <updated>2023-10-10T15:28:04.000Z</updated>
-        <summary type="html"><![CDATA[I’m easily gripped by animations and purposeful motion on the Web – so much so that I wrote a whole article [https://favourfelix.com/stories/css-and-motion-build-animations-on-the-web/] on it.  I’m also a big fan of the Vue.js framework, and I’ve been building apps with it for three years. So it was a delightful surprise]]></summary>
-        <author>
-            <name>Favour C. Felix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A High-Level Overview Of Large Language Model Concepts, Use Cases, And Tools]]></title>
-        <id>https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/</id>
-        <link href="https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/"/>
-        <updated>2023-10-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discuss the concept of large language models (LLMs) and how they are implemented with a set of data to develop an application. Joas compares a collection of no-code and low-code apps designed to help you get a feel for not only how the concept works but also to get a sense of what types of models are available to train AI on different skill sets.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
