@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/designing-web-design-documentation/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.",
+          "link": "https://smashingmagazine.com/2023/11/designing-web-design-documentation/",
+          "publishedOn": "2023-11-13T13:00:00.000Z",
+          "wordCount": 5132,
+          "title": "Designing Web Design Documentation",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-web-design-documentation/designing-web-design-documentation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-web-design-documentation/designing-web-design-documentation.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/creating-accessible-ui-animations/",
           "author": "hello@smashingmagazine.com (Oriana García)",
           "description": "Animation and accessibility are often seen as two separate powers at odds with one another. How is it possible to strike a balance between elements that move and the possible negative effects they expose to users who are sensitive to motion? Oriana García explains how her team at Mercado Libre tackled the challenge by creating guiding principles for applying animation to user interfaces and incorporating them into the team’s design system.",
@@ -258,6 +273,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/",
+          "author": "Adekola Olawale",
+          "description": "In the vast world of programming, scope is a fundamental concept. It underpins the behavior of variables in any given programming language. In the context of JavaScript, a language renowned for its widespread use in web development, understanding scope is crucial to writing efficient and bug-free code. Whether you're a",
+          "link": "https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/",
+          "publishedOn": "2023-11-13T17:40:12.000Z",
+          "wordCount": 4318,
+          "title": "Scope in JavaScript – Global vs Local vs Block Scope Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Scope-in-JavaScript.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/",
+          "author": "Apoorv Tyagi",
+          "description": "Earlier this year, my team at work and I were looking at the errors occurring in one of our signup APIs. We saw that nearly 5% of our requests were getting failed, all due to 400 BAD REQUEST [https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400] errors. And the root cause was traced back to a regex",
+          "link": "https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/",
+          "publishedOn": "2023-11-13T17:03:24.000Z",
+          "wordCount": 2677,
+          "title": "How to Handle Processing Multilingual Names in Your Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/photo-1581544291234-31340be4b1b8.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/",
           "author": "CHRISTINE T. BELZIE",
