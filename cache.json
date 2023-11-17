@@ -235,36 +235,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
-          "author": "hello@smashingmagazine.com (Preethi Sam)",
-          "description": "CSS loaders and progress indicators are some of the most widely used examples in tutorials and documentation. In this article, Preethi demonstrates an approach using animated custom properties, a conic gradient, CSS `offset`, and emoji to create the illusion of a scooter racing along a donut track.",
-          "link": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
-          "publishedOn": "2023-10-18T12:00:00.000Z",
-          "wordCount": 4985,
-          "title": "How To Animate Along A Path In CSS",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/animate-along-path-css/animate-along-path-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/animate-along-path-css/animate-along-path-css.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In today’s Smashing Podcast episode, we’re talking about Tech Unions. What part can unions play in a modern tech workplace? Drew McLellan talks to Ethan Marcotte to find out.",
-          "link": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
-          "publishedOn": "2023-10-17T16:00:00.000Z",
-          "wordCount": 8326,
-          "title": "Smashing Podcast Episode 66 With Ethan Marcotte: What Is A Tech Union?",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-podcast-episode-66/smashing-podcast-episode-66.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-66/smashing-podcast-episode-66.png"
         }
       ]
     },
@@ -273,6 +243,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/",
+          "author": "Hunor Márton Borbély",
+          "description": "In this tutorial, you'll learn how to create a game that's inspired by Stick Hero – using pure JavaScript and HTML canvas. We are going to recreate Stick Hero [https://apps.apple.com/us/app/stick-hero/id918338898], a mobile game published by KetchApp. We'll go through how the game works in general, how to use JavaScript to",
+          "link": "https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/",
+          "publishedOn": "2023-11-16T19:00:55.000Z",
+          "wordCount": 6781,
+          "title": "JavaScript Game Tutorial – Build a Stick Hero Clone with HTML Canvas + JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/_Users_hunormartonborbely_Documents_Courses_Youtube_Sticky-20Hero_index.html-High-Res-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/localize-django-app/",
+          "author": "Jess Wilk",
+          "description": "Have you ever wondered how websites can offer their content in multiple languages, perfectly tailored to different cultures and regions?  Well, that magic is called localization, and it's a game-changer for web development – especially when using Django, a super versatile Python framework.  It's not just about translating",
+          "link": "https://www.freecodecamp.org/news/localize-django-app/",
+          "publishedOn": "2023-11-16T18:07:43.000Z",
+          "wordCount": 3281,
+          "title": "How to Localize Your Django App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/hypermkt_mockup_of_a_phone_with_an_visualization_of_a_localizat_0fc2f372-dc38-473f-a203-31d62a6d518c-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chatgpt-vs-bard/",
+          "author": "Maybell Obadoni",
+          "description": "In November of 2022, Artificial Intelligence took center stage in the tech world. AI was not a new concept, but OpenAI had just released its ChatGPT Large Language Model, and devs started diving into using it.  Large Language Models, or LLMs, let users enter a prompt (some question or",
+          "link": "https://www.freecodecamp.org/news/chatgpt-vs-bard/",
+          "publishedOn": "2023-11-16T17:19:15.000Z",
+          "wordCount": 2479,
+          "title": "ChatGPT vs BARD AI – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/gpt.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-suspense/",
+          "author": "Okosa Leonard Onyekachukwu",
+          "description": "React's ecosystem is always growing, and it seems like there are always new features and enhancements to make development more effective and user-friendly.  React Suspense is one such feature that has become quite popular among React devs. In this guide, you'll learn all about React Suspense and examine its",
+          "link": "https://www.freecodecamp.org/news/react-suspense/",
+          "publishedOn": "2023-11-16T17:04:50.000Z",
+          "wordCount": 2787,
+          "title": "How to Use React Suspense to Improve your React Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/react-logo-vector-1.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-technical-interviews/",
+          "author": "Beau Carnes",
+          "description": "You need to prepare if you want to perform well in technical developer job interviews. We just published a course on the freeCodeCamp.org YouTube channel that will guide you through every aspect of the technical interview process, as well as prepare you for the type of questions you might get",
+          "link": "https://www.freecodecamp.org/news/master-technical-interviews/",
+          "publishedOn": "2023-11-16T15:30:08.000Z",
+          "wordCount": 888,
+          "title": "Master Technical Interviews",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/technicalinterviews.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/use-typescript-with-react/",
           "author": "Yogesh Chavan",
@@ -922,56 +942,6 @@
           "wordCount": 993,
           "title": "Build an AI Chatbot with the MERN Stack",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/mernai.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-avoid-breaking-your-react-app-in-production/",
-          "author": "Yogesh Chavan",
-          "description": "Did you know that your React application that's deployed to production can crash any time because of unhandled errors? Thankfully, React Error Boundaries are here to save the day! Whenever any type of error happens during the rendering of a component or in lifecycle methods, React displays a blank page",
-          "link": "https://www.freecodecamp.org/news/how-to-avoid-breaking-your-react-app-in-production/",
-          "publishedOn": "2023-10-17T23:13:21.000Z",
-          "wordCount": 2496,
-          "title": "How to Avoid Breaking Your React Application in Production",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cover_image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-digital-products-store-with-medusa-and-next-js/",
-          "author": "Ashutosh Krishna",
-          "description": "In this tutorial, you will learn how to build an e-book online store using Medusa and Next.js. Throughout the course of the article, we will:  1. Utilize the Medusa Next.js Starter Template     [https://medusajs.com/nextjs-commerce/] along with the Digital Products     Recipe [https://docs.medusajs.com/recipes/digital-products] build",
-          "link": "https://www.freecodecamp.org/news/build-a-digital-products-store-with-medusa-and-next-js/",
-          "publishedOn": "2023-10-17T22:59:34.000Z",
-          "wordCount": 5343,
-          "title": "How to Build a Digital Products Store with Medusa and Next.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/digital-products.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/",
-          "author": "Kamaldeen Lawal",
-          "description": "If you want to improve your JavaScript code, you should understand how event bubbling and event capturing work. The ability to consistently run your code when certain events happen is crucial.  In this tutorial, you’ll learn about the following topics:  * What are Events in JavaScript?  *",
-          "link": "https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/",
-          "publishedOn": "2023-10-17T21:26:37.000Z",
-          "wordCount": 3148,
-          "title": "Event Bubbling and Event Capturing in JavaScript – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Event-Bubbling-and-Event-Capturing-in-JavaScript-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/secure-routes-in-next-js/",
-          "author": "Edeh Israel Chidera",
-          "description": "Web applications often handle sensitive data and admin functionalities that should only be accessible to authenticated users. In such cases, route protection becomes crucial for safeguarding these routes from unauthorized access.  In this tutorial, we'll explore how to protect routes in Next.js 13 using three different methods. We'll learn",
-          "link": "https://www.freecodecamp.org/news/secure-routes-in-next-js/",
-          "publishedOn": "2023-10-17T14:42:10.000Z",
-          "wordCount": 2468,
-          "title": "How to Secure Routes in Next.js 13 – Client-Side, Server-Side, and Middleware-Based Protection",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/fly-d-ZNOxwCEj5mw-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-a-design-system/",
-          "author": "Ijelekhai Faith Olohijere",
-          "description": "You may have heard of, studied, or used a design system at some point in your coding career. But what role do design systems actually play in our projects? Why should we even bother to create or use them? In this guide, you'll be learning what design systems are, why",
-          "link": "https://www.freecodecamp.org/news/how-to-use-a-design-system/",
-          "publishedOn": "2023-10-17T14:37:29.000Z",
-          "wordCount": 3151,
-          "title": "How to Use a Design System – a Case Study",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-toa-heftiba-s-inca-1194420.jpg"
         }
       ]
     }

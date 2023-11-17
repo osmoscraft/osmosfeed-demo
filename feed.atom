@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T00:58:28.038Z</updated>
+    <updated>2023-11-17T00:58:09.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Game Tutorial – Build a Stick Hero Clone with HTML Canvas + JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/"/>
+        <updated>2023-11-16T19:00:55.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to create a game that's inspired by Stick Hero – using pure JavaScript and HTML canvas. We are going to recreate Stick Hero [https://apps.apple.com/us/app/stick-hero/id918338898], a mobile game published by KetchApp. We'll go through how the game works in general, how to use JavaScript to]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Localize Your Django App]]></title>
+        <id>https://www.freecodecamp.org/news/localize-django-app/</id>
+        <link href="https://www.freecodecamp.org/news/localize-django-app/"/>
+        <updated>2023-11-16T18:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how websites can offer their content in multiple languages, perfectly tailored to different cultures and regions?  Well, that magic is called localization, and it's a game-changer for web development – especially when using Django, a super versatile Python framework.  It's not just about translating]]></summary>
+        <author>
+            <name>Jess Wilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT vs BARD AI – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/chatgpt-vs-bard/</id>
+        <link href="https://www.freecodecamp.org/news/chatgpt-vs-bard/"/>
+        <updated>2023-11-16T17:19:15.000Z</updated>
+        <summary type="html"><![CDATA[In November of 2022, Artificial Intelligence took center stage in the tech world. AI was not a new concept, but OpenAI had just released its ChatGPT Large Language Model, and devs started diving into using it.  Large Language Models, or LLMs, let users enter a prompt (some question or]]></summary>
+        <author>
+            <name>Maybell Obadoni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Suspense to Improve your React Projects]]></title>
+        <id>https://www.freecodecamp.org/news/react-suspense/</id>
+        <link href="https://www.freecodecamp.org/news/react-suspense/"/>
+        <updated>2023-11-16T17:04:50.000Z</updated>
+        <summary type="html"><![CDATA[React's ecosystem is always growing, and it seems like there are always new features and enhancements to make development more effective and user-friendly.  React Suspense is one such feature that has become quite popular among React devs. In this guide, you'll learn all about React Suspense and examine its]]></summary>
+        <author>
+            <name>Okosa Leonard Onyekachukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Technical Interviews]]></title>
+        <id>https://www.freecodecamp.org/news/master-technical-interviews/</id>
+        <link href="https://www.freecodecamp.org/news/master-technical-interviews/"/>
+        <updated>2023-11-16T15:30:08.000Z</updated>
+        <summary type="html"><![CDATA[You need to prepare if you want to perform well in technical developer job interviews. We just published a course on the freeCodeCamp.org YouTube channel that will guide you through every aspect of the technical interview process, as well as prepare you for the type of questions you might get]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use TypeScript with React]]></title>
         <id>https://www.freecodecamp.org/news/use-typescript-with-react/</id>
@@ -804,76 +854,6 @@
         <summary type="html"><![CDATA[Chatbots are being used everywhere. And an AI chatbot is a great project to help learn the MERN Stack. We just posted a new video course on the freeCodeCamp.org YouTube channel that will teach you how to create an AI chatbot with the MERN Stack. This course was created by]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Animate Along A Path In CSS]]></title>
-        <id>https://smashingmagazine.com/2023/10/animate-along-path-css/</id>
-        <link href="https://smashingmagazine.com/2023/10/animate-along-path-css/"/>
-        <updated>2023-10-18T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS loaders and progress indicators are some of the most widely used examples in tutorials and documentation. In this article, Preethi demonstrates an approach using animated custom properties, a conic gradient, CSS `offset`, and emoji to create the illusion of a scooter racing along a donut track.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Avoid Breaking Your React Application in Production]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-avoid-breaking-your-react-app-in-production/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-avoid-breaking-your-react-app-in-production/"/>
-        <updated>2023-10-17T23:13:21.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that your React application that's deployed to production can crash any time because of unhandled errors? Thankfully, React Error Boundaries are here to save the day! Whenever any type of error happens during the rendering of a component or in lifecycle methods, React displays a blank page]]></summary>
-        <author>
-            <name>Yogesh Chavan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Digital Products Store with Medusa and Next.js]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-digital-products-store-with-medusa-and-next-js/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-digital-products-store-with-medusa-and-next-js/"/>
-        <updated>2023-10-17T22:59:34.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to build an e-book online store using Medusa and Next.js. Throughout the course of the article, we will:  1. Utilize the Medusa Next.js Starter Template     [https://medusajs.com/nextjs-commerce/] along with the Digital Products     Recipe [https://docs.medusajs.com/recipes/digital-products] build]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Bubbling and Event Capturing in JavaScript – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/"/>
-        <updated>2023-10-17T21:26:37.000Z</updated>
-        <summary type="html"><![CDATA[If you want to improve your JavaScript code, you should understand how event bubbling and event capturing work. The ability to consistently run your code when certain events happen is crucial.  In this tutorial, you’ll learn about the following topics:  * What are Events in JavaScript?  *]]></summary>
-        <author>
-            <name>Kamaldeen Lawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 66 With Ethan Marcotte: What Is A Tech Union?]]></title>
-        <id>https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/</id>
-        <link href="https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/"/>
-        <updated>2023-10-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s Smashing Podcast episode, we’re talking about Tech Unions. What part can unions play in a modern tech workplace? Drew McLellan talks to Ethan Marcotte to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Routes in Next.js 13 – Client-Side, Server-Side, and Middleware-Based Protection]]></title>
-        <id>https://www.freecodecamp.org/news/secure-routes-in-next-js/</id>
-        <link href="https://www.freecodecamp.org/news/secure-routes-in-next-js/"/>
-        <updated>2023-10-17T14:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Web applications often handle sensitive data and admin functionalities that should only be accessible to authenticated users. In such cases, route protection becomes crucial for safeguarding these routes from unauthorized access.  In this tutorial, we'll explore how to protect routes in Next.js 13 using three different methods. We'll learn]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use a Design System – a Case Study]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-a-design-system/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-a-design-system/"/>
-        <updated>2023-10-17T14:37:29.000Z</updated>
-        <summary type="html"><![CDATA[You may have heard of, studied, or used a design system at some point in your coding career. But what role do design systems actually play in our projects? Why should we even bother to create or use them? In this guide, you'll be learning what design systems are, why]]></summary>
-        <author>
-            <name>Ijelekhai Faith Olohijere</name>
         </author>
     </entry>
 </feed>
