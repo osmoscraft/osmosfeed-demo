@@ -235,21 +235,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-best-practices-guide-part2/",
-          "author": "hello@smashingmagazine.com (Daria Karpenko)",
-          "description": "Finding the right typeface is tricky as a whole. Dividing the process into steps and having the right information at hand will make this journey a design adventure full of surprises. To avoid sinking into unnecessary details, use this guide as a map for your path. Review various font paraments and learn how to apply them to your designs.",
-          "link": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-best-practices-guide-part2/",
-          "publishedOn": "2023-10-20T09:00:00.000Z",
-          "wordCount": 5567,
-          "title": "How To Choose Typefaces For Fintech Products: Best Practices Guide (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg"
         }
       ]
     },
@@ -258,6 +243,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/",
+          "author": "Quincy Larson",
+          "description": "Today I'm joined by Dr. Curran Kelleher. He's a data visualization expert and has taught a number of in-depth data visualization courses on freeCodeCamp's YouTube channel. We talk about what it's like to get a Ph.D. under one of the pioneers of data visualization. We also talk about how he",
+          "link": "https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/",
+          "publishedOn": "2023-11-17T21:09:40.000Z",
+          "wordCount": 799,
+          "title": "Podcast: Data Visualization with Dr. Curran Kelleher",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/quincy_and_curran_jpeg-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-game-tutorial-stick-hero-with-html-canvas/",
           "author": "Hunor Márton Borbély",
@@ -877,56 +872,6 @@
           "wordCount": 1084,
           "title": "Use Next.js, Tailwind CSS, and MongoDB to Build a Ticketing Application",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/ticketingapp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-your-first-web-component/",
-          "author": "Joe Attardi",
-          "description": "In 2023, browser support for web components (also known as custom elements) is really good. There's never been a better time to start building your own custom elements. Web components, also known as custom elements, are new HTML elements that you create. These elements encapsulate some markup, style, and interactivity.",
-          "link": "https://www.freecodecamp.org/news/build-your-first-web-component/",
-          "publishedOn": "2023-10-19T20:35:35.000Z",
-          "wordCount": 1400,
-          "title": "How to Build Your First Web Component",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-just-another-photography-dude-68725.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/",
-          "author": "Chris Blakely",
-          "description": "In this in-depth tutorial, we'll build a full stack recipe app from scratch, using React, Node.js, Postgres and the Spoonacular API. We'll cover features such as:  * Building an API server in Node  * Integrating securely with a 3rd party API  * Interacting with a Postgres database",
-          "link": "https://www.freecodecamp.org/news/full-stack-project-create-a-recipe-app-using-react-node-js/",
-          "publishedOn": "2023-10-19T20:31:03.000Z",
-          "wordCount": 7004,
-          "title": "Full Stack Project Tutorial – Create a Recipe App Using React, Node.js and PostgreSQL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/react-note-photo-gallery-app--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-animation-css-vs-javascript/",
-          "author": "Joan Ayebola",
-          "description": "Hover me",
-          "link": "https://www.freecodecamp.org/news/web-animation-css-vs-javascript/",
-          "publishedOn": "2023-10-19T14:54:50.000Z",
-          "wordCount": 2068,
-          "title": "Web Animation Techniques – CSS vs JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Addition-and-Subtraction-Word-Problems-Math-Presentation-Orange-in-Pink-and-Purple-Groovy-Style.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/front-end-developer-roadmap/",
-          "author": "Beau Carnes",
-          "description": "Every week we publish a lot of great content on the freeCodeCamp.org YouTube channel. New people sometimes wonder where to start and what order to watch the courses. Well, if you want to become a front end developer, this is where to start. We just released our front end developer",
-          "link": "https://www.freecodecamp.org/news/front-end-developer-roadmap/",
-          "publishedOn": "2023-10-19T14:23:48.000Z",
-          "wordCount": 2407,
-          "title": "Front End Developer Roadmap",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/frontendroadmap.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-handle-breaking-changes/",
-          "author": "Tim Kleier",
-          "description": "Several years ago while designing APIs for an ecommerce company, I discovered the importance of API versioning. So I wrote about it in a freeCodeCamp [https://www.freecodecamp.org/news] article entitled How to Version a REST API [/news/how-to-version-a-rest-api/].  Now I find myself designing event schemas for sending messages across a distributed system.",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-breaking-changes/",
-          "publishedOn": "2023-10-19T14:18:25.000Z",
-          "wordCount": 1623,
-          "title": "How to Handle Breaking Changes for API and Event Schemas",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/7115374283_30d07f11c3_c-2.jpg"
         }
       ]
     }
