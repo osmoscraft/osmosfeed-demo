@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-20T00:59:02.129Z</updated>
+    <updated>2023-11-21T00:59:11.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build and Deploy a python-telegram-bot v20 Webhook]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/"/>
+        <updated>2023-11-20T20:43:21.000Z</updated>
+        <summary type="html"><![CDATA[The python-telegram-bot v20 release introduced major structural changes. According to the documentation, > “All networking and I/O-related logic now works via coroutine functions (i.e.  async def ... functions). In particular, all methods of the telegram.Bot class that make requests to the Bot API are now coroutine functions and need]]></summary>
+        <author>
+            <name>Chua Hui Shun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: Data Visualization with Dr. Curran Kelleher]]></title>
         <id>https://www.freecodecamp.org/news/podcast-data-visualization-curran-kelleher/</id>
