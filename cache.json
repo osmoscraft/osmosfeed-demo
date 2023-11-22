@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
+          "author": "hello@smashingmagazine.com (Victor Yocco & Dana Daniels)",
+          "description": "Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.",
+          "link": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
+          "publishedOn": "2023-11-21T12:00:00.000Z",
+          "wordCount": 7480,
+          "title": "Creating And Maintaining A Voice Of Customer Program",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-maintaining-voice-customer-program/creating-maintaining-voice-customer-program.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-maintaining-voice-customer-program/creating-maintaining-voice-customer-program.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/design-to-code-handoff-process-uno-platform-figma/",
           "author": "hello@smashingmagazine.com (Matthew Mattei)",
           "description": "Effective collaboration between designers and developers is vital to creating good user experiences. However, bridging the handoff between design and development with the many tools and workflows available today has its pitfalls. Matthew Mattei introduces you to the Uno Platform, which offers a robust set of productivity boosters.",
@@ -205,21 +220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.",
-          "link": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
-          "publishedOn": "2023-10-23T13:00:00.000Z",
-          "wordCount": 5434,
-          "title": "What Removing Object Properties Tells Us About JavaScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/removing-object-properties-javascript/removing-object-properties-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/removing-object-properties-javascript/removing-object-properties-javascript.jpg"
         }
       ]
     },
@@ -228,6 +228,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/user-authentication-flow-in-flutter-with-firebase-and-bloc/",
+          "author": "Justice Nwogu",
+          "description": "User authentication is critical to mobile app development. It helps make sure that only authorized users can access sensitive information and perform actions within an application. In this tutorial, we will explore how to build secure user authentication in Flutter using Firebase for authentication and the Bloc state management pattern",
+          "link": "https://www.freecodecamp.org/news/user-authentication-flow-in-flutter-with-firebase-and-bloc/",
+          "publishedOn": "2023-11-21T15:21:20.000Z",
+          "wordCount": 3358,
+          "title": "How to Build a Secure User Authentication Flow in Flutter with Firebase and Bloc State Management",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Group-1--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/if-statements-javascript/",
+          "author": "Joan Ayebola",
+          "description": "JavaScript is a powerful and versatile programming language that is widely used for creating dynamic and interactive web pages.  One of the fundamental building blocks of JavaScript programming is the if  statement. if statements allow developers to control the flow of their programs by making decisions based on",
+          "link": "https://www.freecodecamp.org/news/if-statements-javascript/",
+          "publishedOn": "2023-11-20T21:45:44.000Z",
+          "wordCount": 2052,
+          "title": "How to Use If Statements in JavaScript – a Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Pink-Elegant-Group-Project-Education-Presentation.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/",
           "author": "Chua Hui Shun",
@@ -837,16 +857,6 @@
           "wordCount": 2448,
           "title": "How Docker Containers Work – Explained for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cover-final.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/testing-in-python-with-pytest/",
-          "author": "Beau Carnes",
-          "description": "Ensuring the reliability and functionality of your code is crucial. This is where testing comes into play, serving as a safety net that helps catch bugs and verify that your application behaves as expected. We just published a pytest course on the freeCodeCamp.org YouTube channel. Pytest is one of the",
-          "link": "https://www.freecodecamp.org/news/testing-in-python-with-pytest/",
-          "publishedOn": "2023-10-23T12:50:23.000Z",
-          "wordCount": 1044,
-          "title": "Testing in Python with Pytest",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pytest.png"
         }
       ]
     }
