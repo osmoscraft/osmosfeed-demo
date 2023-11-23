@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "In Part 1 of the series, Temani Afif demonstrated how creating ribbon patterns in CSS has evolved with the availability of new CSS features. In this second installment of this brief two-part series, we look at two additional ribbon variations that introduce techniques for masking a repeated background gradient in CSS.",
+          "link": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/",
+          "publishedOn": "2023-11-22T10:00:00.000Z",
+          "wordCount": 5204,
+          "title": "CSS Responsive Multi-Line Ribbon Shapes (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
           "author": "hello@smashingmagazine.com (Victor Yocco & Dana Daniels)",
           "description": "Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.",
@@ -228,6 +243,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
+          "author": "Vahe Aslanyan",
+          "description": "If you're regularly confronted by the complexity of modern data, you’re not alone. In our data-centric world, understanding data structures isn’t optional — it’s essential.  Whether you’re a novice coder or an experienced developer, this handbook is your concise guide to the critical skill of data management through data structures. Data",
+          "link": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
+          "publishedOn": "2023-11-22T20:44:53.000Z",
+          "wordCount": 15753,
+          "title": "Data Structures Handbook – The Key to Scalable Software",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/The-Data-Structures-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
+          "author": "Beau Carnes",
+          "description": "Scikit-learn is an open-source machine learning library for Python, known for its simplicity, versatility, and accessibility. The library is well-documented and supported by a large community, making it a popular choice for both beginners and experienced practitioners in the field of machine learning. We just published an 18-hour course on",
+          "link": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
+          "publishedOn": "2023-11-22T16:14:14.000Z",
+          "wordCount": 969,
+          "title": "Machine Learning with Python and Scikit-Learn",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/machinelearning.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/go-language-for-encryption-projects/",
+          "author": "Beau Carnes",
+          "description": "Go, or Golang, is a powerful programming language known for its simplicity, efficiency, and strong support for concurrent programming. It's a favorite among developers for building scalable web applications, cloud services, and more. We just released a Go course on the freeCodeCamp.org YouTube channel that walks you through building three",
+          "link": "https://www.freecodecamp.org/news/go-language-for-encryption-projects/",
+          "publishedOn": "2023-11-22T04:21:48.000Z",
+          "wordCount": 909,
+          "title": "Go Language for Encryption – Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/go2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/",
+          "author": "Beau Carnes",
+          "description": "LangChain is an AI-first framework designed to enable developers to create context-aware reasoning applications by linking powerful Large Language Models with external data sources. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about LangChain. The course will equip you with the cutting-edge skills",
+          "link": "https://www.freecodecamp.org/news/learn-langchain-to-link-llms-with-external-data/",
+          "publishedOn": "2023-11-22T04:10:10.000Z",
+          "wordCount": 933,
+          "title": "Learn LangChain to link LLMs with external data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/langchain4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/career-mistakes-to-avoid-as-a-dev/",
+          "author": "TAPAS ADHIKARY",
+          "description": "What does the word career mean to you? To me, it is a roller coaster journey during which we find opportunities, progress, and growth in life. The journey involves learning objectives, work, and other personal and professional aspects. A promising career is one where you enjoy most (if not all)",
+          "link": "https://www.freecodecamp.org/news/career-mistakes-to-avoid-as-a-dev/",
+          "publishedOn": "2023-11-22T00:04:22.000Z",
+          "wordCount": 4650,
+          "title": "Career Mistakes to Avoid as a Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Career-Mistakes-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-projects-as-a-junior-developer/",
+          "author": "Spruce Emmanuel",
+          "description": "Several months ago, I stumbled upon a coding challenge that intrigued me. Here's what it was: > Fun frontend question I was asked in an interview one time Build six squares with no color Every time you click one, it turns green When the last square turns green, they all",
+          "link": "https://www.freecodecamp.org/news/how-to-build-projects-as-a-junior-developer/",
+          "publishedOn": "2023-11-21T21:25:28.000Z",
+          "wordCount": 2292,
+          "title": "How to Build Successful Projects as a Junior Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/scott-graham-5fNmWej4tAA-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-visualization-for-leetcode-two-sum-problem/",
+          "author": "Jessica Wilkins",
+          "description": "With the current state of the job market, there are a lot of people grinding out  LeetCode [https://leetcode.com/] as a way to prepare for technical interviews.  But sometimes it would be nice if there were a visualization showing the algorithms behind these problems.  In this tutorial, we",
+          "link": "https://www.freecodecamp.org/news/build-a-visualization-for-leetcode-two-sum-problem/",
+          "publishedOn": "2023-11-21T21:08:22.000Z",
+          "wordCount": 5377,
+          "title": "How to Build a Visualization for Leetcode's Two Sum Problem – HTML, CSS, & JavaScript Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/user-authentication-flow-in-flutter-with-firebase-and-bloc/",
           "author": "Justice Nwogu",
@@ -807,56 +892,6 @@
           "wordCount": 2569,
           "title": "How to Swap the Values of Two Variables Without a Temporary Variable in Python",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/How-To-Swap-The-Values-of-Two-Variables-Without-a-Temporary-Variable-in-python-1-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/",
-          "author": "Beau Carnes",
-          "description": "Harvard University's CS50 is one of the most popular beginner computer science courses in the world. We just released the entire 26-hour CS50 course on the freeCodeCamp.org YouTube channel. This is the updated 2023 edition of the course. Dr. David J. Malan is widely considered to be one of the",
-          "link": "https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/",
-          "publishedOn": "2023-10-24T12:43:14.000Z",
-          "wordCount": 808,
-          "title": "Harvard CS50 – Free Computer Science Course (2023 Edition)",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cs502023.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-dunning-kruger-effect/",
-          "author": "Lee Ren Jie",
-          "description": "What is the Dunning-Kruger Effect? Hey there, fellow developers! Imagine this. You've just landed your first tech job or maybe you're fresh out of a coding boot camp/university. You're pumped, excited, and ready to show the world with everything you've got.  But wait a minute—ever heard of the Dunning-Kruger",
-          "link": "https://www.freecodecamp.org/news/the-dunning-kruger-effect/",
-          "publishedOn": "2023-10-23T21:00:12.000Z",
-          "wordCount": 2599,
-          "title": "How to Excel as a New Developer and Beat the Dunning-Kruger Trap",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/conf.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-center-text-vertically-with-css/",
-          "author": "Joe Attardi",
-          "description": "If you have some text inside a div, and nothing else, the div's height will match the text height. Suppose, though, you have some text and an image. Your text will be aligned at the bottom of the div, which is usually not what you want. In this article, you'll",
-          "link": "https://www.freecodecamp.org/news/how-to-center-text-vertically-with-css/",
-          "publishedOn": "2023-10-23T19:44:32.000Z",
-          "wordCount": 1242,
-          "title": "How to Center Text Vertically with CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-alexander-ermakov-12154194.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/technical-writing-for-developers/",
-          "author": "Ankur Tyagi",
-          "description": "Having a blog is a useful asset for developers. It can be a lead magnet, as well as a place where you can sell digital products you create.  It can also simply be the place where you build a loyal audience within your niche, share your knowledge and ideas,",
-          "link": "https://www.freecodecamp.org/news/technical-writing-for-developers/",
-          "publishedOn": "2023-10-23T17:22:04.000Z",
-          "wordCount": 5936,
-          "title": "Technical Writing for Developers – Why You Should Have a Blog and How to Start One",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Orange---Yellow-Gradient-Make-Design-Blog-Banner--42-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-docker-containers-work/",
-          "author": "Daniel Adetunji",
-          "description": "A container is a lightweight, standalone, and executable software package that includes everything needed to run a piece of software. And one of the most popular tools for working with containers is Docker. Docker is both the name of the company (Docker Inc) and the software they have created which",
-          "link": "https://www.freecodecamp.org/news/how-docker-containers-work/",
-          "publishedOn": "2023-10-23T16:45:13.000Z",
-          "wordCount": 2448,
-          "title": "How Docker Containers Work – Explained for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/cover-final.png"
         }
       ]
     }
