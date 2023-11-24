@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "A well-designed composable system should not only consider the technical aspects but also take into account the nature of the content it handles. To help us with that, we can use a Headless Content Management system such as Storyblok.",
+          "link": "https://smashingmagazine.com/2023/11/introduction-full-stack-composability/",
+          "publishedOn": "2023-11-23T20:00:00.000Z",
+          "wordCount": 4389,
+          "title": "An Introduction To Full Stack Composability",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/full-stack-composability-storyblok/intro-full-stack-composability.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/full-stack-composability-storyblok/intro-full-stack-composability.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part2/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
           "description": "In Part 1 of the series, Temani Afif demonstrated how creating ribbon patterns in CSS has evolved with the availability of new CSS features. In this second installment of this brief two-part series, we look at two additional ribbon variations that introduce techniques for masking a repeated background gradient in CSS.",
@@ -220,21 +235,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/actionable-reliable-usability-questionnaire-inuit/reliable-usability-questionnaire-inuit.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.",
-          "link": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
-          "publishedOn": "2023-10-24T18:00:00.000Z",
-          "wordCount": 6098,
-          "title": "The Fight For The Main Thread",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg"
         }
       ]
     },
@@ -243,6 +243,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/dom-manipulation-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "JavaScript, the language of the web, empowers developers to create dynamic and interactive web pages. One of the key features that enables this interactivity is Document Object Model (DOM) manipulation.  DOM manipulation allows developers to interact with and modify the structure, style, and content of web pages. In this",
+          "link": "https://www.freecodecamp.org/news/dom-manipulation-in-javascript/",
+          "publishedOn": "2023-11-23T08:16:19.000Z",
+          "wordCount": 2193,
+          "title": "DOM Manipulation in JavaScript – A Comprehensive Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Beige-Aesthetic-Neutral-Thesis-Defense-Presentation-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/",
+          "author": "Victoria Poromon",
+          "description": "Django model fields define the structure of a database within a Django web application. Using this essential component will keep your work organized and help you make fewer mistakes in your code. This article will discuss some common Django model fields and how to use them in your code. To",
+          "link": "https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/",
+          "publishedOn": "2023-11-23T00:03:28.000Z",
+          "wordCount": 1984,
+          "title": "Django Model Fields – Common Use Cases and How They Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Django-models-article-cover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/",
+          "author": "Ayu Adiati",
+          "description": "> Hey {username}, we've merged a PR before yours. Please resolve the merge conflicts so we can review and merge your PR. Have you ever received that kind of message from a maintainer while waiting for your pull request to be reviewed and merged? And then, you're panicking because you",
+          "link": "https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/",
+          "publishedOn": "2023-11-22T23:23:20.000Z",
+          "wordCount": 2023,
+          "title": "How to Keep Branches Up-to-Date and Resolve Merge Conflicts in GitHub and VS Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/How-to-Keep-Branches-Up-to-Date-and-Resolve-Merge-Conflicts-in-GitHub-and-VS-Code.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/get-your-first-data-science-internship/",
+          "author": "Tatev Aslanyan",
+          "description": "Do you want to break into Data Science in 2024? Then you should consider trying to get your first Data Science internship.  Internships can help you gain invaluable experience and set you up for success in the ever-evolving field of Data Science. But with fierce competition, limited opportunities, unclear",
+          "link": "https://www.freecodecamp.org/news/get-your-first-data-science-internship/",
+          "publishedOn": "2023-11-22T23:01:18.000Z",
+          "wordCount": 9001,
+          "title": "How to Get Your First Data Science Internship",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Data-Science-Internship-1.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
           "author": "Vahe Aslanyan",
@@ -842,56 +882,6 @@
           "wordCount": 1729,
           "title": "How to Structure JSON Responses in ChatGPT with Function Calling",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/chatgpt-ui-circled-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-mysql-beginners-course/",
-          "author": "Beau Carnes",
-          "description": "Databases have become an integral part of storing and managing data efficiently. MySQL, a widely used open-source relational database management system, empowers users to handle data in a structured manner, facilitating easier retrieval and manipulation of information. Understanding MySQL is vital for developers, data analysts, and anyone aspiring to delve",
-          "link": "https://www.freecodecamp.org/news/learn-mysql-beginners-course/",
-          "publishedOn": "2023-10-25T12:43:08.000Z",
-          "wordCount": 857,
-          "title": "Learn MySQL – Beginner's Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/mysql.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/",
-          "author": "Juliet Ofoegbu",
-          "description": "As a front-end developer, you may have used a free hosting platform like Vercel, Netlify, or GitHub pages to deploy your front-end projects. Personally, I typically use Vercel and Netlify. But I also like trying out different web technologies, and I've used Firebase's authentication and storage features on different projects",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/",
-          "publishedOn": "2023-10-24T15:55:28.000Z",
-          "wordCount": 2591,
-          "title": "How to Host and Deploy a React App with Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-pixabay-207241.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-handbook/",
-          "author": "Tatev Karen Aslanyan",
-          "description": "If you're planning to become a Machine Learning Engineer, Data Scientist, or you want to refresh your memory before your interviews, this handbook is for you.  In it, we'll cover the key Machine Learning algorithms you'll need to know as a Data Scientist, Machine Learning Engineer, Machine Learning Researcher,",
-          "link": "https://www.freecodecamp.org/news/machine-learning-handbook/",
-          "publishedOn": "2023-10-24T14:59:14.000Z",
-          "wordCount": 16216,
-          "title": "Machine Learning Fundamentals Handbook – Key Concepts, Algorithms, and Python Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/The-Machine-Learning-Fundamentals-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/",
-          "author": "Valentine Gatwiri",
-          "description": "In the world of Java development, selecting the right build tool is a crucial decision. Build tools automate various tasks, making the development process smoother and more efficient.  In this article, we'll explore three popular build tools used in Java development: Maven, Gradle, and Ant. We'll discuss their features,",
-          "link": "https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/",
-          "publishedOn": "2023-10-24T14:57:08.000Z",
-          "wordCount": 1834,
-          "title": "How to Choose the Right Build Tool for Your Java Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Screenshot-from-2023-10-22-18-08-03.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/",
-          "author": "Isah Jacob",
-          "description": "Swapping the values of two variables is a common task in programming. While the most straightforward approach involves using a temporary variable, Python provides several elegant techniques to achieve the same result without the need for that extra variable.  In this tutorial, we will take a look at some",
-          "link": "https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/",
-          "publishedOn": "2023-10-24T14:50:48.000Z",
-          "wordCount": 2569,
-          "title": "How to Swap the Values of Two Variables Without a Temporary Variable in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/How-To-Swap-The-Values-of-Two-Variables-Without-a-Temporary-Variable-in-python-1-1.png"
         }
       ]
     }

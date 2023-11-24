@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T00:57:32.333Z</updated>
+    <updated>2023-11-24T00:56:29.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An Introduction To Full Stack Composability]]></title>
+        <id>https://smashingmagazine.com/2023/11/introduction-full-stack-composability/</id>
+        <link href="https://smashingmagazine.com/2023/11/introduction-full-stack-composability/"/>
+        <updated>2023-11-23T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A well-designed composable system should not only consider the technical aspects but also take into account the nature of the content it handles. To help us with that, we can use a Headless Content Management system such as Storyblok.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOM Manipulation in JavaScript – A Comprehensive Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/dom-manipulation-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/dom-manipulation-in-javascript/"/>
+        <updated>2023-11-23T08:16:19.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript, the language of the web, empowers developers to create dynamic and interactive web pages. One of the key features that enables this interactivity is Document Object Model (DOM) manipulation.  DOM manipulation allows developers to interact with and modify the structure, style, and content of web pages. In this]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django Model Fields – Common Use Cases and How They Work]]></title>
+        <id>https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/</id>
+        <link href="https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/"/>
+        <updated>2023-11-23T00:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Django model fields define the structure of a database within a Django web application. Using this essential component will keep your work organized and help you make fewer mistakes in your code. This article will discuss some common Django model fields and how to use them in your code. To]]></summary>
+        <author>
+            <name>Victoria Poromon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Keep Branches Up-to-Date and Resolve Merge Conflicts in GitHub and VS Code]]></title>
+        <id>https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/</id>
+        <link href="https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/"/>
+        <updated>2023-11-22T23:23:20.000Z</updated>
+        <summary type="html"><![CDATA[> Hey {username}, we've merged a PR before yours. Please resolve the merge conflicts so we can review and merge your PR. Have you ever received that kind of message from a maintainer while waiting for your pull request to be reviewed and merged? And then, you're panicking because you]]></summary>
+        <author>
+            <name>Ayu Adiati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your First Data Science Internship]]></title>
+        <id>https://www.freecodecamp.org/news/get-your-first-data-science-internship/</id>
+        <link href="https://www.freecodecamp.org/news/get-your-first-data-science-internship/"/>
+        <updated>2023-11-22T23:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to break into Data Science in 2024? Then you should consider trying to get your first Data Science internship.  Internships can help you gain invaluable experience and set you up for success in the ever-evolving field of Data Science. But with fierce competition, limited opportunities, unclear]]></summary>
+        <author>
+            <name>Tatev Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Structures Handbook – The Key to Scalable Software]]></title>
         <id>https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/</id>
@@ -744,66 +794,6 @@
         <summary type="html"><![CDATA[ChatGPT's Problem With JSON Open up the ChatGPT UI [https://chat.openai.com/] and ask it for some JSON. Chances are you will get a response like you can see in the cover photo above: a JSON object presented to you in markdown format, with some text to either side explaining what the]]></summary>
         <author>
             <name>James Charlesworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn MySQL – Beginner's Course]]></title>
-        <id>https://www.freecodecamp.org/news/learn-mysql-beginners-course/</id>
-        <link href="https://www.freecodecamp.org/news/learn-mysql-beginners-course/"/>
-        <updated>2023-10-25T12:43:08.000Z</updated>
-        <summary type="html"><![CDATA[Databases have become an integral part of storing and managing data efficiently. MySQL, a widely used open-source relational database management system, empowers users to handle data in a structured manner, facilitating easier retrieval and manipulation of information. Understanding MySQL is vital for developers, data analysts, and anyone aspiring to delve]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fight For The Main Thread]]></title>
-        <id>https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/</id>
-        <link href="https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/"/>
-        <updated>2023-10-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Host and Deploy a React App with Firebase]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-a-react-app-with-firebase/"/>
-        <updated>2023-10-24T15:55:28.000Z</updated>
-        <summary type="html"><![CDATA[As a front-end developer, you may have used a free hosting platform like Vercel, Netlify, or GitHub pages to deploy your front-end projects. Personally, I typically use Vercel and Netlify. But I also like trying out different web technologies, and I've used Firebase's authentication and storage features on different projects]]></summary>
-        <author>
-            <name>Juliet Ofoegbu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Fundamentals Handbook – Key Concepts, Algorithms, and Python Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/machine-learning-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/machine-learning-handbook/"/>
-        <updated>2023-10-24T14:59:14.000Z</updated>
-        <summary type="html"><![CDATA[If you're planning to become a Machine Learning Engineer, Data Scientist, or you want to refresh your memory before your interviews, this handbook is for you.  In it, we'll cover the key Machine Learning algorithms you'll need to know as a Data Scientist, Machine Learning Engineer, Machine Learning Researcher,]]></summary>
-        <author>
-            <name>Tatev Karen Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose the Right Build Tool for Your Java Projects]]></title>
-        <id>https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/</id>
-        <link href="https://www.freecodecamp.org/news/choose-the-right-build-tool-for-your-java-projects/"/>
-        <updated>2023-10-24T14:57:08.000Z</updated>
-        <summary type="html"><![CDATA[In the world of Java development, selecting the right build tool is a crucial decision. Build tools automate various tasks, making the development process smoother and more efficient.  In this article, we'll explore three popular build tools used in Java development: Maven, Gradle, and Ant. We'll discuss their features,]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Swap the Values of Two Variables Without a Temporary Variable in Python]]></title>
-        <id>https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/swapping-values-of-two-variables-without-a-temporary-variable-in-python/"/>
-        <updated>2023-10-24T14:50:48.000Z</updated>
-        <summary type="html"><![CDATA[Swapping the values of two variables is a common task in programming. While the most straightforward approach involves using a temporary variable, Python provides several elegant techniques to achieve the same result without the need for that extra variable.  In this tutorial, we will take a look at some]]></summary>
-        <author>
-            <name>Isah Jacob</name>
         </author>
     </entry>
 </feed>
