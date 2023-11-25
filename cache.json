@@ -220,21 +220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/beginner-web-development-working-career/beginner-web-development-working-career.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/actionable-reliable-usability-questionnaire-inuit/",
-          "author": "hello@smashingmagazine.com (Maximilian Speicher & Johanna Jagow)",
-          "description": "Inuit (short for “**In**terface **U**sability **I**nstrumen**t**”) is a new questionnaire you can use to assess the usability of your user interface. It has been designed to be more diagnostic than existing usability instruments like, e.g., SUS and for use with machine learning, all the while asking fewer questions than other questionnaires. This article explores how and why Inuit has been developed and why we can be sure that it actually measures usability, and reliably so.",
-          "link": "https://smashingmagazine.com/2023/10/actionable-reliable-usability-questionnaire-inuit/",
-          "publishedOn": "2023-10-26T10:00:00.000Z",
-          "wordCount": 5912,
-          "title": "An Actionable And Reliable Usability Questionnaire With Only 7 Items: <span style=\"font-variant: small-caps\">Inuit</span>",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/actionable-reliable-usability-questionnaire-inuit/reliable-usability-questionnaire-inuit.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/actionable-reliable-usability-questionnaire-inuit/reliable-usability-questionnaire-inuit.jpg"
         }
       ]
     },
@@ -243,6 +228,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/top-open-source-contributors-2023/",
+          "author": "Quincy Larson",
+          "description": "2023 has been an amazing year for the freeCodeCamp community.  I'm so grateful for the many kind volunteers who have helped us advance our mission of creating open learning resources. Over the past 12 months, the freeCodeCamp community has:  * Merged 2,753 code contributions into our open source",
+          "link": "https://www.freecodecamp.org/news/top-open-source-contributors-2023/",
+          "publishedOn": "2023-11-24T03:15:43.000Z",
+          "wordCount": 1306,
+          "title": "freeCodeCamp's Top Open Source Contributors of 2023",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Top-Open-Source-Contributors-2023-Static.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/dom-manipulation-in-javascript/",
           "author": "Joan Ayebola",
@@ -862,26 +857,6 @@
           "wordCount": 2278,
           "title": "How I Created a SQL-like Language to Run Queries on Local Git Repositories",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/gitql_banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-algorithmic-trading-using-python/",
-          "author": "Beau Carnes",
-          "description": "In the realm of financial markets, algorithmic trading has revolutionized the way trades are executed, providing a systematic approach to analyzing data and making investment decisions. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement algorithmic trading with Python using a variety",
-          "link": "https://www.freecodecamp.org/news/learn-algorithmic-trading-using-python/",
-          "publishedOn": "2023-10-26T12:38:34.000Z",
-          "wordCount": 1030,
-          "title": "Learn Algorithmic Trading Using Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/trading.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-json-back-from-chatgpt-with-function-calling/",
-          "author": "James Charlesworth",
-          "description": "ChatGPT's Problem With JSON Open up the ChatGPT UI [https://chat.openai.com/] and ask it for some JSON. Chances are you will get a response like you can see in the cover photo above: a JSON object presented to you in markdown format, with some text to either side explaining what the",
-          "link": "https://www.freecodecamp.org/news/how-to-get-json-back-from-chatgpt-with-function-calling/",
-          "publishedOn": "2023-10-25T18:09:35.000Z",
-          "wordCount": 1729,
-          "title": "How to Structure JSON Responses in ChatGPT with Function Calling",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/chatgpt-ui-circled-1.png"
         }
       ]
     }
