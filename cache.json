@@ -205,21 +205,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/answering-questions-interpreting-page-speed-reports/answering-questions-interpreting-page-speed-reports.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/desktop-wallpaper-calendars-november-2023/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make this November colorful!",
-          "link": "https://smashingmagazine.com/2023/10/desktop-wallpaper-calendars-november-2023/",
-          "publishedOn": "2023-10-31T09:45:00.000Z",
-          "wordCount": 4984,
-          "title": "Tales Of November (2023 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2023/nov-23-transition-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2023/nov-23-transition-preview-opt.png"
         }
       ]
     },
@@ -228,6 +213,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/",
+          "author": "Nathan Sebhastian",
+          "description": "Hello again, friends! The reduce() method is one of the most confusing Array methods in JavaScript. So in this article, I’m going to help you clearly see how the method works.  I'm also going to show some examples that'll help you understand how and where you may want to",
+          "link": "https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/",
+          "publishedOn": "2023-11-29T18:30:22.000Z",
+          "wordCount": 2233,
+          "title": "How to Use JavaScript's Array reduce() Method – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/js-reduce.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/",
+          "author": "Nishant Kumar",
+          "description": "ECMAScript 2023, the 14th edition of the language, has some great changes that will make your programming life easier.  In this article, I'll go through each of the changes and explain why they're helpful. So let’s dive in and see some new methods we got as an early Christmas",
+          "link": "https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/",
+          "publishedOn": "2023-11-29T18:09:51.000Z",
+          "wordCount": 1333,
+          "title": "What's New in JavaScript in 2023 – Changes with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/What-s-new.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-promise-object-explained/",
+          "author": "Nathan Sebhastian",
+          "description": "Hi everyone! In this article, I’m going to teach you one of the most confusing JavaScript topics, which is the Promise object. Promises may seem difficult at first, but they're actually quite simple once you understand how they work. Here's what we'll cover:  1. How a Promise Works",
+          "link": "https://www.freecodecamp.org/news/javascript-promise-object-explained/",
+          "publishedOn": "2023-11-29T15:55:31.000Z",
+          "wordCount": 3261,
+          "title": "How JavaScript Promises Work – Tutorial for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/js-promise.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-movie-recommendation-system-based-on-collaborative-filtering/",
+          "author": "Jess Wilk",
+          "description": "In today’s world of technology, we get more recommendations from Artificial Intelligence models than from our friends.  Surprised? Think of the content you see and the apps you use daily. We get product recommendations on Amazon, clothing recommendations on Myntra, and movie suggestions on Netflix based on our past",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-movie-recommendation-system-based-on-collaborative-filtering/",
+          "publishedOn": "2023-11-29T15:45:18.000Z",
+          "wordCount": 2326,
+          "title": "How to Build a Movie Recommendation System Based on Collaborative Filtering",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/movie-recommendation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Creating projects is very important for expanding your web development portfolio. Transforming an idea into a real project can help you to practice and understand key concepts and techniques. We just published a 3-hour course in Spanish on freeCodeCamp's Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you how to build",
+          "link": "https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/",
+          "publishedOn": "2023-11-29T15:17:48.000Z",
+          "wordCount": 1093,
+          "title": "Practice HTML, CSS, and JavaScript in Spanish by Building 7 Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Thumbnail-Version-2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-base64-encoding/",
           "author": "Sergei Bachinin",
@@ -887,46 +922,6 @@
           "wordCount": 2764,
           "title": "How to Loop Through Arrays in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Colorful-Bold-Math-Factors-Lesson-and-Quiz.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/",
-          "author": "Satyam Tripathi",
-          "description": "Amazon is the most popular e-commerce website for web scrapers, with billions of product pages being scraped every month.  It is also home to a vast database of product reviews, which can be very useful for market research and competitor monitoring.  You can extract relevant data from the",
-          "link": "https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/",
-          "publishedOn": "2023-10-30T16:46:40.000Z",
-          "wordCount": 1923,
-          "title": "How to Scrape Amazon Product Reviews Behind a Login",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/pexels-pixabay-159751--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to dive into the world of Android development using Kotlin? We just posted a 10-hour Android course on the freeCodeCamp.org YouTube channel. Alexandru Cristian created this course. I will help you understand how to develop with Kotlin and Android. This course will take you on a journey",
-          "link": "https://www.freecodecamp.org/news/kotlin-and-android-development-build-a-chat-app/",
-          "publishedOn": "2023-10-30T16:24:23.000Z",
-          "wordCount": 937,
-          "title": "Kotlin and Android Development – Build a Chat App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/kotlinandroid.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/",
-          "author": "Ashutosh Krishna",
-          "description": "In today's data-driven world, automation is key to streamlining tasks and saving time. In this beginner-friendly tutorial, I'll walk you through the process of automating data exports from a PostgreSQL database and sending them as an email attachment using Python.  This step-by-step guide will help you grasp the fundamentals",
-          "link": "https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/",
-          "publishedOn": "2023-10-30T16:08:37.000Z",
-          "wordCount": 5007,
-          "title": "How to Automate Data Exports and Email Reports with Python – a Step-by-Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/report-automation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/",
-          "author": "Joan Ayebola",
-          "description": "When it comes to styling web pages, CSS or Cascading Style Sheets is the go-to tool for web developers. CSS is what gives your website that visually appealing look and feel, from colors and fonts to layout and positioning.  But there are two distinct approaches to applying CSS: using",
-          "link": "https://www.freecodecamp.org/news/css-frameworks-vs-custom-css/",
-          "publishedOn": "2023-10-30T14:51:25.000Z",
-          "wordCount": 1659,
-          "title": "CSS Frameworks vs Custom CSS – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Vintage-Colors-Retro-Interactive--Icebreaker-Education-Presentation--1-.png"
         }
       ]
     }
