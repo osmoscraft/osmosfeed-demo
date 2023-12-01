@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Could there be a better way to welcome the new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up the last few weeks of the year and, if you’re celebrating, to get you in the holiday mood.",
+          "link": "https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/",
+          "publishedOn": "2023-11-30T09:30:00.000Z",
+          "wordCount": 4992,
+          "title": "Cold Days, Shining Lights (December 2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-dec-2023/dec-23-sweet-ride-into-the-holidays-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-dec-2023/dec-23-sweet-ride-into-the-holidays-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/crafting-killer-brand-identity-digital-product/",
           "author": "hello@smashingmagazine.com (Sasha Denisova)",
           "description": "In this article, Sasha guides you through crucial processes and factors to achieve a consistent brand presence across platforms. She offers an overview of the entire brand identity process, explores collaboration with UI teams, and provides essential details on the assets required for the successful implementation of a digital brand.",
@@ -190,21 +205,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/search-ideal-privacy-icon/search-ideal-privacy-icon.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "Take a closer look at how various performance tools audit and report on performance metrics, such as core web vitals. Geoff Graham answers a set of common questions that pop up during performance audits.",
-          "link": "https://smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/",
-          "publishedOn": "2023-10-31T16:00:00.000Z",
-          "wordCount": 5490,
-          "title": "Answering Common Questions About Interpreting Page Speed Reports",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/answering-questions-interpreting-page-speed-reports/answering-questions-interpreting-page-speed-reports.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/answering-questions-interpreting-page-speed-reports/answering-questions-interpreting-page-speed-reports.jpg"
         }
       ]
     },
@@ -213,6 +213,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-arrow-functions-in-depth/",
+          "author": "Nathan Sebhastian",
+          "description": "Hello everyone! In this article, I’m going to explain one of the most useful features in JavaScript: the arrow function. I’ll compare the arrow function with the regular function syntax, I'll show you how to convert a regular function into an arrow function easily, and I'll discuss why the arrow",
+          "link": "https://www.freecodecamp.org/news/javascript-arrow-functions-in-depth/",
+          "publishedOn": "2023-11-30T19:26:49.000Z",
+          "wordCount": 2423,
+          "title": "How to Use JavaScript Arrow Functions – Explained in Detail",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/How-to-get-file-extension-with-PHP.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-html-accordions-with-and-without-javascript/",
+          "author": "Eamonn Cottrell",
+          "description": "Accordion elements are very handy for displaying topic titles and expandable details below them when you click the title. In this article, I'll walk you through creating an FAQ section with some expandable accordion elements. I'll show you how to do this without any JavaScript, and then we'll add a",
+          "link": "https://www.freecodecamp.org/news/create-html-accordions-with-and-without-javascript/",
+          "publishedOn": "2023-11-30T19:10:31.000Z",
+          "wordCount": 1679,
+          "title": "How to Create HTML Accordion Elements With and Without JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/accordion-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/clang-ast-based-static-analysis-tools/",
+          "author": "Jayant Chowdhary",
+          "description": "Clang is a set of tools and projects that provides infrastructure for languages in the C family like C, C++, OpenCL, and CUDA. It is a part of the LLVM [https://www.llvm.org/] project. This article will show you how to use Clang's front end libraries to build a simple static analysis",
+          "link": "https://www.freecodecamp.org/news/clang-ast-based-static-analysis-tools/",
+          "publishedOn": "2023-11-30T19:01:21.000Z",
+          "wordCount": 2887,
+          "title": "How to Build a Clang AST-Based C++ Static Analysis Tool",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/ClangCover-2.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/",
+          "author": "Beau Carnes",
+          "description": "Creating an Instagram clone is a fun project that can help you master important front end development skills. We just published a course on the freeCodeCamp.org YouTube channel that teaches you how to create an Instagram clone using React and Firebase. Burak Orkmez developed this course. This course is perfect",
+          "link": "https://www.freecodecamp.org/news/code-and-deploy-an-instagram-clone-with-react-and-firebase/",
+          "publishedOn": "2023-11-30T16:25:58.000Z",
+          "wordCount": 986,
+          "title": "Code and Deploy an Instagram Clone with React and Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/instagram2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/api-documentation-best-practices-course/",
+          "author": "Beau Carnes",
+          "description": "Since APIs are the backbone of software development, effective API documentation is critical.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to write good documentation for APIs. You will learn how to craft, automate, and publish API documentation that is not only",
+          "link": "https://www.freecodecamp.org/news/api-documentation-best-practices-course/",
+          "publishedOn": "2023-11-30T16:17:38.000Z",
+          "wordCount": 957,
+          "title": "API Documentation Best Practices Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/apidocs.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/logic-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "JavaScript is a versatile programming language that empowers developers to create dynamic and interactive web pages.  One of the foundational elements of JavaScript programming is the application of logical operations to make decisions and control program flow.  In this guide, we'll delve into the basics of logical operations",
+          "link": "https://www.freecodecamp.org/news/logic-in-javascript/",
+          "publishedOn": "2023-11-29T21:50:16.000Z",
+          "wordCount": 3067,
+          "title": "How to Use Logic in JavaScript – Operators, Conditions, Truthy/Falsy, and More",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Beige-aesthetic-thesis-defense-presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/advanced-music-production-fl-studio/",
+          "author": "Beau Carnes",
+          "description": "With the right tools and training, anyone can become a music producer. We just release a course on the freeCodeCamp.org YouTube channel that will teach you advanced music production skills using FL Stuio. Tristan Willcox developed this course. Tristan is a professional music producer with over 10,000 hours in music",
+          "link": "https://www.freecodecamp.org/news/advanced-music-production-fl-studio/",
+          "publishedOn": "2023-11-29T21:30:51.000Z",
+          "wordCount": 879,
+          "title": "Advanced Music Production with FL Studio – Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/flstudio.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-you-might-want-to-move-your-workloads-out-of-the-cloud/",
+          "author": "David Clinton",
+          "description": "Is a public cloud like AWS or Microsoft's Azure the right place to host every  deployment workload at every stage of its life? To be honest, I once thought that that was true – at least 95% of the time. But things have changed. Even though new services are",
+          "link": "https://www.freecodecamp.org/news/why-you-might-want-to-move-your-workloads-out-of-the-cloud/",
+          "publishedOn": "2023-11-29T21:24:11.000Z",
+          "wordCount": 1651,
+          "title": "Why You Might Want to Move Your Workloads Out of the Cloud",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/pexels-pixabay-52531.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/",
           "author": "Nathan Sebhastian",
@@ -912,16 +992,6 @@
           "wordCount": 5930,
           "title": "Create and Deploy IaC by Chatting with AI",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/iacai.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/loop-through-arrays-javascript/",
-          "author": "Joan Ayebola",
-          "description": "Looping through arrays in JavaScript is a fundamental concept that every JavaScript developer should understand. Whether you're a beginner or an experienced developer, understanding how to loop through an array is crucial for many programming tasks.  In this article, we'll explore the different ways to loop through an array",
-          "link": "https://www.freecodecamp.org/news/loop-through-arrays-javascript/",
-          "publishedOn": "2023-10-31T21:25:00.000Z",
-          "wordCount": 2764,
-          "title": "How to Loop Through Arrays in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/Colorful-Bold-Math-Factors-Lesson-and-Quiz.png"
         }
       ]
     }
