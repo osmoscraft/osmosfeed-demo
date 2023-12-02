@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/",
+          "author": "hello@smashingmagazine.com (Oluwasanmi Akande)",
+          "description": "Git is designed to assure us that we can track a project’s files at different points in time. But it doesn’t assure us that those files are always safe along the way. For those of you who have dealt with the sinking feeling that you’ve irrevocably deleted and lost files, Sanmi has a couple of approaches that, in the right situations, may help bring them back.",
+          "link": "https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/",
+          "publishedOn": "2023-12-01T10:00:00.000Z",
+          "wordCount": 5632,
+          "title": "Recovering Deleted Files From Your Git Working Tree",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/recovering-deleted-files-git-working-tree/recovering-deleted-files-git-working-tree.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/recovering-deleted-files-git-working-tree/recovering-deleted-files-git-working-tree.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Could there be a better way to welcome the new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up the last few weeks of the year and, if you’re celebrating, to get you in the holiday mood.",
@@ -213,6 +228,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/",
+          "author": "Ayu Adiati",
+          "description": "A table of contents (or TOC) is a list of chapters or section titles in an article. You'll usually find it at the beginning of an article, right after the introduction. When you write a long blog post or an article with independent sections, consider adding a table of contents.",
+          "link": "https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/",
+          "publishedOn": "2023-12-01T19:47:28.000Z",
+          "wordCount": 2381,
+          "title": "How to Add a Table of Contents to Your Article on Ghost",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/How-to-Add-a-Table-of-Contents-to-Your-Article-on-Ghost-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
+          "author": "Hunor Márton Borbély",
+          "description": "Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without",
+          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
+          "publishedOn": "2023-12-01T19:13:00.000Z",
+          "wordCount": 4028,
+          "title": "SVG Tutorial – How to Code Images with 7 Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/10/Learn-SVG.001.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-arrow-functions-in-depth/",
           "author": "Nathan Sebhastian",
@@ -962,36 +997,6 @@
           "wordCount": 1950,
           "title": "Web Accessibility Tips for Developers – A11y Principles Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/51314.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-to-code-book/",
-          "author": "Quincy Larson",
-          "description": "If you want to learn to code and get a job as a developer, you're in the right place. This book will show you how. And yes this is the full book – for free – right here on this page of freeCodeCamp. Update October 20, 2023: I've recorded a",
-          "link": "https://www.freecodecamp.org/news/learn-to-code-book/",
-          "publishedOn": "2023-11-01T23:52:00.000Z",
-          "wordCount": 36305,
-          "title": "How to Learn to Code & Get a Developer Job [Full Book]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/06/Learn-to-Code-and-Get-a-Developer-Job-Book.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cypress-for-end-to-end-testing-react-apps/",
-          "author": "Okosa Leonard Onyekachukwu",
-          "description": "React is a popular framework for building web applications. It's is one of the best options for frontend engineering because of its declarative approach to user interface design and component-based architecture.  But it can be difficult to make sure your React application functions as intended in various different scenarios.",
-          "link": "https://www.freecodecamp.org/news/cypress-for-end-to-end-testing-react-apps/",
-          "publishedOn": "2023-11-01T22:45:46.000Z",
-          "wordCount": 5623,
-          "title": "How to Use Cypress for End-to-End Testing Your React Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/10/1_PfsGOHgjLPh3EFOkxCRmjw.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/",
-          "author": "Beau Carnes",
-          "description": "Infrastructure as Code (IaC) is a revolutionary approach to managing and provisioning computing infrastructure. With IaC, you can automate the process of provisioning, configuring, and managing infrastructure using code and software development techniques. This approach provides a more efficient, consistent, and reliable way of managing infrastructure compared to traditional manual",
-          "link": "https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/",
-          "publishedOn": "2023-11-01T13:39:47.000Z",
-          "wordCount": 5930,
-          "title": "Create and Deploy IaC by Chatting with AI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/iacai.jpg"
         }
       ]
     }

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-01T01:03:18.732Z</updated>
+    <updated>2023-12-02T00:56:20.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Table of Contents to Your Article on Ghost]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/"/>
+        <updated>2023-12-01T19:47:28.000Z</updated>
+        <summary type="html"><![CDATA[A table of contents (or TOC) is a list of chapters or section titles in an article. You'll usually find it at the beginning of an article, right after the introduction. When you write a long blog post or an article with independent sections, consider adding a table of contents.]]></summary>
+        <author>
+            <name>Ayu Adiati</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Tutorial – How to Code Images with 7 Examples]]></title>
+        <id>https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/</id>
+        <link href="https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/"/>
+        <updated>2023-12-01T19:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that? Well, good news – you can do all that and more without]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recovering Deleted Files From Your Git Working Tree]]></title>
+        <id>https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/</id>
+        <link href="https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/"/>
+        <updated>2023-12-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git is designed to assure us that we can track a project’s files at different points in time. But it doesn’t assure us that those files are always safe along the way. For those of you who have dealt with the sinking feeling that you’ve irrevocably deleted and lost files, Sanmi has a couple of approaches that, in the right situations, may help bring them back.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Oluwasanmi Akande)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use JavaScript Arrow Functions – Explained in Detail]]></title>
         <id>https://www.freecodecamp.org/news/javascript-arrow-functions-in-depth/</id>
@@ -884,36 +914,6 @@
         <summary type="html"><![CDATA[Delete Check Send Add]]></summary>
         <author>
             <name>Adeola Ajiboso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn to Code & Get a Developer Job [Full Book]]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-code-book/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-code-book/"/>
-        <updated>2023-11-01T23:52:00.000Z</updated>
-        <summary type="html"><![CDATA[If you want to learn to code and get a job as a developer, you're in the right place. This book will show you how. And yes this is the full book – for free – right here on this page of freeCodeCamp. Update October 20, 2023: I've recorded a]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Cypress for End-to-End Testing Your React Apps]]></title>
-        <id>https://www.freecodecamp.org/news/cypress-for-end-to-end-testing-react-apps/</id>
-        <link href="https://www.freecodecamp.org/news/cypress-for-end-to-end-testing-react-apps/"/>
-        <updated>2023-11-01T22:45:46.000Z</updated>
-        <summary type="html"><![CDATA[React is a popular framework for building web applications. It's is one of the best options for frontend engineering because of its declarative approach to user interface design and component-based architecture.  But it can be difficult to make sure your React application functions as intended in various different scenarios.]]></summary>
-        <author>
-            <name>Okosa Leonard Onyekachukwu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create and Deploy IaC by Chatting with AI]]></title>
-        <id>https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/</id>
-        <link href="https://www.freecodecamp.org/news/create-and-deploy-iac-by-chatting-with-ai/"/>
-        <updated>2023-11-01T13:39:47.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure as Code (IaC) is a revolutionary approach to managing and provisioning computing infrastructure. With IaC, you can automate the process of provisioning, configuring, and managing infrastructure using code and software development techniques. This approach provides a more efficient, consistent, and reliable way of managing infrastructure compared to traditional manual]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
