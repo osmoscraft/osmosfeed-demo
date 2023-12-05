@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.",
+          "link": "https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
+          "publishedOn": "2023-12-04T14:00:00.000Z",
+          "wordCount": 6530,
+          "title": "How Marketing Changed OOP In JavaScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/marketing-changed-oop-javascript/marketing-changed-oop-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/marketing-changed-oop-javascript/marketing-changed-oop-javascript.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/",
           "author": "hello@smashingmagazine.com (Oluwasanmi Akande)",
           "description": "Git is designed to assure us that we can track a project’s files at different points in time. But it doesn’t assure us that those files are always safe along the way. For those of you who have dealt with the sinking feeling that you’ve irrevocably deleted and lost files, Sanmi has a couple of approaches that, in the right situations, may help bring them back.",
@@ -213,6 +228,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/cpp-std-chrono-api/",
+          "author": "Jayant Chowdhary",
+          "description": "Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock",
+          "link": "https://www.freecodecamp.org/news/cpp-std-chrono-api/",
+          "publishedOn": "2023-12-04T23:38:45.000Z",
+          "wordCount": 2034,
+          "title": "Keeping Time in C++: How to use the std::chrono API",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/ClangCover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/",
+          "author": "Joan Ayebola",
+          "description": "React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore",
+          "link": "https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/",
+          "publishedOn": "2023-12-04T18:38:16.000Z",
+          "wordCount": 1847,
+          "title": "How to Use React Hooks – useEffect, useState, and useContext Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Orange-and-Yellow-Retro-Flower-Power-Daily-Class-Agenda-Template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
+          "author": "Beau Carnes",
+          "description": "MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning. Understanding MLOps can help you build production grade machine learning projects. We just posted an MLOps course the freeCodeCamp.org YouTube channel. MLOps is a cutting-edge field at the intersection of machine learning, data",
+          "link": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
+          "publishedOn": "2023-12-04T17:50:08.000Z",
+          "wordCount": 1029,
+          "title": "MLOps Course – Learn to Build Machine Learning Production Grade Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/mlops2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/",
           "author": "Ayu Adiati",

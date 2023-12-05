@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-04T00:58:52.132Z</updated>
+    <updated>2023-12-05T00:59:04.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keeping Time in C++: How to use the std::chrono API]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-std-chrono-api/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-std-chrono-api/"/>
+        <updated>2023-12-04T23:38:45.000Z</updated>
+        <summary type="html"><![CDATA[Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock]]></summary>
+        <author>
+            <name>Jayant Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Hooks – useEffect, useState, and useContext Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/</id>
+        <link href="https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/"/>
+        <updated>2023-12-04T18:38:16.000Z</updated>
+        <summary type="html"><![CDATA[React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MLOps Course – Learn to Build Machine Learning Production Grade Projects]]></title>
+        <id>https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/</id>
+        <link href="https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/"/>
+        <updated>2023-12-04T17:50:08.000Z</updated>
+        <summary type="html"><![CDATA[MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning. Understanding MLOps can help you build production grade machine learning projects. We just posted an MLOps course the freeCodeCamp.org YouTube channel. MLOps is a cutting-edge field at the intersection of machine learning, data]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Marketing Changed OOP In JavaScript]]></title>
+        <id>https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/</id>
+        <link href="https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/"/>
+        <updated>2023-12-04T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add a Table of Contents to Your Article on Ghost]]></title>
         <id>https://www.freecodecamp.org/news/how-to-add-a-table-of-contents-to-your-article-on-ghost/</id>
