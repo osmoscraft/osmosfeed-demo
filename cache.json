@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.",
+          "link": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
+          "publishedOn": "2023-12-06T10:00:00.000Z",
+          "wordCount": 5935,
+          "title": "Five-Second Testing: Taking A Closer Look At First Impressions (Case Study)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/five-second-testing-case-study/five-second-testing-case-study.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/five-second-testing-case-study/five-second-testing-case-study.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.",
@@ -228,6 +243,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/",
+          "author": "Joan Ayebola",
+          "description": "React has emerged as a powerful and widely used JavaScript library for building user interfaces. Its component-based architecture allows developers to create modular and reusable code, making it easier to manage and maintain complex applications.  One common requirement in web development projects is the ability to delay the execution",
+          "link": "https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/",
+          "publishedOn": "2023-12-06T23:37:13.000Z",
+          "wordCount": 2957,
+          "title": "How to Use setTimeout in React Using Hooks",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Blue---white-company-profile-presentation--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/",
+          "author": "Jayant Chowdhary",
+          "description": "In this article, I'll be covering a subtle but egregious problem that can occur in C++ programs. This problem is popularly called the 'Static Initialization Order Fiasco'.  I'll first go over what the problem is, then go onto some solutions and explore how they work. Let's get started.",
+          "link": "https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/",
+          "publishedOn": "2023-12-06T23:11:52.000Z",
+          "wordCount": 2452,
+          "title": "What is the Static Initialization Order Fiasco in C++? [Solved]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/StaticCover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/",
+          "author": "Vahe Aslanyan",
+          "description": "In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. According to a survey by the National Association of Colleges and Employers, 89% of large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully",
+          "link": "https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/",
+          "publishedOn": "2023-12-06T18:21:06.000Z",
+          "wordCount": 13567,
+          "title": "How to Launch Your Coding Career and Land Your First Software Engineering Internship",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Software-Engineering-Intership-Handbook-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/",
+          "author": "Furkan Emin Can",
+          "description": "React is un-opinionated about how you fetch and manage the remote data in your application. You may think of using the useEffect hook for simple fetching operations, but it will not help you with caching, request deduplication, always serving real-time data, and so on. Things will get more complicated when",
+          "link": "https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/",
+          "publishedOn": "2023-12-05T21:59:00.000Z",
+          "wordCount": 1948,
+          "title": "How to Use the SWR Library for Better Data Fetching in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-python-best-for/",
+          "author": "Juan Cruz Martinez",
+          "description": "Developers are often very passionate about their tech stack, and they'll likely recommend it for anything.  It is very common to see devs on social media sharing how you can build anything with JavaScript or how Python is great for data scientists. As a Python fanatic myself, I actually",
+          "link": "https://www.freecodecamp.org/news/what-is-python-best-for/",
+          "publishedOn": "2023-12-05T21:22:56.000Z",
+          "wordCount": 2159,
+          "title": "Python Use Cases – What is Python Best For?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/python-best-for.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/",
+          "author": "Sophia Iroegbu",
+          "description": "Maintaining safe and frictionless user authentication is paramount in today's fast-changing web application landscape.  Among the many authentication methods available, GitHub OAuth has emerged as a useful tool for improving user login experience while strengthening security measures.  Django [https://docs.djangoproject.com/en/4.2/], a Python web framework, has recently gained popularity in",
+          "link": "https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/",
+          "publishedOn": "2023-12-05T21:19:14.000Z",
+          "wordCount": 1900,
+          "title": "How to Set Up GitHub OAuth in a Django App for User Authentication",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Blog-Banner---Template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/",
+          "author": "Amarachi Johnson-Ubah",
+          "description": "The proverb \"it takes a village\" applies to more than child-rearing. It also takes a village to maintain an open source project.  Community is a large part of open source. After all, Open Source projects can't thrive without a strong network of people (community) who contribute towards it, either",
+          "link": "https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/",
+          "publishedOn": "2023-12-05T21:14:18.000Z",
+          "wordCount": 2599,
+          "title": "How to Contribute to Open Source as a Community Manager",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/OSS-cover.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/",
           "author": "Beau Carnes",
@@ -947,16 +1032,6 @@
           "wordCount": 877,
           "title": "Create a WordPress Store that Sells Real AI-Generated Products",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/aiwordpress2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
-          "author": "Andrico Karoulla",
-          "description": "The browser has a built-in way of writing reusable components in the form of web components. They’re an excellent choice for building interactive and reusable components that work in any frontend framework.  With that said, writing highly interactive and robust web components isn’t simple. They require a lot of",
-          "link": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
-          "publishedOn": "2023-11-06T20:25:12.000Z",
-          "wordCount": 3089,
-          "title": "How to Write Components that Work in Any Framework",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/og-button.png"
         }
       ]
     }

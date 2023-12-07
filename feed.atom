@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-06T00:58:59.465Z</updated>
+    <updated>2023-12-07T00:58:24.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use setTimeout in React Using Hooks]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/"/>
+        <updated>2023-12-06T23:37:13.000Z</updated>
+        <summary type="html"><![CDATA[React has emerged as a powerful and widely used JavaScript library for building user interfaces. Its component-based architecture allows developers to create modular and reusable code, making it easier to manage and maintain complex applications.  One common requirement in web development projects is the ability to delay the execution]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Static Initialization Order Fiasco in C++? [Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/"/>
+        <updated>2023-12-06T23:11:52.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll be covering a subtle but egregious problem that can occur in C++ programs. This problem is popularly called the 'Static Initialization Order Fiasco'.  I'll first go over what the problem is, then go onto some solutions and explore how they work. Let's get started.]]></summary>
+        <author>
+            <name>Jayant Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Launch Your Coding Career and Land Your First Software Engineering Internship]]></title>
+        <id>https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/</id>
+        <link href="https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/"/>
+        <updated>2023-12-06T18:21:06.000Z</updated>
+        <summary type="html"><![CDATA[In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. According to a survey by the National Association of Colleges and Employers, 89% of large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five-Second Testing: Taking A Closer Look At First Impressions (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2023/12/five-second-testing-case-study/</id>
+        <link href="https://smashingmagazine.com/2023/12/five-second-testing-case-study/"/>
+        <updated>2023-12-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eduard Kuric)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the SWR Library for Better Data Fetching in React]]></title>
+        <id>https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/"/>
+        <updated>2023-12-05T21:59:00.000Z</updated>
+        <summary type="html"><![CDATA[React is un-opinionated about how you fetch and manage the remote data in your application. You may think of using the useEffect hook for simple fetching operations, but it will not help you with caching, request deduplication, always serving real-time data, and so on. Things will get more complicated when]]></summary>
+        <author>
+            <name>Furkan Emin Can</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Use Cases – What is Python Best For?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-python-best-for/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-python-best-for/"/>
+        <updated>2023-12-05T21:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Developers are often very passionate about their tech stack, and they'll likely recommend it for anything.  It is very common to see devs on social media sharing how you can build anything with JavaScript or how Python is great for data scientists. As a Python fanatic myself, I actually]]></summary>
+        <author>
+            <name>Juan Cruz Martinez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up GitHub OAuth in a Django App for User Authentication]]></title>
+        <id>https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/</id>
+        <link href="https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/"/>
+        <updated>2023-12-05T21:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Maintaining safe and frictionless user authentication is paramount in today's fast-changing web application landscape.  Among the many authentication methods available, GitHub OAuth has emerged as a useful tool for improving user login experience while strengthening security measures.  Django [https://docs.djangoproject.com/en/4.2/], a Python web framework, has recently gained popularity in]]></summary>
+        <author>
+            <name>Sophia Iroegbu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source as a Community Manager]]></title>
+        <id>https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/</id>
+        <link href="https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/"/>
+        <updated>2023-12-05T21:14:18.000Z</updated>
+        <summary type="html"><![CDATA[The proverb "it takes a village" applies to more than child-rearing. It also takes a village to maintain an open source project.  Community is a large part of open source. After all, Open Source projects can't thrive without a strong network of people (community) who contribute towards it, either]]></summary>
+        <author>
+            <name>Amarachi Johnson-Ubah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course]]></title>
         <id>https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/</id>
@@ -864,16 +944,6 @@
         <summary type="html"><![CDATA[The combination of artificial intelligence (AI) and web development has revolutionized the way we create and manage online content. I just created and released a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI to help create an e-commerce store powered by WordPress. You will]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Components that Work in Any Framework]]></title>
-        <id>https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/</id>
-        <link href="https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/"/>
-        <updated>2023-11-06T20:25:12.000Z</updated>
-        <summary type="html"><![CDATA[The browser has a built-in way of writing reusable components in the form of web components. They’re an excellent choice for building interactive and reusable components that work in any frontend framework.  With that said, writing highly interactive and robust web components isn’t simple. They require a lot of]]></summary>
-        <author>
-            <name>Andrico Karoulla</name>
         </author>
     </entry>
 </feed>
