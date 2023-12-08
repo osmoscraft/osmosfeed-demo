@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.",
+          "link": "https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/",
+          "publishedOn": "2023-12-07T21:00:00.000Z",
+          "wordCount": 5624,
+          "title": "Preparing For Interaction To Next Paint, A New Web Core Vital",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/preparing-interaction-next-paint-web-core-vital/preparing-interaction-next-paint-web-core-vital.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/preparing-interaction-next-paint-web-core-vital/preparing-interaction-next-paint-web-core-vital.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
           "author": "hello@smashingmagazine.com (Eduard Kuric)",
           "description": "Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.",
@@ -220,21 +235,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/wordpress-playground-5-minute-install-instant-spin-up/wordpress-playground-5-minute-install-instant-spin-up.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
-          "author": "hello@smashingmagazine.com (Maxwell Barvian)",
-          "description": "The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.",
-          "link": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
-          "publishedOn": "2023-11-07T18:00:00.000Z",
-          "wordCount": 4970,
-          "title": "Addressing Accessibility Concerns With Using Fluid Type",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg"
         }
       ]
     },
@@ -243,6 +243,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/",
+          "author": "Beau Carnes",
+          "description": "Improve your JavaScript skills by building a snake game inspired by the iconic Nokia Snake game! We just published a course on the freeCodeCamp.org YouTube channel that will teach you to create the project using vanilla HMTL, CSS and JavaScript. Ademir Alijagic created this course. You will build this.This coruse",
+          "link": "https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/",
+          "publishedOn": "2023-12-07T15:57:29.000Z",
+          "wordCount": 814,
+          "title": "🐍 🕹️ 💻",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/snake2.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/",
           "author": "Joan Ayebola",
@@ -262,6 +272,16 @@
           "wordCount": 2452,
           "title": "What is the Static Initialization Order Fiasco in C++? [Solved]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/StaticCover.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/software-engineer-internship-handbook/",
+          "author": "Vahe Aslanyan",
+          "description": "In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. Many large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully curated guide, grounded in data and expert consensus, is designed to be your",
+          "link": "https://www.freecodecamp.org/news/software-engineer-internship-handbook/",
+          "publishedOn": "2023-12-06T18:21:06.000Z",
+          "wordCount": 13531,
+          "title": "The Software Engineer Internship Handbook – How to Launch Your Coding Career",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Software-Engineering-Intership-Handbook-Cover--1--1.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/",
@@ -972,66 +992,6 @@
           "wordCount": 941,
           "title": "Arduino for Everybody",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/arduino.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/aws-project-build-a-resume/",
-          "author": "Amber Israelsen",
-          "description": "If you're new to AWS, you can probably appreciate the sense of overwhelm that comes from trying to understand all the different services (seriously, like,  hundreds of them). What are they all for, and how do they work together?  And then once you've conquered some basic skills, the",
-          "link": "https://www.freecodecamp.org/news/aws-project-build-a-resume/",
-          "publishedOn": "2023-11-08T00:38:02.000Z",
-          "wordCount": 5685,
-          "title": "How to Build an Online Résumé on AWS Using S3, Route 53, CloudFront, and ACM",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/thumbnail-final-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/",
-          "author": "Ogundiran Ayobami",
-          "description": "In order to write scalable, reusable, and maintainable applications with React, you'll need to go beyond the surface of using React components, useEffect, useContext, useState, and the like. It involves learning in detail how React works in more depth.  And if you don't properly understand these key React concepts,",
-          "link": "https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/",
-          "publishedOn": "2023-11-07T22:58:39.000Z",
-          "wordCount": 3017,
-          "title": "How to Avoid Prop Drilling in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Purple-Creative-Livestream-YouTube-Thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-whiteboard-app/",
-          "author": "Juan P. Romano",
-          "description": "In this tutorial, you will learn how to build a simple whiteboard app using Python and Tkinter. Some months ago, I was teaching a Python course. I was struggling to convey certain concepts because it was an online course, and I couldn't use a whiteboard or even a traditional board.",
-          "link": "https://www.freecodecamp.org/news/build-a-whiteboard-app/",
-          "publishedOn": "2023-11-07T22:23:59.000Z",
-          "wordCount": 2629,
-          "title": "How to Build a Whiteboard App with Python and Tkinter",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/whiteboard_tkinter_python_banner_pic.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-declare-variables-in-javascript/",
-          "author": "Furkan Emin Can",
-          "description": "Declaring variables is something you'll do all the time in JavaScript. And if you know the variable declaration process inside and out, you'll have the confidence to start writing great JS code. Through this article, you will learn how to declare and mutate variables using  var, let, and const,",
-          "link": "https://www.freecodecamp.org/news/how-to-declare-variables-in-javascript/",
-          "publishedOn": "2023-11-07T22:16:57.000Z",
-          "wordCount": 2861,
-          "title": "How to Declare Variables in JavaScript – var, let, and const Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Cover-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/",
-          "author": "Yazdun Fadali",
-          "description": "If you're looking to add some polished animations to your React apps, Framer Motion is the tool for the job.  In this tutorial, I'll walk you through creating a fully animated mobile menu using Framer Motion in React. What Are We Going to Build? In this tutorial, I'll guide",
-          "link": "https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/",
-          "publishedOn": "2023-11-07T17:15:20.000Z",
-          "wordCount": 2378,
-          "title": "How to Create an Animated Hamburger Menu in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Frame-14.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/",
-          "author": "Beau Carnes",
-          "description": "The combination of artificial intelligence (AI) and web development has revolutionized the way we create and manage online content. I just created and released a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI to help create an e-commerce store powered by WordPress. You will",
-          "link": "https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/",
-          "publishedOn": "2023-11-07T15:52:15.000Z",
-          "wordCount": 877,
-          "title": "Create a WordPress Store that Sells Real AI-Generated Products",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/aiwordpress2.png"
         }
       ]
     }
