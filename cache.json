@@ -220,21 +220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/creating-accessible-ui-animations/creating-accessible-ui-animations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/",
-          "author": "hello@smashingmagazine.com (Ganesh Dahal)",
-          "description": "WordPress Playground began as an experiment to see what a self-hosted WordPress experience might look like without the requirement of having to actually install WordPress. A year later, the experiment has evolved into a full-fledged project. Ganesh Dahal demonstrates how WordPress Playground works and gets deep into how it might be used.",
-          "link": "https://smashingmagazine.com/2023/11/wordpress-playground-5-minute-install-instant-spin-up/",
-          "publishedOn": "2023-11-09T12:00:00.000Z",
-          "wordCount": 7627,
-          "title": "WordPress Playground: From 5-Minute Install To Instant Spin-Up",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/wordpress-playground-5-minute-install-instant-spin-up/wordpress-playground-5-minute-install-instant-spin-up.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/wordpress-playground-5-minute-install-instant-spin-up/wordpress-playground-5-minute-install-instant-spin-up.jpg"
         }
       ]
     },
@@ -243,6 +228,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-to-control-gpt-in-openai-playground/",
+          "author": "David Clinton",
+          "description": "ChatGPT is the interface most people use to work with OpenAI's large language model. But for someone who needs the versatility and power of programmatic access, there's no replacement for OpenAI's API.  The API is the interface you can use to connect programming code running on your own PC",
+          "link": "https://www.freecodecamp.org/news/learn-to-control-gpt-in-openai-playground/",
+          "publishedOn": "2023-12-08T17:15:34.000Z",
+          "wordCount": 1428,
+          "title": "Learn to Control GPT in the OpenAI Playground",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/pexels-levi-damasceno-571249.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/",
+          "author": "Fatos Morina",
+          "description": "In this handbook, I'll address a question you may be asking yourself: should you learn how to code? After explaining why you definitely should, I'll cover some of the benefits and challenges of being a software developer. I'll also discuss some key strategies for approaching learning to code to help",
+          "link": "https://www.freecodecamp.org/news/learn-coding-for-everyone-handbook/",
+          "publishedOn": "2023-12-08T17:07:46.000Z",
+          "wordCount": 13370,
+          "title": "How to Start Learning to Code – Coding for Everyone Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/How-to-Start-Learning-to-Code-cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/",
+          "author": "Quincy Larson",
+          "description": "On this week's podcast, I'm joined by Dhawal Shah, the creator of Class Central, a popular search engine for online courses. Dhawal shares the history of online courses and the Massive Open Online Course revolution of the early 2010s.  We also talk about his childhood growing up in India,",
+          "link": "https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/",
+          "publishedOn": "2023-12-08T10:29:06.000Z",
+          "wordCount": 791,
+          "title": "Podcast: The History of Online Courses with Class Central Founder Dhawal Shah",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/signal-2023-12-08-042220_002.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-document-object-model-explained/",
+          "author": "Nathan Sebhastian",
+          "description": "Hi everyone! In this article, I’m going to cover everything you need to know about manipulating the DOM. Basically, each Element object in the DOM has properties and methods that you can use to interact with that element. The following are the most common and practical ways you might want",
+          "link": "https://www.freecodecamp.org/news/javascript-document-object-model-explained/",
+          "publishedOn": "2023-12-07T22:19:23.000Z",
+          "wordCount": 2130,
+          "title": "How to Manipulate the DOM in JavaScript – Most Commonly Used Techniques",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/js-dom-manipulation-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/",
+          "author": "Benjamin Semah",
+          "description": "If you're a web developer or have worked with the DOM (Document Object Model), you may have come across the terms HTMLCollection and NodeList before. But what do they mean and when do you need to use them? By the end of this article, you will learn all about HTMLCollection",
+          "link": "https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/",
+          "publishedOn": "2023-12-07T22:11:45.000Z",
+          "wordCount": 2119,
+          "title": "HTMLCollection vs NodeList – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Benjamin-Semah---DevAfterHours.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/java-interview-prep-handbook/",
+          "author": "Vahe Aslanyan",
+          "description": "If you're trying to get a job in big tech or you want to refine your skills in software development, a strong grasp of Java is indispensable.  Java is well-known for its robustness in Object-Oriented Programming (OOP), and it provides a comprehensive foundation essential for developers at every level.",
+          "link": "https://www.freecodecamp.org/news/java-interview-prep-handbook/",
+          "publishedOn": "2023-12-07T21:28:43.000Z",
+          "wordCount": 16318,
+          "title": "The Java Interview Prep Handbook – 50 Questions Solved + Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Java-Interview-Prep-Handbook-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/",
           "author": "Beau Carnes",
@@ -962,36 +1007,6 @@
           "wordCount": 966,
           "title": "Secure Next.js Applications with Role-Based Authentication Using NextAuth",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/nextauth.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-segment-anything-model-to-create-masks/",
-          "author": "Jess Wilk",
-          "description": "Hey there! So, you know that buzz about Tesla's autopilot being all futuristic and driverless? Ever thought about how it actually does its magic? Well, let me tell you – it's all about image segmentation and object detection.  What is Image Segmentation? Image segmentation, basically chopping up an image",
-          "link": "https://www.freecodecamp.org/news/use-segment-anything-model-to-create-masks/",
-          "publishedOn": "2023-11-08T20:26:18.000Z",
-          "wordCount": 2278,
-          "title": "How to Use the Segment Anything Model (SAM) to Create Masks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/cover-image-SAM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-course-in-spanish/",
-          "author": "Estefania Cassingena Navone",
-          "description": "JavaScript is one of the most popular programming languages out there, and it's essential for web development. Learning JavaScript can be your next step into this amazing world of web dev. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you JavaScript from the",
-          "link": "https://www.freecodecamp.org/news/javascript-course-in-spanish/",
-          "publishedOn": "2023-11-08T16:25:39.000Z",
-          "wordCount": 1070,
-          "title": "JavaScript Course in Spanish  – Learn JavaScript for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/JavaScript-Thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/arduino-for-everybody/",
-          "author": "Beau Carnes",
-          "description": "Arduino is an open-source electronics platform that allows you to create interactive devices with sensors and outputs. With Arduino, you can build DIY electronics projects with minimal technical knowledge. We just published a comprehensive Arduino course on the freeCodeCamp.org YouTube channel. The course covers the basics of Arduino, from hardware",
-          "link": "https://www.freecodecamp.org/news/arduino-for-everybody/",
-          "publishedOn": "2023-11-08T15:12:28.000Z",
-          "wordCount": 941,
-          "title": "Arduino for Everybody",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/arduino.png"
         }
       ]
     }
