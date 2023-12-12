@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-11T00:59:21.299Z</updated>
+    <updated>2023-12-12T00:59:05.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/</id>
+        <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/"/>
+        <updated>2023-12-11T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install MongoDB with OpenSSL 3 Support on Fedora 39]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/"/>
+        <updated>2023-12-11T18:52:50.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to install MongoDB with support for the latest version of OpenSSL on the Fedora Linux operating system.  If you already have it installed, this tutorial will help you fix the mongosh OpenSSL configuration error. To follow along, you will need a terminal]]></summary>
+        <author>
+            <name>Matheus A. S. Freitas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++ Tutorial – What Are the constexpr and constinit Specifiers?]]></title>
+        <id>https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/</id>
+        <link href="https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/"/>
+        <updated>2023-12-11T18:50:12.000Z</updated>
+        <summary type="html"><![CDATA[When we write programs, many operations which are performed at runtime can actually be done at compile time – that is, baked into code.  This improves program performance since operations are no longer being computed on the fly, during runtime.  While these techniques of offloading operations to compile]]></summary>
+        <author>
+            <name>Jayant Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automation with Python – How to Build an Automated Email System for Job Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/"/>
+        <updated>2023-12-11T18:39:33.000Z</updated>
+        <summary type="html"><![CDATA[We all receive promotional emails from companies like Swiggy and Amazon encouraging us to check out their new dish or flash sales.  Have you ever wondered how they manage to send emails to millions of customers? It’s impossible to do it manually! Instead, they use Automated Email Systems to]]></summary>
+        <author>
+            <name>Jess Wilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Null References in the Latest Version of C#]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/"/>
+        <updated>2023-12-11T18:16:55.000Z</updated>
+        <summary type="html"><![CDATA[C# 12 has just been released, and it continues the long tradition of improvements in the safety of the language's software design and execution. One of these improvements relates to manipulating null references, a programming concept that many developers don't really love. Using null references in your code can cause]]></summary>
+        <author>
+            <name>Zoran Horvat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vector Search and RAG Tutorial – Using LLMs with Your Data]]></title>
+        <id>https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/</id>
+        <link href="https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/"/>
+        <updated>2023-12-11T18:12:49.000Z</updated>
+        <summary type="html"><![CDATA[You can use Vector Search and embeddings to easily combine your data with large language models like GPT-4. I just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement Vector Search on three different projects. First, you will learn about the concepts and then]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn REST APIs by Building a JavaScript Project]]></title>
+        <id>https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/</id>
+        <link href="https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/"/>
+        <updated>2023-12-11T15:18:44.000Z</updated>
+        <summary type="html"><![CDATA[So, you've been learning JavaScript. I bet you're loving it. You've learned the basics and you're starting to get the hang of it. So you might be wondering what to do next.  Well, let me introduce you to REST APIs, a powerful tool that you are going to add]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn to Control GPT in the OpenAI Playground]]></title>
         <id>https://www.freecodecamp.org/news/learn-to-control-gpt-in-openai-playground/</id>

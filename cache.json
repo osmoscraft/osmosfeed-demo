@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
+          "author": "hello@smashingmagazine.com (Luis Ouriach)",
+          "description": "Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.",
+          "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
+          "publishedOn": "2023-12-11T21:00:00.000Z",
+          "wordCount": 7467,
+          "title": "Building Components For Consumption, Not Complexity (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.",
@@ -213,6 +228,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/",
+          "author": "Matheus A. S. Freitas",
+          "description": "In this tutorial, you will learn how to install MongoDB with support for the latest version of OpenSSL on the Fedora Linux operating system.  If you already have it installed, this tutorial will help you fix the mongosh OpenSSL configuration error. To follow along, you will need a terminal",
+          "link": "https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/",
+          "publishedOn": "2023-12-11T18:52:50.000Z",
+          "wordCount": 2178,
+          "title": "How to Install MongoDB with OpenSSL 3 Support on Fedora 39",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Post-image.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/",
+          "author": "Jayant Chowdhary",
+          "description": "When we write programs, many operations which are performed at runtime can actually be done at compile time – that is, baked into code.  This improves program performance since operations are no longer being computed on the fly, during runtime.  While these techniques of offloading operations to compile",
+          "link": "https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/",
+          "publishedOn": "2023-12-11T18:50:12.000Z",
+          "wordCount": 1823,
+          "title": "C++ Tutorial – What Are the constexpr and constinit Specifiers?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/ConstCover-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/",
+          "author": "Jess Wilk",
+          "description": "We all receive promotional emails from companies like Swiggy and Amazon encouraging us to check out their new dish or flash sales.  Have you ever wondered how they manage to send emails to millions of customers? It’s impossible to do it manually! Instead, they use Automated Email Systems to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/",
+          "publishedOn": "2023-12-11T18:39:33.000Z",
+          "wordCount": 1863,
+          "title": "Automation with Python – How to Build an Automated Email System for Job Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/automate-email-with-python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/",
+          "author": "Zoran Horvat",
+          "description": "C# 12 has just been released, and it continues the long tradition of improvements in the safety of the language's software design and execution. One of these improvements relates to manipulating null references, a programming concept that many developers don't really love. Using null references in your code can cause",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/",
+          "publishedOn": "2023-12-11T18:16:55.000Z",
+          "wordCount": 3977,
+          "title": "How to Handle Null References in the Latest Version of C#",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/pexels-xi-xi-3043424.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/",
+          "author": "Beau Carnes",
+          "description": "You can use Vector Search and embeddings to easily combine your data with large language models like GPT-4. I just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement Vector Search on three different projects. First, you will learn about the concepts and then",
+          "link": "https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/",
+          "publishedOn": "2023-12-11T18:12:49.000Z",
+          "wordCount": 1619,
+          "title": "Vector Search and RAG Tutorial – Using LLMs with Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/vectorsearchthumb.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/",
+          "author": "Spruce Emmanuel",
+          "description": "So, you've been learning JavaScript. I bet you're loving it. You've learned the basics and you're starting to get the hang of it. So you might be wondering what to do next.  Well, let me introduce you to REST APIs, a powerful tool that you are going to add",
+          "link": "https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/",
+          "publishedOn": "2023-12-11T15:18:44.000Z",
+          "wordCount": 4037,
+          "title": "Learn REST APIs by Building a JavaScript Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/desktop-preview-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-to-control-gpt-in-openai-playground/",
           "author": "David Clinton",
