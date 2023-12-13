@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T00:59:05.319Z</updated>
+    <updated>2023-12-13T00:58:48.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Django Development Environment]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/"/>
+        <updated>2023-12-12T15:52:32.000Z</updated>
+        <summary type="html"><![CDATA[Django is a high-level web framework written in Python that encourages a rapid and realistic functional design. The Django web framework is free and open-source and is widely used to create both small and large web applications. In this tutorial, you will learn the following:  * What a development]]></summary>
+        <author>
+            <name>Victoria Poromon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[innerHTML vs innerText vs textContent – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/</id>
+        <link href="https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/"/>
+        <updated>2023-12-11T21:57:38.000Z</updated>
+        <summary type="html"><![CDATA[In HTML, innerHTML, innerText, and textContent are properties of the DOM (Document Object Model). They allow you to read and update the content of HTML elements. But they have different behaviours in terms of the content they include and how they handle HTML markup. By the end of this article,]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Comment Your JavaScript Code]]></title>
+        <id>https://www.freecodecamp.org/news/comment-your-javascript-code/</id>
+        <link href="https://www.freecodecamp.org/news/comment-your-javascript-code/"/>
+        <updated>2023-12-11T21:55:46.000Z</updated>
+        <summary type="html"><![CDATA[Writing comments in JavaScript is crucial for code readability, maintainability, and developer collaboration. Comments serve as notes within the codebase, explaining its functionality and logic, or providing context.  In this article, I will explain the significance of commenting your code, best practices to follow, and examples showcasing effective commenting]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asynchronous JavaScript – How to Use Promises in Your JS Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/"/>
+        <updated>2023-12-11T21:52:05.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a versatile programming language that powers the dynamic behavior of websites.  As web applications become more sophisticated, the need to handle asynchronous operations efficiently becomes crucial. Asynchronous JavaScript allows you to execute code without blocking the main thread, ensuring a smoother user experience.  Promises are a]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an API Gateway and Why is it Useful?]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-api-gateways/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-api-gateways/"/>
+        <updated>2023-12-11T21:40:25.000Z</updated>
+        <summary type="html"><![CDATA[APIs are often referred to as the front-door for applications to access data and business logic from backend services. As explained here [https://lightcloud.substack.com/p/api-integration-patterns], an API is essentially the interface that a piece of software presents to other humans or programs, allowing them to interact with that software. When creating an]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 1)]]></title>
         <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/</id>
