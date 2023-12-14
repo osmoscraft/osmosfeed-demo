@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T00:58:48.635Z</updated>
+    <updated>2023-12-14T00:57:56.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Virtual Host Enumeration – How to Uncover Hidden Web Assets]]></title>
+        <id>https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/"/>
+        <updated>2023-12-13T18:48:10.000Z</updated>
+        <summary type="html"><![CDATA[When performing external penetration testing or bug bounty hunting, security experts explore the targeted system from various angles to collect as much information as possible and identify potential attack vectors. This involves identifying all the available assets, domains, and subdomains. During the testing reconnaissance phase, testers spend time on virtual]]></summary>
+        <author>
+            <name>Nairuz Abulhul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Go Tools to Use for Your Frontend Projects]]></title>
+        <id>https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/</id>
+        <link href="https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/"/>
+        <updated>2023-12-13T18:45:10.000Z</updated>
+        <summary type="html"><![CDATA[The Go programming language [https://go.dev/] is renowned for its efficiency in  backend development [https://blog.boot.dev/golang/become-golang-backend-dev/]. But it's pretty easy to extend its capabilities to frontend projects as well. This article explores essential Go tools that empower frontend developers to enhance their workflows, emphasizing simplicity and productivity. Prequisites Before diving into]]></summary>
+        <author>
+            <name>Ekemini Samuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Google Sheets Concepts – How to Build a Vigenère Cipher]]></title>
+        <id>https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/</id>
+        <link href="https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/"/>
+        <updated>2023-12-13T18:13:22.000Z</updated>
+        <summary type="html"><![CDATA[A Vigenère Cipher encrypts and decrypts text using a different alphabet for each letter. It consists of text to encrypt and a key with a different letter corresponding to each letter in the text.  Creating a grid of alphabets helps illustrate this practice. If the first letter in your]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Scroll Snapping Aligned With Global Page Layout: A Full-Width Slider Case Study]]></title>
+        <id>https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/</id>
+        <link href="https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/"/>
+        <updated>2023-12-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up a Django Development Environment]]></title>
         <id>https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/</id>
@@ -944,36 +984,6 @@
         <summary type="html"><![CDATA[While reading some technical articles on various platforms, I kept noticing the Table of Contents section in the sidebar. Some were interactive and some were just links to those sections.  A Table of Contents usually ends up being pretty helpful to readers. It lets you easily skim through what]]></summary>
         <author>
             <name>Bhavesh Rawat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scope in JavaScript – Global vs Local vs Block Scope Explained]]></title>
-        <id>https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/</id>
-        <link href="https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/"/>
-        <updated>2023-11-13T17:40:12.000Z</updated>
-        <summary type="html"><![CDATA[In the vast world of programming, scope is a fundamental concept. It underpins the behavior of variables in any given programming language. In the context of JavaScript, a language renowned for its widespread use in web development, understanding scope is crucial to writing efficient and bug-free code. Whether you're a]]></summary>
-        <author>
-            <name>Adekola Olawale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Processing Multilingual Names in Your Applications]]></title>
-        <id>https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/</id>
-        <link href="https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/"/>
-        <updated>2023-11-13T17:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, my team at work and I were looking at the errors occurring in one of our signup APIs. We saw that nearly 5% of our requests were getting failed, all due to 400 BAD REQUEST [https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400] errors. And the root cause was traced back to a regex]]></summary>
-        <author>
-            <name>Apoorv Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing Web Design Documentation]]></title>
-        <id>https://smashingmagazine.com/2023/11/designing-web-design-documentation/</id>
-        <link href="https://smashingmagazine.com/2023/11/designing-web-design-documentation/"/>
-        <updated>2023-11-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
         </author>
     </entry>
 </feed>

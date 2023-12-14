@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "description": "Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.",
+          "link": "https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/",
+          "publishedOn": "2023-12-13T10:00:00.000Z",
+          "wordCount": 5205,
+          "title": "CSS Scroll Snapping Aligned With Global Page Layout: A Full-Width Slider Case Study",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-scroll-snapping-aligned-global-page-layout-case-study/css-scroll-snapping-aligned-global-page-layout-case-study.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-scroll-snapping-aligned-global-page-layout-case-study/css-scroll-snapping-aligned-global-page-layout-case-study.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
           "author": "hello@smashingmagazine.com (Luis Ouriach)",
           "description": "Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.",
@@ -205,21 +220,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/11/designing-web-design-documentation/",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "description": "Words alone aren’t enough to safeguard best practices in the world of web design and development. Web design documentation must be like its medium — interactive and constantly evolving.",
-          "link": "https://smashingmagazine.com/2023/11/designing-web-design-documentation/",
-          "publishedOn": "2023-11-13T13:00:00.000Z",
-          "wordCount": 5132,
-          "title": "Designing Web Design Documentation",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-web-design-documentation/designing-web-design-documentation.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-web-design-documentation/designing-web-design-documentation.jpg"
         }
       ]
     },
@@ -228,6 +228,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/",
+          "author": "Nairuz Abulhul",
+          "description": "When performing external penetration testing or bug bounty hunting, security experts explore the targeted system from various angles to collect as much information as possible and identify potential attack vectors. This involves identifying all the available assets, domains, and subdomains. During the testing reconnaissance phase, testers spend time on virtual",
+          "link": "https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/",
+          "publishedOn": "2023-12-13T18:48:10.000Z",
+          "wordCount": 2387,
+          "title": "Virtual Host Enumeration – How to Uncover Hidden Web Assets",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/nicolas-houdayer-BeRXM0Edn5A-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/",
+          "author": "Ekemini Samuel",
+          "description": "The Go programming language [https://go.dev/] is renowned for its efficiency in  backend development [https://blog.boot.dev/golang/become-golang-backend-dev/]. But it's pretty easy to extend its capabilities to frontend projects as well. This article explores essential Go tools that empower frontend developers to enhance their workflows, emphasizing simplicity and productivity. Prequisites Before diving into",
+          "link": "https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/",
+          "publishedOn": "2023-12-13T18:45:10.000Z",
+          "wordCount": 2294,
+          "title": "The Best Go Tools to Use for Your Frontend Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/go-tools-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/",
+          "author": "Eamonn Cottrell",
+          "description": "A Vigenère Cipher encrypts and decrypts text using a different alphabet for each letter. It consists of text to encrypt and a key with a different letter corresponding to each letter in the text.  Creating a grid of alphabets helps illustrate this practice. If the first letter in your",
+          "link": "https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/",
+          "publishedOn": "2023-12-13T18:13:22.000Z",
+          "wordCount": 1877,
+          "title": "Advanced Google Sheets Concepts – How to Build a Vigenère Cipher",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/2cipher.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/",
           "author": "Victoria Poromon",
@@ -1037,26 +1067,6 @@
           "wordCount": 1916,
           "title": "How to Make an Interactive and Dynamic Table of Contents in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Frame-32-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/",
-          "author": "Adekola Olawale",
-          "description": "In the vast world of programming, scope is a fundamental concept. It underpins the behavior of variables in any given programming language. In the context of JavaScript, a language renowned for its widespread use in web development, understanding scope is crucial to writing efficient and bug-free code. Whether you're a",
-          "link": "https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/",
-          "publishedOn": "2023-11-13T17:40:12.000Z",
-          "wordCount": 4318,
-          "title": "Scope in JavaScript – Global vs Local vs Block Scope Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Scope-in-JavaScript.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/",
-          "author": "Apoorv Tyagi",
-          "description": "Earlier this year, my team at work and I were looking at the errors occurring in one of our signup APIs. We saw that nearly 5% of our requests were getting failed, all due to 400 BAD REQUEST [https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400] errors. And the root cause was traced back to a regex",
-          "link": "https://www.freecodecamp.org/news/handling-multilingual-names-in-applications/",
-          "publishedOn": "2023-11-13T17:03:24.000Z",
-          "wordCount": 2677,
-          "title": "How to Handle Processing Multilingual Names in Your Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/photo-1581544291234-31340be4b1b8.png"
         }
       ]
     }
