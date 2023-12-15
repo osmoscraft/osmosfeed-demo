@@ -205,21 +205,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/design-to-code-handoff-process-uno-platform-figma/design-to-code-handoff-process-uno-platform-figma.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "description": "Ribbons have been used to accent designs for many years now. But, the way we approach them in CSS has evolved with the introduction of newer features. In this article, Temani Afif combines background and gradient tricks to create ribbon shapes in CSS that are not only responsive but support multi-line text and are easily adjustable with a few CSS variables.",
-          "link": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
-          "publishedOn": "2023-11-15T10:00:00.000Z",
-          "wordCount": 4614,
-          "title": "CSS Responsive Multi-Line Ribbon Shapes (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg"
         }
       ]
     },
@@ -228,6 +213,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/",
+          "author": "Beau Carnes",
+          "description": "The Microsoft Azure Fundamentals Certification is for technology professionals who want to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This exam is a common starting point in a journey towards a career in Azure. We just posted a full exam-prep course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/",
+          "publishedOn": "2023-12-14T17:53:14.000Z",
+          "wordCount": 1025,
+          "title": "Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 8-Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/azurefund.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/",
+          "author": "Beau Carnes",
+          "description": "Testing code is crucial because it ensures the reliability, security, and proper functioning of products or systems, identifying potential issues before they become significant problems. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to test JavaScirpt code with the Jest testing framework. Tomi",
+          "link": "https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/",
+          "publishedOn": "2023-12-14T13:54:47.000Z",
+          "wordCount": 951,
+          "title": "How to Test JavaScript  Code with Jest",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/jest.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/",
+          "author": "Ijeoma Igboagu",
+          "description": "When developing applications, you often need to get data from an API. This lets you deliver dynamic and often-updated content within your application. You'll want to retrieve this data as you may need to interact with external services, communicate with a distant server, or access a database. In this article,",
+          "link": "https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/",
+          "publishedOn": "2023-12-14T10:18:47.000Z",
+          "wordCount": 3187,
+          "title": "How to Fetch API Data in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Effective-Ways-for-Retrieving-API-Data-in-React-and-Python--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/",
+          "author": "Okoye Victor Chukwuebuka",
+          "description": "When you're developing programs, certain services can block or slow down the speed of your application. For example, CPU-intensive tasks like audio transcribing or file processing. So you might wonder – how do you make sure your application runs without breaking? To handle this, you can send tasks to a",
+          "link": "https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/",
+          "publishedOn": "2023-12-14T01:20:25.000Z",
+          "wordCount": 3924,
+          "title": "How to Set Up Message Queues for Async Tasks with RabbitMQ in Nest.js Apps",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/articlePhoto.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/",
+          "author": "Joan Ayebola",
+          "description": "Error handling is a critical aspect of developing user-friendly React applications. As a developer, you can't always predict or prevent errors, but you can certainly control how they are handled.  In this article, we'll explore practical and effective strategies for handling errors in React applications. We'll cover various types",
+          "link": "https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/",
+          "publishedOn": "2023-12-13T23:39:37.000Z",
+          "wordCount": 3088,
+          "title": "How to Handle Errors in React Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Pink-Purple-Business-Solution-Pitch-Deck-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/",
+          "author": "Beau Carnes",
+          "description": "Learn how to create a virtual world using HMTL, CSS, and JavaScript. We just published a course on the freeCodeCamp.org Youtube channel that will teach you how to craft a world entirely from the ground up. Dr. Radu Mariescu-Istodor created this course. He is a creative and popular instructor. You",
+          "link": "https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/",
+          "publishedOn": "2023-12-13T22:34:56.000Z",
+          "wordCount": 827,
+          "title": "Create a Virtual World for Self-Driving Cars with JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/virstualworld2.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/",
           "author": "Nairuz Abulhul",
@@ -1037,36 +1082,6 @@
           "wordCount": 867,
           "title": "How to Use the PaLM 2 API",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/palm2b.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-engineering-management/",
-          "author": "Beau Carnes",
-          "description": "Are you an aspiring engineering leader or a software developer looking to climb the ladder of success in your technical career? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to be an exceptional engineering manager. Ankita Kulkarni teaches this course. She is an",
-          "link": "https://www.freecodecamp.org/news/master-engineering-management/",
-          "publishedOn": "2023-11-14T19:20:03.000Z",
-          "wordCount": 982,
-          "title": "Transform Your Engineering Management Career Path",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/manager2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/next-js-dynamic-api-routes/",
-          "author": "Musab Habeeb",
-          "description": "Next.js is a React-based framework that enables developers to create full-stack web applications by extending the latest React features.  Next helps you add additional features and optimizations to your React apps like static site generation (SSG), server-side rendering (SSR), automatic code splitting and bundling, and dynamic API routes.",
-          "link": "https://www.freecodecamp.org/news/next-js-dynamic-api-routes/",
-          "publishedOn": "2023-11-14T18:30:04.000Z",
-          "wordCount": 1796,
-          "title": "How to Create Dynamic API Routes in Next.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Next.js-Dynamic-API-Routes.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-a-dynamic-table-of-contents-in-javascript/",
-          "author": "Bhavesh Rawat",
-          "description": "While reading some technical articles on various platforms, I kept noticing the Table of Contents section in the sidebar. Some were interactive and some were just links to those sections.  A Table of Contents usually ends up being pretty helpful to readers. It lets you easily skim through what",
-          "link": "https://www.freecodecamp.org/news/how-to-make-a-dynamic-table-of-contents-in-javascript/",
-          "publishedOn": "2023-11-14T15:22:52.000Z",
-          "wordCount": 1916,
-          "title": "How to Make an Interactive and Dynamic Table of Contents in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Frame-32-1.png"
         }
       ]
     }
