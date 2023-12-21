@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
+          "author": "hello@smashingmagazine.com (Šime Vidas)",
+          "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
+          "link": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
+          "publishedOn": "2023-12-20T10:00:00.000Z",
+          "wordCount": 7414,
+          "title": "New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
           "author": "hello@smashingmagazine.com (Luis Ouriach)",
           "description": "Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.",
@@ -190,21 +205,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
-          "author": "hello@smashingmagazine.com (Victor Yocco & Dana Daniels)",
-          "description": "Product teams benefit from knowing their users’ needs and how they respond to product updates as they build out the roadmap of a product. This article covers Voice of Customer programs and is aimed at those who work on a product team as well as executives who are looking for how to better inform your products using insight from users.",
-          "link": "https://smashingmagazine.com/2023/11/creating-maintaining-voice-customer-program/",
-          "publishedOn": "2023-11-21T12:00:00.000Z",
-          "wordCount": 7480,
-          "title": "Creating And Maintaining A Voice Of Customer Program",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-maintaining-voice-customer-program/creating-maintaining-voice-customer-program.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-maintaining-voice-customer-program/creating-maintaining-voice-customer-program.jpg"
         }
       ]
     },
@@ -213,6 +213,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-english-for-developers-a2/",
+          "author": "Quincy Larson",
+          "description": "I'm thrilled to announce that the freeCodeCamp community has been developing a comprehensive English for Developers curriculum. Together, we're going to help millions of non-native English speakers prepare for careers in tech. The trailer for freeCodeCamp's new English for Developers curriculumWhy teach English? For the first 9 years of freeCodeCamp's",
+          "link": "https://www.freecodecamp.org/news/learn-english-for-developers-a2/",
+          "publishedOn": "2023-12-20T17:26:20.000Z",
+          "wordCount": 1071,
+          "title": "Learn English for Developers – freeCodeCamp A2 English Curriculum",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/English-Curriculum.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-an-api-with-postman/",
+          "author": "Joan Ayebola",
+          "description": "In the field of software development, effective communication between different software systems is made possible through the essential function of Application Programming Interfaces (APIs).  APIs allow developers to access and use the functionalities of a particular application, service, or platform. Postman is a powerful and user-friendly tool that simplifies",
+          "link": "https://www.freecodecamp.org/news/how-to-use-an-api-with-postman/",
+          "publishedOn": "2023-12-20T16:57:30.000Z",
+          "wordCount": 2438,
+          "title": "How to Use an API with Postman – A Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Blue-and-White-Minimal-Professional-Business-Project-Presentation-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-curriculum-upgrade/",
+          "author": "Quincy Larson",
+          "description": "freeCodeCamp just published a major upgrade to our Scientific Computing with Python certification. You can now learn Python coding fundamentals by building 15 projects – right in your browser. A 1 minute trailer for our newly-upgraded Scientific Computing with Python certificationHere's a full list of the 15 projects you'll build:",
+          "link": "https://www.freecodecamp.org/news/python-curriculum-upgrade/",
+          "publishedOn": "2023-12-20T16:51:12.000Z",
+          "wordCount": 922,
+          "title": "Python Curriculum 2024 Upgrade – Interactive Python Learning in your Browser",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Python-Curriculum.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/",
+          "author": "Jessica Wilkins",
+          "description": "freeCodeCamp just launched a major upgrade to our JavaScript Algorithms and Data Structures Certification [https://www.freecodecamp.dev/learn/javascript-algorithms-and-data-structures-v8/] . You can now learn JavaScript by building 21 projects! A trailer video for freeCodeCamp's upgraded JavaScript Data Structures and Algorithms CertificationInstead of coding through a series of challenges, you will learn the fundamentals of",
+          "link": "https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/",
+          "publishedOn": "2023-12-20T15:00:26.000Z",
+          "wordCount": 2417,
+          "title": "Learn JavaScript by Building 21 Projects – a Major freeCodeCamp Curriculum Upgrade",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/JavaScript-Curriculum.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-very-freecodecamp-christmas/",
+          "author": "Quincy Larson",
+          "description": "I'm thrilled to announce freeCodeCamp's Christmas gifts to the global developer community: #1: A new JavaScript Algorithms and Data Structures certification, featuring 21 projects you can code step-by-step right in your browser. It's fully project-based, containing more than a thousand new coding challenges. A 1-minute trailer video for freeCodeCamp's upgraded",
+          "link": "https://www.freecodecamp.org/news/a-very-freecodecamp-christmas/",
+          "publishedOn": "2023-12-20T13:09:59.000Z",
+          "wordCount": 2230,
+          "title": "A Very freeCodeCamp Christmas  – Python & JavaScript Upgrades, English Curriculum, The Odin Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/freeCodeCamp-Christmas.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/the-odin-project-interactive-version/",
           "author": "Quincy Larson",
@@ -1052,26 +1102,6 @@
           "wordCount": 3358,
           "title": "How to Build a Secure User Authentication Flow in Flutter with Firebase and Bloc State Management",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Group-1--3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/if-statements-javascript/",
-          "author": "Joan Ayebola",
-          "description": "JavaScript is a powerful and versatile programming language that is widely used for creating dynamic and interactive web pages.  One of the fundamental building blocks of JavaScript programming is the if  statement. if statements allow developers to control the flow of their programs by making decisions based on",
-          "link": "https://www.freecodecamp.org/news/if-statements-javascript/",
-          "publishedOn": "2023-11-20T21:45:44.000Z",
-          "wordCount": 2052,
-          "title": "How to Use If Statements in JavaScript – a Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Pink-Elegant-Group-Project-Education-Presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/",
-          "author": "Chua Hui Shun",
-          "description": "The python-telegram-bot v20 release introduced major structural changes. According to the documentation, > “All networking and I/O-related logic now works via coroutine functions (i.e.  async def ... functions). In particular, all methods of the telegram.Bot class that make requests to the Bot API are now coroutine functions and need",
-          "link": "https://www.freecodecamp.org/news/how-to-build-and-deploy-python-telegram-bot-v20-webhooks/",
-          "publishedOn": "2023-11-20T20:43:21.000Z",
-          "wordCount": 1379,
-          "title": "How to Build and Deploy a python-telegram-bot v20 Webhook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/iPhone-8---1--1-.png"
         }
       ]
     }
