@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
+          "author": "hello@smashingmagazine.com (Adrian Bece)",
+          "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.",
+          "link": "https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/",
+          "publishedOn": "2023-12-22T13:00:00.000Z",
+          "wordCount": 7940,
+          "title": "The View Transitions API And Delightful UI Animations (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
           "author": "hello@smashingmagazine.com (Šime Vidas)",
           "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
@@ -987,66 +1002,6 @@
           "wordCount": 1306,
           "title": "freeCodeCamp's Top Open Source Contributors of 2023",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Top-Open-Source-Contributors-2023-Static.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dom-manipulation-in-javascript/",
-          "author": "Joan Ayebola",
-          "description": "JavaScript, the language of the web, empowers developers to create dynamic and interactive web pages. One of the key features that enables this interactivity is Document Object Model (DOM) manipulation.  DOM manipulation allows developers to interact with and modify the structure, style, and content of web pages. In this",
-          "link": "https://www.freecodecamp.org/news/dom-manipulation-in-javascript/",
-          "publishedOn": "2023-11-23T08:16:19.000Z",
-          "wordCount": 2193,
-          "title": "DOM Manipulation in JavaScript – A Comprehensive Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Beige-Aesthetic-Neutral-Thesis-Defense-Presentation-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/",
-          "author": "Victoria Poromon",
-          "description": "Django model fields define the structure of a database within a Django web application. Using this essential component will keep your work organized and help you make fewer mistakes in your code. This article will discuss some common Django model fields and how to use them in your code. To",
-          "link": "https://www.freecodecamp.org/news/common-django-model-fields-and-their-use-cases/",
-          "publishedOn": "2023-11-23T00:03:28.000Z",
-          "wordCount": 1984,
-          "title": "Django Model Fields – Common Use Cases and How They Work",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Django-models-article-cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/",
-          "author": "Ayu Adiati",
-          "description": "> Hey {username}, we've merged a PR before yours. Please resolve the merge conflicts so we can review and merge your PR. Have you ever received that kind of message from a maintainer while waiting for your pull request to be reviewed and merged? And then, you're panicking because you",
-          "link": "https://www.freecodecamp.org/news/keep-branches-up-to-date-resolve-merge-conflicts/",
-          "publishedOn": "2023-11-22T23:23:20.000Z",
-          "wordCount": 2023,
-          "title": "How to Keep Branches Up-to-Date and Resolve Merge Conflicts in GitHub and VS Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/How-to-Keep-Branches-Up-to-Date-and-Resolve-Merge-Conflicts-in-GitHub-and-VS-Code.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/get-your-first-data-science-internship/",
-          "author": "Tatev Aslanyan",
-          "description": "Do you want to break into Data Science in 2024? Then you should consider trying to get your first Data Science internship.  Internships can help you gain invaluable experience and set you up for success in the ever-evolving field of Data Science. But with fierce competition, limited opportunities, unclear",
-          "link": "https://www.freecodecamp.org/news/get-your-first-data-science-internship/",
-          "publishedOn": "2023-11-22T23:01:18.000Z",
-          "wordCount": 9001,
-          "title": "How to Get Your First Data Science Internship",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Data-Science-Internship-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
-          "author": "Vahe Aslanyan",
-          "description": "If you're regularly confronted by the complexity of modern data, you’re not alone. In our data-centric world, understanding data structures isn’t optional — it’s essential.  Whether you’re a novice coder or an experienced developer, this handbook is your concise guide to the critical skill of data management through data structures. Data",
-          "link": "https://www.freecodecamp.org/news/data-structures-the-key-to-scalable-software/",
-          "publishedOn": "2023-11-22T20:44:53.000Z",
-          "wordCount": 15753,
-          "title": "Data Structures Handbook – The Key to Scalable Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/The-Data-Structures-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
-          "author": "Beau Carnes",
-          "description": "Scikit-learn is an open-source machine learning library for Python, known for its simplicity, versatility, and accessibility. The library is well-documented and supported by a large community, making it a popular choice for both beginners and experienced practitioners in the field of machine learning. We just published an 18-hour course on",
-          "link": "https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/",
-          "publishedOn": "2023-11-22T16:14:14.000Z",
-          "wordCount": 969,
-          "title": "Machine Learning with Python and Scikit-Learn",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/machinelearning.png"
         }
       ]
     }
