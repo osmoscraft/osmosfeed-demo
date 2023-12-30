@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-29T00:46:38.851Z</updated>
+    <updated>2023-12-30T00:55:54.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In Memory of Robert Yannaccone, freeCodeCamp camper,  Telecom Analyst, and philanthropist]]></title>
+        <id>https://www.freecodecamp.org/news/in-memory-of-robert-yannaccone/</id>
+        <link href="https://www.freecodecamp.org/news/in-memory-of-robert-yannaccone/"/>
+        <updated>2023-12-29T18:41:32.000Z</updated>
+        <summary type="html"><![CDATA[This year we lost Robert Yannacconne, a freeCodeCamp camper who supported our mission to the end. Robert was born in Detroit in 1949. After graduating high school, he joined the United States Air Force, learned Mandarin Chinese, and served as a translator in the Philippines. After 3 years of service,]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Sense Of “Senseless” JavaScript Features]]></title>
         <id>https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/</id>
@@ -733,96 +743,6 @@
         <summary type="html"><![CDATA[Since APIs are the backbone of software development, effective API documentation is critical.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to write good documentation for APIs. You will learn how to craft, automate, and publish API documentation that is not only]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cold Days, Shining Lights (December 2023 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/</id>
-        <link href="https://smashingmagazine.com/2023/11/desktop-wallpaper-calendars-december-2023/"/>
-        <updated>2023-11-30T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a collection of desktop wallpapers? We’ve got some eye-catching designs to sweeten up the last few weeks of the year and, if you’re celebrating, to get you in the holiday mood.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Logic in JavaScript – Operators, Conditions, Truthy/Falsy, and More]]></title>
-        <id>https://www.freecodecamp.org/news/logic-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/logic-in-javascript/"/>
-        <updated>2023-11-29T21:50:16.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a versatile programming language that empowers developers to create dynamic and interactive web pages.  One of the foundational elements of JavaScript programming is the application of logical operations to make decisions and control program flow.  In this guide, we'll delve into the basics of logical operations]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Music Production with FL Studio – Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/advanced-music-production-fl-studio/</id>
-        <link href="https://www.freecodecamp.org/news/advanced-music-production-fl-studio/"/>
-        <updated>2023-11-29T21:30:51.000Z</updated>
-        <summary type="html"><![CDATA[With the right tools and training, anyone can become a music producer. We just release a course on the freeCodeCamp.org YouTube channel that will teach you advanced music production skills using FL Stuio. Tristan Willcox developed this course. Tristan is a professional music producer with over 10,000 hours in music]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why You Might Want to Move Your Workloads Out of the Cloud]]></title>
-        <id>https://www.freecodecamp.org/news/why-you-might-want-to-move-your-workloads-out-of-the-cloud/</id>
-        <link href="https://www.freecodecamp.org/news/why-you-might-want-to-move-your-workloads-out-of-the-cloud/"/>
-        <updated>2023-11-29T21:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Is a public cloud like AWS or Microsoft's Azure the right place to host every  deployment workload at every stage of its life? To be honest, I once thought that that was true – at least 95% of the time. But things have changed. Even though new services are]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use JavaScript's Array reduce() Method – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-javascript-array-reduce-method/"/>
-        <updated>2023-11-29T18:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Hello again, friends! The reduce() method is one of the most confusing Array methods in JavaScript. So in this article, I’m going to help you clearly see how the method works.  I'm also going to show some examples that'll help you understand how and where you may want to]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in JavaScript in 2023 – Changes with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/</id>
-        <link href="https://www.freecodecamp.org/news/the-biggest-changes-in-javascript-this-year/"/>
-        <updated>2023-11-29T18:09:51.000Z</updated>
-        <summary type="html"><![CDATA[ECMAScript 2023, the 14th edition of the language, has some great changes that will make your programming life easier.  In this article, I'll go through each of the changes and explain why they're helpful. So let’s dive in and see some new methods we got as an early Christmas]]></summary>
-        <author>
-            <name>Nishant Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JavaScript Promises Work – Tutorial for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-promise-object-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-promise-object-explained/"/>
-        <updated>2023-11-29T15:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article, I’m going to teach you one of the most confusing JavaScript topics, which is the Promise object. Promises may seem difficult at first, but they're actually quite simple once you understand how they work. Here's what we'll cover:  1. How a Promise Works]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Movie Recommendation System Based on Collaborative Filtering]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-movie-recommendation-system-based-on-collaborative-filtering/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-movie-recommendation-system-based-on-collaborative-filtering/"/>
-        <updated>2023-11-29T15:45:18.000Z</updated>
-        <summary type="html"><![CDATA[In today’s world of technology, we get more recommendations from Artificial Intelligence models than from our friends.  Surprised? Think of the content you see and the apps you use daily. We get product recommendations on Amazon, clothing recommendations on Myntra, and movie suggestions on Netflix based on our past]]></summary>
-        <author>
-            <name>Jess Wilk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practice HTML, CSS, and JavaScript in Spanish by Building 7 Projects]]></title>
-        <id>https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/</id>
-        <link href="https://www.freecodecamp.org/news/practice-html-css-and-javascript-by-building-7-projects/"/>
-        <updated>2023-11-29T15:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Creating projects is very important for expanding your web development portfolio. Transforming an idea into a real project can help you to practice and understand key concepts and techniques. We just published a 3-hour course in Spanish on freeCodeCamp's Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you how to build]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
         </author>
     </entry>
 </feed>
