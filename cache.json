@@ -160,21 +160,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/five-second-testing-case-study/five-second-testing-case-study.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.",
-          "link": "https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
-          "publishedOn": "2023-12-04T14:00:00.000Z",
-          "wordCount": 6530,
-          "title": "How Marketing Changed OOP In JavaScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/marketing-changed-oop-javascript/marketing-changed-oop-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/marketing-changed-oop-javascript/marketing-changed-oop-javascript.jpg"
         }
       ]
     },
@@ -183,6 +168,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/",
+          "author": "Kedar Makode",
+          "description": "Welcome to the fundamental world of Red Hat Enterprise Linux (RHEL)! In order to be an effective Linux user, you'll need to learn and truly understand some essential concepts and commands. Let's dive into the core aspects of RHEL administration to help you understand these key topics that form the",
+          "link": "https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/",
+          "publishedOn": "2024-01-03T15:54:20.000Z",
+          "wordCount": 5037,
+          "title": "Red Hat Enterprise Linux – Essential RHEL Concepts and Commands to Know",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004524.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/",
+          "author": "Beau Carnes",
+          "description": "React and Appwrite make a great combination for creating full stack apps.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use React and Appwrite to create full stack applications. This course is designed and delivered by Hitesh Choudhary, a excellent instructor",
+          "link": "https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/",
+          "publishedOn": "2024-01-03T14:19:27.000Z",
+          "wordCount": 981,
+          "title": "Comprehensive Full Stack React with Appwrite – Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/reactalppwight.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/",
+          "author": "Juan P. Romano",
+          "description": "Ever since I was a kid, I've been hooked on video games. My first experience with coding involved kind of a wild project – a Tron races simulator in Quick Basic on an ancient IBM computer (I was like 6 years old, so I didn't really understand what I was",
+          "link": "https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/",
+          "publishedOn": "2024-01-02T23:55:29.000Z",
+          "wordCount": 5962,
+          "title": "PyGame Tutorial – How to Build an Alien Abduction game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/alien_abduction_game.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/android-proto-datastore-should-you-use-it/",
           "author": "Tomer Ben Rachel",
@@ -742,36 +757,6 @@
           "wordCount": 1980,
           "title": "AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/clfc01.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-std-chrono-api/",
-          "author": "Jayant Chowdhary",
-          "description": "Keeping track of time is a very important aspect of computer programs. Some common use cases are:  * Measure/profile the performance of certain parts of code.  * Do work at certain periods of time, from within a program.   * Detect whether threads are in a deadlock",
-          "link": "https://www.freecodecamp.org/news/cpp-std-chrono-api/",
-          "publishedOn": "2023-12-04T23:38:45.000Z",
-          "wordCount": 2034,
-          "title": "Keeping Time in C++: How to use the std::chrono API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/ClangCover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/",
-          "author": "Joan Ayebola",
-          "description": "React is a powerful JavaScript library for building user interfaces. And it has undergone significant changes over the years.  One of the most noteworthy additions is the introduction of hooks, which revolutionized the way developers manage state and side effects in functional components.  In this guide, we'll explore",
-          "link": "https://www.freecodecamp.org/news/react-hooks-useeffect-usestate-and-usecontext/",
-          "publishedOn": "2023-12-04T18:38:16.000Z",
-          "wordCount": 1847,
-          "title": "How to Use React Hooks – useEffect, useState, and useContext Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Orange-and-Yellow-Retro-Flower-Power-Daily-Class-Agenda-Template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
-          "author": "Beau Carnes",
-          "description": "MLOps, short for Machine Learning Operations, refers to the practice of applying DevOps principles to machine learning. Understanding MLOps can help you build production grade machine learning projects. We just posted an MLOps course the freeCodeCamp.org YouTube channel. MLOps is a cutting-edge field at the intersection of machine learning, data",
-          "link": "https://www.freecodecamp.org/news/mlops-course-learn-to-build-machine-learning-production-grade-projects/",
-          "publishedOn": "2023-12-04T17:50:08.000Z",
-          "wordCount": 1029,
-          "title": "MLOps Course – Learn to Build Machine Learning Production Grade Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/mlops2.png"
         }
       ]
     }
