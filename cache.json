@@ -145,21 +145,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/preparing-interaction-next-paint-web-core-vital/preparing-interaction-next-paint-web-core-vital.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
-          "author": "hello@smashingmagazine.com (Eduard Kuric)",
-          "description": "Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.",
-          "link": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
-          "publishedOn": "2023-12-06T10:00:00.000Z",
-          "wordCount": 5935,
-          "title": "Five-Second Testing: Taking A Closer Look At First Impressions (Case Study)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/five-second-testing-case-study/five-second-testing-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/five-second-testing-case-study/five-second-testing-case-study.jpg"
         }
       ]
     },
@@ -168,6 +153,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
+          "author": "Manish Shivanandhan",
+          "description": "K-means clustering is a powerful technique that can help you discover hidden patterns and groupings in your datasets. Let’s look at how it works. K-means clustering is a basic but powerful tool in data science. It has changed the way we look at and understand large datasets. In this article,",
+          "link": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
+          "publishedOn": "2024-01-04T22:52:24.000Z",
+          "wordCount": 1965,
+          "title": "K-Means Clustering – How to Unveil Hidden Patterns in Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/0_ZPAok0iVIVf9AfpV.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/securing-kotlin-server-applications/",
+          "author": "Faith Oyama",
+          "description": "In server-side application development using Kotlin, taking robust security measures is important. Developers encounter various threats and vulnerabilities that can compromise applications. This article delves into comprehensive security strategies tailored for Kotlin server applications, aiming to equip developers with the knowledge to fortify their systems against potential risks. Security in",
+          "link": "https://www.freecodecamp.org/news/securing-kotlin-server-applications/",
+          "publishedOn": "2024-01-04T22:33:33.000Z",
+          "wordCount": 1753,
+          "title": "How to Secure Kotlin Server Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Securing-Kotlin-Server-Applications-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/",
+          "author": "Reed Barger",
+          "description": "There's never been a better time to learn React than in 2024. In this comprehensive guide, I'll show you how I would go from knowing nothing about React to becoming a job-ready, junior React developer in 3 to 6 months. Keep in mind that becoming a skilled developer is not",
+          "link": "https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/",
+          "publishedOn": "2024-01-04T21:48:22.000Z",
+          "wordCount": 2313,
+          "title": "How to Learn React in 2024 – A Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/learn-react-2024-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/",
+          "author": "Elizabeth  Meshioye",
+          "description": "Sometimes you might want to use a different select element to match your style based on the theme of your design. Or perhaps the default design is different on separate browsers and you want uniformity.  But when designing this new element, you might forget to consider the accessibility of",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/",
+          "publishedOn": "2024-01-04T17:06:29.000Z",
+          "wordCount": 3119,
+          "title": "How to Build an Accessible Custom Dropdown Select Element",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/a11y-select.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/new-vs-make-functions-in-go/",
+          "author": "Destiny Erhabor",
+          "description": "Go, also known as Golang, is a statically-typed, compiled programming language designed for simplicity and efficiency.  When it comes to working with data structures like slices, maps, and channels, you'll likely encounter the new() and make() functions. While both are used for memory allocation, they serve distinct purposes.",
+          "link": "https://www.freecodecamp.org/news/new-vs-make-functions-in-go/",
+          "publishedOn": "2024-01-04T15:44:43.000Z",
+          "wordCount": 1069,
+          "title": "The new() vs make() Functions in Go – When to Use Each One",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-skitterphoto-422844.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-advanced-operators/",
+          "author": "Nathan Sebhastian",
+          "description": "Hi Everyone! In this article, I'm going to teach you how to use three advanced JavaScript operators: the Nullish Coalescing, Optional Chaining, and Destructuring Assignment operators. These three operators will help you write clearer and less error-prone code.  The Nullish Coalescing Operator When you’re inspecting JavaScript code, you may",
+          "link": "https://www.freecodecamp.org/news/javascript-advanced-operators/",
+          "publishedOn": "2024-01-04T15:22:39.000Z",
+          "wordCount": 2526,
+          "title": "Advanced JavaScript Operators – Nullish Coalescing, Optional Chaining, and Destructuring Assignment",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/js-advanced-operators.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/",
+          "author": "SUDHEER KUMAR REDDY GOWRIGARI",
+          "description": "In the ever-evolving landscape of web development, performance optimization remains a top priority.  Among the plethora of strategies you can use to enhance web performance, lazy loading stands out for its efficiency and impact.  But what exactly is lazy loading, and how does it revolutionize the way we",
+          "link": "https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/",
+          "publishedOn": "2024-01-04T01:08:30.000Z",
+          "wordCount": 1759,
+          "title": "How Lazy Loading Works in Web Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/A-simple-banner-image-depicting-the-concept-of-lazy-loading-images.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/",
+          "author": "Chris Blakely",
+          "description": "Have you ever wondered how modern web applications are built? How you can learn and master the technologies that you can use to build your own full stack projects from scratch? In this handbook, I'm going to introduce you to the MERN stack, a widely-used technology stack embraced by many",
+          "link": "https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/",
+          "publishedOn": "2024-01-04T00:57:45.000Z",
+          "wordCount": 5450,
+          "title": "MERN Stack Roadmap – How to Learn MERN and Become a Full-Stack Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Copy-of-mern-stack-hotel-booking-website--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing/",
+          "author": "Zubair Idris Aweda",
+          "description": "As the digital landscape continues to evolve and technology marches forward, cloud computing has remained an important topic for developers to learn. You've probably encountered cloud requirements in job listings, heard people talk about it in conversations, or seen ads by companies offering cloud services – and now you're interested",
+          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing/",
+          "publishedOn": "2024-01-03T21:40:31.000Z",
+          "wordCount": 2590,
+          "title": "What is Cloud Computing? Introduction to the Cloud for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/cloud-sky.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/",
+          "author": "CHRISTINE T. BELZIE",
+          "description": "Imagine a beautiful cherry tree full of sweet, red, round fruit hanging on lush, glistening branches. But imagine if those cherries grew so quickly that the branches started bending, overlapping, and breaking...sounds chaotic right?  This is what can happen if you don't use Git's cherry-pick command properly in open",
+          "link": "https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/",
+          "publishedOn": "2024-01-03T21:33:29.000Z",
+          "wordCount": 1463,
+          "title": "How to Use Git Cherry Pick and Avoid Duplicate Commits",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/blog-cover-for-git-cherry-pick.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/",
           "author": "Kedar Makode",
@@ -707,56 +792,6 @@
           "wordCount": 13567,
           "title": "How to Launch Your Coding Career and Land Your First Software Engineering Internship",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Software-Engineering-Intership-Handbook-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/",
-          "author": "Furkan Emin Can",
-          "description": "React is un-opinionated about how you fetch and manage the remote data in your application. You may think of using the useEffect hook for simple fetching operations, but it will not help you with caching, request deduplication, always serving real-time data, and so on. Things will get more complicated when",
-          "link": "https://www.freecodecamp.org/news/swr-library-for-data-fetching-in-react/",
-          "publishedOn": "2023-12-05T21:59:00.000Z",
-          "wordCount": 1948,
-          "title": "How to Use the SWR Library for Better Data Fetching in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-python-best-for/",
-          "author": "Juan Cruz Martinez",
-          "description": "Developers are often very passionate about their tech stack, and they'll likely recommend it for anything.  It is very common to see devs on social media sharing how you can build anything with JavaScript or how Python is great for data scientists. As a Python fanatic myself, I actually",
-          "link": "https://www.freecodecamp.org/news/what-is-python-best-for/",
-          "publishedOn": "2023-12-05T21:22:56.000Z",
-          "wordCount": 2159,
-          "title": "Python Use Cases – What is Python Best For?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/python-best-for.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/",
-          "author": "Sophia Iroegbu",
-          "description": "Maintaining safe and frictionless user authentication is paramount in today's fast-changing web application landscape.  Among the many authentication methods available, GitHub OAuth has emerged as a useful tool for improving user login experience while strengthening security measures.  Django [https://docs.djangoproject.com/en/4.2/], a Python web framework, has recently gained popularity in",
-          "link": "https://www.freecodecamp.org/news/set-up-github-oauth-on-django-for-user-authentication/",
-          "publishedOn": "2023-12-05T21:19:14.000Z",
-          "wordCount": 1900,
-          "title": "How to Set Up GitHub OAuth in a Django App for User Authentication",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Blog-Banner---Template.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/",
-          "author": "Amarachi Johnson-Ubah",
-          "description": "The proverb \"it takes a village\" applies to more than child-rearing. It also takes a village to maintain an open source project.  Community is a large part of open source. After all, Open Source projects can't thrive without a strong network of people (community) who contribute towards it, either",
-          "link": "https://www.freecodecamp.org/news/contributing-to-open-source-as-a-community-manager/",
-          "publishedOn": "2023-12-05T21:14:18.000Z",
-          "wordCount": 2599,
-          "title": "How to Contribute to Open Source as a Community Manager",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/OSS-cover.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/",
-          "author": "Beau Carnes",
-          "description": "Passing the AWS Certified Cloud Practitioner Exam is one of the first steps to a career in cloud development. And freeCodeCamp just published a free 14-hour course that will help you prepare for the exam.  This exam mostly deals with cloud computing concepts. Even if you are new to",
-          "link": "https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course-pass-the-exam-with-this-free-13-hour-course/",
-          "publishedOn": "2023-12-05T19:51:55.000Z",
-          "wordCount": 1980,
-          "title": "AWS Certified Cloud Practitioner Study Course – Pass the Exam With This Free 14-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/clfc01.jpg"
         }
       ]
     }
