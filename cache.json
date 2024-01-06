@@ -154,6 +154,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-react-context/",
+          "author": "Benedicta Onyebuchi",
+          "description": "As beginners, managing state in React applications can be challenging, especially when passing and utilizing props in deeply nested components.  The usual way of passing information from a main component to its smaller parts — like a parent passing data to a child, then to a grandchild — can",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-context/",
+          "publishedOn": "2024-01-05T20:06:06.000Z",
+          "wordCount": 2219,
+          "title": "How to Use React Context in Your Project – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Learn-With-Benedicta.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/template-literals-in-javascript/",
+          "author": "Benjamin Semah",
+          "description": "Template literals are a feature in JavaScript that were introduced with ES6. They gives you a more flexible and maintainable way of working with strings in JavaScript. By the end of this article, you will know how to use template literals. You will learn the syntax, the benefits, and some",
+          "link": "https://www.freecodecamp.org/news/template-literals-in-javascript/",
+          "publishedOn": "2024-01-05T18:30:18.000Z",
+          "wordCount": 2073,
+          "title": "How to Use Template Literals in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/JavaScript-template-literal---freecodecamp.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/",
+          "author": "Eivind Kjosbakken",
+          "description": "OCR is a valuable tool that you can use to extract text from images. But the OCR you are using may not work as intended for your specific needs. In such situations, fine-tuning your OCR engine is the way to go.  In this tutorial, I will show you how",
+          "link": "https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/",
+          "publishedOn": "2024-01-05T17:48:17.000Z",
+          "wordCount": 4370,
+          "title": "How to Fine-Tune EasyOCR with a Synthetic Dataset",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/image-53.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/analyze-and-visualize-large-datasets-with-excel-pivot-tables-charts/",
+          "author": "Samuel A. Olubiyo",
+          "description": "Microsoft Excel is a very powerful tool that you can use to analyze and visualize data.  In this tutorial, you will learn how to build a simple Excel Dashboard that visualizes important data from a large dataset.  The dataset we'll be working with is the transaction records of",
+          "link": "https://www.freecodecamp.org/news/analyze-and-visualize-large-datasets-with-excel-pivot-tables-charts/",
+          "publishedOn": "2024-01-05T17:40:39.000Z",
+          "wordCount": 2156,
+          "title": "How to Analyze and Visualize Large Datasets with Microsoft Excel Using Pivot Tables and Charts",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/all-charts-with-conditional-formatting-1.PNG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/defending-against-ssrf-attacks/",
+          "author": "Hamdaan Ali",
+          "description": "Server-Side Request Forgery (SSRF) has been a consistent issue in application security and is among the OWASP Top 10 vulnerabilities.  In this walkthrough, you'll first learn what Server-Side Request Forgery is and how it differs from Client-Side Request Forgery. We will create a sample application to gain a better",
+          "link": "https://www.freecodecamp.org/news/defending-against-ssrf-attacks/",
+          "publishedOn": "2024-01-05T17:21:50.000Z",
+          "wordCount": 3269,
+          "title": "How to Defend Against Server-Side Request Forgery",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-864.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-string-handbook/",
+          "author": "Joan Ayebola",
+          "description": "Strings, in the context of JavaScript, are essential data types that represent sequences of characters. They are integral to web development, forming the foundation for handling and presenting textual information on websites. Whether it's displaying user names, handling form input, or generating dynamic content, strings are omnipresent in JavaScript programming.",
+          "link": "https://www.freecodecamp.org/news/javascript-string-handbook/",
+          "publishedOn": "2024-01-05T17:19:11.000Z",
+          "wordCount": 5371,
+          "title": "The JavaScript String Handbook – How to Work with Strings in JS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/The-JavaScript-String-Handbook-Version-2--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-machine-learning-models-with-reliable-validation-scores/",
+          "author": "Saheed Azeez",
+          "description": "Imagine that you took a test in school, and you expected to score 80-90% based on how you thought you performed. But when the results came out, you learned that you scored 50-60% in the test. You'd be shocked, right?  Well sometimes these same scenarios play out in machine",
+          "link": "https://www.freecodecamp.org/news/build-machine-learning-models-with-reliable-validation-scores/",
+          "publishedOn": "2024-01-05T17:15:59.000Z",
+          "wordCount": 3010,
+          "title": "How to Build Machine Learning Models with Reliable Validation Scores",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Untitled-presentation.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
           "author": "Manish Shivanandhan",
           "description": "K-means clustering is a powerful technique that can help you discover hidden patterns and groupings in your datasets. Let’s look at how it works. K-means clustering is a basic but powerful tool in data science. It has changed the way we look at and understand large datasets. In this article,",
@@ -752,46 +822,6 @@
           "wordCount": 814,
           "title": "🐍 🕹️ 💻",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/snake2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/",
-          "author": "Joan Ayebola",
-          "description": "React has emerged as a powerful and widely used JavaScript library for building user interfaces. Its component-based architecture allows developers to create modular and reusable code, making it easier to manage and maintain complex applications.  One common requirement in web development projects is the ability to delay the execution",
-          "link": "https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/",
-          "publishedOn": "2023-12-06T23:37:13.000Z",
-          "wordCount": 2957,
-          "title": "How to Use setTimeout in React Using Hooks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Blue---white-company-profile-presentation--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/",
-          "author": "Jayant Chowdhary",
-          "description": "In this article, I'll be covering a subtle but egregious problem that can occur in C++ programs. This problem is popularly called the 'Static Initialization Order Fiasco'.  I'll first go over what the problem is, then go onto some solutions and explore how they work. Let's get started.",
-          "link": "https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/",
-          "publishedOn": "2023-12-06T23:11:52.000Z",
-          "wordCount": 2452,
-          "title": "What is the Static Initialization Order Fiasco in C++? [Solved]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/StaticCover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/software-engineer-internship-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. Many large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully curated guide, grounded in data and expert consensus, is designed to be your",
-          "link": "https://www.freecodecamp.org/news/software-engineer-internship-handbook/",
-          "publishedOn": "2023-12-06T18:21:06.000Z",
-          "wordCount": 13531,
-          "title": "The Software Engineer Internship Handbook – How to Launch Your Coding Career",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Software-Engineering-Intership-Handbook-Cover--1--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/",
-          "author": "Vahe Aslanyan",
-          "description": "In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. According to a survey by the National Association of Colleges and Employers, 89% of large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully",
-          "link": "https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/",
-          "publishedOn": "2023-12-06T18:21:06.000Z",
-          "wordCount": 13567,
-          "title": "How to Launch Your Coding Career and Land Your First Software Engineering Internship",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Software-Engineering-Intership-Handbook-Cover--1-.png"
         }
       ]
     }

@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-05T00:58:23.106Z</updated>
+    <updated>2024-01-06T00:57:29.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Context in Your Project – Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-react-context/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-context/"/>
+        <updated>2024-01-05T20:06:06.000Z</updated>
+        <summary type="html"><![CDATA[As beginners, managing state in React applications can be challenging, especially when passing and utilizing props in deeply nested components.  The usual way of passing information from a main component to its smaller parts — like a parent passing data to a child, then to a grandchild — can]]></summary>
+        <author>
+            <name>Benedicta Onyebuchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Template Literals in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/template-literals-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/template-literals-in-javascript/"/>
+        <updated>2024-01-05T18:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Template literals are a feature in JavaScript that were introduced with ES6. They gives you a more flexible and maintainable way of working with strings in JavaScript. By the end of this article, you will know how to use template literals. You will learn the syntax, the benefits, and some]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fine-Tune EasyOCR with a Synthetic Dataset]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fine-tune-easyocr-with-a-synthetic-dataset/"/>
+        <updated>2024-01-05T17:48:17.000Z</updated>
+        <summary type="html"><![CDATA[OCR is a valuable tool that you can use to extract text from images. But the OCR you are using may not work as intended for your specific needs. In such situations, fine-tuning your OCR engine is the way to go.  In this tutorial, I will show you how]]></summary>
+        <author>
+            <name>Eivind Kjosbakken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Analyze and Visualize Large Datasets with Microsoft Excel Using Pivot Tables and Charts]]></title>
+        <id>https://www.freecodecamp.org/news/analyze-and-visualize-large-datasets-with-excel-pivot-tables-charts/</id>
+        <link href="https://www.freecodecamp.org/news/analyze-and-visualize-large-datasets-with-excel-pivot-tables-charts/"/>
+        <updated>2024-01-05T17:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Excel is a very powerful tool that you can use to analyze and visualize data.  In this tutorial, you will learn how to build a simple Excel Dashboard that visualizes important data from a large dataset.  The dataset we'll be working with is the transaction records of]]></summary>
+        <author>
+            <name>Samuel A. Olubiyo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Defend Against Server-Side Request Forgery]]></title>
+        <id>https://www.freecodecamp.org/news/defending-against-ssrf-attacks/</id>
+        <link href="https://www.freecodecamp.org/news/defending-against-ssrf-attacks/"/>
+        <updated>2024-01-05T17:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Server-Side Request Forgery (SSRF) has been a consistent issue in application security and is among the OWASP Top 10 vulnerabilities.  In this walkthrough, you'll first learn what Server-Side Request Forgery is and how it differs from Client-Side Request Forgery. We will create a sample application to gain a better]]></summary>
+        <author>
+            <name>Hamdaan Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript String Handbook – How to Work with Strings in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-string-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-string-handbook/"/>
+        <updated>2024-01-05T17:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Strings, in the context of JavaScript, are essential data types that represent sequences of characters. They are integral to web development, forming the foundation for handling and presenting textual information on websites. Whether it's displaying user names, handling form input, or generating dynamic content, strings are omnipresent in JavaScript programming.]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Machine Learning Models with Reliable Validation Scores]]></title>
+        <id>https://www.freecodecamp.org/news/build-machine-learning-models-with-reliable-validation-scores/</id>
+        <link href="https://www.freecodecamp.org/news/build-machine-learning-models-with-reliable-validation-scores/"/>
+        <updated>2024-01-05T17:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Imagine that you took a test in school, and you expected to score 80-90% based on how you thought you performed. But when the results came out, you learned that you scored 50-60% in the test. You'd be shocked, right?  Well sometimes these same scenarios play out in machine]]></summary>
+        <author>
+            <name>Saheed Azeez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-Means Clustering – How to Unveil Hidden Patterns in Your Data]]></title>
         <id>https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/</id>
@@ -693,46 +763,6 @@
         <summary type="html"><![CDATA[Improve your JavaScript skills by building a snake game inspired by the iconic Nokia Snake game! We just published a course on the freeCodeCamp.org YouTube channel that will teach you to create the project using vanilla HMTL, CSS and JavaScript. Ademir Alijagic created this course. You will build this.This coruse]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use setTimeout in React Using Hooks]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-settimeout-in-react-using-hooks/"/>
-        <updated>2023-12-06T23:37:13.000Z</updated>
-        <summary type="html"><![CDATA[React has emerged as a powerful and widely used JavaScript library for building user interfaces. Its component-based architecture allows developers to create modular and reusable code, making it easier to manage and maintain complex applications.  One common requirement in web development projects is the ability to delay the execution]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Static Initialization Order Fiasco in C++? [Solved]]]></title>
-        <id>https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/</id>
-        <link href="https://www.freecodecamp.org/news/cpp-static-initialization-order-fiasco/"/>
-        <updated>2023-12-06T23:11:52.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll be covering a subtle but egregious problem that can occur in C++ programs. This problem is popularly called the 'Static Initialization Order Fiasco'.  I'll first go over what the problem is, then go onto some solutions and explore how they work. Let's get started.]]></summary>
-        <author>
-            <name>Jayant Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Software Engineer Internship Handbook – How to Launch Your Coding Career]]></title>
-        <id>https://www.freecodecamp.org/news/software-engineer-internship-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/software-engineer-internship-handbook/"/>
-        <updated>2023-12-06T18:21:06.000Z</updated>
-        <summary type="html"><![CDATA[In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. Many large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully curated guide, grounded in data and expert consensus, is designed to be your]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Launch Your Coding Career and Land Your First Software Engineering Internship]]></title>
-        <id>https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/</id>
-        <link href="https://www.freecodecamp.org/news/launch-your-coding-career-and-get-an-internship/"/>
-        <updated>2023-12-06T18:21:06.000Z</updated>
-        <summary type="html"><![CDATA[In the fiercely competitive world of software engineering, the question isn’t whether internships matter, but how much. According to a survey by the National Association of Colleges and Employers, 89% of large tech firms emphasize internship experience when hiring. So, if you’re an aspiring software engineer, listen closely. This carefully]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
         </author>
     </entry>
 </feed>
