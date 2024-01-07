@@ -130,21 +130,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.",
-          "link": "https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/",
-          "publishedOn": "2023-12-07T21:00:00.000Z",
-          "wordCount": 5624,
-          "title": "Preparing For Interaction To Next Paint, A New Web Core Vital",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/preparing-interaction-next-paint-web-core-vital/preparing-interaction-next-paint-web-core-vital.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/preparing-interaction-next-paint-web-core-vital/preparing-interaction-next-paint-web-core-vital.jpg"
         }
       ]
     },
@@ -153,6 +138,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-key-concepts/",
+          "author": "Ankur Tyagi",
+          "description": "Welcome to this comprehensive guide to learning React. If you're looking for an efficient and well-thought-out approach to understanding React fundamentals, you've just hit the jackpot. This guide follows the 80/20 rule – we'll focus on a few key React concepts that you'll use in the majority of your work",
+          "link": "https://www.freecodecamp.org/news/learn-react-key-concepts/",
+          "publishedOn": "2024-01-06T01:52:22.000Z",
+          "wordCount": 6434,
+          "title": "Learn React – A Guide to the Key Concepts",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Orange---Yellow-Gradient-Make-Design-Blog-Banner--56-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-react-context/",
           "author": "Benedicta Onyebuchi",
@@ -222,6 +217,16 @@
           "wordCount": 3010,
           "title": "How to Build Machine Learning Models with Reliable Validation Scores",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Untitled-presentation.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/",
+          "author": "Faith Oyama",
+          "description": "Imagine you're running a bustling restaurant. Orders fly in, dishes need cooking, tables require clearing, and happy customers demand attention. How can you handle all this chaos without everything turning into a total disaster? This is where concurrency comes in. In the world of server-side development, things can get just",
+          "link": "https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/",
+          "publishedOn": "2024-01-04T23:59:00.000Z",
+          "wordCount": 2369,
+          "title": "Concurrency in Kotlin Server-Side Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/concurrency.jpg"
         },
         {
           "id": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
@@ -772,56 +777,6 @@
           "wordCount": 13370,
           "title": "How to Start Learning to Code – Coding for Everyone Handbook",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/How-to-Start-Learning-to-Code-cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/",
-          "author": "Quincy Larson",
-          "description": "On this week's podcast, I'm joined by Dhawal Shah, the creator of Class Central, a popular search engine for online courses. Dhawal shares the history of online courses and the Massive Open Online Course revolution of the early 2010s.  We also talk about his childhood growing up in India,",
-          "link": "https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/",
-          "publishedOn": "2023-12-08T10:29:06.000Z",
-          "wordCount": 791,
-          "title": "Podcast: The History of Online Courses with Class Central Founder Dhawal Shah",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/signal-2023-12-08-042220_002.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-document-object-model-explained/",
-          "author": "Nathan Sebhastian",
-          "description": "Hi everyone! In this article, I’m going to cover everything you need to know about manipulating the DOM. Basically, each Element object in the DOM has properties and methods that you can use to interact with that element. The following are the most common and practical ways you might want",
-          "link": "https://www.freecodecamp.org/news/javascript-document-object-model-explained/",
-          "publishedOn": "2023-12-07T22:19:23.000Z",
-          "wordCount": 2130,
-          "title": "How to Manipulate the DOM in JavaScript – Most Commonly Used Techniques",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/js-dom-manipulation-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/",
-          "author": "Benjamin Semah",
-          "description": "If you're a web developer or have worked with the DOM (Document Object Model), you may have come across the terms HTMLCollection and NodeList before. But what do they mean and when do you need to use them? By the end of this article, you will learn all about HTMLCollection",
-          "link": "https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/",
-          "publishedOn": "2023-12-07T22:11:45.000Z",
-          "wordCount": 2119,
-          "title": "HTMLCollection vs NodeList – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Benjamin-Semah---DevAfterHours.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-interview-prep-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "If you're trying to get a job in big tech or you want to refine your skills in software development, a strong grasp of Java is indispensable.  Java is well-known for its robustness in Object-Oriented Programming (OOP), and it provides a comprehensive foundation essential for developers at every level.",
-          "link": "https://www.freecodecamp.org/news/java-interview-prep-handbook/",
-          "publishedOn": "2023-12-07T21:28:43.000Z",
-          "wordCount": 16318,
-          "title": "The Java Interview Prep Handbook – 50 Questions Solved + Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Java-Interview-Prep-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/",
-          "author": "Beau Carnes",
-          "description": "Improve your JavaScript skills by building a snake game inspired by the iconic Nokia Snake game! We just published a course on the freeCodeCamp.org YouTube channel that will teach you to create the project using vanilla HMTL, CSS and JavaScript. Ademir Alijagic created this course. You will build this.This coruse",
-          "link": "https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/",
-          "publishedOn": "2023-12-07T15:57:29.000Z",
-          "wordCount": 814,
-          "title": "🐍 🕹️ 💻",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/snake2.jpg"
         }
       ]
     }

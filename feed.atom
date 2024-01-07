@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-06T00:57:29.628Z</updated>
+    <updated>2024-01-07T01:03:24.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn React – A Guide to the Key Concepts]]></title>
+        <id>https://www.freecodecamp.org/news/learn-react-key-concepts/</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-key-concepts/"/>
+        <updated>2024-01-06T01:52:22.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this comprehensive guide to learning React. If you're looking for an efficient and well-thought-out approach to understanding React fundamentals, you've just hit the jackpot. This guide follows the 80/20 rule – we'll focus on a few key React concepts that you'll use in the majority of your work]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use React Context in Your Project – Beginner's Guide]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-react-context/</id>
@@ -74,6 +84,16 @@
         <summary type="html"><![CDATA[Imagine that you took a test in school, and you expected to score 80-90% based on how you thought you performed. But when the results came out, you learned that you scored 50-60% in the test. You'd be shocked, right?  Well sometimes these same scenarios play out in machine]]></summary>
         <author>
             <name>Saheed Azeez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concurrency in Kotlin Server-Side Development]]></title>
+        <id>https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/</id>
+        <link href="https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/"/>
+        <updated>2024-01-04T23:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine you're running a bustling restaurant. Orders fly in, dishes need cooking, tables require clearing, and happy customers demand attention. How can you handle all this chaos without everything turning into a total disaster? This is where concurrency comes in. In the world of server-side development, things can get just]]></summary>
+        <author>
+            <name>Faith Oyama</name>
         </author>
     </entry>
     <entry>
@@ -703,66 +723,6 @@
         <summary type="html"><![CDATA[In this handbook, I'll address a question you may be asking yourself: should you learn how to code? After explaining why you definitely should, I'll cover some of the benefits and challenges of being a software developer. I'll also discuss some key strategies for approaching learning to code to help]]></summary>
         <author>
             <name>Fatos Morina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: The History of Online Courses with Class Central Founder Dhawal Shah]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-history-of-online-courses-dhawal-shah/"/>
-        <updated>2023-12-08T10:29:06.000Z</updated>
-        <summary type="html"><![CDATA[On this week's podcast, I'm joined by Dhawal Shah, the creator of Class Central, a popular search engine for online courses. Dhawal shares the history of online courses and the Massive Open Online Course revolution of the early 2010s.  We also talk about his childhood growing up in India,]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Manipulate the DOM in JavaScript – Most Commonly Used Techniques]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-document-object-model-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-document-object-model-explained/"/>
-        <updated>2023-12-07T22:19:23.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! In this article, I’m going to cover everything you need to know about manipulating the DOM. Basically, each Element object in the DOM has properties and methods that you can use to interact with that element. The following are the most common and practical ways you might want]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTMLCollection vs NodeList – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/</id>
-        <link href="https://www.freecodecamp.org/news/dom-manipulation-htmlcollection-vs-nodelist/"/>
-        <updated>2023-12-07T22:11:45.000Z</updated>
-        <summary type="html"><![CDATA[If you're a web developer or have worked with the DOM (Document Object Model), you may have come across the terms HTMLCollection and NodeList before. But what do they mean and when do you need to use them? By the end of this article, you will learn all about HTMLCollection]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Java Interview Prep Handbook – 50 Questions Solved + Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/java-interview-prep-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/java-interview-prep-handbook/"/>
-        <updated>2023-12-07T21:28:43.000Z</updated>
-        <summary type="html"><![CDATA[If you're trying to get a job in big tech or you want to refine your skills in software development, a strong grasp of Java is indispensable.  Java is well-known for its robustness in Object-Oriented Programming (OOP), and it provides a comprehensive foundation essential for developers at every level.]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preparing For Interaction To Next Paint, A New Web Core Vital]]></title>
-        <id>https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/</id>
-        <link href="https://smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital/"/>
-        <updated>2023-12-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Starting in March 2024, Interaction to Next Paint will formally replace First Input Delay as a Core Web Vital metric. Learn how the two metrics differ, why we needed a new way to measure interaction responsiveness, and how you can start optimizing the performance of your site now for a seamless transition to the latest Core Web Vital metric.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐍 🕹️ 💻]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-beginners-project-snake-game/"/>
-        <updated>2023-12-07T15:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Improve your JavaScript skills by building a snake game inspired by the iconic Nokia Snake game! We just published a course on the freeCodeCamp.org YouTube channel that will teach you to create the project using vanilla HMTL, CSS and JavaScript. Ademir Alijagic created this course. You will build this.This coruse]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
