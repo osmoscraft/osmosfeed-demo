@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
+          "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
+          "publishedOn": "2024-01-08T10:00:00.000Z",
+          "wordCount": 4222,
+          "title": "SolidStart: A Different Breed Of Meta-Framework",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the second half of this mini two-part series, Adrian Bece expands on the demos from the first article to demonstrate how the View Transitions API can be used to transition not just elements between two states but the transition between full views and pages in single-page and multi-page applications.",
@@ -138,6 +153,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/",
+          "author": "Kheoh Yee Wei",
+          "description": "When you're building a webpage, sometimes you might want images or other elements to go beyond the boundaries of a container. So in this tutorial, I'll show you a couple ways you can accomplish this. To illustrate a situation when you might find this useful, let's say we are given",
+          "link": "https://www.freecodecamp.org/news/break-out-elements-from-containers-using-flexbox/",
+          "publishedOn": "2024-01-08T18:15:47.000Z",
+          "wordCount": 1835,
+          "title": "How to Use CSS Flexbox to Break Elements Out of Their Containers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-dagmara-dombrovska-19707371.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
+          "author": "Beau Carnes",
+          "description": "Ever dreamt of building your own apps but felt intimidated by the complex world of programming? Or maybe you just want to quickly enhance your coding output? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to write code using AI. Guil Hernandez teaches",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-without-being-a-coder/",
+          "publishedOn": "2024-01-08T18:08:58.000Z",
+          "wordCount": 1090,
+          "title": "How to Code with AI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/codeai1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/memcached-crash-course/",
+          "author": "Beau Carnes",
+          "description": "Memcached is an important technology for back end developers to understand. It is a distributed memory caching system, primarily used to speed up web applications by reducing database load. It stores data in memory, allowing quicker access compared to traditional database-driven methods. We just published a Memcached crash course on",
+          "link": "https://www.freecodecamp.org/news/memcached-crash-course/",
+          "publishedOn": "2024-01-08T18:02:00.000Z",
+          "wordCount": 863,
+          "title": "Memcached Crash Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/memcached.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/",
+          "author": "Kedar Makode",
+          "description": "To effectively safeguard your system and regulate access when working in Red Hat Enterprise Linux (RHEL), you'll need to understand user and group management.  This is a critical component that's significant for both individual and complex network environments, as it's key to adeptly handle user accounts and groups. In",
+          "link": "https://www.freecodecamp.org/news/manage-users-and-groups-in-rhel/",
+          "publishedOn": "2024-01-08T17:41:44.000Z",
+          "wordCount": 3018,
+          "title": "How to Manage Users and Groups in Red Hat Enterprise Linux",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004564.svg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/gitting-things-done-book/",
+          "author": "Omer Rosenbaum",
+          "description": "Introduction Git is awesome. Most software developers use Git on a daily basis. But how many truly understand Git? Do you feel like you know what's going on under the hood as you use Git to perform various tasks? For example, what happens when you use git commit? What is",
+          "link": "https://www.freecodecamp.org/news/gitting-things-done-book/",
+          "publishedOn": "2024-01-08T17:12:21.000Z",
+          "wordCount": 36500,
+          "title": "Gitting Things Done – A Visual and Practical Guide to Git",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Gitting-Things-Done-Cover-with-Photo.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-react-key-concepts/",
           "author": "Ankur Tyagi",
