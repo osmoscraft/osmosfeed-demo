@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-10T00:59:34.792Z</updated>
+    <updated>2024-01-11T00:59:28.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding DOM Events and JavaScript Event Listeners]]></title>
+        <id>https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/</id>
+        <link href="https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/"/>
+        <updated>2024-01-10T20:38:04.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript code in the browser uses an event-driven programming pattern. What this means is that when a specific DOM event happens in the browser, a piece of code will be executed as a response to that action. In this article, I will help you see and understand how to listen]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch vs TensorFlow – Which is Better for Deep Learning Projects?]]></title>
+        <id>https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/</id>
+        <link href="https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/"/>
+        <updated>2024-01-10T18:46:30.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll look at two popular deep learning libraries — PyTorch and TensorFlow – and see how they compare. If you are getting started with deep learning, the available tools and frameworks will be overwhelming. Industry experts may recommend TensorFlow while hardcore ML engineers may prefer PyTorch. Both]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Stepper Component in React]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-stepper-component-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-stepper-component-in-react/"/>
+        <updated>2024-01-10T15:28:54.000Z</updated>
+        <summary type="html"><![CDATA[I was working on a React project recently, and I realized that there were so many UI components that I had to build to get things done quickly. So I began to explore a lot of UI libraries like Material UI [https://mui.com] or Chakra UI [https://chakra-ui.com/]. Then I started wondering]]></summary>
+        <author>
+            <name>Olabisi Olaoye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with Third-Party APIs in React by Building a Crypto Exchange Rate Web App]]></title>
+        <id>https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/"/>
+        <updated>2024-01-10T15:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Working with APIs is crucial to any web application. And as a frontend developer, knowing how to connect your apps with third-party APIs is an important skill to have. In this article, you'll learn how to connect your app and fetch data from a third-party API by building a crypto]]></summary>
+        <author>
+            <name>Chidera Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Document Object Model? DOM for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/introduction-to-the-dom/</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-the-dom/"/>
+        <updated>2024-01-10T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm going to explain to you how the DOM works so that you have a clear picture of why JavaScript is needed to develop a web application. First, let's recap what we know about HTML, CSS, and JavaScript. How HTML, CSS, and JavaScript work When you want]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript DOM Manipulation Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/"/>
+        <updated>2024-01-10T15:12:57.000Z</updated>
+        <summary type="html"><![CDATA[DOM Manipulation is one of the most exciting topics to learn about in JavaScript. This is because one of JavaScript's main uses is to make web pages interactive – and the Document Object Model (DOM) plays a major role in this.  The DOM is a powerful tool that allows]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Custom CSS Animations with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-custom-css-animations/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-custom-css-animations/"/>
+        <updated>2024-01-09T21:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Animations are a crucial component of modern web design. They enable you to create dynamic and engaging web elements that attract more customers and drive more sales. In this article, we will discuss how to create cool custom animations using CSS. Prerequisites Before going forward with this article, make sure]]></summary>
+        <author>
+            <name>Eric Hu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do Zsh Configuration Files Work?]]></title>
         <id>https://www.freecodecamp.org/news/how-do-zsh-configuration-files-work/</id>
@@ -753,116 +823,6 @@
         <summary type="html"><![CDATA[Django is a high-level web framework written in Python that encourages a rapid and realistic functional design. The Django web framework is free and open-source and is widely used to create both small and large web applications. In this tutorial, you will learn the following:  * What a development]]></summary>
         <author>
             <name>Victoria Poromon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[innerHTML vs innerText vs textContent – What's the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/</id>
-        <link href="https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/"/>
-        <updated>2023-12-11T21:57:38.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, innerHTML, innerText, and textContent are properties of the DOM (Document Object Model). They allow you to read and update the content of HTML elements. But they have different behaviours in terms of the content they include and how they handle HTML markup. By the end of this article,]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Comment Your JavaScript Code]]></title>
-        <id>https://www.freecodecamp.org/news/comment-your-javascript-code/</id>
-        <link href="https://www.freecodecamp.org/news/comment-your-javascript-code/"/>
-        <updated>2023-12-11T21:55:46.000Z</updated>
-        <summary type="html"><![CDATA[Writing comments in JavaScript is crucial for code readability, maintainability, and developer collaboration. Comments serve as notes within the codebase, explaining its functionality and logic, or providing context.  In this article, I will explain the significance of commenting your code, best practices to follow, and examples showcasing effective commenting]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous JavaScript – How to Use Promises in Your JS Code]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/"/>
-        <updated>2023-12-11T21:52:05.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a versatile programming language that powers the dynamic behavior of websites.  As web applications become more sophisticated, the need to handle asynchronous operations efficiently becomes crucial. Asynchronous JavaScript allows you to execute code without blocking the main thread, ensuring a smoother user experience.  Promises are a]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an API Gateway and Why is it Useful?]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-api-gateways/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-api-gateways/"/>
-        <updated>2023-12-11T21:40:25.000Z</updated>
-        <summary type="html"><![CDATA[APIs are often referred to as the front-door for applications to access data and business logic from backend services. As explained here [https://lightcloud.substack.com/p/api-integration-patterns], an API is essentially the interface that a piece of software presents to other humans or programs, allowing them to interact with that software. When creating an]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/</id>
-        <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/"/>
-        <updated>2023-12-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install MongoDB with OpenSSL 3 Support on Fedora 39]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/"/>
-        <updated>2023-12-11T18:52:50.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to install MongoDB with support for the latest version of OpenSSL on the Fedora Linux operating system.  If you already have it installed, this tutorial will help you fix the mongosh OpenSSL configuration error. To follow along, you will need a terminal]]></summary>
-        <author>
-            <name>Matheus A. S. Freitas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Tutorial – What Are the constexpr and constinit Specifiers?]]></title>
-        <id>https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/</id>
-        <link href="https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/"/>
-        <updated>2023-12-11T18:50:12.000Z</updated>
-        <summary type="html"><![CDATA[When we write programs, many operations which are performed at runtime can actually be done at compile time – that is, baked into code.  This improves program performance since operations are no longer being computed on the fly, during runtime.  While these techniques of offloading operations to compile]]></summary>
-        <author>
-            <name>Jayant Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automation with Python – How to Build an Automated Email System for Job Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/"/>
-        <updated>2023-12-11T18:39:33.000Z</updated>
-        <summary type="html"><![CDATA[We all receive promotional emails from companies like Swiggy and Amazon encouraging us to check out their new dish or flash sales.  Have you ever wondered how they manage to send emails to millions of customers? It’s impossible to do it manually! Instead, they use Automated Email Systems to]]></summary>
-        <author>
-            <name>Jess Wilk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Null References in the Latest Version of C#]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/"/>
-        <updated>2023-12-11T18:16:55.000Z</updated>
-        <summary type="html"><![CDATA[C# 12 has just been released, and it continues the long tradition of improvements in the safety of the language's software design and execution. One of these improvements relates to manipulating null references, a programming concept that many developers don't really love. Using null references in your code can cause]]></summary>
-        <author>
-            <name>Zoran Horvat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vector Search and RAG Tutorial – Using LLMs with Your Data]]></title>
-        <id>https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/</id>
-        <link href="https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/"/>
-        <updated>2023-12-11T18:12:49.000Z</updated>
-        <summary type="html"><![CDATA[You can use Vector Search and embeddings to easily combine your data with large language models like GPT-4. I just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement Vector Search on three different projects. First, you will learn about the concepts and then]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn REST APIs by Building a JavaScript Project]]></title>
-        <id>https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/</id>
-        <link href="https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/"/>
-        <updated>2023-12-11T15:18:44.000Z</updated>
-        <summary type="html"><![CDATA[So, you've been learning JavaScript. I bet you're loving it. You've learned the basics and you're starting to get the hang of it. So you might be wondering what to do next.  Well, let me introduce you to REST APIs, a powerful tool that you are going to add]]></summary>
-        <author>
-            <name>Spruce Emmanuel</name>
         </author>
     </entry>
 </feed>

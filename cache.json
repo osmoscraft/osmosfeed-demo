@@ -130,21 +130,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-scroll-snapping-aligned-global-page-layout-case-study/css-scroll-snapping-aligned-global-page-layout-case-study.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
-          "author": "hello@smashingmagazine.com (Luis Ouriach)",
-          "description": "Design systems can be of immense help, but failure to adopt them invalidates the hard work that goes into building the thing in the first place! In this two-part series of articles, Luis shares his experience with design systems and how you can overcome the potential pitfalls.",
-          "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part1/",
-          "publishedOn": "2023-12-11T21:00:00.000Z",
-          "wordCount": 7467,
-          "title": "Building Components For Consumption, Not Complexity (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg"
         }
       ]
     },
@@ -153,6 +138,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/",
+          "author": "Nathan Sebhastian",
+          "description": "JavaScript code in the browser uses an event-driven programming pattern. What this means is that when a specific DOM event happens in the browser, a piece of code will be executed as a response to that action. In this article, I will help you see and understand how to listen",
+          "link": "https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/",
+          "publishedOn": "2024-01-10T20:38:04.000Z",
+          "wordCount": 2468,
+          "title": "Understanding DOM Events and JavaScript Event Listeners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/DOM-events-feature-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/",
+          "author": "Manish Shivanandhan",
+          "description": "In this article, we'll look at two popular deep learning libraries — PyTorch and TensorFlow – and see how they compare. If you are getting started with deep learning, the available tools and frameworks will be overwhelming. Industry experts may recommend TensorFlow while hardcore ML engineers may prefer PyTorch. Both",
+          "link": "https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/",
+          "publishedOn": "2024-01-10T18:46:30.000Z",
+          "wordCount": 1721,
+          "title": "PyTorch vs TensorFlow – Which is Better for Deep Learning Projects?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pytorchvs_cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-stepper-component-in-react/",
+          "author": "Olabisi Olaoye",
+          "description": "I was working on a React project recently, and I realized that there were so many UI components that I had to build to get things done quickly. So I began to explore a lot of UI libraries like Material UI [https://mui.com] or Chakra UI [https://chakra-ui.com/]. Then I started wondering",
+          "link": "https://www.freecodecamp.org/news/build-a-stepper-component-in-react/",
+          "publishedOn": "2024-01-10T15:28:54.000Z",
+          "wordCount": 2122,
+          "title": "How to Build a Stepper Component in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Your-paragraph-text-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/",
+          "author": "Chidera Humphrey",
+          "description": "Working with APIs is crucial to any web application. And as a frontend developer, knowing how to connect your apps with third-party APIs is an important skill to have. In this article, you'll learn how to connect your app and fetch data from a third-party API by building a crypto",
+          "link": "https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/",
+          "publishedOn": "2024-01-10T15:24:13.000Z",
+          "wordCount": 2939,
+          "title": "How to Work with Third-Party APIs in React by Building a Crypto Exchange Rate Web App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/20240105_040821_0000-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-the-dom/",
+          "author": "Nathan Sebhastian",
+          "description": "In this article, I'm going to explain to you how the DOM works so that you have a clear picture of why JavaScript is needed to develop a web application. First, let's recap what we know about HTML, CSS, and JavaScript. How HTML, CSS, and JavaScript work When you want",
+          "link": "https://www.freecodecamp.org/news/introduction-to-the-dom/",
+          "publishedOn": "2024-01-10T15:14:00.000Z",
+          "wordCount": 1685,
+          "title": "What is the Document Object Model? DOM for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dom-introduction-feature-image-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/",
+          "author": "Benjamin Semah",
+          "description": "DOM Manipulation is one of the most exciting topics to learn about in JavaScript. This is because one of JavaScript's main uses is to make web pages interactive – and the Document Object Model (DOM) plays a major role in this.  The DOM is a powerful tool that allows",
+          "link": "https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/",
+          "publishedOn": "2024-01-10T15:12:57.000Z",
+          "wordCount": 7053,
+          "title": "The JavaScript DOM Manipulation Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/The-JavaScript-DOM-Manipulation-Handbook-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-custom-css-animations/",
+          "author": "Eric Hu",
+          "description": "Animations are a crucial component of modern web design. They enable you to create dynamic and engaging web elements that attract more customers and drive more sales. In this article, we will discuss how to create cool custom animations using CSS. Prerequisites Before going forward with this article, make sure",
+          "link": "https://www.freecodecamp.org/news/how-to-create-custom-css-animations/",
+          "publishedOn": "2024-01-09T21:59:50.000Z",
+          "wordCount": 2112,
+          "title": "How to Create Custom CSS Animations with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-do-zsh-configuration-files-work/",
           "author": "Daniel Kehoe",
@@ -822,106 +877,6 @@
           "wordCount": 1317,
           "title": "How to Set Up a Django Development Environment",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/DDE-cover.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/",
-          "author": "Benjamin Semah",
-          "description": "In HTML, innerHTML, innerText, and textContent are properties of the DOM (Document Object Model). They allow you to read and update the content of HTML elements. But they have different behaviours in terms of the content they include and how they handle HTML markup. By the end of this article,",
-          "link": "https://www.freecodecamp.org/news/innerhtml-vs-innertext-vs-textcontent/",
-          "publishedOn": "2023-12-11T21:57:38.000Z",
-          "wordCount": 1875,
-          "title": "innerHTML vs innerText vs textContent – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Benjamin-Semah---DevAfterHours-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/comment-your-javascript-code/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Writing comments in JavaScript is crucial for code readability, maintainability, and developer collaboration. Comments serve as notes within the codebase, explaining its functionality and logic, or providing context.  In this article, I will explain the significance of commenting your code, best practices to follow, and examples showcasing effective commenting",
-          "link": "https://www.freecodecamp.org/news/comment-your-javascript-code/",
-          "publishedOn": "2023-12-11T21:55:46.000Z",
-          "wordCount": 1709,
-          "title": "How to Comment Your JavaScript Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Comment-Your-JS-Code-fCC.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/",
-          "author": "Joan Ayebola",
-          "description": "JavaScript is a versatile programming language that powers the dynamic behavior of websites.  As web applications become more sophisticated, the need to handle asynchronous operations efficiently becomes crucial. Asynchronous JavaScript allows you to execute code without blocking the main thread, ensuring a smoother user experience.  Promises are a",
-          "link": "https://www.freecodecamp.org/news/how-to-use-promises-in-javascript/",
-          "publishedOn": "2023-12-11T21:52:05.000Z",
-          "wordCount": 3425,
-          "title": "Asynchronous JavaScript – How to Use Promises in Your JS Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Orange-and-white-modern-creative-marketing-plan-Presentation-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-api-gateways/",
-          "author": "Daniel Adetunji",
-          "description": "APIs are often referred to as the front-door for applications to access data and business logic from backend services. As explained here [https://lightcloud.substack.com/p/api-integration-patterns], an API is essentially the interface that a piece of software presents to other humans or programs, allowing them to interact with that software. When creating an",
-          "link": "https://www.freecodecamp.org/news/what-are-api-gateways/",
-          "publishedOn": "2023-12-11T21:40:25.000Z",
-          "wordCount": 2806,
-          "title": "What is an API Gateway and Why is it Useful?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/",
-          "author": "Matheus A. S. Freitas",
-          "description": "In this tutorial, you will learn how to install MongoDB with support for the latest version of OpenSSL on the Fedora Linux operating system.  If you already have it installed, this tutorial will help you fix the mongosh OpenSSL configuration error. To follow along, you will need a terminal",
-          "link": "https://www.freecodecamp.org/news/how-to-install-mongodb-with-openssl-3-support-on-fedora-39/",
-          "publishedOn": "2023-12-11T18:52:50.000Z",
-          "wordCount": 2178,
-          "title": "How to Install MongoDB with OpenSSL 3 Support on Fedora 39",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Post-image.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/",
-          "author": "Jayant Chowdhary",
-          "description": "When we write programs, many operations which are performed at runtime can actually be done at compile time – that is, baked into code.  This improves program performance since operations are no longer being computed on the fly, during runtime.  While these techniques of offloading operations to compile",
-          "link": "https://www.freecodecamp.org/news/cpp-constexpr-and-constinit/",
-          "publishedOn": "2023-12-11T18:50:12.000Z",
-          "wordCount": 1823,
-          "title": "C++ Tutorial – What Are the constexpr and constinit Specifiers?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/ConstCover-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/",
-          "author": "Jess Wilk",
-          "description": "We all receive promotional emails from companies like Swiggy and Amazon encouraging us to check out their new dish or flash sales.  Have you ever wondered how they manage to send emails to millions of customers? It’s impossible to do it manually! Instead, they use Automated Email Systems to",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-automated-email-system-with-python/",
-          "publishedOn": "2023-12-11T18:39:33.000Z",
-          "wordCount": 1863,
-          "title": "Automation with Python – How to Build an Automated Email System for Job Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/automate-email-with-python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/",
-          "author": "Zoran Horvat",
-          "description": "C# 12 has just been released, and it continues the long tradition of improvements in the safety of the language's software design and execution. One of these improvements relates to manipulating null references, a programming concept that many developers don't really love. Using null references in your code can cause",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-null-references-in-csharp/",
-          "publishedOn": "2023-12-11T18:16:55.000Z",
-          "wordCount": 3977,
-          "title": "How to Handle Null References in the Latest Version of C#",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/pexels-xi-xi-3043424.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/",
-          "author": "Beau Carnes",
-          "description": "You can use Vector Search and embeddings to easily combine your data with large language models like GPT-4. I just published a course on the freeCodeCamp.org YouTube channel that will teach you how to implement Vector Search on three different projects. First, you will learn about the concepts and then",
-          "link": "https://www.freecodecamp.org/news/vector-search-and-rag-tutorial-using-llms-with-your-data/",
-          "publishedOn": "2023-12-11T18:12:49.000Z",
-          "wordCount": 1619,
-          "title": "Vector Search and RAG Tutorial – Using LLMs with Your Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/vectorsearchthumb.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/",
-          "author": "Spruce Emmanuel",
-          "description": "So, you've been learning JavaScript. I bet you're loving it. You've learned the basics and you're starting to get the hang of it. So you might be wondering what to do next.  Well, let me introduce you to REST APIs, a powerful tool that you are going to add",
-          "link": "https://www.freecodecamp.org/news/learn-rest-apis-javascript-project/",
-          "publishedOn": "2023-12-11T15:18:44.000Z",
-          "wordCount": 4037,
-          "title": "Learn REST APIs by Building a JavaScript Project",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/desktop-preview-1.jpg"
         }
       ]
     }
