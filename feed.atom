@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-11T00:59:28.539Z</updated>
+    <updated>2024-01-12T00:59:42.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Magic Link Authentication with React, Flask, and Authsignal]]></title>
+        <id>https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/</id>
+        <link href="https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/"/>
+        <updated>2024-01-11T18:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Authentication is the process of verifying the identity of a user or system. It ensures that only authorized individuals or systems can access certain resources or perform specific actions. Magic Link Authentication offers a simple yet secure way for users to log in without passwords. This tutorial will walk you]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Front-End Tools Of 2023]]></title>
+        <id>https://smashingmagazine.com/2024/01/top-frontend-tools-2023/</id>
+        <link href="https://smashingmagazine.com/2024/01/top-frontend-tools-2023/"/>
+        <updated>2024-01-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Useful front-end tools for CSS and JavaScript developers that were most popular last year and will help you speed up your development workflow. Let’s dive in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the Sliding Window Technique – Algorithm Example and Solution]]></title>
+        <id>https://www.freecodecamp.org/news/sliding-window-technique/</id>
+        <link href="https://www.freecodecamp.org/news/sliding-window-technique/"/>
+        <updated>2024-01-11T15:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I was practicing coding problems that focused on Data Structures and Algorithms in preparation for a job change.  During this process, I came across the Sliding Window technique. I found this algorithm to be very interesting, so I wanted to share my learnings with the community.  This]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Search Queries in MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/"/>
+        <updated>2024-01-10T21:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Searching through a database to extract relevant data can be quite cumbersome if you don't have – or know how to use – the right tools. MongoDB is a non-relational, no-SQL database that differs from relational SQL-based databases such as PostgresSQL, MySQL. These SQL-based databases use conventional rows and columns]]></summary>
+        <author>
+            <name>oluwatobi Joshua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with Hugging Face – Open Source AI Models and Datasets]]></title>
+        <id>https://www.freecodecamp.org/news/get-started-with-hugging-face/</id>
+        <link href="https://www.freecodecamp.org/news/get-started-with-hugging-face/"/>
+        <updated>2024-01-10T21:05:36.000Z</updated>
+        <summary type="html"><![CDATA[What is Hugging Face 🤗? If you are interested in Artificial Intelligence and Natural Language Processing, you have probably heard of Hugging Face – the company named after a cute emoji.  Hugging Face is not only a company, but also a platform that is transforming the fields of AI]]></summary>
+        <author>
+            <name>Ambreen Khan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding DOM Events and JavaScript Event Listeners]]></title>
         <id>https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/</id>
@@ -803,26 +853,6 @@
         <summary type="html"><![CDATA[A Vigenère Cipher encrypts and decrypts text using a different alphabet for each letter. It consists of text to encrypt and a key with a different letter corresponding to each letter in the text.  Creating a grid of alphabets helps illustrate this practice. If the first letter in your]]></summary>
         <author>
             <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Scroll Snapping Aligned With Global Page Layout: A Full-Width Slider Case Study]]></title>
-        <id>https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/</id>
-        <link href="https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/"/>
-        <updated>2023-12-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you run into a situation where you need the padding of one element to align with the padding of another element? In this article, Brecht De Ruyte demonstrates the issue with a full-width slider component that breaks out of the main page container and shares a couple of techniques to keep it visually aligned with other elements on the page.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a Django Development Environment]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-django-development-environment/"/>
-        <updated>2023-12-12T15:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Django is a high-level web framework written in Python that encourages a rapid and realistic functional design. The Django web framework is free and open-source and is widely used to create both small and large web applications. In this tutorial, you will learn the following:  * What a development]]></summary>
-        <author>
-            <name>Victoria Poromon</name>
         </author>
     </entry>
 </feed>
