@@ -139,6 +139,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
+          "author": "Franklin Okolie",
+          "description": "The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this",
+          "link": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
+          "publishedOn": "2024-01-12T18:07:08.000Z",
+          "wordCount": 2803,
+          "title": "How to Use Callbacks and Higher Order Functions in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/higher-order-callbacks.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/",
+          "author": "Victoria Poromon",
+          "description": "Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It is widely used for creating README files, documentation, and other forms of text. Visual Studio Code (VSCode) is a popular source code editor that provides excellent support for Markdown, making it easy for developers, writers,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/",
+          "publishedOn": "2024-01-12T17:46:22.000Z",
+          "wordCount": 1940,
+          "title": "How to Use Markdown in VSCode – Syntax and Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Markdown-in-vscode-cover-photo.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/",
+          "author": "Nathan Sebhastian",
+          "description": "The Web Storage API is a set of APIs exposed by the browser so that you can store data in the browser. The data stored in the Web Storage use the key/value pair format, and both data will be stored as strings. There are two types of storage introduced in",
+          "link": "https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/",
+          "publishedOn": "2024-01-12T17:43:34.000Z",
+          "wordCount": 2025,
+          "title": "Web Storage API – How to Store Data on the Browser",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/web-storage-api-feature-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/dom-manipulation-best-practices/",
+          "author": "Benjamin Semah",
+          "description": "In JavaScript, you can manipulate the content of a web page using the Document Object Model (DOM). But how do you write code that is readable, easy to maintain, and not prone to performance issues?  That's what we'll cover in this article. I'll discuss some important best practices so",
+          "link": "https://www.freecodecamp.org/news/dom-manipulation-best-practices/",
+          "publishedOn": "2024-01-12T17:41:27.000Z",
+          "wordCount": 2219,
+          "title": "JS DOM Manipulation Best Practices – with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/freecodecamp-javascript-benjamin-semah.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/",
+          "author": "Jess Wilk",
+          "description": "In today’s digital world, every business and organization collects and uses data to build better products, target the right customers, improve efficiency, and even forecast future demand.  They say that data is the new oil – and now is the perfect time to enter the data analytics job market.",
+          "link": "https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/",
+          "publishedOn": "2024-01-12T17:31:48.000Z",
+          "wordCount": 2719,
+          "title": "How to Prepare for Data Analyst Job Interviews",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nginx/",
+          "author": "Beau Carnes",
+          "description": "NGINX is a versatile and powerful open-source software used for web serving, reverse proxying, caching, load balancing, media streaming, and more. It's important to understand for backend developers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you what you need to know about NGINX. Laith",
+          "link": "https://www.freecodecamp.org/news/nginx/",
+          "publishedOn": "2024-01-12T16:46:05.000Z",
+          "wordCount": 1000,
+          "title": "NGINX for Backend Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/nginx.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/",
           "author": "Ashutosh Krishna",
           "description": "Authentication is the process of verifying the identity of a user or system. It ensures that only authorized individuals or systems can access certain resources or perform specific actions. Magic Link Authentication offers a simple yet secure way for users to log in without passwords. This tutorial will walk you",
@@ -837,76 +897,6 @@
           "wordCount": 951,
           "title": "How to Test JavaScript  Code with Jest",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/jest.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/",
-          "author": "Ijeoma Igboagu",
-          "description": "When developing applications, you often need to get data from an API. This lets you deliver dynamic and often-updated content within your application. You'll want to retrieve this data as you may need to interact with external services, communicate with a distant server, or access a database. In this article,",
-          "link": "https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/",
-          "publishedOn": "2023-12-14T10:18:47.000Z",
-          "wordCount": 3187,
-          "title": "How to Fetch API Data in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Effective-Ways-for-Retrieving-API-Data-in-React-and-Python--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/",
-          "author": "Okoye Victor Chukwuebuka",
-          "description": "When you're developing programs, certain services can block or slow down the speed of your application. For example, CPU-intensive tasks like audio transcribing or file processing. So you might wonder – how do you make sure your application runs without breaking? To handle this, you can send tasks to a",
-          "link": "https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/",
-          "publishedOn": "2023-12-14T01:20:25.000Z",
-          "wordCount": 3924,
-          "title": "How to Set Up Message Queues for Async Tasks with RabbitMQ in Nest.js Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/articlePhoto.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/",
-          "author": "Joan Ayebola",
-          "description": "Error handling is a critical aspect of developing user-friendly React applications. As a developer, you can't always predict or prevent errors, but you can certainly control how they are handled.  In this article, we'll explore practical and effective strategies for handling errors in React applications. We'll cover various types",
-          "link": "https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/",
-          "publishedOn": "2023-12-13T23:39:37.000Z",
-          "wordCount": 3088,
-          "title": "How to Handle Errors in React Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Pink-Purple-Business-Solution-Pitch-Deck-Presentation.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/",
-          "author": "Beau Carnes",
-          "description": "Learn how to create a virtual world using HMTL, CSS, and JavaScript. We just published a course on the freeCodeCamp.org Youtube channel that will teach you how to craft a world entirely from the ground up. Dr. Radu Mariescu-Istodor created this course. He is a creative and popular instructor. You",
-          "link": "https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/",
-          "publishedOn": "2023-12-13T22:34:56.000Z",
-          "wordCount": 827,
-          "title": "Create a Virtual World for Self-Driving Cars with JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/virstualworld2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/",
-          "author": "Nairuz Abulhul",
-          "description": "When performing external penetration testing or bug bounty hunting, security experts explore the targeted system from various angles to collect as much information as possible and identify potential attack vectors. This involves identifying all the available assets, domains, and subdomains. During the testing reconnaissance phase, testers spend time on virtual",
-          "link": "https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/",
-          "publishedOn": "2023-12-13T18:48:10.000Z",
-          "wordCount": 2387,
-          "title": "Virtual Host Enumeration – How to Uncover Hidden Web Assets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/nicolas-houdayer-BeRXM0Edn5A-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/",
-          "author": "Ekemini Samuel",
-          "description": "The Go programming language [https://go.dev/] is renowned for its efficiency in  backend development [https://blog.boot.dev/golang/become-golang-backend-dev/]. But it's pretty easy to extend its capabilities to frontend projects as well. This article explores essential Go tools that empower frontend developers to enhance their workflows, emphasizing simplicity and productivity. Prequisites Before diving into",
-          "link": "https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/",
-          "publishedOn": "2023-12-13T18:45:10.000Z",
-          "wordCount": 2294,
-          "title": "The Best Go Tools to Use for Your Frontend Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/go-tools-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/",
-          "author": "Eamonn Cottrell",
-          "description": "A Vigenère Cipher encrypts and decrypts text using a different alphabet for each letter. It consists of text to encrypt and a key with a different letter corresponding to each letter in the text.  Creating a grid of alphabets helps illustrate this practice. If the first letter in your",
-          "link": "https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/",
-          "publishedOn": "2023-12-13T18:13:22.000Z",
-          "wordCount": 1877,
-          "title": "Advanced Google Sheets Concepts – How to Build a Vigenère Cipher",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/2cipher.png"
         }
       ]
     }

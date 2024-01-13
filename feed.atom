@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-12T00:59:42.913Z</updated>
+    <updated>2024-01-13T00:58:40.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Callbacks and Higher Order Functions in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/"/>
+        <updated>2024-01-12T18:07:08.000Z</updated>
+        <summary type="html"><![CDATA[The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this]]></summary>
+        <author>
+            <name>Franklin Okolie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Markdown in VSCode – Syntax and Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/"/>
+        <updated>2024-01-12T17:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It is widely used for creating README files, documentation, and other forms of text. Visual Studio Code (VSCode) is a popular source code editor that provides excellent support for Markdown, making it easy for developers, writers,]]></summary>
+        <author>
+            <name>Victoria Poromon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Storage API – How to Store Data on the Browser]]></title>
+        <id>https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/</id>
+        <link href="https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/"/>
+        <updated>2024-01-12T17:43:34.000Z</updated>
+        <summary type="html"><![CDATA[The Web Storage API is a set of APIs exposed by the browser so that you can store data in the browser. The data stored in the Web Storage use the key/value pair format, and both data will be stored as strings. There are two types of storage introduced in]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS DOM Manipulation Best Practices – with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/dom-manipulation-best-practices/</id>
+        <link href="https://www.freecodecamp.org/news/dom-manipulation-best-practices/"/>
+        <updated>2024-01-12T17:41:27.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, you can manipulate the content of a web page using the Document Object Model (DOM). But how do you write code that is readable, easy to maintain, and not prone to performance issues?  That's what we'll cover in this article. I'll discuss some important best practices so]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prepare for Data Analyst Job Interviews]]></title>
+        <id>https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/</id>
+        <link href="https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/"/>
+        <updated>2024-01-12T17:31:48.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital world, every business and organization collects and uses data to build better products, target the right customers, improve efficiency, and even forecast future demand.  They say that data is the new oil – and now is the perfect time to enter the data analytics job market.]]></summary>
+        <author>
+            <name>Jess Wilk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NGINX for Backend Developers]]></title>
+        <id>https://www.freecodecamp.org/news/nginx/</id>
+        <link href="https://www.freecodecamp.org/news/nginx/"/>
+        <updated>2024-01-12T16:46:05.000Z</updated>
+        <summary type="html"><![CDATA[NGINX is a versatile and powerful open-source software used for web serving, reverse proxying, caching, load balancing, media streaming, and more. It's important to understand for backend developers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you what you need to know about NGINX. Laith]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up Magic Link Authentication with React, Flask, and Authsignal]]></title>
         <id>https://www.freecodecamp.org/news/set-up-magic-link-authentication-with-react-flask-and-authsignal/</id>
@@ -783,76 +843,6 @@
         <summary type="html"><![CDATA[Testing code is crucial because it ensures the reliability, security, and proper functioning of products or systems, identifying potential issues before they become significant problems. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to test JavaScirpt code with the Jest testing framework. Tomi]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fetch API Data in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-fetch-api-data-in-react/"/>
-        <updated>2023-12-14T10:18:47.000Z</updated>
-        <summary type="html"><![CDATA[When developing applications, you often need to get data from an API. This lets you deliver dynamic and often-updated content within your application. You'll want to retrieve this data as you may need to interact with external services, communicate with a distant server, or access a database. In this article,]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Message Queues for Async Tasks with RabbitMQ in Nest.js Apps]]></title>
-        <id>https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/</id>
-        <link href="https://www.freecodecamp.org/news/message-queues-with-rabbitmq-in-nest-js/"/>
-        <updated>2023-12-14T01:20:25.000Z</updated>
-        <summary type="html"><![CDATA[When you're developing programs, certain services can block or slow down the speed of your application. For example, CPU-intensive tasks like audio transcribing or file processing. So you might wonder – how do you make sure your application runs without breaking? To handle this, you can send tasks to a]]></summary>
-        <author>
-            <name>Okoye Victor Chukwuebuka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Errors in React Applications]]></title>
-        <id>https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/</id>
-        <link href="https://www.freecodecamp.org/news/effective-error-handling-in-react-applications/"/>
-        <updated>2023-12-13T23:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Error handling is a critical aspect of developing user-friendly React applications. As a developer, you can't always predict or prevent errors, but you can certainly control how they are handled.  In this article, we'll explore practical and effective strategies for handling errors in React applications. We'll cover various types]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Virtual World for Self-Driving Cars with JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-virtual-world-with-javascript/"/>
-        <updated>2023-12-13T22:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to create a virtual world using HMTL, CSS, and JavaScript. We just published a course on the freeCodeCamp.org Youtube channel that will teach you how to craft a world entirely from the ground up. Dr. Radu Mariescu-Istodor created this course. He is a creative and popular instructor. You]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Host Enumeration – How to Uncover Hidden Web Assets]]></title>
-        <id>https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/virtual-host-enumeration-tutorial/"/>
-        <updated>2023-12-13T18:48:10.000Z</updated>
-        <summary type="html"><![CDATA[When performing external penetration testing or bug bounty hunting, security experts explore the targeted system from various angles to collect as much information as possible and identify potential attack vectors. This involves identifying all the available assets, domains, and subdomains. During the testing reconnaissance phase, testers spend time on virtual]]></summary>
-        <author>
-            <name>Nairuz Abulhul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Go Tools to Use for Your Frontend Projects]]></title>
-        <id>https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/</id>
-        <link href="https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/"/>
-        <updated>2023-12-13T18:45:10.000Z</updated>
-        <summary type="html"><![CDATA[The Go programming language [https://go.dev/] is renowned for its efficiency in  backend development [https://blog.boot.dev/golang/become-golang-backend-dev/]. But it's pretty easy to extend its capabilities to frontend projects as well. This article explores essential Go tools that empower frontend developers to enhance their workflows, emphasizing simplicity and productivity. Prequisites Before diving into]]></summary>
-        <author>
-            <name>Ekemini Samuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Google Sheets Concepts – How to Build a Vigenère Cipher]]></title>
-        <id>https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/</id>
-        <link href="https://www.freecodecamp.org/news/advanced-google-sheets-concepts-build-a-vigenere-cipher/"/>
-        <updated>2023-12-13T18:13:22.000Z</updated>
-        <summary type="html"><![CDATA[A Vigenère Cipher encrypts and decrypts text using a different alphabet for each letter. It consists of text to encrypt and a key with a different letter corresponding to each letter in the text.  Creating a grid of alphabets helps illustrate this practice. If the first letter in your]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
         </author>
     </entry>
 </feed>
