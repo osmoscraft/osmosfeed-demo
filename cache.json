@@ -139,6 +139,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/",
+          "author": "Deborah Kurata",
+          "description": "We often hear the terms: immutable and immutability. But what do they mean, and, as developers, why should we care? Immutable basically means something that cannot be changed. In programming, immutable is used to describe a value that cannot be changed after it's been set. But, most programs require creating,",
+          "link": "https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/",
+          "publishedOn": "2024-01-12T23:21:23.000Z",
+          "wordCount": 2268,
+          "title": "Immutability in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/thumbnail.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/",
           "author": "Franklin Okolie",
           "description": "The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this",
@@ -877,26 +887,6 @@
           "wordCount": 1692,
           "title": "How to Use Async/Await in JavaScript – Explained with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/js-async-await.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/",
-          "author": "Beau Carnes",
-          "description": "The Microsoft Azure Fundamentals Certification is for technology professionals who want to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This exam is a common starting point in a journey towards a career in Azure. We just posted a full exam-prep course on the freeCodeCamp.org",
-          "link": "https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/",
-          "publishedOn": "2023-12-14T17:53:14.000Z",
-          "wordCount": 1025,
-          "title": "Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 8-Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/azurefund.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/",
-          "author": "Beau Carnes",
-          "description": "Testing code is crucial because it ensures the reliability, security, and proper functioning of products or systems, identifying potential issues before they become significant problems. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to test JavaScirpt code with the Jest testing framework. Tomi",
-          "link": "https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/",
-          "publishedOn": "2023-12-14T13:54:47.000Z",
-          "wordCount": 951,
-          "title": "How to Test JavaScript  Code with Jest",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/jest.png"
         }
       ]
     }

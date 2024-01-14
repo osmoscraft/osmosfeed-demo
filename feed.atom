@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-13T00:58:40.066Z</updated>
+    <updated>2024-01-14T01:03:40.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Immutability in JavaScript – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/"/>
+        <updated>2024-01-12T23:21:23.000Z</updated>
+        <summary type="html"><![CDATA[We often hear the terms: immutable and immutability. But what do they mean, and, as developers, why should we care? Immutable basically means something that cannot be changed. In programming, immutable is used to describe a value that cannot be changed after it's been set. But, most programs require creating,]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Callbacks and Higher Order Functions in JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/</id>
@@ -823,26 +833,6 @@
         <summary type="html"><![CDATA[Hello friends! In this article, I'm going to show you how to use the “async/await” special syntax when handling JavaScript Promises. If you don't know or need a refresher on JavaScript promises, you can read my previous article: How JavaScript Promises Work – Tutorial for Beginners [/news/javascript-promise-object-explained/]. You'll need to]]></summary>
         <author>
             <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Fundamentals Certification (AZ-900) – Pass the Exam With This Free 8-Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/</id>
-        <link href="https://www.freecodecamp.org/news/azure-fundamentals-certification-az-900-exam-course/"/>
-        <updated>2023-12-14T17:53:14.000Z</updated>
-        <summary type="html"><![CDATA[The Microsoft Azure Fundamentals Certification is for technology professionals who want to demonstrate foundational knowledge of cloud concepts in general and Microsoft Azure in particular. This exam is a common starting point in a journey towards a career in Azure. We just posted a full exam-prep course on the freeCodeCamp.org]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test JavaScript  Code with Jest]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-test-javascript-code-with-jest/"/>
-        <updated>2023-12-14T13:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Testing code is crucial because it ensures the reliability, security, and proper functioning of products or systems, identifying potential issues before they become significant problems. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to test JavaScirpt code with the Jest testing framework. Tomi]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
