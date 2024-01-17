@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-16T00:59:24.638Z</updated>
+    <updated>2024-01-17T00:59:39.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How File Ownership and Permissions Work in RHEL]]></title>
+        <id>https://www.freecodecamp.org/news/file-ownership-permissions-rhel/</id>
+        <link href="https://www.freecodecamp.org/news/file-ownership-permissions-rhel/"/>
+        <updated>2024-01-16T20:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Linux commands give you precise control over file ownership and permissions, ensuring data security and access control.  This guide will delve into several essential commands: chown, chgrp, chmod, and  umask. The examples will showcase their functionality, variations, and practical applications. Table Of Contents Here's what we'll cover in]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Engine and Runtime Explained]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/"/>
+        <updated>2024-01-16T19:03:02.000Z</updated>
+        <summary type="html"><![CDATA[A JavaScript engine is simply a computer program that executes JavaScript code. It's responsible for translating human-readable JavaScript code into machine-readable instructions that the computer's hardware can execute. When you write JavaScript code and run it in a browser, the code doesn't directly interact with your computer's hardware. Instead, it]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Complex But Awesome CSS border-image Property]]></title>
+        <id>https://smashingmagazine.com/2024/01/css-border-image-property/</id>
+        <link href="https://smashingmagazine.com/2024/01/css-border-image-property/"/>
+        <updated>2024-01-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 React Projects to Build in 2024]]></title>
+        <id>https://www.freecodecamp.org/news/react-projects-to-build-in-2024/</id>
+        <link href="https://www.freecodecamp.org/news/react-projects-to-build-in-2024/"/>
+        <updated>2024-01-16T12:07:51.000Z</updated>
+        <summary type="html"><![CDATA[To be confident with using React, you need to build real-world projects. But what projects are worth building in 2024? I have put together a list of seven projects that I think are ideal for becoming a confident React developer, from simple to complex applications. This will give you some]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Immutability in JavaScript – Explained with Examples]]></title>
         <id>https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/</id>
@@ -783,26 +823,6 @@
         <summary type="html"><![CDATA[Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Luis Ouriach)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn React Props – The Animated Guide]]></title>
-        <id>https://www.freecodecamp.org/news/react-props-animated-guide/</id>
-        <link href="https://www.freecodecamp.org/news/react-props-animated-guide/"/>
-        <updated>2023-12-17T21:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Props are a common stumbling block when moving from JavaScript to React. In reality, using props in React components is almost identical to using arguments in plain JavaScript functions. Let's take a quick look at what props are in React through some helpful animations. These will help you visualize how]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Accessibility Best Practices – How to Ensure Everyone Can Use Your Website]]></title>
-        <id>https://www.freecodecamp.org/news/web-accessibility-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/web-accessibility-best-practices/"/>
-        <updated>2023-12-17T21:27:27.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic world of web development, creating websites that are accessible to all users, including those with disabilities, is not just a best practice – it's a necessity.  Web accessibility ensures that everyone, regardless of their abilities, can perceive, understand, navigate, and interact with the web. This inclusivity]]></summary>
-        <author>
-            <name>SUDHEER KUMAR REDDY GOWRIGARI</name>
         </author>
     </entry>
 </feed>
