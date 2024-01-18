@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T00:59:39.605Z</updated>
+    <updated>2024-01-18T00:58:49.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ACID Databases – Atomicity, Consistency, Isolation & Durability Explained]]></title>
+        <id>https://www.freecodecamp.org/news/acid-databases-explained/</id>
+        <link href="https://www.freecodecamp.org/news/acid-databases-explained/"/>
+        <updated>2024-01-17T17:45:53.000Z</updated>
+        <summary type="html"><![CDATA[ACID stands for Atomicity, Consistency, Isolation and Durability. These are four key properties that most database management systems (DBMS) offer as guarantees when handling transactions. Most popular DBMS like MySQL [https://dev.mysql.com/doc/refman/8.0/en/mysql-acid.html], PostgresSQL [https://www.postgresql.org/about/] and Oracle [https://docs.oracle.com/cd/F51125_01/docs.85/SDS%20PI/acid-compliant-transactions.html#GUID-ECB79D66-46DE-4F48-93DC-8677E7BB44EF]  have ACID guarantees out of the]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TUI Applications with Click and Trogon – Linux Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/</id>
+        <link href="https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/"/>
+        <updated>2024-01-17T17:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Linux and terminal applications are almost synonymous. If you have used applications like grep, cat, sed, and AWK, those are command line interfaces ( CLI [https://en.wikipedia.org/wiki/Command-line_interface]). And when they work together, they allow you to unleash the power of your computer by mixing and matching a few commands. Sometimes the]]></summary>
+        <author>
+            <name>Jose Vicente Nunez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Custom Buttons to a Date Picker in Flatpickr]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/"/>
+        <updated>2024-01-17T02:34:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever had to use a date picker in a web frontend project, chances are that you've used flatpickr. For the unacquainted, flatpickr [https://flatpickr.js.org/] is one of the most popular date picker libraries in the open source-verse. It's framework-agnostic, highly customizable, and lightweight. I recently had to use it]]></summary>
+        <author>
+            <name>Idris Abdul-Lateef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomics and Concurrency in C++]]></title>
+        <id>https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/</id>
+        <link href="https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/"/>
+        <updated>2024-01-16T23:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Concurrency is a programming term you'll need to be familiar with if you code in C++. It's especially relevant if you want to get more out of your available compute resources.  But concurrency comes with certain problems. Some of them can be solved using  mutexes [https://en.wikipedia.org/wiki/Mutual_exclusion], although mutexes]]></summary>
+        <author>
+            <name>Zaid Humayun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advanced Object-Oriented Programming in Java – Full Book]]></title>
+        <id>https://www.freecodecamp.org/news/object-oriented-programming-in-java/</id>
+        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-java/"/>
+        <updated>2024-01-16T23:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Java is a go-to language for many programmers, and it's a critical skill for any software engineer. After learning Java, picking up other programming languages and advanced concepts becomes much easier.  In this book, I'll cover the practical knowledge you need to move from writing basic Java code to]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Arrow Functions vs Regular Functions]]></title>
+        <id>https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/"/>
+        <updated>2024-01-16T22:19:05.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, there are two main ways of writing functions. You can create functions using the regular function syntax. Or you can use the arrow function syntax.  In this article, you will learn how to use both options. You'll also learn about the differences between the two and when]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn the Essentials of Data Engineering]]></title>
+        <id>https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/"/>
+        <updated>2024-01-16T21:52:36.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to freeCodeCamp's Data Engineering Video Course Data Engineering is a vital field in the tech industry focused on designing, building, and maintaining systems that collect, process, and analyze large volumes of data. We just posted a course on the freeCodeCamp.org YouTube channel all about data engineering, designed to cater]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize AWS Simple Storage Service for Better Performance]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/"/>
+        <updated>2024-01-16T21:36:44.000Z</updated>
+        <summary type="html"><![CDATA[S3 is an Amazon Web Service that provides data storage and retrieval in the cloud. ‌‌ This article will discuss the common S3 performance bottlenecks and how they impact the service's overall performance. It will also share some best practices to serve as guidelines for optimising the performance of your]]></summary>
+        <author>
+            <name>Feyijimi Erinle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How File Ownership and Permissions Work in RHEL]]></title>
         <id>https://www.freecodecamp.org/news/file-ownership-permissions-rhel/</id>
@@ -794,35 +874,6 @@
         <summary type="html"><![CDATA[Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Šime Vidas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Odin Project on freeCodeCamp – Interactive Version]]></title>
-        <id>https://www.freecodecamp.org/news/the-odin-project-interactive-version/</id>
-        <link href="https://www.freecodecamp.org/news/the-odin-project-interactive-version/"/>
-        <updated>2023-12-18T23:23:16.000Z</updated>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Remix and Strapi to Create Full Stack Apps]]></title>
-        <id>https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/</id>
-        <link href="https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/"/>
-        <updated>2023-12-18T20:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Remix and Strapi go together like git merges and zero conflicts - a rare yet delightful occurrence in the world of web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you to create full stack apps with Remix and Strapi. Paul Bratslavsky created]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Components For Consumption, Not Complexity (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/</id>
-        <link href="https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/"/>
-        <updated>2023-12-18T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Luis Ouriach)</name>
         </author>
     </entry>
 </feed>

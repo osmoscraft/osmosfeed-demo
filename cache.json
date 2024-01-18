@@ -130,21 +130,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
-          "author": "hello@smashingmagazine.com (Luis Ouriach)",
-          "description": "Part 2 concentrates on the key points from Luis’ framework and practical tips about managing a design system that should be both robust and easy to adopt.",
-          "link": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
-          "publishedOn": "2023-12-18T15:00:00.000Z",
-          "wordCount": 8445,
-          "title": "Building Components For Consumption, Not Complexity (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/building-components-consumption-not-complexity-part1/building-components-consumption-not-complexity.jpg"
         }
       ]
     },
@@ -153,6 +138,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/acid-databases-explained/",
+          "author": "Daniel Adetunji",
+          "description": "ACID stands for Atomicity, Consistency, Isolation and Durability. These are four key properties that most database management systems (DBMS) offer as guarantees when handling transactions. Most popular DBMS like MySQL [https://dev.mysql.com/doc/refman/8.0/en/mysql-acid.html], PostgresSQL [https://www.postgresql.org/about/] and Oracle [https://docs.oracle.com/cd/F51125_01/docs.85/SDS%20PI/acid-compliant-transactions.html#GUID-ECB79D66-46DE-4F48-93DC-8677E7BB44EF]  have ACID guarantees out of the",
+          "link": "https://www.freecodecamp.org/news/acid-databases-explained/",
+          "publishedOn": "2024-01-17T17:45:53.000Z",
+          "wordCount": 2695,
+          "title": "ACID Databases – Atomicity, Consistency, Isolation & Durability Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover-fcc.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/",
+          "author": "Jose Vicente Nunez",
+          "description": "Linux and terminal applications are almost synonymous. If you have used applications like grep, cat, sed, and AWK, those are command line interfaces ( CLI [https://en.wikipedia.org/wiki/Command-line_interface]). And when they work together, they allow you to unleash the power of your computer by mixing and matching a few commands. Sometimes the",
+          "link": "https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/",
+          "publishedOn": "2024-01-17T17:36:53.000Z",
+          "wordCount": 2293,
+          "title": "How to Use TUI Applications with Click and Trogon – Linux Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mazinger_vampire.JPG"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/",
+          "author": "Idris Abdul-Lateef",
+          "description": "If you've ever had to use a date picker in a web frontend project, chances are that you've used flatpickr. For the unacquainted, flatpickr [https://flatpickr.js.org/] is one of the most popular date picker libraries in the open source-verse. It's framework-agnostic, highly customizable, and lightweight. I recently had to use it",
+          "link": "https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/",
+          "publishedOn": "2024-01-17T02:34:00.000Z",
+          "wordCount": 1779,
+          "title": "How to Add Custom Buttons to a Date Picker in Flatpickr",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/b01117c062c14a0d7f54f256baf09808482b6505_2_1024x512.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/",
+          "author": "Zaid Humayun",
+          "description": "Concurrency is a programming term you'll need to be familiar with if you code in C++. It's especially relevant if you want to get more out of your available compute resources.  But concurrency comes with certain problems. Some of them can be solved using  mutexes [https://en.wikipedia.org/wiki/Mutual_exclusion], although mutexes",
+          "link": "https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/",
+          "publishedOn": "2024-01-16T23:50:05.000Z",
+          "wordCount": 2823,
+          "title": "Atomics and Concurrency in C++",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-pixabay-290470.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/object-oriented-programming-in-java/",
+          "author": "Vahe Aslanyan",
+          "description": "Java is a go-to language for many programmers, and it's a critical skill for any software engineer. After learning Java, picking up other programming languages and advanced concepts becomes much easier.  In this book, I'll cover the practical knowledge you need to move from writing basic Java code to",
+          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-java/",
+          "publishedOn": "2024-01-16T23:17:07.000Z",
+          "wordCount": 30136,
+          "title": "Advanced Object-Oriented Programming in Java – Full Book",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Advanced-Object-Oriented-Programming-in-Java-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/",
+          "author": "Benjamin Semah",
+          "description": "In JavaScript, there are two main ways of writing functions. You can create functions using the regular function syntax. Or you can use the arrow function syntax.  In this article, you will learn how to use both options. You'll also learn about the differences between the two and when",
+          "link": "https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/",
+          "publishedOn": "2024-01-16T22:19:05.000Z",
+          "wordCount": 2058,
+          "title": "JavaScript Arrow Functions vs Regular Functions",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Screenshot-2024-01-12-at-6.53.58-PM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/",
+          "author": "Beau Carnes",
+          "description": "Introduction to freeCodeCamp's Data Engineering Video Course Data Engineering is a vital field in the tech industry focused on designing, building, and maintaining systems that collect, process, and analyze large volumes of data. We just posted a course on the freeCodeCamp.org YouTube channel all about data engineering, designed to cater",
+          "link": "https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/",
+          "publishedOn": "2024-01-16T21:52:36.000Z",
+          "wordCount": 1200,
+          "title": "Learn the Essentials of Data Engineering",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dataengineering.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/",
+          "author": "Feyijimi Erinle",
+          "description": "S3 is an Amazon Web Service that provides data storage and retrieval in the cloud. ‌‌ This article will discuss the common S3 performance bottlenecks and how they impact the service's overall performance. It will also share some best practices to serve as guidelines for optimising the performance of your",
+          "link": "https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/",
+          "publishedOn": "2024-01-16T21:36:44.000Z",
+          "wordCount": 2429,
+          "title": "How to Optimize AWS Simple Storage Service for Better Performance",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/s3.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/file-ownership-permissions-rhel/",
           "author": "Kedar Makode",
@@ -862,26 +927,6 @@
           "wordCount": 2230,
           "title": "A Very freeCodeCamp Christmas  – Python & JavaScript Upgrades, English Curriculum, The Odin Project",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/freeCodeCamp-Christmas.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-odin-project-interactive-version/",
-          "author": "Quincy Larson",
-          "description": "",
-          "link": "https://www.freecodecamp.org/news/the-odin-project-interactive-version/",
-          "publishedOn": "2023-12-18T23:23:16.000Z",
-          "wordCount": 504,
-          "title": "The Odin Project on freeCodeCamp – Interactive Version",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/The-Odin-Project.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/",
-          "author": "Beau Carnes",
-          "description": "Remix and Strapi go together like git merges and zero conflicts - a rare yet delightful occurrence in the world of web development. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you to create full stack apps with Remix and Strapi. Paul Bratslavsky created",
-          "link": "https://www.freecodecamp.org/news/use-remix-and-strapi-to-create-full-stack-apps/",
-          "publishedOn": "2023-12-18T20:17:12.000Z",
-          "wordCount": 1102,
-          "title": "Use Remix and Strapi to Create Full Stack Apps",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/remix.png"
         }
       ]
     }
