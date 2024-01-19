@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T00:58:49.632Z</updated>
+    <updated>2024-01-19T00:59:38.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Developer Job]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-a-developer-job/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-developer-job/"/>
+        <updated>2024-01-18T17:58:03.000Z</updated>
+        <summary type="html"><![CDATA[The demand for skilled software developers continues to grow. However, for many self-taught developers, the path to securing a job in this competitive field can seem daunting. We just published a course on the freeCodeCamp.org YouTube channel that is designed to guide aspiring software engineers through the job-hunting process. Lane]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Perform CRUD Operations with Django Models]]></title>
+        <id>https://www.freecodecamp.org/news/models-in-django/</id>
+        <link href="https://www.freecodecamp.org/news/models-in-django/"/>
+        <updated>2024-01-18T16:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Django is a super useful tool for building web applications with Python. It follows the Model-View-Template (MVT) architecture, which is a popular design pattern for building web apps. In the MVT architecture, the Model refers to the internal representation of information stored, the View is responsible for processing user requests]]></summary>
+        <author>
+            <name>chepkirui dorothy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a High-Performance Tab Component in React]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-high-performance-tab-component/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-high-performance-tab-component/"/>
+        <updated>2024-01-18T16:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Tabs are more than mere UI elements – they're the backbone of user navigation and content organization in many applications. In React, crafting a tabbed component that's both efficient and responsive is not just an improvement, it's a necessity. This article takes a deep dive into constructing a React tab]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Progressive Web Apps? PWA Guide for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/"/>
+        <updated>2024-01-18T15:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are simply installable web applications – websites that you can install on your device, much like you would install an app from an app store.  They bring together the best parts of using a website (easy to access, no need to install anything) with the]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design and Build Sustainable Software]]></title>
+        <id>https://www.freecodecamp.org/news/design-and-build-sustainable-software/</id>
+        <link href="https://www.freecodecamp.org/news/design-and-build-sustainable-software/"/>
+        <updated>2024-01-18T01:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Electronic devices that run software are all around us. Your mobile phone, your car, your microwave, and virtually anything around you – there’s a very good chance that they have electronic components running some form of software. These devices inevitably use power and have batteries and circuits, which degrade over]]></summary>
+        <author>
+            <name>Jayant Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Validate Forms with Zod and React-Hook-Form]]></title>
+        <id>https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/</id>
+        <link href="https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/"/>
+        <updated>2024-01-17T21:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Forms allow you to collect user data on your websites and apps. And validation is essential to guarantee type safety and the proper format for collected data. You can perform validation on both the client and server side of the application.  This is where Zod and React-Hook-Form come in]]></summary>
+        <author>
+            <name>Gift Uhiene</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to create Python User Interfaces with PyQt5]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/"/>
+        <updated>2024-01-17T21:21:54.000Z</updated>
+        <summary type="html"><![CDATA[Python can be used for everything from scripting, machine learning, web development, and graphical user interfaces. We just posted a course on the freeCodeCamp.org YouTube channel that teaches them how to create visually appealing and functional user interfaces (UIs) using Python, with a specific focus on developing a Modern Music]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACID Databases – Atomicity, Consistency, Isolation & Durability Explained]]></title>
         <id>https://www.freecodecamp.org/news/acid-databases-explained/</id>
@@ -864,16 +934,6 @@
         <summary type="html"><![CDATA[I'm thrilled to announce freeCodeCamp's Christmas gifts to the global developer community: #1: A new JavaScript Algorithms and Data Structures certification, featuring 21 projects you can code step-by-step right in your browser. It's fully project-based, containing more than a thousand new coding challenges. A 1-minute trailer video for freeCodeCamp's upgraded]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem]]></title>
-        <id>https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/</id>
-        <link href="https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/"/>
-        <updated>2023-12-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Šime Vidas)</name>
         </author>
     </entry>
 </feed>

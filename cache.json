@@ -115,21 +115,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
-          "author": "hello@smashingmagazine.com (Šime Vidas)",
-          "description": "Since the introduction of CSS viewport units in 2012, many of us have been using `width: 100vw` as a way to set an element’s width to the full width of the viewport. But, as Šime Vidas explains in this deep dive, `100vw` does not always represent the full width of the viewport due to differences in how browsers handle scrollbars.",
-          "link": "https://smashingmagazine.com/2023/12/new-css-viewport-units-not-solve-classic-scrollbar-problem/",
-          "publishedOn": "2023-12-20T10:00:00.000Z",
-          "wordCount": 7414,
-          "title": "New CSS Viewport Units Do Not Solve The Classic Scrollbar Problem",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-viewport-units-not-solve-classic-scrollbar-problem/new-css-viewport-units-not-solve-classic-scrollbar-problem.jpg"
         }
       ]
     },
@@ -138,6 +123,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-a-developer-job/",
+          "author": "Beau Carnes",
+          "description": "The demand for skilled software developers continues to grow. However, for many self-taught developers, the path to securing a job in this competitive field can seem daunting. We just published a course on the freeCodeCamp.org YouTube channel that is designed to guide aspiring software engineers through the job-hunting process. Lane",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-developer-job/",
+          "publishedOn": "2024-01-18T17:58:03.000Z",
+          "wordCount": 988,
+          "title": "How to Get a Developer Job",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/job.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/models-in-django/",
+          "author": "chepkirui dorothy",
+          "description": "Django is a super useful tool for building web applications with Python. It follows the Model-View-Template (MVT) architecture, which is a popular design pattern for building web apps. In the MVT architecture, the Model refers to the internal representation of information stored, the View is responsible for processing user requests",
+          "link": "https://www.freecodecamp.org/news/models-in-django/",
+          "publishedOn": "2024-01-18T16:10:49.000Z",
+          "wordCount": 2124,
+          "title": "How to Perform CRUD Operations with Django Models",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/coding-924920.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-high-performance-tab-component/",
+          "author": "Jaja Ibifubara David",
+          "description": "Tabs are more than mere UI elements – they're the backbone of user navigation and content organization in many applications. In React, crafting a tabbed component that's both efficient and responsive is not just an improvement, it's a necessity. This article takes a deep dive into constructing a React tab",
+          "link": "https://www.freecodecamp.org/news/build-a-high-performance-tab-component/",
+          "publishedOn": "2024-01-18T16:01:46.000Z",
+          "wordCount": 3690,
+          "title": "How to Build a High-Performance Tab Component in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/",
+          "author": "Ophy Boamah",
+          "description": "Progressive Web Apps (PWAs) are simply installable web applications – websites that you can install on your device, much like you would install an app from an app store.  They bring together the best parts of using a website (easy to access, no need to install anything) with the",
+          "link": "https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/",
+          "publishedOn": "2024-01-18T15:56:46.000Z",
+          "wordCount": 2279,
+          "title": "What are Progressive Web Apps? PWA Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Essentials.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/design-and-build-sustainable-software/",
+          "author": "Jayant Chowdhary",
+          "description": "Electronic devices that run software are all around us. Your mobile phone, your car, your microwave, and virtually anything around you – there’s a very good chance that they have electronic components running some form of software. These devices inevitably use power and have batteries and circuits, which degrade over",
+          "link": "https://www.freecodecamp.org/news/design-and-build-sustainable-software/",
+          "publishedOn": "2024-01-18T01:28:38.000Z",
+          "wordCount": 4622,
+          "title": "How to Design and Build Sustainable Software",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Cover-4.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
+          "author": "Gift Uhiene",
+          "description": "Forms allow you to collect user data on your websites and apps. And validation is essential to guarantee type safety and the proper format for collected data. You can perform validation on both the client and server side of the application.  This is where Zod and React-Hook-Form come in",
+          "link": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
+          "publishedOn": "2024-01-17T21:58:56.000Z",
+          "wordCount": 2882,
+          "title": "How to Validate Forms with Zod and React-Hook-Form",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-7.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/",
+          "author": "Beau Carnes",
+          "description": "Python can be used for everything from scripting, machine learning, web development, and graphical user interfaces. We just posted a course on the freeCodeCamp.org YouTube channel that teaches them how to create visually appealing and functional user interfaces (UIs) using Python, with a specific focus on developing a Modern Music",
+          "link": "https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/",
+          "publishedOn": "2024-01-17T21:21:54.000Z",
+          "wordCount": 1137,
+          "title": "How to create Python User Interfaces with PyQt5",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pyqt5.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/acid-databases-explained/",
           "author": "Daniel Adetunji",
