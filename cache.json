@@ -124,6 +124,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/",
+          "author": "Beau Carnes",
+          "description": "Are you fascinated by both Python and the night sky? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python to analyze and visualize astronomical Data. This course was created by Spartificial, whose mission is to provide engineering education in the most",
+          "link": "https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/",
+          "publishedOn": "2024-01-19T19:48:58.000Z",
+          "wordCount": 963,
+          "title": "Learn Data Analysis and Visualization with Python Using Astronomical Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dataanalysis.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/",
+          "author": "Abraham Dahunsi",
+          "description": "Web servers are responsible for delivering web pages and various resources to clients through the internet. They can exist either as software or hardware components. But unfortunately, they often become targets for hackers and malicious individuals seeking to exploit any vulnerabilities to compromise data and disrupt functionality. As a result,",
+          "link": "https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/",
+          "publishedOn": "2024-01-19T16:46:59.000Z",
+          "wordCount": 5447,
+          "title": "How to Secure Your Web Server with Continuous Integration Using NGINX and CircleCI",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/feature-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-fpm/",
+          "author": "Jose Vicente Nunez",
+          "description": "FPM [https://fpm.readthedocs.io/en/latest/getting-started.html] is a powerful wrapper that allows you to create packages for multiple programs in multiple operating systems.  In this tutorial I will show you how you can replace some of the tedious packaging of third party applications. What You Need to Complete this Tutorial  * A",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-fpm/",
+          "publishedOn": "2024-01-19T16:42:55.000Z",
+          "wordCount": 2354,
+          "title": "How to Get Started with FPM",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mask_made_of_disposed_ammo-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/",
+          "author": "Okosa Leonard Onyekachukwu",
+          "description": "When you're building a coding project, the better it is, the more fun it'll be to use. And the prouder you'll be of your hard work, right?  Also, writing quality and performant code helps your program or website work as expected – which should be every developer's goal. SonarLint",
+          "link": "https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/",
+          "publishedOn": "2024-01-18T23:58:39.000Z",
+          "wordCount": 2230,
+          "title": "How to Use SonarLint to Write Cleaner Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/slint.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-get-a-developer-job/",
           "author": "Beau Carnes",
           "description": "The demand for skilled software developers continues to grow. However, for many self-taught developers, the path to securing a job in this competitive field can seem daunting. We just published a course on the freeCodeCamp.org YouTube channel that is designed to guide aspiring software engineers through the job-hunting process. Lane",
@@ -922,66 +962,6 @@
           "wordCount": 1022,
           "title": "Mastering Behavioral Interviews for Software Developers",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/INTERVIEW.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/",
-          "author": "Beau Carnes",
-          "description": "Building a complex website is a great way to learn how a bunch of technologies work together. We just posted a 10-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a hotel management website using Next.js, React, Sanity.io, Tailwind CSS, and Stripe's payment API. Lari",
-          "link": "https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/",
-          "publishedOn": "2023-12-20T23:54:30.000Z",
-          "wordCount": 1016,
-          "title": "Full Stack JavaScript Course: Build a Hotel Management Site with Next.js, Sanity.io, and Tailwind CSS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/hotel.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-english-for-developers-a2/",
-          "author": "Quincy Larson",
-          "description": "I'm thrilled to announce that the freeCodeCamp community has been developing a comprehensive English for Developers curriculum. Together, we're going to help millions of non-native English speakers prepare for careers in tech. The trailer for freeCodeCamp's new English for Developers curriculumWhy teach English? For the first 9 years of freeCodeCamp's",
-          "link": "https://www.freecodecamp.org/news/learn-english-for-developers-a2/",
-          "publishedOn": "2023-12-20T17:26:20.000Z",
-          "wordCount": 1071,
-          "title": "Learn English for Developers – freeCodeCamp A2 English Curriculum",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/English-Curriculum.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-an-api-with-postman/",
-          "author": "Joan Ayebola",
-          "description": "In the field of software development, effective communication between different software systems is made possible through the essential function of Application Programming Interfaces (APIs).  APIs allow developers to access and use the functionalities of a particular application, service, or platform. Postman is a powerful and user-friendly tool that simplifies",
-          "link": "https://www.freecodecamp.org/news/how-to-use-an-api-with-postman/",
-          "publishedOn": "2023-12-20T16:57:30.000Z",
-          "wordCount": 2438,
-          "title": "How to Use an API with Postman – A Step-by-Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Blue-and-White-Minimal-Professional-Business-Project-Presentation-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-curriculum-upgrade/",
-          "author": "Quincy Larson",
-          "description": "freeCodeCamp just published a major upgrade to our Scientific Computing with Python certification. You can now learn Python coding fundamentals by building 15 projects – right in your browser. A 1 minute trailer for our newly-upgraded Scientific Computing with Python certificationHere's a full list of the 15 projects you'll build:",
-          "link": "https://www.freecodecamp.org/news/python-curriculum-upgrade/",
-          "publishedOn": "2023-12-20T16:51:12.000Z",
-          "wordCount": 922,
-          "title": "Python Curriculum 2024 Upgrade – Interactive Python Learning in your Browser",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Python-Curriculum.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/",
-          "author": "Jessica Wilkins",
-          "description": "freeCodeCamp just launched a major upgrade to our JavaScript Algorithms and Data Structures Certification [https://www.freecodecamp.dev/learn/javascript-algorithms-and-data-structures-v8/] . You can now learn JavaScript by building 21 projects! A trailer video for freeCodeCamp's upgraded JavaScript Data Structures and Algorithms CertificationInstead of coding through a series of challenges, you will learn the fundamentals of",
-          "link": "https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/",
-          "publishedOn": "2023-12-20T15:00:26.000Z",
-          "wordCount": 2417,
-          "title": "Learn JavaScript by Building 21 Projects – a Major freeCodeCamp Curriculum Upgrade",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/JavaScript-Curriculum.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-very-freecodecamp-christmas/",
-          "author": "Quincy Larson",
-          "description": "I'm thrilled to announce freeCodeCamp's Christmas gifts to the global developer community: #1: A new JavaScript Algorithms and Data Structures certification, featuring 21 projects you can code step-by-step right in your browser. It's fully project-based, containing more than a thousand new coding challenges. A 1-minute trailer video for freeCodeCamp's upgraded",
-          "link": "https://www.freecodecamp.org/news/a-very-freecodecamp-christmas/",
-          "publishedOn": "2023-12-20T13:09:59.000Z",
-          "wordCount": 2230,
-          "title": "A Very freeCodeCamp Christmas  – Python & JavaScript Upgrades, English Curriculum, The Odin Project",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/freeCodeCamp-Christmas.png"
         }
       ]
     }
