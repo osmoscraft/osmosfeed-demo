@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
+          "author": "hello@smashingmagazine.com (Andy Budd)",
+          "description": "Most product teams commonly adopt a feature-centric mindset, finding them convenient for brainstorming, drafting requirement documents, and integrating into backlogs and ticketing systems. In this article, Andy Budd shows how fixation with features might be holding you back and how making a few small tweaks to your process could make an entire world of difference.",
+          "link": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
+          "publishedOn": "2024-01-29T15:00:00.000Z",
+          "wordCount": 5274,
+          "title": "The Feature Trap: Why Feature Centricity Is Harming Your Product",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
           "description": "Language models have shown impressive capabilities. But that doesn’t mean they’re without faults, as anyone who has witnessed a ChatGPT “hallucination” can attest. In this article, Joas Pambou diagnoses the symptoms that cause hallucinations and explains not only what RAG is but also different approaches for using it to solve language model limitations.",
@@ -115,21 +130,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ui-animations-shared-element-transitions-api-part1/view-transitions-api-ui-animations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s start into the new year with a little inspiration boost: wallpapers created with love by the community for the community. Happy 2024!",
-          "link": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
-          "publishedOn": "2023-12-31T08:00:00.000Z",
-          "wordCount": 4486,
-          "title": "The Magic Of New Beginnings (January 2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png"
         }
       ]
     },
@@ -138,6 +138,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/",
+          "author": "Beau Carnes",
+          "description": "We just published a great beginner's web dev tutorial on the freeCodeCamp.org YouTube channel. By the end of this tutorial, you'll have a solid understanding of several core technologies, including Next.js, Tailwind CSS, and TypeScript, all while creating a practical, real-world project. Core Technologies Used You will improve your skills",
+          "link": "https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/",
+          "publishedOn": "2024-01-29T18:35:10.000Z",
+          "wordCount": 1295,
+          "title": "Beginner Web Dev Tutorial – Build a Weather App with Next.js & TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/weatherapp1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/flutter-migrating-to-v2-embedding/",
+          "author": "Tomer Ben Rachel",
+          "description": "If you hopped on the Flutter bandwagon in it’s early days, most likely you have a project or two that were created prior to version 1.12 of Flutter. If that is the case, you may have seen this message whenever you run Pub get in one of your projects: >",
+          "link": "https://www.freecodecamp.org/news/flutter-migrating-to-v2-embedding/",
+          "publishedOn": "2024-01-29T18:35:05.000Z",
+          "wordCount": 1477,
+          "title": "Flutter Tutorial – How to Migrate to V2 Embedding",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/nick-fewings-J54DjpXYJuE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/homomorphic-encryption-in-plain-english/",
+          "author": "Tiago Monteiro",
+          "description": "As the fields of cryptography and cybersecurity advance, homomorphic encryption [/news/introduction-to-homomorphic-encryption/] stands out as a groundbreaking technology.  It has the potential to reshape everything in data privacy and security. What really is homomorphic encryption? Why is it getting so much attention? How can it increase data privacy? Essentially, with",
+          "link": "https://www.freecodecamp.org/news/homomorphic-encryption-in-plain-english/",
+          "publishedOn": "2024-01-29T18:33:48.000Z",
+          "wordCount": 1753,
+          "title": "How Homomorphic Encryption Works – Explained in Plain English",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/1-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-sort-array-of-objects-by-property-name-in-javascript/",
+          "author": "Kaushal Joshi",
+          "description": "In this tutorial, you'll learn about one of the most common operations you'll perform while working with JavaScript: sorting an array of objects by property name. Basic Array Concepts Let's review some basic JavaScript concepts before delving deeper into the subject so that you have the background info you need.",
+          "link": "https://www.freecodecamp.org/news/how-to-sort-array-of-objects-by-property-name-in-javascript/",
+          "publishedOn": "2024-01-29T14:45:35.000Z",
+          "wordCount": 1906,
+          "title": "How to Sort an Array of Objects by Property Name in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/How-to-sort-an-array-of-objects-by-object-s-property-name-in-JavaScript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/job-scheduling-in-rhel/",
+          "author": "Kedar Makode",
+          "description": "Efficiently executing tasks at designated times or in response to certain events is essential in RHEL's job scheduling process. With the help of various tools and utilities, you can easily coordinate and automate job scheduling, eliminating the need for manual intervention. Some common tools for job scheduling in RHEL include:",
+          "link": "https://www.freecodecamp.org/news/job-scheduling-in-rhel/",
+          "publishedOn": "2024-01-29T14:06:44.000Z",
+          "wordCount": 3605,
+          "title": "Job Scheduling in RHEL – cron and at Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004567.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/less-common-html-tags/",
+          "author": "Murtuzaali Surti",
+          "description": "There are only so many HTML tags [https://css-tricks.com/average-web-page-data-analyzing-8-million-websites/]  that people typically use when building websites. But as there are over 100+ HTML elements, I wondered if there were any more beginner-friendly tags that I didn't know about – and that others might find useful, too. After doing some research,",
+          "link": "https://www.freecodecamp.org/news/less-common-html-tags/",
+          "publishedOn": "2024-01-29T14:00:55.000Z",
+          "wordCount": 2141,
+          "title": "Less Common HTML Tags You Should Know – With Example Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Exotic-HTML-TAGS-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/set-up-authentication-in-apps-with-supabase/",
+          "author": "Fatuma Abdullahi",
+          "description": "In this article, you'll learn the basic key concepts that'll help you grasp how authentication and authorization work.  You'll start by learning what authentication and authorization are, and then learn how to implement authentication in your applications using Supabase auth. Table of Contents  *  Prerequisites",
+          "link": "https://www.freecodecamp.org/news/set-up-authentication-in-apps-with-supabase/",
+          "publishedOn": "2024-01-29T10:53:38.000Z",
+          "wordCount": 3020,
+          "title": "How to Set Up Authentication in Your Apps with Supabase Auth",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Group-3--9-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/the-python-decorator-handbook/",
           "author": "Atharva Shah",
