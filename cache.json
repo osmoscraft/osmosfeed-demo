@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
+          "author": "hello@smashingmagazine.com (Maximillian Piras)",
+          "description": "As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.",
+          "link": "https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
+          "publishedOn": "2024-02-02T13:00:00.000Z",
+          "wordCount": 7590,
+          "title": "When Words Cannot Describe: Designing For AI Beyond Conversational Interfaces",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-ai-beyond-conversational-interfaces/designing-ai-beyond-conversational-interfaces.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-ai-beyond-conversational-interfaces/designing-ai-beyond-conversational-interfaces.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "With February just around the corner, how about a little inspiration boost? We might have one for you: desktop wallpapers created with love by the community for the community. Enjoy!",
@@ -138,6 +153,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/",
+          "author": "Reed Barger",
+          "description": "If you're building applications with React, you should learn how to use some helpful libraries that'll make it easier to add the features you need. For example, to add features like authentication or styling, you'll need to find a good third-party library to handle it. In this comprehensive guide, I'm",
+          "link": "https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/",
+          "publishedOn": "2024-02-02T18:42:15.000Z",
+          "wordCount": 2788,
+          "title": "React Libraries to Use in Your Projects in 2024",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/react-libraries-2024.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linux-boot-process-in-rhel/",
+          "author": "Kedar Makode",
+          "description": "The boot process is made up of a series of necessary actions that a computer goes through upon startup. These range from powering on to the complete loading of the operating system (OS) for optimal functionality.  It is vital to familiarize yourself with the boot process for various reasons.",
+          "link": "https://www.freecodecamp.org/news/linux-boot-process-in-rhel/",
+          "publishedOn": "2024-02-02T17:49:18.000Z",
+          "wordCount": 3796,
+          "title": "Linux Boot Process – What Happens when Booting RHEL",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Frame-1000004568.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-mobile-swiping-component-in-react/",
+          "author": "Matéush",
+          "description": "Everyone wants to be able to access the web from their mobile phones these days. So it's important to consider the accessibility of your web app on Android and iPhones.  The most difficult part is building the navigation – and swiping in particular can cause a lot of headaches.",
+          "link": "https://www.freecodecamp.org/news/how-to-build-mobile-swiping-component-in-react/",
+          "publishedOn": "2024-02-02T17:43:34.000Z",
+          "wordCount": 2613,
+          "title": "How to Build a Mobile Swiping Component in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/MobileSwiping-splash--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-oh-my-zsh-creator-and-ceo-robby-russell/",
+          "author": "Quincy Larson",
+          "description": "In this week's episode of the podcast, I interview Robby Russell. Robby created the open-source project Oh My ZSH.  Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a decade. Robby is",
+          "link": "https://www.freecodecamp.org/news/podcast-oh-my-zsh-creator-and-ceo-robby-russell/",
+          "publishedOn": "2024-02-02T17:11:16.000Z",
+          "wordCount": 778,
+          "title": "Podcast: Oh My Zsh creator and Dev Shop CEO Robby Russell",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/robby-russell-freecodecamp-oh-my-zsh.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/",
+          "author": "Musab Habeeb",
+          "description": "All programming languages have runtime engines that execute their code. In JavaScript, the runtime engine is single-threaded, which means that it runs code line by line or sequentially. The JavaScript runtime engine makes it a synchronous programming language where programs run sequentially. Programming languages that are not synchronous are called",
+          "link": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/",
+          "publishedOn": "2024-02-02T16:04:52.000Z",
+          "wordCount": 1627,
+          "title": "Asynchronous Programming in JavaScript – Callbacks, Promises, & Async/Await Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Await-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-fast-ai-for-beginners/",
+          "author": "Manish Shivanandhan",
+          "description": "Fast.ai is a user-friendly library that brings the power of deep learning to your fingertips, regardless of your skill level. Let’s learn how it works. Have you ever felt curious about deep learning but found the technical complexity overwhelming? Fast.ai [https://fast.ai/] is your answer. Fast.ai simplifies the journey into deep",
+          "link": "https://www.freecodecamp.org/news/how-to-use-fast-ai-for-beginners/",
+          "publishedOn": "2024-02-02T00:10:29.000Z",
+          "wordCount": 2044,
+          "title": "How to Use Fast.ai – A Beginner-Friendly Gateway to Deep Learning",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Untitled-design.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-make-your-web-sites-accessible/",
           "author": "Beau Carnes",
@@ -1307,66 +1382,6 @@
           "wordCount": 2526,
           "title": "Advanced JavaScript Operators – Nullish Coalescing, Optional Chaining, and Destructuring Assignment",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/js-advanced-operators.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/",
-          "author": "SUDHEER KUMAR REDDY GOWRIGARI",
-          "description": "In the ever-evolving landscape of web development, performance optimization remains a top priority.  Among the plethora of strategies you can use to enhance web performance, lazy loading stands out for its efficiency and impact.  But what exactly is lazy loading, and how does it revolutionize the way we",
-          "link": "https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/",
-          "publishedOn": "2024-01-04T01:08:30.000Z",
-          "wordCount": 1759,
-          "title": "How Lazy Loading Works in Web Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/A-simple-banner-image-depicting-the-concept-of-lazy-loading-images.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/",
-          "author": "Chris Blakely",
-          "description": "Have you ever wondered how modern web applications are built? How you can learn and master the technologies that you can use to build your own full stack projects from scratch? In this handbook, I'm going to introduce you to the MERN stack, a widely-used technology stack embraced by many",
-          "link": "https://www.freecodecamp.org/news/mern-stack-roadmap-what-you-need-to-know-to-build-full-stack-apps/",
-          "publishedOn": "2024-01-04T00:57:45.000Z",
-          "wordCount": 5450,
-          "title": "MERN Stack Roadmap – How to Learn MERN and Become a Full-Stack Developer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Copy-of-mern-stack-hotel-booking-website--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-cloud-computing/",
-          "author": "Zubair Idris Aweda",
-          "description": "As the digital landscape continues to evolve and technology marches forward, cloud computing has remained an important topic for developers to learn. You've probably encountered cloud requirements in job listings, heard people talk about it in conversations, or seen ads by companies offering cloud services – and now you're interested",
-          "link": "https://www.freecodecamp.org/news/what-is-cloud-computing/",
-          "publishedOn": "2024-01-03T21:40:31.000Z",
-          "wordCount": 2590,
-          "title": "What is Cloud Computing? Introduction to the Cloud for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/05/cloud-sky.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/",
-          "author": "CHRISTINE T. BELZIE",
-          "description": "Imagine a beautiful cherry tree full of sweet, red, round fruit hanging on lush, glistening branches. But imagine if those cherries grew so quickly that the branches started bending, overlapping, and breaking...sounds chaotic right?  This is what can happen if you don't use Git's cherry-pick command properly in open",
-          "link": "https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/",
-          "publishedOn": "2024-01-03T21:33:29.000Z",
-          "wordCount": 1463,
-          "title": "How to Use Git Cherry Pick and Avoid Duplicate Commits",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/blog-cover-for-git-cherry-pick.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/",
-          "author": "Kedar Makode",
-          "description": "Welcome to the fundamental world of Red Hat Enterprise Linux (RHEL)! In order to be an effective Linux user, you'll need to learn and truly understand some essential concepts and commands. Let's dive into the core aspects of RHEL administration to help you understand these key topics that form the",
-          "link": "https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/",
-          "publishedOn": "2024-01-03T15:54:20.000Z",
-          "wordCount": 5037,
-          "title": "Red Hat Enterprise Linux – Essential RHEL Concepts and Commands to Know",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004524.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/",
-          "author": "Beau Carnes",
-          "description": "React and Appwrite make a great combination for creating full stack apps.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use React and Appwrite to create full stack applications. This course is designed and delivered by Hitesh Choudhary, a excellent instructor",
-          "link": "https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/",
-          "publishedOn": "2024-01-03T14:19:27.000Z",
-          "wordCount": 981,
-          "title": "Comprehensive Full Stack React with Appwrite – Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/reactalppwight.jpg"
         }
       ]
     }
