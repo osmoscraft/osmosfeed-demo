@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-03T00:54:25.570Z</updated>
+    <updated>2024-02-04T00:59:01.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenTelementry to Trace Node.js Applications]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/"/>
+        <updated>2024-02-03T00:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Observability refers to our ability to "see" and understand what's happening inside a system by looking at its external signals (like logs, metrics, and traces). Observability involves collecting and analyzing data from sources within a system to monitor its performance and address problems effectively. Why is Observability Useful?  1.]]></summary>
+        <author>
+            <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Libraries to Use in Your Projects in 2024]]></title>
         <id>https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/</id>
@@ -1254,76 +1264,6 @@
         <summary type="html"><![CDATA[Imagine that you took a test in school, and you expected to score 80-90% based on how you thought you performed. But when the results came out, you learned that you scored 50-60% in the test. You'd be shocked, right?  Well sometimes these same scenarios play out in machine]]></summary>
         <author>
             <name>Saheed Azeez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concurrency in Kotlin Server-Side Development]]></title>
-        <id>https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/</id>
-        <link href="https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/"/>
-        <updated>2024-01-04T23:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you're running a bustling restaurant. Orders fly in, dishes need cooking, tables require clearing, and happy customers demand attention. How can you handle all this chaos without everything turning into a total disaster? This is where concurrency comes in. In the world of server-side development, things can get just]]></summary>
-        <author>
-            <name>Faith Oyama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-Means Clustering – How to Unveil Hidden Patterns in Your Data]]></title>
-        <id>https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/</id>
-        <link href="https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/"/>
-        <updated>2024-01-04T22:52:24.000Z</updated>
-        <summary type="html"><![CDATA[K-means clustering is a powerful technique that can help you discover hidden patterns and groupings in your datasets. Let’s look at how it works. K-means clustering is a basic but powerful tool in data science. It has changed the way we look at and understand large datasets. In this article,]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Kotlin Server Applications]]></title>
-        <id>https://www.freecodecamp.org/news/securing-kotlin-server-applications/</id>
-        <link href="https://www.freecodecamp.org/news/securing-kotlin-server-applications/"/>
-        <updated>2024-01-04T22:33:33.000Z</updated>
-        <summary type="html"><![CDATA[In server-side application development using Kotlin, taking robust security measures is important. Developers encounter various threats and vulnerabilities that can compromise applications. This article delves into comprehensive security strategies tailored for Kotlin server applications, aiming to equip developers with the knowledge to fortify their systems against potential risks. Security in]]></summary>
-        <author>
-            <name>Faith Oyama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn React in 2024 – A Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/"/>
-        <updated>2024-01-04T21:48:22.000Z</updated>
-        <summary type="html"><![CDATA[There's never been a better time to learn React than in 2024. In this comprehensive guide, I'll show you how I would go from knowing nothing about React to becoming a job-ready, junior React developer in 3 to 6 months. Keep in mind that becoming a skilled developer is not]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Accessible Custom Dropdown Select Element]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/"/>
-        <updated>2024-01-04T17:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you might want to use a different select element to match your style based on the theme of your design. Or perhaps the default design is different on separate browsers and you want uniformity.  But when designing this new element, you might forget to consider the accessibility of]]></summary>
-        <author>
-            <name>Elizabeth  Meshioye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new() vs make() Functions in Go – When to Use Each One]]></title>
-        <id>https://www.freecodecamp.org/news/new-vs-make-functions-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/new-vs-make-functions-in-go/"/>
-        <updated>2024-01-04T15:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Go, also known as Golang, is a statically-typed, compiled programming language designed for simplicity and efficiency.  When it comes to working with data structures like slices, maps, and channels, you'll likely encounter the new() and make() functions. While both are used for memory allocation, they serve distinct purposes.]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced JavaScript Operators – Nullish Coalescing, Optional Chaining, and Destructuring Assignment]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-advanced-operators/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-advanced-operators/"/>
-        <updated>2024-01-04T15:22:39.000Z</updated>
-        <summary type="html"><![CDATA[Hi Everyone! In this article, I'm going to teach you how to use three advanced JavaScript operators: the Nullish Coalescing, Optional Chaining, and Destructuring Assignment operators. These three operators will help you write clearer and less error-prone code.  The Nullish Coalescing Operator When you’re inspecting JavaScript code, you may]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
         </author>
     </entry>
 </feed>

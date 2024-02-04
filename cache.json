@@ -154,6 +154,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/",
+          "author": "Abraham Dahunsi",
+          "description": "Observability refers to our ability to \"see\" and understand what's happening inside a system by looking at its external signals (like logs, metrics, and traces). Observability involves collecting and analyzing data from sources within a system to monitor its performance and address problems effectively. Why is Observability Useful?  1.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/",
+          "publishedOn": "2024-02-03T00:21:14.000Z",
+          "wordCount": 2500,
+          "title": "How to Use OpenTelementry to Trace Node.js Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/feature-image-1.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/",
           "author": "Reed Barger",
           "description": "If you're building applications with React, you should learn how to use some helpful libraries that'll make it easier to add the features you need. For example, to add features like authentication or styling, you'll need to find a good third-party library to handle it. In this comprehensive guide, I'm",
@@ -1312,76 +1322,6 @@
           "wordCount": 3010,
           "title": "How to Build Machine Learning Models with Reliable Validation Scores",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Untitled-presentation.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/",
-          "author": "Faith Oyama",
-          "description": "Imagine you're running a bustling restaurant. Orders fly in, dishes need cooking, tables require clearing, and happy customers demand attention. How can you handle all this chaos without everything turning into a total disaster? This is where concurrency comes in. In the world of server-side development, things can get just",
-          "link": "https://www.freecodecamp.org/news/concurrency-in-kotlin-server-side-development/",
-          "publishedOn": "2024-01-04T23:59:00.000Z",
-          "wordCount": 2369,
-          "title": "Concurrency in Kotlin Server-Side Development",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/concurrency.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
-          "author": "Manish Shivanandhan",
-          "description": "K-means clustering is a powerful technique that can help you discover hidden patterns and groupings in your datasets. Let’s look at how it works. K-means clustering is a basic but powerful tool in data science. It has changed the way we look at and understand large datasets. In this article,",
-          "link": "https://www.freecodecamp.org/news/k-means-clustering-unveil-hidden-patterns-in-data/",
-          "publishedOn": "2024-01-04T22:52:24.000Z",
-          "wordCount": 1965,
-          "title": "K-Means Clustering – How to Unveil Hidden Patterns in Your Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/0_ZPAok0iVIVf9AfpV.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/securing-kotlin-server-applications/",
-          "author": "Faith Oyama",
-          "description": "In server-side application development using Kotlin, taking robust security measures is important. Developers encounter various threats and vulnerabilities that can compromise applications. This article delves into comprehensive security strategies tailored for Kotlin server applications, aiming to equip developers with the knowledge to fortify their systems against potential risks. Security in",
-          "link": "https://www.freecodecamp.org/news/securing-kotlin-server-applications/",
-          "publishedOn": "2024-01-04T22:33:33.000Z",
-          "wordCount": 1753,
-          "title": "How to Secure Kotlin Server Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Securing-Kotlin-Server-Applications-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/",
-          "author": "Reed Barger",
-          "description": "There's never been a better time to learn React than in 2024. In this comprehensive guide, I'll show you how I would go from knowing nothing about React to becoming a job-ready, junior React developer in 3 to 6 months. Keep in mind that becoming a skilled developer is not",
-          "link": "https://www.freecodecamp.org/news/how-to-learn-react-step-by-step/",
-          "publishedOn": "2024-01-04T21:48:22.000Z",
-          "wordCount": 2313,
-          "title": "How to Learn React in 2024 – A Step-by-Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/learn-react-2024-4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/",
-          "author": "Elizabeth  Meshioye",
-          "description": "Sometimes you might want to use a different select element to match your style based on the theme of your design. Or perhaps the default design is different on separate browsers and you want uniformity.  But when designing this new element, you might forget to consider the accessibility of",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/",
-          "publishedOn": "2024-01-04T17:06:29.000Z",
-          "wordCount": 3119,
-          "title": "How to Build an Accessible Custom Dropdown Select Element",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/a11y-select.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/new-vs-make-functions-in-go/",
-          "author": "Destiny Erhabor",
-          "description": "Go, also known as Golang, is a statically-typed, compiled programming language designed for simplicity and efficiency.  When it comes to working with data structures like slices, maps, and channels, you'll likely encounter the new() and make() functions. While both are used for memory allocation, they serve distinct purposes.",
-          "link": "https://www.freecodecamp.org/news/new-vs-make-functions-in-go/",
-          "publishedOn": "2024-01-04T15:44:43.000Z",
-          "wordCount": 1069,
-          "title": "The new() vs make() Functions in Go – When to Use Each One",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-skitterphoto-422844.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-advanced-operators/",
-          "author": "Nathan Sebhastian",
-          "description": "Hi Everyone! In this article, I'm going to teach you how to use three advanced JavaScript operators: the Nullish Coalescing, Optional Chaining, and Destructuring Assignment operators. These three operators will help you write clearer and less error-prone code.  The Nullish Coalescing Operator When you’re inspecting JavaScript code, you may",
-          "link": "https://www.freecodecamp.org/news/javascript-advanced-operators/",
-          "publishedOn": "2024-01-04T15:22:39.000Z",
-          "wordCount": 2526,
-          "title": "Advanced JavaScript Operators – Nullish Coalescing, Optional Chaining, and Destructuring Assignment",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/js-advanced-operators.png"
         }
       ]
     }
