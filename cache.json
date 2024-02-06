@@ -154,6 +154,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/",
+          "author": "Okure U. Edet",
+          "description": "If you are reading this article, you are probably a developer who has used an API to call data for your application. You may have also used features such as filtering and pagination to limit the amount of data you want to receive.  These API features are important when",
+          "link": "https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/",
+          "publishedOn": "2024-02-05T19:01:33.000Z",
+          "wordCount": 2415,
+          "title": "How to Add Filtering, Sorting, Limiting, and Pagination to Your Nest.js App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/nestjs-app-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-box-sizing-border-box-css/",
+          "author": "Jessica Wilkins",
+          "description": "In CSS, there is a property called box-sizing that allows you to determine how the width and the height for an element is calculated.  A lot of CSS resets [/news/how-i-style-my-websites-with-my-favorite-css-resets-7ace41dbc43d/] will change the default box model from content-box to border-box to make the layouts easier to work with. But",
+          "link": "https://www.freecodecamp.org/news/what-is-box-sizing-border-box-css/",
+          "publishedOn": "2024-02-05T18:26:43.000Z",
+          "wordCount": 1146,
+          "title": "What is box-sizing: border-box in CSS?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/curology-fPSELOXfeU4-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/immutable-javascript-improve-application-performance/",
+          "author": "Clinton Joy",
+          "description": "Javascript has become a very popular programming language thanks to its growing use in frontend and backend development.  And as devs build JavaScript applications for different companies and organizations, the size and complexity of these applications can pose interesting performance challenges. As developers, we seek to create applications that",
+          "link": "https://www.freecodecamp.org/news/immutable-javascript-improve-application-performance/",
+          "publishedOn": "2024-02-05T15:09:28.000Z",
+          "wordCount": 4190,
+          "title": "Immutable JavaScript – How to Improve the Performance of Your JS Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Screen-Shot-2024-02-01-at-11.16.23-AM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "React is an open-source JavaScript library that helps you build dynamic user interfaces (UIs). You can use it to build components that represent logically reusable parts of the UI. Because React is open source, anyone can access its source code, inspect it, modify it, and enhance it for their personal",
+          "link": "https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/",
+          "publishedOn": "2024-02-05T12:43:22.000Z",
+          "wordCount": 1819,
+          "title": "How to Install React – A Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/solid-navy-blue-concrete-textured-wall.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/",
           "author": "Abraham Dahunsi",
           "description": "Observability refers to our ability to \"see\" and understand what's happening inside a system by looking at its external signals (like logs, metrics, and traces). Observability involves collecting and analyzing data from sources within a system to monitor its performance and address problems effectively. Why is Observability Useful?  1.",
