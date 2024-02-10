@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T00:54:34.858Z</updated>
+    <updated>2024-02-10T00:53:10.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: AI Engineering with Engineer + Scrimba CEO Per Borgan]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/"/>
+        <updated>2024-02-09T17:28:56.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Per Borgen about the burgeoning field of AI Engineering, and his work in interactive developer education. Per is the co-founder and CEO of Scrimba and is a software engineer. Be sure to follow The freeCodeCamp podcast in your favorite podcast app.]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Search Form in Google Sheets – Google Apps Script Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/create-search-form-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/create-search-form-in-google-sheets/"/>
+        <updated>2024-02-09T15:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever struggled with navigating a massive spreadsheet? You can do away with the endless scrolling and unlock the power of targeted data retrieval with a custom search form using Google Apps Script.  In this hands-on guide, we'll craft a search tool that seamlessly integrates with your spreadsheet,]]></summary>
+        <author>
+            <name>Nibesh Khadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Data Types in Python – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-data-types-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-data-types-in-python/"/>
+        <updated>2024-02-09T15:15:55.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a data type communicates with the interpreter about how the programmer intends to use the data and information stored. The classification of data specifies the type of value a variable can hold. In Python programming, you don't need to explicitly declare the data type of your variable. Instead,]]></summary>
+        <author>
+            <name>Kamaldeen Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Draw Radar Charts In Web]]></title>
+        <id>https://smashingmagazine.com/2024/02/draw-radar-charts-web/</id>
+        <link href="https://smashingmagazine.com/2024/02/draw-radar-charts-web/"/>
+        <updated>2024-02-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Animations in React 18]]></title>
+        <id>https://www.freecodecamp.org/news/create-animations-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/create-animations-in-react/"/>
+        <updated>2024-02-08T23:51:27.000Z</updated>
+        <summary type="html"><![CDATA[We are surrounded by gorgeous web applications. Sometimes I catch myself admiring visual effects on some website and wondering how they were made.  Well today I'll show you how you can create awesome CSS animations in React 18. As always, we'll work on the real world example but we'll]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Spread and Rest Operators – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/"/>
+        <updated>2024-02-08T23:27:05.000Z</updated>
+        <summary type="html"><![CDATA[In modern JavaScript, the spread and rest operators are indispensable tools for simplifying array manipulation and function parameters. These operators provide elegant solutions for tasks like array expansion and function arguments handling.  Let's dive deeper into understanding how they work so you can leverage their power. You can get]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Download a Kaggle Dataset Directly to a Google Colab Notebook]]></title>
         <id>https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/</id>
@@ -1224,86 +1284,6 @@
         <summary type="html"><![CDATA[Recently, I was practicing coding problems that focused on Data Structures and Algorithms in preparation for a job change.  During this process, I came across the Sliding Window technique. I found this algorithm to be very interesting, so I wanted to share my learnings with the community.  This]]></summary>
         <author>
             <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Search Queries in MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/"/>
-        <updated>2024-01-10T21:12:23.000Z</updated>
-        <summary type="html"><![CDATA[Searching through a database to extract relevant data can be quite cumbersome if you don't have – or know how to use – the right tools. MongoDB is a non-relational, no-SQL database that differs from relational SQL-based databases such as PostgresSQL, MySQL. These SQL-based databases use conventional rows and columns]]></summary>
-        <author>
-            <name>oluwatobi Joshua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with Hugging Face – Open Source AI Models and Datasets]]></title>
-        <id>https://www.freecodecamp.org/news/get-started-with-hugging-face/</id>
-        <link href="https://www.freecodecamp.org/news/get-started-with-hugging-face/"/>
-        <updated>2024-01-10T21:05:36.000Z</updated>
-        <summary type="html"><![CDATA[What is Hugging Face 🤗? If you are interested in Artificial Intelligence and Natural Language Processing, you have probably heard of Hugging Face – the company named after a cute emoji.  Hugging Face is not only a company, but also a platform that is transforming the fields of AI]]></summary>
-        <author>
-            <name>Ambreen Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding DOM Events and JavaScript Event Listeners]]></title>
-        <id>https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/</id>
-        <link href="https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/"/>
-        <updated>2024-01-10T20:38:04.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript code in the browser uses an event-driven programming pattern. What this means is that when a specific DOM event happens in the browser, a piece of code will be executed as a response to that action. In this article, I will help you see and understand how to listen]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch vs TensorFlow – Which is Better for Deep Learning Projects?]]></title>
-        <id>https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/</id>
-        <link href="https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/"/>
-        <updated>2024-01-10T18:46:30.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll look at two popular deep learning libraries — PyTorch and TensorFlow – and see how they compare. If you are getting started with deep learning, the available tools and frameworks will be overwhelming. Industry experts may recommend TensorFlow while hardcore ML engineers may prefer PyTorch. Both]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Stepper Component in React]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-stepper-component-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-stepper-component-in-react/"/>
-        <updated>2024-01-10T15:28:54.000Z</updated>
-        <summary type="html"><![CDATA[I was working on a React project recently, and I realized that there were so many UI components that I had to build to get things done quickly. So I began to explore a lot of UI libraries like Material UI [https://mui.com] or Chakra UI [https://chakra-ui.com/]. Then I started wondering]]></summary>
-        <author>
-            <name>Olabisi Olaoye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Third-Party APIs in React by Building a Crypto Exchange Rate Web App]]></title>
-        <id>https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/"/>
-        <updated>2024-01-10T15:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Working with APIs is crucial to any web application. And as a frontend developer, knowing how to connect your apps with third-party APIs is an important skill to have. In this article, you'll learn how to connect your app and fetch data from a third-party API by building a crypto]]></summary>
-        <author>
-            <name>Chidera Humphrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Document Object Model? DOM for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/introduction-to-the-dom/</id>
-        <link href="https://www.freecodecamp.org/news/introduction-to-the-dom/"/>
-        <updated>2024-01-10T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to explain to you how the DOM works so that you have a clear picture of why JavaScript is needed to develop a web application. First, let's recap what we know about HTML, CSS, and JavaScript. How HTML, CSS, and JavaScript work When you want]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript DOM Manipulation Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/"/>
-        <updated>2024-01-10T15:12:57.000Z</updated>
-        <summary type="html"><![CDATA[DOM Manipulation is one of the most exciting topics to learn about in JavaScript. This is because one of JavaScript's main uses is to make web pages interactive – and the Document Object Model (DOM) plays a major role in this.  The DOM is a powerful tool that allows]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
         </author>
     </entry>
 </feed>

@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/draw-radar-charts-web/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.",
+          "link": "https://smashingmagazine.com/2024/02/draw-radar-charts-web/",
+          "publishedOn": "2024-02-09T15:00:00.000Z",
+          "wordCount": 5604,
+          "title": "How To Draw Radar Charts In Web",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/draw-radar-charts-web/draw-radar-charts-web.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/draw-radar-charts-web/draw-radar-charts-web.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.",
@@ -183,6 +198,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Per Borgen about the burgeoning field of AI Engineering, and his work in interactive developer education. Per is the co-founder and CEO of Scrimba and is a software engineer. Be sure to follow The freeCodeCamp podcast in your favorite podcast app.",
+          "link": "https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/",
+          "publishedOn": "2024-02-09T17:28:56.000Z",
+          "wordCount": 752,
+          "title": "Podcast: AI Engineering with Engineer + Scrimba CEO Per Borgan",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/AI-Engineering-with-Scrimba-CEO-Engineer-Per-Borgan.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-search-form-in-google-sheets/",
+          "author": "Nibesh Khadka",
+          "description": "Have you ever struggled with navigating a massive spreadsheet? You can do away with the endless scrolling and unlock the power of targeted data retrieval with a custom search form using Google Apps Script.  In this hands-on guide, we'll craft a search tool that seamlessly integrates with your spreadsheet,",
+          "link": "https://www.freecodecamp.org/news/create-search-form-in-google-sheets/",
+          "publishedOn": "2024-02-09T15:39:47.000Z",
+          "wordCount": 5625,
+          "title": "How to Create a Search Form in Google Sheets – Google Apps Script Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Search-Form-Thumbnail-3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-data-types-in-python/",
+          "author": "Kamaldeen Lawal",
+          "description": "In Python, a data type communicates with the interpreter about how the programmer intends to use the data and information stored. The classification of data specifies the type of value a variable can hold. In Python programming, you don't need to explicitly declare the data type of your variable. Instead,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-data-types-in-python/",
+          "publishedOn": "2024-02-09T15:15:55.000Z",
+          "wordCount": 3318,
+          "title": "How to Use Data Types in Python – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Python-Data-Types.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-animations-in-react/",
+          "author": "Matéush",
+          "description": "We are surrounded by gorgeous web applications. Sometimes I catch myself admiring visual effects on some website and wondering how they were made.  Well today I'll show you how you can create awesome CSS animations in React 18. As always, we'll work on the real world example but we'll",
+          "link": "https://www.freecodecamp.org/news/create-animations-in-react/",
+          "publishedOn": "2024-02-08T23:51:27.000Z",
+          "wordCount": 1968,
+          "title": "How to Create Animations in React 18",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Animations-splash--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/",
+          "author": "Sahil Mahapatra",
+          "description": "In modern JavaScript, the spread and rest operators are indispensable tools for simplifying array manipulation and function parameters. These operators provide elegant solutions for tasks like array expansion and function arguments handling.  Let's dive deeper into understanding how they work so you can leverage their power. You can get",
+          "link": "https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/",
+          "publishedOn": "2024-02-08T23:27:05.000Z",
+          "wordCount": 1513,
+          "title": "JavaScript Spread and Rest Operators – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-4-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/",
           "author": "Md. Fahim Bin Amin",
@@ -1292,86 +1357,6 @@
           "wordCount": 1946,
           "title": "How to Use the Sliding Window Technique – Algorithm Example and Solution",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Sliding-Window-Technique---Banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/",
-          "author": "oluwatobi Joshua",
-          "description": "Searching through a database to extract relevant data can be quite cumbersome if you don't have – or know how to use – the right tools. MongoDB is a non-relational, no-SQL database that differs from relational SQL-based databases such as PostgresSQL, MySQL. These SQL-based databases use conventional rows and columns",
-          "link": "https://www.freecodecamp.org/news/optimize-search-queries-in-mongodb/",
-          "publishedOn": "2024-01-10T21:12:23.000Z",
-          "wordCount": 1766,
-          "title": "How to Optimize Search Queries in MongoDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/mongosearch.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/get-started-with-hugging-face/",
-          "author": "Ambreen Khan",
-          "description": "What is Hugging Face 🤗? If you are interested in Artificial Intelligence and Natural Language Processing, you have probably heard of Hugging Face – the company named after a cute emoji.  Hugging Face is not only a company, but also a platform that is transforming the fields of AI",
-          "link": "https://www.freecodecamp.org/news/get-started-with-hugging-face/",
-          "publishedOn": "2024-01-10T21:05:36.000Z",
-          "wordCount": 3084,
-          "title": "How to Get Started with Hugging Face – Open Source AI Models and Datasets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/HuggingFace_Title-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/",
-          "author": "Nathan Sebhastian",
-          "description": "JavaScript code in the browser uses an event-driven programming pattern. What this means is that when a specific DOM event happens in the browser, a piece of code will be executed as a response to that action. In this article, I will help you see and understand how to listen",
-          "link": "https://www.freecodecamp.org/news/dom-events-and-javascript-event-listeners/",
-          "publishedOn": "2024-01-10T20:38:04.000Z",
-          "wordCount": 2468,
-          "title": "Understanding DOM Events and JavaScript Event Listeners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/DOM-events-feature-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/",
-          "author": "Manish Shivanandhan",
-          "description": "In this article, we'll look at two popular deep learning libraries — PyTorch and TensorFlow – and see how they compare. If you are getting started with deep learning, the available tools and frameworks will be overwhelming. Industry experts may recommend TensorFlow while hardcore ML engineers may prefer PyTorch. Both",
-          "link": "https://www.freecodecamp.org/news/pytorch-vs-tensorflow-for-deep-learning-projects/",
-          "publishedOn": "2024-01-10T18:46:30.000Z",
-          "wordCount": 1721,
-          "title": "PyTorch vs TensorFlow – Which is Better for Deep Learning Projects?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pytorchvs_cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-stepper-component-in-react/",
-          "author": "Olabisi Olaoye",
-          "description": "I was working on a React project recently, and I realized that there were so many UI components that I had to build to get things done quickly. So I began to explore a lot of UI libraries like Material UI [https://mui.com] or Chakra UI [https://chakra-ui.com/]. Then I started wondering",
-          "link": "https://www.freecodecamp.org/news/build-a-stepper-component-in-react/",
-          "publishedOn": "2024-01-10T15:28:54.000Z",
-          "wordCount": 2122,
-          "title": "How to Build a Stepper Component in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/Your-paragraph-text-3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/",
-          "author": "Chidera Humphrey",
-          "description": "Working with APIs is crucial to any web application. And as a frontend developer, knowing how to connect your apps with third-party APIs is an important skill to have. In this article, you'll learn how to connect your app and fetch data from a third-party API by building a crypto",
-          "link": "https://www.freecodecamp.org/news/work-with-third-party-libraries-in-react/",
-          "publishedOn": "2024-01-10T15:24:13.000Z",
-          "wordCount": 2939,
-          "title": "How to Work with Third-Party APIs in React by Building a Crypto Exchange Rate Web App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/20240105_040821_0000-3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/introduction-to-the-dom/",
-          "author": "Nathan Sebhastian",
-          "description": "In this article, I'm going to explain to you how the DOM works so that you have a clear picture of why JavaScript is needed to develop a web application. First, let's recap what we know about HTML, CSS, and JavaScript. How HTML, CSS, and JavaScript work When you want",
-          "link": "https://www.freecodecamp.org/news/introduction-to-the-dom/",
-          "publishedOn": "2024-01-10T15:14:00.000Z",
-          "wordCount": 1685,
-          "title": "What is the Document Object Model? DOM for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dom-introduction-feature-image-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/",
-          "author": "Benjamin Semah",
-          "description": "DOM Manipulation is one of the most exciting topics to learn about in JavaScript. This is because one of JavaScript's main uses is to make web pages interactive – and the Document Object Model (DOM) plays a major role in this.  The DOM is a powerful tool that allows",
-          "link": "https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/",
-          "publishedOn": "2024-01-10T15:12:57.000Z",
-          "wordCount": 7053,
-          "title": "The JavaScript DOM Manipulation Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/The-JavaScript-DOM-Manipulation-Handbook-Cover.png"
         }
       ]
     }
