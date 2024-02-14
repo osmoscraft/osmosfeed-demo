@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/practical-guide-design-children/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How to design for children aged 3–12, with insights into user behavior, considerations for parents, and practical UX guidelines.",
+          "link": "https://smashingmagazine.com/2024/02/practical-guide-design-children/",
+          "publishedOn": "2024-02-13T12:00:00.000Z",
+          "wordCount": 3573,
+          "title": "A Practical Guide To Designing For Children",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/practical-guide-design-children/practical-guide-design-children.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/practical-guide-design-children/practical-guide-design-children.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/draw-radar-charts-web/",
           "author": "hello@smashingmagazine.com (Preethi Sam)",
           "description": "A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.",
@@ -183,6 +198,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-custom-video-player-using-javascript-and-tailwind-css/",
+          "author": "Franklin Okolie",
+          "description": "HTML5 comes equipped with a native video player. It's shipped with a simple user interface, functionality, and some basic controls in the browser. And while the functionality of the default video player via the browser works perfectly, the user interface isn't so beautiful and fancy, and it's just not generally",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-video-player-using-javascript-and-tailwind-css/",
+          "publishedOn": "2024-02-13T15:14:21.000Z",
+          "wordCount": 6684,
+          "title": "How to Build a Custom HTML5 Video Player Using TailwindCSS and JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/how-to-build-a-custom-video-player-using-tailwindcss-and-javascript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/greater-than-and-less-than-operators-in-js/",
+          "author": "Jessica Wilkins",
+          "description": "In your JavaScript programs, you'll often need to compare two values to see if one is greater than or less than the other. This is where the greater than and less than operators come in handy. In this article, we'll look at how to use these operators in greater detail",
+          "link": "https://www.freecodecamp.org/news/greater-than-and-less-than-operators-in-js/",
+          "publishedOn": "2024-02-13T11:02:26.000Z",
+          "wordCount": 1762,
+          "title": "How to Use the Greater Than and Less Than Operators in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-pixabay-417173--3-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deboucing-in-react-autocomplete-example/",
+          "author": "Kunal Nalawade",
+          "description": "Hi readers, I hope you are doing great! I am back with another tutorial on web development. If you are someone who enjoys developing web apps with JavaScript and React, then this post is for you. When you roll out a new app into production, you want to make sure",
+          "link": "https://www.freecodecamp.org/news/deboucing-in-react-autocomplete-example/",
+          "publishedOn": "2024-02-12T23:23:30.000Z",
+          "wordCount": 2811,
+          "title": "Debouncing in JavaScript – Explained by Building Auto-Complete Functionality in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/photo-1550063873-ab792950096b.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/queryselector-method-javascript/",
+          "author": "Jessica Wilkins",
+          "description": "In JavaScript, there will be times when you need to access an HTML element. The  querySelector method is a web API that selects the first element that matches the specified CSS selector passed into it. But how does this work in more detail? In this article, we will look",
+          "link": "https://www.freecodecamp.org/news/queryselector-method-javascript/",
+          "publishedOn": "2024-02-12T23:00:54.000Z",
+          "wordCount": 1729,
+          "title": "What is the querySelector() Method and How Does it Work in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/fili-santillan-qp51FQhBnS0-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/short-circuiting-in-javascript/",
           "author": "Sahil Mahapatra",
