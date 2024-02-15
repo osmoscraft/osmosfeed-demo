@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-14T00:55:34.071Z</updated>
+    <updated>2024-02-15T00:55:25.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Custom React Hook – a Hands-on Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/"/>
+        <updated>2024-02-14T17:39:52.000Z</updated>
+        <summary type="html"><![CDATA[If you have been working with React, I bet you've had the opportunity to use hooks. But have you ever tried to create your own hook?  Today I will help you create your first custom hook and explain how they can improve your codebase. Why Create Custom Hooks? You]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dive into Backend Development by Building a CRUD API with Node and MongoDB]]></title>
+        <id>https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/</id>
+        <link href="https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/"/>
+        <updated>2024-02-14T15:05:52.000Z</updated>
+        <summary type="html"><![CDATA[A key part of most backend development projects is CRUD.  We just posted a course on the freeCodeCamp.org YouTube channel that will throw you into the world of backend development by guiding you through building a CRUD API from scratch. You will use Node.js, Express, and MongoDB. The course]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Accessibility Standards Can Empower Better Chart Visual Design]]></title>
+        <id>https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/</id>
+        <link href="https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/"/>
+        <updated>2024-02-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility for data visualization extends well beyond web standards, at least if you’re trying to create an experience that’s actually useful. This article focuses on techniques for creating useful and accessible visualizations that extend well beyond compliance.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kent Eisenhuth)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript Promises Work – Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/the-javascript-promises-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/the-javascript-promises-handbook/"/>
+        <updated>2024-02-13T23:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Many operations, such as network requests, are asynchronous in nature. One of the most useful and powerful tools for working with asynchronous code is the Promise. In this handbook, you'll learn all about JavaScript Promises and how to use them. Table of Contents  1.  What is a Promise?]]></summary>
+        <author>
+            <name>Joe Attardi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optional Chaining in JavaScript – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/optional-chaining-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/optional-chaining-javascript/"/>
+        <updated>2024-02-13T21:54:21.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript development often involves navigating through nested objects, which can be cumbersome and error-prone, especially when dealing with null or  undefined values. Enter optional chaining—a game-changer in modern JavaScript syntax. In this article, we'll explore optional chaining through practical examples, demonstrating how it streamlines code and makes development more]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best CSS Frameworks to Use in Your Projects for 2024 and Beyond]]></title>
+        <id>https://www.freecodecamp.org/news/best-css-frameworks-for-frontend-devs/</id>
+        <link href="https://www.freecodecamp.org/news/best-css-frameworks-for-frontend-devs/"/>
+        <updated>2024-02-13T21:18:47.000Z</updated>
+        <summary type="html"><![CDATA[CSS has come a long way over the past few years. In the past, you'd use CSS to create simple-looking web applications that rely on HTML tables and CSS floats as their layout systems. And now you can architect complex interactive user interfaces that are appealing with elegant designs.]]></summary>
+        <author>
+            <name>Victor Ikechukwu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Custom HTML5 Video Player Using TailwindCSS and JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/build-a-custom-video-player-using-javascript-and-tailwind-css/</id>
@@ -1254,16 +1314,6 @@
         <summary type="html"><![CDATA[The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Temani Afif)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 React Projects to Build in 2024]]></title>
-        <id>https://www.freecodecamp.org/news/react-projects-to-build-in-2024/</id>
-        <link href="https://www.freecodecamp.org/news/react-projects-to-build-in-2024/"/>
-        <updated>2024-01-16T12:07:51.000Z</updated>
-        <summary type="html"><![CDATA[To be confident with using React, you need to build real-world projects. But what projects are worth building in 2024? I have put together a list of seven projects that I think are ideal for becoming a confident React developer, from simple to complex applications. This will give you some]]></summary>
-        <author>
-            <name>Reed Barger</name>
         </author>
     </entry>
 </feed>

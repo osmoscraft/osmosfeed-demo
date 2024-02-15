@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/",
+          "author": "hello@smashingmagazine.com (Kent Eisenhuth)",
+          "description": "Accessibility for data visualization extends well beyond web standards, at least if you’re trying to create an experience that’s actually useful. This article focuses on techniques for creating useful and accessible visualizations that extend well beyond compliance.",
+          "link": "https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/",
+          "publishedOn": "2024-02-14T15:00:00.000Z",
+          "wordCount": 6075,
+          "title": "How Accessibility Standards Can Empower Better Chart Visual Design",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/accessibility-standards-empower-better-chart-visual-design/accessibility-standards-empower-better-chart-visual-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/accessibility-standards-empower-better-chart-visual-design/accessibility-standards-empower-better-chart-visual-design.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/practical-guide-design-children/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "How to design for children aged 3–12, with insights into user behavior, considerations for parents, and practical UX guidelines.",
@@ -198,6 +213,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/",
+          "author": "Matéush",
+          "description": "If you have been working with React, I bet you've had the opportunity to use hooks. But have you ever tried to create your own hook?  Today I will help you create your first custom hook and explain how they can improve your codebase. Why Create Custom Hooks? You",
+          "link": "https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/",
+          "publishedOn": "2024-02-14T17:39:52.000Z",
+          "wordCount": 1772,
+          "title": "How to Create a Custom React Hook – a Hands-on Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Custom-hooks.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/",
+          "author": "Beau Carnes",
+          "description": "A key part of most backend development projects is CRUD.  We just posted a course on the freeCodeCamp.org YouTube channel that will throw you into the world of backend development by guiding you through building a CRUD API from scratch. You will use Node.js, Express, and MongoDB. The course",
+          "link": "https://www.freecodecamp.org/news/crud-api-with-node-js-express-mongodb/",
+          "publishedOn": "2024-02-14T15:05:52.000Z",
+          "wordCount": 1020,
+          "title": "Dive into Backend Development by Building a CRUD API with Node and MongoDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/crudtutroail.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-javascript-promises-handbook/",
+          "author": "Joe Attardi",
+          "description": "Many operations, such as network requests, are asynchronous in nature. One of the most useful and powerful tools for working with asynchronous code is the Promise. In this handbook, you'll learn all about JavaScript Promises and how to use them. Table of Contents  1.  What is a Promise?",
+          "link": "https://www.freecodecamp.org/news/the-javascript-promises-handbook/",
+          "publishedOn": "2024-02-13T23:37:58.000Z",
+          "wordCount": 4615,
+          "title": "How JavaScript Promises Work – Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/How-JavaScript-Promises-Work-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/optional-chaining-javascript/",
+          "author": "Sahil Mahapatra",
+          "description": "JavaScript development often involves navigating through nested objects, which can be cumbersome and error-prone, especially when dealing with null or  undefined values. Enter optional chaining—a game-changer in modern JavaScript syntax. In this article, we'll explore optional chaining through practical examples, demonstrating how it streamlines code and makes development more",
+          "link": "https://www.freecodecamp.org/news/optional-chaining-javascript/",
+          "publishedOn": "2024-02-13T21:54:21.000Z",
+          "wordCount": 1401,
+          "title": "Optional Chaining in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-7-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/best-css-frameworks-for-frontend-devs/",
+          "author": "Victor Ikechukwu",
+          "description": "CSS has come a long way over the past few years. In the past, you'd use CSS to create simple-looking web applications that rely on HTML tables and CSS floats as their layout systems. And now you can architect complex interactive user interfaces that are appealing with elegant designs.",
+          "link": "https://www.freecodecamp.org/news/best-css-frameworks-for-frontend-devs/",
+          "publishedOn": "2024-02-13T21:18:47.000Z",
+          "wordCount": 3892,
+          "title": "The Best CSS Frameworks to Use in Your Projects for 2024 and Beyond",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/BEST-CSS.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/build-a-custom-video-player-using-javascript-and-tailwind-css/",
           "author": "Franklin Okolie",
@@ -1327,16 +1392,6 @@
           "wordCount": 1913,
           "title": "JavaScript Engine and Runtime Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-2--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-projects-to-build-in-2024/",
-          "author": "Reed Barger",
-          "description": "To be confident with using React, you need to build real-world projects. But what projects are worth building in 2024? I have put together a list of seven projects that I think are ideal for becoming a confident React developer, from simple to complex applications. This will give you some",
-          "link": "https://www.freecodecamp.org/news/react-projects-to-build-in-2024/",
-          "publishedOn": "2024-01-16T12:07:51.000Z",
-          "wordCount": 2181,
-          "title": "7 React Projects to Build in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mugshotbot.com_customize_color-orange-mode-light-pattern-bubbles-theme-two_up-url-https___gifcoins.io--1-.png"
         }
       ]
     }
