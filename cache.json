@@ -190,21 +190,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/ai-dilemma-graphic-design-typography/ai-dilemma-graphic-design-typography.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/css-border-image-property/",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "description": "The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.",
-          "link": "https://smashingmagazine.com/2024/01/css-border-image-property/",
-          "publishedOn": "2024-01-16T13:00:00.000Z",
-          "wordCount": 7323,
-          "title": "The Complex But Awesome CSS border-image Property",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-border-image-property/css-border-image-property.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-border-image-property/css-border-image-property.jpg"
         }
       ]
     },
@@ -213,6 +198,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/",
+          "author": "Samyak Jain",
+          "description": "In this in-depth tutorial, you'll learn all about the Document Object Model, or DOM for short. As a web developer, understanding the DOM is fundamental for interacting with web browsers and creating dynamic web applications.  Throughout this guide, we will explore the DOM's hierarchical tree structure, essential properties, and",
+          "link": "https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/",
+          "publishedOn": "2024-02-15T20:07:14.000Z",
+          "wordCount": 7159,
+          "title": "JavaScript in the Browser – How the Document Object Model (DOM) and Events Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/JavaScript-in-the-Browser-with-Photo-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-sveltekit-full-course/",
+          "author": "Beau Carnes",
+          "description": "SvelteKit is the next evolution of Svelte, a modern JavaScript framework that compiles your code to highly efficient, vanilla JavaScript at build time. It's a great framework to learn for developers seeking to hone their skills or dive into modern web frameworks. We just posted a course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/learn-sveltekit-full-course/",
+          "publishedOn": "2024-02-15T18:47:48.000Z",
+          "wordCount": 1113,
+          "title": "Learn SvelteKit in 2 hours",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/sveltekitfull.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/art-of-coding-with-p5js/",
+          "author": "Beau Carnes",
+          "description": "p5.js is a JavaScript library that's transforming the way artists and designers approach make art with code. If you're intrigued by the intersection of art and programming, freeCodeCamp's YouTube course on p5.js is an ideal starting point.  Patt Vira created this course. She loves making art with code and",
+          "link": "https://www.freecodecamp.org/news/art-of-coding-with-p5js/",
+          "publishedOn": "2024-02-15T18:39:36.000Z",
+          "wordCount": 1091,
+          "title": "Learn how to Make Art with Code – p5.js Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/p5js.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-draw-a-gorilla-with-javascript-on-html-canvas/",
+          "author": "Hunor Márton Borbély",
+          "description": "Drawing from code can be fun for many reasons. You can generate art that follows a certain logic. You can create animations by moving only parts of an image. And you can even build up a whole game as I covered in this tutorial [/news/gorillas-game-in-javascript/]. In my last article, we",
+          "link": "https://www.freecodecamp.org/news/how-to-draw-a-gorilla-with-javascript-on-html-canvas/",
+          "publishedOn": "2024-02-15T16:30:12.000Z",
+          "wordCount": 2570,
+          "title": "How to Draw with JavaScript on an HTML Canvas Element – Gorilla Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chrome-devtools/",
+          "author": "Ophy Boamah",
+          "description": "As a web developer, there are many tools out there – in addition to your code editor – that can make you more efficient.  It doesn't matter if you're just starting out or have been coding for years. Knowing how to effectively use Developer Tools (DevTools for short) can",
+          "link": "https://www.freecodecamp.org/news/chrome-devtools/",
+          "publishedOn": "2024-02-15T16:12:02.000Z",
+          "wordCount": 2752,
+          "title": "How to Use Chrome DevTools – Simple Strategies for Smarter Web Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/ChromeDevTools.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/app-directory-nextjs/",
+          "author": "Quincy Oghenetejiri Ukumakube",
+          "description": "When you're building a project using the latest version of Next.js, you'll be prompted to select between using the app/ directory or the pages/ directory. The  app/ directory is now the recommended way of building apps in Next.js. In this article, you'll learn how to maximize the potential of",
+          "link": "https://www.freecodecamp.org/news/app-directory-nextjs/",
+          "publishedOn": "2024-02-15T00:52:55.000Z",
+          "wordCount": 2726,
+          "title": "How to Use the App Directory in Next.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Freecodecamp-Banner-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-map-method/",
+          "author": "Sahil Mahapatra",
+          "description": "JavaScript's map method, introduced in ECMAScript 5, is a fundamental tool for array manipulation and transformation. This method is versatile and simple, and has become a staple in modern JavaScript programming.  In this article, we'll explore the map method's syntax and its wide array of applications, ranging from basic",
+          "link": "https://www.freecodecamp.org/news/javascript-map-method/",
+          "publishedOn": "2024-02-15T00:50:30.000Z",
+          "wordCount": 1600,
+          "title": "JavaScript Map Method – Syntax and Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-8-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/",
           "author": "Matéush",
@@ -232,6 +287,16 @@
           "wordCount": 1020,
           "title": "Dive into Backend Development by Building a CRUD API with Node and MongoDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/crudtutroail.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/golang-developer-roadmap/",
+          "author": "Shubham Chadokar",
+          "description": "The Go programming language – also known as Golang – is now almost 15 years old. And it's become a popular choice for web development and microservices thanks to its performance and efficient resource utilisation.  Go jobs are also quite well-paid. As per the Glassdoor report [https://www.glassdoor.com/Salaries/golang-developer-salary-SRCH_KO0,16.htm?countryPickerRedirect=true] , the",
+          "link": "https://www.freecodecamp.org/news/golang-developer-roadmap/",
+          "publishedOn": "2024-02-14T14:01:00.000Z",
+          "wordCount": 2006,
+          "title": "How to Get Started with Golang – a Developer Roadmap",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/go-roadmap-fcc.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/the-javascript-promises-handbook/",
@@ -1312,86 +1377,6 @@
           "wordCount": 2293,
           "title": "How to Use TUI Applications with Click and Trogon – Linux Tutorial",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mazinger_vampire.JPG"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/",
-          "author": "Idris Abdul-Lateef",
-          "description": "If you've ever had to use a date picker in a web frontend project, chances are that you've used flatpickr. For the unacquainted, flatpickr [https://flatpickr.js.org/] is one of the most popular date picker libraries in the open source-verse. It's framework-agnostic, highly customizable, and lightweight. I recently had to use it",
-          "link": "https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/",
-          "publishedOn": "2024-01-17T02:34:00.000Z",
-          "wordCount": 1779,
-          "title": "How to Add Custom Buttons to a Date Picker in Flatpickr",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/b01117c062c14a0d7f54f256baf09808482b6505_2_1024x512.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/",
-          "author": "Zaid Humayun",
-          "description": "Concurrency is a programming term you'll need to be familiar with if you code in C++. It's especially relevant if you want to get more out of your available compute resources.  But concurrency comes with certain problems. Some of them can be solved using  mutexes [https://en.wikipedia.org/wiki/Mutual_exclusion], although mutexes",
-          "link": "https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/",
-          "publishedOn": "2024-01-16T23:50:05.000Z",
-          "wordCount": 2823,
-          "title": "Atomics and Concurrency in C++",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-pixabay-290470.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/object-oriented-programming-in-java/",
-          "author": "Vahe Aslanyan",
-          "description": "Java is a go-to language for many programmers, and it's a critical skill for any software engineer. After learning Java, picking up other programming languages and advanced concepts becomes much easier.  In this book, I'll cover the practical knowledge you need to move from writing basic Java code to",
-          "link": "https://www.freecodecamp.org/news/object-oriented-programming-in-java/",
-          "publishedOn": "2024-01-16T23:17:07.000Z",
-          "wordCount": 30136,
-          "title": "Advanced Object-Oriented Programming in Java – Full Book",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Advanced-Object-Oriented-Programming-in-Java-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/",
-          "author": "Benjamin Semah",
-          "description": "In JavaScript, there are two main ways of writing functions. You can create functions using the regular function syntax. Or you can use the arrow function syntax.  In this article, you will learn how to use both options. You'll also learn about the differences between the two and when",
-          "link": "https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/",
-          "publishedOn": "2024-01-16T22:19:05.000Z",
-          "wordCount": 2058,
-          "title": "JavaScript Arrow Functions vs Regular Functions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Screenshot-2024-01-12-at-6.53.58-PM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/",
-          "author": "Beau Carnes",
-          "description": "Introduction to freeCodeCamp's Data Engineering Video Course Data Engineering is a vital field in the tech industry focused on designing, building, and maintaining systems that collect, process, and analyze large volumes of data. We just posted a course on the freeCodeCamp.org YouTube channel all about data engineering, designed to cater",
-          "link": "https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/",
-          "publishedOn": "2024-01-16T21:52:36.000Z",
-          "wordCount": 1200,
-          "title": "Learn the Essentials of Data Engineering",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dataengineering.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/",
-          "author": "Feyijimi Erinle",
-          "description": "S3 is an Amazon Web Service that provides data storage and retrieval in the cloud. ‌‌ This article will discuss the common S3 performance bottlenecks and how they impact the service's overall performance. It will also share some best practices to serve as guidelines for optimising the performance of your",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/",
-          "publishedOn": "2024-01-16T21:36:44.000Z",
-          "wordCount": 2429,
-          "title": "How to Optimize AWS Simple Storage Service for Better Performance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/s3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/file-ownership-permissions-rhel/",
-          "author": "Kedar Makode",
-          "description": "Linux commands give you precise control over file ownership and permissions, ensuring data security and access control.  This guide will delve into several essential commands: chown, chgrp, chmod, and  umask. The examples will showcase their functionality, variations, and practical applications. Table Of Contents Here's what we'll cover in",
-          "link": "https://www.freecodecamp.org/news/file-ownership-permissions-rhel/",
-          "publishedOn": "2024-01-16T20:56:12.000Z",
-          "wordCount": 2838,
-          "title": "How File Ownership and Permissions Work in RHEL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004566.svg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/",
-          "author": "Sahil Mahapatra",
-          "description": "A JavaScript engine is simply a computer program that executes JavaScript code. It's responsible for translating human-readable JavaScript code into machine-readable instructions that the computer's hardware can execute. When you write JavaScript code and run it in a browser, the code doesn't directly interact with your computer's hardware. Instead, it",
-          "link": "https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/",
-          "publishedOn": "2024-01-16T19:03:02.000Z",
-          "wordCount": 1913,
-          "title": "JavaScript Engine and Runtime Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-2--1-.png"
         }
       ]
     }

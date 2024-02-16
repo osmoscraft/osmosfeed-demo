@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-15T00:55:25.692Z</updated>
+    <updated>2024-02-16T00:54:50.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JavaScript in the Browser – How the Document Object Model (DOM) and Events Work]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/"/>
+        <updated>2024-02-15T20:07:14.000Z</updated>
+        <summary type="html"><![CDATA[In this in-depth tutorial, you'll learn all about the Document Object Model, or DOM for short. As a web developer, understanding the DOM is fundamental for interacting with web browsers and creating dynamic web applications.  Throughout this guide, we will explore the DOM's hierarchical tree structure, essential properties, and]]></summary>
+        <author>
+            <name>Samyak Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn SvelteKit in 2 hours]]></title>
+        <id>https://www.freecodecamp.org/news/learn-sveltekit-full-course/</id>
+        <link href="https://www.freecodecamp.org/news/learn-sveltekit-full-course/"/>
+        <updated>2024-02-15T18:47:48.000Z</updated>
+        <summary type="html"><![CDATA[SvelteKit is the next evolution of Svelte, a modern JavaScript framework that compiles your code to highly efficient, vanilla JavaScript at build time. It's a great framework to learn for developers seeking to hone their skills or dive into modern web frameworks. We just posted a course on the freeCodeCamp.org]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn how to Make Art with Code – p5.js Course]]></title>
+        <id>https://www.freecodecamp.org/news/art-of-coding-with-p5js/</id>
+        <link href="https://www.freecodecamp.org/news/art-of-coding-with-p5js/"/>
+        <updated>2024-02-15T18:39:36.000Z</updated>
+        <summary type="html"><![CDATA[p5.js is a JavaScript library that's transforming the way artists and designers approach make art with code. If you're intrigued by the intersection of art and programming, freeCodeCamp's YouTube course on p5.js is an ideal starting point.  Patt Vira created this course. She loves making art with code and]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Draw with JavaScript on an HTML Canvas Element – Gorilla Example]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-draw-a-gorilla-with-javascript-on-html-canvas/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-draw-a-gorilla-with-javascript-on-html-canvas/"/>
+        <updated>2024-02-15T16:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Drawing from code can be fun for many reasons. You can generate art that follows a certain logic. You can create animations by moving only parts of an image. And you can even build up a whole game as I covered in this tutorial [/news/gorillas-game-in-javascript/]. In my last article, we]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Chrome DevTools – Simple Strategies for Smarter Web Development]]></title>
+        <id>https://www.freecodecamp.org/news/chrome-devtools/</id>
+        <link href="https://www.freecodecamp.org/news/chrome-devtools/"/>
+        <updated>2024-02-15T16:12:02.000Z</updated>
+        <summary type="html"><![CDATA[As a web developer, there are many tools out there – in addition to your code editor – that can make you more efficient.  It doesn't matter if you're just starting out or have been coding for years. Knowing how to effectively use Developer Tools (DevTools for short) can]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the App Directory in Next.js]]></title>
+        <id>https://www.freecodecamp.org/news/app-directory-nextjs/</id>
+        <link href="https://www.freecodecamp.org/news/app-directory-nextjs/"/>
+        <updated>2024-02-15T00:52:55.000Z</updated>
+        <summary type="html"><![CDATA[When you're building a project using the latest version of Next.js, you'll be prompted to select between using the app/ directory or the pages/ directory. The  app/ directory is now the recommended way of building apps in Next.js. In this article, you'll learn how to maximize the potential of]]></summary>
+        <author>
+            <name>Quincy Oghenetejiri Ukumakube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Map Method – Syntax and Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-map-method/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-map-method/"/>
+        <updated>2024-02-15T00:50:30.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript's map method, introduced in ECMAScript 5, is a fundamental tool for array manipulation and transformation. This method is versatile and simple, and has become a staple in modern JavaScript programming.  In this article, we'll explore the map method's syntax and its wide array of applications, ranging from basic]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create a Custom React Hook – a Hands-on Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/</id>
@@ -34,6 +104,16 @@
         <summary type="html"><![CDATA[Accessibility for data visualization extends well beyond web standards, at least if you’re trying to create an experience that’s actually useful. This article focuses on techniques for creating useful and accessible visualizations that extend well beyond compliance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kent Eisenhuth)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Started with Golang – a Developer Roadmap]]></title>
+        <id>https://www.freecodecamp.org/news/golang-developer-roadmap/</id>
+        <link href="https://www.freecodecamp.org/news/golang-developer-roadmap/"/>
+        <updated>2024-02-14T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The Go programming language – also known as Golang – is now almost 15 years old. And it's become a popular choice for web development and microservices thanks to its performance and efficient resource utilisation.  Go jobs are also quite well-paid. As per the Glassdoor report [https://www.glassdoor.com/Salaries/golang-developer-salary-SRCH_KO0,16.htm?countryPickerRedirect=true] , the]]></summary>
+        <author>
+            <name>Shubham Chadokar</name>
         </author>
     </entry>
     <entry>
@@ -1224,96 +1304,6 @@
         <summary type="html"><![CDATA[Linux and terminal applications are almost synonymous. If you have used applications like grep, cat, sed, and AWK, those are command line interfaces ( CLI [https://en.wikipedia.org/wiki/Command-line_interface]). And when they work together, they allow you to unleash the power of your computer by mixing and matching a few commands. Sometimes the]]></summary>
         <author>
             <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Custom Buttons to a Date Picker in Flatpickr]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-custom-buttons-to-flatpickr/"/>
-        <updated>2024-01-17T02:34:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've ever had to use a date picker in a web frontend project, chances are that you've used flatpickr. For the unacquainted, flatpickr [https://flatpickr.js.org/] is one of the most popular date picker libraries in the open source-verse. It's framework-agnostic, highly customizable, and lightweight. I recently had to use it]]></summary>
-        <author>
-            <name>Idris Abdul-Lateef</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atomics and Concurrency in C++]]></title>
-        <id>https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/</id>
-        <link href="https://www.freecodecamp.org/news/atomics-and-concurrency-in-cpp/"/>
-        <updated>2024-01-16T23:50:05.000Z</updated>
-        <summary type="html"><![CDATA[Concurrency is a programming term you'll need to be familiar with if you code in C++. It's especially relevant if you want to get more out of your available compute resources.  But concurrency comes with certain problems. Some of them can be solved using  mutexes [https://en.wikipedia.org/wiki/Mutual_exclusion], although mutexes]]></summary>
-        <author>
-            <name>Zaid Humayun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advanced Object-Oriented Programming in Java – Full Book]]></title>
-        <id>https://www.freecodecamp.org/news/object-oriented-programming-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/object-oriented-programming-in-java/"/>
-        <updated>2024-01-16T23:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Java is a go-to language for many programmers, and it's a critical skill for any software engineer. After learning Java, picking up other programming languages and advanced concepts becomes much easier.  In this book, I'll cover the practical knowledge you need to move from writing basic Java code to]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Arrow Functions vs Regular Functions]]></title>
-        <id>https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/"/>
-        <updated>2024-01-16T22:19:05.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, there are two main ways of writing functions. You can create functions using the regular function syntax. Or you can use the arrow function syntax.  In this article, you will learn how to use both options. You'll also learn about the differences between the two and when]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the Essentials of Data Engineering]]></title>
-        <id>https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-essentials-of-data-engineering/"/>
-        <updated>2024-01-16T21:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Introduction to freeCodeCamp's Data Engineering Video Course Data Engineering is a vital field in the tech industry focused on designing, building, and maintaining systems that collect, process, and analyze large volumes of data. We just posted a course on the freeCodeCamp.org YouTube channel all about data engineering, designed to cater]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize AWS Simple Storage Service for Better Performance]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-aws-s3-for-performance/"/>
-        <updated>2024-01-16T21:36:44.000Z</updated>
-        <summary type="html"><![CDATA[S3 is an Amazon Web Service that provides data storage and retrieval in the cloud. ‌‌ This article will discuss the common S3 performance bottlenecks and how they impact the service's overall performance. It will also share some best practices to serve as guidelines for optimising the performance of your]]></summary>
-        <author>
-            <name>Feyijimi Erinle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How File Ownership and Permissions Work in RHEL]]></title>
-        <id>https://www.freecodecamp.org/news/file-ownership-permissions-rhel/</id>
-        <link href="https://www.freecodecamp.org/news/file-ownership-permissions-rhel/"/>
-        <updated>2024-01-16T20:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Linux commands give you precise control over file ownership and permissions, ensuring data security and access control.  This guide will delve into several essential commands: chown, chgrp, chmod, and  umask. The examples will showcase their functionality, variations, and practical applications. Table Of Contents Here's what we'll cover in]]></summary>
-        <author>
-            <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Engine and Runtime Explained]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/"/>
-        <updated>2024-01-16T19:03:02.000Z</updated>
-        <summary type="html"><![CDATA[A JavaScript engine is simply a computer program that executes JavaScript code. It's responsible for translating human-readable JavaScript code into machine-readable instructions that the computer's hardware can execute. When you write JavaScript code and run it in a browser, the code doesn't directly interact with your computer's hardware. Instead, it]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complex But Awesome CSS border-image Property]]></title>
-        <id>https://smashingmagazine.com/2024/01/css-border-image-property/</id>
-        <link href="https://smashingmagazine.com/2024/01/css-border-image-property/"/>
-        <updated>2024-01-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The CSS `border-image` property is one of those properties you undoubtedly know exists but may not have ever reached for. In this article, Temani Afif demonstrates different approaches for using `border-image` to create clever decorative accents and shapes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Temani Afif)</name>
         </author>
     </entry>
 </feed>
