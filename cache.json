@@ -199,6 +199,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/podcast-jessica-wilkins-classical-music-learning-to-code/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview orchestral musician-turned software engineer Jessica Wilkins. Jessica found success in the extremely competitive field of classical music, playing the Oboe in orchestras, recording sessions, and even at major events such as the NFL awards on national television. She started her own",
+          "link": "https://www.freecodecamp.org/news/podcast-jessica-wilkins-classical-music-learning-to-code/",
+          "publishedOn": "2024-02-16T18:47:35.000Z",
+          "wordCount": 987,
+          "title": "Podcast: How the Insane Pressure of Classical Music Prepared Jessica Wilkins for Tech",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/jessica-wilkins-freecodecamp-podcast.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/",
+          "author": "Maybell Obadoni",
+          "description": "Have you ever had issues with replicating a particular user interface from a Figma design? Do you find it difficult displaying elements in different sections of your browser screen? A major cause of rift between user interface (UI) designers and frontend developers is the issue of having an awesome UI",
+          "link": "https://www.freecodecamp.org/news/flexbox-vs-grid-in-css/",
+          "publishedOn": "2024-02-16T11:02:00.000Z",
+          "wordCount": 2263,
+          "title": "Flexbox vs Grid in CSS – Which Should You Use?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pankaj-patel-6JVlSdgMacE-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-performance-optimization-techniques/",
+          "author": "Temitope Oyedele",
+          "description": "Performance optimization is a critical aspect of developing web applications. Users expect applications to load quickly and respond to their interactions smoothly.  In the React ecosystem, performance optimization techniques can significantly enhance the user experience by reducing load times and improving responsiveness. In this article, we will discuss eight",
+          "link": "https://www.freecodecamp.org/news/react-performance-optimization-techniques/",
+          "publishedOn": "2024-02-16T00:57:28.000Z",
+          "wordCount": 4342,
+          "title": "React Optimization Techniques to Help You Write More Performant Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-howard-adams-575835--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-the-most-out-of-video-coding-tutorials/",
+          "author": "Chris Blakely",
+          "description": "Have you ever spent hours watching a coding tutorial, only to get to the end and feel like you haven't learned very much?  We've all been there, and it can be a frustrating experience when learning to code.  In this article, I will show you some of the",
+          "link": "https://www.freecodecamp.org/news/how-to-get-the-most-out-of-video-coding-tutorials/",
+          "publishedOn": "2024-02-16T00:50:44.000Z",
+          "wordCount": 1520,
+          "title": "How to Get the Most of Video Coding Tutorials",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-olia-danilevich-4974915.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/",
+          "author": "Abraham Dahunsi",
+          "description": "Argo Workflows is an open source project that enables the orchestration of multiple Kubernetes jobs. Argo Workflows is implemented as a Kubernetes custom resource definition (CRD), which means it is native to the Kubernetes ecosystem and can run on any Kubernetes cluster. Workflows are set steps by which individual jobs",
+          "link": "https://www.freecodecamp.org/news/set-up-argo-workflows-on-kubernetes/",
+          "publishedOn": "2024-02-15T23:23:44.000Z",
+          "wordCount": 1843,
+          "title": "How to Set Up Argo Workflows on Kubernetes",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Feature-Image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-filter-method/",
+          "author": "Sahil Mahapatra",
+          "description": "JavaScript's filter method serves as a powerful tool for selectively extracting elements from arrays based on certain conditions.  Introduced alongside other array methods in ECMAScript 5, the filter method has since become a fundamental feature in JavaScript programming. In this article, we will delve into the JavaScript filter method,",
+          "link": "https://www.freecodecamp.org/news/javascript-filter-method/",
+          "publishedOn": "2024-02-15T23:08:24.000Z",
+          "wordCount": 1386,
+          "title": "How the JavaScript Filter Method Works – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-9-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/",
           "author": "Samyak Jain",
           "description": "In this in-depth tutorial, you'll learn all about the Document Object Model, or DOM for short. As a web developer, understanding the DOM is fundamental for interacting with web browsers and creating dynamic web applications.  Throughout this guide, we will explore the DOM's hierarchical tree structure, essential properties, and",
@@ -1327,56 +1387,6 @@
           "wordCount": 2279,
           "title": "What are Progressive Web Apps? PWA Guide for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Essentials.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/design-and-build-sustainable-software/",
-          "author": "Jayant Chowdhary",
-          "description": "Electronic devices that run software are all around us. Your mobile phone, your car, your microwave, and virtually anything around you – there’s a very good chance that they have electronic components running some form of software. These devices inevitably use power and have batteries and circuits, which degrade over",
-          "link": "https://www.freecodecamp.org/news/design-and-build-sustainable-software/",
-          "publishedOn": "2024-01-18T01:28:38.000Z",
-          "wordCount": 4622,
-          "title": "How to Design and Build Sustainable Software",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Cover-4.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
-          "author": "Gift Uhiene",
-          "description": "Forms allow you to collect user data on your websites and apps. And validation is essential to guarantee type safety and the proper format for collected data. You can perform validation on both the client and server side of the application.  This is where Zod and React-Hook-Form come in",
-          "link": "https://www.freecodecamp.org/news/react-form-validation-zod-react-hook-form/",
-          "publishedOn": "2024-01-17T21:58:56.000Z",
-          "wordCount": 2882,
-          "title": "How to Validate Forms with Zod and React-Hook-Form",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-7.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/",
-          "author": "Beau Carnes",
-          "description": "Python can be used for everything from scripting, machine learning, web development, and graphical user interfaces. We just posted a course on the freeCodeCamp.org YouTube channel that teaches them how to create visually appealing and functional user interfaces (UIs) using Python, with a specific focus on developing a Modern Music",
-          "link": "https://www.freecodecamp.org/news/how-to-create-python-user-interfaces-with-pyqt5/",
-          "publishedOn": "2024-01-17T21:21:54.000Z",
-          "wordCount": 1137,
-          "title": "How to create Python User Interfaces with PyQt5",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pyqt5.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/acid-databases-explained/",
-          "author": "Daniel Adetunji",
-          "description": "ACID stands for Atomicity, Consistency, Isolation and Durability. These are four key properties that most database management systems (DBMS) offer as guarantees when handling transactions. Most popular DBMS like MySQL [https://dev.mysql.com/doc/refman/8.0/en/mysql-acid.html], PostgresSQL [https://www.postgresql.org/about/] and Oracle [https://docs.oracle.com/cd/F51125_01/docs.85/SDS%20PI/acid-compliant-transactions.html#GUID-ECB79D66-46DE-4F48-93DC-8677E7BB44EF]  have ACID guarantees out of the",
-          "link": "https://www.freecodecamp.org/news/acid-databases-explained/",
-          "publishedOn": "2024-01-17T17:45:53.000Z",
-          "wordCount": 2695,
-          "title": "ACID Databases – Atomicity, Consistency, Isolation & Durability Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover-fcc.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/",
-          "author": "Jose Vicente Nunez",
-          "description": "Linux and terminal applications are almost synonymous. If you have used applications like grep, cat, sed, and AWK, those are command line interfaces ( CLI [https://en.wikipedia.org/wiki/Command-line_interface]). And when they work together, they allow you to unleash the power of your computer by mixing and matching a few commands. Sometimes the",
-          "link": "https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/",
-          "publishedOn": "2024-01-17T17:36:53.000Z",
-          "wordCount": 2293,
-          "title": "How to Use TUI Applications with Click and Trogon – Linux Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mazinger_vampire.JPG"
         }
       ]
     }
