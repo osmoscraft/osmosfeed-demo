@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/designing-for-colorblindness/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.",
+          "link": "https://smashingmagazine.com/2024/02/designing-for-colorblindness/",
+          "publishedOn": "2024-02-20T12:00:00.000Z",
+          "wordCount": 3553,
+          "title": "A Practical Guide To Designing For Colorblind People",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-for-colorblindness/designing-for-colorblindness.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-for-colorblindness/designing-for-colorblindness.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/",
           "author": "hello@smashingmagazine.com (Kate Kalcevich)",
           "description": "Accessibility goes beyond making products user-friendly. It can significantly impact the quality of life for people with disabilities. Kate Kalcevich shares lessons she learned from assistive technology users — challenges and barriers they encounter on mobile devices.",
@@ -213,6 +228,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-python-basics/",
+          "author": "chepkirui dorothy",
+          "description": "Are you eager to dive into the world of programming but unsure where to begin? Look no further – Python is an excellent starting point for both newcomers and seasoned developers.  In this guide, I'll take you through the basics so you can get started on your Python journey.",
+          "link": "https://www.freecodecamp.org/news/learn-python-basics/",
+          "publishedOn": "2024-02-20T19:04:56.000Z",
+          "wordCount": 3700,
+          "title": "Learn Python Basics – A Guide for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/learn-python-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/concurrency-in-python/",
+          "author": "Hemachandra Routhu",
+          "description": "In this tutorial, we will explore concurrency in Python. We'll discuss Threads and Processes and how they're similar and different. You'll also learn about Multi-threading, Multi-processing, Asynchronous Programming, and Concurrency in general in Python.  Many tutorials discuss these concepts, but they can be challenging to grasp due to the",
+          "link": "https://www.freecodecamp.org/news/concurrency-in-python/",
+          "publishedOn": "2024-02-20T18:53:34.000Z",
+          "wordCount": 5142,
+          "title": "Entering into the World of Concurrency with Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/concurrency-AI-2-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/",
+          "author": "Beau Carnes",
+          "description": "In the realm of software development, mastering Data Structures and Algorithms could be a critical step towards securing your dream job.  We just posted a course on the freeCodeCamp.org YouTube channel that will equip you with the knowledge to excel in coding interviews and problem-solving. You will learn the",
+          "link": "https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-2/",
+          "publishedOn": "2024-02-20T18:20:57.000Z",
+          "wordCount": 993,
+          "title": "Learn Data Structures and Algorithms in 48 Hours",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/dsa.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/console-logging-tips/",
+          "author": "Joan Ayebola",
+          "description": "Console logging is an essential tool for developers to use to debug and understand the behavior of their code.  While most developers are familiar with basic console logging using  console.log(), there are many other powerful methods provided by the console object that can make debugging more efficient and",
+          "link": "https://www.freecodecamp.org/news/console-logging-tips/",
+          "publishedOn": "2024-02-20T18:09:59.000Z",
+          "wordCount": 2170,
+          "title": "Console Logging Tips – How to Debug and Understand Your Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--9-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-css-flexbox-in-spanish-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "With CSS Flexbox, you can easily create responsive websites that adapt to different screen sizes and devices. It's an essential skill for any modern web developer. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you Flexbox from the fundamentals. By the end of",
+          "link": "https://www.freecodecamp.org/news/learn-css-flexbox-in-spanish-course-for-beginners/",
+          "publishedOn": "2024-02-20T15:50:00.000Z",
+          "wordCount": 976,
+          "title": "Learn CSS Flexbox in Spanish – Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Thumbnail-1-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-connect-a-domain-to-a-website-hosted-on-aws-ec2/",
+          "author": "Obed Ehoneah",
+          "description": "You may want to host your website on a virtual private server or a virtual machine like AWS EC2. But it can be a challenge to connect a domain name that you purchased from providers like Namecheap or Godaddy. But if you know the steps to follow, this doesn't have",
+          "link": "https://www.freecodecamp.org/news/how-to-connect-a-domain-to-a-website-hosted-on-aws-ec2/",
+          "publishedOn": "2024-02-19T23:51:10.000Z",
+          "wordCount": 3181,
+          "title": "How to Connect a Domain Name to a Website Hosted on AWS EC2",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/my-hashnode-technical-blog-images.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-reduce-method-code-examples/",
           "author": "Sahil Mahapatra",
