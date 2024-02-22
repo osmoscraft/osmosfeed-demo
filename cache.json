@@ -229,6 +229,66 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "author": "Andrew Brown",
+          "description": "The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. The certification has recently been updated for 2024 and I've released an updated course to teach you how to pass the exam. In the last decade companies have been collecting",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "publishedOn": "2024-02-21T15:02:00.000Z",
+          "wordCount": 997,
+          "title": "Azure AI Fundamentals Certification (AI-900) 2024 UPDATE – Pass the Exam With This Free 4 Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/aifund.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-typescript-type-aliases-work/",
+          "author": "Sahil Mahapatra",
+          "description": "One of TypeScript's powerful features is type aliases, which allow developers to create custom names for types, enhancing code readability and maintainability. In this article, we'll explore TypeScript type aliases through examples. Table of Contents  * TypeScript Type Aliases  * Examples  * Conclusion What are Type Aliases",
+          "link": "https://www.freecodecamp.org/news/how-typescript-type-aliases-work/",
+          "publishedOn": "2024-02-21T14:14:40.000Z",
+          "wordCount": 1293,
+          "title": "How Type Aliases work in TypeScript – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-1--2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/",
+          "author": "Matéush",
+          "description": "In this guide,  you'll learn how to effectively manage multiple Node versions for different projects using Node Version Manager (NVM). Whether you're developing React, Angular, Vue.js, or Node applications, you can always use NVM to set up the project and tailor it down to a specific Node version. Prerequisites Before",
+          "link": "https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/",
+          "publishedOn": "2024-02-21T13:51:21.000Z",
+          "wordCount": 1464,
+          "title": "How To Use Node Version Manager In Your React Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/React---NVM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/debug-coding-problems-in-your-projects/",
+          "author": "Chris Blakely",
+          "description": "Ah, the joy of coding! There you are, cruising through your project, when suddenly – bam! – you hit a bug. It's like hitting a wall in a maze. But fear not, fellow coder, for I bring you the trusty map to navigate the treacherous bug-infested waters of programming. Whether",
+          "link": "https://www.freecodecamp.org/news/debug-coding-problems-in-your-projects/",
+          "publishedOn": "2024-02-20T21:47:09.000Z",
+          "wordCount": 2100,
+          "title": "How to Debug Coding Problems When Building Your Own Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/DALL-E-2024-02-20-10.43.02---Create-a-landscape-oriented--cute-image-of-a-cartoon-bug-with-big--friendly-eyes--walking-over-a-background-that-resembles-computer-code.-The-bug-shou.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/",
+          "author": "Benjamin Semah",
+          "description": "In modern web development, having a way to persist data helps developers improve performance and create a better user experience. And using local storage is an effective way of persisting data in an application. In this article, you will learn what local storage is and how to use it in",
+          "link": "https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/",
+          "publishedOn": "2024-02-20T21:37:46.000Z",
+          "wordCount": 2326,
+          "title": "How to Use LocalStorage in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/JavaScript-localStorage-freeCodeCamp-Benjamin-Semah.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/basic-typescript-types/",
+          "author": "Sahil Mahapatra",
+          "description": "TypeScript is a superset of JavaScript that introduces static typing to JavaScript. TypeScript's enhanced type safety and code maintainability empower developers to write code more confidently. A fundamental aspect of TypeScript's static typing system is its support for basic types. These provide a foundation for defining the shape and behavior",
+          "link": "https://www.freecodecamp.org/news/basic-typescript-types/",
+          "publishedOn": "2024-02-20T21:05:51.000Z",
+          "wordCount": 1598,
+          "title": "How Types Work in TypeScript – Explained with JavaScript + TypeScript Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/learn-python-basics/",
           "author": "chepkirui dorothy",
           "description": "Are you eager to dive into the world of programming but unsure where to begin? Look no further – Python is an excellent starting point for both newcomers and seasoned developers.  In this guide, I'll take you through the basics so you can get started on your Python journey.",
@@ -1377,56 +1437,6 @@
           "wordCount": 6234,
           "title": "Refactoring with Event-Driven Architecture on AWS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/eda-title-macguffin.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/manage-state-in-react-apps-with-apis/",
-          "author": "Joan Ayebola",
-          "description": "State management is a crucial aspect of building robust and scalable React applications, especially when dealing with APIs.  As your application grows in complexity, efficiently managing the state becomes essential for a smooth user experience.  In the React ecosystem, there are several options for state management, each with",
-          "link": "https://www.freecodecamp.org/news/manage-state-in-react-apps-with-apis/",
-          "publishedOn": "2024-01-23T00:18:52.000Z",
-          "wordCount": 5903,
-          "title": "How to Manage State in React Apps with APIs – Redux, Context API, and Recoil Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/",
-          "author": "Isaiah Clifford Opoku",
-          "description": "Welcome to this in-depth guide on crafting a RESTful API with NestJS, Docker, Swagger, and Prisma. My goal here is to teach you how to build robust and efficient backends, regardless of whether you're a seasoned developer or a beginner just dipping your toes into the world of coding. In",
-          "link": "https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/",
-          "publishedOn": "2024-01-23T00:17:33.000Z",
-          "wordCount": 7076,
-          "title": "How to Build a CRUD REST API with NestJS, Docker, Swagger, and Prisma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Nestjs_Free_code.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/command-line-tricks-you-can-learn-quickly/",
-          "author": "Jose Vicente Nunez",
-          "description": "In this short tutorial, I want to share with you a few tricks and tips to help you deal with some common situations when you're working in the Linux command line. We will cover the following:  * find  * xargs and nproc  * taskset  * numactl",
-          "link": "https://www.freecodecamp.org/news/command-line-tricks-you-can-learn-quickly/",
-          "publishedOn": "2024-01-22T23:15:48.000Z",
-          "wordCount": 2047,
-          "title": "Command Line Tricks You Can Learn Faster than Drinking Your Morning Coffee",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mazinger-z.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/",
-          "author": "Ijeoma Igboagu",
-          "description": "AI tools have become quite popular recently. Developers use these tools to help generate ideas, create simple code examples, and so on.  In 2023, ChatGPT and other Large Language Models found their way into many of our toolkits. And we can use them to be more productive and save",
-          "link": "https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/",
-          "publishedOn": "2024-01-22T19:56:13.000Z",
-          "wordCount": 3168,
-          "title": "AI Tools You Can Use in Visual Studio Code Besides GitHub Copilot",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/ai-tool-cover-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/",
-          "author": "Beau Carnes",
-          "description": "OpenAI's Assistants API is a powerful tool that allows developers to build AI assistants within their apps efficiently. It simplifies managing conversation history and provides access to advanced features like Code Interpreter and Retrieval. The API also improves function-calling for third-party tools. We just published a course on the freeCodeCamp.org",
-          "link": "https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/",
-          "publishedOn": "2024-01-22T17:41:32.000Z",
-          "wordCount": 934,
-          "title": "Create AI Assistants with OpenAI's Assistants API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/assistants2.jpg"
         }
       ]
     }
