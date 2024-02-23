@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T00:54:23.847Z</updated>
+    <updated>2024-02-23T00:53:58.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering]]></title>
+        <id>https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/</id>
+        <link href="https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/"/>
+        <updated>2024-02-22T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederik Dohr)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the :has() Selector in CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/"/>
+        <updated>2024-02-22T14:34:24.000Z</updated>
+        <summary type="html"><![CDATA[For most of the history of CSS, selectors have been limited to targeting elements based on their parents in the DOM tree. Consider this HTML structure: 
+     
+Paragraph 1
+       
+     	
+Paragraph 2]]></summary>
+        <author>
+            <name>James Charlesworth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use the Fullscreen API in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/"/>
+        <updated>2024-02-22T14:17:32.000Z</updated>
+        <summary type="html"><![CDATA[How do you run a game created for the web in fullscreen? In this quick tutorial, you'll see how to display a game or any other HTML element in fullscreen, how to exit fullscreen, and how to make a nice fullscreen toggle button in SVG. Recently I published a long]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the JavaScript Map and Set Objects – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/"/>
+        <updated>2024-02-21T21:39:50.000Z</updated>
+        <summary type="html"><![CDATA[Map and Set are two JavaScript data structures you can use to store a collection of values, similar to Objects and Arrays. They are specialized data structures that can help you store and manipulate related values.  In this tutorial, we will see how Map and Set work in detail]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) 2024 UPDATE – Pass the Exam With This Free 4 Hour Course]]></title>
         <id>https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/</id>
@@ -1314,46 +1359,6 @@
         <summary type="html"><![CDATA[Microsoft's Azure’s provides many services via a single cloud, which lets them offer one solution for multiple corporate infrastructures. Teams use Azure because they value the opportunity to run SQL databases in the cloud and complete simple operations via the Azure portal.  But you'll need to have a way]]></summary>
         <author>
             <name>Alex Tray</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyGame Tutorial – How to Build a Bouncing Ball Game]]></title>
-        <id>https://www.freecodecamp.org/news/pygame-tutorial-build-a-bouncing-game/</id>
-        <link href="https://www.freecodecamp.org/news/pygame-tutorial-build-a-bouncing-game/"/>
-        <updated>2024-01-23T22:46:54.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn how to create a simple yet funny bouncing ball game using the PyGame library.  Whether you're a beginner seeking to grasp the fundamentals of game development or an enthusiast eager to explore PyGame's capabilities, this article is your guide to crafting a simple yet]]></summary>
-        <author>
-            <name>Juan P. Romano</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Apps – A Frontend Developer's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/frontend-ai-guide/</id>
-        <link href="https://www.freecodecamp.org/news/frontend-ai-guide/"/>
-        <updated>2024-01-23T22:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence: The New Frontier for Frontend Developers The demand for AI-powered applications is growing at a fast pace. As a front-end developer, you can take advantage of this trend and advance your career by integrating your skills in frontend development with AI technologies. This integration allows you to build]]></summary>
-        <author>
-            <name>Mahmud Adeleye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refactoring with Event-Driven Architecture on AWS]]></title>
-        <id>https://www.freecodecamp.org/news/deep-dive-into-event-driven-architecture-on-aws/</id>
-        <link href="https://www.freecodecamp.org/news/deep-dive-into-event-driven-architecture-on-aws/"/>
-        <updated>2024-01-23T15:03:06.000Z</updated>
-        <summary type="html"><![CDATA[Event-driven architecture is a software design pattern where components or services perform actions in response to events, often asynchronously. This post serves as a companion to our video course, "Deep Dive into Event-Driven Architecture on AWS." In the course, we delve into some of the core fundamentals of event-driven architecture]]></summary>
-        <author>
-            <name>Matt Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Dilemma In Graphic Design: Steering Towards Excellence In Typography And Beyond]]></title>
-        <id>https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/</id>
-        <link href="https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/"/>
-        <updated>2024-01-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI promises a major upheaval in typography, with designers finding themselves navigating both opportunities and challenges. How will it impact quality, design roles, and our use of type in the future? As we explore this new frontier, we realise that we are at a juncture as significant as Gutenberg’s press, set to redefine how we interact with text and visual communication.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Filip Paldia &amp; Jamie Clarke)</name>
         </author>
     </entry>
 </feed>
