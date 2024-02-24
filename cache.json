@@ -229,6 +229,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/tier-casa-security-assessment/",
+          "author": "Nibesh Khadka",
+          "description": "As part of the Google CASA process [https://appdefensealliance.dev/casa], developers can run static analysis on their application’s source code using an inline integration with OpenText’s Fortify Source Code Analyzer (SCA) via the CASA portal. Naturally, I had to prepare my source code as per instruction. In this article, I will share",
+          "link": "https://www.freecodecamp.org/news/tier-casa-security-assessment/",
+          "publishedOn": "2024-02-23T16:43:39.000Z",
+          "wordCount": 1764,
+          "title": "How to Configure Google Workspace Addon For Tier 2 CASA Security Assessment – Step by Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Addon-Assesment-Poster--4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Logan Kilpatric, a software engineer and ChatGPT creator Open AI's first-ever Developer Advocate hire. The week Logan started, ChatGPT hit 100 million users. During our conversation, Logan shares his journey from Illinois to Harvard, NASA, and now the world's most-watched tech",
+          "link": "https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/",
+          "publishedOn": "2024-02-23T16:18:47.000Z",
+          "wordCount": 800,
+          "title": "Podcast: What it's like working at ChatGPT Creator Open AI. My Interview with Logan Kilpatrick",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/logan-kilpatrick-freecodecamp-podcast-open-ai.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/",
+          "author": "Nathan Sebhastian",
+          "description": "The Fetch API is a JavaScript function that you can use to send a request to any Web API URL and get a response. In this article, I'm going to show you how to make HTTP requests to external APIs using the JavaScript Fetch API. You're going to learn how",
+          "link": "https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/",
+          "publishedOn": "2024-02-23T12:14:53.000Z",
+          "wordCount": 2283,
+          "title": "JavaScript Fetch API For Beginners – Explained With Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/javascript-fetch-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-typescript-interfaces-work/",
+          "author": "Sahil Mahapatra",
+          "description": "TypeScript, a superset of JavaScript, has gained widespread adoption among developers due to its ability to provide static typing, enhancing code robustness and maintainability. One of TypeScript's key features is interfaces, which play a pivotal role in defining the shape of objects, enabling type checking and facilitating better code organization.",
+          "link": "https://www.freecodecamp.org/news/how-typescript-interfaces-work/",
+          "publishedOn": "2024-02-23T10:59:53.000Z",
+          "wordCount": 1572,
+          "title": "How TypeScript Interfaces Work – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-2--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/",
+          "author": "Favour C. Felix",
+          "description": "Ever had to make a video call right on your browser with Google Meet, Zoom, or any other video chat app? Well, here’s what you might have never thought to ask—how does it work? Well, there are a number of things that make a real-time video chat application fully functional",
+          "link": "https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/",
+          "publishedOn": "2024-02-23T00:36:03.000Z",
+          "wordCount": 2332,
+          "title": "How to Build a Camera App on the Web – No Plugins Required",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/supercharged-animations.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/",
           "author": "James Charlesworth",
           "description": "For most of the history of CSS, selectors have been limited to targeting elements based on their parents in the DOM tree. Consider this HTML structure: \n     \nParagraph 1\n       \n     \t\nParagraph 2",
@@ -1387,56 +1437,6 @@
           "wordCount": 1402,
           "title": "Learn LangChain and Gen AI by Building 6 Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/LANGCHAINPROJ.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-units-when-to-use-each-one/",
-          "author": "Esther Christopher",
-          "description": "CSS units allow you to measure and specify different property values. You use them to modify CSS properties such as margins, padding, height, and width to make them compatible with devices of all screen sizes. CSS units have two basic types:  * Absolute units  * Relative units Absolute",
-          "link": "https://www.freecodecamp.org/news/css-units-when-to-use-each-one/",
-          "publishedOn": "2024-01-25T00:58:27.000Z",
-          "wordCount": 2387,
-          "title": "CSS Units – When to Use rem, em, px, and More",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-adonyi-ga-bor-1409216.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-the-first-line-of-a-multiline-string-in-javascript/",
-          "author": "Furkan Emin Can",
-          "description": "In JavaScript, getting the first element of an array or string is pretty easy. But when it comes to getting the first line of a multiline string, some approaches can hurt your app's performance in certain cases. In this article, we will look at the three best ways you can",
-          "link": "https://www.freecodecamp.org/news/how-to-get-the-first-line-of-a-multiline-string-in-javascript/",
-          "publishedOn": "2024-01-24T23:33:14.000Z",
-          "wordCount": 1191,
-          "title": "How to Get the First Line of a Multiline String in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/",
-          "author": "Matéush",
-          "description": "In this article, I will walk you through the process of publishing a Next.js application on GitHub Pages.  What makes this guide particularly helpful is that I'll teach you how to integrate with GitHub Actions, too. This means your application will be automatically deployed every time you push code",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/",
-          "publishedOn": "2024-01-24T22:46:53.000Z",
-          "wordCount": 2313,
-          "title": "How to Deploy Next.js Apps to Github Pages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Splash.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/best-vscode-extensions/",
-          "author": "Natalie Pina",
-          "description": "According to the 2023 Stack Overflow Developer Survey [https://survey.stackoverflow.co/2023/#section-most-popular-technologies-integrated-development-environment] , Visual Studio Code (also known as VSCode) ranked as the most preferred integrated developer environment (IDE) tool.  Visual Studio Code has many great features out-of-the-box, and supports a large community of extensions to add enhanced functionality.  Stack Overflow",
-          "link": "https://www.freecodecamp.org/news/best-vscode-extensions/",
-          "publishedOn": "2024-01-24T22:42:52.000Z",
-          "wordCount": 3149,
-          "title": "Visual Studio Code Extensions to Boost Your Productivity in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Group-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-back-up-and-restore-sql-azure-database/",
-          "author": "Alex Tray",
-          "description": "Microsoft's Azure’s provides many services via a single cloud, which lets them offer one solution for multiple corporate infrastructures. Teams use Azure because they value the opportunity to run SQL databases in the cloud and complete simple operations via the Azure portal.  But you'll need to have a way",
-          "link": "https://www.freecodecamp.org/news/how-to-back-up-and-restore-sql-azure-database/",
-          "publishedOn": "2024-01-24T22:34:09.000Z",
-          "wordCount": 2564,
-          "title": "How to Back Up and Restore Azure SQL Databases",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/maxresdefault.jpg"
         }
       ]
     }
