@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.",
+          "link": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
+          "publishedOn": "2024-02-27T12:00:00.000Z",
+          "wordCount": 5331,
+          "title": "Reporting Core Web Vitals With The Performance API",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
           "author": "hello@smashingmagazine.com (Yichan Wang)",
           "description": "Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.",
@@ -213,6 +228,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/regex-in-javascript/",
+          "author": "Samyak Jain",
+          "description": "Regular expressions, also known as regex, are powerful tools for pattern matching and text manipulation. Whether you're validating user input, extracting data from strings, or performing advanced text processing tasks, understanding regex is essential for developers. This comprehensive guide will walk you through the fundamentals of regular expressions in JavaScript,",
+          "link": "https://www.freecodecamp.org/news/regex-in-javascript/",
+          "publishedOn": "2024-02-27T20:17:37.000Z",
+          "wordCount": 6302,
+          "title": "Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Regular-Expressions-in-JavaScript-Cover-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/",
+          "author": "Matéush",
+          "description": "In this tutorial, I will show you how using indices to render an array of components in React can be problematic. I'll also teach you how to mitigate array rendering issues with unique ids. As always, we'll work on a real world example and solve problem I stumbled across while",
+          "link": "https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/",
+          "publishedOn": "2024-02-27T19:18:13.000Z",
+          "wordCount": 1876,
+          "title": "How to Render an Array of Components in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Array-components.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
+          "author": "Beau Carnes",
+          "description": "In the ever-evolving landscape of artificial intelligence, staying ahead of the curve is important for both enthusiasts and professionals alike. And one of the most popular elements of AI right now is Generative AI. We just posted a comprehensive course about Generative AI on the freeCodeCamp.org YouTube channel. This course,",
+          "link": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
+          "publishedOn": "2024-02-27T18:25:16.000Z",
+          "wordCount": 1028,
+          "title": "Learn Generative AI in 30 Hours",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/genai.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-typescript-generics-work/",
+          "author": "Sahil Mahapatra",
+          "description": "TypeScript, with its powerful type system, offers a feature called Generics, which enables developers to write reusable and type-safe code. Generics allow you to create components that can work over a variety of types rather than a single one. This article delves into TypeScript Generics, providing thorough explanations and code",
+          "link": "https://www.freecodecamp.org/news/how-typescript-generics-work/",
+          "publishedOn": "2024-02-27T13:45:54.000Z",
+          "wordCount": 1450,
+          "title": "How TypeScript Generics Work – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-ternary-operator-explained/",
+          "author": "Franklin Okolie",
+          "description": "Tired of bulky if-else statements? JavaScript's ternary operator offers a powerful solution. This handy tool lets you condense complex conditional logic into a single line, making your code cleaner, more elegant, and efficient. In this article, we'll take a deep dive into the ternary operator, understanding its syntax and showcasing",
+          "link": "https://www.freecodecamp.org/news/javascript-ternary-operator-explained/",
+          "publishedOn": "2024-02-27T13:04:50.000Z",
+          "wordCount": 2872,
+          "title": "How to Use the Ternary Operator in JavaScript – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/ternary-operator-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/tailwindcss-in-react-native-expo/",
+          "author": "John Caleb",
+          "description": "Tailwind CSS has been quite popular in the web development world due to its utility-first approach and seamless integration.  However, when developing mobile apps with React Native, integrating Tailwind CSS may be challenging. But guess what? Not anymore. With the development of tools such as NativeWind [https://www.nativewind.dev/], React Native",
+          "link": "https://www.freecodecamp.org/news/tailwindcss-in-react-native-expo/",
+          "publishedOn": "2024-02-27T09:22:11.000Z",
+          "wordCount": 2085,
+          "title": "How to Add Tailwind CSS to Your React Native Expo App",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/FREECODE-CAMP-DEFAULT-1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/sql-concepts-for-data-analysts/",
+          "author": "Joel Hereth",
+          "description": "In the vast and ever-growing realm of data analytics, Structured Query Language [/news/what-is-sql-database-definition-for-beginners/] (SQL) serves as a fundamental building block.  While SQL's roots lie in database management, it has expanded its reach, becoming the go-to tool for data extraction, manipulation, and analysis.  Whether you're just starting your journey",
+          "link": "https://www.freecodecamp.org/news/sql-concepts-for-data-analysts/",
+          "publishedOn": "2024-02-27T00:45:00.000Z",
+          "wordCount": 3065,
+          "title": "Essential SQL Concepts for Data Analysts – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Group-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/publish-google-docs-to-wordpress/",
+          "author": "Vikram Aruchamy",
+          "description": "WordPress is a popular content management system (CMS) known for its flexibility and user-friendly interface. But its built-in editor is not ideal for collaborative editing. Many publishers who work with writers need collaborative writing and editing features. This is where Google Docs comes into the picture. It’s a collaborative platform,",
+          "link": "https://www.freecodecamp.org/news/publish-google-docs-to-wordpress/",
+          "publishedOn": "2024-02-26T23:21:35.000Z",
+          "wordCount": 1846,
+          "title": "How to Publish Google Docs to WordPress in an SEO-Optimized Way",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/fcc-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/",
+          "author": "Nathan Sebhastian",
+          "description": "The Geolocation API is a standard API implemented in browsers to retrieve the location of the people who are interacting with a web application. This API enable users to send their location to a web application to enable relevant services, such as seeking a restaurant or hotel near the user.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/",
+          "publishedOn": "2024-02-26T22:34:24.000Z",
+          "wordCount": 1745,
+          "title": "How to Use the Geolocation API in JavaScript – with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/js-geolocation-api-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/hard-parts-of-react/",
+          "author": "Jaja Ibifubara David",
+          "description": "Have you started learning React, only to face bugs that made you contemplate a career in goat herding? Don't worry – we've all been there.  In this guide, you'll join me on a quest through the quirky wonders of React. I'll help you navigate the perplexing moments, ensuring you",
+          "link": "https://www.freecodecamp.org/news/hard-parts-of-react/",
+          "publishedOn": "2024-02-26T21:07:53.000Z",
+          "wordCount": 3481,
+          "title": "How to Learn the Hard Parts of React – and Tips to Conquer Them",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Article-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/performance-testing-for-web-applications/",
           "author": "oluwatobi Joshua",
@@ -1352,16 +1467,6 @@
           "wordCount": 2141,
           "title": "Less Common HTML Tags You Should Know – With Example Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Exotic-HTML-TAGS-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/set-up-authentication-in-apps-with-supabase/",
-          "author": "Fatuma Abdullahi",
-          "description": "In this article, you'll learn the basic key concepts that'll help you grasp how authentication and authorization work.  You'll start by learning what authentication and authorization are, and then learn how to implement authentication in your applications using Supabase auth. Table of Contents  *  Prerequisites",
-          "link": "https://www.freecodecamp.org/news/set-up-authentication-in-apps-with-supabase/",
-          "publishedOn": "2024-01-29T10:53:38.000Z",
-          "wordCount": 3020,
-          "title": "How to Set Up Authentication in Your Apps with Supabase Auth",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Group-3--9-.png"
         }
       ]
     }
