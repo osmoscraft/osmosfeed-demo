@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.",
+          "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/",
+          "publishedOn": "2024-03-01T12:00:00.000Z",
+          "wordCount": 6321,
+          "title": "Modern CSS Tooltips And Speech Bubbles (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!",
@@ -213,6 +228,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-lists-in-python/",
+          "author": "Sahil Mahapatra",
+          "description": "In Python, lists are a cornerstones of data organization and manipulation – so I think they deserve a thorough exploration.  This article delves into how to create and manipulate lists in Python, some advanced functionalities, and some practical applications of lists. You can get all the source code from",
+          "link": "https://www.freecodecamp.org/news/how-to-use-lists-in-python/",
+          "publishedOn": "2024-03-01T20:02:25.000Z",
+          "wordCount": 4159,
+          "title": "How to Use Lists in Python – Explained with Example Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-2-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/caching-vs-content-delivery-network/",
+          "author": "Anamika Ahmed",
+          "description": "In the world of network optimization, Content Delivery Networks (CDNs) and caching play a vital role in improving website performance and user experience.  And while both aim to speed up website loading times, they have distinct purposes and mechanisms.  In this tutorial, we'll dive deep into the details",
+          "link": "https://www.freecodecamp.org/news/caching-vs-content-delivery-network/",
+          "publishedOn": "2024-03-01T19:27:51.000Z",
+          "wordCount": 2872,
+          "title": "Caching vs Content Delivery Networks – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Conducting-Research-Projects-Educational-Presentation-in-Pink-and-Yellow-Colorful-Line-Style-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-convert-files-to-gzip-on-windows/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "You may often need to compress files and folders for various reasons. And \"Gzip\" compression is a good choice for many scenarios.  Recently, I have faced an issue where I needed to compress a lot of files individually, and manual intervention to compress each file one by one using",
+          "link": "https://www.freecodecamp.org/news/how-to-convert-files-to-gzip-on-windows/",
+          "publishedOn": "2024-03-01T19:15:53.000Z",
+          "wordCount": 1355,
+          "title": "How to Compress Files to \".gz\" on the Windows Operating System",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/freeCodeCamp---Fahim.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-ai-and-the-future-of-education-with-seth-goldin/",
+          "author": "Quincy Larson",
+          "description": "In this week's episode of the podcast, freeCodeCamp founder Quincy Larson discusses AI and the future of education with Seth Goldin.  Among other things, Seth is co-founder of College Compendium, an education charity, and studies computer science at Yale. Also, the quote Quincy mentioned during the conversation about AI",
+          "link": "https://www.freecodecamp.org/news/podcast-ai-and-the-future-of-education-with-seth-goldin/",
+          "publishedOn": "2024-03-01T17:47:29.000Z",
+          "wordCount": 788,
+          "title": "Podcast – AI and the Future of Education with Seth Goldin",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/seth-goldin-freecodecamp-podcast.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-for-beginners-handbook/",
+          "author": "Nathan Sebhastian",
+          "description": "The goal of this handbook is to provide gentle step-by-step instructions that will help you learn the key concepts of React. Instead of covering all the theories and concepts of React in their entirety, I'll be teaching you important building blocks of the library. You'll learn about JSX, components, props,",
+          "link": "https://www.freecodecamp.org/news/react-for-beginners-handbook/",
+          "publishedOn": "2024-03-01T00:34:46.000Z",
+          "wordCount": 8429,
+          "title": "Learn React – A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Learn-React-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/java-methods/",
           "author": "Valentine Gatwiri",
@@ -1392,36 +1457,6 @@
           "wordCount": 2799,
           "title": "How to Use Shadcn with Next.js 14",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-dynamic-segments-in-react-router/",
-          "author": "Alex Anie",
-          "description": "On a traditional website, when a user clicks on a URL, the browser makes a full-page request from the server and directs the user to a new page. This is referred to as static routing. This is very useful if you just need to navigate the user to a new",
-          "link": "https://www.freecodecamp.org/news/use-dynamic-segments-in-react-router/",
-          "publishedOn": "2024-01-31T22:34:08.000Z",
-          "wordCount": 4621,
-          "title": "How to Implement Dynamic Segments with useParams in React Router",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Dynamic-Segment-in-react-router-800x418.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/",
-          "author": "Beau Carnes",
-          "description": "The GitHub Foundations Certification was released just a few weeks ago. And you can now watch a 9-hour exam prep course on the freeCodeCamp.org YouTube channel! Andrew Brown from ExamPro created this course. He has created a bunch of popular exam prep courses for the freeCodeCamp.org YouTube channel. This certification",
-          "link": "https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/",
-          "publishedOn": "2024-01-31T21:54:55.000Z",
-          "wordCount": 1055,
-          "title": "Pass the GitHub Foundations Certification",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/githubfoundations.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nth-child-vs-nth-of-type-selector-in-css/",
-          "author": "Oluwatobi Sofela",
-          "description": "The :nth-child() and :nth-of-type() CSS selectors select items from a group of HTML elements. But they work in different ways. Here is the main distinction between them: nth-child() selects its items from any group of elements. nth-of-type() selects its items from a specified type of element. * :nth-child() selects items",
-          "link": "https://www.freecodecamp.org/news/nth-child-vs-nth-of-type-selector-in-css/",
-          "publishedOn": "2024-01-31T18:33:32.000Z",
-          "wordCount": 2866,
-          "title": "nth-child() vs nth-of-type() Selectors in CSS – What’s the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/nth-child-vs-nth-of-type-css-selector-freecodecamp-featured-codesweetly.jpg"
         }
       ]
     }
