@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-09T00:52:54.139Z</updated>
+    <updated>2024-03-10T00:58:45.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom API Gateway with Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/"/>
+        <updated>2024-03-08T23:16:38.000Z</updated>
+        <summary type="html"><![CDATA[In the era of microservices [https://www.brightsidecodes.com/blog/understanding-microservices-and-api-gateway] , where applications are divided into smaller, independently deployable services, managing and securing the communication between these services becomes crucial. This is where an API gateway comes into play.  An API gateway serves as a central entry point for all client requests. It]]></summary>
+        <author>
+            <name>Iroro Chadere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-Side Form Handling with JavaScript – Explained with Example Code]]></title>
+        <id>https://www.freecodecamp.org/news/form-validation-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/form-validation-in-javascript/"/>
+        <updated>2024-03-08T21:10:35.000Z</updated>
+        <summary type="html"><![CDATA[HTML forms are essential components of most websites and web apps. They enable interaction between users and those websites, and are a key concept for web developers to understand.  This comprehensive guide covers various aspects of HTML forms, from how to create and structure forms to JavaScript interaction and]]></summary>
+        <author>
+            <name>Samyak Jain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Success At Scale: Last Chance For Pre-Sale Price]]></title>
         <id>https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/</id>
@@ -1219,66 +1239,6 @@ Paragraph 2]]></summary>
         <summary type="html"><![CDATA[A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Animations in React 18]]></title>
-        <id>https://www.freecodecamp.org/news/create-animations-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/create-animations-in-react/"/>
-        <updated>2024-02-08T23:51:27.000Z</updated>
-        <summary type="html"><![CDATA[We are surrounded by gorgeous web applications. Sometimes I catch myself admiring visual effects on some website and wondering how they were made.  Well today I'll show you how you can create awesome CSS animations in React 18. As always, we'll work on the real world example but we'll]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Spread and Rest Operators – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/"/>
-        <updated>2024-02-08T23:27:05.000Z</updated>
-        <summary type="html"><![CDATA[In modern JavaScript, the spread and rest operators are indispensable tools for simplifying array manipulation and function parameters. These operators provide elegant solutions for tasks like array expansion and function arguments handling.  Let's dive deeper into understanding how they work so you can leverage their power. You can get]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Download a Kaggle Dataset Directly to a Google Colab Notebook]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/"/>
-        <updated>2024-02-08T19:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Kaggle [https://www.kaggle.com/]is a popular data science-based competition platform that has a large online community of data scientists and machine learning engineers. The platform contains a ton of datasets and notebooks that you can use to learn and practice your data science and machine learning skills. They even have competitions you]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Learn Golang – A Beginner's Guide to the Basics]]></title>
-        <id>https://www.freecodecamp.org/news/golang-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/golang-for-beginners/"/>
-        <updated>2024-02-08T17:12:33.000Z</updated>
-        <summary type="html"><![CDATA[The Go programming language, also known as Golang, was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was open-sourced in 2009.  Go is expressive, concise, clean, and efficient. The language is statically typed with syntax similar to the C programming language.  Go]]></summary>
-        <author>
-            <name>Adeola Ajiboso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn ASP.NET Core by Building an Auction Application]]></title>
-        <id>https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/</id>
-        <link href="https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/"/>
-        <updated>2024-02-08T16:22:49.000Z</updated>
-        <summary type="html"><![CDATA[ASP.NET course can be used to create robust, scalable, and dynamic applications. We just posted a course on the freeCodeCamp.org YouTube channel that is an opportunity for learners to dive deep into the world of fullstack development using ASP.NET Core. Alen Omeri designed the course to guide you through the]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frequently Heard In My Beginning Front-End Web Development Class]]></title>
-        <id>https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/</id>
-        <link href="https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/"/>
-        <updated>2024-02-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>

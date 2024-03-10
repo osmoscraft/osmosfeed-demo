@@ -205,21 +205,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/draw-radar-charts-web/draw-radar-charts-web.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.",
-          "link": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
-          "publishedOn": "2024-02-08T13:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Frequently Heard In My Beginning Front-End Web Development Class",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg"
         }
       ]
     },
@@ -228,6 +213,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/",
+          "author": "Iroro Chadere",
+          "description": "In the era of microservices [https://www.brightsidecodes.com/blog/understanding-microservices-and-api-gateway] , where applications are divided into smaller, independently deployable services, managing and securing the communication between these services becomes crucial. This is where an API gateway comes into play.  An API gateway serves as a central entry point for all client requests. It",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/",
+          "publishedOn": "2024-03-08T23:16:38.000Z",
+          "wordCount": 2539,
+          "title": "How to Build a Custom API Gateway with Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Building-custom-API-gateway.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/form-validation-in-javascript/",
+          "author": "Samyak Jain",
+          "description": "HTML forms are essential components of most websites and web apps. They enable interaction between users and those websites, and are a key concept for web developers to understand.  This comprehensive guide covers various aspects of HTML forms, from how to create and structure forms to JavaScript interaction and",
+          "link": "https://www.freecodecamp.org/news/form-validation-in-javascript/",
+          "publishedOn": "2024-03-08T21:10:35.000Z",
+          "wordCount": 5511,
+          "title": "Client-Side Form Handling with JavaScript – Explained with Example Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Gemini_Generated_Image--19-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/",
           "author": "Quincy Larson",
@@ -1307,56 +1312,6 @@
           "wordCount": 3318,
           "title": "How to Use Data Types in Python – Explained with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Python-Data-Types.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-animations-in-react/",
-          "author": "Matéush",
-          "description": "We are surrounded by gorgeous web applications. Sometimes I catch myself admiring visual effects on some website and wondering how they were made.  Well today I'll show you how you can create awesome CSS animations in React 18. As always, we'll work on the real world example but we'll",
-          "link": "https://www.freecodecamp.org/news/create-animations-in-react/",
-          "publishedOn": "2024-02-08T23:51:27.000Z",
-          "wordCount": 1968,
-          "title": "How to Create Animations in React 18",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Animations-splash--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/",
-          "author": "Sahil Mahapatra",
-          "description": "In modern JavaScript, the spread and rest operators are indispensable tools for simplifying array manipulation and function parameters. These operators provide elegant solutions for tasks like array expansion and function arguments handling.  Let's dive deeper into understanding how they work so you can leverage their power. You can get",
-          "link": "https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/",
-          "publishedOn": "2024-02-08T23:27:05.000Z",
-          "wordCount": 1513,
-          "title": "JavaScript Spread and Rest Operators – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Kaggle [https://www.kaggle.com/]is a popular data science-based competition platform that has a large online community of data scientists and machine learning engineers. The platform contains a ton of datasets and notebooks that you can use to learn and practice your data science and machine learning skills. They even have competitions you",
-          "link": "https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/",
-          "publishedOn": "2024-02-08T19:39:00.000Z",
-          "wordCount": 2186,
-          "title": "How to Download a Kaggle Dataset Directly to a Google Colab Notebook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Kaggle-to-Colab.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/golang-for-beginners/",
-          "author": "Adeola Ajiboso",
-          "description": "The Go programming language, also known as Golang, was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was open-sourced in 2009.  Go is expressive, concise, clean, and efficient. The language is statically typed with syntax similar to the C programming language.  Go",
-          "link": "https://www.freecodecamp.org/news/golang-for-beginners/",
-          "publishedOn": "2024-02-08T17:12:33.000Z",
-          "wordCount": 4061,
-          "title": "How to Learn Golang – A Beginner's Guide to the Basics",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/",
-          "author": "Beau Carnes",
-          "description": "ASP.NET course can be used to create robust, scalable, and dynamic applications. We just posted a course on the freeCodeCamp.org YouTube channel that is an opportunity for learners to dive deep into the world of fullstack development using ASP.NET Core. Alen Omeri designed the course to guide you through the",
-          "link": "https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/",
-          "publishedOn": "2024-02-08T16:22:49.000Z",
-          "wordCount": 1153,
-          "title": "Learn ASP.NET Core by Building an Auction Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/aspnet.png"
         }
       ]
     }
