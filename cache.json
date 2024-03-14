@@ -190,21 +190,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/accessibility-standards-empower-better-chart-visual-design/accessibility-standards-empower-better-chart-visual-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/practical-guide-design-children/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How to design for children aged 3–12, with insights into user behavior, considerations for parents, and practical UX guidelines.",
-          "link": "https://smashingmagazine.com/2024/02/practical-guide-design-children/",
-          "publishedOn": "2024-02-13T12:00:00.000Z",
-          "wordCount": 3573,
-          "title": "A Practical Guide To Designing For Children",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/practical-guide-design-children/practical-guide-design-children.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/practical-guide-design-children/practical-guide-design-children.jpg"
         }
       ]
     },
@@ -213,6 +198,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-better-ai-workflows-with-langchain/",
+          "author": "Manish Shivanandhan",
+          "description": "Have you ever wondered how to use Large Language Models (LLMs) like ChatGPT in your app? Yes, there is the OpenAI API. You can use it to generate responses based on prompts. But what if you want to build a complex application with LLMs integrated tightly into the user experience?",
+          "link": "https://www.freecodecamp.org/news/how-to-build-better-ai-workflows-with-langchain/",
+          "publishedOn": "2024-03-13T13:38:40.000Z",
+          "wordCount": 1255,
+          "title": "How to Build Better AI Workflows with Langchain",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/1700940849777.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/",
+          "author": "Jessica Wilkins",
+          "description": "Arrays are common data structures in JavaScript, and it is important to know how to work with them. Common operations on arrays include adding or removing elements from the beginning, end or at a specific index. In this article, you will learn how to work with the built in JavaScript",
+          "link": "https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/",
+          "publishedOn": "2024-03-13T12:34:33.000Z",
+          "wordCount": 1945,
+          "title": "How to Add and Remove Elements from Arrays in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/mohammad-rahmani-unwXUc_Pqi4-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-task-app/",
+          "author": "Fatuma Abdullahi",
+          "description": "In this article, you'll build a task manager application that has some artificial intelligence capabilities and is voice-enabled, sortable, and searchable.  As an extra, the application will have dark mode support that respects the users' system preferences. The application will be able to create, read, update and delete (CRUD)",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-task-app/",
+          "publishedOn": "2024-03-13T09:21:45.000Z",
+          "wordCount": 9350,
+          "title": "How to Build an AI-enhanced Task App with React and Appwrite",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-3--20-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/",
           "author": "Beau Carnes",
@@ -1262,66 +1277,6 @@
           "wordCount": 6684,
           "title": "How to Build a Custom HTML5 Video Player Using TailwindCSS and JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/how-to-build-a-custom-video-player-using-tailwindcss-and-javascript.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/greater-than-and-less-than-operators-in-js/",
-          "author": "Jessica Wilkins",
-          "description": "In your JavaScript programs, you'll often need to compare two values to see if one is greater than or less than the other. This is where the greater than and less than operators come in handy. In this article, we'll look at how to use these operators in greater detail",
-          "link": "https://www.freecodecamp.org/news/greater-than-and-less-than-operators-in-js/",
-          "publishedOn": "2024-02-13T11:02:26.000Z",
-          "wordCount": 1762,
-          "title": "How to Use the Greater Than and Less Than Operators in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-pixabay-417173--3-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deboucing-in-react-autocomplete-example/",
-          "author": "Kunal Nalawade",
-          "description": "Hi readers, I hope you are doing great! I am back with another tutorial on web development. If you are someone who enjoys developing web apps with JavaScript and React, then this post is for you. When you roll out a new app into production, you want to make sure",
-          "link": "https://www.freecodecamp.org/news/deboucing-in-react-autocomplete-example/",
-          "publishedOn": "2024-02-12T23:23:30.000Z",
-          "wordCount": 2811,
-          "title": "Debouncing in JavaScript – Explained by Building Auto-Complete Functionality in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/photo-1550063873-ab792950096b.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/queryselector-method-javascript/",
-          "author": "Jessica Wilkins",
-          "description": "In JavaScript, there will be times when you need to access an HTML element. The  querySelector method is a web API that selects the first element that matches the specified CSS selector passed into it. But how does this work in more detail? In this article, we will look",
-          "link": "https://www.freecodecamp.org/news/queryselector-method-javascript/",
-          "publishedOn": "2024-02-12T23:00:54.000Z",
-          "wordCount": 1729,
-          "title": "What is the querySelector() Method and How Does it Work in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/fili-santillan-qp51FQhBnS0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/short-circuiting-in-javascript/",
-          "author": "Sahil Mahapatra",
-          "description": "In JavaScript, understanding truthy and falsy values is fundamental to writing efficient and concise code. Combined with the concept of short-circuiting, developers can write elegant solutions to common programming challenges.  In this hands-on guide, we'll explore truthy and falsy values, and understand the mechanics of short-circuiting in JavaScript. You",
-          "link": "https://www.freecodecamp.org/news/short-circuiting-in-javascript/",
-          "publishedOn": "2024-02-12T18:38:38.000Z",
-          "wordCount": 1494,
-          "title": "How Does Short-Circuiting Work in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/compare-two-dates-in-javascript/",
-          "author": "Kamaldeen Lawal",
-          "description": "In JavaScript, you can use the date object to work effectively with dates, times, and time zones within an application.  Date objects help you efficiently manipulate data, handle various date-related tasks, and perform some calculations when creating real-world applications. In this article, we will learn about the following topics:",
-          "link": "https://www.freecodecamp.org/news/compare-two-dates-in-javascript/",
-          "publishedOn": "2024-02-12T17:57:17.000Z",
-          "wordCount": 2871,
-          "title": "How to Compare Two Dates in JavaScript – Techniques, Methods, and Best Practices",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Python-Data-Types--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-improve-communication-skills/",
-          "author": "Tooba Jamal",
-          "description": "You built an application that solves a problem most business owners face. You registered yourself at a local event to speak about your product, but no one cares. You try selling it on social media groups, but don't receive more than \"Wow, that's an interesting idea.\" Do these sound familiar?",
-          "link": "https://www.freecodecamp.org/news/how-to-improve-communication-skills/",
-          "publishedOn": "2024-02-12T13:03:19.000Z",
-          "wordCount": 1972,
-          "title": "How to Improve Your Communication Skills as a Developer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/cover-photo.jpg"
         }
       ]
     }
