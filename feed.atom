@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T00:56:17.222Z</updated>
+    <updated>2024-03-19T00:55:03.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Data in Transit using HMAC and Diffie-Hellman in Node.js [Full Handbook]]]></title>
+        <id>https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/</id>
+        <link href="https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/"/>
+        <updated>2024-03-18T23:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Data integrity refers to the assurance that data remains accurate, unaltered, and consistent throughout its lifecycle. In communication, it is crucial to ensure data integrity to safeguard against unintended alterations and malicious interventions during transmission. The integrity of Digital Data is accomplished using Hashing Algorithms. The  crypto module in]]></summary>
+        <author>
+            <name>Hamdaan Ali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Control the Brightness of an LED with a Potentiometer]]></title>
+        <id>https://www.freecodecamp.org/news/control-led-with-potentiometer/</id>
+        <link href="https://www.freecodecamp.org/news/control-led-with-potentiometer/"/>
+        <updated>2024-03-18T19:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Potentiometers are used in various electronic circuits and systems. You can use them in electronic devices to control volume, brightness, motor speed, voltage regulation, and so on. You've most likely used a potentiometer before with appliances like radios, microwaves, blenders, electric fans, game controllers, and others. They are generally used]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Linked list? Types of Linked List with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-linked-list-types-and-examples/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-linked-list-types-and-examples/"/>
+        <updated>2024-03-18T15:25:17.000Z</updated>
+        <summary type="html"><![CDATA[A linked list is a linear data structure consisting of a sequence of nodes. Unlike arrays, linked lists do not require contiguous memory allocation. Instead, each node is dynamically allocated its own memory space.  Nodes are connected through references, forming the linked structure. One advantage of linked lists is]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate Your Local Data to MongoDB Atlas]]></title>
+        <id>https://www.freecodecamp.org/news/mongodb-data-migration/</id>
+        <link href="https://www.freecodecamp.org/news/mongodb-data-migration/"/>
+        <updated>2024-03-18T14:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Data forms the bedrock of our daily lives, as a lot of day-to-day decision-making is hinged on its existence. Just like energy, data can be transformed from one medium to another. So far, web development has become much more advanced, and data migration and backup is an essential skill every]]></summary>
+        <author>
+            <name>oluwatobi Joshua</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Prettier in Visual Studio Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-prettier-in-visual-studio-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-prettier-in-visual-studio-code/"/>
+        <updated>2024-03-18T12:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Nowadays, every tech company strives to build quality software fast. That's why every developer must learn how to write clean and readable code.  But when a project is managed by multiple developers, the focus shifts into consistency especially in terms of written code.  Keeping a consistent code style]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Reactive Programming? Beginner's Guide to Writing Reactive Code]]></title>
+        <id>https://www.freecodecamp.org/news/reactive-programming-beginner-guide/</id>
+        <link href="https://www.freecodecamp.org/news/reactive-programming-beginner-guide/"/>
+        <updated>2024-03-18T09:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to our journey through the dynamic world of reactive programming! This fascinating paradigm is all about building responsive, resilient, and adaptable applications that effortlessly manage vast amounts of data almost instantly. Imagine writing a program that needs to react instantly to changes—be it user inputs, messages from other systems,]]></summary>
+        <author>
+            <name>Pacifique LINJANJA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual DOM vs Shadow DOM – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/virtual-dom-vs-shadow-dom/</id>
+        <link href="https://www.freecodecamp.org/news/virtual-dom-vs-shadow-dom/"/>
+        <updated>2024-03-18T08:22:16.000Z</updated>
+        <summary type="html"><![CDATA[In web development, understanding the inner workings of the Document Object Model (DOM) is crucial. Two concepts that often come up in discussions about DOM are Virtual DOM and Shadow DOM. While they sound similar, they serve different purposes and have distinct characteristics.  In this comprehensive guide, we'll delve]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Figma / Miro Style Canvas with React and TypeScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-figma-miro-style-canvas-with-react-and-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-figma-miro-style-canvas-with-react-and-typescript/"/>
+        <updated>2024-03-16T12:59:43.000Z</updated>
+        <summary type="html"><![CDATA[Miro and Figma are online collaborative canvas type tools that became very popular during the pandemic.  Instead of sticking post it notes on a physical wall, you can now add virtual post its (and a dizzying array of other things) to a virtual canvas. This lets teams collaborate virtually]]></summary>
+        <author>
+            <name>cedd burge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the iOS Privacy Manifest Means for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/what-the-ios-privacy-manifest-means-for-developers/</id>
+        <link href="https://www.freecodecamp.org/news/what-the-ios-privacy-manifest-means-for-developers/"/>
+        <updated>2024-03-15T16:56:05.000Z</updated>
+        <summary type="html"><![CDATA[At WWDC 2023 [https://developer.apple.com/videos/play/wwdc2023/10060], Apple introduced us to a new bundle resource that is going to be added to every application and library: the privacy manifest. A lot has been written since then about this subject but without that much clarity. When first announced, Apple stated that in the Spring]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Stay-at-Home Mom to Developer at Age 36 [freeCodeCamp Podcast #115]]]></title>
+        <id>https://www.freecodecamp.org/news/stay-at-home-mom-to-developer-podcast/</id>
+        <link href="https://www.freecodecamp.org/news/stay-at-home-mom-to-developer-podcast/"/>
+        <updated>2024-03-15T14:35:20.000Z</updated>
+        <summary type="html"><![CDATA[This week I interview Phoebe Voong-Fadel about her childhood as the daughter of refugees, and how she self-studied coding and became a professional developer at the age of 36. Phoebe worked from age 12 at her parent's Chinese take-out restaurant. She was able to study history at the London]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Back End Developer Roadmap]]></title>
         <id>https://www.freecodecamp.org/news/back-end-developer/</id>
