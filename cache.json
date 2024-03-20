@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
+          "author": "hello@smashingmagazine.com (Krisztina Szerovay)",
+          "description": "How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)",
+          "link": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
+          "publishedOn": "2024-03-18T18:00:00.000Z",
+          "wordCount": 7695,
+          "title": "Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/03/event-calendars-web-commercial-options/",
           "author": "hello@smashingmagazine.com (Preethi Sam)",
           "description": "Collection of top-notch calendar components for seamless event scheduling. Whether you prefer ready-to-use setups or enjoy tweaking code for a tailored experience, these calendars have you covered.",
@@ -160,21 +175,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-for-colorblindness/designing-for-colorblindness.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/",
-          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
-          "description": "Accessibility goes beyond making products user-friendly. It can significantly impact the quality of life for people with disabilities. Kate Kalcevich shares lessons she learned from assistive technology users — challenges and barriers they encounter on mobile devices.",
-          "link": "https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/",
-          "publishedOn": "2024-02-19T10:00:00.000Z",
-          "wordCount": 4668,
-          "title": "Mobile Accessibility Barriers For Assistive Technology Users",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/mobile-accessibility-barriers-assistive-technology-users/mobile-accessibility-barriers-assistive-technology-users.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/mobile-accessibility-barriers-assistive-technology-users/mobile-accessibility-barriers-assistive-technology-users.jpg"
         }
       ]
     },
@@ -183,6 +183,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/",
+          "author": "Beau Carnes",
+          "description": "Spring Boot 3 is an advanced framework that simplifies the development of new Spring applications through convention over configuration, providing a range of out-of-the-box functionalities for building enterprise-grade applications efficiently. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to develop apps with Spring",
+          "link": "https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/",
+          "publishedOn": "2024-03-19T14:57:37.000Z",
+          "wordCount": 1134,
+          "title": "Learn App Development with Spring Boot 3",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/javaspringboot.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-always-have-a-buildcontext-in-flutter-outside-ui-code/",
+          "author": "Obumuneme Nwabude",
+          "description": "The BuildContext provides important app-wide configuration information to all widgets in the widget tree. It is always naturally available in build methods and within State classes.  In this article, we will explore how we can obtain a valid BuildContext outside the scope of its natural availability. Table Of Contents",
+          "link": "https://www.freecodecamp.org/news/how-to-always-have-a-buildcontext-in-flutter-outside-ui-code/",
+          "publishedOn": "2024-03-19T14:42:46.000Z",
+          "wordCount": 2061,
+          "title": "How to Always Have A BuildContext in Flutter Outside of UI Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Untitled-design.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/",
           "author": "Hamdaan Ali",

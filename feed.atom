@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T00:55:03.336Z</updated>
+    <updated>2024-03-20T00:54:47.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn App Development with Spring Boot 3]]></title>
+        <id>https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/</id>
+        <link href="https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/"/>
+        <updated>2024-03-19T14:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Spring Boot 3 is an advanced framework that simplifies the development of new Spring applications through convention over configuration, providing a range of out-of-the-box functionalities for building enterprise-grade applications efficiently. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to develop apps with Spring]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Always Have A BuildContext in Flutter Outside of UI Code]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-always-have-a-buildcontext-in-flutter-outside-ui-code/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-always-have-a-buildcontext-in-flutter-outside-ui-code/"/>
+        <updated>2024-03-19T14:42:46.000Z</updated>
+        <summary type="html"><![CDATA[The BuildContext provides important app-wide configuration information to all widgets in the widget tree. It is always naturally available in build methods and within State classes.  In this article, we will explore how we can obtain a valid BuildContext outside the scope of its natural availability. Table Of Contents]]></summary>
+        <author>
+            <name>Obumuneme Nwabude</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Protect Data in Transit using HMAC and Diffie-Hellman in Node.js [Full Handbook]]]></title>
         <id>https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/</id>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[Potentiometers are used in various electronic circuits and systems. You can use them in electronic devices to control volume, brightness, motor speed, voltage regulation, and so on. You've most likely used a potentiometer before with appliances like radios, microwaves, blenders, electric fans, game controllers, and others. They are generally used]]></summary>
         <author>
             <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023]]></title>
+        <id>https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/</id>
+        <link href="https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/"/>
+        <updated>2024-03-18T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Krisztina Szerovay)</name>
         </author>
     </entry>
     <entry>
@@ -1119,16 +1149,6 @@ Paragraph 2]]></summary>
         <summary type="html"><![CDATA[Carousels or image sliders are an integral part of many web applications. They help you group multiple elements in a single view. Using carousels, you can implement image slides, video slides, text slides, interactive image galleries, product catalogs, team profiles, and more. Swiper.js [https://swiperjs.com/] comes with powerful functionalities that make]]></summary>
         <author>
             <name>Alex Anie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Accessibility Barriers For Assistive Technology Users]]></title>
-        <id>https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/</id>
-        <link href="https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/"/>
-        <updated>2024-02-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility goes beyond making products user-friendly. It can significantly impact the quality of life for people with disabilities. Kate Kalcevich shares lessons she learned from assistive technology users — challenges and barriers they encounter on mobile devices.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
         </author>
     </entry>
 </feed>
