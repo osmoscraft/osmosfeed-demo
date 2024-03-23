@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-22T00:54:59.689Z</updated>
+    <updated>2024-03-23T00:54:04.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accessible Forms with Pseudo Classes]]></title>
+        <id>https://css-tricks.com/?p=377565</id>
+        <link href="https://css-tricks.com/accessible-forms-with-pseudo-classes/"/>
+        <updated>2024-03-22T18:52:31.000Z</updated>
+        <summary type="html"><![CDATA[Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …
+Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris DeMars</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Architect to Developer at GitHub with Jessica Lord [freeCodeCamp Podcast #116]]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/"/>
+        <updated>2024-03-22T14:51:00.000Z</updated>
+        <summary type="html"><![CDATA[In this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Jessica Lord, AKA JLord. She's worked as a software engineer for more than a decade at companies like GitHub and Glitch. Among her many accomplishments, Jessica created the Electon team at GitHub. Electron is a library for building]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crafting Experiences: Uniting Rikyu’s Wisdom With Brand Experience Principles]]></title>
         <id>https://smashingmagazine.com/2024/03/uniting-rikyu-wisdom-brand-experience-principles/</id>
@@ -1069,46 +1090,6 @@ Paragraph 2]]></summary>
         <summary type="html"><![CDATA[How do you run a game created for the web in fullscreen? In this quick tutorial, you'll see how to display a game or any other HTML element in fullscreen, how to exit fullscreen, and how to make a nice fullscreen toggle button in SVG. Recently I published a long]]></summary>
         <author>
             <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the JavaScript Map and Set Objects – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/"/>
-        <updated>2024-02-21T21:39:50.000Z</updated>
-        <summary type="html"><![CDATA[Map and Set are two JavaScript data structures you can use to store a collection of values, similar to Objects and Arrays. They are specialized data structures that can help you store and manipulate related values.  In this tutorial, we will see how Map and Set work in detail]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) 2024 UPDATE – Pass the Exam With This Free 4 Hour Course]]></title>
-        <id>https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/</id>
-        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
-        <updated>2024-02-21T15:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. The certification has recently been updated for 2024 and I've released an updated course to teach you how to pass the exam. In the last decade companies have been collecting]]></summary>
-        <author>
-            <name>Andrew Brown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Type Aliases work in TypeScript – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-typescript-type-aliases-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-typescript-type-aliases-work/"/>
-        <updated>2024-02-21T14:14:40.000Z</updated>
-        <summary type="html"><![CDATA[One of TypeScript's powerful features is type aliases, which allow developers to create custom names for types, enhancing code readability and maintainability. In this article, we'll explore TypeScript type aliases through examples. Table of Contents  * TypeScript Type Aliases  * Examples  * Conclusion What are Type Aliases]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use Node Version Manager In Your React Projects]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/"/>
-        <updated>2024-02-21T13:51:21.000Z</updated>
-        <summary type="html"><![CDATA[In this guide,  you'll learn how to effectively manage multiple Node versions for different projects using Node Version Manager (NVM). Whether you're developing React, Angular, Vue.js, or Node applications, you can always use NVM to set up the project and tailor it down to a specific Node version. Prerequisites Before]]></summary>
-        <author>
-            <name>Matéush</name>
         </author>
     </entry>
 </feed>

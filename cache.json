@@ -4,7 +4,18 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=377565",
+          "author": "Chris DeMars",
+          "description": "Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …\nAccessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/accessible-forms-with-pseudo-classes/",
+          "publishedOn": "2024-03-22T18:52:31.000Z",
+          "wordCount": 1946,
+          "title": "Accessible Forms with Pseudo Classes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377565"
+        }
+      ]
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -198,6 +209,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/",
+          "author": "Quincy Larson",
+          "description": "In this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Jessica Lord, AKA JLord. She's worked as a software engineer for more than a decade at companies like GitHub and Glitch. Among her many accomplishments, Jessica created the Electon team at GitHub. Electron is a library for building",
+          "link": "https://www.freecodecamp.org/news/podcast-jlord-jessica-lord/",
+          "publishedOn": "2024-03-22T14:51:00.000Z",
+          "wordCount": 892,
+          "title": "From Architect to Developer at GitHub with Jessica Lord [freeCodeCamp Podcast #116]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Jessica-Lord-JLord-GitHub-Dev-freeCodeCamp-Podcast.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-typescript-for-practical-projects/",
           "author": "Beau Carnes",
@@ -1137,46 +1158,6 @@
           "wordCount": 2231,
           "title": "How to use the Fullscreen API in JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Untitled.022.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/",
-          "author": "Nathan Sebhastian",
-          "description": "Map and Set are two JavaScript data structures you can use to store a collection of values, similar to Objects and Arrays. They are specialized data structures that can help you store and manipulate related values.  In this tutorial, we will see how Map and Set work in detail",
-          "link": "https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/",
-          "publishedOn": "2024-02-21T21:39:50.000Z",
-          "wordCount": 2388,
-          "title": "How to Use the JavaScript Map and Set Objects – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/javascript-mat-and-set-objects-introduction.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
-          "author": "Andrew Brown",
-          "description": "The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. The certification has recently been updated for 2024 and I've released an updated course to teach you how to pass the exam. In the last decade companies have been collecting",
-          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
-          "publishedOn": "2024-02-21T15:02:00.000Z",
-          "wordCount": 997,
-          "title": "Azure AI Fundamentals Certification (AI-900) 2024 UPDATE – Pass the Exam With This Free 4 Hour Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/aifund.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-typescript-type-aliases-work/",
-          "author": "Sahil Mahapatra",
-          "description": "One of TypeScript's powerful features is type aliases, which allow developers to create custom names for types, enhancing code readability and maintainability. In this article, we'll explore TypeScript type aliases through examples. Table of Contents  * TypeScript Type Aliases  * Examples  * Conclusion What are Type Aliases",
-          "link": "https://www.freecodecamp.org/news/how-typescript-type-aliases-work/",
-          "publishedOn": "2024-02-21T14:14:40.000Z",
-          "wordCount": 1293,
-          "title": "How Type Aliases work in TypeScript – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-1--2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/",
-          "author": "Matéush",
-          "description": "In this guide,  you'll learn how to effectively manage multiple Node versions for different projects using Node Version Manager (NVM). Whether you're developing React, Angular, Vue.js, or Node applications, you can always use NVM to set up the project and tailor it down to a specific Node version. Prerequisites Before",
-          "link": "https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/",
-          "publishedOn": "2024-02-21T13:51:21.000Z",
-          "wordCount": 1464,
-          "title": "How To Use Node Version Manager In Your React Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/React---NVM.png"
         }
       ]
     }
