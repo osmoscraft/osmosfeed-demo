@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-23T00:54:04.208Z</updated>
+    <updated>2024-03-24T01:00:49.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Great Personal Portfolio Page – a Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-great-personal-portfolio-page-a-step-by-step-guide/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-great-personal-portfolio-page-a-step-by-step-guide/"/>
+        <updated>2024-03-22T21:40:39.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you'll want to create a digital space that mirrors your unique skills and persona. And a stellar personal portfolio website can help you make your mark in the digital universe.  Imagine a space that not only highlights your finest achievements but also attracts potential clients and]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Accessible Forms with Pseudo Classes]]></title>
         <id>https://css-tricks.com/?p=377565</id>
@@ -1025,71 +1035,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Logan Kilpatric, a software engineer and ChatGPT creator Open AI's first-ever Developer Advocate hire. The week Logan started, ChatGPT hit 100 million users. During our conversation, Logan shares his journey from Illinois to Harvard, NASA, and now the world's most-watched tech]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Fetch API For Beginners – Explained With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/"/>
-        <updated>2024-02-23T12:14:53.000Z</updated>
-        <summary type="html"><![CDATA[The Fetch API is a JavaScript function that you can use to send a request to any Web API URL and get a response. In this article, I'm going to show you how to make HTTP requests to external APIs using the JavaScript Fetch API. You're going to learn how]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How TypeScript Interfaces Work – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-typescript-interfaces-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-typescript-interfaces-work/"/>
-        <updated>2024-02-23T10:59:53.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript, a superset of JavaScript, has gained widespread adoption among developers due to its ability to provide static typing, enhancing code robustness and maintainability. One of TypeScript's key features is interfaces, which play a pivotal role in defining the shape of objects, enabling type checking and facilitating better code organization.]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Camera App on the Web – No Plugins Required]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/"/>
-        <updated>2024-02-23T00:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Ever had to make a video call right on your browser with Google Meet, Zoom, or any other video chat app? Well, here’s what you might have never thought to ask—how does it work? Well, there are a number of things that make a real-time video chat application fully functional]]></summary>
-        <author>
-            <name>Favour C. Felix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering]]></title>
-        <id>https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/</id>
-        <link href="https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/"/>
-        <updated>2024-02-22T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederik Dohr)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the :has() Selector in CSS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/"/>
-        <updated>2024-02-22T14:34:24.000Z</updated>
-        <summary type="html"><![CDATA[For most of the history of CSS, selectors have been limited to targeting elements based on their parents in the DOM tree. Consider this HTML structure: 
-     
-Paragraph 1
-       
-     	
-Paragraph 2]]></summary>
-        <author>
-            <name>James Charlesworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use the Fullscreen API in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/"/>
-        <updated>2024-02-22T14:17:32.000Z</updated>
-        <summary type="html"><![CDATA[How do you run a game created for the web in fullscreen? In this quick tutorial, you'll see how to display a game or any other HTML element in fullscreen, how to exit fullscreen, and how to make a nice fullscreen toggle button in SVG. Recently I published a long]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
         </author>
     </entry>
 </feed>
