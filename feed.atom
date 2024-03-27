@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T00:55:14.699Z</updated>
+    <updated>2024-03-27T00:55:17.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[React Navigation – How to Build a Breadcrumb Component]]></title>
+        <id>https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/</id>
+        <link href="https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/"/>
+        <updated>2024-03-25T22:33:05.000Z</updated>
+        <summary type="html"><![CDATA[I know what you're thinking, but despite the article title and cover image, this article isn't about bread or even pastries. Instead, it looks at a commonly used component in web applications for navigation called the breadcrumb component. Here, we'll unravel the mysteries of breadcrumb trails in React applications, dissecting]]></summary>
+        <author>
+            <name>Jaja Ibifubara David</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unlock the Power of Data Analytics with Free Google Services]]></title>
         <id>https://www.freecodecamp.org/news/data-analytics-with-google-stack/</id>
@@ -1045,16 +1055,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Writing CSS is often painful for a lot of developers, because many of us lose our curiosity very early in the learning journey. For instance, as soon as we learn basic CSS selectors, we settle into a pattern of using only those, thinking they're all we need. But what if]]></summary>
         <author>
             <name>Ophy Boamah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Redux-Thunk – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-redux-thunk/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-redux-thunk/"/>
-        <updated>2024-02-26T02:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Redux has become the go-to state management library for many JavaScript applications due to its predictable state container and unidirectional data flow. However, handling asynchronous actions in Redux can be a bit tricky. That's where Redux middleware like Redux-Thunk comes to the rescue. In essence, Redux-Thunk enhances the capabilities of]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
 </feed>
