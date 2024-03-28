@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/03/the-future-of-user-research/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Based on responses from over 1,200 product professionals, Maze’s Future of User Research Report uncovers how product teams conduct research to inform decision-making and build successful products. Learn about the top three trends defining the user research industry in 2024 and beyond.",
+          "link": "https://smashingmagazine.com/2024/03/the-future-of-user-research/",
+          "publishedOn": "2024-03-27T13:00:00.000Z",
+          "wordCount": 4143,
+          "title": "The Future Of User Research: Expert Insights And Key Trends",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-future-of-user-research/increased-demand-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-future-of-user-research/increased-demand-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
           "author": "hello@smashingmagazine.com (Henry Bley-Vroman)",
           "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
@@ -171,36 +186,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.",
-          "link": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
-          "publishedOn": "2024-02-27T12:00:00.000Z",
-          "wordCount": 5331,
-          "title": "Reporting Core Web Vitals With The Performance API",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
-          "author": "hello@smashingmagazine.com (Yichan Wang)",
-          "description": "Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.",
-          "link": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
-          "publishedOn": "2024-02-26T18:00:00.000Z",
-          "wordCount": 8481,
-          "title": "A Web Designer’s Accessibility Advocacy Toolkit",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/web-designer-accessibility-advocacy-toolkit/web-designer-accessibility-advocacy-toolkit.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/web-designer-accessibility-advocacy-toolkit/web-designer-accessibility-advocacy-toolkit.jpg"
         }
       ]
     },
@@ -209,6 +194,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
+          "author": "Joan Ayebola",
+          "description": "Have you ever struggled to understand how data flows through your React application? Prop drilling can be a culprit.  Prop drilling refers to the process of passing down props through multiple layers of components, even when some of those components do not directly use the props. This can lead",
+          "link": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
+          "publishedOn": "2024-03-27T14:00:52.000Z",
+          "wordCount": 1439,
+          "title": "Prop Drilling in React Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--14-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-tokenizers-shape-ai-understanding/",
+          "author": "Manish Shivanandhan",
+          "description": "Tokenizers are the fundamental tools that enable artificial intelligence to dissect and interpret human language. Let’s look at how tokenizers help AI systems comprehend and process language. In the fast-evolving world of natural language processing (NLP), tokenizers play a pivotal role. Tokenizers are the unsung heroes behind the scenes, making",
+          "link": "https://www.freecodecamp.org/news/how-tokenizers-shape-ai-understanding/",
+          "publishedOn": "2024-03-27T11:35:07.000Z",
+          "wordCount": 1501,
+          "title": "Tokenizers Explained – How Tokenizers Help AI Understand Language",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/ab427b80-a502-11ea-8467-694f4e40dfa7.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/",
+          "author": "Olasunkanmi Balogun",
+          "description": "In this in-depth tutorial, you'll learn how to build a full-stack Kanban task management app. Along the way, we'll explore the synergies between technologies like Next.js [https://nextjs.org] (featuring a dive into the app router),  Next-auth [https://next-auth.js.org] for user authentication, and Firebase [https://firebase.google.com/], a backend as a service platform to",
+          "link": "https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/",
+          "publishedOn": "2024-03-26T21:44:04.000Z",
+          "wordCount": 13654,
+          "title": "How to Build a Full-Stack Kanban Task Management App With TypeScript, Next.js, Redux-toolkit, and Firebase",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Option-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
+          "author": "Beau Carnes",
+          "description": "NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications using TypeScript and JavaScript.  Learning NestJS can significantly enhance your ability to create structured, maintainable, and testable backend applications, offering a robust toolkit that integrates seamlessly with other modern technologies and methodologies. We just",
+          "link": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
+          "publishedOn": "2024-03-26T20:27:32.000Z",
+          "wordCount": 1120,
+          "title": "Comprehensive NestJS Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/nextjsfull.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/",
+          "author": "David Clinton",
+          "description": "Software projects follow identifiable milestones as they move towards a successful completion. If you want to give your project the best chances of success, it's important to understand what those milestones mean and how they're defined. This article comes from my Complete LPI Open Source Essentials Exam Study Guide",
+          "link": "https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/",
+          "publishedOn": "2024-03-26T17:01:50.000Z",
+          "wordCount": 1744,
+          "title": "How Do Open Source Software Lifecycles Work?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/danial-igdery-FCHlYvR5gJI-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/",
           "author": "Jaja Ibifubara David",
@@ -1058,76 +1093,6 @@
           "wordCount": 2872,
           "title": "How to Use the Ternary Operator in JavaScript – Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/ternary-operator-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/tailwindcss-in-react-native-expo/",
-          "author": "John Caleb",
-          "description": "Tailwind CSS has been quite popular in the web development world due to its utility-first approach and seamless integration.  However, when developing mobile apps with React Native, integrating Tailwind CSS may be challenging. But guess what? Not anymore. With the development of tools such as NativeWind [https://www.nativewind.dev/], React Native",
-          "link": "https://www.freecodecamp.org/news/tailwindcss-in-react-native-expo/",
-          "publishedOn": "2024-02-27T09:22:11.000Z",
-          "wordCount": 2085,
-          "title": "How to Add Tailwind CSS to Your React Native Expo App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/FREECODE-CAMP-DEFAULT-1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/sql-concepts-for-data-analysts/",
-          "author": "Joel Hereth",
-          "description": "In the vast and ever-growing realm of data analytics, Structured Query Language [/news/what-is-sql-database-definition-for-beginners/] (SQL) serves as a fundamental building block.  While SQL's roots lie in database management, it has expanded its reach, becoming the go-to tool for data extraction, manipulation, and analysis.  Whether you're just starting your journey",
-          "link": "https://www.freecodecamp.org/news/sql-concepts-for-data-analysts/",
-          "publishedOn": "2024-02-27T00:45:00.000Z",
-          "wordCount": 3065,
-          "title": "Essential SQL Concepts for Data Analysts – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Group-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/publish-google-docs-to-wordpress/",
-          "author": "Vikram Aruchamy",
-          "description": "WordPress is a popular content management system (CMS) known for its flexibility and user-friendly interface. But its built-in editor is not ideal for collaborative editing. Many publishers who work with writers need collaborative writing and editing features. This is where Google Docs comes into the picture. It’s a collaborative platform,",
-          "link": "https://www.freecodecamp.org/news/publish-google-docs-to-wordpress/",
-          "publishedOn": "2024-02-26T23:21:35.000Z",
-          "wordCount": 1846,
-          "title": "How to Publish Google Docs to WordPress in an SEO-Optimized Way",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/fcc-1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/",
-          "author": "Nathan Sebhastian",
-          "description": "The Geolocation API is a standard API implemented in browsers to retrieve the location of the people who are interacting with a web application. This API enable users to send their location to a web application to enable relevant services, such as seeking a restaurant or hotel near the user.",
-          "link": "https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/",
-          "publishedOn": "2024-02-26T22:34:24.000Z",
-          "wordCount": 1745,
-          "title": "How to Use the Geolocation API in JavaScript – with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/js-geolocation-api-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hard-parts-of-react/",
-          "author": "Jaja Ibifubara David",
-          "description": "Have you started learning React, only to face bugs that made you contemplate a career in goat herding? Don't worry – we've all been there.  In this guide, you'll join me on a quest through the quirky wonders of React. I'll help you navigate the perplexing moments, ensuring you",
-          "link": "https://www.freecodecamp.org/news/hard-parts-of-react/",
-          "publishedOn": "2024-02-26T21:07:53.000Z",
-          "wordCount": 3481,
-          "title": "How to Learn the Hard Parts of React – and Tips to Conquer Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Article-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/performance-testing-for-web-applications/",
-          "author": "oluwatobi Joshua",
-          "description": "Performance testing is an important yet underrated field of software development. And it’s a must-have skill that can help you prevent common software failures that occur in production applications.  Performance testing is a routine software practice which is carried out to determine the stability of a system in terms",
-          "link": "https://www.freecodecamp.org/news/performance-testing-for-web-applications/",
-          "publishedOn": "2024-02-26T19:52:39.000Z",
-          "wordCount": 2097,
-          "title": "How to Perform Performance Testing on Your Web Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/performance-test2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/advanced-css-selectors/",
-          "author": "Ophy Boamah",
-          "description": "Writing CSS is often painful for a lot of developers, because many of us lose our curiosity very early in the learning journey. For instance, as soon as we learn basic CSS selectors, we settle into a pattern of using only those, thinking they're all we need. But what if",
-          "link": "https://www.freecodecamp.org/news/advanced-css-selectors/",
-          "publishedOn": "2024-02-26T17:12:11.000Z",
-          "wordCount": 2942,
-          "title": "Advanced CSS Selectors – How and When to Use Them",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Advanced-CSS.png"
         }
       ]
     }
