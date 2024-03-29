@@ -195,6 +195,56 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
+          "author": "Beau Carnes",
+          "description": "If you are tired of doing monotonous business tasks, automation can make your life easier. We just posted a no-code automation course on the freeCodeCamp.org YouTube channel that will help you increase your productivity while working less. Ania Kubów, one of freeCodeCamp's most popular instructors, developed this course. She'll guide",
+          "link": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
+          "publishedOn": "2024-03-28T15:15:00.000Z",
+          "wordCount": 953,
+          "title": "Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/make.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "In JavaScript, you may encounter the term \"dead zone.\" While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively. Table of Contents",
+          "link": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
+          "publishedOn": "2024-03-28T14:48:44.000Z",
+          "wordCount": 1434,
+          "title": "What is Dead Zone in JavaScript?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
+          "author": "San B",
+          "description": "In March of 2024, Laravel 11 was released [https://blog.laravel.com/laravel-11-now-available]. And with it arrived a new tool in the Laravel ecosystem: Laravel Reverb [https://reverb.laravel.com/]. Reverb is a separate open-source package that's a first-party WebSocket server for Laravel applications. It helps facilitate real-time communication between client and server. Before this new package,",
+          "link": "https://www.freecodecamp.org/news/laravel-reverb-realtime-chat-app/",
+          "publishedOn": "2024-03-27T18:13:43.000Z",
+          "wordCount": 3619,
+          "title": "How to Build Real-Time Chat App with Laravel Reverb",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/laravel-reverb-react-chat-boolfalse.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/new-react-19-features/",
+          "author": "Neha sharma",
+          "description": "ReactJS is one of the most popular UI libraries in the front-end development world. And one of the reasons I love React is because of the team behind it and the community's enthusiasm for it. And when the community speaks up about the need for new features and improvements, the",
+          "link": "https://www.freecodecamp.org/news/new-react-19-features/",
+          "publishedOn": "2024-03-27T16:43:00.000Z",
+          "wordCount": 4881,
+          "title": "New Features in React 19 – Updates with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Group-27.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
+          "author": "Losalini Rokocakau",
+          "description": "In this tutorial, I'll teach you how to use the react-data-table-component  library in your React projects. You'll learn how to render a table that has features such as pagination, searching/filtering, and sorting.  I'll walk you through each step, from setting up a React and TypeScript project with Vite",
+          "link": "https://www.freecodecamp.org/news/create-tables-using-the-react-datatable-component-library/",
+          "publishedOn": "2024-03-27T15:40:38.000Z",
+          "wordCount": 2721,
+          "title": "How to Create Tables Using the React-Data-Table-Component Library in React & TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/cover-image-21.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/",
           "author": "Joan Ayebola",
           "description": "Have you ever struggled to understand how data flows through your React application? Prop drilling can be a culprit.  Prop drilling refers to the process of passing down props through multiple layers of components, even when some of those components do not directly use the props. This can lead",
@@ -1033,66 +1083,6 @@
           "wordCount": 4421,
           "title": "How to Create a Music Bot Using Discord.js – Step-by-Step Tutorial",
           "imageUrl": "https://cdn-media-1.freecodecamp.org/images/0*rFQhPUqebJY9N4Ue"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/",
-          "author": "Manish Shivanandhan",
-          "description": "In today’s fast-paced world, we’re bombarded with information. It’s like trying to drink water from a fire hose. That's where a text summarizer comes in. Imagine it as a filter that separates the essential bits from the overwhelming flood of words. In this article, I'll walk you through what a",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/",
-          "publishedOn": "2024-02-28T10:13:47.000Z",
-          "wordCount": 1748,
-          "title": "How to Build A Text Summarizer Using Huggingface Transformers",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/summary-1.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/regex-in-javascript/",
-          "author": "Samyak Jain",
-          "description": "Regular expressions, also known as regex, are powerful tools for pattern matching and text manipulation. Whether you're validating user input, extracting data from strings, or performing advanced text processing tasks, understanding regex is essential for developers. This comprehensive guide will walk you through the fundamentals of regular expressions in JavaScript,",
-          "link": "https://www.freecodecamp.org/news/regex-in-javascript/",
-          "publishedOn": "2024-02-27T20:17:37.000Z",
-          "wordCount": 6302,
-          "title": "Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Regular-Expressions-in-JavaScript-Cover-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/",
-          "author": "Matéush",
-          "description": "In this tutorial, I will show you how using indices to render an array of components in React can be problematic. I'll also teach you how to mitigate array rendering issues with unique ids. As always, we'll work on a real world example and solve problem I stumbled across while",
-          "link": "https://www.freecodecamp.org/news/how-to-render-array-of-components-in-react/",
-          "publishedOn": "2024-02-27T19:18:13.000Z",
-          "wordCount": 1876,
-          "title": "How to Render an Array of Components in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Array-components.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
-          "author": "Beau Carnes",
-          "description": "In the ever-evolving landscape of artificial intelligence, staying ahead of the curve is important for both enthusiasts and professionals alike. And one of the most popular elements of AI right now is Generative AI. We just posted a comprehensive course about Generative AI on the freeCodeCamp.org YouTube channel. This course,",
-          "link": "https://www.freecodecamp.org/news/learn-generative-ai-in/",
-          "publishedOn": "2024-02-27T18:25:16.000Z",
-          "wordCount": 1028,
-          "title": "Learn Generative AI in 30 Hours",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/genai.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-typescript-generics-work/",
-          "author": "Sahil Mahapatra",
-          "description": "TypeScript, with its powerful type system, offers a feature called Generics, which enables developers to write reusable and type-safe code. Generics allow you to create components that can work over a variety of types rather than a single one. This article delves into TypeScript Generics, providing thorough explanations and code",
-          "link": "https://www.freecodecamp.org/news/how-typescript-generics-work/",
-          "publishedOn": "2024-02-27T13:45:54.000Z",
-          "wordCount": 1450,
-          "title": "How TypeScript Generics Work – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-ternary-operator-explained/",
-          "author": "Franklin Okolie",
-          "description": "Tired of bulky if-else statements? JavaScript's ternary operator offers a powerful solution. This handy tool lets you condense complex conditional logic into a single line, making your code cleaner, more elegant, and efficient. In this article, we'll take a deep dive into the ternary operator, understanding its syntax and showcasing",
-          "link": "https://www.freecodecamp.org/news/javascript-ternary-operator-explained/",
-          "publishedOn": "2024-02-27T13:04:50.000Z",
-          "wordCount": 2872,
-          "title": "How to Use the Ternary Operator in JavaScript – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/ternary-operator-1.png"
         }
       ]
     }
