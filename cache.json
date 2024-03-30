@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.",
+          "link": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
+          "publishedOn": "2024-03-29T08:00:00.000Z",
+          "wordCount": 6160,
+          "title": "How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/03/the-future-of-user-research/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Based on responses from over 1,200 product professionals, Maze’s Future of User Research Report uncovers how product teams conduct research to inform decision-making and build successful products. Learn about the top three trends defining the user research industry in 2024 and beyond.",
@@ -171,21 +186,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
-          "publishedOn": "2024-02-29T10:00:00.000Z",
-          "wordCount": 4637,
-          "title": "Waiting For Spring (March 2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png"
         }
       ]
     },
@@ -194,6 +194,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Leon Noel, founder of 100Devs and head of engineering at Resilient Coders. Growing up, Leon had it drilled into him that he had to become a doctor, lawyer, or dentist. But his ambitions grew and he went on to have an",
+          "link": "https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/",
+          "publishedOn": "2024-03-29T14:10:54.000Z",
+          "wordCount": 928,
+          "title": "Leon Noel has Helped THOUSANDS of People Learn to Code [100Devs founder on freeCodeCamp Podcast #117]",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/leon-noel-freecodecamp-podcast-100devs.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/",
+          "author": "Olabisi Olaoye",
+          "description": "I encountered an issue when I made a GET request in my React project which was supposed to return a file I could download. For the file to download properly, I had to make the response type a blob [https://developer.mozilla.org/en-US/docs/Web/API/Blob].  But if an error occurred when the server returns",
+          "link": "https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/",
+          "publishedOn": "2024-03-29T00:34:05.000Z",
+          "wordCount": 1081,
+          "title": "How to Extract an Error Object from a Blob API Response in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/React-form-validation--1-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
           "author": "Beau Carnes",
@@ -1013,76 +1033,6 @@
           "wordCount": 2842,
           "title": "How to Build A House Price Prediction Model – Linear Regression Explained",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Final-House-Price-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/",
-          "author": "Tiago Monteiro",
-          "description": "Numerical analysis is the bridge between math and computer science.  Essentially, it is the development of algorithms that approximate solutions that pure math would also solve, but using less computational resources and faster. This field is very important. Because for most solutions in the real world, we only need",
-          "link": "https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/",
-          "publishedOn": "2024-02-29T11:41:59.000Z",
-          "wordCount": 1936,
-          "title": "How to Apply Math with Python – Numerical Analysis Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/3-5.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/",
-          "author": "Jessica Wilkins",
-          "description": "When you're working with JavaScript applications, it's common to work with arrays, nested arrays, and an array of objects. But a lot of beginners sometimes struggle with knowing how to access properties from these different data structures. In this article, we will discuss how to access properties from a variety",
-          "link": "https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/",
-          "publishedOn": "2024-02-29T00:59:30.000Z",
-          "wordCount": 1468,
-          "title": "How to Access Properties from an Array of Objects in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/david-rangel-4m7gmLNr3M0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/idempotence-explained/",
-          "author": "Daniel Adetunji",
-          "description": "Idempotence is a property of an operation that ensures that, if the operation is repeated once or more than once, you get the same result. Apply it once or more and the outcome's the same, idempotence is the name. All rhyming aside, idempotence is an important concept often used in",
-          "link": "https://www.freecodecamp.org/news/idempotence-explained/",
-          "publishedOn": "2024-02-29T00:44:58.000Z",
-          "wordCount": 1902,
-          "title": "What is Idempotence? Explained with Real-World Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/cover--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/serverless-node-js-tutorial/",
-          "author": "Beau Carnes",
-          "description": "The shift towards serverless architectures is rapidly becoming a pivotal aspect of application development. Even Node.js, which is traditionally used with servers, can be used to build a serverless application. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop serverless applications using",
-          "link": "https://www.freecodecamp.org/news/serverless-node-js-tutorial/",
-          "publishedOn": "2024-02-28T20:59:09.000Z",
-          "wordCount": 923,
-          "title": "Serverless Node.js Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/sn1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-reusable-react-components/",
-          "author": "Shahan Chowdhury",
-          "description": "What are reusable React components? You can think of them as building blocks. They are independent pieces of code that can be reused throughout your website to save you time and effort. They can be anything from simple buttons to complex forms. Why Use Reusable Components? As your website grows,",
-          "link": "https://www.freecodecamp.org/news/how-to-build-reusable-react-components/",
-          "publishedOn": "2024-02-28T19:05:07.000Z",
-          "wordCount": 1704,
-          "title": "How to Build Reusable React Components",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Purple-Blue-Modern-Gradient-New-Blog-Post-Emoji-Twitter-Post--1--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/",
-          "author": "David Clinton",
-          "description": "If you're going to use or work with open source resources, you'll need to understand the fine print on various classes of an open source license. Otherwise, how can you be sure you're not infringing on someone else's rights?  This article will introduce you to the big players and",
-          "link": "https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/",
-          "publishedOn": "2024-02-28T17:07:49.000Z",
-          "wordCount": 2483,
-          "title": "How Do Open Source Licenses Work? Permissive and Protective Software Licenses Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/katerina-pavlyuchkova-FQYCJSqER_0-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/",
-          "author": "Gabriel Tanner",
-          "description": "The Discord API provides you with an easy tool to create and use your own bots and tools.  In this tutorial, you'll learn how you can create a basic music bot and add it to your server. The bot will be able to play, skip, and stop the music,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/",
-          "publishedOn": "2024-02-28T13:00:00.000Z",
-          "wordCount": 4421,
-          "title": "How to Create a Music Bot Using Discord.js – Step-by-Step Tutorial",
-          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/0*rFQhPUqebJY9N4Ue"
         }
       ]
     }

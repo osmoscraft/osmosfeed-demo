@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-29T00:55:55.799Z</updated>
+    <updated>2024-03-30T00:53:43.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Leon Noel has Helped THOUSANDS of People Learn to Code [100Devs founder on freeCodeCamp Podcast #117]]]></title>
+        <id>https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/</id>
+        <link href="https://www.freecodecamp.org/news/100devs-founder-leon-noel-freecodecamp-podcast-interview/"/>
+        <updated>2024-03-29T14:10:54.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Leon Noel, founder of 100Devs and head of engineering at Resilient Coders. Growing up, Leon had it drilled into him that he had to become a doctor, lawyer, or dentist. But his ambitions grew and he went on to have an]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects]]></title>
+        <id>https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/</id>
+        <link href="https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/"/>
+        <updated>2024-03-29T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extract an Error Object from a Blob API Response in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/"/>
+        <updated>2024-03-29T00:34:05.000Z</updated>
+        <summary type="html"><![CDATA[I encountered an issue when I made a GET request in my React project which was supposed to return a file I could download. For the file to download properly, I had to make the response type a blob [https://developer.mozilla.org/en-US/docs/Web/API/Blob].  But if an error occurred when the server returns]]></summary>
+        <author>
+            <name>Olabisi Olaoye</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]]]></title>
         <id>https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/</id>
@@ -935,86 +965,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Ever wondered how algorithms predict future house prices, stock market trends, or even your next movie preference? The answer lies in a fundamental yet powerful tool called linear regression.  Don't be fooled by its seemingly simple equation – this article will unveil its magic, empowering you to build and]]></summary>
         <author>
             <name>Oluwadamisi Samuel Praise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Apply Math with Python – Numerical Analysis Explained]]></title>
-        <id>https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/"/>
-        <updated>2024-02-29T11:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Numerical analysis is the bridge between math and computer science.  Essentially, it is the development of algorithms that approximate solutions that pure math would also solve, but using less computational resources and faster. This field is very important. Because for most solutions in the real world, we only need]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waiting For Spring (March 2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/</id>
-        <link href="https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/"/>
-        <updated>2024-02-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Access Properties from an Array of Objects in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/"/>
-        <updated>2024-02-29T00:59:30.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with JavaScript applications, it's common to work with arrays, nested arrays, and an array of objects. But a lot of beginners sometimes struggle with knowing how to access properties from these different data structures. In this article, we will discuss how to access properties from a variety]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Idempotence? Explained with Real-World Examples]]></title>
-        <id>https://www.freecodecamp.org/news/idempotence-explained/</id>
-        <link href="https://www.freecodecamp.org/news/idempotence-explained/"/>
-        <updated>2024-02-29T00:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Idempotence is a property of an operation that ensures that, if the operation is repeated once or more than once, you get the same result. Apply it once or more and the outcome's the same, idempotence is the name. All rhyming aside, idempotence is an important concept often used in]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serverless Node.js Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/serverless-node-js-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/serverless-node-js-tutorial/"/>
-        <updated>2024-02-28T20:59:09.000Z</updated>
-        <summary type="html"><![CDATA[The shift towards serverless architectures is rapidly becoming a pivotal aspect of application development. Even Node.js, which is traditionally used with servers, can be used to build a serverless application. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop serverless applications using]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Reusable React Components]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-reusable-react-components/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-reusable-react-components/"/>
-        <updated>2024-02-28T19:05:07.000Z</updated>
-        <summary type="html"><![CDATA[What are reusable React components? You can think of them as building blocks. They are independent pieces of code that can be reused throughout your website to save you time and effort. They can be anything from simple buttons to complex forms. Why Use Reusable Components? As your website grows,]]></summary>
-        <author>
-            <name>Shahan Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Open Source Licenses Work? Permissive and Protective Software Licenses Explained]]></title>
-        <id>https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/</id>
-        <link href="https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/"/>
-        <updated>2024-02-28T17:07:49.000Z</updated>
-        <summary type="html"><![CDATA[If you're going to use or work with open source resources, you'll need to understand the fine print on various classes of an open source license. Otherwise, how can you be sure you're not infringing on someone else's rights?  This article will introduce you to the big players and]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Music Bot Using Discord.js – Step-by-Step Tutorial]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/"/>
-        <updated>2024-02-28T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Discord API provides you with an easy tool to create and use your own bots and tools.  In this tutorial, you'll learn how you can create a basic music bot and add it to your server. The bot will be able to play, skip, and stop the music,]]></summary>
-        <author>
-            <name>Gabriel Tanner</name>
         </author>
     </entry>
 </feed>
