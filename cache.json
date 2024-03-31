@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=377635",
+          "author": "Chris DeMars",
+          "description": "Hey all you wonderful developers out there! In this post we are going to explore the use of :has() in your next web project. :has() is relatively newish but has gained popularity in the front end community by delivering control …\nThe Power of :has() in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-power-of-has-in-css/",
+          "publishedOn": "2024-03-30T02:07:57.000Z",
+          "wordCount": 1861,
+          "title": "The Power of :has() in CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377635"
+        },
+        {
           "id": "https://css-tricks.com/?p=377565",
           "author": "Chris DeMars",
           "description": "Hey all you wonderful developers out there! In this post, I am going to take you through creating a simple contact form using semantic HTML and an awesome CSS pseudo class known as :focus-within. The :focus-within class allows for …\nAccessible Forms with Pseudo Classes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -171,21 +181,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "description": "Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.",
-          "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/",
-          "publishedOn": "2024-03-01T12:00:00.000Z",
-          "wordCount": 6321,
-          "title": "Modern CSS Tooltips And Speech Bubbles (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
         }
       ]
     },
@@ -963,76 +958,6 @@
           "wordCount": 788,
           "title": "Podcast – AI and the Future of Education with Seth Goldin",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/seth-goldin-freecodecamp-podcast.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-for-beginners-handbook/",
-          "author": "Nathan Sebhastian",
-          "description": "The goal of this handbook is to provide gentle step-by-step instructions that will help you learn the key concepts of React. Instead of covering all the theories and concepts of React in their entirety, I'll be teaching you important building blocks of the library. You'll learn about JSX, components, props,",
-          "link": "https://www.freecodecamp.org/news/react-for-beginners-handbook/",
-          "publishedOn": "2024-03-01T00:34:46.000Z",
-          "wordCount": 8429,
-          "title": "Learn React – A Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Learn-React-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-methods/",
-          "author": "Valentine Gatwiri",
-          "description": "Methods are essential for organizing Java projects, encouraging code reuse, and improving overall code structure.  In this article, we will look at what Java methods are and how they work, including their syntax, types, and examples. Here's what we'll cover:  1. What are Java Methods?  2. Types",
-          "link": "https://www.freecodecamp.org/news/java-methods/",
-          "publishedOn": "2024-02-29T20:05:17.000Z",
-          "wordCount": 2779,
-          "title": "Methods in Java – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Screenshot-from-2024-02-28-10-30-57.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-syslog-handbook/",
-          "author": "Serhii Orlivskyi",
-          "description": "If you're in information technology, you'll likely agree that logging is important. It helps you monitor a system, troubleshoot issues, and generally provides useful feedback about the system’s state. But it’s important to do logging right. In this handbook, I'll explain what the syslog protocol is and how it works.",
-          "link": "https://www.freecodecamp.org/news/what-is-syslog-handbook/",
-          "publishedOn": "2024-02-29T19:40:35.000Z",
-          "wordCount": 10132,
-          "title": "The Syslog Handbook – How to Collect and Redirect Logs to a Remote Server",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/The-Syslog-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/google-gemini-course-for-beginners/",
-          "author": "Beau Carnes",
-          "description": "Google Gemini is a cutting edge AI model that is a competitor of GPT-4.  We just released a course on the freeCodeCamp.org YouTube channel that will help you harness the power of the advanced AI technology. Developed by the popular instructor Ania Kubów, this beginner's course offers a deep",
-          "link": "https://www.freecodecamp.org/news/google-gemini-course-for-beginners/",
-          "publishedOn": "2024-02-29T18:47:51.000Z",
-          "wordCount": 968,
-          "title": "Google Gemini Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/gemini3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-machine-learning-in-2024/",
-          "author": "Beau Carnes",
-          "description": "Are you curious about machine learning but don't know where to start? We just published a comprehensive Machine Learning course on the freeCodeCamp.org  that will teach you how to get started in 2024. Whether you're aspiring to become a Data Scientist, a Machine Learning Engineer (MLE), a Product Manager, or",
-          "link": "https://www.freecodecamp.org/news/learn-machine-learning-in-2024/",
-          "publishedOn": "2024-02-29T17:38:13.000Z",
-          "wordCount": 1114,
-          "title": "Learn Machine Learning in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/ml24.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-mobile-quiz-app/",
-          "author": "David Asaolu",
-          "description": "In this tutorial, you'll learn how to build a mobile quiz application that authenticates users, allows them to take tests, and ranks them based on their scores.  The application leverages some of Supabase's features, such as authentication and database storage, to build a secured full-stack mobile application. Additionally, you'll",
-          "link": "https://www.freecodecamp.org/news/build-a-mobile-quiz-app/",
-          "publishedOn": "2024-02-29T17:30:26.000Z",
-          "wordCount": 4753,
-          "title": "How to Build a Mobile Quiz App with React Native, ChatGPT and Supabase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Building-a-mobile-quiz-app-with-React-Native--ChatGPT-and-Supabase--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-house-price-prediction-model/",
-          "author": "Oluwadamisi Samuel Praise",
-          "description": "Ever wondered how algorithms predict future house prices, stock market trends, or even your next movie preference? The answer lies in a fundamental yet powerful tool called linear regression.  Don't be fooled by its seemingly simple equation – this article will unveil its magic, empowering you to build and",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-house-price-prediction-model/",
-          "publishedOn": "2024-02-29T13:25:23.000Z",
-          "wordCount": 2842,
-          "title": "How to Build A House Price Prediction Model – Linear Regression Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Final-House-Price-Cover.png"
         }
       ]
     }
