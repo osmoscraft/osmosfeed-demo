@@ -211,21 +211,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
-          "link": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
-          "publishedOn": "2024-03-06T08:00:00.000Z",
-          "wordCount": 5955,
-          "title": "The End Of My Gatsby Journey",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg"
         }
       ]
     },
@@ -234,6 +219,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/bento-grids-in-web-design/",
+          "author": "Jaja Ibifubara David",
+          "description": "I believe we may have all noticed the trend of meticulously organized web layouts reminiscent of Japanese bento boxes. These 'Bento Grids' have swiftly gained traction, offering a visually appealing and structurally cohesive way to present content online. In this article, we'll delve into the origins, rise, and practical implementation",
+          "link": "https://www.freecodecamp.org/news/bento-grids-in-web-design/",
+          "publishedOn": "2024-04-04T10:06:39.000Z",
+          "wordCount": 2313,
+          "title": "How to Use Bento Grids Design in Your Web Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Article-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/",
+          "author": "Beau Carnes",
+          "description": "Are you tired of the same old developer portfolios? Want to stand out to potential employers or clients? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Kaboom.js to craft a 2D game that doubles as your developer portfolio! JSLegendDev developed this",
+          "link": "https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/",
+          "publishedOn": "2024-04-03T19:28:59.000Z",
+          "wordCount": 939,
+          "title": "Create a Developer Portfolio as a 2D Game",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/gamedev.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/",
           "author": "Segun Ajibola",
@@ -913,46 +918,6 @@
           "wordCount": 1776,
           "title": "How to Build a Basic CMS with Google Sheets and React",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/--1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-html-forms/",
-          "author": "Kelechukwu Isaac Awoke",
-          "description": "HTML forms are used to get information from users. They are widely used in webpages or apps for surveys or registration processes.  HTML form basics include the common HTML elements, tags, attributes, concepts, or best practices required for you to create good HTML forms. The collected data is sent",
-          "link": "https://www.freecodecamp.org/news/how-to-use-html-forms/",
-          "publishedOn": "2024-03-06T10:37:42.000Z",
-          "wordCount": 3153,
-          "title": "How to Use HTML Forms – HTML Form Basics",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/an-introduction-to-mistral-ai/",
-          "author": "Manish Shivanandhan",
-          "description": "Mistral AI is a new player in the field of artificial intelligence. It is promoted as a strong open-source competitor of ChatGPT (which is closed source). In this article, we’ll explore what Mistral AI is, its use cases, and how it compares to ChatGPT. Plus, I’ll show you a simple",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-mistral-ai/",
-          "publishedOn": "2024-03-06T07:22:55.000Z",
-          "wordCount": 1568,
-          "title": "An Introduction to Mistral AI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/mistral.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "As a content creator in today's digital age, mastering prompt engineering is not just beneficial—it's essential. Prompt engineering refines your ability to communicate effectively with AI tools like ChatGPT, transforming them from mere tools into powerful allies in content creation. This guide is designed to help you unlock the potential",
-          "link": "https://www.freecodecamp.org/news/advanced-prompt-engineering-handbook/",
-          "publishedOn": "2024-03-05T21:40:51.000Z",
-          "wordCount": 21753,
-          "title": "Advanced Prompt Engineering for Content Creators – Full Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Advanced-Prompt-Enginering-for-Content-Creators-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-turn-audio-to-text-using-openai-whisper/",
-          "author": "Manish Shivanandhan",
-          "description": "Do you know what OpenAI Whisper is? It’s the latest AI model from OpenAI that helps you to automatically convert speech to text. Transforming audio into text is now simpler and more accurate, thanks to OpenAI’s Whisper. This article will guide you through using Whisper to convert spoken words into",
-          "link": "https://www.freecodecamp.org/news/how-to-turn-audio-to-text-using-openai-whisper/",
-          "publishedOn": "2024-03-05T13:02:22.000Z",
-          "wordCount": 1463,
-          "title": "How to Turn Audio to Text using OpenAI Whisper",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Untitled-design-26-1068x601.jpg"
         }
       ]
     }
