@@ -221,21 +221,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/success-at-scale-shipping-soon/sas-presale-ending-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
-          "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
-          "publishedOn": "2024-03-08T12:00:00.000Z",
-          "wordCount": 5142,
-          "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
         }
       ]
     },
@@ -244,6 +229,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/",
+          "author": "Isaiah Cliford  Opoku",
+          "description": "Welcome to Git and GitHub for Beginners! This comprehensive guide is tailored to help you navigate the world of version control and collaboration. Whether you're a newbie just starting out or an experienced developer looking to brush up on your skills, this guide offers a step-by-step approach to understanding and",
+          "link": "https://www.freecodecamp.org/news/guide-to-git-github-for-beginners-and-experienced-devs/",
+          "publishedOn": "2024-04-06T01:38:29.000Z",
+          "wordCount": 5485,
+          "title": "How to Use Git and GitHub – a Guide for Beginners and Experienced Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Attractive.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/",
+          "author": "Chris Williams",
+          "description": "In 2024, knowing how to use Git and GitHub effectively is an indispensable skill set, and is vital for nearly every role.  Whether you’re a developer, DevOps engineer, project manager, data scientist, or even an architect, a solid understanding of Git and GitHub is no longer a nice-to-have, but",
+          "link": "https://www.freecodecamp.org/news/github-foundations-certified-exam-prep-guide/",
+          "publishedOn": "2024-04-05T18:39:59.000Z",
+          "wordCount": 17052,
+          "title": "GitHub Foundations Certification – Exam Prep Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Blue-Modern-Eye-Catching-Vlog-YouTube-Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/",
+          "author": "Iroro Chadere",
+          "description": "If you're considering a career in the Site Reliability Engineering (SRE) field, you should understand what SREs do, how to get started, and how to grow as an SRE.  In this article, we'll explore what you need to know to be an SRE, and how you can develop your",
+          "link": "https://www.freecodecamp.org/news/start-a-career-in-site-reliability-engineering/",
+          "publishedOn": "2024-04-05T18:24:12.000Z",
+          "wordCount": 4013,
+          "title": "A How to Start a Career in Site Reliability Engineering – SRE Career Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Career-guide-to-sre.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/indie-game-dev-jabrils-freecodecamp-podcast-118/",
           "author": "Quincy Larson",
@@ -293,6 +308,16 @@
           "wordCount": 2313,
           "title": "How to Use Bento Grids Design in Your Web Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Article-cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-hash-passwords-with-bcrypt-in-nodejs/",
+          "author": "Dennis Temoye Charity",
+          "description": "Security is critical in the field of web development, particularly when dealing with user credentials such as passwords. One security procedure that's critical in web development is password hashing.  Password hashing guarantees that plaintext passwords are difficult for attackers to find, even in a situation where a database is",
+          "link": "https://www.freecodecamp.org/news/how-to-hash-passwords-with-bcrypt-in-nodejs/",
+          "publishedOn": "2024-04-03T22:01:00.000Z",
+          "wordCount": 2877,
+          "title": "How to Hash Passwords with bcrypt in Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/How-to-Hash-Password-With-Bcrypt-In-Nodejs.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/",
@@ -903,56 +928,6 @@
           "wordCount": 3328,
           "title": "SVG Toggle Button Tutorial – How to Handle Dark Mode with CSS and JavaScript",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/thumbnail.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-crud-api-project/",
-          "author": "Victor Yakubu",
-          "description": "An API is a technology that powers communication between software applications on the internet. API stands for Application Programming Interface, and it is basically a set of rules and protocols that define how different software can interact with each other.  Imagine having two different programs: program A and program",
-          "link": "https://www.freecodecamp.org/news/create-crud-api-project/",
-          "publishedOn": "2024-03-08T11:04:53.000Z",
-          "wordCount": 4805,
-          "title": "How to Create a CRUD API – NodeJS and Express Project for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Swimm-Images-4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-3d-art-gallery-with-threejs/",
-          "author": "Beau Carnes",
-          "description": "3D web experiences can provide engaging and interactive user interfaces. And one of the best JavaScript libraries to create these experiences is Three.js. We just posed a comprehensive Three.js course on the freeCodeCamp.org YouTube channel. This course is designed to guide you through the process of building an interactive 3D",
-          "link": "https://www.freecodecamp.org/news/build-3d-art-gallery-with-threejs/",
-          "publishedOn": "2024-03-07T16:21:11.000Z",
-          "wordCount": 1433,
-          "title": "Build a 3D Art Gallery with Three.js",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/art2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/",
-          "author": "Matéush",
-          "description": "In this guide, you will learn how to set up React Testing Library in Next.js. We'll also talk about why you should always test your React applications. I'll discuss the features and benefits of using the React Testing Library to test your React applications and how to configure it with",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/",
-          "publishedOn": "2024-03-07T15:58:47.000Z",
-          "wordCount": 1904,
-          "title": "How to Set Up React Testing Library With Next.js – A Step-by-Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Testing-next-RTL.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-inventory-list-with-react-usereducer-axios-and-json-server/",
-          "author": "TAPAS ADHIKARY",
-          "description": "When it comes to web development, it's hard to ignore React.js. It has been one of the leading user interface libraries for a decade, and it supports a lot of popular frameworks like Next.js in the background. If you are a React developer, you likely appreciate its component-based architecture, uni-directional",
-          "link": "https://www.freecodecamp.org/news/create-an-inventory-list-with-react-usereducer-axios-and-json-server/",
-          "publishedOn": "2024-03-07T15:33:49.000Z",
-          "wordCount": 3930,
-          "title": "How to Create an Inventory List with React useReducer, Axios, and JSON Server",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/inventory-list.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-tailwind-css-in-spanish-full-course/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Tailwind is a CSS framework with pre-defined classes that you can combine to build modern and responsive websites. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that will teach you Tailwind CSS. You will go from the basics to actually building your own real-world projects. By",
-          "link": "https://www.freecodecamp.org/news/learn-tailwind-css-in-spanish-full-course/",
-          "publishedOn": "2024-03-07T15:30:28.000Z",
-          "wordCount": 1090,
-          "title": "Learn Tailwind CSS in Spanish – Full Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Version-2.png"
         }
       ]
     }
