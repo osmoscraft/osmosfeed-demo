@@ -206,21 +206,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/event-calendars-web-commercial-options/",
-          "author": "hello@smashingmagazine.com (Preethi Sam)",
-          "description": "Collection of top-notch calendar components for seamless event scheduling. Whether you prefer ready-to-use setups or enjoy tweaking code for a tailored experience, these calendars have you covered.",
-          "link": "https://smashingmagazine.com/2024/03/event-calendars-web-commercial-options/",
-          "publishedOn": "2024-03-12T12:00:00.000Z",
-          "wordCount": 3664,
-          "title": "Event Calendars For Web Made Easy With These Commercial Options",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/event-calendars-web-commercial-options/event-calendars-web-commercial-options.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/event-calendars-web-commercial-options/event-calendars-web-commercial-options.jpg"
         }
       ]
     },
@@ -229,6 +214,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/",
+          "author": "Anshul Sanghi",
+          "description": "Recently, there's been a massive amount of effort put into developing novel image processing techniques. And many of them are derived from digital signal processing methods such as Fourier and Wavelet transforms.  These techniques have not only enabled a wide range of image processing techniques such as noise reduction,",
+          "link": "https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/",
+          "publishedOn": "2024-04-10T15:48:11.000Z",
+          "wordCount": 6276,
+          "title": "Rust Tutorial – Learn Multi-Scale Processing of Astronomical Images",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Watermark.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/activation-functions-in-neural-networks/",
+          "author": "Tiago Monteiro",
+          "description": "In Artificial Intelligence, Machine Learning is the foundation of most revolutionary AI applications. From language processing to image recognition, Machine Learning is everywhere. Machine Learning relies on algorithms, statistical models, and neural networks. And Deep Learning is the subfield of Machine Learning focused only on neural networks. A key piece",
+          "link": "https://www.freecodecamp.org/news/activation-functions-in-neural-networks/",
+          "publishedOn": "2024-04-10T15:44:31.000Z",
+          "wordCount": 3099,
+          "title": "How AI Models Think: The Key Role of Activation Functions with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/1-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-git-in-spanish-git-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Git is the version control system that most software companies use around the world. It's an essential tool for managing and tracking code changes effectively. If you are learning to code, you should definitely learn Git. We just published a 1-hour course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that",
+          "link": "https://www.freecodecamp.org/news/learn-git-in-spanish-git-course-for-beginners/",
+          "publishedOn": "2024-04-10T15:06:25.000Z",
+          "wordCount": 1037,
+          "title": "Learn Git in Spanish – Git Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Tailwind-v2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/",
+          "author": "Okure U. Edet",
+          "description": "While learning Nestjs, I wanted to be able to send test emails with Nodemailer but I had difficulty doing this in the context of a NestJS application. I searched the internet for a solution and after much research, I found one. It turned out to be really simple. In this",
+          "link": "https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/",
+          "publishedOn": "2024-04-10T11:52:29.000Z",
+          "wordCount": 1412,
+          "title": "How to Send Emails With Nodemailer in NestJS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/joanna-kosinska-uGcDWKN91Fs-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-marquee-component-with-react/",
           "author": "Jaja Ibifubara David",
@@ -868,36 +893,6 @@
           "wordCount": 1049,
           "title": "Top 10 JavaScript Algorithms for Coding Challenges",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/jsalgs.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-set-up-metasploitable/",
-          "author": "Daniel Iwugo",
-          "description": "Ladies and Gentlemen, welcome to the world of Virtual Machines 🖥️ So you’ve discovered the world of ethical hacking and you want to try your hands on something. Trouble is, doing some ‘practical application’ on the wrong thing could get you fined, arrested, and even undesired jail time. You don’t",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-metasploitable/",
-          "publishedOn": "2024-03-12T12:39:45.000Z",
-          "wordCount": 1997,
-          "title": "Ethical Hacking 101 – How to Set Up Metasploitable on Your Computer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/pexels-google-deepmind-17485707.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-run-sql-like-queries-on-files/",
-          "author": "Amr Hesham",
-          "description": "Hello everyone! I'm a Software engineer who is interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context,",
-          "link": "https://www.freecodecamp.org/news/how-to-run-sql-like-queries-on-files/",
-          "publishedOn": "2024-03-12T12:33:46.000Z",
-          "wordCount": 1853,
-          "title": "How to Run SQL-Like Queries on Files",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/fileql_banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-run-github-actions-locally/",
-          "author": "Rajdeep Singh",
-          "description": "GitHub Actions help automate tasks like building, testing, and deploying in your GitHub repository.  With one click, you can publish your production-ready code or package on npm, GitHub pages, docker images, deploy your production code on a cloud provider, and so on. The problem starts when you're testing GitHub",
-          "link": "https://www.freecodecamp.org/news/how-to-run-github-actions-locally/",
-          "publishedOn": "2024-03-11T20:21:13.000Z",
-          "wordCount": 2381,
-          "title": "How to Run GitHub Actions Locally Using the act CLI Tool",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/How-to-run-GitHub-actions-locally.png"
         }
       ]
     }

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T00:55:48.485Z</updated>
+    <updated>2024-04-11T00:56:44.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rust Tutorial – Learn Multi-Scale Processing of Astronomical Images]]></title>
+        <id>https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/</id>
+        <link href="https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/"/>
+        <updated>2024-04-10T15:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Recently, there's been a massive amount of effort put into developing novel image processing techniques. And many of them are derived from digital signal processing methods such as Fourier and Wavelet transforms.  These techniques have not only enabled a wide range of image processing techniques such as noise reduction,]]></summary>
+        <author>
+            <name>Anshul Sanghi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Models Think: The Key Role of Activation Functions with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/activation-functions-in-neural-networks/</id>
+        <link href="https://www.freecodecamp.org/news/activation-functions-in-neural-networks/"/>
+        <updated>2024-04-10T15:44:31.000Z</updated>
+        <summary type="html"><![CDATA[In Artificial Intelligence, Machine Learning is the foundation of most revolutionary AI applications. From language processing to image recognition, Machine Learning is everywhere. Machine Learning relies on algorithms, statistical models, and neural networks. And Deep Learning is the subfield of Machine Learning focused only on neural networks. A key piece]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Git in Spanish – Git Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-git-in-spanish-git-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-git-in-spanish-git-course-for-beginners/"/>
+        <updated>2024-04-10T15:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Git is the version control system that most software companies use around the world. It's an essential tool for managing and tracking code changes effectively. If you are learning to code, you should definitely learn Git. We just published a 1-hour course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Send Emails With Nodemailer in NestJS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-nodemailer-in-nestjs/"/>
+        <updated>2024-04-10T11:52:29.000Z</updated>
+        <summary type="html"><![CDATA[While learning Nestjs, I wanted to be able to send test emails with Nodemailer but I had difficulty doing this in the context of a NestJS application. I searched the internet for a solution and after much research, I found one. It turned out to be really simple. In this]]></summary>
+        <author>
+            <name>Okure U. Edet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Marquee Component with React]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-a-marquee-component-with-react/</id>
@@ -787,46 +827,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[Are you gearing up for coding interviews and looking to strengthen your grasp on JavaScript algorithms? We just posted a course on the FfreeCodeCamp.org YouTube channel that will equips you with the essential skills to excel in Leetcode-style coding challenges. Let's explore what this course has to offer. Mukhtar from]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ethical Hacking 101 – How to Set Up Metasploitable on Your Computer]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-metasploitable/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-metasploitable/"/>
-        <updated>2024-03-12T12:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Ladies and Gentlemen, welcome to the world of Virtual Machines 🖥️ So you’ve discovered the world of ethical hacking and you want to try your hands on something. Trouble is, doing some ‘practical application’ on the wrong thing could get you fined, arrested, and even undesired jail time. You don’t]]></summary>
-        <author>
-            <name>Daniel Iwugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run SQL-Like Queries on Files]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-run-sql-like-queries-on-files/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-sql-like-queries-on-files/"/>
-        <updated>2024-03-12T12:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! I'm a Software engineer who is interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context,]]></summary>
-        <author>
-            <name>Amr Hesham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Event Calendars For Web Made Easy With These Commercial Options]]></title>
-        <id>https://smashingmagazine.com/2024/03/event-calendars-web-commercial-options/</id>
-        <link href="https://smashingmagazine.com/2024/03/event-calendars-web-commercial-options/"/>
-        <updated>2024-03-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Collection of top-notch calendar components for seamless event scheduling. Whether you prefer ready-to-use setups or enjoy tweaking code for a tailored experience, these calendars have you covered.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run GitHub Actions Locally Using the act CLI Tool]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-run-github-actions-locally/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-github-actions-locally/"/>
-        <updated>2024-03-11T20:21:13.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Actions help automate tasks like building, testing, and deploying in your GitHub repository.  With one click, you can publish your production-ready code or package on npm, GitHub pages, docker images, deploy your production code on a cloud provider, and so on. The problem starts when you're testing GitHub]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
         </author>
     </entry>
 </feed>
