@@ -43,6 +43,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "The three Core Web Vitals metrics don’t only tell you how visitors experience your website but also impact your Google search result rankings. In this article, we’ll look at what Core Web Vitals are, how they are measured, and how you can use DebugBear to monitor them continuously.",
+          "link": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
+          "publishedOn": "2024-04-16T10:00:00.000Z",
+          "wordCount": 3888,
+          "title": "How To Monitor And Optimize Google Core Web Vitals",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/monitor-optimize-google-core-web-vitals/monitor-optimize-google-core-web-vitals.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/monitor-optimize-google-core-web-vitals/monitor-optimize-google-core-web-vitals.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/",
           "author": "hello@smashingmagazine.com (Temani Afif)",
           "description": "Creating 3D effects in CSS isn’t an entirely new concept, but typical approaches use additional elements in the markup and pseudo-elements in the styles to pull it off. Temani Afif applies 3D effects and sliding transitions to a single `` using clever CSS techniques that demonstrate advanced, modern styling practices.",
@@ -244,6 +259,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/",
+          "author": "Dionysia Lemonaki",
+          "description": "When working with strings in C, you need to know how to find their length. Finding the length of a string in C is essential for many reasons. You may need to perform string manipulation, and many string manipulation functions require the length of th...",
+          "link": "https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/",
+          "publishedOn": "2024-04-16T15:00:09.000Z",
+          "wordCount": 1558,
+          "title": "Length of C String – How to Find the Size of a String in C",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/JfhNqZtV56s/upload/0d58732b5a311298756b16ad3540b820.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-responsive-html-email-template/",
+          "author": "Fanny Nyayic",
+          "description": "In this beginner-friendly guide, you'll learn how to create a responsive email template. You'll follow step-by-step instructions with code snippets to design an email template that looks great on any device.  This project is perfect for newcomers eager to master email design basics! Step 1: Set Up the Basic",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-responsive-html-email-template/",
+          "publishedOn": "2024-04-15T23:11:04.000Z",
+          "wordCount": 2085,
+          "title": "How to Create a Responsive HTML Email Template",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/create-html-email-template-from-scratch.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-shift-left-in-software/",
+          "author": "Kealan Parr",
+          "description": "I once had a manager who, in a discussion about our project, mentioned that we needed to try and shift our work left as much as we could.  A few months later in an interview, the interviewer asked me if I knew what \" shift left\" meant. Unless there's",
+          "link": "https://www.freecodecamp.org/news/what-is-shift-left-in-software/",
+          "publishedOn": "2024-04-15T22:25:08.000Z",
+          "wordCount": 1328,
+          "title": "What Does \"Shift Left\" Mean in Software Development?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Shift-Left-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/",
+          "author": "Rajdeep Singh",
+          "description": "A GitHub wiki is a great place for your project's documentation. You can use the wiki to create, manage, and host documentation for your repository so others can use and contribute to your project. GitHub wikis are easy to start using without installing any other software. The best part is",
+          "link": "https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/",
+          "publishedOn": "2024-04-15T20:46:02.000Z",
+          "wordCount": 1868,
+          "title": "What is a GitHub Wiki and How Do You Use it?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/What-is-GitHub-Wiki-and-How-Do-You-Use-it.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-aliases-to-terminal-commands/",
+          "author": "Kaushal Joshi",
+          "description": "In this article, we'll explore a simple trick that can save you hours of typing repetitive commands in the terminal. As developers, we spend a substantial amount of time executing commands on the terminal. Whether it's navigating through directories, running scripts, changing Node.js versions, or version control commands, manually typing",
+          "link": "https://www.freecodecamp.org/news/how-to-add-aliases-to-terminal-commands/",
+          "publishedOn": "2024-04-15T15:37:42.000Z",
+          "wordCount": 1751,
+          "title": "How to Add Aliases to Terminal Commands in Linux and Mac",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/terminal-alias.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-set-up-custom-email/",
           "author": "San B",
@@ -943,36 +1008,6 @@
           "wordCount": 1624,
           "title": "How to Migrate Your Local Data to MongoDB Atlas",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/mongoCloud.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-prettier-in-visual-studio-code/",
-          "author": "Matéush",
-          "description": "Nowadays, every tech company strives to build quality software fast. That's why every developer must learn how to write clean and readable code.  But when a project is managed by multiple developers, the focus shifts into consistency especially in terms of written code.  Keeping a consistent code style",
-          "link": "https://www.freecodecamp.org/news/how-to-use-prettier-in-visual-studio-code/",
-          "publishedOn": "2024-03-18T12:35:12.000Z",
-          "wordCount": 1310,
-          "title": "How To Use Prettier in Visual Studio Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Prettier.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/reactive-programming-beginner-guide/",
-          "author": "Pacifique LINJANJA",
-          "description": "Welcome to our journey through the dynamic world of reactive programming! This fascinating paradigm is all about building responsive, resilient, and adaptable applications that effortlessly manage vast amounts of data almost instantly. Imagine writing a program that needs to react instantly to changes—be it user inputs, messages from other systems,",
-          "link": "https://www.freecodecamp.org/news/reactive-programming-beginner-guide/",
-          "publishedOn": "2024-03-18T09:02:54.000Z",
-          "wordCount": 4655,
-          "title": "What is Reactive Programming? Beginner's Guide to Writing Reactive Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Screenshot-2024-03-14-at-17.29.29.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/virtual-dom-vs-shadow-dom/",
-          "author": "Joan Ayebola",
-          "description": "In web development, understanding the inner workings of the Document Object Model (DOM) is crucial. Two concepts that often come up in discussions about DOM are Virtual DOM and Shadow DOM. While they sound similar, they serve different purposes and have distinct characteristics.  In this comprehensive guide, we'll delve",
-          "link": "https://www.freecodecamp.org/news/virtual-dom-vs-shadow-dom/",
-          "publishedOn": "2024-03-18T08:22:16.000Z",
-          "wordCount": 1366,
-          "title": "Virtual DOM vs Shadow DOM – What's the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--13-.png"
         }
       ]
     }
