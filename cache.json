@@ -43,6 +43,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
+          "author": "hello@smashingmagazine.com (Alexis Kypridemos)",
+          "description": "What do you do when you need to convert plain text into formatted HTML? Perhaps you reach for Markdown or manually write in the element tags yourself. Or maybe you have one or two of the dozens of online tools that will do it for you. In this tutorial, Alexis Kypridemos picks those tools apart and details the steps for how we can do it ourselves with a little vanilla HTML, CSS, and JavaScript.",
+          "link": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
+          "publishedOn": "2024-04-17T13:00:00.000Z",
+          "wordCount": 5866,
+          "title": "Converting Plain Text To Encoded HTML With Vanilla JavaScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/converting-text-encoded-html-vanilla-javascript/converting-text-encoded-html-vanilla-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/converting-text-encoded-html-vanilla-javascript/converting-text-encoded-html-vanilla-javascript.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
           "author": "hello@smashingmagazine.com (Matt Zeunert)",
           "description": "The three Core Web Vitals metrics don’t only tell you how visitors experience your website but also impact your Google search result rankings. In this article, we’ll look at what Core Web Vitals are, how they are measured, and how you can use DebugBear to monitor them continuously.",
@@ -236,21 +251,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/success-at-scale-book-release/success-at-ascale-22-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
-          "author": "hello@smashingmagazine.com (Krisztina Szerovay)",
-          "description": "How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)",
-          "link": "https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/",
-          "publishedOn": "2024-03-18T18:00:00.000Z",
-          "wordCount": 7695,
-          "title": "Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/sketchnotes-key-takeaways-smashingconf-antwerp-2023/welcome-smashingconf-antwerp-2023.jpg"
         }
       ]
     },
@@ -259,6 +259,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-print-a-string-in-c/",
+          "author": "Dionysia Lemonaki",
+          "description": "Printing strings is a fundamental operation in programming. It helps you output information, inspect and debug your code, and display prompts to users. In this article, you will learn some of the different techniques to print strings in C. What is a ...",
+          "link": "https://www.freecodecamp.org/news/how-to-print-a-string-in-c/",
+          "publishedOn": "2024-04-17T13:50:03.000Z",
+          "wordCount": 1595,
+          "title": "C Print String – How to Print a String in C",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Hcfwew744z4/upload/73cd11d4c62fcaa9d6fa85514d7cb732.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/",
+          "author": "Joan Ayebola",
+          "description": "In React, there are two primary ways to create components: function and class components. Each has its own syntax and use cases, although with the introduction of React Hooks, the gap between them has narrowed significantly. But the selection of appropriate component types is still very crucial for building efficient",
+          "link": "https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/",
+          "publishedOn": "2024-04-16T22:37:11.000Z",
+          "wordCount": 3998,
+          "title": "Function Components vs Class Components in React – With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--5-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/applied-data-science-a-b-testing/",
+          "author": "Beau Carnes",
+          "description": "A/B testing is a key technique used in data science for making data-driven decisions in business. We just published a course on the freeCodeCamp.org YouTube channel that will tech you this important data science technique. Developed by Tatev, a seaso...",
+          "link": "https://www.freecodecamp.org/news/applied-data-science-a-b-testing/",
+          "publishedOn": "2024-04-16T20:53:54.000Z",
+          "wordCount": 905,
+          "title": "Applied Data Science: A / B Testing",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713300810848/fe87abbf-4f7e-4e67-8fdd-c995328a6994.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/",
+          "author": "Beau Carnes",
+          "description": "DigitalOcean is a cloud infrastructure provider that offers developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers. We just posted a course on the freeCodeCamp.org YouTube channel that will ...",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/",
+          "publishedOn": "2024-04-16T20:42:51.000Z",
+          "wordCount": 830,
+          "title": "Learn how to deploy to Digital Ocean",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713300046751/a2c9ed82-8ff1-476f-90a1-2821b90ff3a3.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/",
+          "author": "Ihechikara Abba",
+          "description": "You can use bytes in Python to represent data in binary form. In this article, you'll learn how to convert bytes to a string, and vice versa. Before we look at the conversions, let's talk about how bytes work in Python. You can skip to the next secti...",
+          "link": "https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/",
+          "publishedOn": "2024-04-16T20:07:39.000Z",
+          "wordCount": 1086,
+          "title": "Python Bytes to String – How to Convert a Str to Bytes and Back Again",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/zGuBURGGmdY/upload/6d5b13a8926b01576cba45ee0d72bfc8.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/",
+          "author": "Anshul Sanghi",
+          "description": "Star detection is a crucial step in many of the processing and analysis routines that we perform on astronomical images. It is extremely important for a process called plate-solving, which is the process of figuring out which part of the sky an image shows, or which part of the sky",
+          "link": "https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/",
+          "publishedOn": "2024-04-16T19:34:07.000Z",
+          "wordCount": 4683,
+          "title": "Rust Tutorial – How to Build a Naïve Star Detector for Images",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/cover.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/",
           "author": "Dionysia Lemonaki",
@@ -968,46 +1028,6 @@
           "wordCount": 2061,
           "title": "How to Always Have A BuildContext in Flutter Outside of UI Code",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Untitled-design.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/",
-          "author": "Hamdaan Ali",
-          "description": "Data integrity refers to the assurance that data remains accurate, unaltered, and consistent throughout its lifecycle. In communication, it is crucial to ensure data integrity to safeguard against unintended alterations and malicious interventions during transmission. The integrity of Digital Data is accomplished using Hashing Algorithms. The  crypto module in",
-          "link": "https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/",
-          "publishedOn": "2024-03-18T23:00:22.000Z",
-          "wordCount": 4976,
-          "title": "How to Protect Data in Transit using HMAC and Diffie-Hellman in Node.js [Full Handbook]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Protect-Data-in-Transit-Handbook-v2--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/control-led-with-potentiometer/",
-          "author": "Ihechikara Vincent Abba",
-          "description": "Potentiometers are used in various electronic circuits and systems. You can use them in electronic devices to control volume, brightness, motor speed, voltage regulation, and so on. You've most likely used a potentiometer before with appliances like radios, microwaves, blenders, electric fans, game controllers, and others. They are generally used",
-          "link": "https://www.freecodecamp.org/news/control-led-with-potentiometer/",
-          "publishedOn": "2024-03-18T19:48:37.000Z",
-          "wordCount": 1340,
-          "title": "How to Control the Brightness of an LED with a Potentiometer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/cover-image-potentiometer.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-linked-list-types-and-examples/",
-          "author": "Sule-Balogun Olanrewaju Ganiu",
-          "description": "A linked list is a linear data structure consisting of a sequence of nodes. Unlike arrays, linked lists do not require contiguous memory allocation. Instead, each node is dynamically allocated its own memory space.  Nodes are connected through references, forming the linked structure. One advantage of linked lists is",
-          "link": "https://www.freecodecamp.org/news/what-is-a-linked-list-types-and-examples/",
-          "publishedOn": "2024-03-18T15:25:17.000Z",
-          "wordCount": 3419,
-          "title": "What is a Linked list? Types of Linked List with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/john-petter-fagerhaug-nlT3NvhGKt8-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/mongodb-data-migration/",
-          "author": "oluwatobi Joshua",
-          "description": "Data forms the bedrock of our daily lives, as a lot of day-to-day decision-making is hinged on its existence. Just like energy, data can be transformed from one medium to another. So far, web development has become much more advanced, and data migration and backup is an essential skill every",
-          "link": "https://www.freecodecamp.org/news/mongodb-data-migration/",
-          "publishedOn": "2024-03-18T14:40:31.000Z",
-          "wordCount": 1624,
-          "title": "How to Migrate Your Local Data to MongoDB Atlas",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/mongoCloud.jpg"
         }
       ]
     }

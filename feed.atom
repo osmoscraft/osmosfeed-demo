@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-17T00:56:56.540Z</updated>
+    <updated>2024-04-18T00:55:54.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[C Print String – How to Print a String in C]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-print-a-string-in-c/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-print-a-string-in-c/"/>
+        <updated>2024-04-17T13:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Printing strings is a fundamental operation in programming. It helps you output information, inspect and debug your code, and display prompts to users. In this article, you will learn some of the different techniques to print strings in C. What is a ...]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converting Plain Text To Encoded HTML With Vanilla JavaScript]]></title>
+        <id>https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/</id>
+        <link href="https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/"/>
+        <updated>2024-04-17T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What do you do when you need to convert plain text into formatted HTML? Perhaps you reach for Markdown or manually write in the element tags yourself. Or maybe you have one or two of the dozens of online tools that will do it for you. In this tutorial, Alexis Kypridemos picks those tools apart and details the steps for how we can do it ourselves with a little vanilla HTML, CSS, and JavaScript.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexis Kypridemos)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function Components vs Class Components in React – With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/"/>
+        <updated>2024-04-16T22:37:11.000Z</updated>
+        <summary type="html"><![CDATA[In React, there are two primary ways to create components: function and class components. Each has its own syntax and use cases, although with the introduction of React Hooks, the gap between them has narrowed significantly. But the selection of appropriate component types is still very crucial for building efficient]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Applied Data Science: A / B Testing]]></title>
+        <id>https://www.freecodecamp.org/news/applied-data-science-a-b-testing/</id>
+        <link href="https://www.freecodecamp.org/news/applied-data-science-a-b-testing/"/>
+        <updated>2024-04-16T20:53:54.000Z</updated>
+        <summary type="html"><![CDATA[A/B testing is a key technique used in data science for making data-driven decisions in business. We just published a course on the freeCodeCamp.org YouTube channel that will tech you this important data science technique. Developed by Tatev, a seaso...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn how to deploy to Digital Ocean]]></title>
+        <id>https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/"/>
+        <updated>2024-04-16T20:42:51.000Z</updated>
+        <summary type="html"><![CDATA[DigitalOcean is a cloud infrastructure provider that offers developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers. We just posted a course on the freeCodeCamp.org YouTube channel that will ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Bytes to String – How to Convert a Str to Bytes and Back Again]]></title>
+        <id>https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/</id>
+        <link href="https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/"/>
+        <updated>2024-04-16T20:07:39.000Z</updated>
+        <summary type="html"><![CDATA[You can use bytes in Python to represent data in binary form. In this article, you'll learn how to convert bytes to a string, and vice versa. Before we look at the conversions, let's talk about how bytes work in Python. You can skip to the next secti...]]></summary>
+        <author>
+            <name>Ihechikara Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Tutorial – How to Build a Naïve Star Detector for Images]]></title>
+        <id>https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/</id>
+        <link href="https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/"/>
+        <updated>2024-04-16T19:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Star detection is a crucial step in many of the processing and analysis routines that we perform on astronomical images. It is extremely important for a process called plate-solving, which is the process of figuring out which part of the sky an image shows, or which part of the sky]]></summary>
+        <author>
+            <name>Anshul Sanghi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Length of C String – How to Find the Size of a String in C]]></title>
         <id>https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/</id>
@@ -877,56 +947,6 @@ Accessible Forms with Pseudo Classes originally published on CSS-Tricks, which i
         <summary type="html"><![CDATA[The BuildContext provides important app-wide configuration information to all widgets in the widget tree. It is always naturally available in build methods and within State classes.  In this article, we will explore how we can obtain a valid BuildContext outside the scope of its natural availability. Table Of Contents]]></summary>
         <author>
             <name>Obumuneme Nwabude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Data in Transit using HMAC and Diffie-Hellman in Node.js [Full Handbook]]]></title>
-        <id>https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/</id>
-        <link href="https://www.freecodecamp.org/news/hmac-diffie-hellman-in-node/"/>
-        <updated>2024-03-18T23:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Data integrity refers to the assurance that data remains accurate, unaltered, and consistent throughout its lifecycle. In communication, it is crucial to ensure data integrity to safeguard against unintended alterations and malicious interventions during transmission. The integrity of Digital Data is accomplished using Hashing Algorithms. The  crypto module in]]></summary>
-        <author>
-            <name>Hamdaan Ali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Control the Brightness of an LED with a Potentiometer]]></title>
-        <id>https://www.freecodecamp.org/news/control-led-with-potentiometer/</id>
-        <link href="https://www.freecodecamp.org/news/control-led-with-potentiometer/"/>
-        <updated>2024-03-18T19:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Potentiometers are used in various electronic circuits and systems. You can use them in electronic devices to control volume, brightness, motor speed, voltage regulation, and so on. You've most likely used a potentiometer before with appliances like radios, microwaves, blenders, electric fans, game controllers, and others. They are generally used]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sketchnotes And Key Takeaways From SmashingConf Antwerp 2023]]></title>
-        <id>https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/</id>
-        <link href="https://smashingmagazine.com/2024/03/sketchnotes-key-takeaways-smashingconf-antwerp-2023/"/>
-        <updated>2024-03-18T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How was the first SmashingConf in Antwerp, you ask? One of our online attendees, Krisztina Szerovay, shares her sketchnotes and takeaways of the talks that were held on both days of the conference — with photos and recordings saved as best for last. [See you live in Antwerp this year, maybe?](https://smashingconf.com/antwerp-2024)]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Krisztina Szerovay)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Linked list? Types of Linked List with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-linked-list-types-and-examples/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-linked-list-types-and-examples/"/>
-        <updated>2024-03-18T15:25:17.000Z</updated>
-        <summary type="html"><![CDATA[A linked list is a linear data structure consisting of a sequence of nodes. Unlike arrays, linked lists do not require contiguous memory allocation. Instead, each node is dynamically allocated its own memory space.  Nodes are connected through references, forming the linked structure. One advantage of linked lists is]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate Your Local Data to MongoDB Atlas]]></title>
-        <id>https://www.freecodecamp.org/news/mongodb-data-migration/</id>
-        <link href="https://www.freecodecamp.org/news/mongodb-data-migration/"/>
-        <updated>2024-03-18T14:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Data forms the bedrock of our daily lives, as a lot of day-to-day decision-making is hinged on its existence. Just like energy, data can be transformed from one medium to another. So far, web development has become much more advanced, and data migration and backup is an essential skill every]]></summary>
-        <author>
-            <name>oluwatobi Joshua</name>
         </author>
     </entry>
 </feed>
