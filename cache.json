@@ -236,21 +236,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/uniting-rikyu-wisdom-brand-experience-principles/uniting-rikyu-wisdom-brand-experience-principles.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/success-at-scale-book-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "It’s here, and it’s shipping! Meet our newest Smashing book, ”Success at Scale”. It’s filled with practical insights and real-world case studies of how big changes can be made on projects of any size. Addy Osmani has curated finest examples, case studies and interviews to help you get successful at scale. Jump to the details and get the book right away.",
-          "link": "https://smashingmagazine.com/2024/03/success-at-scale-book-release/",
-          "publishedOn": "2024-03-20T11:00:00.000Z",
-          "wordCount": 3816,
-          "title": "Now Shipping: Success At Scale, A New Smashing Book by Addy Osmani",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/success-at-scale-book-release/success-at-ascale-22-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/success-at-scale-book-release/success-at-ascale-22-opt.png"
         }
       ]
     },
@@ -259,6 +244,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/quincys-5-worth-your-time-update/",
+          "author": "Quincy Larson",
+          "description": "I've been sending my \"5 freeCodeCamp resources worth your time\" for 8 years now. That's nearly 400 emails that I've authored and sent out over the years. Don't worry. I'm not tired. I love doing this, I'm going to keep working hard to share helpful learning resources with you. I",
+          "link": "https://www.freecodecamp.org/news/quincys-5-worth-your-time-update/",
+          "publishedOn": "2024-04-18T16:43:10.000Z",
+          "wordCount": 805,
+          "title": "Quincy's 5 freeCodeCamp Resources Worth Your Time Email – You Need to Re-subscribe Real Quick",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/rinck-content-studio-jF-8LUJMrdk-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-set-a-different-location-to-save-screenshots-on-mac/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "If you're coming to macOS from a different operating system (like Windows or Linux), it might feel odd that, by default, macOS saves screenshots in the Desktop folder. This make the desktop look messy after a while if you take a lot of screenshots! But it doesn't look messy if",
+          "link": "https://www.freecodecamp.org/news/how-to-set-a-different-location-to-save-screenshots-on-mac/",
+          "publishedOn": "2024-04-17T22:02:43.000Z",
+          "wordCount": 1053,
+          "title": "How to Set a Different Location to Save All Screenshots on macOS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/iewek-gnos-hhUx08PuYpc-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-app-with-fly-io-and-tigris/",
+          "author": "Andrew Baisden",
+          "description": "In this tutorial, you're going to learn about the app deployment platform Fly.io and the globally distributed S3-compatible object storage service Tigris.  Both platforms are deeply connected, which makes them a great choice for your projects. You get the app deployment experience from Fly.io and the object storage features",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-app-with-fly-io-and-tigris/",
+          "publishedOn": "2024-04-17T21:24:00.000Z",
+          "wordCount": 6891,
+          "title": "How to Deploy a Next.js App Using Fly.io and Tigris",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/fly-tigris-banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-dynamic-dropdown-component/",
+          "author": "Jaja Ibifubara David",
+          "description": "Dropdowns have been an important part of websites and apps for a long time. They're an unsung heros of user interactions, silently facilitating countless actions and decisions with just a click or tap.  You probably encountered one today, whether it was selecting a category on your favourite online store",
+          "link": "https://www.freecodecamp.org/news/build-a-dynamic-dropdown-component/",
+          "publishedOn": "2024-04-17T19:21:03.000Z",
+          "wordCount": 4312,
+          "title": "How to Build a Dynamic Dropdown Component in React – React Compound Component Pattern Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Article-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/mastering-rag-from-scratch/",
+          "author": "Beau Carnes",
+          "description": "Retrieval-Augmented Generation (RAG) can be extremely helpful when developing projects with Large Language Models. It combines the power of retrieval systems with advanced natural language generation, providing a sophisticated approach to generating ...",
+          "link": "https://www.freecodecamp.org/news/mastering-rag-from-scratch/",
+          "publishedOn": "2024-04-17T17:33:58.000Z",
+          "wordCount": 1082,
+          "title": "Learn RAG from Scratch – Python AI Tutorial from a LangChain Engineer",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713375208533/25d36579-4e59-4a7f-b63e-a67ec6de69b8.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/jwt-authentication-in-flask/",
+          "author": "Yemi Ojedapo",
+          "description": "Passwords, credit card information, personal identification numbers (PINs) – these are all critical assets used for authorization and authentication. This means they need to be protected from unauthorized users. As developers, we are tasked with safeguarding these sensitive bits of info, and it's important to implement strong secure measures in",
+          "link": "https://www.freecodecamp.org/news/jwt-authentication-in-flask/",
+          "publishedOn": "2024-04-17T16:29:02.000Z",
+          "wordCount": 2229,
+          "title": "How to Use JSON Web Tokens for Secure Authentication in Flask Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/pexels-soumil-kumar-735911--1-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-print-a-string-in-c/",
           "author": "Dionysia Lemonaki",
@@ -988,46 +1033,6 @@
           "wordCount": 2137,
           "title": "Asynchronous vs Batch Data Processing in Distributed Systems – Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/pixlr-image-generator-acf0ffaa-68f5-4735-b9fc-cc92b2ed8761.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-abstraction-in-coding/",
-          "author": "Kealan Parr",
-          "description": "I've met and talked to multiple new coders recently, and I see a common mistake they all seem to make. They don't embrace and understand abstractions in their code, or in their learning. But what are abstractions? And why are they important? Let's dive in! What is an Abstraction? In",
-          "link": "https://www.freecodecamp.org/news/what-is-abstraction-in-coding/",
-          "publishedOn": "2024-03-19T22:29:31.000Z",
-          "wordCount": 1823,
-          "title": "What is Abstraction in Coding? A Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/EmbraceAbstractions-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/intro-to-stacks-data-structure-and-algorithm-tutorial/",
-          "author": "Beau Carnes",
-          "description": "Understanding the stack data structure is important for anyone interested in computer science. It is a key data structure used in many programs and also coding challenges. Understanding stacks can help you in technical interviews. We just posted a course on the freeCodeCamp.org YouTube channel that will help you master",
-          "link": "https://www.freecodecamp.org/news/intro-to-stacks-data-structure-and-algorithm-tutorial/",
-          "publishedOn": "2024-03-19T15:08:15.000Z",
-          "wordCount": 1187,
-          "title": "Intro to Stacks – Data Structure and Algorithm Tutorial",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/stacks.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/",
-          "author": "Beau Carnes",
-          "description": "Spring Boot 3 is an advanced framework that simplifies the development of new Spring applications through convention over configuration, providing a range of out-of-the-box functionalities for building enterprise-grade applications efficiently. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to develop apps with Spring",
-          "link": "https://www.freecodecamp.org/news/learn-app-development-with-spring-boot-3/",
-          "publishedOn": "2024-03-19T14:57:37.000Z",
-          "wordCount": 1134,
-          "title": "Learn App Development with Spring Boot 3",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/javaspringboot.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-always-have-a-buildcontext-in-flutter-outside-ui-code/",
-          "author": "Obumuneme Nwabude",
-          "description": "The BuildContext provides important app-wide configuration information to all widgets in the widget tree. It is always naturally available in build methods and within State classes.  In this article, we will explore how we can obtain a valid BuildContext outside the scope of its natural availability. Table Of Contents",
-          "link": "https://www.freecodecamp.org/news/how-to-always-have-a-buildcontext-in-flutter-outside-ui-code/",
-          "publishedOn": "2024-03-19T14:42:46.000Z",
-          "wordCount": 2061,
-          "title": "How to Always Have A BuildContext in Flutter Outside of UI Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Untitled-design.png"
         }
       ]
     }
