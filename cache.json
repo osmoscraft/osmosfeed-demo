@@ -43,6 +43,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Scrolling, scanning, skipping: How do users consume content online? Here’s what you need to know about reading behavior and design strategies to prevent harmful scanning patterns. An upcoming part of Smart Interface Design Patterns.",
+          "link": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
+          "publishedOn": "2024-04-23T10:00:00.000Z",
+          "wordCount": 3721,
+          "title": "F-Shape Pattern And How Users Read",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/f-shape-pattern-how-users-read/f-shape-pattern-how-users-read.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/f-shape-pattern-how-users-read/f-shape-pattern-how-users-read.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/how-work-graphql-wordpress-2024/",
           "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
           "description": "What options do we have for integrating GraphQL with WordPress in 2024? Leonardo Losoviz describes the developments that have taken place in this space over the last three years.",
@@ -221,21 +236,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/the-future-of-user-research/increased-demand-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-          "author": "hello@smashingmagazine.com (Henry Bley-Vroman)",
-          "description": "There are many ways to approach a “Dark Mode” feature that respects a user’s system color scheme preferences and allows for per-site customization. Henry Bley-Vroman walks through a new possibility that leans into cutting-edge CSS, with minimal JavaScript to support persisting the user’s color scheme preference across pages.",
-          "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-          "publishedOn": "2024-03-25T12:00:00.000Z",
-          "wordCount": 4578,
-          "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg"
         }
       ]
     },
@@ -244,6 +244,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-biophilic-design/",
+          "author": "Jaja Ibifubara David",
+          "description": "In a world where we're constantly glued to screens and distracted by digital noise, it's easy to forget about nature.  But here's the exciting part: biophilic design offers a cool solution. Usually, it's all about bringing nature into buildings, but now nature is branching out into web design as",
+          "link": "https://www.freecodecamp.org/news/what-is-biophilic-design/",
+          "publishedOn": "2024-04-23T18:28:38.000Z",
+          "wordCount": 2344,
+          "title": "What is Biophilic Design? How to Reconnect with Nature through Web Design",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Article-Cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-add-media-to-your-html-email-template/",
+          "author": "Fanny Nyayic",
+          "description": "In my previous article, \"How to Create a Responsive HTML Email Template [/news/how-to-create-a-responsive-html-email-template/],\" we explored the fundamentals of designing and coding a simple HTML email template that adapts beautifully across different devices and email clients.  I got a couple of questions about adding media to the HTML email template.",
+          "link": "https://www.freecodecamp.org/news/how-to-add-media-to-your-html-email-template/",
+          "publishedOn": "2024-04-23T17:40:54.000Z",
+          "wordCount": 1707,
+          "title": "How to Add Media to Your HTML Email Template",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Add-Media-to-Your-HTML-Email-Template.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/feature-flags-and-role-based-access-control-devops/",
+          "author": "Kayode Adeniyi",
+          "description": "These days, software is being developed and deployed at a very rapid pace. It makes it easy to understand how the saying “move fast and break things” became commonplace.  In an era where agile development is the go-to practice for quick feature releases and feedback, it's easy for security",
+          "link": "https://www.freecodecamp.org/news/feature-flags-and-role-based-access-control-devops/",
+          "publishedOn": "2024-04-22T21:26:27.000Z",
+          "wordCount": 3049,
+          "title": "How Feature Flags and Role-Based Access Control Can Help Secure Your DevOps Process",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/pete-alexopoulos-IssFEVzKV1w-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-debug-node-js-applications/",
           "author": "Yogesh Chavan",
