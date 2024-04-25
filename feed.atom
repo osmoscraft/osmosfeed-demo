@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T00:57:45.857Z</updated>
+    <updated>2024-04-25T00:59:17.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Implement JSON Web Tokens (JWTs) in PHP – PHP Authentication Guide]]></title>
+        <id>https://www.freecodecamp.org/news/php-jwt-authentication-implementation/</id>
+        <link href="https://www.freecodecamp.org/news/php-jwt-authentication-implementation/"/>
+        <updated>2024-04-24T18:41:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll explore the process of creating JSON Web Tokens (JWTs) from scratch in PHP, presenting a superior and more secure authentication scheme.  By implementing this advanced approach, we unveil a robust and highly secure authentication mechanism that significantly enhances data protection and user authentication. Table Of]]></summary>
+        <author>
+            <name>oghenekparobo stephen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procedural Macros in Rust – A Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/procedural-macros-in-rust/</id>
+        <link href="https://www.freecodecamp.org/news/procedural-macros-in-rust/"/>
+        <updated>2024-04-24T17:49:17.000Z</updated>
+        <summary type="html"><![CDATA[In this handbook, you'll learn about procedural macros in Rust, and what purposes they serve. You'll also learn how to write your own procedural macros with both hypothetical and real-world examples. This guide assumes that you're familiar with Rust and its basic concepts, such as data-types, iterators, and traits. If]]></summary>
+        <author>
+            <name>Anshul Sanghi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webflow Crash Course]]></title>
+        <id>https://www.freecodecamp.org/news/webflow-crash-course/</id>
+        <link href="https://www.freecodecamp.org/news/webflow-crash-course/"/>
+        <updated>2024-04-24T17:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to master Webflow and build stunning websites without writing a single line of code? We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through everything you need to know about Webflow. Ashokkumar Chava...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Google Photos Clone with Next.js and Cloudinary]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/"/>
+        <updated>2024-04-24T17:07:29.000Z</updated>
+        <summary type="html"><![CDATA[Creating a Google Photos clone will help you learn a lot about web development. We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a powerful photo management app using Next.js and Cloudinary. Colb...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Responsive Website with HTML and CSS - Course in Spanish]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/"/>
+        <updated>2024-04-24T15:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Building websites that look great on any device – like a phone, tablet, or computer screen – is what responsive web development is all about. In this course, you will learn how to build a responsive website step by step in Spanish using HTML and CSS....]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using AI For Neurodiversity And Building Inclusive Tools]]></title>
+        <id>https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/</id>
+        <link href="https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/"/>
+        <updated>2024-04-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article illustrates how AI can be leveraged to build tools that can be inclusive with a little bit of an additional effort.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Object-Oriented Programming in Python – Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-oop-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-oop-in-python/"/>
+        <updated>2024-04-24T14:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Object-oriented programming (OOP) is a style of programming that heavily relies on objects. These objects can have attributes and methods. While attributes store data, methods define behavior. Like many other programming languages, Python supports both OOP and functional programming. However, OOP becomes valuable when writing large-sized and complex programs. In]]></summary>
+        <author>
+            <name>Damilola Oladele</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Biophilic Design? How to Reconnect with Nature through Web Design]]></title>
         <id>https://www.freecodecamp.org/news/what-is-biophilic-design/</id>
@@ -927,46 +997,6 @@ The Power of :has() in CSS originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[Software projects follow identifiable milestones as they move towards a successful completion. If you want to give your project the best chances of success, it's important to understand what those milestones mean and how they're defined. This article comes from my Complete LPI Open Source Essentials Exam Study Guide]]></summary>
         <author>
             <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Navigation – How to Build a Breadcrumb Component]]></title>
-        <id>https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/</id>
-        <link href="https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/"/>
-        <updated>2024-03-25T22:33:05.000Z</updated>
-        <summary type="html"><![CDATA[I know what you're thinking, but despite the article title and cover image, this article isn't about bread or even pastries. Instead, it looks at a commonly used component in web applications for navigation called the breadcrumb component. Here, we'll unravel the mysteries of breadcrumb trails in React applications, dissecting]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock the Power of Data Analytics with Free Google Services]]></title>
-        <id>https://www.freecodecamp.org/news/data-analytics-with-google-stack/</id>
-        <link href="https://www.freecodecamp.org/news/data-analytics-with-google-stack/"/>
-        <updated>2024-03-25T19:57:04.000Z</updated>
-        <summary type="html"><![CDATA[The ability to analyze and interpret data is indispensable across many different industries. And you don't even need to buy any software to expertly analyize data. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you about data analytics through hands-on projects, leveraging a suite of]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Start a Career in Cloud Computing in 2024]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/"/>
-        <updated>2024-03-25T18:03:41.000Z</updated>
-        <summary type="html"><![CDATA[What comes to mind when you hear the term "the Cloud"? Do you envision the vast expanse of the sky, with its billowy clouds and soaring birds? In the realm of technology, the term "Cloud" has no relation to the atmospheric phenomena or avian inhabitants of the world. Instead, it]]></summary>
-        <author>
-            <name>Akande Olalekan Toheeb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Troubleshoot Your Network on Linux – OSI Model Troubleshooting Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-troubleshoot-network-on-linux/</id>
-        <link href="https://www.freecodecamp.org/news/how-troubleshoot-network-on-linux/"/>
-        <updated>2024-03-25T17:34:59.000Z</updated>
-        <summary type="html"><![CDATA[In the world of networking, you may find yourself troubleshooting problems such as difficulty connecting to other computers or to SSH, problems with IP tables, or being unable to access websites. However, have you ever attempted to troubleshoot your network by applying the OSI Model? Through the use of a]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
         </author>
     </entry>
 </feed>

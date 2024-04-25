@@ -43,6 +43,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
+          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
+          "description": "This article illustrates how AI can be leveraged to build tools that can be inclusive with a little bit of an additional effort.",
+          "link": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
+          "publishedOn": "2024-04-24T15:00:00.000Z",
+          "wordCount": 5701,
+          "title": "Using AI For Neurodiversity And Building Inclusive Tools",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-for-neurodiversity/ai-neurodiversity-building-inclusive-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-for-neurodiversity/ai-neurodiversity-building-inclusive-tools.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/f-shape-pattern-how-users-read/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Scrolling, scanning, skipping: How do users consume content online? Here’s what you need to know about reading behavior and design strategies to prevent harmful scanning patterns. An upcoming part of Smart Interface Design Patterns.",
@@ -244,6 +259,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/php-jwt-authentication-implementation/",
+          "author": "oghenekparobo stephen",
+          "description": "In this article, we'll explore the process of creating JSON Web Tokens (JWTs) from scratch in PHP, presenting a superior and more secure authentication scheme.  By implementing this advanced approach, we unveil a robust and highly secure authentication mechanism that significantly enhances data protection and user authentication. Table Of",
+          "link": "https://www.freecodecamp.org/news/php-jwt-authentication-implementation/",
+          "publishedOn": "2024-04-24T18:41:00.000Z",
+          "wordCount": 7927,
+          "title": "How to Implement JSON Web Tokens (JWTs) in PHP – PHP Authentication Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/How-to-Implement-JSON-Web-Tokens-in-PHP-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/procedural-macros-in-rust/",
+          "author": "Anshul Sanghi",
+          "description": "In this handbook, you'll learn about procedural macros in Rust, and what purposes they serve. You'll also learn how to write your own procedural macros with both hypothetical and real-world examples. This guide assumes that you're familiar with Rust and its basic concepts, such as data-types, iterators, and traits. If",
+          "link": "https://www.freecodecamp.org/news/procedural-macros-in-rust/",
+          "publishedOn": "2024-04-24T17:49:17.000Z",
+          "wordCount": 12483,
+          "title": "Procedural Macros in Rust – A Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Procedural-Macros-in-Rust-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/webflow-crash-course/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to master Webflow and build stunning websites without writing a single line of code? We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through everything you need to know about Webflow. Ashokkumar Chava...",
+          "link": "https://www.freecodecamp.org/news/webflow-crash-course/",
+          "publishedOn": "2024-04-24T17:15:23.000Z",
+          "wordCount": 926,
+          "title": "Webflow Crash Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713989079880/5e5dfceb-38ee-4b4a-9fa8-77643a1023ef.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/",
+          "author": "Beau Carnes",
+          "description": "Creating a Google Photos clone will help you learn a lot about web development. We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a powerful photo management app using Next.js and Cloudinary. Colb...",
+          "link": "https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/",
+          "publishedOn": "2024-04-24T17:07:29.000Z",
+          "wordCount": 1102,
+          "title": "Create a Google Photos Clone with Next.js and Cloudinary",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713989096807/bbb28c76-9a35-476c-a58f-59819efe9e65.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Building websites that look great on any device – like a phone, tablet, or computer screen – is what responsive web development is all about. In this course, you will learn how to build a responsive website step by step in Spanish using HTML and CSS....",
+          "link": "https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/",
+          "publishedOn": "2024-04-24T15:36:15.000Z",
+          "wordCount": 1169,
+          "title": "Build a Responsive Website with HTML and CSS - Course in Spanish",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713808669840/d79f8ee5-b159-4a71-a0be-4ff3b52b3f5d.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-oop-in-python/",
+          "author": "Damilola Oladele",
+          "description": "Object-oriented programming (OOP) is a style of programming that heavily relies on objects. These objects can have attributes and methods. While attributes store data, methods define behavior. Like many other programming languages, Python supports both OOP and functional programming. However, OOP becomes valuable when writing large-sized and complex programs. In",
+          "link": "https://www.freecodecamp.org/news/how-to-use-oop-in-python/",
+          "publishedOn": "2024-04-24T14:39:28.000Z",
+          "wordCount": 2535,
+          "title": "How to Use Object-Oriented Programming in Python – Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/WhatsApp-Image-2024-04-24-at-8.25.07-AM.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/what-is-biophilic-design/",
           "author": "Jaja Ibifubara David",
@@ -1003,46 +1078,6 @@
           "wordCount": 1744,
           "title": "How Do Open Source Software Lifecycles Work?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/danial-igdery-FCHlYvR5gJI-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/",
-          "author": "Jaja Ibifubara David",
-          "description": "I know what you're thinking, but despite the article title and cover image, this article isn't about bread or even pastries. Instead, it looks at a commonly used component in web applications for navigation called the breadcrumb component. Here, we'll unravel the mysteries of breadcrumb trails in React applications, dissecting",
-          "link": "https://www.freecodecamp.org/news/react-navigation-build-a-breadcrumb-component/",
-          "publishedOn": "2024-03-25T22:33:05.000Z",
-          "wordCount": 4306,
-          "title": "React Navigation – How to Build a Breadcrumb Component",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Breadcrumb-article-cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-analytics-with-google-stack/",
-          "author": "Beau Carnes",
-          "description": "The ability to analyze and interpret data is indispensable across many different industries. And you don't even need to buy any software to expertly analyize data. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you about data analytics through hands-on projects, leveraging a suite of",
-          "link": "https://www.freecodecamp.org/news/data-analytics-with-google-stack/",
-          "publishedOn": "2024-03-25T19:57:04.000Z",
-          "wordCount": 978,
-          "title": "Unlock the Power of Data Analytics with Free Google Services",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/dataanalytics.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/",
-          "author": "Akande Olalekan Toheeb",
-          "description": "What comes to mind when you hear the term \"the Cloud\"? Do you envision the vast expanse of the sky, with its billowy clouds and soaring birds? In the realm of technology, the term \"Cloud\" has no relation to the atmospheric phenomena or avian inhabitants of the world. Instead, it",
-          "link": "https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/",
-          "publishedOn": "2024-03-25T18:03:41.000Z",
-          "wordCount": 2664,
-          "title": "How to Start a Career in Cloud Computing in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Freecodecamp.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-troubleshoot-network-on-linux/",
-          "author": "Nitheesh Poojary",
-          "description": "In the world of networking, you may find yourself troubleshooting problems such as difficulty connecting to other computers or to SSH, problems with IP tables, or being unable to access websites. However, have you ever attempted to troubleshoot your network by applying the OSI Model? Through the use of a",
-          "link": "https://www.freecodecamp.org/news/how-troubleshoot-network-on-linux/",
-          "publishedOn": "2024-03-25T17:34:59.000Z",
-          "wordCount": 1852,
-          "title": "How to Troubleshoot Your Network on Linux – OSI Model Troubleshooting Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
         }
       ]
     }
