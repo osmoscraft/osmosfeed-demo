@@ -43,6 +43,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
+          "author": "hello@smashingmagazine.com (Michele Williams)",
+          "description": "Conducting UX research that includes participants with a variety of disabilities is vital to building inclusive technology, but most prototypes used for testing are inaccessible. Rather than continuing to leave out feedback from disabled consumers, which ultimately leads to exclusive technology, researchers must get creative in their workarounds and be relentless in their efforts.",
+          "link": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
+          "publishedOn": "2024-04-25T12:00:00.000Z",
+          "wordCount": 6529,
+          "title": "Conducting Accessibility Research In An Inaccessible Ecosystem",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/conducting-accessibility-research-inaccessible-ecosystem/conducting-accessibility-research-inaccessible-ecosystem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/conducting-accessibility-research-inaccessible-ecosystem/conducting-accessibility-research-inaccessible-ecosystem.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
           "author": "hello@smashingmagazine.com (Pratik Joglekar)",
           "description": "This article illustrates how AI can be leveraged to build tools that can be inclusive with a little bit of an additional effort.",
@@ -259,6 +274,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/",
+          "author": "Beau Carnes",
+          "description": "If you are learning programming, it should be fun! We just posted a video course on the freeCodeCamp.org YouTube channel that will guide you through the process of creating a Kirby game clone using TypeScript and Kaboom.js. JSLegendDev created this c...",
+          "link": "https://www.freecodecamp.org/news/code-a-kirby-clone-with-typescript-and-kaboomjs/",
+          "publishedOn": "2024-04-25T19:54:41.000Z",
+          "wordCount": 1008,
+          "title": "Code a Kirby Clone with TypeScript and Kaboom.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714074837257/0aab06c2-8e93-47ee-ba51-b3fa0b91e9d6.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/",
+          "author": "Ayobami Alaran",
+          "description": "Hey there! 👋 Ever since I started working with NestJS, I've been looking for a reliable way to manage my database with TypeORM. Today, I'll share my journey and the steps I took to get it all set up. Alright, before we dive in, let's try to understand what TypeORM",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/",
+          "publishedOn": "2024-04-25T11:22:53.000Z",
+          "wordCount": 2945,
+          "title": "How To Set Up TypeORM DataSource in Your NestJS Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/hq720-1-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/php-jwt-authentication-implementation/",
           "author": "oghenekparobo stephen",
@@ -1038,46 +1073,6 @@
           "wordCount": 1439,
           "title": "Prop Drilling in React Explained with Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--14-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-tokenizers-shape-ai-understanding/",
-          "author": "Manish Shivanandhan",
-          "description": "Tokenizers are the fundamental tools that enable artificial intelligence to dissect and interpret human language. Let’s look at how tokenizers help AI systems comprehend and process language. In the fast-evolving world of natural language processing (NLP), tokenizers play a pivotal role. Tokenizers are the unsung heroes behind the scenes, making",
-          "link": "https://www.freecodecamp.org/news/how-tokenizers-shape-ai-understanding/",
-          "publishedOn": "2024-03-27T11:35:07.000Z",
-          "wordCount": 1501,
-          "title": "Tokenizers Explained – How Tokenizers Help AI Understand Language",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/ab427b80-a502-11ea-8467-694f4e40dfa7.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/",
-          "author": "Olasunkanmi Balogun",
-          "description": "In this in-depth tutorial, you'll learn how to build a full-stack Kanban task management app. Along the way, we'll explore the synergies between technologies like Next.js [https://nextjs.org] (featuring a dive into the app router),  Next-auth [https://next-auth.js.org] for user authentication, and Firebase [https://firebase.google.com/], a backend as a service platform to",
-          "link": "https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/",
-          "publishedOn": "2024-03-26T21:44:04.000Z",
-          "wordCount": 13654,
-          "title": "How to Build a Full-Stack Kanban Task Management App With TypeScript, Next.js, Redux-toolkit, and Firebase",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Option-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
-          "author": "Beau Carnes",
-          "description": "NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications using TypeScript and JavaScript.  Learning NestJS can significantly enhance your ability to create structured, maintainable, and testable backend applications, offering a robust toolkit that integrates seamlessly with other modern technologies and methodologies. We just",
-          "link": "https://www.freecodecamp.org/news/comprehensive-nestjs-course/",
-          "publishedOn": "2024-03-26T20:27:32.000Z",
-          "wordCount": 1120,
-          "title": "Comprehensive NestJS Course",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/nextjsfull.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/",
-          "author": "David Clinton",
-          "description": "Software projects follow identifiable milestones as they move towards a successful completion. If you want to give your project the best chances of success, it's important to understand what those milestones mean and how they're defined. This article comes from my Complete LPI Open Source Essentials Exam Study Guide",
-          "link": "https://www.freecodecamp.org/news/understanding-open-source-software-lifecycles/",
-          "publishedOn": "2024-03-26T17:01:50.000Z",
-          "wordCount": 1744,
-          "title": "How Do Open Source Software Lifecycles Work?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/danial-igdery-FCHlYvR5gJI-unsplash.jpg"
         }
       ]
     }
