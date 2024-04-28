@@ -251,21 +251,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-22-swing-into-spring-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
-          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
-          "description": "There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.",
-          "link": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
-          "publishedOn": "2024-03-29T08:00:00.000Z",
-          "wordCount": 6160,
-          "title": "How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/developers-strengthen-mental-health/developers-strengthen-mental-health.jpg"
         }
       ]
     },
@@ -274,6 +259,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/",
+          "author": "Joan Ayebola",
+          "description": "This is important text. The text within the  tag will no longer appear bold and will be displayed in red, as specified by the CSS rules. Similarly, you can override the default styles for the  tag using CSS, although it's less common to do so since the",
+          "link": "https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/",
+          "publishedOn": "2024-04-26T23:24:38.000Z",
+          "wordCount": 2544,
+          "title": "The Difference Between <b> and <Strong> in HTML – Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--6-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linux-terminal-piping-and-redirection-guide/",
+          "author": "Alvin Wanjala",
+          "description": "The command line interface in Linux provides a powerful way of perfoming a range of tasks on your system. Because of its roots, Linux has many features baked into the terminal. Two of these powerful features are piping and redirection. These features enable you to redirect the output and input",
+          "link": "https://www.freecodecamp.org/news/linux-terminal-piping-and-redirection-guide/",
+          "publishedOn": "2024-04-26T23:15:26.000Z",
+          "wordCount": 2295,
+          "title": "How to Use Piping and Redirection in the Linux Terminal",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/piping-redirection-linux.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-develop-a-flutter-app-from-scratch/",
           "author": "Oleg Romanyuk",
@@ -1033,36 +1038,6 @@
           "wordCount": 928,
           "title": "Leon Noel has Helped THOUSANDS of People Learn to Code [100Devs founder on freeCodeCamp Podcast #117]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/leon-noel-freecodecamp-podcast-100devs.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/",
-          "author": "Olabisi Olaoye",
-          "description": "I encountered an issue when I made a GET request in my React project which was supposed to return a file I could download. For the file to download properly, I had to make the response type a blob [https://developer.mozilla.org/en-US/docs/Web/API/Blob].  But if an error occurred when the server returns",
-          "link": "https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/",
-          "publishedOn": "2024-03-29T00:34:05.000Z",
-          "wordCount": 1081,
-          "title": "How to Extract an Error Object from a Blob API Response in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/React-form-validation--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
-          "author": "Beau Carnes",
-          "description": "If you are tired of doing monotonous business tasks, automation can make your life easier. We just posted a no-code automation course on the freeCodeCamp.org YouTube channel that will help you increase your productivity while working less. Ania Kubów, one of freeCodeCamp's most popular instructors, developed this course. She'll guide",
-          "link": "https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/",
-          "publishedOn": "2024-03-28T15:15:00.000Z",
-          "wordCount": 953,
-          "title": "Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/make.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
-          "author": "Joan Ayebola",
-          "description": "In JavaScript, you may encounter the term \"dead zone.\" While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively. Table of Contents",
-          "link": "https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/",
-          "publishedOn": "2024-03-28T14:48:44.000Z",
-          "wordCount": 1434,
-          "title": "What is Dead Zone in JavaScript?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--3-.png"
         }
       ]
     }

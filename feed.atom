@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-27T00:56:32.207Z</updated>
+    <updated>2024-04-28T01:01:37.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Difference Between <b> and <Strong> in HTML – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/</id>
+        <link href="https://www.freecodecamp.org/news/difference-between-b-and-strong-in-html/"/>
+        <updated>2024-04-26T23:24:38.000Z</updated>
+        <summary type="html"><![CDATA[This is important text. The text within the  tag will no longer appear bold and will be displayed in red, as specified by the CSS rules. Similarly, you can override the default styles for the  tag using CSS, although it's less common to do so since the]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Piping and Redirection in the Linux Terminal]]></title>
+        <id>https://www.freecodecamp.org/news/linux-terminal-piping-and-redirection-guide/</id>
+        <link href="https://www.freecodecamp.org/news/linux-terminal-piping-and-redirection-guide/"/>
+        <updated>2024-04-26T23:15:26.000Z</updated>
+        <summary type="html"><![CDATA[The command line interface in Linux provides a powerful way of perfoming a range of tasks on your system. Because of its roots, Linux has many features baked into the terminal. Two of these powerful features are piping and redirection. These features enable you to redirect the output and input]]></summary>
+        <author>
+            <name>Alvin Wanjala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter Tutorial – How to Develop an App with Flutter From Scratch]]></title>
         <id>https://www.freecodecamp.org/news/how-to-develop-a-flutter-app-from-scratch/</id>
@@ -937,46 +957,6 @@ The Power of :has() in CSS originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Leon Noel, founder of 100Devs and head of engineering at Resilient Coders. Growing up, Leon had it drilled into him that he had to become a doctor, lawyer, or dentist. But his ambitions grew and he went on to have an]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Developers Can Strengthen Their Mental Health Amidst High-Pressure Projects]]></title>
-        <id>https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/</id>
-        <link href="https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/"/>
-        <updated>2024-03-29T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s no shortage of articles about the mental health of developers, ranging from personal accounts of harrowing work experiences to round-ups of advice on how to preserve healthy work habits. But what working situations trigger things like stress, anxiety, burnout, and depression? Victor Ayomipo shares his personal triggers and how he manages them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extract an Error Object from a Blob API Response in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-extract-an-error-object-from-a-blob/"/>
-        <updated>2024-03-29T00:34:05.000Z</updated>
-        <summary type="html"><![CDATA[I encountered an issue when I made a GET request in my React project which was supposed to return a file I could download. For the file to download properly, I had to make the response type a blob [https://developer.mozilla.org/en-US/docs/Web/API/Blob].  But if an error occurred when the server returns]]></summary>
-        <author>
-            <name>Olabisi Olaoye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to Automate Your Boring Tasks. No-Code Automation [Full Course]]]></title>
-        <id>https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/</id>
-        <link href="https://www.freecodecamp.org/news/automate-boring-tasks-no-code-automation-course/"/>
-        <updated>2024-03-28T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are tired of doing monotonous business tasks, automation can make your life easier. We just posted a no-code automation course on the freeCodeCamp.org YouTube channel that will help you increase your productivity while working less. Ania Kubów, one of freeCodeCamp's most popular instructors, developed this course. She'll guide]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Dead Zone in JavaScript?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-dead-zone-in-javascript/"/>
-        <updated>2024-03-28T14:48:44.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you may encounter the term "dead zone." While it might sound tricky, understanding dead zones is crucial for writing efficient and bug-free code. In this comprehensive guide, we'll explore what dead zones are, how they affect your code, and how to navigate them effectively. Table of Contents]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
 </feed>
