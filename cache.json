@@ -33,6 +33,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
+          "author": "hello@smashingmagazine.com (Amit Sheen)",
+          "description": "Amit Sheen demonstrates using `:has()` to apply styles conditionally when a certain `` in a `` element is chosen by the user and how we gain even more conditional styling capabilities when chaining `:has()` with other pseudo-classes, such as `:not()` — no JavaScript necessary.",
+          "link": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
+          "publishedOn": "2024-05-02T10:00:00.000Z",
+          "wordCount": 3801,
+          "title": "Combining CSS :has() And HTML &lt;select&gt; For Greater Conditional Styling",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
@@ -226,21 +241,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
-          "author": "hello@smashingmagazine.com (Tatsiana Tarkan)",
-          "description": "Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.",
-          "link": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
-          "publishedOn": "2024-04-03T08:00:00.000Z",
-          "wordCount": 5830,
-          "title": "Iconography In Design Systems: Easy Troubleshooting And Maintenance",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg"
         }
       ]
     },
@@ -249,6 +249,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/run-sql-like-queries-on-cplusplus-files/",
+          "author": "Amr Hesham",
+          "description": "Hello everyone! I'm a Software engineer who's interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context, give",
+          "link": "https://www.freecodecamp.org/news/run-sql-like-queries-on-cplusplus-files/",
+          "publishedOn": "2024-05-02T19:35:48.000Z",
+          "wordCount": 2079,
+          "title": "How to Run SQL-Like Queries on C/C++ Files",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/gitql_banner-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/code-a-chess-game-with-ai-opponent/",
+          "author": "Beau Carnes",
+          "description": "Are you interested in combining your love for chess with your passion for coding? We just posted a comprehensive video course on the freeCodeCamp.org YouTube channel that will teach you how to code your own chess game with JavaScript and Angular. Eve...",
+          "link": "https://www.freecodecamp.org/news/code-a-chess-game-with-ai-opponent/",
+          "publishedOn": "2024-05-02T18:35:21.000Z",
+          "wordCount": 937,
+          "title": "Code A Chess Game with AI Opponent",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714674906604/a3e99d6e-7b46-4bf5-8279-0f7498c70c9a.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/higher-order-functions-explained/",
+          "author": "Joan Ayebola",
+          "description": "JavaScript offers a powerful feature known as higher order functions (HOFs). These functions elevate your code by treating other functions as citizens of the language itself.  In simpler terms, HOFs can accept functions as arguments and even return functions as results. This ability allows developers to write clean, reusable, and",
+          "link": "https://www.freecodecamp.org/news/higher-order-functions-explained/",
+          "publishedOn": "2024-05-02T18:31:54.000Z",
+          "wordCount": 3038,
+          "title": "What are Higher Order Functions in JavaScript? Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--7-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/",
+          "author": "Andrew Baisden",
+          "description": "In today's tutorial, you are going to learn about WebSockets and how you can use them to create interactive realtime data applications.  To illustrate just how innovative real time technologies are, we will build a chart application which automatically updates with new dynamic online data. This is going to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/",
+          "publishedOn": "2024-05-02T00:07:30.000Z",
+          "wordCount": 3388,
+          "title": "How to Build a Realtime Chart with React, HighCharts, and Pusher",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/pusher-banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-defaultdict-python/",
+          "author": "Gage Schaffer",
+          "description": "Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In",
+          "link": "https://www.freecodecamp.org/news/how-to-use-defaultdict-python/",
+          "publishedOn": "2024-05-01T21:15:48.000Z",
+          "wordCount": 1648,
+          "title": "How to Use DefaultDict in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Add-To-Your-Python-Toolbox.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/create-personalized-github-profile-page/",
           "author": "Sahil Mahapatra",
@@ -1058,56 +1108,6 @@
           "wordCount": 939,
           "title": "Create a Developer Portfolio as a 2D Game",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/gamedev.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/",
-          "author": "Segun Ajibola",
-          "description": "Pokemon is a Japanese media franchise consisting of video games, animated series and films, a trading card game, and other related media. In this blog, we will be building with a Pokemon GraphQL API that gives us data about different Pokemons. We will be using Apollo and GraphQL to handle",
-          "link": "https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/",
-          "publishedOn": "2024-04-03T12:28:07.000Z",
-          "wordCount": 2354,
-          "title": "How to Build a Pokemon App with GraphQL and Apollo",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Parameters-vs-Arguments--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-api-security-guide/",
-          "author": "oluwatobi Joshua",
-          "description": "Adequate data protection and user confidentiality are key responsibilities for web developers. Hence, it is important to ensure the highest possible security while building API endpoints. The act of application security is a shared responsibility amongst the client and server developers and negligence of one’s role can be disastrous. Statistics",
-          "link": "https://www.freecodecamp.org/news/web-api-security-guide/",
-          "publishedOn": "2024-04-03T09:13:45.000Z",
-          "wordCount": 1735,
-          "title": "How to Prevent Web API Attacks with Data Validation – Web API Security Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/apidat.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-git-basics/",
-          "author": "Samyak Jain",
-          "description": "Welcome to my comprehensive guide on Git, the distributed version control system that has revolutionized collaboration and code management in software development.  Whether you're a seasoned developer or just starting your journey in programming, understanding Git is essential to gain proper control over your code, efficiently managing your projects",
-          "link": "https://www.freecodecamp.org/news/learn-git-basics/",
-          "publishedOn": "2024-04-03T03:57:39.000Z",
-          "wordCount": 6421,
-          "title": "Learn Git Fundamentals – A Handbook on Day-to-Day Development Tasks",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Learn-Git-Basics-Cover-3--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-css-variables/",
-          "author": "Matéush",
-          "description": "If you are building websites or web apps, you should already know that code repetition is considered a bad practice. That's why you should learn how to use CSS variables to reduce the amount of CSS code you write and take your styling to a new level. The most successful",
-          "link": "https://www.freecodecamp.org/news/how-to-use-css-variables/",
-          "publishedOn": "2024-04-02T19:53:03.000Z",
-          "wordCount": 1653,
-          "title": "How To Use CSS Variables – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/CSS-Variables.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/",
-          "author": "Beau Carnes",
-          "description": "Dr. Radu is one of the most popular machine learning instructors on the Internet. And now he is back to teach AI and Neural Networks for beginners in an intuitive way. We just posted Dr. Radu's newest course on the freeCodeCamp.org YouTube channel. It's designed to provide a hands-on experience,",
-          "link": "https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/",
-          "publishedOn": "2024-04-02T17:14:59.000Z",
-          "wordCount": 905,
-          "title": "Understand AI and Neural Networks by Manually Adjusting Parameters",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/understandingai.png"
         }
       ]
     }

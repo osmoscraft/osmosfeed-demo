@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-02T00:57:09.841Z</updated>
+    <updated>2024-05-03T01:00:15.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run SQL-Like Queries on C/C++ Files]]></title>
+        <id>https://www.freecodecamp.org/news/run-sql-like-queries-on-cplusplus-files/</id>
+        <link href="https://www.freecodecamp.org/news/run-sql-like-queries-on-cplusplus-files/"/>
+        <updated>2024-05-02T19:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! I'm a Software engineer who's interested in low-level programming, compilers, and tool development. At the end of 2023, I published my first article on freeCodeCamp about how I created a SQL-like Language to run queries on local Git repositories [/news/gql-design-and-implementation/]. If you want a bit more context, give]]></summary>
+        <author>
+            <name>Amr Hesham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code A Chess Game with AI Opponent]]></title>
+        <id>https://www.freecodecamp.org/news/code-a-chess-game-with-ai-opponent/</id>
+        <link href="https://www.freecodecamp.org/news/code-a-chess-game-with-ai-opponent/"/>
+        <updated>2024-05-02T18:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in combining your love for chess with your passion for coding? We just posted a comprehensive video course on the freeCodeCamp.org YouTube channel that will teach you how to code your own chess game with JavaScript and Angular. Eve...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Higher Order Functions in JavaScript? Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/higher-order-functions-explained/</id>
+        <link href="https://www.freecodecamp.org/news/higher-order-functions-explained/"/>
+        <updated>2024-05-02T18:31:54.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript offers a powerful feature known as higher order functions (HOFs). These functions elevate your code by treating other functions as citizens of the language itself.  In simpler terms, HOFs can accept functions as arguments and even return functions as results. This ability allows developers to write clean, reusable, and]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combining CSS :has() And HTML &lt;select&gt; For Greater Conditional Styling]]></title>
+        <id>https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/</id>
+        <link href="https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/"/>
+        <updated>2024-05-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amit Sheen demonstrates using `:has()` to apply styles conditionally when a certain `` in a `` element is chosen by the user and how we gain even more conditional styling capabilities when chaining `:has()` with other pseudo-classes, such as `:not()` — no JavaScript necessary.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amit Sheen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Realtime Chart with React, HighCharts, and Pusher]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/"/>
+        <updated>2024-05-02T00:07:30.000Z</updated>
+        <summary type="html"><![CDATA[In today's tutorial, you are going to learn about WebSockets and how you can use them to create interactive realtime data applications.  To illustrate just how innovative real time technologies are, we will build a chart application which automatically updates with new dynamic online data. This is going to]]></summary>
+        <author>
+            <name>Andrew Baisden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use DefaultDict in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-defaultdict-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-defaultdict-python/"/>
+        <updated>2024-05-01T21:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In]]></summary>
+        <author>
+            <name>Gage Schaffer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Your Personalized  GitHub Profile Page – GitHub Profile README Guide]]></title>
         <id>https://www.freecodecamp.org/news/create-personalized-github-profile-page/</id>
@@ -964,66 +1024,6 @@ Managing User Focus with :focus-visible originally published on CSS-Tricks, whic
         <link href="https://www.freecodecamp.org/news/create-a-developer-portfolio-as-a-2d-game/"/>
         <updated>2024-04-03T19:28:59.000Z</updated>
         <summary type="html"><![CDATA[Are you tired of the same old developer portfolios? Want to stand out to potential employers or clients? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Kaboom.js to craft a 2D game that doubles as your developer portfolio! JSLegendDev developed this]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Pokemon App with GraphQL and Apollo]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-pokemon-app-with-graphql-and-apollo/"/>
-        <updated>2024-04-03T12:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Pokemon is a Japanese media franchise consisting of video games, animated series and films, a trading card game, and other related media. In this blog, we will be building with a Pokemon GraphQL API that gives us data about different Pokemons. We will be using Apollo and GraphQL to handle]]></summary>
-        <author>
-            <name>Segun Ajibola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prevent Web API Attacks with Data Validation – Web API Security Guide]]></title>
-        <id>https://www.freecodecamp.org/news/web-api-security-guide/</id>
-        <link href="https://www.freecodecamp.org/news/web-api-security-guide/"/>
-        <updated>2024-04-03T09:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Adequate data protection and user confidentiality are key responsibilities for web developers. Hence, it is important to ensure the highest possible security while building API endpoints. The act of application security is a shared responsibility amongst the client and server developers and negligence of one’s role can be disastrous. Statistics]]></summary>
-        <author>
-            <name>oluwatobi Joshua</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iconography In Design Systems: Easy Troubleshooting And Maintenance]]></title>
-        <id>https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/</id>
-        <link href="https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/"/>
-        <updated>2024-04-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tatsiana Tarkan digs deep into iconography as part of a design system and shares some doable tips that will turn icon creation and maintenance into an enjoyable process.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tatsiana Tarkan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Git Fundamentals – A Handbook on Day-to-Day Development Tasks]]></title>
-        <id>https://www.freecodecamp.org/news/learn-git-basics/</id>
-        <link href="https://www.freecodecamp.org/news/learn-git-basics/"/>
-        <updated>2024-04-03T03:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to my comprehensive guide on Git, the distributed version control system that has revolutionized collaboration and code management in software development.  Whether you're a seasoned developer or just starting your journey in programming, understanding Git is essential to gain proper control over your code, efficiently managing your projects]]></summary>
-        <author>
-            <name>Samyak Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use CSS Variables – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-css-variables/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-css-variables/"/>
-        <updated>2024-04-02T19:53:03.000Z</updated>
-        <summary type="html"><![CDATA[If you are building websites or web apps, you should already know that code repetition is considered a bad practice. That's why you should learn how to use CSS variables to reduce the amount of CSS code you write and take your styling to a new level. The most successful]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understand AI and Neural Networks by Manually Adjusting Parameters]]></title>
-        <id>https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/</id>
-        <link href="https://www.freecodecamp.org/news/understand-ai-and-neural-networks-by-manually-adjusting-paramaters/"/>
-        <updated>2024-04-02T17:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Dr. Radu is one of the most popular machine learning instructors on the Internet. And now he is back to teach AI and Neural Networks for beginners in an intuitive way. We just posted Dr. Radu's newest course on the freeCodeCamp.org YouTube channel. It's designed to provide a hands-on experience,]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
