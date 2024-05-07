@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "description": "In this article, Eduard Kuric discusses mouse interaction data, what kind of magic can be done with it, and some of the hidden pitfalls to watch out for so you get a head start incorporating them in your solutions.",
+          "link": "https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/",
+          "publishedOn": "2024-05-06T10:00:00.000Z",
+          "wordCount": 6314,
+          "title": "How To Harness Mouse Interaction Data For Practical Machine Learning Solutions",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/harness-mouse-interaction-data-machine-learning/harness-mouse-interaction-data-machine-learning.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/harness-mouse-interaction-data-machine-learning/harness-mouse-interaction-data-machine-learning.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
           "author": "hello@smashingmagazine.com (Amit Sheen)",
           "description": "Amit Sheen demonstrates using `:has()` to apply styles conditionally when a certain `` in a `` element is chosen by the user and how we gain even more conditional styling capabilities when chaining `:has()` with other pseudo-classes, such as `:not()` — no JavaScript necessary.",
@@ -224,6 +239,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-react-devtools/",
+          "author": "Matéush",
+          "description": "Traditional browser developer tools are designed to inspect and debug web pages by interacting with your HTML, CSS, and JavaScript code. However, you can't use them to inspect and debug React applications efficiently due to the nature of React. This is where the React Developer Tools, AKA React DevTools comes",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-devtools/",
+          "publishedOn": "2024-05-06T20:12:54.000Z",
+          "wordCount": 2200,
+          "title": "How to Use React Developer Tools – Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/React-Devtools.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/",
+          "author": "Destiny Erhabor",
+          "description": "Auto scaling is like having a smart system that keeps an eye on how many people are visiting your website. When you have a lot of people, it quickly adds more servers to handle the extra traffic. And when things quiet down, it scales back to save you money. In",
+          "link": "https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/",
+          "publishedOn": "2024-05-06T16:32:47.000Z",
+          "wordCount": 2723,
+          "title": "What is Amazon EC2 Auto Scaling?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/christophe-hautier-902vnYeoWS4-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/true-randomness-in-software-engineering/",
+          "author": "Gor Grigoryan",
+          "description": "Understanding Randomness When you hear the word \"randomness,\" what usually comes to mind? You may think of  something intangible, an abstract concept without a specific shape or form  – it's random.  But randomness is much more than an abstract idea – it's a fundamental aspect of our daily decisions",
+          "link": "https://www.freecodecamp.org/news/true-randomness-in-software-engineering/",
+          "publishedOn": "2024-05-06T16:27:18.000Z",
+          "wordCount": 5467,
+          "title": "Decoding Chaos: How True Randomness Works in Software Engineering",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/0_VRBzKmnCSxIHtVVQ.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/react-usereducer-hook/",
           "author": "Timothy Olanrewaju",
