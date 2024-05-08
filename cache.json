@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
+          "link": "https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/",
+          "publishedOn": "2024-05-07T12:00:00.000Z",
+          "wordCount": 3846,
+          "title": "How To Run UX Research Without Access To Users",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-run-ux-research-without-access-users/how-run-ux-research-without-access-users.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-run-ux-research-without-access-users/how-run-ux-research-without-access-users.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/harness-mouse-interaction-data-machine-learning/",
           "author": "hello@smashingmagazine.com (Eduard Kuric)",
           "description": "In this article, Eduard Kuric discusses mouse interaction data, what kind of magic can be done with it, and some of the hidden pitfalls to watch out for so you get a head start incorporating them in your solutions.",
@@ -239,6 +254,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/introduction-to-html-basics/",
+          "author": "Casmir Onyekani",
+          "description": "Welcome to the exciting world of web development! In this beginner's guide, you will learn the fundamentals of HTML, the backbone of every web page.  Imagine a tree: its roots anchor and nourish the entire plant. Similarly, HTML, the root of web development, provides the foundation for every webpage.",
+          "link": "https://www.freecodecamp.org/news/introduction-to-html-basics/",
+          "publishedOn": "2024-05-07T19:45:50.000Z",
+          "wordCount": 4726,
+          "title": "HTML for Beginners – HTML Basics With Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/cover-img.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-submodules/",
+          "author": "Jima Victor",
+          "description": "Git is undeniably a very important tool for developers, as it helps us collaborate seamlessly, track changes efficiently, and maintain project integrity across distributed environments. However, as projects grow in complexity and scope, so does their dependencies. For this reason, there is a need for a mechanism to properly manage",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-submodules/",
+          "publishedOn": "2024-05-07T17:40:22.000Z",
+          "wordCount": 1540,
+          "title": "How to Use Git Submodules – Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/git-submodules---cover-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-js-string-concatenation-works/",
+          "author": "Dionysia Lemonaki",
+          "description": "When coding in JavaScript, you may need to combine multiple strings to create a new, longer string. This operation is known as concatenation. In this article, you will learn five ways to concatenate strings in JavaScript. How to Concatenate Strings i...",
+          "link": "https://www.freecodecamp.org/news/how-js-string-concatenation-works/",
+          "publishedOn": "2024-05-07T17:14:16.000Z",
+          "wordCount": 1664,
+          "title": "JavaScript Concatenate Strings – How JS String Concatenation Works",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mfB1B1s4sMc/upload/138f5daa340578a0ba2da07274b59252.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/",
+          "author": "Obum",
+          "description": "Flutter builds applications for multiple platforms (desktop, mobile, and web) from the same codebase. Flutter does this in a pixel-perfect and platform-agnostic manner.  In this article, we will explore how Flutter is platform-agnostic through how it renders user interfaces and through platform channels. Table of Contents  * What",
+          "link": "https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/",
+          "publishedOn": "2024-05-07T07:21:09.000Z",
+          "wordCount": 2310,
+          "title": "How is Flutter Platform-Agnostic?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Screenshot-2024-05-02-225922.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/understand-javascript-closures/",
+          "author": "Asoluka Tochukwu Austin",
+          "description": "Sally and Joe are two love birds. They shared everything with each other and soon enough it was almost impossible to think that anything could come between them. One day, they had a quarrel which built up to a break up.  It was hard for Joe and he wanted",
+          "link": "https://www.freecodecamp.org/news/understand-javascript-closures/",
+          "publishedOn": "2024-05-07T07:13:36.000Z",
+          "wordCount": 1944,
+          "title": "How Do Closures Work in JavaScript? Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/hand-1222229_1280-2.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-react-devtools/",
           "author": "Matéush",
@@ -1038,16 +1103,6 @@
           "wordCount": 1599,
           "title": "How to Test Proto DataStore",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/alexander-schimmeck-QX0SWFpB2ho-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hello-world-in-rust/",
-          "author": "Sahil Mahapatra",
-          "description": "Starting with a new programming language is like taking your first step into a whole new world. One of the very first things you'll do is write a simple program that says \"Hello World!\". Rust, known for being fast and safe, is no exception. Let's jump right in and create",
-          "link": "https://www.freecodecamp.org/news/hello-world-in-rust/",
-          "publishedOn": "2024-04-08T09:21:17.000Z",
-          "wordCount": 1086,
-          "title": "Hello World in Rust – Example Program",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Neon-Green-Motivational.png"
         }
       ]
     }

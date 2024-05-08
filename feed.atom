@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-07T00:58:07.556Z</updated>
+    <updated>2024-05-08T00:48:35.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HTML for Beginners – HTML Basics With Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/introduction-to-html-basics/</id>
+        <link href="https://www.freecodecamp.org/news/introduction-to-html-basics/"/>
+        <updated>2024-05-07T19:45:50.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the exciting world of web development! In this beginner's guide, you will learn the fundamentals of HTML, the backbone of every web page.  Imagine a tree: its roots anchor and nourish the entire plant. Similarly, HTML, the root of web development, provides the foundation for every webpage.]]></summary>
+        <author>
+            <name>Casmir Onyekani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git Submodules – Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-git-submodules/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-git-submodules/"/>
+        <updated>2024-05-07T17:40:22.000Z</updated>
+        <summary type="html"><![CDATA[Git is undeniably a very important tool for developers, as it helps us collaborate seamlessly, track changes efficiently, and maintain project integrity across distributed environments. However, as projects grow in complexity and scope, so does their dependencies. For this reason, there is a need for a mechanism to properly manage]]></summary>
+        <author>
+            <name>Jima Victor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Concatenate Strings – How JS String Concatenation Works]]></title>
+        <id>https://www.freecodecamp.org/news/how-js-string-concatenation-works/</id>
+        <link href="https://www.freecodecamp.org/news/how-js-string-concatenation-works/"/>
+        <updated>2024-05-07T17:14:16.000Z</updated>
+        <summary type="html"><![CDATA[When coding in JavaScript, you may need to combine multiple strings to create a new, longer string. This operation is known as concatenation. In this article, you will learn five ways to concatenate strings in JavaScript. How to Concatenate Strings i...]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run UX Research Without Access To Users]]></title>
+        <id>https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/</id>
+        <link href="https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/"/>
+        <updated>2024-05-07T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How is Flutter Platform-Agnostic?]]></title>
+        <id>https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/</id>
+        <link href="https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/"/>
+        <updated>2024-05-07T07:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Flutter builds applications for multiple platforms (desktop, mobile, and web) from the same codebase. Flutter does this in a pixel-perfect and platform-agnostic manner.  In this article, we will explore how Flutter is platform-agnostic through how it renders user interfaces and through platform channels. Table of Contents  * What]]></summary>
+        <author>
+            <name>Obum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Closures Work in JavaScript? Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/understand-javascript-closures/</id>
+        <link href="https://www.freecodecamp.org/news/understand-javascript-closures/"/>
+        <updated>2024-05-07T07:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Sally and Joe are two love birds. They shared everything with each other and soon enough it was almost impossible to think that anything could come between them. One day, they had a quarrel which built up to a break up.  It was hard for Joe and he wanted]]></summary>
+        <author>
+            <name>Asoluka Tochukwu Austin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use React Developer Tools – Explained With Examples]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-react-devtools/</id>
@@ -955,16 +1015,6 @@ Demystifying Screen Readers: Accessible Forms & Best Practices originally publis
         <summary type="html"><![CDATA[In a previous article [https://medium.com/proandroiddev/android-proto-datastore-should-you-use-it-36ae997d00f2] , I described how you can use Proto DataStore in your application. I wrote that article as part of my experience in using Proto DataStore in one of my applications [https://play.google.com/store/apps/details?id=com.tomerpacific.todo]. Following that, I wanted to see what it would be like to write tests]]></summary>
         <author>
             <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello World in Rust – Example Program]]></title>
-        <id>https://www.freecodecamp.org/news/hello-world-in-rust/</id>
-        <link href="https://www.freecodecamp.org/news/hello-world-in-rust/"/>
-        <updated>2024-04-08T09:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Starting with a new programming language is like taking your first step into a whole new world. One of the very first things you'll do is write a simple program that says "Hello World!". Rust, known for being fast and safe, is no exception. Let's jump right in and create]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
         </author>
     </entry>
 </feed>
