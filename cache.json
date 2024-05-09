@@ -231,21 +231,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/penpot-css-grid-layout-designing-superpowers/penpot-css-grid-layout-designing-superpowers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "Victor Yocco reviews the components of the Transactional Model of communication, explaining how we might apply this framework to preparing, conducting, and analysing our UX research. You will understand how many UX research best practices align with the model and get an example of a tool for tracking alignment.",
-          "link": "https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/",
-          "publishedOn": "2024-04-09T10:00:00.000Z",
-          "wordCount": 8677,
-          "title": "Connecting With Users: Applying Principles Of Communication To UX Research",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/applying-principles-communication-ux-research/applying-principles-communication-ux-research.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/applying-principles-communication-ux-research/applying-principles-communication-ux-research.jpg"
         }
       ]
     },
@@ -254,6 +239,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/php-array-handbook/",
+          "author": "Kolade Chris",
+          "description": "In every programming language, arrays provide a flexible option to store more than one data type in a single variable. They are one of the most versatile data structures in the programming world, which is one reason a lot of external data and many APIs come as arrays. When you",
+          "link": "https://www.freecodecamp.org/news/php-array-handbook/",
+          "publishedOn": "2024-05-08T22:25:55.000Z",
+          "wordCount": 6537,
+          "title": "PHP Array Handbook – How to Create, Work with, and Loop Through Arrays",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/PHP-Array-Handbook-Cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-run-postgres-in-kubernetes/",
+          "author": "Ayomide Wilfred",
+          "description": "Hey everyone! Today, you're going to learn about deploying a Postgres container in Azure Kubernetes Service (AKS) and connecting it to a Node.js application. In this fast-paced development landscape, deploying via containers, particularly with Kubernetes, is becoming increasingly popular. Some companies perform numerous deployments daily, so it's crucial for you",
+          "link": "https://www.freecodecamp.org/news/how-to-run-postgres-in-kubernetes/",
+          "publishedOn": "2024-05-08T20:43:04.000Z",
+          "wordCount": 6821,
+          "title": "How to Run a Postgres Database in Azure Kubernetes Service and Integrate it with a Node.js Express Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Azure-K8s-article-image.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-native-splash-screen/",
+          "author": "Lucas Garcez",
+          "description": "In this article, you'll get a hands-on practical guide for creating a native splash screen for React Native CLI applications.  Note that this tutorial is not applicable for apps created with Expo. SVG Icon Image and Background The first thing you need is an image. It can be in",
+          "link": "https://www.freecodecamp.org/news/react-native-splash-screen/",
+          "publishedOn": "2024-05-08T19:17:54.000Z",
+          "wordCount": 1778,
+          "title": "How to Create a React Native Splash Screen",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/article-1-rnsplash-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/",
+          "author": "Jose Vicente Nunez",
+          "description": "A tower running race [https://en.wikipedia.org/wiki/Tower_running] is a race that you run up the stairs of a building. These happen around the world. I got the chance to participate in the Empire State Run Up in NYC, 2023 edition.  > The Empire State Building Run-Up (ESBRU)—the world’s first and most",
+          "link": "https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/",
+          "publishedOn": "2024-05-08T16:56:28.000Z",
+          "wordCount": 7469,
+          "title": "Data Analysis with Python – How I Analyzed My Empire State Building Run-Up Performance",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/empire_state_runup-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/",
+          "author": "Kunal Nalawade",
+          "description": "Hey everyone! Imagine you are building an awesome application, with lots of cool features. Picture a backend server at its core that hosts a majority of the business logic and exposes functionality through APIs. Once you have planned out your APIs, there's one crucial step you need to take care",
+          "link": "https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/",
+          "publishedOn": "2024-05-08T15:39:37.000Z",
+          "wordCount": 2249,
+          "title": "How to Implement an OAuth2 Resource Server with Spring Security",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/article-cover.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/",
+          "author": "Beau Carnes",
+          "description": "Version control is an essential skill for anyone involved in software development, from solo hobbyists to professional developers working in large teams. Understanding how to effectively manage changes and collaborate on code is critical, and Git is ...",
+          "link": "https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/",
+          "publishedOn": "2024-05-08T14:42:01.000Z",
+          "wordCount": 1015,
+          "title": "Learn Git in Detail to Manage Your Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715179306416/6cef5df6-7483-4ab2-8699-0504be1902d2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/",
+          "author": "Beau Carnes",
+          "description": "GitHub recently launched a GitHub Actions certification exam. And we just released a course on the freeCodeCamp.org YouTube channel that will prepare you to pass this exam. This course is ideal for developers, DevOps professionals, and anyone interes...",
+          "link": "https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/",
+          "publishedOn": "2024-05-08T14:29:39.000Z",
+          "wordCount": 960,
+          "title": "Pass the GitHub Actions Certification Exam",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715178541029/2c95f59d-572a-4ae2-9b50-6be808b7e92e.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/",
+          "author": "Beau Carnes",
+          "description": "Understanding the math behind deep learning is important if you want to become proficient in machine learning techniques. We just published a 14-hour deep learning course on the freeCodeCamp.org YouTube channel. This course is specifically tailored t...",
+          "link": "https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/",
+          "publishedOn": "2024-05-08T14:17:48.000Z",
+          "wordCount": 946,
+          "title": "Deep Learning Course – Math and Applications",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715177855099/f851bc1e-c61b-4c7a-be07-aa0ba233a347.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/introduction-to-html-basics/",
           "author": "Casmir Onyekani",
@@ -1083,26 +1148,6 @@
           "wordCount": 1412,
           "title": "How to Send Emails With Nodemailer in NestJS",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/joanna-kosinska-uGcDWKN91Fs-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-marquee-component-with-react/",
-          "author": "Jaja Ibifubara David",
-          "description": "When you think of marquees, you often envision the vibrant lights and spinning displays at amusement parks, bringing back fond memories of your childhood. Similarly in web applications, marquees inject a lively visual sense by effortlessly grabbing attention and infusing your online projects with dynamism. Join me as we explore",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-marquee-component-with-react/",
-          "publishedOn": "2024-04-09T12:41:24.000Z",
-          "wordCount": 2915,
-          "title": "How to Build a Marquee Component with React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Group-297.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/testing-proto-datastore/",
-          "author": "Tomer Ben Rachel",
-          "description": "In a previous article [https://medium.com/proandroiddev/android-proto-datastore-should-you-use-it-36ae997d00f2] , I described how you can use Proto DataStore in your application. I wrote that article as part of my experience in using Proto DataStore in one of my applications [https://play.google.com/store/apps/details?id=com.tomerpacific.todo]. Following that, I wanted to see what it would be like to write tests",
-          "link": "https://www.freecodecamp.org/news/testing-proto-datastore/",
-          "publishedOn": "2024-04-08T20:54:23.000Z",
-          "wordCount": 1599,
-          "title": "How to Test Proto DataStore",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/alexander-schimmeck-QX0SWFpB2ho-unsplash.jpg"
         }
       ]
     }
