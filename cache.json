@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/modern-guide-making-css-shapes/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "In this comprehensive guide, Temani Afif explores different techniques for creating common shapes with the smallest and most flexible code possible.",
+          "link": "https://smashingmagazine.com/2024/05/modern-guide-making-css-shapes/",
+          "publishedOn": "2024-05-10T13:00:00.000Z",
+          "wordCount": 8891,
+          "title": "The Modern Guide For Making CSS Shapes",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-guide-making-css-shapes/modern-guide-making-css-shapes.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-guide-making-css-shapes/modern-guide-making-css-shapes.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/forensics-react-server-components/",
           "author": "hello@smashingmagazine.com (Lazar Nikolov)",
           "description": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
@@ -231,21 +246,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/sliding-3d-image-frames-css/sliding-3d-image-frames-css.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/penpot-css-grid-layout-designing-superpowers/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Penpot helps designers and developers work better together by offering a free, open-source design tool based on open web standards. Today, let's explore Penpot’s latest feature, CSS Grid Layout. Penpot’s latest release is about efficiency and so much more. It gives designers superpowers and a better place at the table. Excited? Let’s take a look at it together.",
-          "link": "https://smashingmagazine.com/2024/04/penpot-css-grid-layout-designing-superpowers/",
-          "publishedOn": "2024-04-11T08:00:00.000Z",
-          "wordCount": 4037,
-          "title": "Penpot’s CSS Grid Layout: Designing With Superpowers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/penpot-css-grid-layout-designing-superpowers/penpot-css-grid-layout-designing-superpowers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/penpot-css-grid-layout-designing-superpowers/penpot-css-grid-layout-designing-superpowers.jpg"
         }
       ]
     },
@@ -254,6 +254,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-gary-simon-rebuilt-his-developer-agency-after-a-massive-loss-podcast-123/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Gary Simon, a developer and designer who started DesignCourse and has published several courses on freeCodeCamp.org over the years. We talk about: Growing up in rural Ohio, marrying young, and stayi...",
+          "link": "https://www.freecodecamp.org/news/how-gary-simon-rebuilt-his-developer-agency-after-a-massive-loss-podcast-123/",
+          "publishedOn": "2024-05-10T18:05:45.000Z",
+          "wordCount": 844,
+          "title": "How Gary Simon Rebuilt his Developer Agency after a Massive Loss [Podcast #123]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715364280715/00371c37-65a9-4656-a739-18370400d456.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage/",
+          "author": "Ayomide Wilfred",
+          "description": "A while ago, a client asked me to help them create a special app for generating QR codes so users could receive payments.  What set this app apart was that instead of users entering a URL to generate a QR code, they would initiate a request through the app.",
+          "link": "https://www.freecodecamp.org/news/build-a-qr-code-generator-using-nodejs-nextjs-azure-blob-storage/",
+          "publishedOn": "2024-05-10T15:41:39.000Z",
+          "wordCount": 3504,
+          "title": "How to Build a QR Code Generator for URLs with Node.js, Next.js, and Azure Blob Storage",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/qr-code-image-real.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/database-optimization-principles/",
+          "author": "oluwatobi Joshua",
+          "description": "Databases are an integral component of building applications, whether web, desktop or mobile. They symbolically serve as the mitochondria of the application, as their primary function is to manage data. Database management is a critical skill a developer must possess in building scalable applications that have a high level of",
+          "link": "https://www.freecodecamp.org/news/database-optimization-principles/",
+          "publishedOn": "2024-05-10T15:21:56.000Z",
+          "wordCount": 1790,
+          "title": "How to Optimize Your Database – Optimization Principles and Best Practices",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Acid.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-concurrency-in-go/",
+          "author": "Destiny Erhabor",
+          "description": "Concurrency is the ability of a program to perform multiple tasks simultaneously. It is a crucial aspect of building scalable and responsive systems.  Go's concurrency model is based on the concept of goroutines, lightweight threads that can run multiple functions concurrently, and channels, a built-in communication mechanism for safe",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-concurrency-in-go/",
+          "publishedOn": "2024-05-10T15:07:54.000Z",
+          "wordCount": 3224,
+          "title": "How to Handle Concurrency with Goroutines and Channels in Go",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/should-you-learn-typescript/",
+          "author": "TAPAS ADHIKARY",
+          "description": "In this article, we'll explore the question: is TypeScript worth learning? Before we try finding the answer together, let me tell you why I'm suddenly asking this. I come from a Java background where writing code demands that you be type-aware. This means that if you are declaring a string,",
+          "link": "https://www.freecodecamp.org/news/should-you-learn-typescript/",
+          "publishedOn": "2024-05-10T14:50:13.000Z",
+          "wordCount": 3243,
+          "title": "Should You Learn TypeScript? Pros and Cons of TS Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/typescript-worth-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-objects-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "In programming, objects are fundamental building blocks used to represent real-world entities or concepts. JavaScript, a versatile and popular language, offers various ways to create these objects.  This article dives deep into these methods, equipping you with the knowledge to craft objects tailored to your programming needs. We'll begin",
+          "link": "https://www.freecodecamp.org/news/how-to-create-objects-in-javascript/",
+          "publishedOn": "2024-05-10T06:22:18.000Z",
+          "wordCount": 2931,
+          "title": "How to Create Objects in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--9-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/javascript-remove-char-from-string/",
           "author": "Dionysia Lemonaki",
@@ -1143,46 +1203,6 @@
           "wordCount": 1681,
           "title": "React State vs Refs – Differences and Use Cases",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/STATE-VS-REF.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/error-handling-in-python-introduction/",
-          "author": "Gage Schaffer",
-          "description": "Just recently, my manager tasked me to create an automatic report. I designed the report to be simple. It included a few numbers from a database and some basic mathematical operations. I was excited to finally be able to show off my  amazing Python skills to the company. I",
-          "link": "https://www.freecodecamp.org/news/error-handling-in-python-introduction/",
-          "publishedOn": "2024-04-11T00:09:53.000Z",
-          "wordCount": 2323,
-          "title": "Error Handling in Python – try, except, else, & finally Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/game-over-screen.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/",
-          "author": "Anshul Sanghi",
-          "description": "Recently, there's been a massive amount of effort put into developing novel image processing techniques. And many of them are derived from digital signal processing methods such as Fourier and Wavelet transforms.  These techniques have not only enabled a wide range of image processing techniques such as noise reduction,",
-          "link": "https://www.freecodecamp.org/news/multi-scale-analysis-of-images-in-rust/",
-          "publishedOn": "2024-04-10T15:48:11.000Z",
-          "wordCount": 6276,
-          "title": "Rust Tutorial – Learn Multi-Scale Processing of Astronomical Images",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Watermark.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/activation-functions-in-neural-networks/",
-          "author": "Tiago Monteiro",
-          "description": "In Artificial Intelligence, Machine Learning is the foundation of most revolutionary AI applications. From language processing to image recognition, Machine Learning is everywhere. Machine Learning relies on algorithms, statistical models, and neural networks. And Deep Learning is the subfield of Machine Learning focused only on neural networks. A key piece",
-          "link": "https://www.freecodecamp.org/news/activation-functions-in-neural-networks/",
-          "publishedOn": "2024-04-10T15:44:31.000Z",
-          "wordCount": 3099,
-          "title": "How AI Models Think: The Key Role of Activation Functions with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/1-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-git-in-spanish-git-course-for-beginners/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Git is the version control system that most software companies use around the world. It's an essential tool for managing and tracking code changes effectively. If you are learning to code, you should definitely learn Git. We just published a 1-hour course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that",
-          "link": "https://www.freecodecamp.org/news/learn-git-in-spanish-git-course-for-beginners/",
-          "publishedOn": "2024-04-10T15:06:25.000Z",
-          "wordCount": 1037,
-          "title": "Learn Git in Spanish – Git Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Tailwind-v2.png"
         }
       ]
     }
