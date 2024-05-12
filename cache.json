@@ -255,6 +255,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-react-chatbot/",
+          "author": "Tan Jin",
+          "description": "In the ever-evolving realm of web technologies, the integration of AI-powered chatbots has become a defining trend in 2024.  With rapid advancements in Large Language Models (LLMs), chatbots have grown to become pivotal tools adopted across many websites and services. From FAQ bots to live chat support, they can",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-react-chatbot/",
+          "publishedOn": "2024-05-10T22:27:30.000Z",
+          "wordCount": 1576,
+          "title": "How to Create a React Chatbot – a Step by Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/rcb-logo-large---Copy.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-become-a-pro-designer-in-2024-interview-with-gary-simon-podcast-123/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Gary Simon, a developer and designer who started DesignCourse and has published several courses on freeCodeCamp.org over the years. We talk about: Growing up in rural Ohio, marrying young, and stayi...",
+          "link": "https://www.freecodecamp.org/news/how-to-become-a-pro-designer-in-2024-interview-with-gary-simon-podcast-123/",
+          "publishedOn": "2024-05-10T18:05:45.000Z",
+          "wordCount": 849,
+          "title": "How to Become a Pro Designer in 2024 [Interview with Gary Simon Podcast #123]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715398245475/df3e1138-477a-4718-9f59-5608e611f4a3.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-gary-simon-rebuilt-his-developer-agency-after-a-massive-loss-podcast-123/",
           "author": "Quincy Larson",
           "description": "On this week's episode of the podcast, I interview Gary Simon, a developer and designer who started DesignCourse and has published several courses on freeCodeCamp.org over the years. We talk about: Growing up in rural Ohio, marrying young, and stayi...",
@@ -1143,66 +1163,6 @@
           "wordCount": 836,
           "title": "CSS Artist Kass Moreno talks Art & Code [freeCodeCamp Podcast #119]",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/kass-moreno-css-artist-freecodecamp-podcast.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/beginners-guide-to-langchain/",
-          "author": "Jacob Lee",
-          "description": "Large language models (LLMs) are incredibly powerful general reasoning tools that are useful in a wide range of situations.  But working with LLMs presents challenges that are different from building traditional software:  * Calls tend to be long-running, and stream generate output as it becomes",
-          "link": "https://www.freecodecamp.org/news/beginners-guide-to-langchain/",
-          "publishedOn": "2024-04-11T23:11:37.000Z",
-          "wordCount": 3035,
-          "title": "How to Use LangChain to Build With LLMs – A Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/freecodecamp_cover_image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/best-practices-for-writing-accessible-technical-documentation/",
-          "author": "Ezinne Anne Emilia",
-          "description": "When you're writing technical documentation for a project or a tool you're working on, you'll want it to be accessible. This means that it will cater to and be usable by the diverse global audience on the web. Web accessibility aims to make it possible for anyone to access web",
-          "link": "https://www.freecodecamp.org/news/best-practices-for-writing-accessible-technical-documentation/",
-          "publishedOn": "2024-04-11T23:03:04.000Z",
-          "wordCount": 2840,
-          "title": "How to Write Accessible Technical Documentation – Best Practices with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/20240401_161256_0000.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/",
-          "author": "Rajdeep Singh",
-          "description": "Markdown [https://en.wikipedia.org/wiki/Markdown] is a lightweight, open-source, easy-to-read and easy-to-write method of formatting text that you can use as plain text in any IDE or editor. When writing on GitHub, you can use Markdown syntax and HTML elements to extend Markdown's functionality. You can use Markdown syntax everywhere in GitHub, such",
-          "link": "https://www.freecodecamp.org/news/github-flavored-markdown-syntax-examples/",
-          "publishedOn": "2024-04-11T19:08:04.000Z",
-          "wordCount": 3038,
-          "title": "Learn GitHub-Flavored Markdown Syntax and Formatting – With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/freecodecampl-github.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/backend-web-development-three-projects/",
-          "author": "Beau Carnes",
-          "description": "To become a great backend developer, you need to build a lot of projects. We just posted a course on the freeCodeCamp.org YouTube channel that will help you improve your backend development skills by teaching you to build three full projects. Tomi Tokko developed this course. He's a popular teacher,",
-          "link": "https://www.freecodecamp.org/news/backend-web-development-three-projects/",
-          "publishedOn": "2024-04-11T15:26:09.000Z",
-          "wordCount": 953,
-          "title": "Learn Backend Development by Building Three Projects [Full Course]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/tomi.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs/",
-          "author": "Beau Carnes",
-          "description": "There are many ways that AI can help speed up web development. We just posted a course on the freeCodeCamp.org YouTube channel that will show you how to convert Figma designs into working code with just one click using AI. Ania Kubów developed this course. She is one of our",
-          "link": "https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs/",
-          "publishedOn": "2024-04-11T14:12:38.000Z",
-          "wordCount": 1049,
-          "title": "One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI [Full Course]",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/locofy.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-state-vs-ref-differences-and-use-cases/",
-          "author": "Timothy Olanrewaju",
-          "description": "In this article, we'll delve into a thorough comparison of React state and refs, exploring their suitability for specific scenarios. When faced with the need to store data in your React application, the first question that comes to mind is: \"Will the data change at some point during the component's",
-          "link": "https://www.freecodecamp.org/news/react-state-vs-ref-differences-and-use-cases/",
-          "publishedOn": "2024-04-11T13:07:51.000Z",
-          "wordCount": 1681,
-          "title": "React State vs Refs – Differences and Use Cases",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/STATE-VS-REF.png"
         }
       ]
     }
