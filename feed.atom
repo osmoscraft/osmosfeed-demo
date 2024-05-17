@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T00:59:22.774Z</updated>
+    <updated>2024-05-17T00:59:48.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Join the freeCodeCamp Discord Server and Chat with Fellow Campers]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-join-the-freecodecamp-discord-server-and-chat-with-fellow-campers/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-join-the-freecodecamp-discord-server-and-chat-with-fellow-campers/"/>
+        <updated>2024-05-16T21:13:29.000Z</updated>
+        <summary type="html"><![CDATA[freeCodeCamp runs a popular Discord community where we hang out and chat about technology. You can join in the fun and learn from fellow campers who are going through freeCodeCamp's core curriculum. You can use this link: https://discord.com/invite/f...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond CSS Media Queries]]></title>
+        <id>https://smashingmagazine.com/2024/05/beyond-css-media-queries/</id>
+        <link href="https://smashingmagazine.com/2024/05/beyond-css-media-queries/"/>
+        <updated>2024-05-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Juan Diego Rodriguez explains why media queries still occupy a vital role in responsive layouts; only they are now one tool in a larger toolbox with modern techniques that are best when used together.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Pop-up Image in Your Spreadsheet]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-an-image-lightbox/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-an-image-lightbox/"/>
+        <updated>2024-05-16T10:17:53.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'll show you two ways to create a lightbox effect in a spreadsheet. The first will trigger the image to be displayed in a large area in the sheet. The second will be an actual HTML popup on top of the sheet. If you want to follow]]></summary>
+        <author>
+            <name>Eamonn Cottrell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn the Algorithms Behind Quantum Computing]]></title>
         <id>https://www.freecodecamp.org/news/learn-the-algorithms-behind-quantum-computing/</id>
@@ -965,66 +995,6 @@ Demystifying Screen Readers: Accessible Forms & Best Practices originally publis
         <summary type="html"><![CDATA[What do you do when you need to convert plain text into formatted HTML? Perhaps you reach for Markdown or manually write in the element tags yourself. Or maybe you have one or two of the dozens of online tools that will do it for you. In this tutorial, Alexis Kypridemos picks those tools apart and details the steps for how we can do it ourselves with a little vanilla HTML, CSS, and JavaScript.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alexis Kypridemos)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Function Components vs Class Components in React – With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/"/>
-        <updated>2024-04-16T22:37:11.000Z</updated>
-        <summary type="html"><![CDATA[In React, there are two primary ways to create components: function and class components. Each has its own syntax and use cases, although with the introduction of React Hooks, the gap between them has narrowed significantly. But the selection of appropriate component types is still very crucial for building efficient]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applied Data Science: A / B Testing]]></title>
-        <id>https://www.freecodecamp.org/news/applied-data-science-a-b-testing/</id>
-        <link href="https://www.freecodecamp.org/news/applied-data-science-a-b-testing/"/>
-        <updated>2024-04-16T20:53:54.000Z</updated>
-        <summary type="html"><![CDATA[A/B testing is a key technique used in data science for making data-driven decisions in business. We just published a course on the freeCodeCamp.org YouTube channel that will tech you this important data science technique. Developed by Tatev, a seaso...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to deploy to Digital Ocean]]></title>
-        <id>https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-deploy-to-digital-ocean/"/>
-        <updated>2024-04-16T20:42:51.000Z</updated>
-        <summary type="html"><![CDATA[DigitalOcean is a cloud infrastructure provider that offers developers cloud services that help to deploy and scale applications that run simultaneously on multiple computers. We just posted a course on the freeCodeCamp.org YouTube channel that will ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Bytes to String – How to Convert a Str to Bytes and Back Again]]></title>
-        <id>https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/</id>
-        <link href="https://www.freecodecamp.org/news/python-bytes-to-string-code-examples/"/>
-        <updated>2024-04-16T20:07:39.000Z</updated>
-        <summary type="html"><![CDATA[You can use bytes in Python to represent data in binary form. In this article, you'll learn how to convert bytes to a string, and vice versa. Before we look at the conversions, let's talk about how bytes work in Python. You can skip to the next secti...]]></summary>
-        <author>
-            <name>Ihechikara Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Tutorial – How to Build a Naïve Star Detector for Images]]></title>
-        <id>https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/</id>
-        <link href="https://www.freecodecamp.org/news/rust-tutorial-naive-star-detector-for-images/"/>
-        <updated>2024-04-16T19:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Star detection is a crucial step in many of the processing and analysis routines that we perform on astronomical images. It is extremely important for a process called plate-solving, which is the process of figuring out which part of the sky an image shows, or which part of the sky]]></summary>
-        <author>
-            <name>Anshul Sanghi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Length of C String – How to Find the Size of a String in C]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-length-of-c-string-with-examples/"/>
-        <updated>2024-04-16T15:00:09.000Z</updated>
-        <summary type="html"><![CDATA[When working with strings in C, you need to know how to find their length. Finding the length of a string in C is essential for many reasons. You may need to perform string manipulation, and many string manipulation functions require the length of th...]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
         </author>
     </entry>
 </feed>
