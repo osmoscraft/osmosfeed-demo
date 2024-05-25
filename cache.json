@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/",
+          "author": "hello@smashingmagazine.com (Daniel Yuschick)",
+          "description": "After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.",
+          "link": "https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/",
+          "publishedOn": "2024-05-24T12:00:00.000Z",
+          "wordCount": 4732,
+          "title": "Switching It Up With HTML’s Latest Control",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/switching-it-up-html-latest-control/switching-it-up-html-latest-control.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/switching-it-up-html-latest-control/switching-it-up-html-latest-control.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/naming-best-practices/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
@@ -250,36 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
-          "author": "hello@smashingmagazine.com (Michele Williams)",
-          "description": "Conducting UX research that includes participants with a variety of disabilities is vital to building inclusive technology, but most prototypes used for testing are inaccessible. Rather than continuing to leave out feedback from disabled consumers, which ultimately leads to exclusive technology, researchers must get creative in their workarounds and be relentless in their efforts.",
-          "link": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
-          "publishedOn": "2024-04-25T12:00:00.000Z",
-          "wordCount": 6529,
-          "title": "Conducting Accessibility Research In An Inaccessible Ecosystem",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/conducting-accessibility-research-inaccessible-ecosystem/conducting-accessibility-research-inaccessible-ecosystem.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/conducting-accessibility-research-inaccessible-ecosystem/conducting-accessibility-research-inaccessible-ecosystem.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
-          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
-          "description": "This article illustrates how AI can be leveraged to build tools that can be inclusive with a little bit of an additional effort.",
-          "link": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
-          "publishedOn": "2024-04-24T15:00:00.000Z",
-          "wordCount": 5701,
-          "title": "Using AI For Neurodiversity And Building Inclusive Tools",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-for-neurodiversity/ai-neurodiversity-building-inclusive-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-for-neurodiversity/ai-neurodiversity-building-inclusive-tools.jpg"
         }
       ]
     },
@@ -288,6 +273,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-crud-operations-with-dotnet-core-handbook/",
+          "author": "Isaiah Cliford  Opoku",
+          "description": "Welcome to this comprehensive guide on building CRUD operations with .NET Core. We'll use a Todo API as our practical example so you can get hands-on experience as you learn. Throughout this tutorial, you'll learn how to create, read, update, and delete Todo items, and how to leverage Entity Framework",
+          "link": "https://www.freecodecamp.org/news/build-crud-operations-with-dotnet-core-handbook/",
+          "publishedOn": "2024-05-24T14:33:16.000Z",
+          "wordCount": 10844,
+          "title": "How to Build CRUD Operations with .NET Core – A Todo API Handbook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Attractive.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/open-source-is-changing-the-changelog-host-jerod-santo-on-how-to-keep-up-podcast-125/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Jerod Santo, host of The Changelog, a podcast about open source software development that has been going strong for 15 years. Jerod is plugged in to the world of Open Source, going to all the big con...",
+          "link": "https://www.freecodecamp.org/news/open-source-is-changing-the-changelog-host-jerod-santo-on-how-to-keep-up-podcast-125/",
+          "publishedOn": "2024-05-24T14:29:09.000Z",
+          "wordCount": 984,
+          "title": "Open Source is Changing. The Changelog Host Jerod Santo on How to Keep Up [Podcast #125]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1716560926449/da565915-17aa-4ca7-825a-d8e6695ec4d4.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product/",
+          "author": "Oleg Romanyuk",
+          "description": "Proof of concept, prototypes, wireframes, mockups… what actually constitutes a Minimum Viable Product (MVP)? Well, it's a product with just enough features to gather comprehensive qualitative feedback. In practice, it's as easy to understand the concept of an MVP as it is to ride a bicycle. Let's do it then.",
+          "link": "https://www.freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product/",
+          "publishedOn": "2024-05-24T13:00:00.000Z",
+          "wordCount": 3649,
+          "title": "How to Build an MVP for Your Project – and Why You Should Do It",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2020/02/MVP-as-a-Bicyle.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/choose-a-tech-stack-for-your-saas-product/",
+          "author": "Juan Cruz Martinez",
+          "description": "As a developer, I've seen how choosing the \"right\" tech stack can be a double-edged sword. I often fell into the trap of chasing shiny new technologies, thinking they were the key to building the next great product. But experience has taught me that prioritizing speed to market trends often",
+          "link": "https://www.freecodecamp.org/news/choose-a-tech-stack-for-your-saas-product/",
+          "publishedOn": "2024-05-24T08:52:18.000Z",
+          "wordCount": 1663,
+          "title": "How to Choose a Tech Stack for Your SaaS Product – Lessons from a Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Live-Stream-Post.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/",
           "author": "Beau Carnes",
@@ -1067,76 +1092,6 @@
           "wordCount": 1008,
           "title": "Code a Kirby Clone with TypeScript and Kaboom.js",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714074837257/0aab06c2-8e93-47ee-ba51-b3fa0b91e9d6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/",
-          "author": "Ayobami Alaran",
-          "description": "Hey there! 👋 Ever since I started working with NestJS, I've been looking for a reliable way to manage my database with TypeORM. Today, I'll share my journey and the steps I took to get it all set up. Alright, before we dive in, let's try to understand what TypeORM",
-          "link": "https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/",
-          "publishedOn": "2024-04-25T11:22:53.000Z",
-          "wordCount": 2945,
-          "title": "How To Set Up TypeORM DataSource in Your NestJS Project",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/hq720-1-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/php-jwt-authentication-implementation/",
-          "author": "oghenekparobo stephen",
-          "description": "In this article, we'll explore the process of creating JSON Web Tokens (JWTs) from scratch in PHP, presenting a superior and more secure authentication scheme.  By implementing this advanced approach, we unveil a robust and highly secure authentication mechanism that significantly enhances data protection and user authentication. Table Of",
-          "link": "https://www.freecodecamp.org/news/php-jwt-authentication-implementation/",
-          "publishedOn": "2024-04-24T18:41:00.000Z",
-          "wordCount": 7927,
-          "title": "How to Implement JSON Web Tokens (JWTs) in PHP – PHP Authentication Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/How-to-Implement-JSON-Web-Tokens-in-PHP-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/procedural-macros-in-rust/",
-          "author": "Anshul Sanghi",
-          "description": "In this handbook, you'll learn about procedural macros in Rust, and what purposes they serve. You'll also learn how to write your own procedural macros with both hypothetical and real-world examples. This guide assumes that you're familiar with Rust and its basic concepts, such as data-types, iterators, and traits. If",
-          "link": "https://www.freecodecamp.org/news/procedural-macros-in-rust/",
-          "publishedOn": "2024-04-24T17:49:17.000Z",
-          "wordCount": 12483,
-          "title": "Procedural Macros in Rust – A Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Procedural-Macros-in-Rust-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/webflow-crash-course/",
-          "author": "Beau Carnes",
-          "description": "Are you ready to master Webflow and build stunning websites without writing a single line of code? We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through everything you need to know about Webflow. Ashokkumar Chava...",
-          "link": "https://www.freecodecamp.org/news/webflow-crash-course/",
-          "publishedOn": "2024-04-24T17:15:23.000Z",
-          "wordCount": 926,
-          "title": "Webflow Crash Course",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713989079880/5e5dfceb-38ee-4b4a-9fa8-77643a1023ef.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/",
-          "author": "Beau Carnes",
-          "description": "Creating a Google Photos clone will help you learn a lot about web development. We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a powerful photo management app using Next.js and Cloudinary. Colb...",
-          "link": "https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/",
-          "publishedOn": "2024-04-24T17:07:29.000Z",
-          "wordCount": 1102,
-          "title": "Create a Google Photos Clone with Next.js and Cloudinary",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713989096807/bbb28c76-9a35-476c-a58f-59819efe9e65.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/",
-          "author": "Estefania Cassingena Navone",
-          "description": "Building websites that look great on any device – like a phone, tablet, or computer screen – is what responsive web development is all about. In this course, you will learn how to build a responsive website step by step in Spanish using HTML and CSS....",
-          "link": "https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/",
-          "publishedOn": "2024-04-24T15:36:15.000Z",
-          "wordCount": 1169,
-          "title": "Build a Responsive Website with HTML and CSS - Course in Spanish",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1713808669840/d79f8ee5-b159-4a71-a0be-4ff3b52b3f5d.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-oop-in-python/",
-          "author": "Damilola Oladele",
-          "description": "Object-oriented programming (OOP) is a style of programming that heavily relies on objects. These objects can have attributes and methods. While attributes store data, methods define behavior. Like many other programming languages, Python supports both OOP and functional programming. However, OOP becomes valuable when writing large-sized and complex programs. In",
-          "link": "https://www.freecodecamp.org/news/how-to-use-oop-in-python/",
-          "publishedOn": "2024-04-24T14:39:28.000Z",
-          "wordCount": 2535,
-          "title": "How to Use Object-Oriented Programming in Python – Explained With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/WhatsApp-Image-2024-04-24-at-8.25.07-AM.jpeg"
         }
       ]
     }

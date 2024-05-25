@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-24T00:59:50.255Z</updated>
+    <updated>2024-05-25T00:58:28.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build CRUD Operations with .NET Core – A Todo API Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/build-crud-operations-with-dotnet-core-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/build-crud-operations-with-dotnet-core-handbook/"/>
+        <updated>2024-05-24T14:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this comprehensive guide on building CRUD operations with .NET Core. We'll use a Todo API as our practical example so you can get hands-on experience as you learn. Throughout this tutorial, you'll learn how to create, read, update, and delete Todo items, and how to leverage Entity Framework]]></summary>
+        <author>
+            <name>Isaiah Cliford  Opoku</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source is Changing. The Changelog Host Jerod Santo on How to Keep Up [Podcast #125]]]></title>
+        <id>https://www.freecodecamp.org/news/open-source-is-changing-the-changelog-host-jerod-santo-on-how-to-keep-up-podcast-125/</id>
+        <link href="https://www.freecodecamp.org/news/open-source-is-changing-the-changelog-host-jerod-santo-on-how-to-keep-up-podcast-125/"/>
+        <updated>2024-05-24T14:29:09.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Jerod Santo, host of The Changelog, a podcast about open source software development that has been going strong for 15 years. Jerod is plugged in to the world of Open Source, going to all the big con...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an MVP for Your Project – and Why You Should Do It]]></title>
+        <id>https://www.freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product/</id>
+        <link href="https://www.freecodecamp.org/news/minimum-viable-product-between-an-idea-and-the-product/"/>
+        <updated>2024-05-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Proof of concept, prototypes, wireframes, mockups… what actually constitutes a Minimum Viable Product (MVP)? Well, it's a product with just enough features to gather comprehensive qualitative feedback. In practice, it's as easy to understand the concept of an MVP as it is to ride a bicycle. Let's do it then.]]></summary>
+        <author>
+            <name>Oleg Romanyuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switching It Up With HTML’s Latest Control]]></title>
+        <id>https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/</id>
+        <link href="https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/"/>
+        <updated>2024-05-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose a Tech Stack for Your SaaS Product – Lessons from a Developer]]></title>
+        <id>https://www.freecodecamp.org/news/choose-a-tech-stack-for-your-saas-product/</id>
+        <link href="https://www.freecodecamp.org/news/choose-a-tech-stack-for-your-saas-product/"/>
+        <updated>2024-05-24T08:52:18.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, I've seen how choosing the "right" tech stack can be a double-edged sword. I often fell into the trap of chasing shiny new technologies, thinking they were the key to building the next great product. But experience has taught me that prioritizing speed to market trends often]]></summary>
+        <author>
+            <name>Juan Cruz Martinez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pass the AWS Certified Solutions Architect - Associate Certification]]></title>
         <id>https://www.freecodecamp.org/news/pass-the-aws-certified-solutions-architect-associate-certification/</id>
@@ -944,96 +994,6 @@
         <summary type="html"><![CDATA[If you are learning programming, it should be fun! We just posted a video course on the freeCodeCamp.org YouTube channel that will guide you through the process of creating a Kirby game clone using TypeScript and Kaboom.js. JSLegendDev created this c...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conducting Accessibility Research In An Inaccessible Ecosystem]]></title>
-        <id>https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/</id>
-        <link href="https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/"/>
-        <updated>2024-04-25T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Conducting UX research that includes participants with a variety of disabilities is vital to building inclusive technology, but most prototypes used for testing are inaccessible. Rather than continuing to leave out feedback from disabled consumers, which ultimately leads to exclusive technology, researchers must get creative in their workarounds and be relentless in their efforts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michele Williams)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Set Up TypeORM DataSource in Your NestJS Project]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-setup-typeorm-datasource-nestjs-app/"/>
-        <updated>2024-04-25T11:22:53.000Z</updated>
-        <summary type="html"><![CDATA[Hey there! 👋 Ever since I started working with NestJS, I've been looking for a reliable way to manage my database with TypeORM. Today, I'll share my journey and the steps I took to get it all set up. Alright, before we dive in, let's try to understand what TypeORM]]></summary>
-        <author>
-            <name>Ayobami Alaran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement JSON Web Tokens (JWTs) in PHP – PHP Authentication Guide]]></title>
-        <id>https://www.freecodecamp.org/news/php-jwt-authentication-implementation/</id>
-        <link href="https://www.freecodecamp.org/news/php-jwt-authentication-implementation/"/>
-        <updated>2024-04-24T18:41:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll explore the process of creating JSON Web Tokens (JWTs) from scratch in PHP, presenting a superior and more secure authentication scheme.  By implementing this advanced approach, we unveil a robust and highly secure authentication mechanism that significantly enhances data protection and user authentication. Table Of]]></summary>
-        <author>
-            <name>oghenekparobo stephen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procedural Macros in Rust – A Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/procedural-macros-in-rust/</id>
-        <link href="https://www.freecodecamp.org/news/procedural-macros-in-rust/"/>
-        <updated>2024-04-24T17:49:17.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, you'll learn about procedural macros in Rust, and what purposes they serve. You'll also learn how to write your own procedural macros with both hypothetical and real-world examples. This guide assumes that you're familiar with Rust and its basic concepts, such as data-types, iterators, and traits. If]]></summary>
-        <author>
-            <name>Anshul Sanghi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webflow Crash Course]]></title>
-        <id>https://www.freecodecamp.org/news/webflow-crash-course/</id>
-        <link href="https://www.freecodecamp.org/news/webflow-crash-course/"/>
-        <updated>2024-04-24T17:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to master Webflow and build stunning websites without writing a single line of code? We just posted a course on the freeCodeCamp.org YouTube channel that will guide you through everything you need to know about Webflow. Ashokkumar Chava...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a Google Photos Clone with Next.js and Cloudinary]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/"/>
-        <updated>2024-04-24T17:07:29.000Z</updated>
-        <summary type="html"><![CDATA[Creating a Google Photos clone will help you learn a lot about web development. We just posted a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a powerful photo management app using Next.js and Cloudinary. Colb...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Responsive Website with HTML and CSS - Course in Spanish]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-responsive-website-with-html-and-css-full-course-in-spanish/"/>
-        <updated>2024-04-24T15:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Building websites that look great on any device – like a phone, tablet, or computer screen – is what responsive web development is all about. In this course, you will learn how to build a responsive website step by step in Spanish using HTML and CSS....]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using AI For Neurodiversity And Building Inclusive Tools]]></title>
-        <id>https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/</id>
-        <link href="https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/"/>
-        <updated>2024-04-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article illustrates how AI can be leveraged to build tools that can be inclusive with a little bit of an additional effort.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Pratik Joglekar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Object-Oriented Programming in Python – Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-oop-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-oop-in-python/"/>
-        <updated>2024-04-24T14:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Object-oriented programming (OOP) is a style of programming that heavily relies on objects. These objects can have attributes and methods. While attributes store data, methods define behavior. Like many other programming languages, Python supports both OOP and functional programming. However, OOP becomes valuable when writing large-sized and complex programs. In]]></summary>
-        <author>
-            <name>Damilola Oladele</name>
         </author>
     </entry>
 </feed>
