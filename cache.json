@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "description": "Application frameworks have built whole ecosystems on top of them. Let’s take a closer look at serverless platforms such as Netlify’s [Platform Primitives](https://www.netlify.com/platform/primitives) and explore how they can increase our productivity with a serverless fullstack experience.",
+          "link": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
+          "publishedOn": "2024-05-28T12:00:00.000Z",
+          "wordCount": 4139,
+          "title": "The Era Of Platform Primitives Is Finally Here",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/netlify-platform-primitives/netlify-platform-primitives.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/netlify-platform-primitives/netlify-platform-primitives.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/switching-it-up-html-latest-control/",
           "author": "hello@smashingmagazine.com (Daniel Yuschick)",
           "description": "After years of relying on checkbox hacks to create a “switch” control for forms that toggle between two states, HTML may be gaining a native way to go about it by adding a `switch` attribute to checkbox inputs. Daniel Yuschick walks us through a first impression of switch controls and discusses current and ongoing considerations that need to be explored further before it is ready for prime time.",
@@ -258,6 +273,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/",
+          "author": "Beau Carnes",
+          "description": "Linear algebra is a useful skill for professionals in data science, machine learning, and AI. We just posted a course on the freeCodeCamp.org YouTube channel that will teach you linear algebra. This crash course spans just over 6 hours and is a great...",
+          "link": "https://www.freecodecamp.org/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/",
+          "publishedOn": "2024-05-28T20:32:00.000Z",
+          "wordCount": 867,
+          "title": "Linear Algebra Crash Course - Mathematics for Machine Learning and Generative AI",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-eks-cluster-using-aws-local-zones-with-aws-cdk/",
+          "author": "Gursimar Singh",
+          "description": "AWS Local Zones are a new type of infrastructure that enables you to build and run applications closer to end-users, providing low latency and improved performance.  They are designed to provide the same high availability and reliability as an AWS Region, but with the added benefit of low-latency connections",
+          "link": "https://www.freecodecamp.org/news/build-an-eks-cluster-using-aws-local-zones-with-aws-cdk/",
+          "publishedOn": "2024-05-28T14:34:30.000Z",
+          "wordCount": 1608,
+          "title": "How to Build an EKS Cluster Across AWS Local Zones using the AWS CDK",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/pexels-pixabay-357742.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/linear-regression-vs-logistic-regression/",
+          "author": "Oluwadamisi Samuel Praise",
+          "description": "Regression models identify trends in a dataset and predict outcomes based on the trends they have analyzed and identified.  Linear and Logistic Regression are two types of regression models that are similar but carry out their functions in distinct ways. They're also two fundamental techniques in machine learning that",
+          "link": "https://www.freecodecamp.org/news/linear-regression-vs-logistic-regression/",
+          "publishedOn": "2024-05-28T13:02:08.000Z",
+          "wordCount": 1712,
+          "title": "Linear vs Logistic Regression:  How to Choose the Right Regression Model for Your Data",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Linear-vs-Logistic-Regession.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-19-new-hooks-explained-with-examples/",
+          "author": "Kunal Nalawade",
+          "description": "Hi fellow readers! Web Development is a constantly evolving landscape. The whole ecosystem consists of different libraries and technologies. React is one of the most widely used libraries in web development.  There are small releases every now and then. However, this year, the React team has made a significant",
+          "link": "https://www.freecodecamp.org/news/react-19-new-hooks-explained-with-examples/",
+          "publishedOn": "2024-05-28T12:56:51.000Z",
+          "wordCount": 2473,
+          "title": "React 19 – New Hooks Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/thumb.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-guide-to-the-node-js-event-loop/",
+          "author": "Musab Habeeb",
+          "description": "Node.js is an open-source JavaScript runtime environment that allows you to run JavaScript outside the browser. Although Node.js is single-threaded, it has an event loop that makes it multi-threaded. The Node.js event loop is a crucial mechanism in Node.js that makes Node.js programs run concurrently and asynchronously. Mastering the Node.js",
+          "link": "https://www.freecodecamp.org/news/a-guide-to-the-node-js-event-loop/",
+          "publishedOn": "2024-05-28T07:00:35.000Z",
+          "wordCount": 2566,
+          "title": "A Guide to the Node.js Event Loop",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Node.js-event-loop.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-manipulate-strings-in-javascript/",
           "author": "Eric Hu",
