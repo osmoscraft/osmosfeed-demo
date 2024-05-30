@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/decision-trees-ui-components/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Imagine finally resolving never-ending discussions about UI decisions for good. Here are some practical examples of decision trees for UI components and how to use them effectively. An upcoming part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
+          "link": "https://smashingmagazine.com/2024/05/decision-trees-ui-components/",
+          "publishedOn": "2024-05-29T18:00:00.000Z",
+          "wordCount": 3646,
+          "title": "Decision Trees For UI Components",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/decision-trees-ui-components/decision-trees-for-ui-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/decision-trees-ui-components/decision-trees-for-ui-components.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/netlify-platform-primitives/",
           "author": "hello@smashingmagazine.com (Atila Fassina)",
           "description": "Application frameworks have built whole ecosystems on top of them. Let’s take a closer look at serverless platforms such as Netlify’s [Platform Primitives](https://www.netlify.com/platform/primitives) and explore how they can increase our productivity with a serverless fullstack experience.",
@@ -235,36 +250,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "May is almost here, so what better occasion could there be for some fresh and inspiring desktop wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/",
-          "publishedOn": "2024-04-30T13:00:00.000Z",
-          "wordCount": 4937,
-          "title": "Longing For May (2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
-          "author": "hello@smashingmagazine.com (Yaakov Karda)",
-          "description": "Business acquisitions are common but often shrouded in mystery because they happen behind closed doors. In this article, Yaakov details the story of his company and the journey it took him on, shedding light on the process of selling a business and what he learned from the experience.",
-          "link": "https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/",
-          "publishedOn": "2024-04-29T15:00:00.000Z",
-          "wordCount": 5723,
-          "title": "Lessons Learned After Selling My Startup",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/lessons-learned-after-selling-startup/lessons-learned-after-selling-startup.jpg"
         }
       ]
     },
@@ -273,6 +258,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-do-numerical-conversions-work/",
+          "author": "Zaira Hira",
+          "description": "Computers perform complex calculations when carrying out their assigned tasks. At the very core, the calculations boil down to operations like comparisons, assignments, and addition. Have you ever wondered how they are performed under the hood and wh...",
+          "link": "https://www.freecodecamp.org/news/how-do-numerical-conversions-work/",
+          "publishedOn": "2024-05-29T19:56:06.000Z",
+          "wordCount": 2611,
+          "title": "How Do Numerical Conversions Work in Computer Systems? Explained With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715271341530/60608a00-2e63-434e-91e8-c766b171f6f7.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/rust-tutorial-build-a-json-parser/",
+          "author": "Anshul Sanghi",
+          "description": "Iterators and match patterns are two of the most used language features in Rust. If you have written any real world application, big or small, chances are that you've already used these, whether knowingly or unknowingly. In this tutorial, I aim to help you understand how they actually work, the",
+          "link": "https://www.freecodecamp.org/news/rust-tutorial-build-a-json-parser/",
+          "publishedOn": "2024-05-29T10:45:15.000Z",
+          "wordCount": 8880,
+          "title": "Rust Tutorial – Learn Advanced Iterators & Pattern Matching by Building a JSON Parser",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/JSON-Parser-Cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/",
           "author": "Beau Carnes",
@@ -1062,36 +1067,6 @@
           "wordCount": 994,
           "title": "What's the difference between React and Next.js?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714495637003/ca50d0ff-a937-438a-b29b-c89a062a1e05.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/",
-          "author": "Beau Carnes",
-          "description": "Adding AI to your applications can open up a bunch of great features and uses. We just posted a course on the freeCodeCamp.org YouTube channel that will introduce you to AI Engineering using the OpenAI API and JavaScript. Created by expert Scrimba in...",
-          "link": "https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/",
-          "publishedOn": "2024-04-29T15:34:42.000Z",
-          "wordCount": 826,
-          "title": "Learn AI Engineering with OpenAI and JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714404872214/e224cfe5-ba9e-4568-abf2-fd89f918cc49.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/",
-          "author": "Jakub T. Jankiewicz",
-          "description": "In this article, you will learn how to create an interactive terminal-based portfolio and resume in JavaScript. We'll use the jQuery Terminal library [https://terminal.jcubic.pl/] (and a few other tools) to create a website that looks like a real terminal. This article will show more advanced usage of the jQuery Terminal",
-          "link": "https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/",
-          "publishedOn": "2024-04-29T14:49:54.000Z",
-          "wordCount": 4576,
-          "title": "How to Create an Interactive Terminal-Based Portfolio Website",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Przechwycenie-obrazu-ekranu_2024-04-27_15-51-08.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/",
-          "author": "Alexandru Paduraru",
-          "description": "Login pages are like the front doors to our web apps. They should be inviting, easy to use, and safe. If you're looking to create one that combines both style and function, you're in the right place. In this guide, we'll explore how to build a login page with Material",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/",
-          "publishedOn": "2024-04-29T14:21:00.000Z",
-          "wordCount": 5519,
-          "title": "How to Build a Login Page with the Material Tailwind Framework – Step by Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/how-to-build-a-login-page-with-the-material-tailwind-framework-1.jpg"
         }
       ]
     }

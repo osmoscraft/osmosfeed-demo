@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-29T01:03:31.102Z</updated>
+    <updated>2024-05-30T01:01:03.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Do Numerical Conversions Work in Computer Systems? Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-do-numerical-conversions-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-do-numerical-conversions-work/"/>
+        <updated>2024-05-29T19:56:06.000Z</updated>
+        <summary type="html"><![CDATA[Computers perform complex calculations when carrying out their assigned tasks. At the very core, the calculations boil down to operations like comparisons, assignments, and addition. Have you ever wondered how they are performed under the hood and wh...]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decision Trees For UI Components]]></title>
+        <id>https://smashingmagazine.com/2024/05/decision-trees-ui-components/</id>
+        <link href="https://smashingmagazine.com/2024/05/decision-trees-ui-components/"/>
+        <updated>2024-05-29T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine finally resolving never-ending discussions about UI decisions for good. Here are some practical examples of decision trees for UI components and how to use them effectively. An upcoming part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Tutorial – Learn Advanced Iterators & Pattern Matching by Building a JSON Parser]]></title>
+        <id>https://www.freecodecamp.org/news/rust-tutorial-build-a-json-parser/</id>
+        <link href="https://www.freecodecamp.org/news/rust-tutorial-build-a-json-parser/"/>
+        <updated>2024-05-29T10:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Iterators and match patterns are two of the most used language features in Rust. If you have written any real world application, big or small, chances are that you've already used these, whether knowingly or unknowingly. In this tutorial, I aim to help you understand how they actually work, the]]></summary>
+        <author>
+            <name>Anshul Sanghi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linear Algebra Crash Course - Mathematics for Machine Learning and Generative AI]]></title>
         <id>https://www.freecodecamp.org/news/linear-algebra-crash-course-mathematics-for-machine-learning-and-generative-ai/</id>
@@ -944,56 +974,6 @@
         <summary type="html"><![CDATA[Are interested in web development but find yourself a bit confused by the variety of technologies and terms like React, Next.js, and Vite? Our brand new video course on the freeCodeCamp.org YouTube channel is here to clear up the confusion and set yo...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longing For May (2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/</id>
-        <link href="https://smashingmagazine.com/2024/04/desktop-wallpaper-calendars-may-2024/"/>
-        <updated>2024-04-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[May is almost here, so what better occasion could there be for some fresh and inspiring desktop wallpapers? Created with love by artists and designers from across the globe, the wallpapers in this post come in versions with and without a calendar. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn AI Engineering with OpenAI and JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/learn-ai-engineering-with-openai-and-javascript/"/>
-        <updated>2024-04-29T15:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Adding AI to your applications can open up a bunch of great features and uses. We just posted a course on the freeCodeCamp.org YouTube channel that will introduce you to AI Engineering using the OpenAI API and JavaScript. Created by expert Scrimba in...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons Learned After Selling My Startup]]></title>
-        <id>https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/</id>
-        <link href="https://smashingmagazine.com/2024/04/lessons-learned-after-selling-startup/"/>
-        <updated>2024-04-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Business acquisitions are common but often shrouded in mystery because they happen behind closed doors. In this article, Yaakov details the story of his company and the journey it took him on, shedding light on the process of selling a business and what he learned from the experience.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yaakov Karda)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create an Interactive Terminal-Based Portfolio Website]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-interactive-terminal-based-portfolio/"/>
-        <updated>2024-04-29T14:49:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to create an interactive terminal-based portfolio and resume in JavaScript. We'll use the jQuery Terminal library [https://terminal.jcubic.pl/] (and a few other tools) to create a website that looks like a real terminal. This article will show more advanced usage of the jQuery Terminal]]></summary>
-        <author>
-            <name>Jakub T. Jankiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Login Page with the Material Tailwind Framework – Step by Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-login-page-with-material-tailwind-framework/"/>
-        <updated>2024-04-29T14:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Login pages are like the front doors to our web apps. They should be inviting, easy to use, and safe. If you're looking to create one that combines both style and function, you're in the right place. In this guide, we'll explore how to build a login page with Material]]></summary>
-        <author>
-            <name>Alexandru Paduraru</name>
         </author>
     </entry>
 </feed>
