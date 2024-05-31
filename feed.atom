@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-30T01:01:03.921Z</updated>
+    <updated>2024-05-31T01:01:07.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn the Basics of Go by Building a Full Stack Web App with React and Go]]></title>
+        <id>https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/</id>
+        <link href="https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/"/>
+        <updated>2024-05-30T15:26:47.000Z</updated>
+        <summary type="html"><![CDATA[Go can work great on the backend for a React project. We just released a course on the freeCodeCamp.org channel that will leach you how to build a full stack web app with React and Go. This comprehensive course is designed to teach you the fundamenta...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete C Programming Course from Dr. Chuck]]></title>
+        <id>https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/</id>
+        <link href="https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/"/>
+        <updated>2024-05-30T15:21:25.000Z</updated>
+        <summary type="html"><![CDATA[We just released a comprehensive C course on the freeCodeCamp.org YouTube channel. This course, developed by Dr. Charles Severance (aka Dr. Chuck), is designed to help you understand computer architecture and low-level programming using the classic C...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Praise Of The Basics]]></title>
+        <id>https://smashingmagazine.com/2024/05/in-praise-of-the-basics/</id>
+        <link href="https://smashingmagazine.com/2024/05/in-praise-of-the-basics/"/>
+        <updated>2024-05-30T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What does it mean to learn the “basics”, or fundamentals, of front-end web development? Is starting with HTML and CSS still the best entry point to learn how to make websites and apps when we have a seemingly endless supply of frameworks? Geoff Graham thinks so and discusses why you might consider going “back to basics” to start or move forward in your career.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Context API Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/react-context-api-explained-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/react-context-api-explained-with-examples/"/>
+        <updated>2024-05-30T08:13:54.000Z</updated>
+        <summary type="html"><![CDATA[Managing state has always been a critical aspect of making web applications with React. The most basic way to do this is prop drilling. In prop drilling, you pass props around from the parent component to other components that need it, no matter how deeply nested they are. The problem]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do Numerical Conversions Work in Computer Systems? Explained With Examples]]></title>
         <id>https://www.freecodecamp.org/news/how-do-numerical-conversions-work/</id>
@@ -944,36 +984,6 @@
         <summary type="html"><![CDATA[TypeScript is a superset of JavaScript that adds static typing to your code, preventing type errors and other potential bugs. Learning TypeScript can be super helpful for you as a web developer. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that is designed to teach you]]></summary>
         <author>
             <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Object-Oriented Programming in C# – Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-oop-in-c-sharp/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-oop-in-c-sharp/"/>
-        <updated>2024-05-01T12:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this comprehensive guide on object-oriented programming (OOP) using C#. This article will delve into the four fundamental pillars of OOP:  * Inheritance  * Encapsulation  * Polymorphism  * Abstraction Whether you're a seasoned programmer or a beginner stepping into the world of C#, this article]]></summary>
-        <author>
-            <name>Isaiah Cliford  Opoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Checkout Remote Branch – How to Fetch and List Remote Branches]]></title>
-        <id>https://www.freecodecamp.org/news/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches/</id>
-        <link href="https://www.freecodecamp.org/news/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches/"/>
-        <updated>2024-04-30T16:53:44.000Z</updated>
-        <summary type="html"><![CDATA[You can use branches in Git to work on different features without affecting your main codebase. For example, you can experiment with a new layout for your webpage on a different branch without affecting the main branch where your website is being dep...]]></summary>
-        <author>
-            <name>Ihechikara Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the difference between React and Next.js?]]></title>
-        <id>https://www.freecodecamp.org/news/whats-the-difference-between-react-and-nextjs/</id>
-        <link href="https://www.freecodecamp.org/news/whats-the-difference-between-react-and-nextjs/"/>
-        <updated>2024-04-30T16:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Are interested in web development but find yourself a bit confused by the variety of technologies and terms like React, Next.js, and Vite? Our brand new video course on the freeCodeCamp.org YouTube channel is here to clear up the confusion and set yo...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>

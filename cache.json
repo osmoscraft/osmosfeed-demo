@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/in-praise-of-the-basics/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "What does it mean to learn the “basics”, or fundamentals, of front-end web development? Is starting with HTML and CSS still the best entry point to learn how to make websites and apps when we have a seemingly endless supply of frameworks? Geoff Graham thinks so and discusses why you might consider going “back to basics” to start or move forward in your career.",
+          "link": "https://smashingmagazine.com/2024/05/in-praise-of-the-basics/",
+          "publishedOn": "2024-05-30T15:00:00.000Z",
+          "wordCount": 3951,
+          "title": "In Praise Of The Basics",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/in-praise-of-the-basics/in-praise-of-the-basics.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/in-praise-of-the-basics/in-praise-of-the-basics.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/decision-trees-ui-components/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Imagine finally resolving never-ending discussions about UI decisions for good. Here are some practical examples of decision trees for UI components and how to use them effectively. An upcoming part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
@@ -258,6 +273,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/",
+          "author": "Beau Carnes",
+          "description": "Go can work great on the backend for a React project. We just released a course on the freeCodeCamp.org channel that will leach you how to build a full stack web app with React and Go. This comprehensive course is designed to teach you the fundamenta...",
+          "link": "https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/",
+          "publishedOn": "2024-05-30T15:26:47.000Z",
+          "wordCount": 1076,
+          "title": "Learn the Basics of Go by Building a Full Stack Web App with React and Go",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717082781962/c90d205c-48ae-42bf-a88e-52161ef1aee0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/",
+          "author": "Beau Carnes",
+          "description": "We just released a comprehensive C course on the freeCodeCamp.org YouTube channel. This course, developed by Dr. Charles Severance (aka Dr. Chuck), is designed to help you understand computer architecture and low-level programming using the classic C...",
+          "link": "https://www.freecodecamp.org/news/complete-c-programming-course-from-dr-chuck/",
+          "publishedOn": "2024-05-30T15:21:25.000Z",
+          "wordCount": 1281,
+          "title": "Complete C Programming Course from Dr. Chuck",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717003896462/adb98655-0557-4f01-ae93-8c685102e5f2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-context-api-explained-with-examples/",
+          "author": "Matéush",
+          "description": "Managing state has always been a critical aspect of making web applications with React. The most basic way to do this is prop drilling. In prop drilling, you pass props around from the parent component to other components that need it, no matter how deeply nested they are. The problem",
+          "link": "https://www.freecodecamp.org/news/react-context-api-explained-with-examples/",
+          "publishedOn": "2024-05-30T08:13:54.000Z",
+          "wordCount": 2761,
+          "title": "React Context API Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Context-API.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-do-numerical-conversions-work/",
           "author": "Zaira Hira",
@@ -1037,36 +1082,6 @@
           "wordCount": 1202,
           "title": "Learn TypeScript in Spanish – Course for Beginners",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Thumbnail-A-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-oop-in-c-sharp/",
-          "author": "Isaiah Cliford  Opoku",
-          "description": "Welcome to this comprehensive guide on object-oriented programming (OOP) using C#. This article will delve into the four fundamental pillars of OOP:  * Inheritance  * Encapsulation  * Polymorphism  * Abstraction Whether you're a seasoned programmer or a beginner stepping into the world of C#, this article",
-          "link": "https://www.freecodecamp.org/news/how-to-use-oop-in-c-sharp/",
-          "publishedOn": "2024-05-01T12:14:44.000Z",
-          "wordCount": 4280,
-          "title": "How to Use Object-Oriented Programming in C# – Explained With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Attractive-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches/",
-          "author": "Ihechikara Abba",
-          "description": "You can use branches in Git to work on different features without affecting your main codebase. For example, you can experiment with a new layout for your webpage on a different branch without affecting the main branch where your website is being dep...",
-          "link": "https://www.freecodecamp.org/news/git-checkout-remote-branch-how-to-fetch-and-list-remote-branches/",
-          "publishedOn": "2024-04-30T16:53:44.000Z",
-          "wordCount": 1323,
-          "title": "Git Checkout Remote Branch – How to Fetch and List Remote Branches",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/UT8LMo-wlyk/upload/c907bdb799b1331e27dd68f35a2b2e25.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/whats-the-difference-between-react-and-nextjs/",
-          "author": "Beau Carnes",
-          "description": "Are interested in web development but find yourself a bit confused by the variety of technologies and terms like React, Next.js, and Vite? Our brand new video course on the freeCodeCamp.org YouTube channel is here to clear up the confusion and set yo...",
-          "link": "https://www.freecodecamp.org/news/whats-the-difference-between-react-and-nextjs/",
-          "publishedOn": "2024-04-30T16:47:32.000Z",
-          "wordCount": 994,
-          "title": "What's the difference between React and Next.js?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714495637003/ca50d0ff-a937-438a-b29b-c89a062a1e05.png"
         }
       ]
     }
