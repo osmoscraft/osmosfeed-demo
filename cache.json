@@ -12,6 +12,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/05/desktop-wallpaper-calendars-june-2024/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Let’s kick off June with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to celebrate the beginning of the new month with a collection of beautiful and unique wallpaper calendars.",
+          "link": "https://smashingmagazine.com/2024/05/desktop-wallpaper-calendars-june-2024/",
+          "publishedOn": "2024-05-31T16:00:00.000Z",
+          "wordCount": 4790,
+          "title": "Ice Cream Ahead (June 2024 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9405f1a1-e310-4f41-8033-da3d60ad53ac/june-16-join-the-wave-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9405f1a1-e310-4f41-8033-da3d60ad53ac/june-16-join-the-wave-preview-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/05/in-praise-of-the-basics/",
           "author": "hello@smashingmagazine.com (Geoff Graham)",
           "description": "What does it mean to learn the “basics”, or fundamentals, of front-end web development? Is starting with HTML and CSS still the best entry point to learn how to make websites and apps when we have a seemingly endless supply of frameworks? Geoff Graham thinks so and discusses why you might consider going “back to basics” to start or move forward in your career.",
@@ -250,21 +265,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/harness-mouse-interaction-data-machine-learning/harness-mouse-interaction-data-machine-learning.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
-          "author": "hello@smashingmagazine.com (Amit Sheen)",
-          "description": "Amit Sheen demonstrates using `:has()` to apply styles conditionally when a certain `` in a `` element is chosen by the user and how we gain even more conditional styling capabilities when chaining `:has()` with other pseudo-classes, such as `:not()` — no JavaScript necessary.",
-          "link": "https://smashingmagazine.com/2024/05/combining-css-has-html-select-conditional-styling/",
-          "publishedOn": "2024-05-02T10:00:00.000Z",
-          "wordCount": 3801,
-          "title": "Combining CSS :has() And HTML &lt;select&gt; For Greater Conditional Styling",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/combining-css-has-html-select-conditional-styling/combining-css-has-html-select-conditional-styling.jpg"
         }
       ]
     },
@@ -273,6 +273,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Suz Hinton. She's a software engineer, security researcher, and one of the first ever people to live-stream her coding on Twitch. We talk about: How Suz started her...",
+          "link": "https://www.freecodecamp.org/news/how-suz-hinton-went-from-dev-to-white-hat-hacker-podcast-126/",
+          "publishedOn": "2024-05-31T15:33:55.000Z",
+          "wordCount": 870,
+          "title": "How Suz Hinton went from Dev to White Hat Hacker [Podcast #126]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717169581573/61cad1fa-2425-4767-af5e-f0bbfd48b4c9.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-prototypal-inheritance/",
+          "author": "Asoluka Tochukwu Austin",
+          "description": "Prototypal inheritance can feel like a complex concept shrouded in technical jargon. But fear not! This guide will break it down using clear, relatable examples that go beyond the typical textbook explanations.  We'll ditch the confusing terms and focus on real-world scenarios that you can easily understand. By the",
+          "link": "https://www.freecodecamp.org/news/javascript-prototypal-inheritance/",
+          "publishedOn": "2024-05-31T08:10:16.000Z",
+          "wordCount": 3377,
+          "title": "What is Prototypal Inheritance in JavaScript? Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/gabriel-heinzer-g5jpH62pwes-unsplash.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-the-basics-of-go-by-building-a-full-stack-web-app-with-react-and-go/",
           "author": "Beau Carnes",
@@ -1022,66 +1042,6 @@
           "wordCount": 3038,
           "title": "What are Higher Order Functions in JavaScript? Explained With Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--7-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/",
-          "author": "Andrew Baisden",
-          "description": "In today's tutorial, you are going to learn about WebSockets and how you can use them to create interactive realtime data applications.  To illustrate just how innovative real time technologies are, we will build a chart application which automatically updates with new dynamic online data. This is going to",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-realtime-chart-with-react-and-pusher/",
-          "publishedOn": "2024-05-02T00:07:30.000Z",
-          "wordCount": 3388,
-          "title": "How to Build a Realtime Chart with React, HighCharts, and Pusher",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/pusher-banner.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-defaultdict-python/",
-          "author": "Gage Schaffer",
-          "description": "Throughout my time working with datasets in Python, the dictionary has been my most used data structure. It’s versatile and easy to use. Need to count occurrences of a character? Use a dictionary! Want to create a list of soccer players and associated stats? Dictionary! They’re not fool-proof, though. In",
-          "link": "https://www.freecodecamp.org/news/how-to-use-defaultdict-python/",
-          "publishedOn": "2024-05-01T21:15:48.000Z",
-          "wordCount": 1648,
-          "title": "How to Use DefaultDict in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Add-To-Your-Python-Toolbox.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-personalized-github-profile-page/",
-          "author": "Sahil Mahapatra",
-          "description": "Have you ever wanted to spruce up your GitHub profile page and make it stand out? Well, you're in luck!  With just a few simple steps, you can create a personalized GitHub profile that showcases your skills, projects, and personality. Let's dive in.  Create A New Repository Go",
-          "link": "https://www.freecodecamp.org/news/create-personalized-github-profile-page/",
-          "publishedOn": "2024-05-01T18:51:03.000Z",
-          "wordCount": 1418,
-          "title": "How to Create Your Personalized  GitHub Profile Page – GitHub Profile README Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/throttling-in-javascript/",
-          "author": "Kunal Nalawade",
-          "description": "Welcome back, fellow developers! Today, we are once again delving into JavaScript and Web Development and learning about throttling.  As a developer, making your website user-friendly is important. This goes a long way toward the product's success, and a key part of the user experience is the website's performance.",
-          "link": "https://www.freecodecamp.org/news/throttling-in-javascript/",
-          "publishedOn": "2024-05-01T15:58:59.000Z",
-          "wordCount": 2528,
-          "title": "What is Throttling in JavaScript? Explained with a Simple React Use Case",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/throttling-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/code-a-full-stack-fiverr-clone/",
-          "author": "Beau Carnes",
-          "description": "We just posted a course available now on the freeCodeCamp.org YouTube channel. This comprehensive tutorial will walk you through the process of building a Fiverr clone using a stack of cutting-edge technologies. Vuk Rosić created this course. Vuk is ...",
-          "link": "https://www.freecodecamp.org/news/code-a-full-stack-fiverr-clone/",
-          "publishedOn": "2024-05-01T15:38:30.000Z",
-          "wordCount": 958,
-          "title": "Code a Full Stack Fiverr Clone",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1714577897011/346c4555-b97f-4211-ba2f-441fc584a7f4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-typescript-in-spanish-course-for-beginners/",
-          "author": "Estefania Cassingena Navone",
-          "description": "TypeScript is a superset of JavaScript that adds static typing to your code, preventing type errors and other potential bugs. Learning TypeScript can be super helpful for you as a web developer. We just published a course on the freeCodeCamp.org Spanish YouTube channel [https://www.youtube.com/freecodecampespanol] that is designed to teach you",
-          "link": "https://www.freecodecamp.org/news/learn-typescript-in-spanish-course-for-beginners/",
-          "publishedOn": "2024-05-01T14:47:11.000Z",
-          "wordCount": 1202,
-          "title": "Learn TypeScript in Spanish – Course for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/Thumbnail-A-1.png"
         }
       ]
     }
