@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "There’s more to achieving good UX than research and design. We need to effectively communicate our ideas to gain buy-in from key stakeholders. Victor covers how UX practitioners can harness the power of persuasion and other tactics from the field of communication when presenting research findings and design concepts to key stakeholders.",
+          "link": "https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/",
+          "publishedOn": "2024-06-05T15:00:00.000Z",
+          "wordCount": 7773,
+          "title": "Presenting UX Research And Design To Stakeholders: The Power Of Persuasion",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/presenting-ux-research-design-stakeholders/presenting-ux-research-design-stakeholders.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/presenting-ux-research-design-stakeholders/presenting-ux-research-design-stakeholders.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/scaling-success-key-insights-pratical-takeaways/",
           "author": "hello@smashingmagazine.com (Addy Osmani)",
           "description": "The web is still a young platform, and we’re only now beginning to recognize what “success” looks like for large projects. In his recent Smashing book, [Success at Scale](https://www.smashingmagazine.com/printed-books/success-at-scale/), Addy Osmani presents practical case studies featuring the web’s most renowned companies and their efforts to make big changes to existing apps and sites. In this article, Addy shows some of the key insights he has learned.",
@@ -261,21 +276,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/forensics-react-server-components/forensics-react-server-components.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.",
-          "link": "https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/",
-          "publishedOn": "2024-05-07T12:00:00.000Z",
-          "wordCount": 3846,
-          "title": "How To Run UX Research Without Access To Users",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-run-ux-research-without-access-users/how-run-ux-research-without-access-users.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-run-ux-research-without-access-users/how-run-ux-research-without-access-users.jpg"
         }
       ]
     },
@@ -284,6 +284,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/",
+          "author": "Beau Carnes",
+          "description": "We just posted a 10-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a decentralized, fully distributed, content-addressable file storage system using Go. This course is perfect for those interested in system desig...",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/",
+          "publishedOn": "2024-06-05T21:00:31.000Z",
+          "wordCount": 861,
+          "title": "Learn How to Build a Decentralized File Storage System with Go",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717621212467/3ddb756b-de1e-4976-8196-4113e5851a9d.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/",
+          "author": "Kamaldeen Lawal",
+          "description": "All leading web browsers support JavaScript, a popular and versatile programming language. The this keyword is a very important concept to know in JavaScript. The this keyword is a reference to an object, but the object varies based on where and how it is called. In this article, you'll learn",
+          "link": "https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/",
+          "publishedOn": "2024-06-05T14:58:48.000Z",
+          "wordCount": 4286,
+          "title": "The JavaScript this Keyword Explained with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Python-Data-Types--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/",
+          "author": "Matéush",
+          "description": "As web applications become more complex, managing updates to the user interface becomes a challenging task. This is where the Virtual DOM (Document Object Model) comes into play – particularly in React, the leading JavaScript library for building user interfaces. The virtual DOM is a lightweight copy of the real",
+          "link": "https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/",
+          "publishedOn": "2024-06-05T14:51:11.000Z",
+          "wordCount": 2102,
+          "title": "What is the Virtual DOM in React?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Virtual-DOM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-go-in-spanish-golang-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Go is a powerful programming language that is quickly growing in popularity. It's easy to learn and works great for building powerful applications. Whether you're new to coding or already know other programming languages, Go is a great choice for exp...",
+          "link": "https://www.freecodecamp.org/news/learn-go-in-spanish-golang-course-for-beginners/",
+          "publishedOn": "2024-06-05T12:40:40.000Z",
+          "wordCount": 998,
+          "title": "Learn Go in Spanish – Golang Course for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1717372640700/462d0b00-d37e-4281-9b7a-7476b1c8f73f.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/linear-algebra-roadmap/",
           "author": "Tatev Aslanyan",
@@ -1053,56 +1093,6 @@
           "wordCount": 1664,
           "title": "JavaScript Concatenate Strings – How JS String Concatenation Works",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/mfB1B1s4sMc/upload/138f5daa340578a0ba2da07274b59252.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/",
-          "author": "Obum",
-          "description": "Flutter builds applications for multiple platforms (desktop, mobile, and web) from the same codebase. Flutter does this in a pixel-perfect and platform-agnostic manner.  In this article, we will explore how Flutter is platform-agnostic through how it renders user interfaces and through platform channels. Table of Contents  * What",
-          "link": "https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/",
-          "publishedOn": "2024-05-07T07:21:09.000Z",
-          "wordCount": 2310,
-          "title": "How is Flutter Platform-Agnostic?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Screenshot-2024-05-02-225922.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/understand-javascript-closures/",
-          "author": "Asoluka Tochukwu Austin",
-          "description": "Sally and Joe are two love birds. They shared everything with each other and soon enough it was almost impossible to think that anything could come between them. One day, they had a quarrel which built up to a break up.  It was hard for Joe and he wanted",
-          "link": "https://www.freecodecamp.org/news/understand-javascript-closures/",
-          "publishedOn": "2024-05-07T07:13:36.000Z",
-          "wordCount": 1944,
-          "title": "How Do Closures Work in JavaScript? Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/hand-1222229_1280-2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-react-devtools/",
-          "author": "Matéush",
-          "description": "Traditional browser developer tools are designed to inspect and debug web pages by interacting with your HTML, CSS, and JavaScript code. However, you can't use them to inspect and debug React applications efficiently due to the nature of React. This is where the React Developer Tools, AKA React DevTools comes",
-          "link": "https://www.freecodecamp.org/news/how-to-use-react-devtools/",
-          "publishedOn": "2024-05-06T20:12:54.000Z",
-          "wordCount": 2200,
-          "title": "How to Use React Developer Tools – Explained With Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/React-Devtools.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/",
-          "author": "Destiny Erhabor",
-          "description": "Auto scaling is like having a smart system that keeps an eye on how many people are visiting your website. When you have a lot of people, it quickly adds more servers to handle the extra traffic. And when things quiet down, it scales back to save you money. In",
-          "link": "https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/",
-          "publishedOn": "2024-05-06T16:32:47.000Z",
-          "wordCount": 2723,
-          "title": "What is Amazon EC2 Auto Scaling?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/christophe-hautier-902vnYeoWS4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/true-randomness-in-software-engineering/",
-          "author": "Gor Grigoryan",
-          "description": "Understanding Randomness When you hear the word \"randomness,\" what usually comes to mind? You may think of  something intangible, an abstract concept without a specific shape or form  – it's random.  But randomness is much more than an abstract idea – it's a fundamental aspect of our daily decisions",
-          "link": "https://www.freecodecamp.org/news/true-randomness-in-software-engineering/",
-          "publishedOn": "2024-05-06T16:27:18.000Z",
-          "wordCount": 5467,
-          "title": "Decoding Chaos: How True Randomness Works in Software Engineering",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/04/0_VRBzKmnCSxIHtVVQ.jpg"
         }
       ]
     }

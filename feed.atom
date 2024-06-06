@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-05T01:00:52.459Z</updated>
+    <updated>2024-06-06T01:00:45.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Build a Decentralized File Storage System with Go]]></title>
+        <id>https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/"/>
+        <updated>2024-06-05T21:00:31.000Z</updated>
+        <summary type="html"><![CDATA[We just posted a 10-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a decentralized, fully distributed, content-addressable file storage system using Go. This course is perfect for those interested in system desig...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Presenting UX Research And Design To Stakeholders: The Power Of Persuasion]]></title>
+        <id>https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/</id>
+        <link href="https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/"/>
+        <updated>2024-06-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s more to achieving good UX than research and design. We need to effectively communicate our ideas to gain buy-in from key stakeholders. Victor covers how UX practitioners can harness the power of persuasion and other tactics from the field of communication when presenting research findings and design concepts to key stakeholders.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript this Keyword Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/"/>
+        <updated>2024-06-05T14:58:48.000Z</updated>
+        <summary type="html"><![CDATA[All leading web browsers support JavaScript, a popular and versatile programming language. The this keyword is a very important concept to know in JavaScript. The this keyword is a reference to an object, but the object varies based on where and how it is called. In this article, you'll learn]]></summary>
+        <author>
+            <name>Kamaldeen Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the Virtual DOM in React?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/"/>
+        <updated>2024-06-05T14:51:11.000Z</updated>
+        <summary type="html"><![CDATA[As web applications become more complex, managing updates to the user interface becomes a challenging task. This is where the Virtual DOM (Document Object Model) comes into play – particularly in React, the leading JavaScript library for building user interfaces. The virtual DOM is a lightweight copy of the real]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Go in Spanish – Golang Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-go-in-spanish-golang-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-go-in-spanish-golang-course-for-beginners/"/>
+        <updated>2024-06-05T12:40:40.000Z</updated>
+        <summary type="html"><![CDATA[Go is a powerful programming language that is quickly growing in popularity. It's easy to learn and works great for building powerful applications. Whether you're new to coding or already know other programming languages, Go is a great choice for exp...]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Practical Guide to Linear Algebra in Data Science and AI]]></title>
         <id>https://www.freecodecamp.org/news/linear-algebra-roadmap/</id>
@@ -945,66 +995,6 @@ CSS Length Units originally published on CSS-Tricks, which is part of the Digita
         <summary type="html"><![CDATA[When coding in JavaScript, you may need to combine multiple strings to create a new, longer string. This operation is known as concatenation. In this article, you will learn five ways to concatenate strings in JavaScript. How to Concatenate Strings i...]]></summary>
         <author>
             <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Run UX Research Without Access To Users]]></title>
-        <id>https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/</id>
-        <link href="https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/"/>
-        <updated>2024-05-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do we conduct UX research when there is no or only limited access to users? Here are some workarounds to run UX research or make a strong case for it. An upcoming part of Smart Interface Design Patterns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How is Flutter Platform-Agnostic?]]></title>
-        <id>https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/</id>
-        <link href="https://www.freecodecamp.org/news/how-is-flutter-platform-agnostic/"/>
-        <updated>2024-05-07T07:21:09.000Z</updated>
-        <summary type="html"><![CDATA[Flutter builds applications for multiple platforms (desktop, mobile, and web) from the same codebase. Flutter does this in a pixel-perfect and platform-agnostic manner.  In this article, we will explore how Flutter is platform-agnostic through how it renders user interfaces and through platform channels. Table of Contents  * What]]></summary>
-        <author>
-            <name>Obum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Closures Work in JavaScript? Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/understand-javascript-closures/</id>
-        <link href="https://www.freecodecamp.org/news/understand-javascript-closures/"/>
-        <updated>2024-05-07T07:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Sally and Joe are two love birds. They shared everything with each other and soon enough it was almost impossible to think that anything could come between them. One day, they had a quarrel which built up to a break up.  It was hard for Joe and he wanted]]></summary>
-        <author>
-            <name>Asoluka Tochukwu Austin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Developer Tools – Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-react-devtools/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-devtools/"/>
-        <updated>2024-05-06T20:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Traditional browser developer tools are designed to inspect and debug web pages by interacting with your HTML, CSS, and JavaScript code. However, you can't use them to inspect and debug React applications efficiently due to the nature of React. This is where the React Developer Tools, AKA React DevTools comes]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Amazon EC2 Auto Scaling?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-amazon-ec2-auto-scaling/"/>
-        <updated>2024-05-06T16:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Auto scaling is like having a smart system that keeps an eye on how many people are visiting your website. When you have a lot of people, it quickly adds more servers to handle the extra traffic. And when things quiet down, it scales back to save you money. In]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding Chaos: How True Randomness Works in Software Engineering]]></title>
-        <id>https://www.freecodecamp.org/news/true-randomness-in-software-engineering/</id>
-        <link href="https://www.freecodecamp.org/news/true-randomness-in-software-engineering/"/>
-        <updated>2024-05-06T16:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Randomness When you hear the word "randomness," what usually comes to mind? You may think of  something intangible, an abstract concept without a specific shape or form  – it's random.  But randomness is much more than an abstract idea – it's a fundamental aspect of our daily decisions]]></summary>
-        <author>
-            <name>Gor Grigoryan</name>
         </author>
     </entry>
 </feed>
