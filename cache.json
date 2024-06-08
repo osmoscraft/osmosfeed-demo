@@ -23,6 +23,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The times for CSS have probably never been more exciting than today. In this quick read, we’ve got some useful CSS tips and techniques for you that you can apply to your work right away. Let’s dive deeper into self-modifying CSS variables, hanging punctuation, and more.",
+          "link": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
+          "publishedOn": "2024-06-07T11:00:00.000Z",
+          "wordCount": 4007,
+          "title": "Useful CSS Tips And Techniques",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-tips-and-techniques/self-modifying-variables-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/",
           "author": "hello@smashingmagazine.com (Victor Yocco)",
           "description": "There’s more to achieving good UX than research and design. We need to effectively communicate our ideas to gain buy-in from key stakeholders. Victor covers how UX practitioners can harness the power of persuasion and other tactics from the field of communication when presenting research findings and design concepts to key stakeholders.",
@@ -261,21 +276,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/modern-guide-making-css-shapes/modern-guide-making-css-shapes.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/forensics-react-server-components/",
-          "author": "hello@smashingmagazine.com (Lazar Nikolov)",
-          "description": "React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.",
-          "link": "https://smashingmagazine.com/2024/05/forensics-react-server-components/",
-          "publishedOn": "2024-05-09T13:00:00.000Z",
-          "wordCount": 7597,
-          "title": "The Forensics Of React Server Components (RSCs)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/forensics-react-server-components/forensics-react-server-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/forensics-react-server-components/forensics-react-server-components.jpg"
         }
       ]
     },
@@ -284,6 +284,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/weakmap-and-weakset-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "JavaScript offers a number of tools for organizing and managing data. And while developers often use widely recognized tools like Maps and Sets, they may often overlook certain other valuable resources.  For example, are you familiar with WeakMap and WeakSet? They're special tools in JavaScript that help store and",
+          "link": "https://www.freecodecamp.org/news/weakmap-and-weakset-in-javascript/",
+          "publishedOn": "2024-06-07T16:57:53.000Z",
+          "wordCount": 3640,
+          "title": "How to Use WeakMap and WeakSet in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/",
           "author": "Akinwumi Iyanuoluwa Ayomiposi",
@@ -993,96 +1003,6 @@
           "wordCount": 1024,
           "title": "Tezos Blockchain Development Course",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715265004149/cfbd8cf4-3748-4291-a058-053aa88df5e6.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/",
-          "author": "Daniel Kehoe",
-          "description": "Python is the most popular first language for programmers on a Mac. Until recently, the language's lack of standard development tooling, plus competing optional-but-essential development tools, meant a rocky start for Python beginners.  To cut through the confusion, I'll show you an up-to-date approach to install Python and set",
-          "link": "https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/",
-          "publishedOn": "2024-05-09T06:33:00.000Z",
-          "wordCount": 3208,
-          "title": "How to Install Python on a Mac",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/python-shop.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/php-array-handbook/",
-          "author": "Kolade Chris",
-          "description": "In every programming language, arrays provide a flexible option to store more than one data type in a single variable. They are one of the most versatile data structures in the programming world, which is one reason a lot of external data and many APIs come as arrays. When you",
-          "link": "https://www.freecodecamp.org/news/php-array-handbook/",
-          "publishedOn": "2024-05-08T22:25:55.000Z",
-          "wordCount": 6537,
-          "title": "PHP Array Handbook – How to Create, Work with, and Loop Through Arrays",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/PHP-Array-Handbook-Cover-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-run-postgres-in-kubernetes/",
-          "author": "Ayomide Wilfred",
-          "description": "Hey everyone! Today, you're going to learn about deploying a Postgres container in Azure Kubernetes Service (AKS) and connecting it to a Node.js application. In this fast-paced development landscape, deploying via containers, particularly with Kubernetes, is becoming increasingly popular. Some companies perform numerous deployments daily, so it's crucial for you",
-          "link": "https://www.freecodecamp.org/news/how-to-run-postgres-in-kubernetes/",
-          "publishedOn": "2024-05-08T20:43:04.000Z",
-          "wordCount": 6821,
-          "title": "How to Run a Postgres Database in Azure Kubernetes Service and Integrate it with a Node.js Express Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Azure-K8s-article-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-native-splash-screen/",
-          "author": "Lucas Garcez",
-          "description": "In this article, you'll get a hands-on practical guide for creating a native splash screen for React Native CLI applications.  Note that this tutorial is not applicable for apps created with Expo. SVG Icon Image and Background The first thing you need is an image. It can be in",
-          "link": "https://www.freecodecamp.org/news/react-native-splash-screen/",
-          "publishedOn": "2024-05-08T19:17:54.000Z",
-          "wordCount": 1778,
-          "title": "How to Create a React Native Splash Screen",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/article-1-rnsplash-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/",
-          "author": "Jose Vicente Nunez",
-          "description": "A tower running race [https://en.wikipedia.org/wiki/Tower_running] is a race that you run up the stairs of a building. These happen around the world. I got the chance to participate in the Empire State Run Up in NYC, 2023 edition.  > The Empire State Building Run-Up (ESBRU)—the world’s first and most",
-          "link": "https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/",
-          "publishedOn": "2024-05-08T16:56:28.000Z",
-          "wordCount": 7469,
-          "title": "Data Analysis with Python – How I Analyzed My Empire State Building Run-Up Performance",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/empire_state_runup-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/",
-          "author": "Kunal Nalawade",
-          "description": "Hey everyone! Imagine you are building an awesome application, with lots of cool features. Picture a backend server at its core that hosts a majority of the business logic and exposes functionality through APIs. Once you have planned out your APIs, there's one crucial step you need to take care",
-          "link": "https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/",
-          "publishedOn": "2024-05-08T15:39:37.000Z",
-          "wordCount": 2249,
-          "title": "How to Implement an OAuth2 Resource Server with Spring Security",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/article-cover.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/",
-          "author": "Beau Carnes",
-          "description": "Version control is an essential skill for anyone involved in software development, from solo hobbyists to professional developers working in large teams. Understanding how to effectively manage changes and collaborate on code is critical, and Git is ...",
-          "link": "https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/",
-          "publishedOn": "2024-05-08T14:42:01.000Z",
-          "wordCount": 1015,
-          "title": "Learn Git in Detail to Manage Your Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715179306416/6cef5df6-7483-4ab2-8699-0504be1902d2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/",
-          "author": "Beau Carnes",
-          "description": "GitHub recently launched a GitHub Actions certification exam. And we just released a course on the freeCodeCamp.org YouTube channel that will prepare you to pass this exam. This course is ideal for developers, DevOps professionals, and anyone interes...",
-          "link": "https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/",
-          "publishedOn": "2024-05-08T14:29:39.000Z",
-          "wordCount": 960,
-          "title": "Pass the GitHub Actions Certification Exam",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715178541029/2c95f59d-572a-4ae2-9b50-6be808b7e92e.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/",
-          "author": "Beau Carnes",
-          "description": "Understanding the math behind deep learning is important if you want to become proficient in machine learning techniques. We just published a 14-hour deep learning course on the freeCodeCamp.org YouTube channel. This course is specifically tailored t...",
-          "link": "https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/",
-          "publishedOn": "2024-05-08T14:17:48.000Z",
-          "wordCount": 946,
-          "title": "Deep Learning Course – Math and Applications",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715177855099/f851bc1e-c61b-4c7a-be07-aa0ba233a347.png"
         }
       ]
     }

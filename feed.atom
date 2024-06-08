@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-07T01:03:18.891Z</updated>
+    <updated>2024-06-08T01:01:02.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use WeakMap and WeakSet in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/weakmap-and-weakset-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/weakmap-and-weakset-in-javascript/"/>
+        <updated>2024-06-07T16:57:53.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript offers a number of tools for organizing and managing data. And while developers often use widely recognized tools like Maps and Sets, they may often overlook certain other valuable resources.  For example, are you familiar with WeakMap and WeakSet? They're special tools in JavaScript that help store and]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful CSS Tips And Techniques]]></title>
+        <id>https://smashingmagazine.com/2024/06/css-tips-and-techniques/</id>
+        <link href="https://smashingmagazine.com/2024/06/css-tips-and-techniques/"/>
+        <updated>2024-06-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The times for CSS have probably never been more exciting than today. In this quick read, we’ve got some useful CSS tips and techniques for you that you can apply to your work right away. Let’s dive deeper into self-modifying CSS variables, hanging punctuation, and more.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Real-Time Chat App With Go, Fiber and HTMX]]></title>
         <id>https://www.freecodecamp.org/news/real-time-chat-with-go-fiber-htmx/</id>
@@ -883,106 +903,6 @@ CSS Length Units originally published on CSS-Tricks, which is part of the Digita
         <link href="https://www.freecodecamp.org/news/tezos-blockchain-development-course/"/>
         <updated>2024-05-09T14:31:27.000Z</updated>
         <summary type="html"><![CDATA[Tezos is a blockchain network that distinguishes itself through a unique self-amending ledger, allowing it to upgrade without the need for hard forks—an approach that promotes continuity and reduces division within the community. Tezos aims to addres...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Forensics Of React Server Components (RSCs)]]></title>
-        <id>https://smashingmagazine.com/2024/05/forensics-react-server-components/</id>
-        <link href="https://smashingmagazine.com/2024/05/forensics-react-server-components/"/>
-        <updated>2024-05-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React Server Components (RSCs) combine the best of client-side rendering, and author Lazar Nikolov thoroughly examines how we got here with a deep look at the impact that RSCs have on the page load timeline.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Lazar Nikolov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Python on a Mac]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-python-on-a-mac/"/>
-        <updated>2024-05-09T06:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Python is the most popular first language for programmers on a Mac. Until recently, the language's lack of standard development tooling, plus competing optional-but-essential development tools, meant a rocky start for Python beginners.  To cut through the confusion, I'll show you an up-to-date approach to install Python and set]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Array Handbook – How to Create, Work with, and Loop Through Arrays]]></title>
-        <id>https://www.freecodecamp.org/news/php-array-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/php-array-handbook/"/>
-        <updated>2024-05-08T22:25:55.000Z</updated>
-        <summary type="html"><![CDATA[In every programming language, arrays provide a flexible option to store more than one data type in a single variable. They are one of the most versatile data structures in the programming world, which is one reason a lot of external data and many APIs come as arrays. When you]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Run a Postgres Database in Azure Kubernetes Service and Integrate it with a Node.js Express Application]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-run-postgres-in-kubernetes/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-run-postgres-in-kubernetes/"/>
-        <updated>2024-05-08T20:43:04.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! Today, you're going to learn about deploying a Postgres container in Azure Kubernetes Service (AKS) and connecting it to a Node.js application. In this fast-paced development landscape, deploying via containers, particularly with Kubernetes, is becoming increasingly popular. Some companies perform numerous deployments daily, so it's crucial for you]]></summary>
-        <author>
-            <name>Ayomide Wilfred</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a React Native Splash Screen]]></title>
-        <id>https://www.freecodecamp.org/news/react-native-splash-screen/</id>
-        <link href="https://www.freecodecamp.org/news/react-native-splash-screen/"/>
-        <updated>2024-05-08T19:17:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll get a hands-on practical guide for creating a native splash screen for React Native CLI applications.  Note that this tutorial is not applicable for apps created with Expo. SVG Icon Image and Background The first thing you need is an image. It can be in]]></summary>
-        <author>
-            <name>Lucas Garcez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Analysis with Python – How I Analyzed My Empire State Building Run-Up Performance]]></title>
-        <id>https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/empire-state-building-run-up-analysis-with-python/"/>
-        <updated>2024-05-08T16:56:28.000Z</updated>
-        <summary type="html"><![CDATA[A tower running race [https://en.wikipedia.org/wiki/Tower_running] is a race that you run up the stairs of a building. These happen around the world. I got the chance to participate in the Empire State Run Up in NYC, 2023 edition.  > The Empire State Building Run-Up (ESBRU)—the world’s first and most]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement an OAuth2 Resource Server with Spring Security]]></title>
-        <id>https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/</id>
-        <link href="https://www.freecodecamp.org/news/oauth2-resourceserver-with-spring-security/"/>
-        <updated>2024-05-08T15:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Hey everyone! Imagine you are building an awesome application, with lots of cool features. Picture a backend server at its core that hosts a majority of the business logic and exposes functionality through APIs. Once you have planned out your APIs, there's one crucial step you need to take care]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Git in Detail to Manage Your Code]]></title>
-        <id>https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/</id>
-        <link href="https://www.freecodecamp.org/news/learn-git-in-detail-to-manage-your-code/"/>
-        <updated>2024-05-08T14:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Version control is an essential skill for anyone involved in software development, from solo hobbyists to professional developers working in large teams. Understanding how to effectively manage changes and collaborate on code is critical, and Git is ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pass the GitHub Actions Certification Exam]]></title>
-        <id>https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/</id>
-        <link href="https://www.freecodecamp.org/news/pass-the-github-actions-certification-exam/"/>
-        <updated>2024-05-08T14:29:39.000Z</updated>
-        <summary type="html"><![CDATA[GitHub recently launched a GitHub Actions certification exam. And we just released a course on the freeCodeCamp.org YouTube channel that will prepare you to pass this exam. This course is ideal for developers, DevOps professionals, and anyone interes...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Learning Course – Math and Applications]]></title>
-        <id>https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/</id>
-        <link href="https://www.freecodecamp.org/news/deep-learning-course-math-and-applications/"/>
-        <updated>2024-05-08T14:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the math behind deep learning is important if you want to become proficient in machine learning techniques. We just published a 14-hour deep learning course on the freeCodeCamp.org YouTube channel. This course is specifically tailored t...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
