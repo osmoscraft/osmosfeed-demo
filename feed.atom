@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-11T01:02:11.046Z</updated>
+    <updated>2024-06-12T01:02:18.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Hack Your Google Lighthouse Scores In 2024]]></title>
+        <id>https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/</id>
+        <link href="https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/"/>
+        <updated>2024-06-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do perfect Lighthouse scores mean the performance of your website is perfect? As it turns out, Lighthouse is influenced by a number of things that can be manipulated and bent to make sites seem more performant than they really are, as Salma Alam-Naylor demonstrates in several experiments.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Salma Alam-Naylor)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn High-Level System Design by Building a YouTube Clone]]></title>
+        <id>https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/</id>
+        <link href="https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/"/>
+        <updated>2024-06-11T16:33:23.000Z</updated>
+        <summary type="html"><![CDATA[High-Level System Design involves creating a blueprint for complex systems, focusing on architecture, component interactions, and scalability. It addresses how different parts of a system communicate, manage data, and handle user requests efficiently...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python for Data Science – Hands-on Projects with EDA, AB Testing & Business Intelligence]]></title>
+        <id>https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/"/>
+        <updated>2024-06-11T15:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Data science skills are increasingly in-demand. We just published a hands-son data science with Python course on the freeCodeCamp.org YouTube channel. This comprehensive, 5.5+ hour course is designed to provide aspiring data scientists with essential...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fix Common Python Installation Errors on macOS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/"/>
+        <updated>2024-06-10T22:57:27.000Z</updated>
+        <summary type="html"><![CDATA[Python's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled "How to Install Python on a Mac [/news/how-to-install-python-on-a-mac/]", which provides a clear guide to installing Python]]></summary>
+        <author>
+            <name>Daniel Kehoe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Write Unit Tests in Python – with Example Test Code]]></title>
         <id>https://www.freecodecamp.org/news/unit-testing-in-python/</id>
@@ -806,36 +846,6 @@ CSS Length Units originally published on CSS-Tricks, which is part of the Digita
         <summary type="html"><![CDATA[JavaScript is a versatile and powerful programming language primarily used to create interactive and dynamic content on websites. It is one of the core technologies of the World Wide Web, alongside HTML and CSS. While HTML provides the structure of w...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Store Data Locally in React Native Expo]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/"/>
-        <updated>2024-05-13T11:42:45.000Z</updated>
-        <summary type="html"><![CDATA[React Native has grown in popularity as a mobile application development tool because of its ability to create cross-platform applications using familiar JavaScript and React principles.  When building mobile applications, one common requirement is the ability to save data locally on the device. This is when local storage comes]]></summary>
-        <author>
-            <name>John Caleb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Events in React – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/"/>
-        <updated>2024-05-13T09:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Event handling is fundamental to understanding how React processes browser events and updates the DOM. As a React developer, it's a critical skill to have, as it enables efficient management of user interactions within web apps. This article covers how to set up event handlers and proceeds to more elegant]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Times You Need A Custom @property Instead Of A CSS Variable]]></title>
-        <id>https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/</id>
-        <link href="https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/"/>
-        <updated>2024-05-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
         </author>
     </entry>
 </feed>

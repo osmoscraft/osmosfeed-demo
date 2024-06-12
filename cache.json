@@ -33,6 +33,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/",
+          "author": "hello@smashingmagazine.com (Salma Alam-Naylor)",
+          "description": "Do perfect Lighthouse scores mean the performance of your website is perfect? As it turns out, Lighthouse is influenced by a number of things that can be manipulated and bent to make sites seem more performant than they really are, as Salma Alam-Naylor demonstrates in several experiments.",
+          "link": "https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/",
+          "publishedOn": "2024-06-11T18:00:00.000Z",
+          "wordCount": 6468,
+          "title": "How To Hack Your Google Lighthouse Scores In 2024",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-hack-google-lighthouse-scores-2024/how-hack-google-lighthouse-scores-2024.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-hack-google-lighthouse-scores-2024/how-hack-google-lighthouse-scores-2024.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/css-tips-and-techniques/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "The times for CSS have probably never been more exciting than today. In this quick read, we’ve got some useful CSS tips and techniques for you that you can apply to your work right away. Let’s dive deeper into self-modifying CSS variables, hanging punctuation, and more.",
@@ -256,21 +271,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designers-business-ux-language/designers-business-ux-language.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/",
-          "author": "hello@smashingmagazine.com (Preethi Sam)",
-          "description": "Preethi Sam walks through an example that demonstrates where custom properties are more suitable than variables while showcasing the greater freedom and flexibility that custom properties provide for designing complex, refined animations.",
-          "link": "https://smashingmagazine.com/2024/05/times-need-custom-property-instead-css-variable/",
-          "publishedOn": "2024-05-13T08:00:00.000Z",
-          "wordCount": 4201,
-          "title": "The Times You Need A Custom @property Instead Of A CSS Variable",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/times-need-custom-property-instead-css-variable/times-need-custom-property-instead-css-variable.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/times-need-custom-property-instead-css-variable/times-need-custom-property-instead-css-variable.jpg"
         }
       ]
     },
@@ -279,6 +279,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/",
+          "author": "Beau Carnes",
+          "description": "High-Level System Design involves creating a blueprint for complex systems, focusing on architecture, component interactions, and scalability. It addresses how different parts of a system communicate, manage data, and handle user requests efficiently...",
+          "link": "https://www.freecodecamp.org/news/learn-high-level-system-design-by-building-a-youtube-clone/",
+          "publishedOn": "2024-06-11T16:33:23.000Z",
+          "wordCount": 871,
+          "title": "Learn High-Level System Design by Building a YouTube Clone",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/",
+          "author": "Beau Carnes",
+          "description": "Data science skills are increasingly in-demand. We just published a hands-son data science with Python course on the freeCodeCamp.org YouTube channel. This comprehensive, 5.5+ hour course is designed to provide aspiring data scientists with essential...",
+          "link": "https://www.freecodecamp.org/news/learn-python-for-data-science-hands-on-projects-with-eda-ab-testing-business-intelligence/",
+          "publishedOn": "2024-06-11T15:13:34.000Z",
+          "wordCount": 957,
+          "title": "Learn Python for Data Science – Hands-on Projects with EDA, AB Testing & Business Intelligence",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718118785701/723c13b4-5b52-4cf7-9921-f65bbd837507.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/",
+          "author": "Daniel Kehoe",
+          "description": "Python's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled \"How to Install Python on a Mac [/news/how-to-install-python-on-a-mac/]\", which provides a clear guide to installing Python",
+          "link": "https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/",
+          "publishedOn": "2024-06-10T22:57:27.000Z",
+          "wordCount": 2003,
+          "title": "How to Fix Common Python Installation Errors on macOS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/python-install-errors.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/unit-testing-in-python/",
           "author": "Damilola Oladele",
@@ -908,26 +938,6 @@
           "wordCount": 1084,
           "title": "Learn JavaScript with Clear Explanations",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1715629998297/0016cd64-fb73-47ef-bc71-bc6cf597dd22.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/",
-          "author": "John Caleb",
-          "description": "React Native has grown in popularity as a mobile application development tool because of its ability to create cross-platform applications using familiar JavaScript and React principles.  When building mobile applications, one common requirement is the ability to save data locally on the device. This is when local storage comes",
-          "link": "https://www.freecodecamp.org/news/how-to-store-data-locally-in-react-native-expo/",
-          "publishedOn": "2024-05-13T11:42:45.000Z",
-          "wordCount": 1842,
-          "title": "How to Store Data Locally in React Native Expo",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/local-storage-in--react-native-expo--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/",
-          "author": "Matéush",
-          "description": "Event handling is fundamental to understanding how React processes browser events and updates the DOM. As a React developer, it's a critical skill to have, as it enables efficient management of user interactions within web apps. This article covers how to set up event handlers and proceeds to more elegant",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-events-in-react-19/",
-          "publishedOn": "2024-05-13T09:26:31.000Z",
-          "wordCount": 2360,
-          "title": "How to Handle Events in React – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/React-logo.png"
         }
       ]
     }
