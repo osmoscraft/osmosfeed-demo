@@ -33,6 +33,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Whether you want to take your user research skills to the next level, get better at UX writing, or stay up-to-date on the latest design trends, a newsletter is the perfect opportunity to get the best of the best resources delivered straight to your inbox on a regular basis. In this post, we highlight some design newsletters that you might want to consider subscribing to.",
+          "link": "https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/",
+          "publishedOn": "2024-06-17T18:00:00.000Z",
+          "wordCount": 4672,
+          "title": "Useful Email Newsletters For Designers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/useful-email-newsletters-for-designers/newsletters-for-designers-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/useful-email-newsletters-for-designers/newsletters-for-designers-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/what-are-css-container-style-queries-good-for/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "What are these CSS Container Style Queries, and why should you use them? Juan Diego Rodríguez delves deeply into style queries, and not at the syntax level, but at what exactly they are solving and what sort of use cases you would find yourselves reaching for them in your work if and when they gain browser support.",
@@ -264,6 +279,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/",
+          "author": "Daniel Adetunji",
+          "description": "While auto scaling and load balancing are two separate techniques in software architecture management, they are often implemented simultaneously. In the software architecture wild, one rarely exists without the other, as they complement each other to handle unpredictable changes in demand. This article will explain how auto scaling and load",
+          "link": "https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/",
+          "publishedOn": "2024-06-17T18:52:13.000Z",
+          "wordCount": 2887,
+          "title": "How Auto Scaling and Load Balancing Work in Software Architecture",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/image--13-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-qa-documentation-that-will-actually-work/",
+          "author": "Oleg Romanyuk",
+          "description": "Imagine developing a complex software product without taking any action to protect against errors. Human error and unexpected code combinations can cause a wide range of defects. This is where quality assurance (QA) documentation comes in.  Usually, a QA tester creates a report after discovering a bug. The next",
+          "link": "https://www.freecodecamp.org/news/how-to-write-qa-documentation-that-will-actually-work/",
+          "publishedOn": "2024-06-17T18:29:07.000Z",
+          "wordCount": 2775,
+          "title": "How to Write QA Documentation That Will Actually Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/How-to-Write-QA-Documentation-That-Will-Actually-Work.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-keyerror-exceptions-in-python/",
+          "author": "Bala Priya C",
+          "description": "When working with dictionaries in Python, you’d often run into KeyError  exceptions. Dictionaries are built-in data structures of key value pairs. So you can look up a value—in constant time—using the corresponding key like so: dict[key] returns  value. But what if the key doesn't exist in the dictionary?",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-keyerror-exceptions-in-python/",
+          "publishedOn": "2024-06-17T18:24:14.000Z",
+          "wordCount": 1545,
+          "title": "How to Handle KeyErrors in Python – with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/fimg-key-errors.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-the-black-scholes-equation-works-python-examples/",
+          "author": "Tiago Monteiro",
+          "description": "$$\\frac{\\partial V}{\\partial t} + \\frac{1}{2}\\sigma^2 S^2 \\frac{\\partial^2 V}{\\partial S^2} = rV - r S \\frac{\\partial V}{\\partial S}$$  Black-Scholes Equation",
+          "link": "https://www.freecodecamp.org/news/how-the-black-scholes-equation-works-python-examples/",
+          "publishedOn": "2024-06-17T16:42:59.000Z",
+          "wordCount": 2184,
+          "title": "How the Black-Scholes Equation Works – Explained with Python Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/5.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-frameworks-vs-laravel/",
+          "author": "Afan Khan",
+          "description": "For a long time, developers in the JavaScript ecosystem have tried to launch Laravel-like frameworks for JavaScript. We've seen Blitz for NextJS, Adonis for NodeJS, RedwoodJS, and more. All these frameworks tried to build a Laravel for JavaScript. But none of them were really successful. Why? We'll figure it out",
+          "link": "https://www.freecodecamp.org/news/javascript-frameworks-vs-laravel/",
+          "publishedOn": "2024-06-17T14:28:11.000Z",
+          "wordCount": 2821,
+          "title": "JavaScript Frameworks vs Laravel – Which Should You Choose for Web Development?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Group-3148.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom/",
+          "author": "Okosa Leonard Onyekachukwu",
+          "description": "Animations are what make plain websites turn into exciting and unforgettable experiences. They give your website a bit of personality and uniqueness and leave the visitor admiring the overall aesthetic. It's a no-brainer that humans love beautiful things. We all love products that look easy on the eyes.  In",
+          "link": "https://www.freecodecamp.org/news/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom/",
+          "publishedOn": "2024-06-17T05:57:47.000Z",
+          "wordCount": 1667,
+          "title": "How to Create Multi-Page Animations Using Framer Motion & React-Router-Dom",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Green-Abstract-Wavy-Background-Motivational-Quote-Facebook-Post.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/",
+          "author": "Oyedele Tioluwani Taiwo",
+          "description": "Attention mechanism is a fundamental invention in artificial intelligence and machine learning, redefining the capabilities of deep learning models. This mechanism, inspired by the human mental process of selective focus, has emerged as a pillar in a variety of applications, accelerating developments in natural language processing, computer vision, and beyond.",
+          "link": "https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/",
+          "publishedOn": "2024-06-17T05:46:08.000Z",
+          "wordCount": 2789,
+          "title": "What are Attention Mechanisms in Deep Learning?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/andrea-de-santis-zwd435-ewb4-unsplash-1.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/lambda-functions-in-python/",
           "author": "Samyak Jain",

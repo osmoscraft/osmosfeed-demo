@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-17T01:04:07.485Z</updated>
+    <updated>2024-06-18T01:02:29.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Auto Scaling and Load Balancing Work in Software Architecture]]></title>
+        <id>https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/</id>
+        <link href="https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/"/>
+        <updated>2024-06-17T18:52:13.000Z</updated>
+        <summary type="html"><![CDATA[While auto scaling and load balancing are two separate techniques in software architecture management, they are often implemented simultaneously. In the software architecture wild, one rarely exists without the other, as they complement each other to handle unpredictable changes in demand. This article will explain how auto scaling and load]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write QA Documentation That Will Actually Work]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-qa-documentation-that-will-actually-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-qa-documentation-that-will-actually-work/"/>
+        <updated>2024-06-17T18:29:07.000Z</updated>
+        <summary type="html"><![CDATA[Imagine developing a complex software product without taking any action to protect against errors. Human error and unexpected code combinations can cause a wide range of defects. This is where quality assurance (QA) documentation comes in.  Usually, a QA tester creates a report after discovering a bug. The next]]></summary>
+        <author>
+            <name>Oleg Romanyuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle KeyErrors in Python – with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-keyerror-exceptions-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-keyerror-exceptions-in-python/"/>
+        <updated>2024-06-17T18:24:14.000Z</updated>
+        <summary type="html"><![CDATA[When working with dictionaries in Python, you’d often run into KeyError  exceptions. Dictionaries are built-in data structures of key value pairs. So you can look up a value—in constant time—using the corresponding key like so: dict[key] returns  value. But what if the key doesn't exist in the dictionary?]]></summary>
+        <author>
+            <name>Bala Priya C</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Email Newsletters For Designers]]></title>
+        <id>https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/</id>
+        <link href="https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/"/>
+        <updated>2024-06-17T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you want to take your user research skills to the next level, get better at UX writing, or stay up-to-date on the latest design trends, a newsletter is the perfect opportunity to get the best of the best resources delivered straight to your inbox on a regular basis. In this post, we highlight some design newsletters that you might want to consider subscribing to.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the Black-Scholes Equation Works – Explained with Python Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-the-black-scholes-equation-works-python-examples/</id>
+        <link href="https://www.freecodecamp.org/news/how-the-black-scholes-equation-works-python-examples/"/>
+        <updated>2024-06-17T16:42:59.000Z</updated>
+        <summary type="html"><![CDATA[$$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - r S \frac{\partial V}{\partial S}$$  Black-Scholes Equation]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Frameworks vs Laravel – Which Should You Choose for Web Development?]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-frameworks-vs-laravel/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-frameworks-vs-laravel/"/>
+        <updated>2024-06-17T14:28:11.000Z</updated>
+        <summary type="html"><![CDATA[For a long time, developers in the JavaScript ecosystem have tried to launch Laravel-like frameworks for JavaScript. We've seen Blitz for NextJS, Adonis for NodeJS, RedwoodJS, and more. All these frameworks tried to build a Laravel for JavaScript. But none of them were really successful. Why? We'll figure it out]]></summary>
+        <author>
+            <name>Afan Khan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Multi-Page Animations Using Framer Motion & React-Router-Dom]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-multi-page-animations-using-framer-motion-and-react-router-dom/"/>
+        <updated>2024-06-17T05:57:47.000Z</updated>
+        <summary type="html"><![CDATA[Animations are what make plain websites turn into exciting and unforgettable experiences. They give your website a bit of personality and uniqueness and leave the visitor admiring the overall aesthetic. It's a no-brainer that humans love beautiful things. We all love products that look easy on the eyes.  In]]></summary>
+        <author>
+            <name>Okosa Leonard Onyekachukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Attention Mechanisms in Deep Learning?]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-attention-mechanisms-in-deep-learning/"/>
+        <updated>2024-06-17T05:46:08.000Z</updated>
+        <summary type="html"><![CDATA[Attention mechanism is a fundamental invention in artificial intelligence and machine learning, redefining the capabilities of deep learning models. This mechanism, inspired by the human mental process of selective focus, has emerged as a pillar in a variety of applications, accelerating developments in natural language processing, computer vision, and beyond.]]></summary>
+        <author>
+            <name>Oyedele Tioluwani Taiwo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lambda Functions in Python – How to Use Lambdas with Map, Filter, and Reduce]]></title>
         <id>https://www.freecodecamp.org/news/lambda-functions-in-python/</id>
