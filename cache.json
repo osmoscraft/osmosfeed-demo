@@ -280,6 +280,106 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/",
+          "author": "Kolade Chris",
+          "description": "This is the second part of my PHP array handbook. You can find the first part here [/news/php-array-handbook/], where I cover array basics. In the first part, you learned about arrays, how to create arrays, array functions, and how to loop through arrays. This second part will teach you how",
+          "link": "https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/",
+          "publishedOn": "2024-06-18T20:58:07.000Z",
+          "wordCount": 4722,
+          "title": "PHP Arrays in Practice: How to Rebuild the Football Team Cards Project with PHP and MongoDB",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/PHP-Arrays-in-Practice-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/decorators-in-python-tutorial/",
+          "author": "Samyak Jain",
+          "description": "In this tutorial, you will learn about Python decorators: what they are, how they work, and when to use them.  But before diving into decorators, it's helpful to understand two foundational concepts in Python: first-class functions and closures. First-Class Functions in Python First-class functions mean that functions in Python",
+          "link": "https://www.freecodecamp.org/news/decorators-in-python-tutorial/",
+          "publishedOn": "2024-06-18T18:53:30.000Z",
+          "wordCount": 1921,
+          "title": "What are Decorators in Python? Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/decorators-in-Python.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-non-technical-introduction-to-generative-ai/",
+          "author": "Beau Carnes",
+          "description": "If you want to learn about the concepts around generative AI without getting bogged down with the technical details, we have a great course for you. We just published a course on the freeCodeCamp.org YouTube channel that is a non-technical intro to g...",
+          "link": "https://www.freecodecamp.org/news/a-non-technical-introduction-to-generative-ai/",
+          "publishedOn": "2024-06-18T15:39:23.000Z",
+          "wordCount": 825,
+          "title": "A Non-Technical Introduction to Generative AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718725143849/bddb856a-528f-4f65-bdfb-6c920c3fe265.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/building-intelligent-apps-with-mistral-ai/",
+          "author": "Beau Carnes",
+          "description": "Open source LLMs can help you create intelligent apps without having to pay for each API call. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the open source models from Mistral AI to create intellig...",
+          "link": "https://www.freecodecamp.org/news/building-intelligent-apps-with-mistral-ai/",
+          "publishedOn": "2024-06-18T15:11:28.000Z",
+          "wordCount": 923,
+          "title": "Building Intelligent Apps with Mistral AI",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718723463563/f1439b8b-194b-4f96-a854-03d516b791fc.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-trunk-based-development/",
+          "author": "Kealan Parr",
+          "description": "The Software Development Lifecycle (SDLC) is different at every company. The version control system used, peer review process, code review process, design review process, how you do CI, automated testing, and manual testing – all vary greatly depending on where you work. How a company plans, writes, builds, reviews, deploys,",
+          "link": "https://www.freecodecamp.org/news/what-is-trunk-based-development/",
+          "publishedOn": "2024-06-18T12:55:00.000Z",
+          "wordCount": 1957,
+          "title": "What is Trunk Based Development? A Different Approach to the Software Development Lifecycle",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/01/Trunk-based-development.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-mansory-layout-using-html-and-css/",
+          "author": "Fanny Nyayic",
+          "description": "A masonry layout is a grid-based design where items are arranged in a way that minimizes vertical gaps between them.  an example of a masonry layoutUnlike traditional grids with fixed row heights, masonry layouts adjust the positioning of items dynamically based on their content height, creating a visually appealing",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-mansory-layout-using-html-and-css/",
+          "publishedOn": "2024-06-18T12:22:43.000Z",
+          "wordCount": 1731,
+          "title": "How to Create a Masonry Layout Using HTML and CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/HTML---CSS-Only-Masonry-Layout.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-improve-your-digital-security-and-privacy/",
+          "author": "Privacy Tipster",
+          "description": "These days, there are many different types of attacks that can jeopardize your digital security and privacy. So it’s a good idea to stay up-to-date with best practices to keep you safe online.  But it can be hard to understand exactly how to do this. So I built this",
+          "link": "https://www.freecodecamp.org/news/how-to-improve-your-digital-security-and-privacy/",
+          "publishedOn": "2024-06-18T12:05:09.000Z",
+          "wordCount": 2980,
+          "title": "How to Improve Your Digital Security and Privacy – Best Practices for Developers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/digitalprivacy-1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/",
+          "author": "Shrijal Acharya",
+          "description": "In this article, I will show you how you can host your React/Next.js app or any static web app on Azure Static Web Apps.  I will be showing you both ways of doing it – through the GUI and with the CLI. I assume you already have built a",
+          "link": "https://www.freecodecamp.org/news/how-to-host-static-sites-on-azure-static-web-apps/",
+          "publishedOn": "2024-06-18T10:59:18.000Z",
+          "wordCount": 1673,
+          "title": "How to Host Static Sites on Azure Static Web Apps for Free",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/host_static_sites_swa_azure.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/a-guide-to-object-oriented-programming-principles/",
+          "author": "Anjan Baradwaj",
+          "description": "A programming language is generally classified based on its support for one or more paradigms. Object-oriented programming is one such paradigm, where the code is organized as objects. It is used to develop desktop and mobile applications or more complex web or enterprise applications. Using object-oriented programming, you can build",
+          "link": "https://www.freecodecamp.org/news/a-guide-to-object-oriented-programming-principles/",
+          "publishedOn": "2024-06-18T09:13:37.000Z",
+          "wordCount": 1846,
+          "title": "A Guide to Object-Oriented Programming Principles",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/oop-principles.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-enhance-embedded-links-in-react-with-microlinks/",
+          "author": "oluwatobi Joshua",
+          "description": "The web has evolved from rigid color coding and 2D rendering to an era of complex, aesthetically pleasing animations and 3D rendering options. Additionally, there have been integrations with new technologies, such as virtual reality tools and frameworks, to make the user experience worthwhile. In this article, we'll optimize",
+          "link": "https://www.freecodecamp.org/news/how-to-enhance-embedded-links-in-react-with-microlinks/",
+          "publishedOn": "2024-06-18T02:56:25.000Z",
+          "wordCount": 1381,
+          "title": "How to Enhance Embedded Links in React with Microlink",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/microl.jpg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/auto-scaling-and-load-balancing/",
           "author": "Daniel Adetunji",
           "description": "While auto scaling and load balancing are two separate techniques in software architecture management, they are often implemented simultaneously. In the software architecture wild, one rarely exists without the other, as they complement each other to handle unpredictable changes in demand. This article will explain how auto scaling and load",
@@ -938,26 +1038,6 @@
           "wordCount": 2068,
           "title": "Online Safety – A Guide to Protecting Yourself",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/rohit-2400-x-1260.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-rest-api-without-a-server/",
-          "author": "Jakub T. Jankiewicz",
-          "description": "If you're a Front-End developer and want to showcase your skills, it may be a problem if you use GitHub pages or Netlify to show your apps.  Instead, you can create a REST API directly in the browser without the need of any server. With this, you can showcase",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-rest-api-without-a-server/",
-          "publishedOn": "2024-05-20T10:13:43.000Z",
-          "wordCount": 3035,
-          "title": "How to Create a REST API Without a Server",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/cover-4.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-your-flutter-package-privacy-manifest-compatible/",
-          "author": "Tomer Ben Rachel",
-          "description": "Beginning May 1st, Apple will enforce all new applications or updated versions of applications that will be uploaded to the Apple Store, to include a Privacy Manifest file.  If you are unfamiliar with what a Privacy Manifest is, I suggest reading my  other article [/news/what-the-ios-privacy-manifest-means-for-developers/]. There has been",
-          "link": "https://www.freecodecamp.org/news/how-to-make-your-flutter-package-privacy-manifest-compatible/",
-          "publishedOn": "2024-05-20T08:10:33.000Z",
-          "wordCount": 1324,
-          "title": "How to Make Your Flutter Package Privacy Manifest Compatible",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpg"
         }
       ]
     }
