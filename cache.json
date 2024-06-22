@@ -33,6 +33,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Balancing the age-old simplicity of words on paper with the myriad creative possibilities of the web is a tension as old as the web itself. Leaning into that overlap can bring new dimensions not just to the things we write but also to how we write them.",
+          "link": "https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
+          "publishedOn": "2024-06-21T18:00:00.000Z",
+          "wordCount": 5342,
+          "title": "MDX Or: How I Learned To Stop Worrying And Love Multimedia Writing",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/mdx-or-how-i-learned-love-multimedia-writing/mdx-or-how-i-learned-love-multimedia-writing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/mdx-or-how-i-learned-love-multimedia-writing/mdx-or-how-i-learned-love-multimedia-writing.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "Have you heard of the Screen Orientation API? What about the Device Orientation API, Vibration API, or the Contact Picker API? Juan Diego Rodriguez is interested in these under-the-radar web features and discusses how they can be used to create more usable and robust progressive web apps if and when they gain broader support.",
@@ -256,36 +271,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/switching-it-up-html-latest-control/switching-it-up-html-latest-control.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/naming-best-practices/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "How can we get better at naming? This post is dedicated to naming conventions, tips, and real-world examples that help you name things in a robust and flexible way.",
-          "link": "https://smashingmagazine.com/2024/05/naming-best-practices/",
-          "publishedOn": "2024-05-23T09:00:00.000Z",
-          "wordCount": 3887,
-          "title": "Best Practices For Naming Design Tokens, Components, Variables, And More",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/naming-best-practices/naming-good-practices-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/naming-best-practices/naming-good-practices-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "description": "It’s easy to get lost in a sea of CSS frameworks and libraries, each promising easier styling and smoother layouts. Brecht De Ruyte demonstrates four CSS utility classes (plus a bonus) using techniques that allow them to be used practically anywhere you need a particular layout — be it Grid or Flexbox — with configurable options.",
-          "link": "https://smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/",
-          "publishedOn": "2024-05-22T15:00:00.000Z",
-          "wordCount": 7121,
-          "title": "Modern CSS Layouts: You Might Not Need A Framework For That",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/modern-css-layouts-no-framework-needed/modern-css-layouts-no-framework-needed.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/modern-css-layouts-no-framework-needed/modern-css-layouts-no-framework-needed.jpg"
         }
       ]
     },
@@ -294,6 +279,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-controlled-and-uncontrolled-components-in-react/",
+          "author": "Joan Ayebola",
+          "description": "In React.js, managing form inputs and user interactions is a crucial part of building dynamic web applications.  Two key concepts that developers need to understand are controlled and uncontrolled components. These concepts define how form data is handled within a React component.  Controlled components rely on React state",
+          "link": "https://www.freecodecamp.org/news/what-are-controlled-and-uncontrolled-components-in-react/",
+          "publishedOn": "2024-06-21T20:18:52.000Z",
+          "wordCount": 4246,
+          "title": "What are Controlled and Uncontrolled Components in React.js?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/why-are-senior-developers-learning-low-code-and-ai-tools-adrian-twarog-interview-129/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Adrian Twarog. He's a Software Engineer who started his career by working as the office IT guy for 10 years. He's since published YouTube courses that millions of people have watched. We talk about: ...",
+          "link": "https://www.freecodecamp.org/news/why-are-senior-developers-learning-low-code-and-ai-tools-adrian-twarog-interview-129/",
+          "publishedOn": "2024-06-21T15:49:08.000Z",
+          "wordCount": 832,
+          "title": "Why are senior developers learning low-code and AI tools? [Adrian Twarog Interview #129]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718984074785/50ab1a9b-3107-4c49-816a-00ce6fce9a5e.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/generative-ai-handbook/",
           "author": "Vahe Aslanyan",
@@ -1003,16 +1008,6 @@
           "wordCount": 1602,
           "title": "Pass the AWS Certified Solutions Architect - Associate Certification",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1716495763631/528c2806-24cf-4feb-8b4b-b2b8310bee88.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-secure-your-django-app/",
-          "author": "Sophia Iroegbu",
-          "description": "As a software developer or engineer, it's not enough to know how to build useful solutions – you must also ensure that they are secure. Prioritizing your users is crucial when developing and deploying your software because if users can't use your app, it becomes useless. In this guide, we",
-          "link": "https://www.freecodecamp.org/news/how-to-secure-your-django-app/",
-          "publishedOn": "2024-05-22T15:05:47.000Z",
-          "wordCount": 2098,
-          "title": "How to Secure Your Django App – Best Practices and Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Blog-Banner---Template--2-.png"
         }
       ]
     }
