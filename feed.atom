@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-28T01:02:23.802Z</updated>
+    <updated>2024-06-29T01:01:15.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Media Queries vs Container Queries – Which Should You Use and When?]]></title>
+        <id>https://www.freecodecamp.org/news/media-queries-vs-container-queries/</id>
+        <link href="https://www.freecodecamp.org/news/media-queries-vs-container-queries/"/>
+        <updated>2024-06-28T20:21:00.000Z</updated>
+        <summary type="html"><![CDATA[As the web evolves, new tools and ideas are released with the goal of making our lives as web developers easier. This means we have to choose whether to stick with the old ways or discard them entirely for the shiny new stuff. But does this always demand an either-or]]></summary>
+        <author>
+            <name>Ophy Boamah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript GameDev with Kaboom.js]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-gamedev-with-kaboomjs/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-gamedev-with-kaboomjs/"/>
+        <updated>2024-06-28T16:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Creating a game can be one of the most rewarding experiences in programming, and building a Metroidvania-style game takes that excitement to another level. These games are known for their intricate maps, challenging enemies, and complex mechanics tha...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Shadcn UI Components]]></title>
+        <id>https://www.freecodecamp.org/news/mastering-shadcn-ui-components/</id>
+        <link href="https://www.freecodecamp.org/news/mastering-shadcn-ui-components/"/>
+        <updated>2024-06-28T16:25:33.000Z</updated>
+        <summary type="html"><![CDATA[We just published a course on the freeCodeCamp.org YouTube channel that will help you master Shadcn. This comprehensive course dives deep into the versatile world of Shadcn, a powerful toolset for building modern web applications with customizable an...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Change Background Color with JavaScript – BG Color in JS and HTML]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-change-background-color-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-change-background-color-with-javascript/"/>
+        <updated>2024-06-28T16:21:26.000Z</updated>
+        <summary type="html"><![CDATA[You can style elements with JavaScript using the element's style property. In this article, you'll learn how to change background color using JavaScript. Here's what the mini project you'll build looks like: In the image above, each button changes t...]]></summary>
+        <author>
+            <name>Ihechikara Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Fashion to Software Engineer with Alison Yoon [Podcast #130]]]></title>
+        <id>https://www.freecodecamp.org/news/from-fashion-to-software-engineer-with-alison-yoon-podcast-130/</id>
+        <link href="https://www.freecodecamp.org/news/from-fashion-to-software-engineer-with-alison-yoon-podcast-130/"/>
+        <updated>2024-06-28T15:55:20.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Alison Yoon. She's a Software Engineer who started off in fashion design and taught herself to code using freeCodeCamp. We talk about: What it's like to work in fas...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transitioning to Auto Height]]></title>
+        <id>https://css-tricks.com/?p=378862</id>
+        <link href="https://css-tricks.com/transitioning-to-auto-height/"/>
+        <updated>2024-06-28T13:44:01.000Z</updated>
+        <summary type="html"><![CDATA[I know this is something Chris has wanted forever, so it’s no surprise he’s already got a fantastic write-up just a day after the news broke. In fact, I first learned about it from his post and was unable …
+Transitioning to Auto Height originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Improve Your Microcopy: UX Writing Tips For Non-UX Writers]]></title>
+        <id>https://smashingmagazine.com/2024/06/how-improve-microcopy-ux-writing-tips-non-ux-writers/</id>
+        <link href="https://smashingmagazine.com/2024/06/how-improve-microcopy-ux-writing-tips-non-ux-writers/"/>
+        <updated>2024-06-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Interface copy plays a crucial role in the overall user experience, helping guide users smoothly, allowing them to navigate easily through the app, discover and start using product features, and more. In this article, you’ll find simple, practical tips and a checklist to help you create a clear and concise microcopy, ensuring a seamless user experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Irina Silyanova)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Migrate from Play Core Library]]></title>
         <id>https://www.freecodecamp.org/news/migrate-from-play-core-library/</id>
@@ -975,36 +1046,6 @@ CSS Length Units originally published on CSS-Tricks, which is part of the Digita
         <summary type="html"><![CDATA[What does it mean to learn the “basics”, or fundamentals, of front-end web development? Is starting with HTML and CSS still the best entry point to learn how to make websites and apps when we have a seemingly endless supply of frameworks? Geoff Graham thinks so and discusses why you might consider going “back to basics” to start or move forward in your career.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Context API Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/react-context-api-explained-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/react-context-api-explained-with-examples/"/>
-        <updated>2024-05-30T08:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Managing state has always been a critical aspect of making web applications with React. The most basic way to do this is prop drilling. In prop drilling, you pass props around from the parent component to other components that need it, no matter how deeply nested they are. The problem]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Numerical Conversions Work in Computer Systems? Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-do-numerical-conversions-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-do-numerical-conversions-work/"/>
-        <updated>2024-05-29T19:56:06.000Z</updated>
-        <summary type="html"><![CDATA[Computers perform complex calculations when carrying out their assigned tasks. At the very core, the calculations boil down to operations like comparisons, assignments, and addition. Have you ever wondered how they are performed under the hood and wh...]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decision Trees For UI Components]]></title>
-        <id>https://smashingmagazine.com/2024/05/decision-trees-ui-components/</id>
-        <link href="https://smashingmagazine.com/2024/05/decision-trees-ui-components/"/>
-        <updated>2024-05-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagine finally resolving never-ending discussions about UI decisions for good. Here are some practical examples of decision trees for UI components and how to use them effectively. An upcoming part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
