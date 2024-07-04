@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T01:02:39.536Z</updated>
+    <updated>2024-07-04T01:02:48.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Build a Meditation App with React Native & Expo Router]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-meditation-app-with-react-native-expo-router/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-meditation-app-with-react-native-expo-router/"/>
+        <updated>2024-07-03T16:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking to enhance your React Native skills while creating a practical and soothing application? This new course from freeCodeCamp.org is perfect for you! You'll learn how to build a meditation app using Expo, an open-source platform for maki...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Flow in Redux Explained – A State Management Handbook]]></title>
+        <id>https://www.freecodecamp.org/news/how-data-flows-in-redux/</id>
+        <link href="https://www.freecodecamp.org/news/how-data-flows-in-redux/"/>
+        <updated>2024-07-03T13:45:02.000Z</updated>
+        <summary type="html"><![CDATA[In complex React applications, managing application state effectively can become a challenge. This is where Redux, a predictable state management library, steps in. By introducing a unidirectional data flow, Redux brings order and clarity to how data updates and interacts within your React components. This article discusses the inner workings]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 19 Actions – How to Simplify Form Submission and Loading States]]></title>
+        <id>https://www.freecodecamp.org/news/react-19-actions-simpliy-form-submission-and-loading-states/</id>
+        <link href="https://www.freecodecamp.org/news/react-19-actions-simpliy-form-submission-and-loading-states/"/>
+        <updated>2024-07-02T21:29:47.000Z</updated>
+        <summary type="html"><![CDATA[React 19 introduces Actions, which are asynchronous functions. Actions are helpful in making form submissions easier. This tutorial dives into what Actions are and how to use them. You'll learn about:  1. The new React 19 feature, Actions  2. The new React 19 hooks, useActionState and useFormStatus]]></summary>
+        <author>
+            <name>Shruti Kapoor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Work with Tables in Excel vs Google Sheets]]></title>
         <id>https://www.freecodecamp.org/news/excel-vs-google-sheets-tables/</id>
@@ -975,77 +1005,6 @@ CSS Container Queries originally published on CSS-Tricks, which is part of the D
         <summary type="html"><![CDATA[In the high-stakes game of modern business, data isn't just an asset – it's the power you need to outpace your competition. But as a developer, you know that turning raw data into actionable insights can be a frustrating battle. Imagine having the power to effortlessly transform raw data into]]></summary>
         <author>
             <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Success: Key Insights And Practical Takeaways]]></title>
-        <id>https://smashingmagazine.com/2024/06/scaling-success-key-insights-pratical-takeaways/</id>
-        <link href="https://smashingmagazine.com/2024/06/scaling-success-key-insights-pratical-takeaways/"/>
-        <updated>2024-06-04T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The web is still a young platform, and we’re only now beginning to recognize what “success” looks like for large projects. In his recent Smashing book, [Success at Scale](https://www.smashingmagazine.com/printed-books/success-at-scale/), Addy Osmani presents practical case studies featuring the web’s most renowned companies and their efforts to make big changes to existing apps and sites. In this article, Addy shows some of the key insights he has learned.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build and Deploy a Smart Contract With Rust and the Gear Protocol]]></title>
-        <id>https://www.freecodecamp.org/news/build-and-deploy-smart-contract-rust-gear-protocol/</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-smart-contract-rust-gear-protocol/"/>
-        <updated>2024-06-04T10:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Smart contracts are like digital agreements that run on blockchain technology, making transactions automatic and secure. While many people use Ethereum and Solidity to create these contracts, there are other options that can be just as powerful.  One great combination is using Rust with the Gear Protocol. In this]]></summary>
-        <author>
-            <name>Rocky Essel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Rating Component with the React Compound Component Pattern]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-rating-component-with-the-react-compound-component-pattern/"/>
-        <updated>2024-06-03T22:03:41.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever watched a captivating movie or used a fantastic product and wanted to share your experience? In today's world, feedback is critical, and ratings are like currency.  Rating systems are everywhere, from the classic star ratings on movie review websites to the ubiquitous thumbs up/down on streaming]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Choose the Right IaC Tool – AWS CDK, CloudFormation, and Terraform Compared]]></title>
-        <id>https://www.freecodecamp.org/news/comparing-iac-tools-aws-cdk-cloudformation-terraform/</id>
-        <link href="https://www.freecodecamp.org/news/comparing-iac-tools-aws-cdk-cloudformation-terraform/"/>
-        <updated>2024-06-03T21:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure as Code (IaC) has become a cornerstone of modern cloud resource management. It enables developers and engineers to manage their cloud resources with the same level of control and precision as application code.  When you're working with AWS, among the tools at the forefront of utilizing IaC are]]></summary>
-        <author>
-            <name>Ifeanyi Otuonye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Quickly Add Auth to your Flutter Apps with Supabase Auth UI]]></title>
-        <id>https://www.freecodecamp.org/news/add-auth-to-flutter-apps-with-supabase-auth-ui/</id>
-        <link href="https://www.freecodecamp.org/news/add-auth-to-flutter-apps-with-supabase-auth-ui/"/>
-        <updated>2024-06-03T19:55:22.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn how to use Supabase's auth package [https://pub.dev/packages/supabase_auth_ui] to quickly and efficiently add authentication functionality to your Flutter apps. We will go through the entire process, from setting up a Flutter project to configuring Email/Password, OAuth, and Magic link flows. In the end, you'll have]]></summary>
-        <author>
-            <name>Fatuma Abdullahi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Length Units]]></title>
-        <id>https://css-tricks.com/?p=375815</id>
-        <link href="https://css-tricks.com/css-length-units/"/>
-        <updated>2024-06-03T19:22:02.000Z</updated>
-        <summary type="html"><![CDATA[A comprehensive guide covering nine types of lengths that CSS uses to size elements in terms of dimensions, space, time, and even sound.
-CSS Length Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use AI to Automate Unit Testing with TestGen-LLM and Cover-Agent]]></title>
-        <id>https://www.freecodecamp.org/news/automated-unit-testing-with-testgen-llm-and-cover-agent/</id>
-        <link href="https://www.freecodecamp.org/news/automated-unit-testing-with-testgen-llm-and-cover-agent/"/>
-        <updated>2024-06-03T14:45:24.000Z</updated>
-        <summary type="html"><![CDATA[It's important to write clear and efficient unit tests that actually work during the software development process. Unit tests separate out individual code elements and confirm that they work as intended.  Effective unit tests not only catch errors but also help you be confident that your code can be]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel Praise</name>
         </author>
     </entry>
 </feed>
