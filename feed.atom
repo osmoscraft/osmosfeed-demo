@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-04T01:02:48.919Z</updated>
+    <updated>2024-07-05T01:02:43.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Callback Functions in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/"/>
+        <updated>2024-07-03T21:24:22.000Z</updated>
+        <summary type="html"><![CDATA[When you're building dynamic applications with JavaScript that display real-time data – like a weather app or live sports dashboard – you'll need a way to automatically fetch new data from an external source without disrupting the user experience.  You can do this using JavaScript's callback functions, which showcase]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel Praise</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build a Meditation App with React Native & Expo Router]]></title>
         <id>https://www.freecodecamp.org/news/build-a-meditation-app-with-react-native-expo-router/</id>
@@ -945,66 +955,6 @@ CSS Container Queries originally published on CSS-Tricks, which is part of the D
         <summary type="html"><![CDATA[As web applications become more complex, managing updates to the user interface becomes a challenging task. This is where the Virtual DOM (Document Object Model) comes into play – particularly in React, the leading JavaScript library for building user interfaces. The virtual DOM is a lightweight copy of the real]]></summary>
         <author>
             <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Go in Spanish – Golang Course for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/learn-go-in-spanish-golang-course-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/learn-go-in-spanish-golang-course-for-beginners/"/>
-        <updated>2024-06-05T12:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Go is a powerful programming language that is quickly growing in popularity. It's easy to learn and works great for building powerful applications. Whether you're new to coding or already know other programming languages, Go is a great choice for exp...]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Guide to Linear Algebra in Data Science and AI]]></title>
-        <id>https://www.freecodecamp.org/news/linear-algebra-roadmap/</id>
-        <link href="https://www.freecodecamp.org/news/linear-algebra-roadmap/"/>
-        <updated>2024-06-04T20:22:06.000Z</updated>
-        <summary type="html"><![CDATA[> "In God we trust; all others bring data." – W. Edwards Deming This famous quote from Edwards Deming perfectly captures the essence of modern Data Science and AI.  Data is the lifeblood of Data Science and AI fields – Machine Learning, Deep Learning, Generative AI and much more.]]></summary>
-        <author>
-            <name>Tatev Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Coding Challenges For Beginner Developers – Code and Explanations]]></title>
-        <id>https://www.freecodecamp.org/news/python-coding-challenges-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/python-coding-challenges-for-beginners/"/>
-        <updated>2024-06-04T20:18:55.000Z</updated>
-        <summary type="html"><![CDATA[Learning Python can be challenging, especially if you're not actually writing enough code. As a beginner, you may go through lessons and tutorials without practicing on your own – and this makes it harder to learn the language. The truth is, you cannot truly learn programming without writing code. It]]></summary>
-        <author>
-            <name>Abhilekh Gautam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a YouTube Clone with Flutter, Firebase, and Riverpod]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-youtube-clone-with-flutter-firebase-and-riverpod/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-youtube-clone-with-flutter-firebase-and-riverpod/"/>
-        <updated>2024-06-04T19:07:51.000Z</updated>
-        <summary type="html"><![CDATA[We just released a new course on the freeCodeCamp.org YouTube channel that will teach you how to build a full stack application. This beginner-friendly course will guide you through the process of creating a fully functional YouTube clone app, utiliz...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Code REST APIs using Next.js 14]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-code-rest-apis-using-nextjs-14/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-code-rest-apis-using-nextjs-14/"/>
-        <updated>2024-06-04T19:01:49.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a new course on the freeCodeCamp.org YouTube channel that is designed to help you master the creation of RESTful APIs using Next.js 14, a popular React framework. Umair Jameel developed this course. Next.js is a framework built on top ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Applied Data Science with Python – Business Intelligence for Developers [Full Book]]]></title>
-        <id>https://www.freecodecamp.org/news/applied-data-science-with-python-book/</id>
-        <link href="https://www.freecodecamp.org/news/applied-data-science-with-python-book/"/>
-        <updated>2024-06-04T17:14:03.000Z</updated>
-        <summary type="html"><![CDATA[In the high-stakes game of modern business, data isn't just an asset – it's the power you need to outpace your competition. But as a developer, you know that turning raw data into actionable insights can be a frustrating battle. Imagine having the power to effortlessly transform raw data into]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
         </author>
     </entry>
 </feed>
