@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-05T01:02:43.195Z</updated>
+    <updated>2024-07-06T01:01:11.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Scott Hanselman learned from 900 podcast interviews with devs [Podcast #131]]]></title>
+        <id>https://www.freecodecamp.org/news/what-scott-hanselman-learned-from-900-podcast-interviews-with-devs-podcast-131/</id>
+        <link href="https://www.freecodecamp.org/news/what-scott-hanselman-learned-from-900-podcast-interviews-with-devs-podcast-131/"/>
+        <updated>2024-07-05T14:44:17.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Scott Hanselman. Scott's a developer at Microsoft, a prolific teacher, and has hosted the Hanselminutes podcast for nearly two decades. We talk about: How he leads a fully-remote team from his home ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Callback Functions in JavaScript]]></title>
         <id>https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/</id>
@@ -915,46 +925,6 @@ CSS Container Queries originally published on CSS-Tricks, which is part of the D
         <summary type="html"><![CDATA[The Azure DevOps Engineer Expert Certification (AZ-400) is for professionals who aim to demonstrate their expertise in integrating people, processes, and technologies to continuously deliver valuable products and services. It’s ideal for those who ar...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn How to Build a Decentralized File Storage System with Go]]></title>
-        <id>https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/</id>
-        <link href="https://www.freecodecamp.org/news/learn-how-to-build-a-decentralized-file-storage-system-with-go/"/>
-        <updated>2024-06-05T21:00:31.000Z</updated>
-        <summary type="html"><![CDATA[We just posted a 10-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a decentralized, fully distributed, content-addressable file storage system using Go. This course is perfect for those interested in system desig...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presenting UX Research And Design To Stakeholders: The Power Of Persuasion]]></title>
-        <id>https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/</id>
-        <link href="https://smashingmagazine.com/2024/06/presenting-ux-research-design-stakeholders/"/>
-        <updated>2024-06-05T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s more to achieving good UX than research and design. We need to effectively communicate our ideas to gain buy-in from key stakeholders. Victor covers how UX practitioners can harness the power of persuasion and other tactics from the field of communication when presenting research findings and design concepts to key stakeholders.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript this Keyword Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/the-javascript-this-keyword-explained-with-examples/"/>
-        <updated>2024-06-05T14:58:48.000Z</updated>
-        <summary type="html"><![CDATA[All leading web browsers support JavaScript, a popular and versatile programming language. The this keyword is a very important concept to know in JavaScript. The this keyword is a reference to an object, but the object varies based on where and how it is called. In this article, you'll learn]]></summary>
-        <author>
-            <name>Kamaldeen Lawal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the Virtual DOM in React?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-the-virtual-dom-in-react/"/>
-        <updated>2024-06-05T14:51:11.000Z</updated>
-        <summary type="html"><![CDATA[As web applications become more complex, managing updates to the user interface becomes a challenging task. This is where the Virtual DOM (Document Object Model) comes into play – particularly in React, the leading JavaScript library for building user interfaces. The virtual DOM is a lightweight copy of the real]]></summary>
-        <author>
-            <name>Matéush</name>
         </author>
     </entry>
 </feed>
