@@ -114,16 +114,6 @@
           "wordCount": 1213,
           "title": "Untitled",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378946"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378111",
-          "author": "Geoff Graham",
-          "description": "The main idea of CSS Container Queries is to register an element as a “container” and apply styles to other elements when the container element meets certain conditions. \nCSS Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-container-queries/",
-          "publishedOn": "2024-06-10T16:12:50.000Z",
-          "wordCount": 3764,
-          "title": "CSS Container Queries",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378111"
         }
       ]
     },
@@ -132,6 +122,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/07/designing-sustainable-e-commerce-experiences/",
+          "author": "hello@smashingmagazine.com (Anna Rátkai)",
+          "description": "Today, UX design contributes to the problem of excessive consumption through persuasive e-commerce practices and designing for companies with linear and exploitative business models. Anna Rátkai explores practical steps we can take to reduce material consumption and the massive environmental impact that comes along with it by designing mindful shopping experiences.",
+          "link": "https://smashingmagazine.com/2024/07/designing-sustainable-e-commerce-experiences/",
+          "publishedOn": "2024-07-10T13:00:00.000Z",
+          "wordCount": 5400,
+          "title": "When Friction Is A Good Thing: Designing Sustainable E-Commerce Experiences",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-sustainable-e-commerce-experiences/designing-sustainable-e-commerce-experiences.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-sustainable-e-commerce-experiences/designing-sustainable-e-commerce-experiences.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
@@ -334,6 +339,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-upgrade-node-and-jest-while-on-react-scripts-v4/",
+          "author": "Harsh Deep",
+          "description": "Recently, I was trying to upgrade some of my open source projects [https://github.com/classtranscribe/FrontEnd/]. They were made using  create-react-app [https://github.com/facebook/create-react-app] around 2019, and I wanted to upgrade to a newer version of NodeJS and Jest. This would let me take advantage of the security updates, bug fixes, speed improvements, and",
+          "link": "https://www.freecodecamp.org/news/how-to-upgrade-node-and-jest-while-on-react-scripts-v4/",
+          "publishedOn": "2024-07-10T19:35:36.000Z",
+          "wordCount": 4753,
+          "title": "How to Upgrade from Node 16 and Jest 26 While Staying on React Scripts 4",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/image0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-does-cpu-work-internally/",
+          "author": "Tiago Monteiro",
+          "description": "The CPU (Central Process Unit) is the brain of a computer, and the main connection between software and hardware. It makes it possible to operate software on hardware. However, how does it work in deep detail? And how can it connect programs to certain computer hardware? This article aims to",
+          "link": "https://www.freecodecamp.org/news/how-does-cpu-work-internally/",
+          "publishedOn": "2024-07-10T19:14:05.000Z",
+          "wordCount": 2754,
+          "title": "How Does a CPU Work Internally? From Transistors to Instruction Set Architecture",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-python-generators/",
+          "author": "Rochdi Khalid",
+          "description": "Python generators are a powerful feature that allow lazy iteration through a sequence of values. They produce items one at a time and only when needed, which makes them the best choice for working with large datasets or streams of data where it would be inefficient and impractical to load",
+          "link": "https://www.freecodecamp.org/news/how-to-use-python-generators/",
+          "publishedOn": "2024-07-10T19:05:55.000Z",
+          "wordCount": 1764,
+          "title": "How to Use Python Generators – Explained With Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/SERIE-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-send-http-requests-using-javascript/",
+          "author": "Eric Hu",
+          "description": "Nowadays, the interaction between web applications relies on HTTP [/news/what-is-http/]. For instance, let's say you have an online shop application and you want to create a new product. You have to fill in all the necessary information and probably click on a button that says \"Create\". This action will send",
+          "link": "https://www.freecodecamp.org/news/how-to-send-http-requests-using-javascript/",
+          "publishedOn": "2024-07-10T17:06:03.000Z",
+          "wordCount": 2327,
+          "title": "How to Send HTTP Requests Using JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/js-http.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/",
+          "author": "Ankur Tyagi",
+          "description": "Full stack development is constantly evolving, with new developer tools and products being introduced that allow us to build secure and reliable applications more efficiently. In this tutorial, I’ll walk you through how to build highly performant web applications with Neon – a serverless PostgreSQL [https://neon.tech] database designed for the",
+          "link": "https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/",
+          "publishedOn": "2024-07-10T15:31:12.000Z",
+          "wordCount": 3856,
+          "title": "Full Stack Development with Next.js, Clerk, and Neon Postgres",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Orange---Yellow-Gradient-Make-Design-Blog-Banner--77-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-counter-button-with-react/",
+          "author": "Devin Lane",
+          "description": "How can you keep track of the number of times a user clicks a button? How are the hearts on Instagram or the likes on Facebook counted?  In this tutorial, we will build a button that tracks the number of times a button has been clicked. Along the way,",
+          "link": "https://www.freecodecamp.org/news/build-a-counter-button-with-react/",
+          "publishedOn": "2024-07-10T14:41:14.000Z",
+          "wordCount": 5450,
+          "title": "How to Build a Counter Button with React, TailwindCSS, and TypeScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Build-a-counter-button-with-React-6-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-python-sdk-to-build-a-web-scraper/",
+          "author": "Jess Wilk",
+          "description": "What is Web scraping? Web scraping is a technique used to collect large amounts of data automatically using a programming script. This makes it useful for many professionals such as data analysts, market researchers, SEO specialists, business analysts, and academic researchers. What You'll Learn Here Python provides two libraries, Requests",
+          "link": "https://www.freecodecamp.org/news/use-python-sdk-to-build-a-web-scraper/",
+          "publishedOn": "2024-07-10T13:11:06.000Z",
+          "wordCount": 2233,
+          "title": "How to Use the Python SDK to Build Your Own Web Scraper",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/ilya-pavlov-OqtafYT5kTw-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/improve-user-experience-with-optimistic-ui-swr/",
+          "author": "Jaja Ibifubara David",
+          "description": "Have you ever noticed how some apps feel like they can read your mind? You click a button, and before you can even blink, it's done – no loading screens, no waiting around. It's like magic, right? Well, let me tell you a little secret: that's the power of Optimistic",
+          "link": "https://www.freecodecamp.org/news/improve-user-experience-with-optimistic-ui-swr/",
+          "publishedOn": "2024-07-09T22:33:50.000Z",
+          "wordCount": 4704,
+          "title": "How to Improve User Experience with Optimistic UI and SWR",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Article-cover.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/prepare-to-pass-the-aws-sysops-administrator-associate-soa-c02-certification/",
           "author": "Beau Carnes",
@@ -1013,26 +1098,6 @@
           "wordCount": 957,
           "title": "Learn Python for Data Science – Hands-on Projects with EDA, AB Testing & Business Intelligence",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718118785701/723c13b4-5b52-4cf7-9921-f65bbd837507.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/",
-          "author": "Daniel Kehoe",
-          "description": "Python's popularity keeps growing as more developers adopt it for data science and machine learning, although it is already among the most popular programming languages.  I recently wrote an article for freeCodeCamp titled \"How to Install Python on a Mac [/news/how-to-install-python-on-a-mac/]\", which provides a clear guide to installing Python",
-          "link": "https://www.freecodecamp.org/news/how-to-fix-python-installation-errors-on-mac/",
-          "publishedOn": "2024-06-10T22:57:27.000Z",
-          "wordCount": 2003,
-          "title": "How to Fix Common Python Installation Errors on macOS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/python-install-errors.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/unit-testing-in-python/",
-          "author": "Damilola Oladele",
-          "description": "Unit testing is a software testing technique in which individual components or units of a software application are tested independently from the rest of the application.  In software development, it's beneficial to break your application into small, isolated units. This approach allows you to write independent tests to check",
-          "link": "https://www.freecodecamp.org/news/unit-testing-in-python/",
-          "publishedOn": "2024-06-10T16:33:04.000Z",
-          "wordCount": 2220,
-          "title": "How to Write Unit Tests in Python – with Example Test Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/WhatsApp-Image-2024-06-10-at-10.46.58-AM.jpeg"
         }
       ]
     }
