@@ -143,6 +143,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "description": "In today’s turbulent landscape of design, Penpot stands out with its commitment to open-source, free unlimited access, and its unique, robust features. An example could be its new components system that takes another leap forward in aligning design with code. Let's dive into how it empowers both designers and developers to create more maintainable and scalable design systems.",
+          "link": "https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/",
+          "publishedOn": "2024-07-18T10:00:00.000Z",
+          "wordCount": 3818,
+          "title": "Build Design Systems With Penpot Components",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/build-design-systems-penpot-components/build-design-systems-penpot-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/build-design-systems-penpot-components/build-design-systems-penpot-components.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/",
           "author": "hello@smashingmagazine.com (Yinjian Huang)",
           "description": "This in-depth guide takes you through the three crucial phases of conversational search, revealing how users express their needs, explore results, and refine their queries. Learn how AI agents can overcome communication barriers, personalize the search experience, and adapt to evolving user intent.",
@@ -276,21 +291,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/uniting-web-native-apps-unknown-javascript-apis/uniting-web-native-apps-unknown-javascript-apis.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Job openings typically cast a very restrictive frame for candidates, with long lists of expectations and requirements. But what if this narrow focus can overlook the value of “V”-shaped designers who excel by crossing boundaries, connecting dots, and innovating beyond rigid boxes?",
-          "link": "https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/",
-          "publishedOn": "2024-06-19T12:00:00.000Z",
-          "wordCount": 3259,
-          "title": "T-Shaped vs. V-Shaped Designers",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/t-shaped-vs-v-shaped-designers/t-shaped-vs-v-shaped-designers.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/t-shaped-vs-v-shaped-designers/t-shaped-vs-v-shaped-designers.jpg"
         }
       ]
     },
@@ -299,6 +299,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/",
+          "author": "Timothy Olanrewaju",
+          "description": "Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents",
+          "link": "https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/",
+          "publishedOn": "2024-07-18T14:42:16.000Z",
+          "wordCount": 2098,
+          "title": "How to Use React Router to Build Single Page Applications",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Using-React-Router-to-build-SPAs--Twitter-Post-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/",
+          "author": "Clarence Bakosi",
+          "description": "Fly.io allows users to deploy their applications to virtual machines in regions where their applications are mostly used. A Fly application can also be deployed to multiple regions. You may want to move your Fly application to a new region if you experience performance issues, high latency, or data residency",
+          "link": "https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/",
+          "publishedOn": "2024-07-18T13:19:23.000Z",
+          "wordCount": 1686,
+          "title": "How to Move a Single Fly Machine and Volume to a New Region with flyctl",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Building projects is very important for learning how to code. When you create a project, you expand your portfolio and learn how to apply your skills to new situations. We just published a 2-hour course on the freeCodeCamp.org Spanish YouTube channel...",
+          "link": "https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/",
+          "publishedOn": "2024-07-18T11:34:00.000Z",
+          "wordCount": 1230,
+          "title": "Practice Your HTML, CSS, and JavaScript Skills in Spanish by Building 3 Projects",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721080988346/32a464e0-38af-4eba-b42a-af48cafecaef.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/",
           "author": "Beau Carnes",
@@ -978,46 +1008,6 @@
           "wordCount": 1437,
           "title": "How Does Python's For-Else Loop Construct Work?",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/fimg-1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/",
-          "author": "Kolade Chris",
-          "description": "This is the second part of my PHP array handbook. You can find the first part here [/news/php-array-handbook/], where I cover array basics. In the first part, you learned about arrays, how to create arrays, array functions, and how to loop through arrays. This second part will teach you how",
-          "link": "https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/",
-          "publishedOn": "2024-06-18T20:58:07.000Z",
-          "wordCount": 4722,
-          "title": "PHP Arrays in Practice: How to Rebuild the Football Team Cards Project with PHP and MongoDB",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/PHP-Arrays-in-Practice-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/decorators-in-python-tutorial/",
-          "author": "Samyak Jain",
-          "description": "In this tutorial, you will learn about Python decorators: what they are, how they work, and when to use them.  But before diving into decorators, it's helpful to understand two foundational concepts in Python: first-class functions and closures. First-Class Functions in Python First-class functions mean that functions in Python",
-          "link": "https://www.freecodecamp.org/news/decorators-in-python-tutorial/",
-          "publishedOn": "2024-06-18T18:53:30.000Z",
-          "wordCount": 1921,
-          "title": "What are Decorators in Python? Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/decorators-in-Python.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/a-non-technical-introduction-to-generative-ai/",
-          "author": "Beau Carnes",
-          "description": "If you want to learn about the concepts around generative AI without getting bogged down with the technical details, we have a great course for you. We just published a course on the freeCodeCamp.org YouTube channel that is a non-technical intro to g...",
-          "link": "https://www.freecodecamp.org/news/a-non-technical-introduction-to-generative-ai/",
-          "publishedOn": "2024-06-18T15:39:23.000Z",
-          "wordCount": 825,
-          "title": "A Non-Technical Introduction to Generative AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718725143849/bddb856a-528f-4f65-bdfb-6c920c3fe265.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/building-intelligent-apps-with-mistral-ai/",
-          "author": "Beau Carnes",
-          "description": "Open source LLMs can help you create intelligent apps without having to pay for each API call. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the open source models from Mistral AI to create intellig...",
-          "link": "https://www.freecodecamp.org/news/building-intelligent-apps-with-mistral-ai/",
-          "publishedOn": "2024-06-18T15:11:28.000Z",
-          "wordCount": 923,
-          "title": "Building Intelligent Apps with Mistral AI",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1718723463563/f1439b8b-194b-4f96-a854-03d516b791fc.jpeg"
         }
       ]
     }

@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T01:03:12.760Z</updated>
+    <updated>2024-07-19T01:04:03.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React Router to Build Single Page Applications]]></title>
+        <id>https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/</id>
+        <link href="https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/"/>
+        <updated>2024-07-18T14:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Move a Single Fly Machine and Volume to a New Region with flyctl]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/"/>
+        <updated>2024-07-18T13:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Fly.io allows users to deploy their applications to virtual machines in regions where their applications are mostly used. A Fly application can also be deployed to multiple regions. You may want to move your Fly application to a new region if you experience performance issues, high latency, or data residency]]></summary>
+        <author>
+            <name>Clarence Bakosi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practice Your HTML, CSS, and JavaScript Skills in Spanish by Building 3 Projects]]></title>
+        <id>https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/</id>
+        <link href="https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/"/>
+        <updated>2024-07-18T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Building projects is very important for learning how to code. When you create a project, you expand your portfolio and learn how to apply your skills to new situations. We just published a 2-hour course on the freeCodeCamp.org Spanish YouTube channel...]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Design Systems With Penpot Components]]></title>
+        <id>https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/</id>
+        <link href="https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/"/>
+        <updated>2024-07-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In today’s turbulent landscape of design, Penpot stands out with its commitment to open-source, free unlimited access, and its unique, robust features. An example could be its new components system that takes another leap forward in aligning design with code. Let's dive into how it empowers both designers and developers to create more maintainable and scalable design systems.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pass the GitHub Advanced Security Certification Exam]]></title>
         <id>https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/</id>
@@ -917,56 +957,6 @@ Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOce
         <summary type="html"><![CDATA[Python supports the for-else loop construct that is lesser known but super helpful. If you’ve programmed in Python, you may have used the for loop to iterate over items in iterables such as lists. But for some use cases, using the for loop in conjunction with the else clause can]]></summary>
         <author>
             <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-Shaped vs. V-Shaped Designers]]></title>
-        <id>https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/</id>
-        <link href="https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/"/>
-        <updated>2024-06-19T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Job openings typically cast a very restrictive frame for candidates, with long lists of expectations and requirements. But what if this narrow focus can overlook the value of “V”-shaped designers who excel by crossing boundaries, connecting dots, and innovating beyond rigid boxes?]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP Arrays in Practice: How to Rebuild the Football Team Cards Project with PHP and MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/php-arrays-how-to-rebuild-the-football-team-cards-with-php-and-mongodb/"/>
-        <updated>2024-06-18T20:58:07.000Z</updated>
-        <summary type="html"><![CDATA[This is the second part of my PHP array handbook. You can find the first part here [/news/php-array-handbook/], where I cover array basics. In the first part, you learned about arrays, how to create arrays, array functions, and how to loop through arrays. This second part will teach you how]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Decorators in Python? Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/decorators-in-python-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/decorators-in-python-tutorial/"/>
-        <updated>2024-06-18T18:53:30.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn about Python decorators: what they are, how they work, and when to use them.  But before diving into decorators, it's helpful to understand two foundational concepts in Python: first-class functions and closures. First-Class Functions in Python First-class functions mean that functions in Python]]></summary>
-        <author>
-            <name>Samyak Jain</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Non-Technical Introduction to Generative AI]]></title>
-        <id>https://www.freecodecamp.org/news/a-non-technical-introduction-to-generative-ai/</id>
-        <link href="https://www.freecodecamp.org/news/a-non-technical-introduction-to-generative-ai/"/>
-        <updated>2024-06-18T15:39:23.000Z</updated>
-        <summary type="html"><![CDATA[If you want to learn about the concepts around generative AI without getting bogged down with the technical details, we have a great course for you. We just published a course on the freeCodeCamp.org YouTube channel that is a non-technical intro to g...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Intelligent Apps with Mistral AI]]></title>
-        <id>https://www.freecodecamp.org/news/building-intelligent-apps-with-mistral-ai/</id>
-        <link href="https://www.freecodecamp.org/news/building-intelligent-apps-with-mistral-ai/"/>
-        <updated>2024-06-18T15:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Open source LLMs can help you create intelligent apps without having to pay for each API call. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use the open source models from Mistral AI to create intellig...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
