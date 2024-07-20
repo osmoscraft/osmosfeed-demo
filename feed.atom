@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-19T01:04:03.643Z</updated>
+    <updated>2024-07-20T01:02:51.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Stuff I’m Excited After the Last CSSWG Meeting]]></title>
+        <id>https://css-tricks.com/?p=379180</id>
+        <link href="https://css-tricks.com/css-stuff-im-excited-after-the-last-csswg-meeting/"/>
+        <updated>2024-07-19T17:16:57.000Z</updated>
+        <summary type="html"><![CDATA[From June 11–13, the CSS Working Group (CSSWG) held its second face-to-face meeting of the year in Coruña, Spain, with a long agenda of new features and improvements coming to language. If 2023 brought us incredible advances like …
+CSS Stuff I’m Excited After the Last CSSWG Meeting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-machine-learning-skills-without-doing-a-phd-in-math-podcast-133-with-daniel-bourke/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-machine-learning-skills-without-doing-a-phd-in-math-podcast-133-with-daniel-bourke/"/>
+        <updated>2024-07-19T14:36:03.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Daniel Bourke. He's a Machine Learning Engineer and creator of many popular tutorials on YouTube. He's also a frequent freeCodeCamp contributor. We talk about: How as a kid he hacked into his school...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size]]></title>
+        <id>https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/</id>
+        <link href="https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/"/>
+        <updated>2024-07-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WCAG provides guidance for making interactive elements more accessible by specifying minimum size requirements. In this article, Eric Bailey discusses the nuances of interactive element sizes and clarifies what it looks like to provide accessible interactive experiences using WCAG-compliant target sizes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn JavaScript Reactivity: How to Build Signals from Scratch]]></title>
+        <id>https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/</id>
+        <link href="https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/"/>
+        <updated>2024-07-18T21:17:44.000Z</updated>
+        <summary type="html"><![CDATA[If you're learning JavaScript, you may have heard the terms reactivity or signals. But perhaps you haven't gotten to use them in practice yet. If so – or if you just want to learn more about these concepts – you're in the right place.  In this article, you'll learn]]></summary>
+        <author>
+            <name>Rahul Gupta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use React Router to Build Single Page Applications]]></title>
         <id>https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/</id>
@@ -917,46 +958,6 @@ Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOce
         <summary type="html"><![CDATA[Godot is an open-source game engine that is perfect for creating both 2D and 3D games. It is known for its user-friendly interface, robust features, and active community support. We just published a course on the freeCodeCamp.org YouTube channel that...]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Accessibility in Web Development? Best Practices for Web Accessibility]]></title>
-        <id>https://www.freecodecamp.org/news/best-practices-for-accessibility-in-web-development/</id>
-        <link href="https://www.freecodecamp.org/news/best-practices-for-accessibility-in-web-development/"/>
-        <updated>2024-06-20T11:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Everyone should be able to use technology, regardless of their abilities or disabilities. An accessible website or platform attracts a broader audience and has a high chance of achieving user retention. This article will discuss the importance of accessibility, best practices for accessibility in frontend web development, and their implementations.]]></summary>
-        <author>
-            <name>Victoria (Burah) Poromon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniting Web And Native Apps With 4 Unknown JavaScript APIs]]></title>
-        <id>https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/</id>
-        <link href="https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/"/>
-        <updated>2024-06-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you heard of the Screen Orientation API? What about the Device Orientation API, Vibration API, or the Contact Picker API? Juan Diego Rodriguez is interested in these under-the-radar web features and discusses how they can be used to create more usable and robust progressive web apps if and when they gain broader support.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Time To Live in Event-Driven Architecture in AWS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-time-to-live-in-event-driven-architecture/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-time-to-live-in-event-driven-architecture/"/>
-        <updated>2024-06-19T18:08:45.000Z</updated>
-        <summary type="html"><![CDATA[Distributed systems generally involve the storage and exchange of huge amounts of data. Not all data is created the same, and some of it can even expire – by design.  As the Buddha said, "All conditioned things are impermanent." In this article, we'll look at how the concept of]]></summary>
-        <author>
-            <name>Anant Chowdhary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Python's For-Else Loop Construct Work?]]></title>
-        <id>https://www.freecodecamp.org/news/for-else-loop-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/for-else-loop-in-python/"/>
-        <updated>2024-06-19T13:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Python supports the for-else loop construct that is lesser known but super helpful. If you’ve programmed in Python, you may have used the for loop to iterate over items in iterables such as lists. But for some use cases, using the for loop in conjunction with the else clause can]]></summary>
-        <author>
-            <name>Bala Priya C</name>
         </author>
     </entry>
 </feed>
