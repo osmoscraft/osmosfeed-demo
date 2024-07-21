@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-20T01:02:51.323Z</updated>
+    <updated>2024-07-21T01:09:10.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Migrate a Flutter Application from GetIt to Bloc]]></title>
+        <id>https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/</id>
+        <link href="https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/"/>
+        <updated>2024-07-19T23:05:13.000Z</updated>
+        <summary type="html"><![CDATA[When I first built an application [https://play.google.com/store/apps/details?id=com.tomerpacific.birthday_calendar&hl=en] using Flutter, I quickly ran into situations where I needed to pass state from widget to widget. These widgets weren’t directly related and all I knew back then was that there were only Stateless widgets or Stateful ones. I found it hard to]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Next.js App Performance With Lazy Loading]]></title>
+        <id>https://www.freecodecamp.org/news/next-js-performance-optimization/</id>
+        <link href="https://www.freecodecamp.org/news/next-js-performance-optimization/"/>
+        <updated>2024-07-19T22:31:12.000Z</updated>
+        <summary type="html"><![CDATA[People don't like using slow applications. And the initial load time matters a lot for web applications and websites.  An application that takes more than 3 seconds to load is considered slow and may cause users to leave the application or website. Next.js is a React-based framework you can]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Stuff I’m Excited After the Last CSSWG Meeting]]></title>
         <id>https://css-tricks.com/?p=379180</id>
@@ -928,36 +948,6 @@ Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOce
         <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Adrian Twarog. He's a Software Engineer who started his career by working as the office IT guy for 10 years. He's since published YouTube courses that millions of people have watched. We talk about: ...]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Generative AI Handbook – How GenAI is Impacting Business and Innovation]]></title>
-        <id>https://www.freecodecamp.org/news/generative-ai-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/generative-ai-handbook/"/>
-        <updated>2024-06-20T17:43:19.000Z</updated>
-        <summary type="html"><![CDATA[The emergence of Generative Artificial Intelligence (GenAI) is both shaping the future of innovation management and revolutionizing it. This handbook delves into the groundbreaking research presented in "Generative Artificial Intelligence in Innovation Management: A Preview of Future Research Developments" by Marcello Mariani and Yogesh K. Dwivedi (2024) [https://ideas.repec.org/a/eee/jbrese/v175y2024ics0148296324000468.html]. It's a]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Become a Technical Writer – A Guide for Developers]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-become-a-technical-writer-guide-for-devs/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-become-a-technical-writer-guide-for-devs/"/>
-        <updated>2024-06-20T15:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Being a top-notch developer was my dream – until I realized I could combine my passion for writing with my technical knowledge to earn a living. That's right: I'm talking about becoming a technical writer. And if you're a developer, you may be in a good position to get into]]></summary>
-        <author>
-            <name>Tooba Jamal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Create a 3D RPG Game with Godot]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-create-a-3d-rpg-game-with-godot/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-create-a-3d-rpg-game-with-godot/"/>
-        <updated>2024-06-20T15:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Godot is an open-source game engine that is perfect for creating both 2D and 3D games. It is known for its user-friendly interface, robust features, and active community support. We just published a course on the freeCodeCamp.org YouTube channel that...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
 </feed>
