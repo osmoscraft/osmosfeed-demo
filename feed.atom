@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-22T01:06:35.578Z</updated>
+    <updated>2024-07-23T01:04:33.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use React's Context API – Tutorial with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/react-context-api-tutorial-examples/</id>
+        <link href="https://www.freecodecamp.org/news/react-context-api-tutorial-examples/"/>
+        <updated>2024-07-22T15:25:40.000Z</updated>
+        <summary type="html"><![CDATA[In React, data is typically passed down from parent to child via props. But this can lead to "prop drilling" – where we have to pass props down through lots of components to get them where they're needed. Also, some props (for example, the current authenticated user, UI theme, or]]></summary>
+        <author>
+            <name>Danny Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project]]></title>
+        <id>https://css-tricks.com/?p=379278</id>
+        <link href="https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/"/>
+        <updated>2024-07-22T14:38:52.000Z</updated>
+        <summary type="html"><![CDATA[These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …
+Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Enhanced Enums in Dart – Explained With Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-enhanced-enums-in-dart/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-enhanced-enums-in-dart/"/>
+        <updated>2024-07-22T11:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Enums are one of the most efficient ways to represent a fixed set of values. For example: days of the week, user online status, traffic light states, role hierarchy in an organization, and so on. What's interesting is that most typed languages such as Typescript, Java, C#, and Dart give]]></summary>
+        <author>
+            <name>Daniel Asaboro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Implement Instant Search with Flask and HTMX]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-implement-instant-search-with-flask-and-htmx/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-instant-search-with-flask-and-htmx/"/>
+        <updated>2024-07-22T11:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Instant search is a feature that shows search results as users type their query. Instead of waiting for a full page reload or submitting a form, results appear instantly, allowing users to find what they are looking for quickly. For example, when you start typing in a search box, suggestions]]></summary>
+        <author>
+            <name>Ashutosh Krishna</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Migrate a Flutter Application from GetIt to Bloc]]></title>
         <id>https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/</id>
