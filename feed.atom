@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T01:04:27.423Z</updated>
+    <updated>2024-07-26T01:03:39.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn System Design Principles and Prepare for an Job Interview]]></title>
+        <id>https://www.freecodecamp.org/news/learn-system-design-principles/</id>
+        <link href="https://www.freecodecamp.org/news/learn-system-design-principles/"/>
+        <updated>2024-07-25T14:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pop(over) the Balloons]]></title>
+        <id>https://css-tricks.com/?p=379281</id>
+        <link href="https://css-tricks.com/popover-the-balloons/"/>
+        <updated>2024-07-25T13:31:46.000Z</updated>
+        <summary type="html"><![CDATA[I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.
+You …
+Pop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>John Rhea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Sticky Notes App with React and Appwrite]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/"/>
+        <updated>2024-07-25T01:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to dive into an exciting project that combines the latest in frontend and backend technologies? Imagine having a personalized notes application with dynamic features like draggable notes, autosave, and customizable colors. Not only will...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 1)]]></title>
         <id>https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/</id>
@@ -810,66 +842,6 @@ Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOce
         <summary type="html"><![CDATA[Today's companies are data factories. Every interaction, transaction, and internal process generates a constant stream of information. This data holds immense value, promising to improve decision-making, streamline operations, and unlock deep customer insights.  But data often remains siloed and inaccessible. It may be spread across different departments and systems,]]></summary>
         <author>
             <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Make A Strong Case For Accessibility]]></title>
-        <id>https://smashingmagazine.com/2024/06/how-make-strong-case-accessibility/</id>
-        <link href="https://smashingmagazine.com/2024/06/how-make-strong-case-accessibility/"/>
-        <updated>2024-06-26T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gaining buy-in for accessibility can be challenging due to common myths and misunderstandings. For many, accessibility remains a big mystery. Here are some practical techniques for winning stakeholder support. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Database Migrations in Go Using Docker and Postgres]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/"/>
-        <updated>2024-06-26T11:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Go is a fast programming language with a relatively simple syntax. While learning Go, it is important to learn how to build APIs and how to use them to communicate with databases. In the process of learning, I decided to take on a project that helped me in that regard:]]></summary>
-        <author>
-            <name>Okure U. Edet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PySpark for Beginners – How to  Process Data with Apache Spark & Python]]></title>
-        <id>https://www.freecodecamp.org/news/pyspark-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/pyspark-for-beginners/"/>
-        <updated>2024-06-26T08:25:52.000Z</updated>
-        <summary type="html"><![CDATA[If you’re diving into the world of big data, you’ve probably come across the term PySpark. PySpark is a tool that makes managing and analyzing large datasets easier. In this article, we will see the basics of PySpark, its benefits, and how you can get started with it. What is]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scope, Closures, and Hoisting in JavaScript – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/scope-closures-and-hoisting-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/scope-closures-and-hoisting-in-javascript/"/>
-        <updated>2024-06-26T08:13:12.000Z</updated>
-        <summary type="html"><![CDATA[In the dynamic world of JavaScript, understanding the intricacies of scope, closures, and hoisting is fundamental for mastering the language and building robust applications. These concepts, though often misunderstood, play a crucial role in determining how variables and functions behave within the code. Scope dictates the accessibility of variables, closures]]></summary>
-        <author>
-            <name>Chidera Humphrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in React 19]]></title>
-        <id>https://www.freecodecamp.org/news/whats-new-in-react-19/</id>
-        <link href="https://www.freecodecamp.org/news/whats-new-in-react-19/"/>
-        <updated>2024-06-25T15:54:07.000Z</updated>
-        <summary type="html"><![CDATA[React 19 has just been released, bringing a wealth of new features and enhancements to this popular JavaScript library. For developers looking to stay ahead of the curve, understanding these updates is crucial. This course is designed to help you nav...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a ML Model with Azure Machine Learning Designer]]></title>
-        <id>https://www.freecodecamp.org/news/create-an-ml-model-with-azure-machine-learning-designer/</id>
-        <link href="https://www.freecodecamp.org/news/create-an-ml-model-with-azure-machine-learning-designer/"/>
-        <updated>2024-06-25T14:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Did you know that you can create machine learning models without writing any code? If you’re here, you’re probably curious about how to achieve this. In this article, I will guide you through building a regression model that predicts automobile prices using Azure Machine Learning’s Low-Code/No-Code tools.  Regression is]]></summary>
-        <author>
-            <name>Eniola Ajala</name>
         </author>
     </entry>
 </feed>

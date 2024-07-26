@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379281",
+          "author": "John Rhea",
+          "description": "I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.\nYou …\nPop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/popover-the-balloons/",
+          "publishedOn": "2024-07-25T13:31:46.000Z",
+          "wordCount": 3696,
+          "title": "Pop(over) the Balloons",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379281"
+        },
+        {
           "id": "https://css-tricks.com/?p=379278",
           "author": "Geoff Graham",
           "description": "These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …\nAlvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -201,21 +211,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/how-improve-microcopy-ux-writing-tips-non-ux-writers/how-improve-microcopy-ux-writing-tips-non-ux-writers.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/how-make-strong-case-accessibility/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Gaining buy-in for accessibility can be challenging due to common myths and misunderstandings. For many, accessibility remains a big mystery. Here are some practical techniques for winning stakeholder support. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
-          "link": "https://smashingmagazine.com/2024/06/how-make-strong-case-accessibility/",
-          "publishedOn": "2024-06-26T12:00:00.000Z",
-          "wordCount": 4510,
-          "title": "How To Make A Strong Case For Accessibility",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-make-strong-case-accessibility/how-make-strong-case-accessibility.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-make-strong-case-accessibility/how-make-strong-case-accessibility.jpg"
         }
       ]
     },
@@ -224,6 +219,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/learn-system-design-principles/",
+          "author": "Beau Carnes",
+          "description": "Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...",
+          "link": "https://www.freecodecamp.org/news/learn-system-design-principles/",
+          "publishedOn": "2024-07-25T14:44:21.000Z",
+          "wordCount": 1042,
+          "title": "Learn System Design Principles and Prepare for an Job Interview",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721918626724/720abc1b-4573-4264-b2c0-ef79b1ca3d8e.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to dive into an exciting project that combines the latest in frontend and backend technologies? Imagine having a personalized notes application with dynamic features like draggable notes, autosave, and customizable colors. Not only will...",
+          "link": "https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/",
+          "publishedOn": "2024-07-25T01:30:25.000Z",
+          "wordCount": 970,
+          "title": "Build a Sticky Notes App with React and Appwrite",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721870980147/977bfdd5-fdef-4cfc-bfa3-97c614faa8b9.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-an-interpretable-ai-deep-learning-model/",
           "author": "Tiago Monteiro",
@@ -873,56 +888,6 @@
           "wordCount": 3618,
           "title": "How to Build a RAG Chatbot with Agent Cloud and Google Sheets",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Orange---Yellow-Gradient-Make-Design-Blog-Banner--73-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/",
-          "author": "Okure U. Edet",
-          "description": "Go is a fast programming language with a relatively simple syntax. While learning Go, it is important to learn how to build APIs and how to use them to communicate with databases. In the process of learning, I decided to take on a project that helped me in that regard:",
-          "link": "https://www.freecodecamp.org/news/how-to-create-database-migrations-in-go/",
-          "publishedOn": "2024-06-26T11:40:41.000Z",
-          "wordCount": 2079,
-          "title": "How to Create Database Migrations in Go Using Docker and Postgres",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pyspark-for-beginners/",
-          "author": "Manish Shivanandhan",
-          "description": "If you’re diving into the world of big data, you’ve probably come across the term PySpark. PySpark is a tool that makes managing and analyzing large datasets easier. In this article, we will see the basics of PySpark, its benefits, and how you can get started with it. What is",
-          "link": "https://www.freecodecamp.org/news/pyspark-for-beginners/",
-          "publishedOn": "2024-06-26T08:25:52.000Z",
-          "wordCount": 1188,
-          "title": "PySpark for Beginners – How to  Process Data with Apache Spark & Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/pyspark.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/scope-closures-and-hoisting-in-javascript/",
-          "author": "Chidera Humphrey",
-          "description": "In the dynamic world of JavaScript, understanding the intricacies of scope, closures, and hoisting is fundamental for mastering the language and building robust applications. These concepts, though often misunderstood, play a crucial role in determining how variables and functions behave within the code. Scope dictates the accessibility of variables, closures",
-          "link": "https://www.freecodecamp.org/news/scope-closures-and-hoisting-in-javascript/",
-          "publishedOn": "2024-06-26T08:13:12.000Z",
-          "wordCount": 2139,
-          "title": "Scope, Closures, and Hoisting in JavaScript – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/How-to-connect-Firebase-Authentication-with-Golang-app_20240625_101105_0000-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/whats-new-in-react-19/",
-          "author": "Beau Carnes",
-          "description": "React 19 has just been released, bringing a wealth of new features and enhancements to this popular JavaScript library. For developers looking to stay ahead of the curve, understanding these updates is crucial. This course is designed to help you nav...",
-          "link": "https://www.freecodecamp.org/news/whats-new-in-react-19/",
-          "publishedOn": "2024-06-25T15:54:07.000Z",
-          "wordCount": 1153,
-          "title": "What's New in React 19",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1719330844344/800a24a8-98cd-4979-b062-9ff4cd1c35ad.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-an-ml-model-with-azure-machine-learning-designer/",
-          "author": "Eniola Ajala",
-          "description": "Did you know that you can create machine learning models without writing any code? If you’re here, you’re probably curious about how to achieve this. In this article, I will guide you through building a regression model that predicts automobile prices using Azure Machine Learning’s Low-Code/No-Code tools.  Regression is",
-          "link": "https://www.freecodecamp.org/news/create-an-ml-model-with-azure-machine-learning-designer/",
-          "publishedOn": "2024-06-25T14:45:20.000Z",
-          "wordCount": 3479,
-          "title": "How to Create a ML Model with Azure Machine Learning Designer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/F8825B00-8A4C-41D9-AE75-02A8631DE983.jpeg"
         }
       ]
     }
