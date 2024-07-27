@@ -74,16 +74,6 @@
           "wordCount": 2286,
           "title": "Transitioning to Auto Height",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378862"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378637",
-          "author": "Geoff Graham",
-          "description": "Oh, hey there! It’s been a hot minute, hasn’t it? Thought I’d pop in and say hello while we get to know the Popover API a bit.\nPoppin’ In originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/poppin-in/",
-          "publishedOn": "2024-06-26T16:37:05.000Z",
-          "wordCount": 2308,
-          "title": "Poppin’ In",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378637"
         }
       ]
     },
@@ -219,6 +209,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/",
+          "author": "Abhinav Pandey",
+          "description": "In this article, we'll explore how to develop a CRUD (Create, Read, Update, Delete) application using Spring Boot and Neon Postgres [https://neon.tech/]. We'll also deploy the application on Azure App Service [https://azure.microsoft.com/en-us/products/app-service] and make it production-ready by setting up features like autoscaling and multiple environments. You'll learn how Neon Postgres",
+          "link": "https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/",
+          "publishedOn": "2024-07-26T19:14:36.000Z",
+          "wordCount": 2484,
+          "title": "How to Develop a CRUD App with Spring Boot, Neon Postgres, and Azure App Service",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/neon-banner.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-john-washam-crammed-for-8-months-got-a-job-at-amazon-then-taught-1000s-of-other-devs-134/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview John Washam, a software engineer at Amazon. John's also creator of one of the most popular open source projects of all time, Coding Interview University. This is John's first-ever podcast interview, ...",
+          "link": "https://www.freecodecamp.org/news/how-john-washam-crammed-for-8-months-got-a-job-at-amazon-then-taught-1000s-of-other-devs-134/",
+          "publishedOn": "2024-07-26T14:25:13.000Z",
+          "wordCount": 848,
+          "title": "How to get a FAANG Dev Job in your 40s with Coding Interview University creator John Washam [#134]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1722003876140/020d65a7-c3d0-4927-8b45-326f9766edaf.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/overcome-impostor-syndrome-as-a-developer/",
+          "author": "Marco Venturi",
+          "description": "Impostor syndrome is a pervasive feeling of self-doubt and inadequacy that makes you believe you are a fraud despite your achievements and skills.  For new developers – and sometimes even seasoned professionals – this phenomenon can be particularly challenging as you navigate a fast-paced and ever-evolving industry.  But",
+          "link": "https://www.freecodecamp.org/news/overcome-impostor-syndrome-as-a-developer/",
+          "publishedOn": "2024-07-26T14:23:36.000Z",
+          "wordCount": 2177,
+          "title": "How to Overcome Impostor Syndrome as a Developer",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/man-3483205_1280-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/creational-design-patterns-in-java/",
+          "author": "Anjan Baradwaj",
+          "description": "Design Patterns provide you with an idea or a strategy for solving commonly occurring problems. They are proven solutions that follow the best practices and help you make your code flexible, reusable, and maintainable. The design patterns are classified into three categories based on their purpose:  * Creational",
+          "link": "https://www.freecodecamp.org/news/creational-design-patterns-in-java/",
+          "publishedOn": "2024-07-26T13:04:50.000Z",
+          "wordCount": 2874,
+          "title": "What are Creational Design Patterns in Java? Explained With Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Creational.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/generative-models-for-data-augmentation/",
+          "author": "Oyedele Tioluwani Taiwo",
+          "description": "Data is at the heart of model training in the world of deep learning. The quantity and quality of training data determine the effectiveness of machine learning algorithms.  On the other hand, obtaining massive amounts of precisely categorized data is a difficult and resource-intensive operation. This is where data",
+          "link": "https://www.freecodecamp.org/news/generative-models-for-data-augmentation/",
+          "publishedOn": "2024-07-26T12:22:23.000Z",
+          "wordCount": 2117,
+          "title": "How Do Generative Models Work in Deep Learning? Generative Models For Data Augmentation Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/glenn-carstens-peters-1F4MukO0UNg-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-recursion/",
+          "author": "Palistha",
+          "description": "In this article, you will learn about recursion and how it works. You need a good understanding of how functions work before learning recursion. I have used Python code for examples in this article because of its simple syntax, but the concept of recursion is the same for every programming",
+          "link": "https://www.freecodecamp.org/news/what-is-recursion/",
+          "publishedOn": "2024-07-25T15:03:00.000Z",
+          "wordCount": 2390,
+          "title": "How Does Recursion Work? Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Frame-1--6-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-system-design-principles/",
           "author": "Beau Carnes",
@@ -868,26 +918,6 @@
           "wordCount": 784,
           "title": "From Fashion to Software Engineer with Alison Yoon [Podcast #130]",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1719586519264/2a48adf1-4bca-4cf7-8cb6-c40471453d6e.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/migrate-from-play-core-library/",
-          "author": "Tomer Ben Rachel",
-          "description": "You may have recently received an email from Google Play Store stating the following: > Update your Play Core Maven dependency to an Android 14 compatible version! Your current Play Core library is incompatible with targetSdkVersion 34 (Android 14), which introduces a backwards-incompatible change to broadcast receivers to improve user",
-          "link": "https://www.freecodecamp.org/news/migrate-from-play-core-library/",
-          "publishedOn": "2024-06-26T17:53:46.000Z",
-          "wordCount": 1105,
-          "title": "How to Migrate from Play Core Library",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/06/ben-hershey-fnRKVPx5_xY-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-rag-chatbot-agent-cloud-google-sheets/",
-          "author": "Ankur Tyagi",
-          "description": "Today's companies are data factories. Every interaction, transaction, and internal process generates a constant stream of information. This data holds immense value, promising to improve decision-making, streamline operations, and unlock deep customer insights.  But data often remains siloed and inaccessible. It may be spread across different departments and systems,",
-          "link": "https://www.freecodecamp.org/news/build-a-rag-chatbot-agent-cloud-google-sheets/",
-          "publishedOn": "2024-06-26T14:43:10.000Z",
-          "wordCount": 3618,
-          "title": "How to Build a RAG Chatbot with Agent Cloud and Google Sheets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/05/Orange---Yellow-Gradient-Make-Design-Blog-Banner--73-.png"
         }
       ]
     }
