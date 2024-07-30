@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379318",
+          "author": "Juan Diego Rodríguez",
+          "description": "This post came up following a conversation I had with Emilio Cobos — a senior developer at Mozilla and member of the CSSWG — about the last CSSWG group meeting. I wanted to know what he thought were the …\nLetter Spacing is Broken and There’s Nothing We Can Do About It… Maybe originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/letter-spacing-is-broken-and-theres-nothing-we-can-do-about-it-maybe/",
+          "publishedOn": "2024-07-29T16:41:34.000Z",
+          "wordCount": 2853,
+          "title": "Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379318"
+        },
+        {
           "id": "https://css-tricks.com/?p=379281",
           "author": "John Rhea",
           "description": "I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.\nYou …\nPop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -72,6 +82,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.",
+          "link": "https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/",
+          "publishedOn": "2024-07-29T18:00:00.000Z",
+          "wordCount": 4303,
+          "title": "Rethinking The Role Of Your UX Teams And Move Beyond Firefighting",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/rethinking-role-ux-teams-mov-beyond-firefighting/rethinking-role-ux-teams-mov-beyond-firefighting.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/rethinking-role-ux-teams-mov-beyond-firefighting/rethinking-role-ux-teams-mov-beyond-firefighting.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/",
           "author": "hello@smashingmagazine.com (Joas Pambou)",
@@ -161,21 +186,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/customer-journey-maps-figma-miro-templates/customer-journey-maps-figma-miro-templates.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/06/desktop-wallpaper-calendars-july-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome the new month with some fresh desktop wallpapers! Created by artists and designers from across the globe, they come in versions with and without a calendar for July 2024. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/06/desktop-wallpaper-calendars-july-2024/",
-          "publishedOn": "2024-06-30T08:00:00.000Z",
-          "wordCount": 4964,
-          "title": "Tales Of An Eternal Summer (July 2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c52c6aad-ac2c-4fd9-9aa6-528d7bf7bf6e/july-20-birdie-july-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c52c6aad-ac2c-4fd9-9aa6-528d7bf7bf6e/july-20-birdie-july-preview-opt.png"
         }
       ]
     },
@@ -184,6 +194,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/prompt-engineering-basics/",
+          "author": "Valentine Gatwiri",
+          "description": "Thanks to the popularity of various Large-Language Models like ChatGPT, prompt engineering has become a key skill for developers (and non-developers) to have. It's important if you want to be able to tap into the full potential of these models. Whether you're a developer, researcher, or general user, knowing how",
+          "link": "https://www.freecodecamp.org/news/prompt-engineering-basics/",
+          "publishedOn": "2024-07-29T19:22:13.000Z",
+          "wordCount": 1839,
+          "title": "Prompt Engineering Basics – How to Write Effective AI Prompts",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Screenshot-from-2024-07-27-11-25-56.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/using-entity-framework-core-with-mongodb/",
+          "author": "Beau Carnes",
+          "description": "Entity Framework Core is a popular ORM (Object-Relational Mapper) for .NET applications, allowing developers to work with databases using .NET objects. It can be used with many types of databases, including MongoDB. In this article, you will learn ho...",
+          "link": "https://www.freecodecamp.org/news/using-entity-framework-core-with-mongodb/",
+          "publishedOn": "2024-07-29T14:45:20.000Z",
+          "wordCount": 7308,
+          "title": "Using Entity Framework Core with MongoDB",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1721834746254/fb4a9197-8076-48a5-b402-116d8289863c.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-local-storage-in-blazor-apps/",
+          "author": "FADAHUNSI SEYI SAMUEL",
+          "description": "One critical feature of modern web applications is their ability to store and retrieve data on the client side [https://www.cloudflare.com/learning/serverless/glossary/client-side-vs-server-side/] . This is where local storage [https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage] comes into play. In this article, we'll explore how to leverage the power of the Blazored LocalStorage NuGet package [https://www.nuget.org/packages/Blazored.LocalStorage] to seamlessly integrate",
+          "link": "https://www.freecodecamp.org/news/use-local-storage-in-blazor-apps/",
+          "publishedOn": "2024-07-29T13:55:34.000Z",
+          "wordCount": 3436,
+          "title": "How to Add Local Storage to Your Blazor Apps with Blazored.LocalStorage",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/pexels-pixabay-236698.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/",
           "author": "Abhinav Pandey",
