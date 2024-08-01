@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T00:53:58.161Z</updated>
+    <updated>2024-08-01T01:10:19.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Functions and Mixins Module Notes]]></title>
+        <id>https://css-tricks.com/?p=378995</id>
+        <link href="https://css-tricks.com/css-functions-and-mixins-module-notes/"/>
+        <updated>2024-07-31T20:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …
+CSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where You Can Still Get A Book Apart Titles]]></title>
+        <id>https://css-tricks.com/?p=379392</id>
+        <link href="https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/"/>
+        <updated>2024-07-31T14:52:44.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a few months out since A Book Apart closed shop. I’m sad about it, of course. You probably are, too, if you have one of their many brightly-colored paperbacks sitting on a bookshelf strategically placed as a backdrop …
+Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add JWT-Based Authentication in NestJS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/"/>
+        <updated>2024-07-31T14:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Authentication is a very important aspect of software development. It is the process of verifying a user’s identity. Authentication ensures that only authorized individuals access specific resources or perform certain actions within a system. It provides accountability by enabling the tracking of user actions and holding individuals responsible for their]]></summary>
+        <author>
+            <name>Abimbola Adedotun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn C# for Unity in Spanish]]></title>
+        <id>https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/</id>
+        <link href="https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/"/>
+        <updated>2024-07-31T12:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Unity is a very popular and powerful game engine that relies on C# as its primary scripting language. Learn how to bring your games to life with Unity and C#. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide ...]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweet Nostalgia In August (2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/</id>
+        <link href="https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/"/>
+        <updated>2024-07-31T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's New in macOS? How to Install the Sequoia Beta]]></title>
         <id>https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/</id>
@@ -833,26 +885,6 @@ CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[I have been a frontend developer for over 6 years now, mostly working with Javascript, TypeScript, and React. When stepping into the world of the front end, the number of libraries and build tools available can be overwhelming – especially since each has its own configuration options. At first these]]></summary>
         <author>
             <name>Keyur Paralkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go for Absolute Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/go-for-absolute-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/go-for-absolute-beginners/"/>
-        <updated>2024-07-01T16:23:25.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to dive into a new programming language that is both powerful and efficient? Go, also known as Golang, is a modern language that has quickly become a favorite among developers for its simplicity and performance. Whether you're a seaso...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use JAWS on Windows]]></title>
-        <id>https://www.freecodecamp.org/news/howto-use-jaws-on-windows/</id>
-        <link href="https://www.freecodecamp.org/news/howto-use-jaws-on-windows/"/>
-        <updated>2024-07-01T16:07:39.000Z</updated>
-        <summary type="html"><![CDATA[JAWS (Job Access With Speech) is a screen reader for the Windows operating system. JAWS assists individuals with visual impairments in interacting with computers by helping them navigate applications, read documents, and browse the web. According to WebAIM [https://webaim.org/projects/screenreadersurvey9/#primary], JAWS is the most popular screen reader on the market as]]></summary>
-        <author>
-            <name>Ilknur Eren</name>
         </author>
     </entry>
 </feed>
