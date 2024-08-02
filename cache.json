@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379335",
+          "author": "Kev Bonett",
+          "description": "I have to thank Jeremy Keith and his wonderfully insightful article from late last year that introduced me to the concept of HTML Web Components. This was the “a-ha!” moment for me:\nWhen you wrap some existing markup in a \n…\nHTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/",
+          "publishedOn": "2024-08-01T13:21:37.000Z",
+          "wordCount": 3658,
+          "title": "HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379335"
+        },
+        {
           "id": "https://css-tricks.com/?p=378995",
           "author": "Geoff Graham",
           "description": "Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …\nCSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -112,6 +122,21 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
+          "author": "hello@smashingmagazine.com (Tim Benniks)",
+          "description": "Handling translations for multilingual websites is famously difficult and, yet, crucial for many companies and organizations that serve a global audience. Thankfully, modern tooling abstracts away a great deal of the work, allowing for seamless translations that dynamically update the rendered content on a page, as demonstrated in this step-by-step tutorial.",
+          "link": "https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
+          "publishedOn": "2024-08-01T15:00:00.000Z",
+          "wordCount": 5732,
+          "title": "How To Build A Multilingual Website With Nuxt.js",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-build-multilingual-website-nuxtjs/how-build-multilingual-website-nuxt.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-build-multilingual-website-nuxtjs/how-build-multilingual-website-nuxt.jpg"
+        },
         {
           "id": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -239,6 +264,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/",
+          "author": "Ankur Tyagi",
+          "description": "In this tutorial, you will learn how to build an invoicing web app that allows users to add their bank information, manage a list of customers, and create and send invoices to customers. You'll also learn how to print and send React components as invoices and email templates directly from",
+          "link": "https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/",
+          "publishedOn": "2024-08-01T20:58:01.000Z",
+          "wordCount": 5580,
+          "title": "How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Orange---Yellow-Gradient-Make-Design-Blog-Banner--79-.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/",
           "author": "Abimbola Adedotun",
@@ -898,36 +933,6 @@
           "wordCount": 6844,
           "title": "Data Flow in Redux Explained – A State Management Handbook",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/Data-Flow-in-Redux-Explained-Cover-No-Photo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-19-actions-simpliy-form-submission-and-loading-states/",
-          "author": "Shruti Kapoor",
-          "description": "React 19 introduces Actions, which are asynchronous functions. Actions are helpful in making form submissions easier. This tutorial dives into what Actions are and how to use them. You'll learn about:  1. The new React 19 feature, Actions  2. The new React 19 hooks, useActionState and useFormStatus",
-          "link": "https://www.freecodecamp.org/news/react-19-actions-simpliy-form-submission-and-loading-states/",
-          "publishedOn": "2024-07-02T21:29:47.000Z",
-          "wordCount": 1400,
-          "title": "React 19 Actions – How to Simplify Form Submission and Loading States",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/React--1-.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/excel-vs-google-sheets-tables/",
-          "author": "Eamonn Cottrell",
-          "description": "Google Sheets recently released an all new feature: tables. Well, new is a bit of an overstatement. Excel has had proper tables for many, many years, and it's been a point of contention in the spreadsheet community. In this article, I'll break down what exactly tables are, why they're important,",
-          "link": "https://www.freecodecamp.org/news/excel-vs-google-sheets-tables/",
-          "publishedOn": "2024-07-02T17:27:11.000Z",
-          "wordCount": 2509,
-          "title": "How to Work with Tables in Excel vs Google Sheets",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/4.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/",
-          "author": "Keyur Paralkar",
-          "description": "I have been a frontend developer for over 6 years now, mostly working with Javascript, TypeScript, and React. When stepping into the world of the front end, the number of libraries and build tools available can be overwhelming – especially since each has its own configuration options. At first these",
-          "link": "https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/",
-          "publishedOn": "2024-07-02T15:56:38.000Z",
-          "wordCount": 4373,
-          "title": "How to Improve Your JavaScript Code with Powerful Build Tool Configs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/07/aaron-burden-4eWwSxaDhe4-unsplash.jpg"
         }
       ]
     }

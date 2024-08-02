@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-01T01:10:19.009Z</updated>
+    <updated>2024-08-02T01:04:19.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres]]></title>
+        <id>https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/</id>
+        <link href="https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/"/>
+        <updated>2024-08-01T20:58:01.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn how to build an invoicing web app that allows users to add their bank information, manage a list of customers, and create and send invoices to customers. You'll also learn how to print and send React components as invoices and email templates directly from]]></summary>
+        <author>
+            <name>Ankur Tyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Multilingual Website With Nuxt.js]]></title>
+        <id>https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/</id>
+        <link href="https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/"/>
+        <updated>2024-08-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Handling translations for multilingual websites is famously difficult and, yet, crucial for many companies and organizations that serve a global audience. Thankfully, modern tooling abstracts away a great deal of the work, allowing for seamless translations that dynamically update the rendered content on a page, as demonstrated in this step-by-step tutorial.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tim Benniks)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!]]></title>
+        <id>https://css-tricks.com/?p=379335</id>
+        <link href="https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/"/>
+        <updated>2024-08-01T13:21:37.000Z</updated>
+        <summary type="html"><![CDATA[I have to thank Jeremy Keith and his wonderfully insightful article from late last year that introduced me to the concept of HTML Web Components. This was the “a-ha!” moment for me:
+When you wrap some existing markup in a 
+…
+HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Kev Bonett</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Functions and Mixins Module Notes]]></title>
         <id>https://css-tricks.com/?p=378995</id>
@@ -855,36 +888,6 @@ CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[In complex React applications, managing application state effectively can become a challenge. This is where Redux, a predictable state management library, steps in. By introducing a unidirectional data flow, Redux brings order and clarity to how data updates and interacts within your React components. This article discusses the inner workings]]></summary>
         <author>
             <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 19 Actions – How to Simplify Form Submission and Loading States]]></title>
-        <id>https://www.freecodecamp.org/news/react-19-actions-simpliy-form-submission-and-loading-states/</id>
-        <link href="https://www.freecodecamp.org/news/react-19-actions-simpliy-form-submission-and-loading-states/"/>
-        <updated>2024-07-02T21:29:47.000Z</updated>
-        <summary type="html"><![CDATA[React 19 introduces Actions, which are asynchronous functions. Actions are helpful in making form submissions easier. This tutorial dives into what Actions are and how to use them. You'll learn about:  1. The new React 19 feature, Actions  2. The new React 19 hooks, useActionState and useFormStatus]]></summary>
-        <author>
-            <name>Shruti Kapoor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with Tables in Excel vs Google Sheets]]></title>
-        <id>https://www.freecodecamp.org/news/excel-vs-google-sheets-tables/</id>
-        <link href="https://www.freecodecamp.org/news/excel-vs-google-sheets-tables/"/>
-        <updated>2024-07-02T17:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Google Sheets recently released an all new feature: tables. Well, new is a bit of an overstatement. Excel has had proper tables for many, many years, and it's been a point of contention in the spreadsheet community. In this article, I'll break down what exactly tables are, why they're important,]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Improve Your JavaScript Code with Powerful Build Tool Configs]]></title>
-        <id>https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/</id>
-        <link href="https://www.freecodecamp.org/news/improve-your-javascript-projects-with-build-tools/"/>
-        <updated>2024-07-02T15:56:38.000Z</updated>
-        <summary type="html"><![CDATA[I have been a frontend developer for over 6 years now, mostly working with Javascript, TypeScript, and React. When stepping into the world of the front end, the number of libraries and build tools available can be overwhelming – especially since each has its own configuration options. At first these]]></summary>
-        <author>
-            <name>Keyur Paralkar</name>
         </author>
     </entry>
 </feed>
