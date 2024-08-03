@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-02T01:04:19.698Z</updated>
+    <updated>2024-08-03T01:03:52.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(Hyper) Links About (Hyper) Links]]></title>
+        <id>https://css-tricks.com/?p=379420</id>
+        <link href="https://css-tricks.com/hyper-links-about-hyper-links/"/>
+        <updated>2024-08-02T16:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Heydon on the virtues of hyperlinking hypertext in an anchor element:
+Sometimes, the <a> is referred to as a hyperlink, or simply a link. But it is not one of these and people who say it is one are 
+…
+(Hyper) Links About (Hyper) Links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where Data Science meets Sports Analytics with Ken Jee [Podcast Interview #135]]]></title>
+        <id>https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/</id>
+        <link href="https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/"/>
+        <updated>2024-08-02T14:00:41.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Ken Jee. Ken's a Data Scientist. He's also a Sports Analytics practitioner who works with US Team Golf and USA Basketball. Ken hosts the excellent Ken's Nearest Neighbors podcast and the Exponential ...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Grafana on EC2]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-set-up-grafana-on-ec2/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-set-up-grafana-on-ec2/"/>
+        <updated>2024-08-02T13:42:27.000Z</updated>
+        <summary type="html"><![CDATA[In today's data-driven world, it's important to monitor and visualize system metrics to make sure everything works consistently and performs well.  Grafana is an open-source analytics and monitoring platform. It has gained widespread recognition among developers and enterprises looking to extract more insights from the data produced by their]]></summary>
+        <author>
+            <name>Onwubiko Emmanuel Ebere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/</id>
+        <link href="https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/"/>
+        <updated>2024-08-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres]]></title>
         <id>https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/</id>
@@ -24,6 +67,16 @@
         <summary type="html"><![CDATA[Handling translations for multilingual websites is famously difficult and, yet, crucial for many companies and organizations that serve a global audience. Thankfully, modern tooling abstracts away a great deal of the work, allowing for seamless translations that dynamically update the rendered content on a page, as demonstrated in this step-by-step tutorial.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tim Benniks)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn RAG Fundamentals and Advanced Techniques]]></title>
+        <id>https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/</id>
+        <link href="https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/"/>
+        <updated>2024-08-01T14:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Understanding how to enhance the capabilities of AI and machine learning systems is a valuable skill. One method is Retrieval-Augmented Generation (RAG), a powerful technique that combines retrieval-based methods with generative models to create more...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -858,36 +911,6 @@ CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Scott Hanselman. Scott's a developer at Microsoft, a prolific teacher, and has hosted the Hanselminutes podcast for nearly two decades. We talk about: How he leads a fully-remote team from his home ...]]></summary>
         <author>
             <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Callback Functions in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-callback-functions-in-javascript/"/>
-        <updated>2024-07-03T21:24:22.000Z</updated>
-        <summary type="html"><![CDATA[When you're building dynamic applications with JavaScript that display real-time data – like a weather app or live sports dashboard – you'll need a way to automatically fetch new data from an external source without disrupting the user experience.  You can do this using JavaScript's callback functions, which showcase]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel Praise</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Meditation App with React Native & Expo Router]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-meditation-app-with-react-native-expo-router/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-meditation-app-with-react-native-expo-router/"/>
-        <updated>2024-07-03T16:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Are you looking to enhance your React Native skills while creating a practical and soothing application? This new course from freeCodeCamp.org is perfect for you! You'll learn how to build a meditation app using Expo, an open-source platform for maki...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Flow in Redux Explained – A State Management Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/how-data-flows-in-redux/</id>
-        <link href="https://www.freecodecamp.org/news/how-data-flows-in-redux/"/>
-        <updated>2024-07-03T13:45:02.000Z</updated>
-        <summary type="html"><![CDATA[In complex React applications, managing application state effectively can become a challenge. This is where Redux, a predictable state management library, steps in. By introducing a unidirectional data flow, Redux brings order and clarity to how data updates and interacts within your React components. This article discusses the inner workings]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
 </feed>
