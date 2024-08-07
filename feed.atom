@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-06T01:04:47.412Z</updated>
+    <updated>2024-08-07T01:05:44.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn About Operating Systems In-Depth]]></title>
+        <id>https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/</id>
+        <link href="https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/"/>
+        <updated>2024-08-06T14:29:33.000Z</updated>
+        <summary type="html"><![CDATA[For many types of software engineers it is important to understand the fundamentals of operating systems. We just published a massive 25-hour course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of operating syste...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Rocket Control System: Basic Control Theory with Python]]></title>
+        <id>https://www.freecodecamp.org/news/basic-control-theory-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/basic-control-theory-with-python/"/>
+        <updated>2024-08-06T14:26:44.000Z</updated>
+        <summary type="html"><![CDATA[$$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - rS \frac{\partial V}{\partial S}$$  Rocket transfer function]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Index Your Next.js Apps Faster Using IndexNow]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/"/>
+        <updated>2024-08-06T13:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Next.js is a powerful framework for building lightning-fast applications. However, getting these applications indexed quickly by search engines is crucial for visibility and traffic, and sadly, this is not immediate. Even after uploading your sitemap, it can take up to weeks or even months before search engines crawl your pages.]]></summary>
+        <author>
+            <name>Vivek Sahu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build an Application With Node.js]]></title>
         <id>https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/</id>
@@ -901,36 +931,6 @@ CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Building an e-commerce app can be a time-consuming task, but with the right tools, it becomes much more manageable. In this guide, we'll explore how to create a robust Vue.js e-commerce application using Mock Service Worker (MSW) to simulate backend interactions.  Whether you're a seasoned developer or just starting]]></summary>
         <author>
             <name>Abhijeet Dave</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Markov Chains? Explained With Python Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-markov-chain/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-markov-chain/"/>
-        <updated>2024-07-08T12:53:27.000Z</updated>
-        <summary type="html"><![CDATA[There are various mathematical tools that can be used to predict the near future based on a current state. One of the most widely used are Markov chains. Markov chains allow you to predict the uncertainty of future events under certain conditions. For this reason, it is widely used in]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​​How to Upload Large Files Efficiently with AWS S3 Multipart Upload]]></title>
-        <id>https://www.freecodecamp.org/news/upload-large-files-with-aws/</id>
-        <link href="https://www.freecodecamp.org/news/upload-large-files-with-aws/"/>
-        <updated>2024-07-08T12:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Imagine running a media streaming platform where users upload large high-definition videos. Uploading such large files can be slow and may fail if the network is unreliable.  Using traditional single-part uploads can be cumbersome and inefficient for large files, often leading to timeout errors or the need to restart]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful Customer Journey Maps (+ Figma & Miro Templates)]]></title>
-        <id>https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/</id>
-        <link href="https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/"/>
-        <updated>2024-07-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Visualize the user experience with user journey maps. Here are some helpful templates, real-world applications, and insights on the importance of mapping both successful and unsuccessful touchpoints. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
