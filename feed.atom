@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T01:05:44.622Z</updated>
+    <updated>2024-08-08T01:05:20.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create a PC game using JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/"/>
+        <updated>2024-08-07T14:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Did you know you can create PC games using JavaScript? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about making a Flappy Bird-like game in JavaScript with the KAPLAY library, and how to use Tauri to pack...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/"/>
+        <updated>2024-08-07T13:42:54.000Z</updated>
+        <summary type="html"><![CDATA[In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is important. This is exactly the problem Kalman filters help solve.]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Olympic Rings]]></title>
+        <id>https://css-tricks.com/?p=379541</id>
+        <link href="https://css-tricks.com/css-olympic-rings/"/>
+        <updated>2024-08-07T13:10:56.000Z</updated>
+        <summary type="html"><![CDATA[It was a few years ago during the 2020 Olympics in Tokyo 2020 that I made a demo of animated 3D Olympic rings. I like it, it looks great, and I love the effect of the rings crossing each other.…
+CSS Olympic Rings originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common React Mistakes to Avoid]]></title>
+        <id>https://www.freecodecamp.org/news/react-common-mistakes/</id>
+        <link href="https://www.freecodecamp.org/news/react-common-mistakes/"/>
+        <updated>2024-08-06T22:19:05.000Z</updated>
+        <summary type="html"><![CDATA[React is a highly popular and powerful JavaScript library for user interface development. Its component-based architecture, combined with its declarative nature, is one of the primary reasons it works well for both small and large-scale applications.  But like with any technology, there are pitfalls that you can fall into]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn About Operating Systems In-Depth]]></title>
         <id>https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/</id>
@@ -911,26 +952,6 @@ CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[Deep learning models have transformed several industries, including computer vision and natural language processing. However, the rising complexity and resource requirements of these models have motivated academics to look into ways to condense their knowledge into more compact and efficient forms. Knowledge distillation, a strategy for transferring knowledge from a]]></summary>
         <author>
             <name>Oyedele Tioluwani Taiwo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform Load Testing in Spring Boot with Gatling]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-integrate-spring-boot-with-gatling/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-integrate-spring-boot-with-gatling/"/>
-        <updated>2024-07-08T19:46:57.000Z</updated>
-        <summary type="html"><![CDATA[To evaluate the performance of a system, you need a tool that can simulate its behavior in production.  For this purpose, you can use a software tool based on Scala [https://www.scala-lang.org/] called Gatling [https://gatling.io/]. This article will teach you how to integrate it into a Spring Boot [https://spring.io/projects/spring-boot] application]]></summary>
-        <author>
-            <name>Mario Casari</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Vue E-commerce App Using MSW]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-vue-ecommerce-app-using-msw/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-vue-ecommerce-app-using-msw/"/>
-        <updated>2024-07-08T18:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Building an e-commerce app can be a time-consuming task, but with the right tools, it becomes much more manageable. In this guide, we'll explore how to create a robust Vue.js e-commerce application using Mock Service Worker (MSW) to simulate backend interactions.  Whether you're a seasoned developer or just starting]]></summary>
-        <author>
-            <name>Abhijeet Dave</name>
         </author>
     </entry>
 </feed>
