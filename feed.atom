@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-12T01:07:22.131Z</updated>
+    <updated>2024-08-13T01:06:56.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mental Health in Tech Podcast Interview]]></title>
+        <id>https://css-tricks.com/?p=379717</id>
+        <link href="https://css-tricks.com/mental-health-in-tech-podcast-interview/"/>
+        <updated>2024-08-12T17:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Mental health is always tough to talk about, especially in an industry that, to me, often rewards ego over vulnerability. I still find it tough even after having written about my own chronic depression and exploring UX case studies about …
+Mental Health in Tech Podcast Interview originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #9]]></title>
+        <id>https://css-tricks.com/?p=379747</id>
+        <link href="https://css-tricks.com/quick-hit-9/"/>
+        <updated>2024-08-12T16:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Heydon with a reminder that <address isn’t for, you know, mailing addresses.…
+Quick Hit #9 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Match Parentheses in JavaScript without Using Regex]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/"/>
+        <updated>2024-08-12T15:23:47.000Z</updated>
+        <summary type="html"><![CDATA[While writing my Lisp interpreter (for the Scheme dialect, to be precise), I decided to include support for square brackets. I did this because some of the Scheme books use them interchangeably with parentheses. But I didn't want to make the parser t...]]></summary>
+        <author>
+            <name>Jakub T. Jankiewicz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimate AWS Certified Developer Associate (DVA-C02) Course from Andrew Brown]]></title>
+        <id>https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/</id>
+        <link href="https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/"/>
+        <updated>2024-08-12T14:33:22.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to elevate your AWS skills and become a certified AWS Developer Associate? Look no further! The comprehensive AWS Certified Developer Associate (DVA-C02) course by Andrew Brown is now available for free on the freeCodeCamp.org YouTube c...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Attribute to Allow/Disallow Handwriting Input]]></title>
+        <id>https://css-tricks.com/?p=379644</id>
+        <link href="https://css-tricks.com/html-attribute-to-allow-disallow-handwriting-input/"/>
+        <updated>2024-08-12T14:00:47.000Z</updated>
+        <summary type="html"><![CDATA[A new explainer for a new HTML attribute to handle handwritten inputs. Like this:
+<input type="text" handwriting="true" ... <input type="text" handwriting="false" ... <textarea handwriting="" ... <!-- evaluates to "true" --<div contenteditable handwriting="true"...</div<!-- maybe? --
+The primary use …
+HTML Attribute to Allow/Disallow Handwriting Input originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relative Vs Dynamic Routing in React – Different Routing Methods with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/"/>
+        <updated>2024-08-12T13:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Single-Page Applications (SPAs) have been growing in popularity as people become accustomed to better user experiences and improved application responsiveness. This is in part thanks to the introduction of Client-Side Routing (CSR). CSR enables navig...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Java HashMaps Work – Internal Mechanics Explained]]></title>
         <id>https://www.freecodecamp.org/news/how-java-hashmaps-work-internal-mechanics-explained/</id>
