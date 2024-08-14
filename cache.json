@@ -6,6 +6,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=379750",
+          "author": "Geoff Graham",
+          "description": "You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:\nI wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space \n…\nfont-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/font-size-limbo/",
+          "publishedOn": "2024-08-13T13:15:58.000Z",
+          "wordCount": 2283,
+          "title": "font-size Limbo",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379750"
+        },
+        {
           "id": "https://css-tricks.com/?p=379717",
           "author": "Geoff Graham",
           "description": "Mental health is always tough to talk about, especially in an industry that, to me, often rewards ego over vulnerability. I still find it tough even after having written about my own chronic depression and exploring UX case studies about …\nMental Health in Tech Podcast Interview originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -341,21 +351,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/build-design-systems-penpot-components/build-design-systems-penpot-components.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/",
-          "author": "hello@smashingmagazine.com (Yinjian Huang)",
-          "description": "This in-depth guide takes you through the three crucial phases of conversational search, revealing how users express their needs, explore results, and refine their queries. Learn how AI agents can overcome communication barriers, personalize the search experience, and adapt to evolving user intent.",
-          "link": "https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/",
-          "publishedOn": "2024-07-15T09:00:00.000Z",
-          "wordCount": 5493,
-          "title": "How To Design Effective Conversational AI Experiences: A Comprehensive Guide",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-design-effective-conversational-ai-experiences-guide/how-design-effective-conversational-ai-experiences-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-design-effective-conversational-ai-experiences-guide/how-design-effective-conversational-ai-experiences-guide.jpg"
         }
       ]
     },
@@ -364,6 +359,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/",
+          "author": "Alex Pliutau",
+          "description": "Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...",
+          "link": "https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/",
+          "publishedOn": "2024-08-13T20:30:58.000Z",
+          "wordCount": 1947,
+          "title": "How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723496940277/5fe7a894-9c67-40fd-95c4-64ef32444a4d.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/merge-word-documents-in-python/",
+          "author": "Vikram Aruchamy",
+          "description": "In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...",
+          "link": "https://www.freecodecamp.org/news/merge-word-documents-in-python/",
+          "publishedOn": "2024-08-13T17:19:23.000Z",
+          "wordCount": 2137,
+          "title": "How to Merge Word Documents in Python – Three Effective Methods with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723552225928/558a428b-d6a1-487c-a563-5aa6bee8e029.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/",
+          "author": "Andrico Karoulla",
+          "description": "If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...",
+          "link": "https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/",
+          "publishedOn": "2024-08-13T14:58:56.000Z",
+          "wordCount": 4952,
+          "title": "What is a Component Library? When to Build Your Own and When to Use Someone Else's",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723543483889/400c638b-4a6f-430a-92c3-4d8a7b750464.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management/",
+          "author": "Nitheesh Poojary",
+          "description": "In the past, in the bustling world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment resided in a separate account. T...",
+          "link": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management/",
+          "publishedOn": "2024-08-13T08:16:05.000Z",
+          "wordCount": 3461,
+          "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723319622530/a9905b60-958a-4953-a960-5c2cdf5268ec.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/",
+          "author": "Ijeoma Igboagu",
+          "description": "In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...",
+          "link": "https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/",
+          "publishedOn": "2024-08-12T21:21:39.000Z",
+          "wordCount": 1315,
+          "title": "How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723497228942/b766b557-8230-4bef-8392-d3f4f020c1f4.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/",
           "author": "Jakub T. Jankiewicz",

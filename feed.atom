@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-13T01:06:56.618Z</updated>
+    <updated>2024-08-14T01:05:49.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns]]></title>
+        <id>https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/</id>
+        <link href="https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/"/>
+        <updated>2024-08-13T20:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Merge Word Documents in Python – Three Effective Methods with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/merge-word-documents-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/merge-word-documents-in-python/"/>
+        <updated>2024-08-13T17:19:23.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...]]></summary>
+        <author>
+            <name>Vikram Aruchamy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Component Library? When to Build Your Own and When to Use Someone Else's]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/"/>
+        <updated>2024-08-13T14:58:56.000Z</updated>
+        <summary type="html"><![CDATA[If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...]]></summary>
+        <author>
+            <name>Andrico Karoulla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[font-size Limbo]]></title>
+        <id>https://css-tricks.com/?p=379750</id>
+        <link href="https://css-tricks.com/font-size-limbo/"/>
+        <updated>2024-08-13T13:15:58.000Z</updated>
+        <summary type="html"><![CDATA[You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:
+I wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space 
+…
+font-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify AWS Multi-Account Management with Terraform and GitOps]]></title>
+        <id>https://www.freecodecamp.org/news/simplify-aws-multi-account-management/</id>
+        <link href="https://www.freecodecamp.org/news/simplify-aws-multi-account-management/"/>
+        <updated>2024-08-13T08:16:05.000Z</updated>
+        <summary type="html"><![CDATA[In the past, in the bustling world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment resided in a separate account. T...]]></summary>
+        <author>
+            <name>Nitheesh Poojary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/</id>
+        <link href="https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/"/>
+        <updated>2024-08-12T21:21:39.000Z</updated>
+        <summary type="html"><![CDATA[In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...]]></summary>
+        <author>
+            <name>Ijeoma Igboagu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mental Health in Tech Podcast Interview]]></title>
         <id>https://css-tricks.com/?p=379717</id>
@@ -899,16 +962,6 @@ Sara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tri
 CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Design Effective Conversational AI Experiences: A Comprehensive Guide]]></title>
-        <id>https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/</id>
-        <link href="https://smashingmagazine.com/2024/07/how-design-effective-conversational-ai-experiences-guide/"/>
-        <updated>2024-07-15T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This in-depth guide takes you through the three crucial phases of conversational search, revealing how users express their needs, explore results, and refine their queries. Learn how AI agents can overcome communication barriers, personalize the search experience, and adapt to evolving user intent.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yinjian Huang)</name>
         </author>
     </entry>
 </feed>
