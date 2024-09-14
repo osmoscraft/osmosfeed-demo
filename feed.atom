@@ -2,966 +2,398 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T03:38:01.834Z</updated>
+    <updated>2024-09-14T01:17:34.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How to Terminate Go Programs Elegantly – A Guide to Graceful Shutdowns]]></title>
-        <id>https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/</id>
-        <link href="https://www.freecodecamp.org/news/graceful-shutdowns-k8s-go/"/>
-        <updated>2024-08-13T20:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever pulled the power cord out of your computer in frustration? While this might seem like a quick solution to certain problems, it can lead to data loss and system instability. In the world of software, a similar concept exists: the hard sh...]]></summary>
-        <author>
-            <name>Alex Pliutau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Word Documents in Python – Three Effective Methods with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/merge-word-documents-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/merge-word-documents-in-python/"/>
-        <updated>2024-08-13T17:19:23.000Z</updated>
-        <summary type="html"><![CDATA[In today's fast-paced work environment, automation is crucial for optimizing your repetitive tasks and enhancing your productivity. Deploying Python functions to automate the merging of multiple Word documents into a single, cohesive file can help yo...]]></summary>
-        <author>
-            <name>Vikram Aruchamy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Component Library? When to Build Your Own and When to Use Someone Else's]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-component-library-when-to-build-your-own/"/>
-        <updated>2024-08-13T14:58:56.000Z</updated>
-        <summary type="html"><![CDATA[If you've built a frontend project in the last five years, you will have likely written some components, and maybe even used a component library. Components and libraries have been an important part of the web development landscape for multiple decad...]]></summary>
-        <author>
-            <name>Andrico Karoulla</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[font-size Limbo]]></title>
-        <id>https://css-tricks.com/?p=379750</id>
-        <link href="https://css-tricks.com/font-size-limbo/"/>
-        <updated>2024-08-13T13:15:58.000Z</updated>
-        <summary type="html"><![CDATA[You might recall that Alvaro suggests bumping up font-size to 1.25rem from the default user agent size of 16px. Sebastian Laube pokes at that:
-I wouldn’t adopt Alvaro’s suggestion without further ado, as I would waste so much space 
-…
-font-size Limbo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Simplify AWS Multi-Account Management with Terraform and GitOps]]></title>
-        <id>https://www.freecodecamp.org/news/simplify-aws-multi-account-management/</id>
-        <link href="https://www.freecodecamp.org/news/simplify-aws-multi-account-management/"/>
-        <updated>2024-08-13T08:16:05.000Z</updated>
-        <summary type="html"><![CDATA[In the past, in the bustling world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment resided in a separate account. T...]]></summary>
-        <author>
-            <name>Nitheesh Poojary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Your MongoDB URL to Connect to Your Node.js Application – A Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/</id>
-        <link href="https://www.freecodecamp.org/news/get-mongodb-url-to-connect-to-a-nodejs-application/"/>
-        <updated>2024-08-12T21:21:39.000Z</updated>
-        <summary type="html"><![CDATA[In my previous article about building a Node.js application, I didn’t fully explain how to obtain the MongoDB URL, as I wanted to keep the article concise. However, I realized that this information is essential for saving data to MongoDB. In this art...]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mental Health in Tech Podcast Interview]]></title>
-        <id>https://css-tricks.com/?p=379717</id>
-        <link href="https://css-tricks.com/mental-health-in-tech-podcast-interview/"/>
-        <updated>2024-08-12T17:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Mental health is always tough to talk about, especially in an industry that, to me, often rewards ego over vulnerability. I still find it tough even after having written about my own chronic depression and exploring UX case studies about …
-Mental Health in Tech Podcast Interview originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #9]]></title>
-        <id>https://css-tricks.com/?p=379747</id>
-        <link href="https://css-tricks.com/quick-hit-9/"/>
-        <updated>2024-08-12T16:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Heydon with a reminder that <address isn’t for, you know, mailing addresses.…
-Quick Hit #9 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Match Parentheses in JavaScript without Using Regex]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-match-parentheses-in-javascript-without-using-regex/"/>
-        <updated>2024-08-12T15:23:47.000Z</updated>
-        <summary type="html"><![CDATA[While writing my Lisp interpreter (for the Scheme dialect, to be precise), I decided to include support for square brackets. I did this because some of the Scheme books use them interchangeably with parentheses. But I didn't want to make the parser t...]]></summary>
-        <author>
-            <name>Jakub T. Jankiewicz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate AWS Certified Developer Associate (DVA-C02) Course from Andrew Brown]]></title>
-        <id>https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/</id>
-        <link href="https://www.freecodecamp.org/news/ultimate-aws-certified-developer-associate-dva-c02-course-from-andrew-brown/"/>
-        <updated>2024-08-12T14:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to elevate your AWS skills and become a certified AWS Developer Associate? Look no further! The comprehensive AWS Certified Developer Associate (DVA-C02) course by Andrew Brown is now available for free on the freeCodeCamp.org YouTube c...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Attribute to Allow/Disallow Handwriting Input]]></title>
-        <id>https://css-tricks.com/?p=379644</id>
-        <link href="https://css-tricks.com/html-attribute-to-allow-disallow-handwriting-input/"/>
-        <updated>2024-08-12T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[A new explainer for a new HTML attribute to handle handwritten inputs. Like this:
-<input type="text" handwriting="true" ... <input type="text" handwriting="false" ... <textarea handwriting="" ... <!-- evaluates to "true" --<div contenteditable handwriting="true"...</div<!-- maybe? --
-The primary use …
-HTML Attribute to Allow/Disallow Handwriting Input originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relative Vs Dynamic Routing in React – Different Routing Methods with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/relative-vs-dynamic-routing-in-react/"/>
-        <updated>2024-08-12T13:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Single-Page Applications (SPAs) have been growing in popularity as people become accustomed to better user experiences and improved application responsiveness. This is in part thanks to the introduction of Client-Side Routing (CSR). CSR enables navig...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Java HashMaps Work – Internal Mechanics Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-java-hashmaps-work-internal-mechanics-explained/</id>
-        <link href="https://www.freecodecamp.org/news/how-java-hashmaps-work-internal-mechanics-explained/"/>
-        <updated>2024-08-09T20:10:23.000Z</updated>
-        <summary type="html"><![CDATA[A HashMap is one of the most commonly used data structures in Java, and it's known for its efficiency. Data in a HashMap is stored in the form of key-value pairs. In this article, I will introduce you to HashMaps in Java. We will explore the common o...]]></summary>
-        <author>
-            <name>Anjan Baradwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Chronicles XLII]]></title>
-        <id>https://css-tricks.com/?p=379385</id>
-        <link href="https://css-tricks.com/css-chronicles-xlii/"/>
-        <updated>2024-08-09T15:27:49.000Z</updated>
-        <summary type="html"><![CDATA[Remember these? Chris would write a post now and then to chronicle things happening around the ol’ CSS-Tricks site. It’s only been 969 days since the last one, give or take. Just think: back then we were poking at …
-CSS Chronicles XLII originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Time To Talk About “CSS5”]]></title>
-        <id>https://css-tricks.com/?p=379630</id>
-        <link href="https://css-tricks.com/its-time-to-talk-about-css5/"/>
-        <updated>2024-08-09T15:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Ever search for CSS info and run into some article — perhaps even one or a dozen on this site — that looks promising until you realize it was published when dinosaurs roamed the planet? The information is good, but …
-It’s Time To Talk About “CSS5” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer and inventor with 27 software patents [Angie Jones Interview #136]]]></title>
-        <id>https://www.freecodecamp.org/news/developer-and-inventor-with-27-software-patents-angie-jones-interview-134/</id>
-        <link href="https://www.freecodecamp.org/news/developer-and-inventor-with-27-software-patents-angie-jones-interview-134/"/>
-        <updated>2024-08-09T14:00:32.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Angie Jones. She's a developer and holder of 27 software patents. She's worked at companies like IBM and Twitter, doing both test engineering and developer advocacy....]]></summary>
+        <title type="html"><![CDATA[Lessons from freelancing for dozens of startups with Eddie Jaoude [Podcast #141]]]></title>
+        <id>https://www.freecodecamp.org/news/lessons-from-freelancing-for-dozens-of-startups-eddie-jaoude/</id>
+        <link href="https://www.freecodecamp.org/news/lessons-from-freelancing-for-dozens-of-startups-eddie-jaoude/"/>
+        <updated>2024-09-13T18:32:51.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Eddie Jaoude who is a software engineer and open source creator. He's worked more than 15 years as a developer everywhere from Germany banking sector to London's tec...]]></summary>
         <author>
             <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/</id>
-        <link href="https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/"/>
-        <updated>2024-08-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. In Part 2, Andrii speaks about how you can grow faster in your brand-new junior UX job.]]></summary>
+        <title type="html"><![CDATA[Two CSS Properties for Trimming Text Box Whitespace]]></title>
+        <id>https://css-tricks.com/?p=380589</id>
+        <link href="https://css-tricks.com/two-css-properties-for-trimming-text-box-whitespace/"/>
+        <updated>2024-09-13T14:11:32.000Z</updated>
+        <summary type="html"><![CDATA[The text-box-trim and text-box-edge properties in CSS enable developers to trim specifiable amounts of the whitespace that appear above the first formatted line of text and below the last formatted line of text in a text box, making the text …
+Two CSS Properties for Trimming Text Box Whitespace originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Of Pro Scheduler Libraries]]></title>
-        <id>https://smashingmagazine.com/2024/08/best-pro-scheduler-libraries/</id>
-        <link href="https://smashingmagazine.com/2024/08/best-pro-scheduler-libraries/"/>
-        <updated>2024-08-08T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For teams working remotely across the globe or together in an office, as well as for any group of collaborating users, a scheduler can be a valuable tool indeed. In this post, you’ll find some of the best commercial web scheduler libraries (JavaScript based) with amazing UX and high efficiency that are currently available.]]></summary>
+        <title type="html"><![CDATA[How to Be a Productive Developer]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-be-a-productive-developer/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-be-a-productive-developer/"/>
+        <updated>2024-09-13T13:13:01.000Z</updated>
+        <summary type="html"><![CDATA[If you are having trouble accomplishing as much as you want to accomplish, we have a course for you. We just published a course on the freeCodeCamp.org YouTube channel that is designed to equip software developers with essential soft skills for boost...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn TypeScript – A Comprehensive Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/typescript-for-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/typescript-for-beginners-guide/"/>
-        <updated>2024-08-08T16:45:28.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript has become an industry standard for building large-scale applications, with many organizations choosing it as their primary language for application development. This tutorial will serve as your introductory guide to TypeScript. It's designed to cater to learners at all stages – from beginners to advanced users. It teaches both]]></summary>
-        <author>
-            <name>Isaiah Cliford  Opoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christian Heilmann: Let’s make a simpler, more accessible web]]></title>
-        <id>https://css-tricks.com/?p=379570</id>
-        <link href="https://css-tricks.com/christian-heilmann-lets-make-a-simpler-more-accessible-web/"/>
-        <updated>2024-08-08T15:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Christian Heilmann gave this talk at Typo3 Developer Days. I’m linking it up because it strikes an already stricken nerve in me. The increasing complexity of web development has an inverse relationship with the decreasing number of entry points …
-Christian Heilmann: Let’s make a simpler, more accessible web originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[What’s Old is New]]></title>
+        <id>https://css-tricks.com/?p=380692</id>
+        <link href="https://css-tricks.com/whats-old-is-new-2/"/>
+        <updated>2024-09-12T14:05:12.000Z</updated>
+        <summary type="html"><![CDATA[I collect a bunch of links in a bookmarks folder. These are things I fully intend to read, and I do — eventually. It’s a good thing bookmarks are digital, otherwise, I’d need a bigger coffee table to separate them …
+What’s Old is New originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Quantum AI Model for Predicting Iris Flower Data with Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/"/>
-        <updated>2024-08-08T13:18:14.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning is an area of AI where the likes of ChatGPT and other famous models were created. These systems were all created with neural networks. The field of machine learning that deals with the creation of these neural networks is called deep learning.  In this blog post, we'll]]></summary>
+        <title type="html"><![CDATA[How to Use Chart js for Interactive Data Visualization]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-chart-js-for-interactive-data-visualization/"/>
+        <updated>2024-09-12T12:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Data surrounds us, but its raw form can be overwhelming and difficult to interpret. That's where data visualization comes in. It can help you take your data and turn it into charts and graphs that make sense at a glance. Among the many data visualiza...]]></summary>
         <author>
-            <name>Tiago Monteiro</name>
+            <name>Oluwadamisi Samuel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Host Your Project on GitHub – Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/host-your-first-project-on-github/</id>
-        <link href="https://www.freecodecamp.org/news/host-your-first-project-on-github/"/>
-        <updated>2024-08-08T11:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Seven years ago, I began my journey into web development with HTML and CSS. As soon as I got the hang of JavaScript, I built my first website. The excitement was overwhelming, and I wanted to share it with my friends and the world. Like many beginners, I started researching]]></summary>
+        <title type="html"><![CDATA[How To Build Custom Data Visualizations Using Luzmo Flex]]></title>
+        <id>https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/</id>
+        <link href="https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/"/>
+        <updated>2024-09-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bringing data to life in your application can be done without the usual headaches. Paul Scanlon shows you how you can build beautiful data visualizations using the Google Analytics API, and you won’t have to spend any time “massaging” the data.]]></summary>
         <author>
-            <name>Spruce Emmanuel</name>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create a PC game using JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/"/>
-        <updated>2024-08-07T14:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Did you know you can create PC games using JavaScript? We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about making a Flappy Bird-like game in JavaScript with the KAPLAY library, and how to use Tauri to pack...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/"/>
-        <updated>2024-08-07T13:42:54.000Z</updated>
-        <summary type="html"><![CDATA[In a world where precision is key, handling noisy data effectively is crucial for solving complex problems. Whether you're trying to control a rocket or forecast the stock market, the ability to get good data from an uncertain environment is important. This is exactly the problem Kalman filters help solve.]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Olympic Rings]]></title>
-        <id>https://css-tricks.com/?p=379541</id>
-        <link href="https://css-tricks.com/css-olympic-rings/"/>
-        <updated>2024-08-07T13:10:56.000Z</updated>
-        <summary type="html"><![CDATA[It was a few years ago during the 2020 Olympics in Tokyo 2020 that I made a demo of animated 3D Olympic rings. I like it, it looks great, and I love the effect of the rings crossing each other.…
-CSS Olympic Rings originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Amit Sheen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common React Mistakes to Avoid]]></title>
-        <id>https://www.freecodecamp.org/news/react-common-mistakes/</id>
-        <link href="https://www.freecodecamp.org/news/react-common-mistakes/"/>
-        <updated>2024-08-06T22:19:05.000Z</updated>
-        <summary type="html"><![CDATA[React is a highly popular and powerful JavaScript library for user interface development. Its component-based architecture, combined with its declarative nature, is one of the primary reasons it works well for both small and large-scale applications.  But like with any technology, there are pitfalls that you can fall into]]></summary>
-        <author>
-            <name>Scott Gary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn About Operating Systems In-Depth]]></title>
-        <id>https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/</id>
-        <link href="https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/"/>
-        <updated>2024-08-06T14:29:33.000Z</updated>
-        <summary type="html"><![CDATA[For many types of software engineers it is important to understand the fundamentals of operating systems. We just published a massive 25-hour course on the freeCodeCamp.org YouTube channel that will help you master the fundamentals of operating syste...]]></summary>
+        <title type="html"><![CDATA[Learn Music Production for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/learn-music-production-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/learn-music-production-for-beginners/"/>
+        <updated>2024-09-11T20:08:18.000Z</updated>
+        <summary type="html"><![CDATA[Are you interested in exploring the world of music production but don't know where to start? We just posted comprehensive course designed for beginners that will guide you through the process of creating music tracks in various styles using FL Studio...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Rocket Control System: Basic Control Theory with Python]]></title>
-        <id>https://www.freecodecamp.org/news/basic-control-theory-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/basic-control-theory-with-python/"/>
-        <updated>2024-08-06T14:26:44.000Z</updated>
-        <summary type="html"><![CDATA[$$\frac{\partial V}{\partial t} + \frac{1}{2}\sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV - rS \frac{\partial V}{\partial S}$$  Rocket transfer function]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Index Your Next.js Apps Faster Using IndexNow]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-index-nextjs-pages-with-indexnow/"/>
-        <updated>2024-08-06T13:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Next.js is a powerful framework for building lightning-fast applications. However, getting these applications indexed quickly by search engines is crucial for visibility and traffic, and sadly, this is not immediate. Even after uploading your sitemap, it can take up to weeks or even months before search engines crawl your pages.]]></summary>
-        <author>
-            <name>Vivek Sahu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Application With Node.js]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-event-app-with-node-js/"/>
-        <updated>2024-08-05T17:56:13.000Z</updated>
-        <summary type="html"><![CDATA[Node.js it’s a runtime environment that allows you to run JavaScript code on the server side for building server-side applications. It works well for creating fast and scalable applications.  In this article, I will use a simple event management app as an example to show you how to build]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Send and Parse JSON Data in Golang – Data Encoding and Decoding Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/</id>
-        <link href="https://www.freecodecamp.org/news/encoding-and-decoding-data-in-golang/"/>
-        <updated>2024-08-05T13:00:54.000Z</updated>
-        <summary type="html"><![CDATA[When building web applications in Golang, working with JSON data is inevitable. Whether you're sending responses to clients or parsing requests, JSON encoding and decoding are essential skills to master.  In this article, we'll explore the different ways to encode and decode JSON in Golang. Table of Contents]]></summary>
-        <author>
-            <name>Destiny Erhabor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Time To Talk About “CSS5”]]></title>
-        <id>https://smashingmagazine.com/2024/08/time-to-talk-about-css5/</id>
-        <link href="https://smashingmagazine.com/2024/08/time-to-talk-about-css5/"/>
-        <updated>2024-08-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Hyper) Links About (Hyper) Links]]></title>
-        <id>https://css-tricks.com/?p=379420</id>
-        <link href="https://css-tricks.com/hyper-links-about-hyper-links/"/>
-        <updated>2024-08-02T16:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Heydon on the virtues of hyperlinking hypertext in an anchor element:
-Sometimes, the <a> is referred to as a hyperlink, or simply a link. But it is not one of these and people who say it is one are 
-…
-(Hyper) Links About (Hyper) Links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Data Science meets Sports Analytics with Ken Jee [Podcast Interview #135]]]></title>
-        <id>https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/</id>
-        <link href="https://www.freecodecamp.org/news/where-data-science-meets-sports-analytics-with-ken-jee-podcast-interview-135/"/>
-        <updated>2024-08-02T14:00:41.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Ken Jee. Ken's a Data Scientist. He's also a Sports Analytics practitioner who works with US Team Golf and USA Basketball. Ken hosts the excellent Ken's Nearest Neighbors podcast and the Exponential ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Grafana on EC2]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-grafana-on-ec2/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-grafana-on-ec2/"/>
-        <updated>2024-08-02T13:42:27.000Z</updated>
-        <summary type="html"><![CDATA[In today's data-driven world, it's important to monitor and visualize system metrics to make sure everything works consistently and performs well.  Grafana is an open-source analytics and monitoring platform. It has gained widespread recognition among developers and enterprises looking to extract more insights from the data produced by their]]></summary>
-        <author>
-            <name>Onwubiko Emmanuel Ebere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/</id>
-        <link href="https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/"/>
-        <updated>2024-08-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this two-part series, Andrii Zhdan outlines common challenges faced at the start of a design career and offers advice to smooth your journey based on insights from his experience hiring designers. Learn why mastering design tools is crucial, how to build a strong portfolio, and tips for acing your first interviews.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andrii Zhdan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Invoice SaaS App with Next.js, Resend, Clerk and Neon Postgres]]></title>
-        <id>https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/</id>
-        <link href="https://www.freecodecamp.org/news/build-an-invoice-saas-app-with-next-js-and-neon-postgres/"/>
-        <updated>2024-08-01T20:58:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you will learn how to build an invoicing web app that allows users to add their bank information, manage a list of customers, and create and send invoices to customers. You'll also learn how to print and send React components as invoices and email templates directly from]]></summary>
-        <author>
-            <name>Ankur Tyagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build A Multilingual Website With Nuxt.js]]></title>
-        <id>https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/</id>
-        <link href="https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/"/>
-        <updated>2024-08-01T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Handling translations for multilingual websites is famously difficult and, yet, crucial for many companies and organizations that serve a global audience. Thankfully, modern tooling abstracts away a great deal of the work, allowing for seamless translations that dynamically update the rendered content on a page, as demonstrated in this step-by-step tutorial.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tim Benniks)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn RAG Fundamentals and Advanced Techniques]]></title>
-        <id>https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/</id>
-        <link href="https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/"/>
-        <updated>2024-08-01T14:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Understanding how to enhance the capabilities of AI and machine learning systems is a valuable skill. One method is Retrieval-Augmented Generation (RAG), a powerful technique that combines retrieval-based methods with generative models to create more...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!]]></title>
-        <id>https://css-tricks.com/?p=379335</id>
-        <link href="https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/"/>
-        <updated>2024-08-01T13:21:37.000Z</updated>
-        <summary type="html"><![CDATA[I have to thank Jeremy Keith and his wonderfully insightful article from late last year that introduced me to the concept of HTML Web Components. This was the “a-ha!” moment for me:
-When you wrap some existing markup in a 
-…
-HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Kev Bonett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Functions and Mixins Module Notes]]></title>
-        <id>https://css-tricks.com/?p=378995</id>
-        <link href="https://css-tricks.com/css-functions-and-mixins-module-notes/"/>
-        <updated>2024-07-31T20:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …
-CSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where You Can Still Get A Book Apart Titles]]></title>
-        <id>https://css-tricks.com/?p=379392</id>
-        <link href="https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/"/>
-        <updated>2024-07-31T14:52:44.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a few months out since A Book Apart closed shop. I’m sad about it, of course. You probably are, too, if you have one of their many brightly-colored paperbacks sitting on a bookshelf strategically placed as a backdrop …
-Where You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add JWT-Based Authentication in NestJS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-jwt-based-authentication-in-nest-js/"/>
-        <updated>2024-07-31T14:33:47.000Z</updated>
-        <summary type="html"><![CDATA[Authentication is a very important aspect of software development. It is the process of verifying a user’s identity. Authentication ensures that only authorized individuals access specific resources or perform certain actions within a system. It provides accountability by enabling the tracking of user actions and holding individuals responsible for their]]></summary>
-        <author>
-            <name>Abimbola Adedotun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn C# for Unity in Spanish]]></title>
-        <id>https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/</id>
-        <link href="https://www.freecodecamp.org/news/learn-c-sharp-for-unity-in-spanish/"/>
-        <updated>2024-07-31T12:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Unity is a very popular and powerful game engine that relies on C# as its primary scripting language. Learn how to bring your games to life with Unity and C#. We just published a course on the freeCodeCamp.org Spanish YouTube channel that will guide ...]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet Nostalgia In August (2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/</id>
-        <link href="https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/"/>
-        <updated>2024-07-31T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's New in macOS? How to Install the Sequoia Beta]]></title>
-        <id>https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/</id>
-        <link href="https://www.freecodecamp.org/news/whats-new-in-macos-how-to-install-the-sequoia-beta/"/>
-        <updated>2024-07-30T14:55:13.000Z</updated>
-        <summary type="html"><![CDATA[The macOS Sequoia public beta is now available. Though the final release of macOS Sequoia (macOS 15) won't be available until late September or early October 2024, I'll show you how to install the public beta for an advance look. It's actually stable enough for daily use. The macOS Sequoia]]></summary>
-        <author>
-            <name>Daniel Kehoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Hour With Dave Rupert]]></title>
-        <id>https://css-tricks.com/?p=379381</id>
-        <link href="https://css-tricks.com/smashing-hour-with-dave-rupert/"/>
-        <updated>2024-07-30T14:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine invited me to sit down for a one-on-one with “Uncle” Dave Rupert to discuss web components, yes, but also check in on Dave’s new Microsoft gig and what the ShopTalk co-host is working on these days.
-I first …
-Smashing Hour With Dave Rupert originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering Basics – How to Write Effective AI Prompts]]></title>
-        <id>https://www.freecodecamp.org/news/prompt-engineering-basics/</id>
-        <link href="https://www.freecodecamp.org/news/prompt-engineering-basics/"/>
-        <updated>2024-07-29T19:22:13.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to the popularity of various Large-Language Models like ChatGPT, prompt engineering has become a key skill for developers (and non-developers) to have. It's important if you want to be able to tap into the full potential of these models. Whether you're a developer, researcher, or general user, knowing how]]></summary>
-        <author>
-            <name>Valentine Gatwiri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rethinking The Role Of Your UX Teams And Move Beyond Firefighting]]></title>
-        <id>https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/</id>
-        <link href="https://smashingmagazine.com/2024/07/rethinking-role-ux-teams-mov-beyond-firefighting/"/>
-        <updated>2024-07-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe]]></title>
-        <id>https://css-tricks.com/?p=379318</id>
-        <link href="https://css-tricks.com/letter-spacing-is-broken-and-theres-nothing-we-can-do-about-it-maybe/"/>
-        <updated>2024-07-29T16:41:34.000Z</updated>
-        <summary type="html"><![CDATA[This post came up following a conversation I had with Emilio Cobos — a senior developer at Mozilla and member of the CSSWG — about the last CSSWG group meeting. I wanted to know what he thought were the …
-Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Entity Framework Core with MongoDB]]></title>
-        <id>https://www.freecodecamp.org/news/using-entity-framework-core-with-mongodb/</id>
-        <link href="https://www.freecodecamp.org/news/using-entity-framework-core-with-mongodb/"/>
-        <updated>2024-07-29T14:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Entity Framework Core is a popular ORM (Object-Relational Mapper) for .NET applications, allowing developers to work with databases using .NET objects. It can be used with many types of databases, including MongoDB. In this article, you will learn ho...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Local Storage to Your Blazor Apps with Blazored.LocalStorage]]></title>
-        <id>https://www.freecodecamp.org/news/use-local-storage-in-blazor-apps/</id>
-        <link href="https://www.freecodecamp.org/news/use-local-storage-in-blazor-apps/"/>
-        <updated>2024-07-29T13:55:34.000Z</updated>
-        <summary type="html"><![CDATA[One critical feature of modern web applications is their ability to store and retrieve data on the client side [https://www.cloudflare.com/learning/serverless/glossary/client-side-vs-server-side/] . This is where local storage [https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage] comes into play. In this article, we'll explore how to leverage the power of the Blazored LocalStorage NuGet package [https://www.nuget.org/packages/Blazored.LocalStorage] to seamlessly integrate]]></summary>
-        <author>
-            <name>FADAHUNSI SEYI SAMUEL</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Develop a CRUD App with Spring Boot, Neon Postgres, and Azure App Service]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-crud-app-spring-boot-neon-postgres/"/>
-        <updated>2024-07-26T19:14:36.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll explore how to develop a CRUD (Create, Read, Update, Delete) application using Spring Boot and Neon Postgres [https://neon.tech/]. We'll also deploy the application on Azure App Service [https://azure.microsoft.com/en-us/products/app-service] and make it production-ready by setting up features like autoscaling and multiple environments. You'll learn how Neon Postgres]]></summary>
-        <author>
-            <name>Abhinav Pandey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get a FAANG Dev Job in your 40s with Coding Interview University creator John Washam [#134]]]></title>
-        <id>https://www.freecodecamp.org/news/how-john-washam-crammed-for-8-months-got-a-job-at-amazon-then-taught-1000s-of-other-devs-134/</id>
-        <link href="https://www.freecodecamp.org/news/how-john-washam-crammed-for-8-months-got-a-job-at-amazon-then-taught-1000s-of-other-devs-134/"/>
-        <updated>2024-07-26T14:25:13.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview John Washam, a software engineer at Amazon. John's also creator of one of the most popular open source projects of all time, Coding Interview University. This is John's first-ever podcast interview, ...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Overcome Impostor Syndrome as a Developer]]></title>
-        <id>https://www.freecodecamp.org/news/overcome-impostor-syndrome-as-a-developer/</id>
-        <link href="https://www.freecodecamp.org/news/overcome-impostor-syndrome-as-a-developer/"/>
-        <updated>2024-07-26T14:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Impostor syndrome is a pervasive feeling of self-doubt and inadequacy that makes you believe you are a fraud despite your achievements and skills.  For new developers – and sometimes even seasoned professionals – this phenomenon can be particularly challenging as you navigate a fast-paced and ever-evolving industry.  But]]></summary>
-        <author>
-            <name>Marco Venturi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Creational Design Patterns in Java? Explained With Examples]]></title>
-        <id>https://www.freecodecamp.org/news/creational-design-patterns-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/creational-design-patterns-in-java/"/>
-        <updated>2024-07-26T13:04:50.000Z</updated>
-        <summary type="html"><![CDATA[Design Patterns provide you with an idea or a strategy for solving commonly occurring problems. They are proven solutions that follow the best practices and help you make your code flexible, reusable, and maintainable. The design patterns are classified into three categories based on their purpose:  * Creational]]></summary>
-        <author>
-            <name>Anjan Baradwaj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do Generative Models Work in Deep Learning? Generative Models For Data Augmentation Explained]]></title>
-        <id>https://www.freecodecamp.org/news/generative-models-for-data-augmentation/</id>
-        <link href="https://www.freecodecamp.org/news/generative-models-for-data-augmentation/"/>
-        <updated>2024-07-26T12:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Data is at the heart of model training in the world of deep learning. The quantity and quality of training data determine the effectiveness of machine learning algorithms.  On the other hand, obtaining massive amounts of precisely categorized data is a difficult and resource-intensive operation. This is where data]]></summary>
-        <author>
-            <name>Oyedele Tioluwani Taiwo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Does Recursion Work? Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-recursion/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-recursion/"/>
-        <updated>2024-07-25T15:03:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you will learn about recursion and how it works. You need a good understanding of how functions work before learning recursion. I have used Python code for examples in this article because of its simple syntax, but the concept of recursion is the same for every programming]]></summary>
-        <author>
-            <name>Palistha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn System Design Principles and Prepare for an Job Interview]]></title>
-        <id>https://www.freecodecamp.org/news/learn-system-design-principles/</id>
-        <link href="https://www.freecodecamp.org/news/learn-system-design-principles/"/>
-        <updated>2024-07-25T14:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Mastering system design is important for anyone who wants to build scalable and reliable applications. System design includes a range of topics from basic computer architecture to complex networking concepts, each playing an important role in creatin...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pop(over) the Balloons]]></title>
-        <id>https://css-tricks.com/?p=379281</id>
-        <link href="https://css-tricks.com/popover-the-balloons/"/>
-        <updated>2024-07-25T13:31:46.000Z</updated>
-        <summary type="html"><![CDATA[I’ve always been fascinated with how much we can do with just HTML and CSS. The new interactive features of the Popover API are yet another example of just how far we can get with those two languages alone.
-You …
-Pop(over) the Balloons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Sticky Notes App with React and Appwrite]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-sticky-notes-app-with-react-and-appwrite/"/>
-        <updated>2024-07-25T01:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to dive into an exciting project that combines the latest in frontend and backend technologies? Imagine having a personalized notes application with dynamic features like draggable notes, autosave, and customizable colors. Not only will...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/</id>
-        <link href="https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/"/>
-        <updated>2024-07-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Interpretable Artificial Intelligence Model – Simple Python Code Example]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-an-interpretable-ai-deep-learning-model/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-an-interpretable-ai-deep-learning-model/"/>
-        <updated>2024-07-23T22:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence is being used everywhere these days. And many of the groundbreaking applications come from Machine Learning, a subfield of AI. Within Machine Learning, a field called Deep Learning represents one of the main areas of research. It is from Deep Learning that most new, truly effective AI systems]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Primitive Obsession?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-primitive-obsession/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-primitive-obsession/"/>
-        <updated>2024-07-23T22:03:40.000Z</updated>
-        <author>
-            <name>Daniel Asaboro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Quantum Artificial Intelligence Model – With Python Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-quantum-ai-model/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-quantum-ai-model/"/>
-        <updated>2024-07-23T18:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Machine learning (ML) is one of the most important subareas of AI used in building great AI systems. In ML, deep learning is a narrow area focused solely on neural networks. Through the field of deep learning, systems like ChatGPT and many other AI models can be created. In other]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparable vs Comparator Interfaces in Java – Which Should You Use and When?]]></title>
-        <id>https://www.freecodecamp.org/news/comparable-vs-comparator-explained-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/comparable-vs-comparator-explained-in-java/"/>
-        <updated>2024-07-23T13:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Sorting is a fundamental operation in programming, essential for organizing data in a specific order. In Java, built-in sorting methods provide efficient ways to sort primitive data types and arrays, making it easy to manage and manipulate collections of data. For instance, you can quickly sort an array of integers]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Simple Bitcoin-to-USD Calculator]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-bitcoin-to-usd-calculator/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-bitcoin-to-usd-calculator/"/>
-        <updated>2024-07-22T22:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this fun and hands-on project where we'll build a calculator that converts Bitcoin to USD. You'll learn about API fetching, DOM manipulation, and localStorage, and you'll use some basic math along the way.  By the end of this tutorial, you'll have a functioning Bitcoin price calculator that]]></summary>
-        <author>
-            <name>Eesa Zahed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React's Context API – Tutorial with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/react-context-api-tutorial-examples/</id>
-        <link href="https://www.freecodecamp.org/news/react-context-api-tutorial-examples/"/>
-        <updated>2024-07-22T15:25:40.000Z</updated>
-        <summary type="html"><![CDATA[In React, data is typically passed down from parent to child via props. But this can lead to "prop drilling" – where we have to pass props down through lots of components to get them where they're needed. Also, some props (for example, the current authenticated user, UI theme, or]]></summary>
-        <author>
-            <name>Danny Adams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project]]></title>
-        <id>https://css-tricks.com/?p=379278</id>
-        <link href="https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/"/>
-        <updated>2024-07-22T14:38:52.000Z</updated>
-        <summary type="html"><![CDATA[These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …
-Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Enhanced Enums in Dart – Explained With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-enhanced-enums-in-dart/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-enhanced-enums-in-dart/"/>
-        <updated>2024-07-22T11:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Enums are one of the most efficient ways to represent a fixed set of values. For example: days of the week, user online status, traffic light states, role hierarchy in an organization, and so on. What's interesting is that most typed languages such as Typescript, Java, C#, and Dart give]]></summary>
-        <author>
-            <name>Daniel Asaboro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Instant Search with Flask and HTMX]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-implement-instant-search-with-flask-and-htmx/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-instant-search-with-flask-and-htmx/"/>
-        <updated>2024-07-22T11:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Instant search is a feature that shows search results as users type their query. Instead of waiting for a full page reload or submitting a form, results appear instantly, allowing users to find what they are looking for quickly. For example, when you start typing in a search box, suggestions]]></summary>
-        <author>
-            <name>Ashutosh Krishna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Migrate a Flutter Application from GetIt to Bloc]]></title>
-        <id>https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/</id>
-        <link href="https://www.freecodecamp.org/news/migrate-a-flutter-application-from-getit-to-bloc/"/>
-        <updated>2024-07-19T23:05:13.000Z</updated>
-        <summary type="html"><![CDATA[When I first built an application [https://play.google.com/store/apps/details?id=com.tomerpacific.birthday_calendar&hl=en] using Flutter, I quickly ran into situations where I needed to pass state from widget to widget. These widgets weren’t directly related and all I knew back then was that there were only Stateless widgets or Stateful ones. I found it hard to]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Next.js App Performance With Lazy Loading]]></title>
-        <id>https://www.freecodecamp.org/news/next-js-performance-optimization/</id>
-        <link href="https://www.freecodecamp.org/news/next-js-performance-optimization/"/>
-        <updated>2024-07-19T22:31:12.000Z</updated>
-        <summary type="html"><![CDATA[People don't like using slow applications. And the initial load time matters a lot for web applications and websites.  An application that takes more than 3 seconds to load is considered slow and may cause users to leave the application or website. Next.js is a React-based framework you can]]></summary>
-        <author>
-            <name>TAPAS ADHIKARY</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Stuff I’m Excited After the Last CSSWG Meeting]]></title>
-        <id>https://css-tricks.com/?p=379180</id>
-        <link href="https://css-tricks.com/css-stuff-im-excited-after-the-last-csswg-meeting/"/>
-        <updated>2024-07-19T17:16:57.000Z</updated>
-        <summary type="html"><![CDATA[From June 11–13, the CSS Working Group (CSSWG) held its second face-to-face meeting of the year in Coruña, Spain, with a long agenda of new features and improvements coming to language. If 2023 brought us incredible advances like …
-CSS Stuff I’m Excited After the Last CSSWG Meeting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to get Machine Learning Skills without doing a PhD in Math [Podcast #133 with Daniel Bourke]]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-machine-learning-skills-without-doing-a-phd-in-math-podcast-133-with-daniel-bourke/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-machine-learning-skills-without-doing-a-phd-in-math-podcast-133-with-daniel-bourke/"/>
-        <updated>2024-07-19T14:36:03.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Daniel Bourke. He's a Machine Learning Engineer and creator of many popular tutorials on YouTube. He's also a frequent freeCodeCamp contributor. We talk about: How as a kid he hacked into his school...]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size]]></title>
-        <id>https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/</id>
-        <link href="https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/"/>
-        <updated>2024-07-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[WCAG provides guidance for making interactive elements more accessible by specifying minimum size requirements. In this article, Eric Bailey discusses the nuances of interactive element sizes and clarifies what it looks like to provide accessible interactive experiences using WCAG-compliant target sizes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn JavaScript Reactivity: How to Build Signals from Scratch]]></title>
-        <id>https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-reactivity-build-signals-from-scratch/"/>
-        <updated>2024-07-18T21:17:44.000Z</updated>
-        <summary type="html"><![CDATA[If you're learning JavaScript, you may have heard the terms reactivity or signals. But perhaps you haven't gotten to use them in practice yet. If so – or if you just want to learn more about these concepts – you're in the right place.  In this article, you'll learn]]></summary>
-        <author>
-            <name>Rahul Gupta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React Router to Build Single Page Applications]]></title>
-        <id>https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/</id>
-        <link href="https://www.freecodecamp.org/news/use-react-router-to-build-single-page-applications/"/>
-        <updated>2024-07-18T14:42:16.000Z</updated>
-        <summary type="html"><![CDATA[Single Page Applications (SPAs) have revolutionized web development. They offer a more dynamic and fluid user experience compared to traditional multi-page applications. Traditional web apps require full-page reloads for almost every click the user makes. SPAs, on the other hand, load a single HTML page and update the page contents]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Move a Single Fly Machine and Volume to a New Region with flyctl]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-move-a-fly-application-to-a-new-region/"/>
-        <updated>2024-07-18T13:19:23.000Z</updated>
-        <summary type="html"><![CDATA[Fly.io allows users to deploy their applications to virtual machines in regions where their applications are mostly used. A Fly application can also be deployed to multiple regions. You may want to move your Fly application to a new region if you experience performance issues, high latency, or data residency]]></summary>
-        <author>
-            <name>Clarence Bakosi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practice Your HTML, CSS, and JavaScript Skills in Spanish by Building 3 Projects]]></title>
-        <id>https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/</id>
-        <link href="https://www.freecodecamp.org/news/practice-your-html-css-and-javascript-skills-in-spanish-by-building-3-projects/"/>
-        <updated>2024-07-18T11:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Building projects is very important for learning how to code. When you create a project, you expand your portfolio and learn how to apply your skills to new situations. We just published a 2-hour course on the freeCodeCamp.org Spanish YouTube channel...]]></summary>
-        <author>
-            <name>Estefania Cassingena Navone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Design Systems With Penpot Components]]></title>
-        <id>https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/</id>
-        <link href="https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/"/>
-        <updated>2024-07-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s turbulent landscape of design, Penpot stands out with its commitment to open-source, free unlimited access, and its unique, robust features. An example could be its new components system that takes another leap forward in aligning design with code. Let's dive into how it empowers both designers and developers to create more maintainable and scalable design systems.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pass the GitHub Advanced Security Certification Exam]]></title>
-        <id>https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/</id>
-        <link href="https://www.freecodecamp.org/news/pass-the-github-advanced-security-certification-exam/"/>
-        <updated>2024-07-17T18:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring the security of your code is important, and mastering GitHub Advanced Security (GHAS) can significantly enhance your ability to safeguard your projects. If you want to strengthen your security skills, obtaining the GitHub Advanced Security C...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sara Joy: Everybody’s Free (To Write Websites)]]></title>
-        <id>https://css-tricks.com/?p=379199</id>
-        <link href="https://css-tricks.com/sara-joy-everybodys-free-to-write-websites/"/>
-        <updated>2024-07-17T18:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Sara Joy’s adaptation of the song “Everybody’s Free (To Wear Sunscreen)” (YouTube) originally by Baz Luhrman with lyrics pulled directly from Mary Schmich‘s classic essay, “Wear Sunscreen”. Anyone who has graduated high school since 1999 doesn’t even have …
-Sara Joy: Everybody’s Free (To Write Websites) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create 24 CSS Projects]]></title>
-        <id>https://www.freecodecamp.org/news/create-24-css-projects/</id>
-        <link href="https://www.freecodecamp.org/news/create-24-css-projects/"/>
-        <updated>2024-07-17T18:25:33.000Z</updated>
-        <summary type="html"><![CDATA[CSS is an essential skill for web developers, and mastering it can greatly enhance the look and feel of your web projects. Whether you're a beginner looking to sharpen your skills or an experienced developer aiming to stay up-to-date with the latest ...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Server-Side Rendering in Next.js Apps for Better SEO]]></title>
-        <id>https://www.freecodecamp.org/news/server-side-rendering-in-next-js-for-improved-seo/</id>
-        <link href="https://www.freecodecamp.org/news/server-side-rendering-in-next-js-for-improved-seo/"/>
-        <updated>2024-07-17T18:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Server-side rendering (SSR) is a web development technique that can help improve your site's SEO. It does this by generating HTML content on the server in response to a user's request.  This approach contrasts with client-side rendering (CSR), where content is delivered as a basic HTML shell, and JavaScript]]></summary>
+        <title type="html"><![CDATA[How to Build an Expense Tracker with HTML, CSS, and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/"/>
+        <updated>2024-09-11T17:25:59.000Z</updated>
+        <summary type="html"><![CDATA[Building projects is a great way to practice and improve your web development skills. And that's what we'll do in this in-depth tutorial: build a practical project using HTML, CSS, and JavaScript. If you often find yourself wondering where all your m...]]></summary>
         <author>
             <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Deploy Your Node.js App on Azure]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-node-js-app-on-azure/"/>
-        <updated>2024-07-17T11:56:43.000Z</updated>
-        <summary type="html"><![CDATA[The advent of cloud computing marked a turning point in the field of technology. It provides easier access for users across the globe to web and mobile applications and services.  Modern-day computing services also provide a wide range of features which make web apps easier to use and more]]></summary>
+        <title type="html"><![CDATA[API Testing with Postman: A Step-by-Step Guide Using the Spotify API]]></title>
+        <id>https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/</id>
+        <link href="https://www.freecodecamp.org/news/api-testing-with-postman-a-step-by-step-guide-using-the-spotify-api/"/>
+        <updated>2024-09-11T17:23:24.000Z</updated>
+        <summary type="html"><![CDATA[🎯 The Objective In this guide, I’ll introduce you to Postman, a popular API development and testing tool. If you are a beginner mainly focused on frontend development, you may not have had much experience fetching data from an API. And in that case ...]]></summary>
         <author>
-            <name>oluwatobi Joshua</name>
+            <name>Matthes B.</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Are Monte Carlo Methods? How to Predict the Future with Python Simulations]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-monte-carlo-methods/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-monte-carlo-methods/"/>
-        <updated>2024-07-16T21:42:38.000Z</updated>
-        <summary type="html"><![CDATA[-0.5 × (x2 + y2)]]></summary>
+        <title type="html"><![CDATA[How Event Handling Works in Vue 3: A Guide for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/</id>
+        <link href="https://www.freecodecamp.org/news/how-event-handling-works-in-vue-3-guide-for-devs/"/>
+        <updated>2024-09-11T17:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Event handling in Vue 3 allows developers to respond to user interactions like clicks, key presses, form submissions, and more. Vue provides simple and flexible ways to manage these interactions, enabling you to build dynamic and engaging application...]]></summary>
         <author>
-            <name>Tiago Monteiro</name>
+            <name>Asfak Ahmed</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Multithreading for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/multithreading-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/multithreading-for-beginners/"/>
-        <updated>2024-07-16T20:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Multithreading is a crucial concept in computer science that allows for the concurrent execution of two or more threads, enabling more efficient and optimized use of resources. It can significantly improve the performance of applications, particularl...]]></summary>
+        <title type="html"><![CDATA[Two Ways to Create Custom Translated Messaging for HTML Forms]]></title>
+        <id>https://css-tricks.com/?p=380325</id>
+        <link href="https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/"/>
+        <updated>2024-09-11T14:42:20.000Z</updated>
+        <summary type="html"><![CDATA[HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …
+Two Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Fatuma Abdullaho</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pass the Azure AI Engineer Associate Certification (AI-102)]]></title>
+        <id>https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/</id>
+        <link href="https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/"/>
+        <updated>2024-09-10T18:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to take your AI skills to the next level and earn the Azure AI Engineer Associate Certification (AI-102)? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel that is designed to help you prepare for and pass th...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get Started With Cybersecurity]]></title>
-        <id>https://www.freecodecamp.org/news/getting-started-in-cybersecurity/</id>
-        <link href="https://www.freecodecamp.org/news/getting-started-in-cybersecurity/"/>
-        <updated>2024-07-16T11:13:19.000Z</updated>
-        <summary type="html"><![CDATA[From design to coding to data science, there are many areas in the IT sector to explore. Because it's such a wealthy and alluring profession, you might be unsure of which one is ideal for you. This is where cybersecurity [https://iqmacodes.hashnode.dev/an-introduction-to-cybersecurity] comes in, one of the most fascinating fields of]]></summary>
-        <author>
-            <name>Hikmah Olawore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Use LINQ in C# – With Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-linq/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-linq/"/>
-        <updated>2024-07-15T20:59:47.000Z</updated>
-        <summary type="html"><![CDATA[.Net (pronounced as "dot net") has many internal libraries and tools, but one that wields great power is LINQ (Language Integrated Query). It can be used in two ways: the language-level query syntax, or the LINQ API. In this article, we'll explore:  * What LINQ is.  * How]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the Difference Between the useMemo and useCallback Hooks?]]></title>
-        <id>https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/</id>
-        <link href="https://www.freecodecamp.org/news/difference-between-usememo-and-usecallback-hooks/"/>
-        <updated>2024-07-15T19:14:59.000Z</updated>
-        <summary type="html"><![CDATA[React provides various hooks that make it easier to manage application state and other React features in functional components. Hooks provide class component features to functional components, and they don't need a lot of code compared to class components. Hooks also make your life easier by providing some convenient features.]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a CI/CD Pipeline with Husky and GitHub Actions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-set-up-a-ci-cd-pipeline-with-husky-and-github-actions/"/>
-        <updated>2024-07-15T17:46:34.000Z</updated>
-        <summary type="html"><![CDATA[CI/CD is a core practice in the modern software development ecosystem. It helps agile teams deliver high-quality software in short release cycles. In this tutorial, you'll learn what CI/CD is, and I'll help you set up a CI/CD pipeline using Husky and GitHub Actions in a Next.js application.  This]]></summary>
-        <author>
-            <name>Viviana Yanez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Selectors]]></title>
-        <id>https://css-tricks.com/?p=378745</id>
-        <link href="https://css-tricks.com/css-selectors/"/>
-        <updated>2024-07-15T16:13:15.000Z</updated>
-        <summary type="html"><![CDATA[A complete guide covering all of the various methods we have to select elements in CSS and how to use them for applying styles.
-CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Quick Hit #18]]></title>
+        <id>https://css-tricks.com/?p=380660</id>
+        <link href="https://css-tricks.com/quick-hit-18/"/>
+        <updated>2024-09-10T18:40:28.000Z</updated>
+        <summary type="html"><![CDATA[PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…
+Quick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anchor Positioning Quirks]]></title>
+        <id>https://css-tricks.com/?p=380521</id>
+        <link href="https://css-tricks.com/anchor-positioning-quirks/"/>
+        <updated>2024-09-10T18:33:01.000Z</updated>
+        <summary type="html"><![CDATA[I am thrilled to say, that from this week onwards, the CSS-tricks Almanac has an entry for each property, function, and at-rule related to the new Anchor Positioning API! For the last month, I have tried to fully understand this …
+Anchor Positioning Quirks originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shodan – What to Know About the Internet’s Most Dangerous Search Engine]]></title>
+        <id>https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/</id>
+        <link href="https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/"/>
+        <updated>2024-09-10T17:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Shodan is a search engine that discovers devices connected to the internet. In this article, we’ll look at why it’s both a valuable tool and a potential threat. When you hear the term “search engine,” your mind likely jumps to Google, Bing, or Yahoo....]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Agents Can Help Supercharge Language Models – A Handbook for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/"/>
+        <updated>2024-09-10T17:01:16.000Z</updated>
+        <summary type="html"><![CDATA[The rapid evolution of artificial intelligence (AI) has resulted in a powerful synergy between large language models (LLMs) and AI agents. This dynamic interplay is sort of like the tale of David and Goliath (without the fighting), where nimble AI ag...]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanding UI]]></title>
+        <id>https://css-tricks.com/?p=380662</id>
+        <link href="https://css-tricks.com/sanding-ui/"/>
+        <updated>2024-09-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim hit a snag while working on a form. Placing labels next to inputs is trivial with flexbox, sure, but what happened in Jim’s case was a bit of dead-clicking between the labels and radio buttons.
+The issue? Not the …
+Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Anticipatory Design Isn’t Working For Businesses]]></title>
+        <id>https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/</id>
+        <link href="https://smashingmagazine.com/2024/09/why-anticipatory-design-not-working-businesses/"/>
+        <updated>2024-09-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Anticipatory design, powered by Artificial Intelligence (AI), Machine learning (ML), and Big Data (BD), promises to transform user experiences by predicting and fulfilling needs before users even express them. While this proactive approach seems revolutionary, many businesses struggle to meet the high expectations it sets. Joana Cerejo delves into the challenges of anticipatory design, highlights key failures, and offers a framework to help designers and businesses succeed in this complex landscape.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joana Cerejo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Travelling CSS With :target]]></title>
+        <id>https://css-tricks.com/?p=380334</id>
+        <link href="https://css-tricks.com/time-travelling-css-with-target/"/>
+        <updated>2024-09-09T15:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…
+Time Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
+        <id>https://css-tricks.com/?p=380517</id>
+        <link href="https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/"/>
+        <updated>2024-09-09T14:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …
+Sticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #17]]></title>
+        <id>https://css-tricks.com/?p=380584</id>
+        <link href="https://css-tricks.com/quick-hit-17/"/>
+        <updated>2024-09-09T13:53:42.000Z</updated>
+        <summary type="html"><![CDATA[“Wrapping the <labelaround the <inputis fine, and is sufficient for conformance on its own, however adding explicit association with for and id is still necessary in practice.” —James Edwards…
+Quick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create A Weekly Google Analytics Report That Posts To Slack]]></title>
+        <id>https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/</id>
+        <link href="https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/"/>
+        <updated>2024-09-06T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Analytics is often on a “need to know” basis, but why not flip the script? Paul Scanlon shares how he wrote a GitHub Action that queries Google Analytics to automatically generate and post a top ten page views report to Slack, making it incredibly easy to track page performance and share insights with your team.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #16]]></title>
+        <id>https://css-tricks.com/?p=380340</id>
+        <link href="https://css-tricks.com/quick-hit-16/"/>
+        <updated>2024-09-05T16:04:28.000Z</updated>
+        <summary type="html"><![CDATA[“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…
+Quick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #15]]></title>
+        <id>https://css-tricks.com/?p=380298</id>
+        <link href="https://css-tricks.com/quick-hit-15/"/>
+        <updated>2024-09-05T16:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…
+Quick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
+        <id>https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/</id>
+        <link href="https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/"/>
+        <updated>2024-09-05T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sticky positioning is one of those CSS features that’s pretty delicate and can be negated by a lot of things, so here’s another one to add to your mental catalog: Sticky elements don’t play nicely if they have to coordinate with other elements to make up a combined height, like `100vh`. Philip Braunen explores why this happens and presents a solution to fix it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Philip Braunen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #14]]></title>
+        <id>https://css-tricks.com/?p=380296</id>
+        <link href="https://css-tricks.com/quick-hit-14/"/>
+        <updated>2024-09-03T19:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…
+Quick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Stab at Truncated Text]]></title>
+        <id>https://css-tricks.com/?p=380214</id>
+        <link href="https://css-tricks.com/another-stab-at-truncated-text/"/>
+        <updated>2024-09-03T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.
+    
+        Article
+
+    on
+    Sep 19, 2012  
+    
+
+      accessibility content truncation    
+    
+
+    
+…
+Another Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Difference Between Digital Product And Web Design]]></title>
+        <id>https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/</id>
+        <link href="https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/"/>
+        <updated>2024-09-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Designing for digital products requires a different mindset than traditional websites. It’s all about continuous adaptation, refining, and iterating as user behavior and needs evolve. Paul Boag reflects on the key differences, including how the frequency of usage impacts your design approach and what you can do about it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Summer, Hello September (2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/</id>
+        <link href="https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/"/>
+        <updated>2024-08-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s get ready for September with a fresh collection of desktop wallpapers! Created with love by the community for the community, they come in versions with and without a calendar. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-08-21)]]></title>
+        <id>https://css-tricks.com/?p=380227</id>
+        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-08-21/"/>
+        <updated>2024-08-30T19:06:07.000Z</updated>
+        <summary type="html"><![CDATA[View Transitions are one of the most awesome features CSS has shipped in recent times. Its title is self-explanatory: transitions between views are possible with just CSS, even across pages of the same origin! What’s more interesting is its …
+CSSWG Minutes Telecon (2024-08-21) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paragraphs]]></title>
+        <id>https://css-tricks.com/?p=380206</id>
+        <link href="https://css-tricks.com/paragraphs/"/>
+        <updated>2024-08-30T14:23:52.000Z</updated>
+        <summary type="html"><![CDATA[I sure do love little reminders about HTML semantics, particularly semantics that are tougher to commit to memory. Scott has a great one, beginning with this markup:
+<pI am a paragraph.</p<spanI am also a paragraph.</span<div
+…
+Paragraphs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/</id>
+        <link href="https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/"/>
+        <updated>2024-08-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the second part of this series, Joas Pambou aims to build a more advanced version of the previous application that performs conversational analyses on images or videos, much like a chatbot assistant. This means you can ask and learn more about your input content.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Joas Pambou)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generating Unique Random Numbers In JavaScript Using Sets]]></title>
+        <id>https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/</id>
+        <link href="https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/"/>
+        <updated>2024-08-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to create more randomized effects in your JavaScript code? The `Math.random()` method alone, with its limitations, won’t cut it for generating unique random numbers. Amejimaobari Ollornwi explains how to generate a series of unique random numbers using the `Set` object, how to use these random numbers as indexes for arrays, and explores some practical applications of randomization.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Typography In Logo Design]]></title>
+        <id>https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/</id>
+        <link href="https://smashingmagazine.com/2024/08/mastering-typography-in-logo-design/"/>
+        <updated>2024-08-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finding the right typeface for a logo is a challenge and can be a very time-consuming process that requires both creativity and a practical approach. Levi Honing provides the essential background and tools to enhance your typography journey and apply this knowledge to your logo design. Let’s dive deep to learn how to create a logo that is not only expressive but also purposeful and well-thought-out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Levi Honing)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regexes Got Good: The History And Future Of Regular Expressions In JavaScript]]></title>
+        <id>https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/</id>
+        <link href="https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/"/>
+        <updated>2024-08-20T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Although JavaScript regexes used to be underpowered compared to other modern flavors, numerous improvements in recent years mean that’s no longer true. Steven Levithan evaluates the history and present state of regular expressions in JavaScript with tips to make your regexes more readable, maintainable, and resilient.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Levithan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pricing Projects As A Freelancer Or Agency Owner]]></title>
+        <id>https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/</id>
+        <link href="https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/"/>
+        <updated>2024-08-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover effective pricing strategies for digital projects. Learn how to balance fixed pricing, time and materials, and value-based approaches while managing client expectations and scope creep.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
