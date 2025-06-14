@@ -6,144 +6,134 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=386522",
-          "author": "Ryan Trimble",
-          "description": "I know, I know: there are a ton of content management system options available, and while I've tested several, none have really been the one, y'know? Weird pricing models, difficult customization, some even end up becoming a whole 'nother thing to manage.\nUsing Pages CMS for Static Site Content Management originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-pages-cms-for-static-site-content-management/",
-          "publishedOn": "2025-05-12T12:42:10.000Z",
-          "wordCount": 3771,
-          "title": "Using Pages CMS for Static Site Content Management",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-9.28.56%E2%80%AFPM-scaled.png"
+          "id": "https://css-tricks.com/?p=386648",
+          "author": "Sladjana Stojanovic",
+          "description": "We put it to the test and it turns out Sass can replace JavaScript, at least when it comes to low-level logic and puzzle behavior. With nothing but maps, mixins, functions, and a whole lot of math, we managed to bring our Tangram puzzle to life, no JavaScript required.\nBreaking Boundaries: Building a Tangram Puzzle With (S)CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/",
+          "publishedOn": "2025-06-12T13:58:38.000Z",
+          "wordCount": 4912,
+          "title": "Breaking Boundaries: Building a Tangram Puzzle With (S)CSS",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/tangram.webp"
         },
         {
-          "id": "https://css-tricks.com/?p=386270",
-          "author": "John Rhea",
-          "description": "What does it look like to refactor your own code? John Rhea picks apart an old CSS animation he wrote and walks through the thought process of optimizing it.\nOrbital Mechanics (or How I Optimized a CSS Keyframes Animation) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/orbital-mechanics-or-how-i-optimized-a-css-keyframes-animation/",
-          "publishedOn": "2025-05-08T12:33:29.000Z",
-          "wordCount": 3299,
-          "title": "Orbital Mechanics (or How I Optimized a CSS Keyframes Animation)",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/space-planet-stars.jpg"
+          "id": "https://css-tricks.com/?p=386694",
+          "author": "Preethi",
+          "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.\nCreating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/",
+          "publishedOn": "2025-06-09T12:58:37.000Z",
+          "wordCount": 2597,
+          "title": "Creating an Auto-Closing Notification With an HTML Popover",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=386463",
-          "author": "Sunkanmi Fafowora",
-          "description": "Okay, nobody is an exaggeration, but have you seen the stats for hwb()? They show a steep decline, and after working a lot on color in the CSS-Tricks almanac, I’ve just been wondering why that is.\nWhy is Nobody Using the hwb() Color Function? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/",
-          "publishedOn": "2025-05-07T12:25:19.000Z",
-          "wordCount": 2741,
-          "title": "Why is Nobody Using the hwb() Color Function?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/stripe-accessible-colors.png"
+          "id": "https://css-tricks.com/?p=386876",
+          "author": "Temani Afif",
+          "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.\nBetter CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/",
+          "publishedOn": "2025-06-06T13:52:42.000Z",
+          "wordCount": 3958,
+          "title": "Better CSS Shapes Using shape() — Part 3: Curves",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/css-shape-curve-diagram.webp"
         },
         {
-          "id": "https://css-tricks.com/?p=386482",
-          "author": "Ryan Trimble",
-          "description": "Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.\nGSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/",
-          "publishedOn": "2025-05-06T14:14:41.000Z",
-          "wordCount": 1849,
-          "title": "GSAP is Now Completely Free, Even for Commercial Use!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-3.27.23%E2%80%AFPM-scaled.png"
+          "id": "https://css-tricks.com/?p=386829",
+          "author": "Daniel Schwarz",
+          "description": "The contrast-color() function doesn’t check color contrast, but rather it outright resolves to either black or white (whichever one contrasts the most with your chosen color). Safari Technology Preview recently implemented it and we explore its possible uses in this article.\nExploring the CSS contrast-color() Function… a Second Time originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/",
+          "publishedOn": "2025-06-05T13:45:56.000Z",
+          "wordCount": 3284,
+          "title": "Exploring the CSS contrast-color() Function… a Second Time",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=385733",
-          "author": "Kevin Hamer",
-          "description": "Using scroll shadows, especially for mobile devices, is a subtle bit of UX that Chris has covered before. Geoff covered a newer approach that uses the animation-timeline property. Here’s yet another way.\nModern Scroll Shadows Using Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/modern-scroll-shadows-using-scroll-driven-animations/",
-          "publishedOn": "2025-05-05T13:01:43.000Z",
-          "wordCount": 2281,
-          "title": "Modern Scroll Shadows Using Scroll-Driven Animations",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/scroll-shadows-table.jpg"
+          "id": "https://css-tricks.com/?p=387046",
+          "author": "Juan Diego Rodríguez",
+          "description": "The State of CSS 2025 Survey dropped a few days ago, and besides anticipating the results, it's exciting to see a lot of the new things shipped to CSS reflected in the questions.\nThe State of CSS 2025 Survey is out! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-state-of-css-2025-survey-is-out/",
+          "publishedOn": "2025-06-05T11:13:00.000Z",
+          "wordCount": 1938,
+          "title": "The State of CSS 2025 Survey is out!",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/06/state_of_css_2025.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=386291",
-          "author": "Geoff Graham",
-          "description": "The CSS shape() function recently gained support in both Chromium and WebKit browsers. It's a way of drawing complex shapes when clipping elements with the clip-path property.\nCSS shape() Commands originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-shape-commands/",
-          "publishedOn": "2025-05-02T12:36:10.000Z",
-          "wordCount": 2634,
-          "title": "CSS shape() Commands",
+          "id": "https://css-tricks.com/?p=386750",
+          "author": "Andy Clarke",
+          "description": "So, how can you take dialogue box design beyond the generic look of frameworks and templates? How can you style them to reflect a brand’s visual identity and help to tell its stories? Here’s how I do it in CSS using ::backdrop, backdrop-filter, and animations.\nGetting Creative With HTML Dialog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/getting-creative-with-html-dialog/",
+          "publishedOn": "2025-06-03T14:39:04.000Z",
+          "wordCount": 2991,
+          "title": "Getting Creative With HTML Dialog",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/s_EE59C5A105545DD153C51E60D867441DC316D04D9E44A41B5CC2A0033D85A746_1747693352461_2025-05-17-3.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=386673",
+          "author": "Temani Afif",
+          "description": "This is the second part of a series that dives deep into the CSS shape() command, continuing with a more detailed look at the arc command.\nBetter CSS Shapes Using shape() — Part 2: More on Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-2-more-on-arcs/",
+          "publishedOn": "2025-05-30T13:45:43.000Z",
+          "wordCount": 3918,
+          "title": "Better CSS Shapes Using shape() — Part 2: More on Arcs",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/shape-fuinction-featured.webp"
+        },
+        {
+          "id": "https://css-tricks.com/?p=386654",
+          "author": "Daniel Schwarz",
+          "description": "The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).\nWhat We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-we-know-so-far-about-css-reading-order/",
+          "publishedOn": "2025-05-27T13:02:32.000Z",
+          "wordCount": 3035,
+          "title": "What We Know (So Far) About CSS Reading Order",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/books-code.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=386640",
+          "author": "Temani Afif",
+          "description": "This is the first part of a series that dives deep into the shape function, starting with shapes that use lines and arcs.\nBetter CSS Shapes Using shape() — Part 1: Lines and Arcs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/",
+          "publishedOn": "2025-05-23T13:02:32.000Z",
+          "wordCount": 4496,
+          "title": "Better CSS Shapes Using shape() — Part 1: Lines and Arcs",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/09/css-shapes.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=386334",
-          "author": "Sacha Greif",
-          "description": "The State of Devs survey is now open to participation, and unlike previous surveys it covers everything except code: career, workplace, but also health, hobbies, and more. \nState of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/state-of-devs-a-survey-for-every-developer/",
-          "publishedOn": "2025-05-01T12:34:58.000Z",
-          "wordCount": 2323,
-          "title": "State of Devs: A Survey for Every Developer",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/devs2025-og.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385783",
-          "author": "Andy Clarke",
-          "description": "Let’s run through a quick refresher. Image maps date all the way back to HTML 3.2, where, first, server-side maps and then client-side maps defined clickable regions over an image using map and area elements.\nRevisiting Image Maps originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/revisiting-image-maps/",
-          "publishedOn": "2025-04-30T12:12:45.000Z",
-          "wordCount": 3251,
-          "title": "Revisiting Image Maps",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/image-maps-thumb.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386325",
+          "id": "https://css-tricks.com/?p=386724",
           "author": "Geoff Graham",
-          "description": "Brad Frost is running this new little podcast called Open Up. Folks write in with questions about the “other” side of web design and front-end development — not so much about tools and best practices as it is about …\nOpen Up With Brad Frost, Episode 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/open-up-with-brad-frost-episode-2/",
-          "publishedOn": "2025-04-29T14:27:25.000Z",
-          "wordCount": 1884,
-          "title": "Open Up With Brad Frost, Episode 2",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/smashing-open-up-brad-frost-2.png"
+          "description": "Clever, clever that Andy Bell. He shares a technique for displaying image alt text when the image fails to load. Well, more precisely, it's a technique to apply styles to the alt when the image doesn't load, offering a nice UI fallback for what would otherwise be a busted-looking error.\nYou can style alt text like any other text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/you-can-style-alt-text-like-any-other-text/",
+          "publishedOn": "2025-05-22T14:43:09.000Z",
+          "wordCount": 2320,
+          "title": "You can style alt text like any other text",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/puzzle-pieces-scatter.png"
         },
         {
-          "id": "https://css-tricks.com/?p=385394",
+          "id": "https://css-tricks.com/?p=386716",
           "author": "Geoff Graham",
-          "description": "The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. \nAnchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/",
-          "publishedOn": "2025-04-28T12:43:01.000Z",
-          "wordCount": 2344,
-          "title": "Anchor Positioning Just Don’t Care About Source Order",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/12/Yet-Another-Anchor-Positioning-Quirk.png"
+          "description": "Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …\nSVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/svg-to-css-shape-converter/",
+          "publishedOn": "2025-05-21T15:09:29.000Z",
+          "wordCount": 2260,
+          "title": "SVG to CSS Shape Converter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/adaptive-icons.png"
         },
         {
-          "id": "https://css-tricks.com/?p=385855",
-          "author": "Blackle Mori",
-          "description": "In this post, Blackle Mori shows you a few of the hacks found while trying to push the limits of Cohost’s HTML support. Use these if you dare, lest you too get labelled a CSS criminal.\nThe Lost CSS Tricks of Cohost.org originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-lost-css-tricks-of-cohost-org/",
-          "publishedOn": "2025-04-24T12:49:42.000Z",
-          "wordCount": 3850,
-          "title": "The Lost CSS Tricks of Cohost.org",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-star-variations.jpg"
+          "id": "https://css-tricks.com/?p=386580",
+          "author": "Juan Diego Rodríguez",
+          "description": "Answering a reader's question about how to create a complex numbering system with CSS list counters.\nA Reader’s Question on Nested Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-readers-question-on-nested-lists/",
+          "publishedOn": "2025-05-19T12:32:22.000Z",
+          "wordCount": 3138,
+          "title": "A Reader’s Question on Nested Lists",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/html-lists.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=385848",
+          "id": "https://css-tricks.com/?p=386631",
           "author": "Geoff Graham",
-          "description": "Yay, let's jump for text-wrap: pretty landing in Safari Technology Preview! But beware that it's different from how it works in Chromium browsers.\n“Pretty” is in the eye of the beholder originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/",
-          "publishedOn": "2025-04-18T12:12:35.000Z",
-          "wordCount": 2333,
-          "title": "“Pretty” is in the eye of the beholder",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/bad-typography-SM-light.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385199",
-          "author": "Zell Liew",
-          "description": "There was once upon a time when native CSS lacked many essential features, leaving developers to come up with all sorts of ways to make CSS easier to write over the years.\nSo, You Want to Give Up CSS Pre- and Post-Processors… originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/",
-          "publishedOn": "2025-04-17T12:38:05.000Z",
-          "wordCount": 4117,
-          "title": "So, You Want to Give Up CSS Pre- and Post-Processors…",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/sass-logo.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=385721",
-          "author": "Preethi",
-          "description": "Tips and tricks on utilizing the CSS backdrop-filter property to style user interfaces. You’ll learn how to layer backdrop filters among multiple elements, and integrate them with other CSS graphical effects to create elaborate designs.\nUsing CSS backdrop-filter for UI Effects originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/",
-          "publishedOn": "2025-04-16T12:34:50.000Z",
-          "wordCount": 2678,
-          "title": "Using CSS backdrop-filter for UI Effects",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/04/backdrop-filter-weather-widget.jpeg"
+          "description": "Some weekend reading on the heels of Global Accessibility Awareness Day (GAADM), which took place yesterday. The Email Markup Consortium (EMC) released its 2025 study on the accessibility in HTML emails, and the TL;DR is …\nHTML Email Accessibility Report 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/html-email-accessibility-report-2025/",
+          "publishedOn": "2025-05-16T14:38:19.000Z",
+          "wordCount": 2163,
+          "title": "HTML Email Accessibility Report 2025",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/09/email-envelope.jpg"
         }
       ]
     },
@@ -153,229 +143,199 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
-          "author": "hello@smashingmagazine.com (Rebecca Hemstad & Mark Malek)",
-          "description": "Learn how two designers tackled the challenges of building a localization-ready design system for a global audience. This case study dives into how Rebecca and Mark combined Figma Variables and design tokens to address multilingual design issues, such as text overflow, RTL layouts, and font inconsistencies.",
-          "link": "https://smashingmagazine.com/2025/05/integrating-localization-into-design-systems/",
-          "publishedOn": "2025-05-12T10:00:00.000Z",
-          "wordCount": 5690,
-          "title": "Integrating Localization Into Design Systems",
+          "id": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+          "author": "hello@smashingmagazine.com (Blake Lundquist)",
+          "description": "In this tutorial, Blake Lundquist walks us through two methods of creating the “moving-highlight” navigation pattern using only plain JavaScript and CSS. The first technique uses the `getBoundingClientRect` method to explicitly animate the border between navigation bar items when they are clicked. The second approach achieves the same functionality using the new View Transition API.",
+          "link": "https://smashingmagazine.com/2025/06/creating-moving-highlight-navigation-bar-javascript-css/",
+          "publishedOn": "2025-06-11T13:00:00.000Z",
+          "wordCount": 4290,
+          "title": "Creating The &ldquo;Moving Highlight&rdquo; Navigation Bar With JavaScript And CSS",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg",
+            "url": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/integrating-localization-into-design-systems/integrating-localization-into-design-systems.jpg"
+          "imageUrl": "http://files.smashing.media/articles/creating-moving-highlight-navigation-bar-vanilla-javascript/creating-moving-highlight-navigation-bar-javascript-css.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/05/integrating-design-code-native-design-tokens-penpot/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "The Penpot team is not slowing down on its mission to build a free design tool that not only offers powerful design features but is also well-integrated with code and modern development practices. In its latest release, Penpot, as the first design tool ever, introduces support for native design tokens. Let’s take a closer look at this concept and how you can employ it in your process.",
-          "link": "https://smashingmagazine.com/2025/05/integrating-design-code-native-design-tokens-penpot/",
-          "publishedOn": "2025-05-08T10:00:00.000Z",
-          "wordCount": 4941,
-          "title": "Integrating Design And Code With Native Design Tokens In Penpot",
+          "id": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
+          "author": "hello@smashingmagazine.com (Myriam Frisano)",
+          "description": "SVG is easy — until you meet `path`. However, it’s not as confusing as it initially looks. In this first installment of a pair of articles, Myriam Frisano aims to teach you the basics of `\n` and its sometimes mystifying commands. With simple examples and visualizations, she’ll help you understand the easy syntax and underlying rules of SVG’s most powerful element so that by the end, you’re fully able to translate SVG semantic tags into a language `path` understands.",
+          "link": "https://smashingmagazine.com/2025/06/decoding-svg-path-element-line-commands/",
+          "publishedOn": "2025-06-09T08:00:00.000Z",
+          "wordCount": 4857,
+          "title": "Decoding The SVG <code>path</code> Element: Line Commands",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-design-code-native-design-tokens-penpot/integrating-design-code-native-design-tokens-penpot.jpg",
+            "url": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/integrating-design-code-native-design-tokens-penpot/integrating-design-code-native-design-tokens-penpot.jpg"
+          "imageUrl": "http://files.smashing.media/articles/decoding-svg-path-element-line-commands/decoding-svg-path-element-line-commands.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
+          "id": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
+          "author": "hello@smashingmagazine.com (Carrie Webster)",
+          "description": "We often spotlight wireframes, research, or tools like Figma, but none of that moves the needle if we can’t collaborate well. Great UX doesn’t happen in isolation. It takes conversations with engineers, alignment with product, sales, and other stakeholders, and the ability to listen, adapt, and co-create. That’s where design becomes a team sport, and when your ability to capture the outcomes multiplies the UX impact.",
+          "link": "https://smashingmagazine.com/2025/06/collaboration-most-underrated-ux-skill/",
+          "publishedOn": "2025-06-05T08:00:00.000Z",
+          "wordCount": 4715,
+          "title": "Collaboration: The Most Underrated UX Skill No One Talks About",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/collaboration-most-underrated-ux-skill/collaboration-most-underrated-ux-skill.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "author": "hello@smashingmagazine.com (Andy Clarke)",
-          "description": "Have you ever thought about how the limitations of early cartoon animations might relate to web design today? From looping backgrounds to minimal frame changes, these retro animation techniques have surprising parallels to modern CSS. In this article, pioneering author and web designer [Andy Clarke](https://stuffandnonsense.co.uk) shows how he applied these principles to Emmy-winning composer Mike Worth’s new website, using CSS to craft engaging and fun animations that bring his world to life.",
-          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-1-classic-cartoons-inspire-css/",
-          "publishedOn": "2025-05-07T08:00:00.000Z",
-          "wordCount": 5511,
-          "title": "Smashing Animations Part 1: How Classic Cartoons Inspire Modern CSS",
+          "description": "What’s the best way to make your SVGs faster, simpler, and more manageable? In this article, pioneering author and web designer Andy Clarke explains the process he relies on *to* prepare, optimise, and structure SVGs for animation and beyond.",
+          "link": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
+          "publishedOn": "2025-06-04T08:00:00.000Z",
+          "wordCount": 4548,
+          "title": "Smashing Animations Part 4: Optimising SVGs",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg",
+            "url": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-1-classic-cartoons-inspire-css/smashing-animations-part-1-classic-cartoons-inspire-css.jpg"
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-4-optimising-svgs/smashing-animations-part-4-optimising-svgs.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
-          "author": "hello@smashingmagazine.com (Gabriel Shoyombo)",
-          "description": "There were duelling proposals floating around for adding support for masonry-style layouts in CSS. In one corner is a proposal that extends the existing CSS Grid specification. In the other corner is a second proposal that sets up masonry as a standalone module. Well, not until recently. Now, there are three proposals with Apple WebKit’s “Item Flow” as the third option. The first two sides make strong points, and the third one merges them into one, all of which you will learn about in this article.",
-          "link": "https://smashingmagazine.com/2025/05/masonry-css-should-grid-evolve-stand-aside-new-module/",
-          "publishedOn": "2025-05-06T13:00:00.000Z",
-          "wordCount": 4917,
-          "title": "Masonry In CSS: Should Grid Evolve Or Stand Aside For A New Module?",
+          "id": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
+          "author": "hello@smashingmagazine.com (Nikita Samutin)",
+          "description": "Designers love to craft, but polishing pixels before the problem is solved is a time-sink. This article pinpoints the five traps that lure us into premature detail — being afraid to show rough work, fixing symptoms instead of causes, solving the wrong problem, drowning in unactionable feedback, and plain fatigue — then hands you a four-step rescue plan to refocus on goals, ship faster, and keep your craft where it counts.",
+          "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
+          "publishedOn": "2025-06-03T14:00:00.000Z",
+          "wordCount": 5044,
+          "title": "Why Designers Get Stuck In The Details And How To Stop",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg",
+            "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/masonry-css-should-grid-evolve-stand-aside-new-module/masonry-css-should-grid-evolve-stand-aside-new-module.jpg"
+          "imageUrl": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
+          "id": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "When was the last time your project wrapped up smoothly — no delays, no surprises, no last-minute compromises? In reality, most UX projects drift as timelines slip, budgets stretch, and features morph. How do we get better at navigating the chaos? An upcoming part of How To Measure UX and Design Impact by yours truly.",
-          "link": "https://smashingmagazine.com/2025/05/how-launch-big-complex-projects/",
-          "publishedOn": "2025-05-05T10:00:00.000Z",
-          "wordCount": 4412,
-          "title": "How To Launch Big Complex Projects",
+          "description": "Designing for neurodiversity means recognizing that people aren’t edge cases but individuals with varied ways of thinking and navigating the web. So, how can we create more inclusive experiences that work better for everyone?",
+          "link": "https://smashingmagazine.com/2025/06/designing-for-neurodiversity/",
+          "publishedOn": "2025-06-02T08:00:00.000Z",
+          "wordCount": 3203,
+          "title": "Designing For Neurodiversity",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg",
+            "url": "http://files.smashing.media/articles/designing-for-neurodiversity/designing-for-neurodiversity.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/how-launch-big-complex-projects/how-launch-big-complex-projects.jpg"
+          "imageUrl": "http://files.smashing.media/articles/designing-for-neurodiversity/designing-for-neurodiversity.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
-          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
-          "description": "WCAG is evolving. Since 1999, the Web Content Accessibility Guidelines have defined accessibility in binary terms: either a success criterion is met or not. But real user experience is rarely that simple. WCAG 3.0 rethinks the model — prioritizing usability over compliance and shifting the focus toward the quality of access rather than the mere presence of features. Could this be the start of a new era in accessibility?",
-          "link": "https://smashingmagazine.com/2025/05/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/",
-          "publishedOn": "2025-05-02T11:00:00.000Z",
-          "wordCount": 4628,
-          "title": "WCAG 3.0’s Proposed Scoring Model: A Shift In Accessibility Evaluation",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/wcag-3-proposed-scoring-model-shift-accessibility-evaluation/wcag-3-proposed-scoring-model-shift-accessibility-evaluation.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
+          "id": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed with love by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2025/04/desktop-wallpaper-calendars-may-2025/",
-          "publishedOn": "2025-04-30T10:00:00.000Z",
-          "wordCount": 5134,
-          "title": "Make Every Day Count (May 2025 Wallpapers Edition)",
+          "description": "Let’s kick off June — and the beginning of summer — with some fresh inspiration! Artists and designers from across the globe once again tickled their creativity to welcome the new month with a new collection of desktop wallpapers. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/05/desktop-wallpaper-calendars-june-2025/",
+          "publishedOn": "2025-05-31T08:00:00.000Z",
+          "wordCount": 5197,
+          "title": "Prelude To Summer (June 2025 Wallpapers Edition)",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png",
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png",
             "length": "0",
             "type": "image/png"
           },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-may-2023/may-22-hello-may-nocal-preview-opt.png"
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d57d2cfe-3f0d-48ac-9c26-df7e43cbd76b/june-18-travel-time-preview-opt.png"
         },
         {
-          "id": "https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/",
-          "author": "hello@smashingmagazine.com (Anima Team)",
-          "description": "As designers, it’s important to be able to transform visual ideas into concepts within minutes and into fully functional products within hours. Well, today we’re bringing you closer to AnimaApp, an app designed to make your life easier — whether you’re a designer, developer, product team member or entrepreneur.",
-          "link": "https://smashingmagazine.com/2025/04/anima-playground-figma-designs-live-apps/",
-          "publishedOn": "2025-04-29T10:00:00.000Z",
-          "wordCount": 3628,
-          "title": "How To Turn Your Figma Designs Into Live Apps With Anima Playground",
+          "id": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
+          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
+          "description": "The web is mired in a struggle to eliminate third-party cookies, with the World Wide Web Consortium Technical Architecture Group leading the charge. But there are obstacles preventing this from happening, and, as a result, many essential web features continue to rely on cookies to function properly. That’s why detecting third-party cookie blocking isn’t just good technical hygiene but a frontline defense for user experience.",
+          "link": "https://smashingmagazine.com/2025/05/reliably-detecting-third-party-cookie-blocking-2025/",
+          "publishedOn": "2025-05-28T10:00:00.000Z",
+          "wordCount": 5700,
+          "title": "Reliably Detecting Third-Party Cookie Blocking In 2025",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/anima-playground-figma-designs-live-apps/anima-playground-figma-designs-live-apps.jpg",
+            "url": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/anima-playground-figma-designs-live-apps/anima-playground-figma-designs-live-apps.jpg"
+          "imageUrl": "http://files.smashing.media/articles/reliably-detecting-third-party-cookie-blocking-2025/reliably-detecting-third-party-cookie-blocking-2025.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/04/ux-design-files-organization-template/",
+          "id": "https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Lost in a sea of UX files, docs, PDFs, and scattered decisions across Slack, Dropbox, Notion, and Figma? We talk a lot about organizing Figma, but what about a sensible folder structure for all UX assets? Let’s fix that. Kindly powered by [Smart Interface Design Patterns](https://smart-interface-design-patterns.com).",
-          "link": "https://smashingmagazine.com/2025/04/ux-design-files-organization-template/",
-          "publishedOn": "2025-04-28T13:00:00.000Z",
-          "wordCount": 3786,
-          "title": "UX And Design Files Organization Template",
+          "description": "What’s the difference between data, findings, and UX insights? And how do you argue for statistical significance in your UX research? Let’s unpack it.",
+          "link": "https://smashingmagazine.com/2025/05/data-vs-findings-vs-insights-ux/",
+          "publishedOn": "2025-05-27T13:00:00.000Z",
+          "wordCount": 3771,
+          "title": "Data Vs. Findings Vs. Insights In UX",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-design-files-organization-template/ux-design-files-organization-template.jpg",
+            "url": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/ux-design-files-organization-template/ux-design-files-organization-template.jpg"
+          "imageUrl": "http://files.smashing.media/articles/data-vs-findings-vs-insights-ux/data-vs-findings-vs-insights-ux.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
-          "author": "hello@smashingmagazine.com (Talke Hoppmann-Walton)",
-          "description": "It starts with good intentions — a quick fix here, a shiny feature there — and suddenly, your product portfolio’s bursting at the seams. In this guide, Talke Hoppmann-Walton walks you through a “Product Kondo” exercise to declutter, realign, and spark some serious product joy for both your business and your customers.",
-          "link": "https://smashingmagazine.com/2025/04/product-kondo-guide-evaluating-organizational-product-portfolio/",
-          "publishedOn": "2025-04-25T13:00:00.000Z",
-          "wordCount": 6325,
-          "title": "“Product Kondo”: A Guide To Evaluating Your Organizational Product Portfolio",
+          "id": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "Road-tripping along the line between engineering and spirituality, Robert M. Pirsig’s musings on the arts, sciences, and Quality ring as true now as they ever have.",
+          "link": "https://smashingmagazine.com/2025/05/what-zen-art-motorcycle-maintenance-teach-web-design/",
+          "publishedOn": "2025-05-23T11:00:00.000Z",
+          "wordCount": 5689,
+          "title": "What Zen And The Art Of Motorcycle Maintenance Can Teach Us About Web Design",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg",
+            "url": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/product-kondo-guide-evaluating-organizational-product-portfolio/product-kondo-guide-evaluating-organizational-product-portfolio.jpg"
+          "imageUrl": "http://files.smashing.media/articles/zen-and-art-of-motorcycle-maintenance-teach-us-about-web-design/what-zen-art-motorcycle-maintenance-teach-web-design.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
-          "author": "hello@smashingmagazine.com (Marina Chernyshova)",
-          "description": "While it is clear that creativity is driven by both the left and right hemispheres, an important question remains: how can we boost creativity while keeping the process enjoyable? It may not be obvious, but non-design-related activities can, in fact, be an opportunity to enhance creativity.",
-          "link": "https://smashingmagazine.com/2025/04/neuroscience-designers-boost-creativity-endless-reference-scrolling/",
-          "publishedOn": "2025-04-24T10:00:00.000Z",
-          "wordCount": 6603,
-          "title": "Boosting Up Your Creativity Without Endless Reference Scrolling",
+          "id": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "While there are plenty of ways that CSS animations can bring designs to life, adding simple SMIL (Synchronized Multimedia Integration Language) animations in SVG can help them do much more. Andy Clarke explains where SMIL animations in SVG take over where CSS leaves off.",
+          "link": "https://smashingmagazine.com/2025/05/smashing-animations-part-3-smil-not-dead/",
+          "publishedOn": "2025-05-21T08:00:00.000Z",
+          "wordCount": 5456,
+          "title": "Smashing Animations Part 3: SMIL’s Not Dead Baby, SMIL’s Not Dead",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg",
+            "url": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/neuroscience-designers-boost-creativity-endless-reference-scrolling/neuroscience-designers-boost-creativity-endless-reference-scrolling.jpg"
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-3-smil-not-dead/smashing-animations-part-3-smil-not-dead.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Poor internet connectivity doesn’t have to mean poor UX. With PWA technologies like `IndexedDB`, service workers, and the Background Sync API, you can build an offline-friendly image upload system that queues uploads and retries them automatically — so your users can upload stress-free, even when offline.",
-          "link": "https://smashingmagazine.com/2025/04/building-offline-friendly-image-upload-system/",
-          "publishedOn": "2025-04-23T10:00:00.000Z",
-          "wordCount": 4450,
-          "title": "Building An Offline-Friendly Image Upload System",
+          "id": "https://smashingmagazine.com/2025/05/design-system-in-90-days/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Helpful PDF worksheets and tools to get the design system effort up and running — and adopted! Kindly powered by How To Measure UX and Design Impact, a friendly course on how to show the impact of your incredible UX work on business.",
+          "link": "https://smashingmagazine.com/2025/05/design-system-in-90-days/",
+          "publishedOn": "2025-05-19T10:00:00.000Z",
+          "wordCount": 3367,
+          "title": "Design System In 90 Days",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg",
+            "url": "http://files.smashing.media/articles/design-system-in-90-days/design-system-in-90-days.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/building-offline-friendly-image-upload-system/building-offline-friendly-image-upload-system.jpg"
+          "imageUrl": "http://files.smashing.media/articles/design-system-in-90-days/design-system-in-90-days.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
-          "author": "hello@smashingmagazine.com (Eleanor Hecks)",
-          "description": "Keyboard navigation is a vital aspect of accessible web design, and a detail-oriented approach is crucial. Prioritizing keyboard navigation prioritizes the user experience for a diverse audience, extending your reach while simultaneously fostering a more inclusive web environment.",
-          "link": "https://smashingmagazine.com/2025/04/what-mean-site-be-keyboard-navigable/",
-          "publishedOn": "2025-04-18T13:00:00.000Z",
-          "wordCount": 4309,
-          "title": "What Does It Really Mean For A Site To Be Keyboard Navigable",
+          "id": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "Learn how to create and implement a UX strategy framework that shapes work and drives real business value.",
+          "link": "https://smashingmagazine.com/2025/05/building-practical-ux-strategy-framework/",
+          "publishedOn": "2025-05-16T11:00:00.000Z",
+          "wordCount": 4407,
+          "title": "Building A Practical UX Strategy Framework",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg",
+            "url": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/what-mean-site-be-keyboard-navigable/what-mean-site-be-keyboard-navigable.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
-          "author": "hello@smashingmagazine.com (Daniel Devesa Derksen-Staats)",
-          "description": "While there’s no definitive playbook for building an accessibility culture, Dani shares lessons from his experience in shaping it through habits rather than mandates.",
-          "link": "https://smashingmagazine.com/2025/04/fostering-accessibility-culture/",
-          "publishedOn": "2025-04-17T08:00:00.000Z",
-          "wordCount": 5773,
-          "title": "Fostering An Accessibility Culture",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/fostering-accessibility-culture/fostering-accessibility-culture.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
-          "author": "hello@smashingmagazine.com (Alex Williams)",
-          "description": "Dark mode isn’t just a trendy aesthetic. It’s a gateway to more inclusive digital experiences, but only if designed thoughtfully. Discover how to craft dark modes that don’t just look good but work for everyone, from those with light sensitivity to machine learning algorithms.",
-          "link": "https://smashingmagazine.com/2025/04/inclusive-dark-mode-designing-accessible-dark-themes/",
-          "publishedOn": "2025-04-15T13:00:00.000Z",
-          "wordCount": 4981,
-          "title": "Inclusive Dark Mode: Designing Accessible Dark Themes For All Users",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/inclusive-dark-mode-designing-accessible-dark-themes/inclusive-dark-mode-designing-accessible-dark-themes.jpg"
+          "imageUrl": "http://files.smashing.media/articles/building-practical-ux-strategy-framework/building-practical-ux-strategy-framework.jpg"
         }
       ]
     },
@@ -385,104 +345,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "682354c58b3805ff1d2335d0",
+          "id": "684c867db87f779c97f2e509",
+          "author": "German Cocca",
+          "description": "NestJS is a progressive Node.js framework for building efficient, reliable, and scalable server-side applications. Combining the best ideas from OOP (Object-Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming)...",
+          "link": "https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/",
+          "publishedOn": "2025-06-13T20:13:49.000Z",
+          "wordCount": 11691,
+          "title": "The NestJS Handbook – Learn to Use Nest with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830137752/799b050a-f884-4043-9db1-fe2bb860d297.png"
+        },
+        {
+          "id": "684c61db3b494a20ba49fddb",
+          "author": "Atuoha Anthony",
+          "description": "In today's digital age, the demand for accessible and accurate health information is higher than ever. Leveraging the power of artificial intelligence, we can create intelligent chatbots that provide reliable health-related guidance. This beginner's ...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-medical-chatbot-with-flutter-and-gemini/",
+          "publishedOn": "2025-06-13T17:37:31.000Z",
+          "wordCount": 3561,
+          "title": "How to Build a Medical Chatbot with Flutter and Gemini: A Beginner’s Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830721631/4675d1f6-ad64-46a3-86e1-ce8a2c84323f.png"
+        },
+        {
+          "id": "684c58453ee20021234073af",
+          "author": "Brian Barrow",
+          "description": "Vue composables are a very helpful tool when developing Vue applications. They give developers an easy way to reuse logic across our applications. In addition to allowing for “stateless” logic (things like formatting or routine calculations), composa...",
+          "link": "https://www.freecodecamp.org/news/how-vue-composables-work/",
+          "publishedOn": "2025-06-13T16:56:37.000Z",
+          "wordCount": 2579,
+          "title": "How Vue Composables Work – Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749830866913/e732db46-638b-42cd-aabf-ad51a54a3409.png"
+        },
+        {
+          "id": "684c50b9c6ec6bf605276b54",
           "author": "Manish Shivanandhan",
-          "description": "Every website that takes user input is a potential target for an attacker. You might think your app is too small or too new to get noticed, but attackers use tools to scan the web for common security mistakes. If your site is online and has a login f...",
-          "link": "https://www.freecodecamp.org/news/how-hackers-exploit-web-applications-and-how-to-prevent-them/",
-          "publishedOn": "2025-05-13T14:18:45.000Z",
-          "wordCount": 2012,
-          "title": "Top Ways Hackers Exploit Web Applications (and How to Prevent Them)",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747060147180/03146ca3-bc12-4d00-bdde-985817a0893c.png"
+          "description": "We use our phones for everything  –  texting, banking, browsing, tracking our health, even unlocking our homes. But with all that convenience comes a lot of risk. Apps are hungry for your data. Hackers are always looking for cracks in your security. ...",
+          "link": "https://www.freecodecamp.org/news/how-to-improve-your-phones-privacy/",
+          "publishedOn": "2025-06-13T16:24:25.000Z",
+          "wordCount": 2039,
+          "title": "How to Improve Your Phone’s Privacy",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749831817564/98cdcb42-6e7f-49c3-9a7c-49e8db78fc3f.png"
         },
         {
-          "id": "68222009a8daed5c1fbf1692",
-          "author": "Balajee Asish Brahmandam",
-          "description": "These days, businesses are under increasing pressure to comply with stringent regulations while also combating fraudulent activities. The high volume of data and the intricate requirements of real-time fraud detection and compliance reporting are fre...",
-          "link": "https://www.freecodecamp.org/news/automate-compliance-and-fraud-detection-in-finance-with-mlops/",
-          "publishedOn": "2025-05-12T16:21:29.000Z",
-          "wordCount": 2685,
-          "title": "How to Automate Compliance and Fraud Detection in Finance with MLOps",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747064311601/923284fd-8584-4ef3-8591-f717b9807148.png"
+          "id": "6849e4d1a3aec42347669919",
+          "author": "Alex Tray",
+          "description": "Across platforms, behind every app, and on your own website, hackers may patiently wait.  These days, everyone should have identity theft protections, and be informed about data threats lurking in the trenches of the world-wide-web’s war on privacy a...",
+          "link": "https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/",
+          "publishedOn": "2025-06-11T20:19:29.000Z",
+          "wordCount": 6806,
+          "title": "How Attackers Steal Data from Websites (And How to Stop Them)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1748376908250/fabf8346-d3fb-47ff-940b-f30b6e476ca5.png"
         },
         {
-          "id": "682201c8ba77730da04e15a8",
-          "author": "Lucas",
-          "description": "Object-Oriented Programming (OOP) is one of the most widely used programming paradigms in software development. But is also one of the most misunderstood. This article will help you gain a solid grasp of OOP in TypeScript by walking you through the l...",
-          "link": "https://www.freecodecamp.org/news/learn-object-oriented-programming-in-typescript/",
-          "publishedOn": "2025-05-12T14:12:24.000Z",
-          "wordCount": 3450,
-          "title": "Learn Object-Oriented Programming in TypeScript",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1747058547629/98922409-4eaf-45e5-8721-10c6a1e6e5e4.png"
+          "id": "68495738cb7b75f7a33a73c4",
+          "author": "Zaira Hira",
+          "description": "Whether you’ve just gained access to a new Linux system, ethically hacked into one as part of a security test, or you’re just curious to know more about your current machine, this article will guide you through the process. You’ll learn how you can g...",
+          "link": "https://www.freecodecamp.org/news/get-linux-system-info-through-cli/",
+          "publishedOn": "2025-06-11T10:15:20.000Z",
+          "wordCount": 6558,
+          "title": "How to Get Information About Your Linux System Through the Command Line",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749636399891/4b457f71-2d18-463a-b98a-e19ff5a6b769.png"
         },
         {
-          "id": "6822006162f6347293451e07",
-          "author": "evaristo.c",
-          "description": "Over the past year, I’ve explored tools and practices that help developers build an analytical mindset. One recurring theme is how experienced programmers often describe understanding code as forming a mental picture – a conceptual map of the program...",
-          "link": "https://www.freecodecamp.org/news/how-to-become-an-analytical-programmer-compare-five-projects/",
-          "publishedOn": "2025-05-12T14:06:25.000Z",
-          "wordCount": 12710,
-          "title": "How to Become an Analytical Programmer – Solve the \"Rock, Paper, Scissors\" Game 5 Ways Using JavaScript & Mermaid.js",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746812725602/cd4a5bc4-71f2-4678-8f5d-5571d9cc38e8.png"
+          "id": "68489084490c709f6b3070ed",
+          "author": "Sravan Karuturi",
+          "description": "In this handbook, I’ll demystify the Apple app code signing process. Apple's ecosystem is powerful, but its distribution mechanisms – with various identifiers, certificates, and profiles – can appear complex. This guide attempts to make that journey ...",
+          "link": "https://www.freecodecamp.org/news/apple-code-signing-handbook/",
+          "publishedOn": "2025-06-10T20:07:32.000Z",
+          "wordCount": 7079,
+          "title": "The Apple Code Signing Handbook",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749585600223/49e9c922-0b5d-4a98-a619-eedfd7a8b617.png"
         },
         {
-          "id": "681e7192df44ab8496bca883",
-          "author": "Balajee Asish Brahmandam",
-          "description": "In the rapidly evolving IT landscape, development teams have to operate at their best and manage complex systems while minimizing downtime. And having to do many routine tasks manually can really slow down operations and reduce efficiency. These days...",
-          "link": "https://www.freecodecamp.org/news/make-it-operations-more-efficient-with-aiops/",
-          "publishedOn": "2025-05-09T21:20:18.000Z",
-          "wordCount": 3369,
-          "title": "How to Make IT Operations More Efficient with AIOps: Build Smarter, Faster Systems",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746825359981/5587ade8-875d-4623-b3f5-708109b34672.png"
+          "id": "684871b16bc1898625c952fd",
+          "author": "Chidiadi Anyanwu",
+          "description": "Vercel is a cloud platform or Platform-as-a-Service (PaaS) designed to help frontend developers create, preview, and deploy web applications swiftly and efficiently. In this tutorial, we’ll focus on deploying a Next.js application to Vercel using Git...",
+          "link": "https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/",
+          "publishedOn": "2025-06-10T17:56:01.000Z",
+          "wordCount": 1777,
+          "title": "How To Deploy a Next.js App To Vercel With GitHub Actions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749577622920/8e35a6c1-3f4f-49a3-a4fe-dba80e24eec3.png"
         },
         {
-          "id": "681e31e668aa6f9f0c37bb12",
-          "author": "Manish Shivanandhan",
-          "description": "You’ve probably heard someone say, “We’ll fix it later.” Maybe you’ve said it yourself. In the rush to launch a feature, meet a deadline, or impress a client, you take a shortcut. The code works – for now. The design passes – for now. But over time, ...",
-          "link": "https://www.freecodecamp.org/news/what-is-technical-debt-and-how-do-you-manage-it/",
-          "publishedOn": "2025-05-09T16:48:38.000Z",
-          "wordCount": 2175,
-          "title": "What is Technical Debt and How Do You Manage it?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746809303458/b4635ddc-d909-427a-9cc1-9b9f56ae1d41.png"
-        },
-        {
-          "id": "681dc8d07dcd2a77c4bbe048",
+          "id": "68483a699e226a329abe4dee",
           "author": "Beau Carnes",
-          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Sam Crombie. He's a software engineer and prolific open source contributor to freeCodeCamp. He abandon his job at Microsoft, got into Y Combinator, and is currently ...",
-          "link": "https://www.freecodecamp.org/news/ditching-a-microsoft-job-to-enter-startup-hell-with-lonewolf-engineer-sam-crombie-podcast-171/",
-          "publishedOn": "2025-05-09T09:20:16.000Z",
-          "wordCount": 1071,
-          "title": "Ditching a Microsoft Job to Enter Startup Purgatory with Lonewolf Engineer Sam Crombie [Podcast #171]",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746753508177/0cd57f66-fdb0-4972-b285-1443a7db39fc.png"
+          "description": "If you’ve been meaning to learn full-stack web development but don’t know where to start, this new course is a solid way in. Whether you're aiming to get a job in web dev or just want to build your own projects, understanding how the pieces fit toget...",
+          "link": "https://www.freecodecamp.org/news/learn-the-mern-stack-in-2025/",
+          "publishedOn": "2025-06-10T14:00:09.000Z",
+          "wordCount": 1243,
+          "title": "Learn the MERN Stack in 2025",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749234841421/0d452535-e019-4a1b-800a-1912cc16254a.png"
         },
         {
-          "id": "681d1bbfb1018a470d0d8a02",
+          "id": "6842e00169a5099a551058ce",
           "author": "Beau Carnes",
-          "description": "Preparing for an iOS developer interview can be a daunting task, especially when you're trying to master both conceptual questions and practical coding challenges. Whether you're just starting your iOS development journey or gearing up for your next ...",
-          "link": "https://www.freecodecamp.org/news/prepare-for-your-ios-interview/",
-          "publishedOn": "2025-05-08T21:01:51.000Z",
-          "wordCount": 1146,
-          "title": "Prepare for your iOS interview",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746737982577/1c47e446-ea9d-4e63-a54d-55c6d49e0b53.png"
-        },
-        {
-          "id": "681cf9062cbe43bee0f4138f",
-          "author": "Montasser Mossallem",
-          "description": "Arrow functions were introduced in PHP 7.4 to allow devs to write short, anonymous functions. They offer a compact alternative to traditional closures, especially when the function body is small and focused. In this article, you will learn how to use...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-arrow-functions-in-php/",
-          "publishedOn": "2025-05-08T18:33:42.000Z",
-          "wordCount": 2215,
-          "title": "How to Use Arrow Functions in PHP 7.4+",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746354775446/092005ae-12bb-4be9-a72c-aacc5f044962.jpeg"
-        },
-        {
-          "id": "681cd4ea505e2f4aa02206d5",
-          "author": "Beau Carnes",
-          "description": "Generative AI is revolutionizing how we create, learn, and interact with digital content. From intelligent chatbots and personalized language tutors to realistic image generation and interactive story engines, the applications are endless. We just pu...",
-          "link": "https://www.freecodecamp.org/news/free-genai-65-hour-bootcamp/",
-          "publishedOn": "2025-05-08T15:59:38.000Z",
-          "wordCount": 1339,
-          "title": "Free GenAI 65-Hour Bootcamp",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1746719963573/21c89484-ff8e-45b1-8035-ac9650c22894.png"
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews former CTO and prolific programming teacher Hitesh Choudhary.   We talk about: The limits of AI in building a robust codebase Time management Higher Education in ...",
+          "link": "https://www.freecodecamp.org/news/from-electrical-engineering-student-to-cto-with-hitesh-choudhary-podcast-175/",
+          "publishedOn": "2025-06-06T12:33:05.000Z",
+          "wordCount": 1005,
+          "title": "From electrical engineering student to CTO with Hitesh Choudhary [Podcast #175]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1749158756824/3996a2ad-53e5-4a8f-ab97-2c77a6f66ba3.png"
         }
       ]
     }
