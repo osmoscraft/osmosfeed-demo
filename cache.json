@@ -6,139 +6,99 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=395508",
-          "author": "Temani Afif",
-          "description": "We recently got the shape() function and corner-shape property. What else could we possibly need as far as making shapes in CSS? Let me tell you: the border-shape property!\nGet Ready For the Powerful CSS border-shape Property! originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
-          "publishedOn": "2026-07-07T15:14:00.000Z",
-          "wordCount": 3857,
-          "title": "Get Ready For the Powerful CSS border-shape Property!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/css-border-shape-examples.jpg"
+          "id": "https://css-tricks.com/?p=396255",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+          "publishedOn": "2026-08-12T13:43:56.000Z",
+          "wordCount": 11050,
+          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=395894",
-          "author": "Daniel Schwarz",
-          "description": "I know you’re busy, so for What’s !important #14, I’ll be sprinting through what’s been a stacked couple of weeks despite few browser updates. From CSS Quake to CSS Gap Decorations, this isn’t one to miss!\nWhat’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-14/",
-          "publishedOn": "2026-06-30T13:54:14.000Z",
-          "wordCount": 2623,
-          "title": "What’s !important #14: Gap Decorations, random(), <select> field sizing, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/06/3.mp4",
-            "length": "35551592",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi14.jpg"
+          "id": "https://css-tricks.com/?p=394978",
+          "author": "Preethi",
+          "description": "Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.\nAnimating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/animating-css-border-image/",
+          "publishedOn": "2026-08-10T15:58:47.000Z",
+          "wordCount": 3834,
+          "title": "Animating CSS border-image",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/css-border-image-animations.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=395223",
-          "author": "Daniel Schwarz",
-          "description": "CSS has always had pseudo-classes that style things based on user interactions. Recent features, however, are blurring the line between what CSS \"listens\" for and how they are alternatives to what Javascript typically listens for.\nThe Shifting Line Between CSS States and JavaScript Events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-states-and-javascript-events/",
-          "publishedOn": "2026-06-29T13:03:32.000Z",
-          "wordCount": 3775,
-          "title": "The Shifting Line Between CSS States and JavaScript Events",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/state-management.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394786",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateZ() function moves an element closer to or farther from the user. \ntranslateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatez/",
-          "publishedOn": "2026-06-25T13:18:56.000Z",
-          "wordCount": 3271,
-          "title": "translateZ()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393249",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateY() function shifts an element vertically by the specified amount. \ntranslateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatey/",
-          "publishedOn": "2026-06-25T13:17:56.000Z",
-          "wordCount": 3146,
-          "title": "translateY()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393255",
-          "author": "Gabriel Shoyombo",
-          "description": "The translateX() function shifts an element horizontally by the specified amount. \ntranslateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translatex/",
-          "publishedOn": "2026-06-25T13:16:01.000Z",
-          "wordCount": 3360,
-          "title": "translateX()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393233",
-          "author": "Gabriel Shoyombo",
-          "description": "The CSS translate() function shifts an element from its default position on a 2-dimensional plane\ntranslate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/t/translate/",
-          "publishedOn": "2026-06-25T13:15:05.000Z",
-          "wordCount": 3232,
-          "title": "translate()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394890",
-          "author": "Silvestar Bistrović",
-          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-          "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 3684,
-          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
-            "length": "38364603",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394364",
-          "author": "Daniel Schwarz",
-          "description": "Let's poke at the differences between scroll-driven and scroll-triggered animations.\nA First Look at Scroll-Triggered Animations originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
-          "publishedOn": "2026-06-19T13:03:17.000Z",
-          "wordCount": 3723,
-          "title": "A First Look at Scroll-Triggered Animations",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/04/1-1.mp4",
-            "length": "515618",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/sceroll-triggered-squares.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395567",
-          "author": "Mat Marquis",
-          "description": "There's a brand new ariaNotify() method — defined by the WAI-ARIA 1.3 Specification — that provides a means of programmatically triggering narration in a screen reader.\nThe Siren Song of ariaNotify() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-siren-song-of-arianotify/",
-          "publishedOn": "2026-06-17T15:32:30.000Z",
-          "wordCount": 4700,
-          "title": "The Siren Song of ariaNotify()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/arianotify.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395776",
+          "id": "https://css-tricks.com/?p=396506",
           "author": "Geoff Graham",
-          "description": "Props for That creates live props based things CSS can't normally see in the browser. Things like cursor position, progress values, certain form states, current time, scroll velocity.\nProp For That originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/prop-for-that/",
-          "publishedOn": "2026-06-16T18:36:25.000Z",
-          "wordCount": 1881,
-          "title": "Prop For That",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/prop-for-that-masthead.png"
+          "description": "Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.\nSmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/",
+          "publishedOn": "2026-08-10T15:57:39.000Z",
+          "wordCount": 2698,
+          "title": "SmashingConf Freiburg 2026, September 7-10",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/vito.webp"
         },
         {
-          "id": "https://css-tricks.com/?p=395752",
+          "id": "https://css-tricks.com/?p=394753",
+          "author": "Geoff Graham",
+          "description": "There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.\nUsing and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+          "publishedOn": "2026-08-07T14:06:43.000Z",
+          "wordCount": 5473,
+          "title": "Using and Styling the Dialog Element",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396471",
+          "author": "Geoff Graham",
+          "description": "A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!\n2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+          "publishedOn": "2026-08-06T15:54:52.000Z",
+          "wordCount": 3290,
+          "title": "2026 State of CSS, Devs Surveys",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396204",
+          "author": "Sam Davis Omekarajr",
+          "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+          "publishedOn": "2026-08-03T15:53:20.000Z",
+          "wordCount": 4587,
+          "title": "Gap Decorations Are Now Available, Here’s What’s New",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
+        },
+        {
+          "id": "https://css-tricks.com/?p=396295",
           "author": "Daniel Schwarz",
-          "description": "CSS functions, the alpha() function, Grid Lanes, some things about Dialog that you might not know, CSS Wordle, and more — this is What’s !important right now.\nWhat’s !important #13: @function, alpha(), CSS Wordle, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-13/",
-          "publishedOn": "2026-06-15T13:15:33.000Z",
-          "wordCount": 2506,
-          "title": "What’s !important #13: @function, alpha(), CSS Wordle, and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wi13.jpg"
+          "description": "The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container \"stuck\" queries, and more.\nWhat’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-16/",
+          "publishedOn": "2026-07-31T14:06:21.000Z",
+          "wordCount": 3302,
+          "title": "What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/07/CleanShot-2026-07-31-at-06.07.11.mp4",
+            "length": "219450",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/wi16.jpg"
+        },
+        {
+          "id": "http://css-tricks.com/?page_id=244261",
+          "author": "Mojtaba Seyedi",
+          "description": "The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.\n.element {\n  writing-mode: vertical-rl;\n}\nThis is most useful in languages such as Chinese, Japanese or …\nwriting-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/w/writing-mode/",
+          "publishedOn": "2026-07-21T09:39:10.000Z",
+          "wordCount": 4083,
+          "title": "writing-mode",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
+        },
+        {
+          "id": "http://css-tricks.com/?page_id=18170",
+          "author": "Mojtaba Seyedi",
+          "description": "The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …\npointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/almanac/properties/p/pointer-events/",
+          "publishedOn": "2026-07-15T19:57:51.000Z",
+          "wordCount": 6087,
+          "title": "pointer-events",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         }
       ]
     },
@@ -148,124 +108,124 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-          "author": "hello@smashingmagazine.com (Anastasia Sycheva)",
-          "description": "The strongest visual concepts don’t start in Figma. They start with the right questions. Explore the pre-concept phase of brand identity design, where teams research brand context, uncover hidden assumptions with stakeholders, and turn shared direction into a visual foundation before a single concept is created.",
-          "link": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
-          "publishedOn": "2026-07-10T13:00:00.000Z",
-          "wordCount": 5398,
-          "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/how-turn-brand-strategy-into-visual-direction/how-turn-brand-strategy-into-visual-direction.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
-          "author": "hello@smashingmagazine.com (Kat Homan)",
-          "description": "Many UI trends are designed to capture attention and signal innovation, but those goals often conflict with the needs of mental health apps: reducing cognitive strain, fostering trust, and providing a sense of refuge. Kat Homan introduces an evaluation framework that helps designers assess whether trendy visual and interaction patterns support or undermine the unique goals of mental health experiences.",
-          "link": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
-          "publishedOn": "2026-07-09T15:00:00.000Z",
-          "wordCount": 6773,
-          "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn’t Follow Every UI Fashion",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-distressed-users-mental-health-apps-ui/designing-distressed-users-mental-health-apps-ui.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
-          "author": "hello@smashingmagazine.com (Zareen Tasnim)",
-          "description": "We have been building websites inside boxes for years on WordPress. Let’s take a closer look at [Kirki](https://kirki.com/), the first freeform visual builder with an infinite canvas, and explore how it redefines the experience with cleaner performance, full design freedom, and zero plugin dependency.",
-          "link": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
-          "publishedOn": "2026-07-07T10:00:00.000Z",
-          "wordCount": 5194,
-          "title": "Meet Kirki: WordPress’s First Visual Builder With An Infinite Canvas",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/kirki-freeform-visual-website-builder-wordpress/kirki-wordpress-visual-builder-infinite-canvas.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+          "id": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "A closer look at why users don’t need more tools in their daily lives. What they need are seamless integrations of useful features to match already existing, established mental models. Brought to you by Design Patterns For AI Interfaces, **friendly video course on UX** and design patterns by Vitaly.",
-          "link": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
-          "publishedOn": "2026-07-03T13:00:00.000Z",
-          "wordCount": 3340,
-          "title": "Users Don’t Need More Tools: They Need Seamless Integrations",
+          "description": "New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.",
+          "link": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+          "publishedOn": "2026-08-13T10:00:00.000Z",
+          "wordCount": 3968,
+          "title": "New EU Guidelines For AI Labelling",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg",
+            "url": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/ux-impact-seamless-integrations/users-dont-need-more-tools-need-seamless-integrations.jpg"
+          "imageUrl": "http://files.smashing.media/articles/eu-guidelines-ai-labelling/eu-guidelines-ai-labelling.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "We’ve fallen into conversational tunnel vision, defaulting every AI capability into a chat-based interface simply because LLMs are trained on dialogue data. But great UX is about matching modality to users’ context, intent, and cognitive load, so the interface adapts to the user, not the other way around.",
-          "link": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
-          "publishedOn": "2026-07-02T10:00:00.000Z",
-          "wordCount": 7057,
-          "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+          "id": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+          "author": "hello@smashingmagazine.com (Alexey Kopytin)",
+          "description": "When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.",
+          "link": "https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/",
+          "publishedOn": "2026-08-11T10:00:00.000Z",
+          "wordCount": 4329,
+          "title": "Building Tactile UX: Honoring Intentional Design With Lottie",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg",
+            "url": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/matching-ai-modality-user-intent-designing-right-interface/matching-ai-modality-user-intent-designing-right-interface.jpg"
+          "imageUrl": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
-          "author": "hello@smashingmagazine.com (Mikhail Prosmitskiy)",
-          "description": "Teams can generate UI faster than ever, but they still have to guarantee that what they ship is usable, secure, and maintainable. Accessibility as an operational capability rather than a compliance checklist or end-of-project audit, and what that looks like in practice.",
-          "link": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
-          "publishedOn": "2026-06-30T12:00:00.000Z",
-          "wordCount": 4763,
-          "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+          "id": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+          "author": "hello@smashingmagazine.com (Jad Joubran)",
+          "description": "The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.",
+          "link": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+          "publishedOn": "2026-08-07T13:00:00.000Z",
+          "wordCount": 6294,
+          "title": "How Baseline Can Help You Ship Less JavaScript",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg",
+            "url": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/why-accessibility-operational-capability-not-feature/why-accessibility-operational-capability-not-feature.jpg"
+          "imageUrl": "http://files.smashing.media/articles/how-baseline-can-help-ship-less-javascript/how-baseline-can-help-ship-less-javascript.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
+          "id": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "July is just around the corner, and that means... It’s time for some new desktop wallpapers! As every month, the wallpapers in this collection were created by the community for the community and can be downloaded for free. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/06/desktop-wallpaper-calendars-july-2026/",
-          "publishedOn": "2026-06-30T11:00:00.000Z",
-          "wordCount": 4828,
-          "title": "Snapshots Of Summer (July 2026 Wallpapers Edition)",
+          "description": "Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!",
+          "link": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+          "publishedOn": "2026-07-31T08:00:00.000Z",
+          "wordCount": 4645,
+          "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png",
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png",
             "length": "0",
             "type": "image/png"
           },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-july-2026/july-25-stamped-in-summer-preview-opt.png"
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9d979d10-f87f-4935-828a-de2ecd2de311/aug-17-happiness-happens-in-august-preview.png"
         },
         {
-          "id": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-          "author": "hello@smashingmagazine.com (Pratik Joglekar)",
-          "description": "In a world where AI is informing more design choices, it’s easy to mistake predictions for certainties. This article introduces Probabilistic Design, a mindset that allows UX and product teams to accept uncertainty, decipher AI outputs with nuance, and make smart, adaptive decisions.",
-          "link": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-          "publishedOn": "2026-06-16T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+          "id": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+          "author": "hello@smashingmagazine.com (Andy Budd)",
+          "description": "As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.",
+          "link": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+          "publishedOn": "2026-07-29T13:00:00.000Z",
+          "wordCount": 5034,
+          "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg",
+            "url": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/designing-uncertainty-how-ai-supercharges-probabilistic-thinking.jpg"
+          "imageUrl": "http://files.smashing.media/articles/bull-and-bear-case-digital-design-age-ai/bull-and-bear-case-digital-design-age-ai.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+          "author": "hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)",
+          "description": "Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.",
+          "link": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+          "publishedOn": "2026-07-28T10:00:00.000Z",
+          "wordCount": 3688,
+          "title": "Thinking Outside The Box: Digital Design In The AI Era",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/digital-design-ai-era/digital-design-ai-era.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "author": "hello@smashingmagazine.com (Durgesh Pawar)",
+          "description": "While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.",
+          "link": "https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/",
+          "publishedOn": "2026-07-21T10:00:00.000Z",
+          "wordCount": 8074,
+          "title": "Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/weaponizing-defending-react-flight-protocol/weaponizing-defending-react-flight-protocol.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.",
+          "link": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+          "publishedOn": "2026-07-17T08:00:00.000Z",
+          "wordCount": 5069,
+          "title": "When It Makes Sense To “Block” The Main Thread",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/when-makes-sense-block-main-thread/when-makes-sense-block-main-thread.jpg"
         }
       ]
     },
@@ -275,104 +235,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "6a555a585f978e5aa7071985",
-          "author": "Darsh Shah",
-          "description": "Most AI agents are reactive as they wait for us to ask something. In this tutorial, I'll show you how to build local AI assistants that run on a schedule, handle the tasks you care about, and generate",
-          "link": "https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/",
-          "publishedOn": "2026-07-13T21:36:24.000Z",
-          "wordCount": 2943,
-          "title": "How to Build and Schedule Local AI Assistants for Daily Tasks",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/67ad144a-050e-4d98-a7c3-9f0a2c9b5648.png"
-        },
-        {
-          "id": "6a54f638437d4490d700b9ab",
-          "author": "Gopinath Karunanithi",
-          "description": "Generative AI agents are transforming .NET development by helping developers automate repetitive coding tasks, generate unit tests, assist with debugging, document code, and accelerate CI/CD workflows",
-          "link": "https://www.freecodecamp.org/news/how-to-integrate-ai-agents-in-net-environments-for-faster-development/",
-          "publishedOn": "2026-07-13T14:29:12.000Z",
-          "wordCount": 4879,
-          "title": "How to Integrate AI Agents in .NET Environments for Faster Development",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/741190c8-d0c0-4a6d-a616-d3a7d72085d1.png"
-        },
-        {
-          "id": "6a54f29d91d656f74f1f4a21",
+          "id": "6a7e08ac157d6ad1bb83d9cf",
           "author": "Vaibhav Gupta",
-          "description": "A Sheet is a panel that slides in from the edge of the screen instead of popping up in the center like a modal. You've likely used one when you've opened a shopping cart on an e-commerce site or tappe",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-shadcn-sheet-component-in-react-cart-and-filter-panel-examples/",
-          "publishedOn": "2026-07-13T14:13:49.000Z",
-          "wordCount": 3457,
-          "title": "How to Build a Shadcn Sheet Component in React: Cart and Filter Panel Examples",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/958cd73a-253a-4a48-b83c-5a5d52420b88.png"
+          "description": "Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/",
+          "publishedOn": "2026-08-13T18:10:52.000Z",
+          "wordCount": 3687,
+          "title": "How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c86a7b7f-9199-499c-8f61-7a1fda09f519.png"
         },
         {
-          "id": "6a54f26925b48b98bd11b23e",
+          "id": "6a7e02796c61d1c629897f7c",
+          "author": "Alex Oliinyk",
+          "description": "You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th",
+          "link": "https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/",
+          "publishedOn": "2026-08-13T17:44:25.000Z",
+          "wordCount": 3233,
+          "title": "How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dfca07f2-cf19-46c5-9c46-dad380bd0ed4.png"
+        },
+        {
+          "id": "6a7e0113e19ef21c9188a0c1",
+          "author": "Chidozie Managwu",
+          "description": "In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/",
+          "publishedOn": "2026-08-13T17:38:27.000Z",
+          "wordCount": 3946,
+          "title": "How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1e6049b1-5342-44de-9daf-bcaa33a0d6c0.png"
+        },
+        {
+          "id": "6a7dcba2609882fca24e3ec0",
+          "author": "Beau Carnes",
+          "description": "Whether you're designing robotics, analyzing fluid dynamics (CFD), or working through complex engineering data, learning to code is one of the most effective ways to boost your workflow and technical",
+          "link": "https://www.freecodecamp.org/news/python-for-mechanical-engineering/",
+          "publishedOn": "2026-08-13T13:50:26.000Z",
+          "wordCount": 1121,
+          "title": "Python for Mechanical Engineering",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/c20a4cbb-d99c-4852-9929-a919155f56ef.jpg"
+        },
+        {
+          "id": "6a7dca901374f2c259ac23d8",
+          "author": "Beau Carnes",
+          "description": "When learning C, it's easy to get stuck building text-based terminal applications that simply ask for user input and print a result back out. While those are great for learning the basics of the langu",
+          "link": "https://www.freecodecamp.org/news/master-low-level-graphics-in-c-build-a-software-renderer-from-scratch/",
+          "publishedOn": "2026-08-13T13:45:52.000Z",
+          "wordCount": 1122,
+          "title": "Master Low-Level Graphics in C: Build a Software Renderer from Scratch",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/657547fd-3df1-4347-9804-37e7e119a46f.jpg"
+        },
+        {
+          "id": "6a7d0b557863edaa10c98875",
           "author": "Bhavin Sheth",
-          "description": "PDF files are widely used for sharing documents because they preserve formatting across different devices. Many PDFs contain valuable images such as logos, product photos, charts, diagrams, illustrati",
-          "link": "https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/",
-          "publishedOn": "2026-07-13T14:12:57.000Z",
-          "wordCount": 5352,
-          "title": "How to Build a Browser-Based PDF Image Extractor Using JavaScript",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e8926aef-8f78-4f09-92f1-7bbb7beb8b68.png"
+          "description": "Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored",
+          "link": "https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/",
+          "publishedOn": "2026-08-13T00:09:57.000Z",
+          "wordCount": 3601,
+          "title": "How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/9e841f91-5161-4559-816d-091e6dc39bcb.png"
         },
         {
-          "id": "6a4fd5184215fa285003b017",
+          "id": "6a7ce718716450a8062b0352",
+          "author": "Mohammed Fahd Abrah",
+          "description": "Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc",
+          "link": "https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/",
+          "publishedOn": "2026-08-12T21:35:20.000Z",
+          "wordCount": 7772,
+          "title": "AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f767fe2e-f695-4317-9c0b-284724c991bc.png"
+        },
+        {
+          "id": "6a7c95758a35a7792fd567c3",
+          "author": "Saif Ali Shaik",
+          "description": "When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl",
+          "link": "https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/",
+          "publishedOn": "2026-08-12T15:47:01.000Z",
+          "wordCount": 9286,
+          "title": "How to Build an AI Agent with Per-User OAuth Access [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/889cf8c8-41f9-4dec-aa5f-128cb24f0082.png"
+        },
+        {
+          "id": "6a7c94929716b929062beeb1",
+          "author": "Bhavin Sheth",
+          "description": "PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i",
+          "link": "https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/",
+          "publishedOn": "2026-08-12T15:43:14.000Z",
+          "wordCount": 3826,
+          "title": "How to Build a Browser-Based PDF Filter Studio with JavaScript",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b1fef698-f2b8-4fa3-a3e0-0cb0fc7e88a6.png"
+        },
+        {
+          "id": "6a7b522a304c202420dfd496",
           "author": "Rudrendu Paul",
-          "description": "Your LLM product experiment just came back positive, with a promising 8-percentage-point lift in task completion. You ship the feature and leadership celebrates. Three months later, the core metric ha",
-          "link": "https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/",
-          "publishedOn": "2026-07-09T17:06:32.000Z",
-          "wordCount": 5716,
-          "title": "Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/134c2ea7-4a99-4150-b6c8-a91aa7074e7b.png"
-        },
-        {
-          "id": "6a4fcfbb4eecd9fed2eade13",
-          "author": "Mikhail Golikov",
-          "description": "A Postman collection is a great place to explore an API. But it's a poor place to keep your tests. Most teams find this out the slow way. Someone exports the collection, converts the requests into tes",
-          "link": "https://www.freecodecamp.org/news/how-to-turn-a-postman-collection-into-a-maintainable-pytest-suite/",
-          "publishedOn": "2026-07-09T16:43:39.000Z",
-          "wordCount": 2022,
-          "title": "How to Turn a Postman Collection into a Maintainable pytest Suite",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3c6d0422-3374-4f61-9070-05d73dbbc9fa.png"
-        },
-        {
-          "id": "6a4fcf3f5d702356d3424fd3",
-          "author": "Manish Shivanandhan",
-          "description": "Technology changes faster than almost any other industry. The half-life of technical skills continues to shrink. Frameworks, cloud platforms, AI tooling, and cybersecurity practices evolve so quickly",
-          "link": "https://www.freecodecamp.org/news/how-an-lms-software-helps-technical-teams-upskill-faster/",
-          "publishedOn": "2026-07-09T16:41:35.000Z",
-          "wordCount": 2756,
-          "title": "How an LMS Software Helps Technical Teams Upskill Faster",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/1a822fd1-df33-425c-ba3a-a9f3cbddb297.png"
-        },
-        {
-          "id": "6a4fc672a2e4b5543646e329",
-          "author": "Abdurrahman Rajab",
-          "description": "A new type of app is emerging with the development of LLMs and AI-native apps. It lives inside an AI chat (like ChatGPT) rather than being a fully native web or mobile app. In this tutorial, you'll le",
-          "link": "https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-and-publish-your-chatgpt-app/",
-          "publishedOn": "2026-07-09T16:04:02.000Z",
-          "wordCount": 10413,
-          "title": "How to Build Your Own MCP Server and Publish Your ChatGPT App with Supabase Auth and DigitalOcean",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/f7fdd4f8-d0c0-44ee-aaf5-f3277522e32c.png"
-        },
-        {
-          "id": "6a4fb4570140649a4367b476",
-          "author": "Zia Ullah",
-          "description": "The first time I built an API without thinking about roles, I gave every logged-in user the same access. It worked fine until a regular user accidentally hit a delete endpoint and wiped test data. Tha",
-          "link": "https://www.freecodecamp.org/news/role-based-access-control-nodejs-rest-api-jwt/",
-          "publishedOn": "2026-07-09T14:46:47.000Z",
-          "wordCount": 3078,
-          "title": "How to Implement Role-Based Access Control in a Node.js REST API with JWT",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d742efbd-8170-4fb6-8851-1f7c6ef9125e.png"
-        },
-        {
-          "id": "6a4edb71b23ba37e305b1825",
-          "author": "Lakshmi Mahabaleshwara",
-          "description": "Healthcare data is among the most sensitive data there is. Sending it to a cloud AI service is often not an option because of privacy requirements, regulatory compliance, or both. In this tutorial, yo",
-          "link": "https://www.freecodecamp.org/news/build-your-own-healthcare-ai-assistant-with-medgemma-ollama-and-open-webui/",
-          "publishedOn": "2026-07-08T23:21:21.000Z",
-          "wordCount": 3994,
-          "title": "Build Your Own Healthcare AI Assistant with MedGemma, Ollama, and Open WebUI",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c6e53c46-ca40-4f4a-87e9-a925c85963d6.png"
+          "description": "Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac",
+          "link": "https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/",
+          "publishedOn": "2026-08-11T16:47:38.000Z",
+          "wordCount": 8027,
+          "title": "Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/2d445aeb-4ed9-40c4-9c91-c6e701a1325a.png"
         }
       ]
     }
