@@ -2,291 +2,278 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osmoscraft.github.io/osmosfeed-demo/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T02:03:12.630Z</updated>
+    <updated>2026-09-14T03:52:32.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://osmoscraft.github.io/osmosfeed-demo/index.html"/>
     <link rel="self" href="https://osmoscraft.github.io/osmosfeed-demo/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI]]></title>
-        <id>6a7e08ac157d6ad1bb83d9cf</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/"/>
-        <updated>2026-08-13T18:10:52.000Z</updated>
-        <summary type="html"><![CDATA[Every B2B SaaS product with a compliance requirement (like banking, lending, payroll, or crypto) hits the same wall early on: before you can let a business use your platform, you need to verify who th]]></summary>
+        <title type="html"><![CDATA[How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide]]></title>
+        <id>6aa47c59141bdd8e9f05b331</id>
+        <link href="https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/"/>
+        <updated>2026-09-11T22:10:33.000Z</updated>
+        <summary type="html"><![CDATA[If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em]]></summary>
+        <author>
+            <name>Solomon Amos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prevent Race Conditions in Django]]></title>
+        <id>6aa477b6e81d2fc1cc117115</id>
+        <link href="https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/"/>
+        <updated>2026-09-11T21:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b]]></summary>
+        <author>
+            <name>Mari</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Watch’s New VO2 Max Test: How It Measures Your Cardiorespiratory Fitness]]></title>
+        <id>6aa476cb322207896c23ef21</id>
+        <link href="https://www.freecodecamp.org/news/apple-watch-vo2-max-test-cardiorespiratory-fitness/"/>
+        <updated>2026-09-11T21:46:51.000Z</updated>
+        <summary type="html"><![CDATA[Your Apple Watch can tell you how fast you're moving, how your heart responds to exercise, and how your workout changes over time. But one of its more interesting fitness metrics is something it can't]]></summary>
+        <author>
+            <name>Reetain Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Sandbox a Linux Process with Landlock, No Root Required]]></title>
+        <id>6aa475c369d3adf4a48d4cc9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/"/>
+        <updated>2026-09-11T21:42:27.000Z</updated>
+        <summary type="html"><![CDATA[Here's a program restricting itself, then trying to read two files: without landlock:   read /etc/hostname            ok   read /tmp/secret.txt          ok with landlock, /etc allowed:   read]]></summary>
+        <author>
+            <name>Chris Roy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Chat App Interface With the Vercel AI SDK and Shadcn/ui]]></title>
+        <id>6aa42a894ba1a9c008082580</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-an-ai-chat-app-interface-with-the-ai-sdk/"/>
+        <updated>2026-09-11T16:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Every other AI product you open today has the same screen: a message list, a text box at the bottom, and words that stream in one token at a time. It looks simple, but it's not simple to build well. Y]]></summary>
         <author>
             <name>Vaibhav Gupta</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code]]></title>
-        <id>6a7e02796c61d1c629897f7c</id>
-        <link href="https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/"/>
-        <updated>2026-08-13T17:44:25.000Z</updated>
-        <summary type="html"><![CDATA[You've seen it a hundred times: the Wi-Fi drops, Chrome shrugs, and a little pixelated T-Rex appears, ready to sprint through a desert the moment you hit the spacebar. That tiny game, hidden behind th]]></summary>
+        <title type="html"><![CDATA[How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications]]></title>
+        <id>6aa41d147411afb20c713931</id>
+        <link href="https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/"/>
+        <updated>2026-09-11T15:24:04.000Z</updated>
+        <summary type="html"><![CDATA[So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.]]></summary>
         <author>
-            <name>Alex Oliinyk</name>
+            <name>Jude Otine</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Production-Ready AI Agent for $0/Month Using PHP, cPanel, and Gemini Flash]]></title>
-        <id>6a7e0113e19ef21c9188a0c1</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-production-ready-ai-agent-for-0-month-using-php-cpanel-and-gemini-flash/"/>
-        <updated>2026-08-13T17:38:27.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you’ll build a practical AI agent that can receive a user prompt, decide whether it needs to use a tool, execute that tool in PHP, store conversation history in MySQL, and continue r]]></summary>
+        <title type="html"><![CDATA[How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection]]></title>
+        <id>6aa41cc6739dc5dd502bad21</id>
+        <link href="https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/"/>
+        <updated>2026-09-11T15:22:46.000Z</updated>
+        <summary type="html"><![CDATA[Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w]]></summary>
         <author>
-            <name>Chidozie Managwu</name>
+            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python for Mechanical Engineering]]></title>
-        <id>6a7dcba2609882fca24e3ec0</id>
-        <link href="https://www.freecodecamp.org/news/python-for-mechanical-engineering/"/>
-        <updated>2026-08-13T13:50:26.000Z</updated>
-        <summary type="html"><![CDATA[Whether you're designing robotics, analyzing fluid dynamics (CFD), or working through complex engineering data, learning to code is one of the most effective ways to boost your workflow and technical]]></summary>
+        <title type="html"><![CDATA[Apple Watch Can Now Estimate Your Health Age, But What's It Actually Measuring?]]></title>
+        <id>6aa41b2dad98007dc3d90177</id>
+        <link href="https://www.freecodecamp.org/news/apple-watch-health-age-whats-it-actually-measuring/"/>
+        <updated>2026-09-11T15:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Your birthday tells you how many years you've been alive. But it doesn't necessarily tell you how your body is aging. Two people can be the same age and still have very different levels of cardiovascu]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Shradha Puri</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Master Low-Level Graphics in C: Build a Software Renderer from Scratch]]></title>
-        <id>6a7dca901374f2c259ac23d8</id>
-        <link href="https://www.freecodecamp.org/news/master-low-level-graphics-in-c-build-a-software-renderer-from-scratch/"/>
-        <updated>2026-08-13T13:45:52.000Z</updated>
-        <summary type="html"><![CDATA[When learning C, it's easy to get stuck building text-based terminal applications that simply ask for user input and print a result back out. While those are great for learning the basics of the langu]]></summary>
+        <title type="html"><![CDATA[How to Implement LEGO Architecture in Flutter [Full Handbook]]]></title>
+        <id>6aa419635b994140774d7f9c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-implement-lego-architecture-in-flutter-handbook/"/>
+        <updated>2026-09-11T15:08:19.000Z</updated>
+        <summary type="html"><![CDATA[Almost everyone has snapped two LEGO bricks together at some point, even without owning a single set as an adult. You press one brick down onto another, feel it click, and it holds. You likely never o]]></summary>
         <author>
-            <name>Beau Carnes</name>
+            <name>Atuoha Anthony</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New EU Guidelines For AI Labelling]]></title>
-        <id>https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/</id>
-        <link href="https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/"/>
-        <updated>2026-08-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New EU guidelines, why AI sparkles aren’t enough, when AI labels are required, and what the rules mean for AI-powered features and products.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript]]></title>
-        <id>6a7d0b557863edaa10c98875</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/"/>
-        <updated>2026-08-13T00:09:57.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution]]></title>
-        <id>6a7ce718716450a8062b0352</id>
-        <link href="https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/"/>
-        <updated>2026-08-12T21:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc]]></summary>
-        <author>
-            <name>Mohammed Fahd Abrah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an AI Agent with Per-User OAuth Access [Full Handbook]]]></title>
-        <id>6a7c95758a35a7792fd567c3</id>
-        <link href="https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/"/>
-        <updated>2026-08-12T15:47:01.000Z</updated>
-        <summary type="html"><![CDATA[When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl]]></summary>
-        <author>
-            <name>Saif Ali Shaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Browser-Based PDF Filter Studio with JavaScript]]></title>
-        <id>6a7c94929716b929062beeb1</id>
-        <link href="https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/"/>
-        <updated>2026-08-12T15:43:14.000Z</updated>
-        <summary type="html"><![CDATA[PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i]]></summary>
-        <author>
-            <name>Bhavin Sheth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong]]></title>
-        <id>https://css-tricks.com/?p=396255</id>
-        <link href="https://css-tricks.com/blocked-aria-hidden-fix/"/>
-        <updated>2026-08-12T13:43:56.000Z</updated>
-        <summary type="html"><![CDATA[The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.
-Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Durgesh Rajubhai Pawar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features]]></title>
-        <id>6a7b522a304c202420dfd496</id>
-        <link href="https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/"/>
-        <updated>2026-08-11T16:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac]]></summary>
+        <title type="html"><![CDATA[What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent]]></title>
+        <id>6aa41926c7a41a4b7462a57d</id>
+        <link href="https://www.freecodecamp.org/news/what-is-an-agent-harness/"/>
+        <updated>2026-09-11T15:07:18.000Z</updated>
+        <summary type="html"><![CDATA[On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa]]></summary>
         <author>
             <name>Rudrendu Paul</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Tactile UX: Honoring Intentional Design With Lottie]]></title>
-        <id>https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/</id>
-        <link href="https://smashingmagazine.com/2026/08/building-tactile-ux-honoring-intentional-design-lottie/"/>
-        <updated>2026-08-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When tasked with building a highly interactive, tactile web experience, the architecture must serve the art direction. In this article, Alexey Kopytin explains their architectural rationale for building a digital stress-relief squeeze toy game using Lottie animations, DOM events, and distance-based math to maintain absolute control over their designers’ intentional motion.]]></summary>
+        <title type="html"><![CDATA[Building A UX ROI Case That Survives The Boardroom]]></title>
+        <id>https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/</id>
+        <link href="https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/"/>
+        <updated>2026-09-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alexey Kopytin)</name>
+            <name>hello@smashingmagazine.com (Alex Williams)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animating CSS border-image]]></title>
-        <id>https://css-tricks.com/?p=394978</id>
-        <link href="https://css-tricks.com/animating-css-border-image/"/>
-        <updated>2026-08-10T15:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Border images are an overlooked feature. One neat fact is that border image slices can run across entire borders on an element, and animating it creates beautiful effects.
-Animating CSS border-image originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <title type="html"><![CDATA[The Death Of The Button: Why The Best Interface Is No Interface]]></title>
+        <id>https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/</id>
+        <link href="https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/"/>
+        <updated>2026-09-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.]]></summary>
         <author>
-            <name>Preethi</name>
+            <name>hello@smashingmagazine.com (Carrie Webster)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SmashingConf Freiburg 2026, September 7-10]]></title>
-        <id>https://css-tricks.com/?p=396506</id>
-        <link href="https://css-tricks.com/smashingconf-freiburg-2026-september-7-10/"/>
-        <updated>2026-08-10T15:57:39.000Z</updated>
-        <summary type="html"><![CDATA[Smashing Magazine’s in-person conferences are back and returning to the wonderful city of Freiburg next month, September 7–10.
-SmashingConf Freiburg 2026, September 7-10 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
+        <id>https://css-tricks.com/?p=396630</id>
+        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
+        <updated>2026-08-31T15:12:19.000Z</updated>
+        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
+Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Lee Meyer</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using and Styling the Dialog Element]]></title>
-        <id>https://css-tricks.com/?p=394753</id>
-        <link href="https://css-tricks.com/using-and-styling-the-dialog-element/"/>
-        <updated>2026-08-07T14:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of nuance to the <dialog> element, a seemingly little piece of web architecture. I've got some notes from digging into it.
-Using and Styling the Dialog Element originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Baseline Can Help You Ship Less JavaScript]]></title>
-        <id>https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/</id>
-        <link href="https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/"/>
-        <updated>2026-08-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The gap between “you need a library for this” and “the browser does this” keeps closing. A practical guide to auditing your dependencies and finding what the web platform can now handle for you.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jad Joubran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
-        <id>https://css-tricks.com/?p=396471</id>
-        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
-        <updated>2026-08-06T15:54:52.000Z</updated>
-        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
-2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gap Decorations Are Now Available, Here’s What’s New]]></title>
-        <id>https://css-tricks.com/?p=396204</id>
-        <link href="https://css-tricks.com/css-gap-decorations-now-available/"/>
-        <updated>2026-08-03T15:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.
-Gap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Sam Davis Omekarajr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More]]></title>
-        <id>https://css-tricks.com/?p=396295</id>
-        <link href="https://css-tricks.com/whats-important-16/"/>
-        <updated>2026-07-31T14:06:21.000Z</updated>
-        <summary type="html"><![CDATA[The soon-Baseline sibling-index() function for animations, CSS and the 2026 FIFA World Cup, use cases for the infinity keyword, container "stuck" queries, and more.
-What’s !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
+        <id>https://css-tricks.com/?p=396738</id>
+        <link href="https://css-tricks.com/whats-important-18/"/>
+        <updated>2026-08-31T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
+What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Small Joys And Big Adventures (August 2026 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/</id>
-        <link href="https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/"/>
-        <updated>2026-07-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Whether you’re enjoying some well-earned time off this August or are jumping headfirst into a new project, how about some new desktop wallpapers to accompany you on all those big and small adventures the month might bring? Well, we’ve got you covered!]]></summary>
+        <title type="html"><![CDATA[The Many Faces Of September (2026 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/</id>
+        <link href="https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/"/>
+        <updated>2026-08-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Bull And Bear Case For Digital Design In The Age Of AI]]></title>
-        <id>https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/</id>
-        <link href="https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/"/>
-        <updated>2026-07-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As AI reshapes product design, it could give designers greater autonomy or expose the gaps that autonomy makes harder to hide. Exploring both the bull and bear cases, Andy Budd examines what happens when designers need less permission to act.]]></summary>
+        <title type="html"><![CDATA[Creating Web Widgets Using the Document Picture-in-Picture API]]></title>
+        <id>https://css-tricks.com/?p=395259</id>
+        <link href="https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/"/>
+        <updated>2026-08-27T14:41:06.000Z</updated>
+        <summary type="html"><![CDATA[The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.
+Creating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Andy Budd)</name>
+            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thinking Outside The Box: Digital Design In The AI Era]]></title>
-        <id>https://smashingmagazine.com/2026/07/digital-design-ai-era/</id>
-        <link href="https://smashingmagazine.com/2026/07/digital-design-ai-era/"/>
-        <updated>2026-07-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many of the AI tools we interact with take the form of text boxes. But what if there was a different way to interact with AI? Oleksii Hrzhehorzhevskyi explores a different approach to creating a new AI assistant and how designers can navigate the field as AI continues to change it.]]></summary>
+        <title type="html"><![CDATA[animation-trigger]]></title>
+        <id>https://css-tricks.com/?page_id=394713</id>
+        <link href="https://css-tricks.com/almanac/properties/a/animation-trigger/"/>
+        <updated>2026-08-26T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.
+animation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Oleksii Hrzhehorzhevskyi)</name>
+            <name>Saleh Mubashar</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Weaponizing And Defending The React Flight Protocol: Deserialization Sinks In RSCs]]></title>
-        <id>https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/</id>
-        <link href="https://smashingmagazine.com/2026/07/weaponizing-defending-react-flight-protocol/"/>
-        <updated>2026-07-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While React Server Components rely on the custom Flight protocol to stream interactive UIs, this same mechanism introduces powerful deserialization sinks that attackers can exploit. Durgesh Pawar breaks down the mechanics behind the CVSS 10.0 “React2Shell” vulnerability to show how protocol manipulation can lead to remote code execution.]]></summary>
+        <title type="html"><![CDATA[Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions]]></title>
+        <id>https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/</id>
+        <link href="https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/"/>
+        <updated>2026-08-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Durgesh Pawar)</name>
+            <name>hello@smashingmagazine.com (Meriem Benhabiles)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[writing-mode]]></title>
-        <id>http://css-tricks.com/?page_id=244261</id>
-        <link href="https://css-tricks.com/almanac/properties/w/writing-mode/"/>
-        <updated>2026-07-21T09:39:10.000Z</updated>
-        <summary type="html"><![CDATA[The writing-mode CSS property sets whether lines of text are laid out horizontally or vertically, and the direction in which blocks and lines progress.
-.element {
-  writing-mode: vertical-rl;
-}
-This is most useful in languages such as Chinese, Japanese or …
-writing-mode originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <title type="html"><![CDATA[MicroLighter: Syntax Highlighter]]></title>
+        <id>https://css-tricks.com/?p=396665</id>
+        <link href="https://css-tricks.com/microlighter-syntax-highlighter/"/>
+        <updated>2026-08-25T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.
+MicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Mojtaba Seyedi</name>
+            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When It Makes Sense To “Block” The Main Thread]]></title>
-        <id>https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/</id>
-        <link href="https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/"/>
-        <updated>2026-07-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The common rule of thumb is to never “block” the browser’s main thread when running JavaScript tasks. But is this a hard rule? Victor Ayomipo describes a use case he encountered involving a screenshot extension where he made an exception to the rule and decided that blocking the main thread was absolutely the right thing to do.]]></summary>
+        <title type="html"><![CDATA[Why Your Website Should Never Stop Changing]]></title>
+        <id>https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/</id>
+        <link href="https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/"/>
+        <updated>2026-08-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+            <name>hello@smashingmagazine.com (Pierre Burgy)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pointer-events]]></title>
-        <id>http://css-tricks.com/?page_id=18170</id>
-        <link href="https://css-tricks.com/almanac/properties/p/pointer-events/"/>
-        <updated>2026-07-15T19:57:51.000Z</updated>
-        <summary type="html"><![CDATA[The pointer-events property controls whether an element can become the target of pointer events like clicks, hover states, and other pointer-based events. In other words, it lets you decide whether the browser should treat an element as interactive when the …
-pointer-events originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <title type="html"><![CDATA[WordPress PHP-Only Block Registration]]></title>
+        <id>https://css-tricks.com/?p=395401</id>
+        <link href="https://css-tricks.com/wordpress-php-block-registration/"/>
+        <updated>2026-08-24T13:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.
+WordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
-            <name>Mojtaba Seyedi</name>
+            <name>Fränk Klein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resolved: CSS Class Prefix Selector]]></title>
+        <id>https://css-tricks.com/?p=396644</id>
+        <link href="https://css-tricks.com/resolved-css-class-prefix-selector/"/>
+        <updated>2026-08-21T15:13:03.000Z</updated>
+        <summary type="html"><![CDATA[A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.
+Resolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timing Charts: A Blueprint For SMIL Animations]]></title>
+        <id>https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/</id>
+        <link href="https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/"/>
+        <updated>2026-08-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Johan Grobler)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Navigation Matching, Early Days]]></title>
+        <id>https://css-tricks.com/?p=396428</id>
+        <link href="https://css-tricks.com/css-navigation-matching-early-days/"/>
+        <updated>2026-08-19T14:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.
+CSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.com Student Plan]]></title>
+        <id>https://css-tricks.com/?p=396623</id>
+        <link href="https://css-tricks.com/wordpress-student-plan/"/>
+        <updated>2026-08-19T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.
+WordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
+        <id>https://css-tricks.com/?p=396545</id>
+        <link href="https://css-tricks.com/dark-mode-toggles-two-states-are-enough/"/>
+        <updated>2026-08-17T14:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.
+Dark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
