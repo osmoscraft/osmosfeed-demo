@@ -4,108 +4,7 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=396630",
-          "author": "Lee Meyer",
-          "description": "The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.\nLet’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-random-function-polyfill/",
-          "publishedOn": "2026-08-31T15:12:19.000Z",
-          "wordCount": 6435,
-          "title": "Let’s Use the Emergent CSS random() Function in all the Browsers",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/random-stars-shuffle.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396738",
-          "author": "Daniel Schwarz",
-          "description": "Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.\nWhat’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-18/",
-          "publishedOn": "2026-08-31T14:08:55.000Z",
-          "wordCount": 3657,
-          "title": "What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi18.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395259",
-          "author": "Daniel Schwarz",
-          "description": "The general idea is that we create a Document Picture-in-Picture window (DPIP window), and then we put HTML, CSS, and JavaScript into it.\nCreating Web Widgets Using the Document Picture-in-Picture API originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
-          "publishedOn": "2026-08-27T14:41:06.000Z",
-          "wordCount": 4083,
-          "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/05/framed-image.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=394713",
-          "author": "Saleh Mubashar",
-          "description": "The CSS animation-trigger property allows you to delay the start of a CSS animation until a specific trigger occurs.\nanimation-trigger originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
-          "publishedOn": "2026-08-26T15:38:41.000Z",
-          "wordCount": 4439,
-          "title": "animation-trigger",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396665",
-          "author": "Geoff Graham",
-          "description": "Syntax highlighting for code blocks without the complicated markup, spans, classes, and bloated JavaScript, courtesy of Uncle Dave.\nMicroLighter: Syntax Highlighter originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/microlighter-syntax-highlighter/",
-          "publishedOn": "2026-08-25T14:10:34.000Z",
-          "wordCount": 3365,
-          "title": "MicroLighter: Syntax Highlighter",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code-block.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=395401",
-          "author": "Fränk Klein",
-          "description": "Seven and half years after blocks arrived in Core, WordPress introduces a way to build blocks without React annd build pipelines. All you need is PHP.\nWordPress PHP-Only Block Registration originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/wordpress-php-block-registration/",
-          "publishedOn": "2026-08-24T13:54:02.000Z",
-          "wordCount": 6838,
-          "title": "WordPress PHP-Only Block Registration",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/06/wordpress-blocks-php.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396644",
-          "author": "Geoff Graham",
-          "description": "A newly resolved proposal would allow us to select classes that are a prefix for variations with a wildcard, like .prefix-*.\nResolved: CSS Class Prefix Selector originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/resolved-css-class-prefix-selector/",
-          "publishedOn": "2026-08-21T15:13:03.000Z",
-          "wordCount": 3508,
-          "title": "Resolved: CSS Class Prefix Selector",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/css-prefix-selector.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396428",
-          "author": "Geoff Graham",
-          "description": "Apply a style when someone navigates from one specific page to another. The idea being it'd make the sources for cross-document view transitions declarative in CSS rather than managing that stuff in JavaScript.\nCSS Navigation Matching, Early Days originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-navigation-matching-early-days/",
-          "publishedOn": "2026-08-19T14:44:41.000Z",
-          "wordCount": 3695,
-          "title": "CSS Navigation Matching, Early Days",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/04/higher-order-components.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396623",
-          "author": "Geoff Graham",
-          "description": "As someone who teaches beginning web development, I find that building a WordPress site makes for a great final project. Hosting those projects has always been a roadblock though.\nWordPress.com Student Plan originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/wordpress-student-plan/",
-          "publishedOn": "2026-08-19T08:50:00.000Z",
-          "wordCount": 3250,
-          "title": "WordPress.com Student Plan",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wordpress-student-education.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396545",
-          "author": "Geoff Graham",
-          "description": "Lea's pushing back on light/dark mode implementations that display three state options for visitors: light, dark, and system.\nDark mode toggles: two states are enough originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
-          "publishedOn": "2026-08-17T14:15:50.000Z",
-          "wordCount": 3873,
-          "title": "Dark mode toggles: two states are enough",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/lea-verou-color-scheme-scenarios.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -113,89 +12,49 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-          "author": "hello@smashingmagazine.com (Alex Williams)",
-          "description": "Strong UX ideas do not secure investment on their own. Through a worked example, Alex Williams breaks down how to define business value, calculate costs, test causality, and build a credible case for the return on a design initiative. - UX - Design - Business",
-          "link": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
-          "publishedOn": "2026-09-11T13:00:00.000Z",
-          "wordCount": 5457,
-          "title": "Building A UX ROI Case That Survives The Boardroom",
+          "id": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "A practical guide to naming UI components, with useful resources, naming conventions, and structures. You’ll find more [useful guides](https://www.smashingmagazine.com/category/guides/) and [online workshops](https://smashingconf.com/online-workshops) here on Smashing Magazine, so make sure to browse and explore.",
+          "link": "https://smashingmagazine.com/2026/10/how-name-things/",
+          "publishedOn": "2026-10-06T10:00:00.000Z",
+          "wordCount": 3993,
+          "title": "A Practical Guide To Naming Things",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg",
+            "url": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/building-ux-roi-case-survives-boardroom/building-ux-roi-case-survives-boardroom.jpg"
+          "imageUrl": "http://files.smashing.media/articles/how-name-things-choose-accordion-icons/how-name-things.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-          "author": "hello@smashingmagazine.com (Carrie Webster)",
-          "description": "TThe web is evolving beyond menus, forms, and endless clicks toward experiences shaped around human intent. For UX designers, understanding this shift means re-evaluating their role, moving from designing visible interfaces to guiding transparent, intent-driven AI experiences.",
-          "link": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-          "publishedOn": "2026-09-09T10:00:00.000Z",
-          "wordCount": 4567,
-          "title": "The Death Of The Button: Why The Best Interface Is No Interface",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/death-button-why-best-interface-is-no-interface/death-button-why-best-interface-is-no-interface.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
+          "id": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Could there be a better way to welcome the new month than with a new collection of desktop wallpapers? Whether you’re holding tightly onto summer or eagerly awaiting autumn, we’ve got some eye-catching designs to make your September just a bit more colorful. Enjoy!",
-          "link": "https://smashingmagazine.com/2026/08/desktop-wallpaper-calendars-september-2026/",
-          "publishedOn": "2026-08-31T11:00:00.000Z",
-          "wordCount": 4864,
-          "title": "The Many Faces Of September (2026 Wallpapers Edition)",
+          "description": "October is just around the corner, which means it’s time for some new desktop wallpapers! Designed by the community for the community, they’re here to brighten your screens, and maybe spark some creativity along the way.",
+          "link": "https://smashingmagazine.com/2026/09/desktop-wallpaper-calendars-october-2026/",
+          "publishedOn": "2026-09-30T13:30:00.000Z",
+          "wordCount": 4644,
+          "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
           "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png",
             "length": "0",
             "type": "image/png"
           },
-          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png"
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
         },
         {
-          "id": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-          "author": "hello@smashingmagazine.com (Meriem Benhabiles)",
-          "description": "Data visualisation sits at the intersection of two disciplines that rarely talk to each other: data and design. Meriem Benhabiles explores what changes when you bring structured UX thinking to dashboards and data presentations, from the questions you ask before opening any tool to the decisions that determine whether an insight actually lands.",
-          "link": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
-          "publishedOn": "2026-08-26T13:00:00.000Z",
-          "wordCount": 5912,
-          "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+          "id": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "Despite broad browser support, container queries remain surprisingly underused and frequently misunderstood. Let’s look at how they differ from media queries, when to reach for each, and how container queries help reusable components respond naturally to the contexts in which they appear. - CSS - Tools - Techniques",
+          "link": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+          "publishedOn": "2026-09-16T13:00:00.000Z",
+          "wordCount": 5026,
+          "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
           "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg",
+            "url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg",
             "length": "0",
             "type": "image/jpg"
           },
-          "imageUrl": "http://files.smashing.media/articles/rethinking-data-visualisation-ux-approach-dashboards/rethinking-data-visualisation-ux-approach-dashboards.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-          "author": "hello@smashingmagazine.com (Pierre Burgy)",
-          "description": "Every website peaks on launch day and slowly drifts from there, not because it breaks, but because nobody has time to keep it current. Autonomous websites, continuously optimized by agents after launch, aim to change that. Pierre Burgy shares what they learned building for full website autonomy and the deeper design problem they uncovered along the way.",
-          "link": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
-          "publishedOn": "2026-08-25T08:00:00.000Z",
-          "wordCount": 4229,
-          "title": "Why Your Website Should Never Stop Changing",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-website-should-never-stop-changing/why-website-should-never-stop-changing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-          "author": "hello@smashingmagazine.com (Johan Grobler)",
-          "description": "Discover SMIL, the often-overlooked way to animate SVGs that works inside `` tags and can fully animate everything in an SVG without JavaScript.",
-          "link": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
-          "publishedOn": "2026-08-20T13:00:00.000Z",
-          "wordCount": 5717,
-          "title": "Timing Charts: A Blueprint For SMIL Animations",
-          "imageUrl": "https:null"
+          "imageUrl": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
         }
       ]
     },
@@ -205,104 +64,104 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
-          "id": "6aa47c59141bdd8e9f05b331",
-          "author": "Solomon Amos",
-          "description": "If you write software for anyone who pays UK tax, sooner or later you'll need to talk to HMRC. Making Tax Digital (MTD) for Income Tax went live on 6 April 2026, and it's already mandatory for self-em",
-          "link": "https://www.freecodecamp.org/news/how-to-connect-to-hmrc-making-tax-digital-api/",
-          "publishedOn": "2026-09-11T22:10:33.000Z",
-          "wordCount": 3326,
-          "title": "How to Connect to HMRC's Making Tax Digital API: A Beginner's Guide",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/3dd244f7-30e5-484e-8552-3938d1555bf3.png"
+          "id": "6acc85a51f0d893ec1d98e0e",
+          "author": "Vahe Aslanyan",
+          "description": "A report on AI productivity, human capability, software economics, SaaS defensibility, and the future of engineering work. Between 2024 and 2026, the marginal cost of producing a line of working code",
+          "link": "https://www.freecodecamp.org/news/the-state-of-ai-and-software-engineering-book/",
+          "publishedOn": "2026-10-12T07:00:53.000Z",
+          "wordCount": 71008,
+          "title": "The State of AI and Software Engineering: Code is Cheaper but Expertise are More Valuable [Full Book]",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dde99ac0-8f3a-4287-8b23-e38e841c1235.png"
         },
         {
-          "id": "6aa477b6e81d2fc1cc117115",
-          "author": "Mari",
-          "description": "Let's say you have enough credit left to generate one more image in an AI app. You submit a request in one browser tab, then submit another in a second tab before the first finishes. The app accepts b",
-          "link": "https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/",
-          "publishedOn": "2026-09-11T21:50:46.000Z",
-          "wordCount": 6956,
-          "title": "How to Prevent Race Conditions in Django",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/560a0578-8b5d-4109-b1ba-9728e8476d6a.png"
+          "id": "6acb97b4d2b7bc0f3bd063ec",
+          "author": "Javeed Shaik",
+          "description": "A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho",
+          "link": "https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/",
+          "publishedOn": "2026-10-11T14:05:40.000Z",
+          "wordCount": 3161,
+          "title": "What to Do When Your Constants Are Someone Else's Law",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d0b15ef7-16e3-4521-afe8-f2bd08611f97.png"
         },
         {
-          "id": "6aa476cb322207896c23ef21",
-          "author": "Reetain Raina",
-          "description": "Your Apple Watch can tell you how fast you're moving, how your heart responds to exercise, and how your workout changes over time. But one of its more interesting fitness metrics is something it can't",
-          "link": "https://www.freecodecamp.org/news/apple-watch-vo2-max-test-cardiorespiratory-fitness/",
-          "publishedOn": "2026-09-11T21:46:51.000Z",
-          "wordCount": 3174,
-          "title": "Apple Watch’s New VO2 Max Test: How It Measures Your Cardiorespiratory Fitness",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/63ffe5f1-2569-4684-8119-dcad13568ac9.png"
+          "id": "6acb5b01b19fbe5ad15d6949",
+          "author": "Hugo Teijiz",
+          "description": "In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th",
+          "link": "https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/",
+          "publishedOn": "2026-10-11T09:46:41.000Z",
+          "wordCount": 4642,
+          "title": "How to Measure Conformance Between an Operational Specification and Its Execution",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/55c7ea87-fbb5-4b3f-ae4e-1d1616362579.png"
         },
         {
-          "id": "6aa475c369d3adf4a48d4cc9",
-          "author": "Chris Roy",
-          "description": "Here's a program restricting itself, then trying to read two files: without landlock:   read /etc/hostname            ok   read /tmp/secret.txt          ok with landlock, /etc allowed:   read",
-          "link": "https://www.freecodecamp.org/news/how-to-sandbox-a-linux-process-with-landlock-no-root-required/",
-          "publishedOn": "2026-09-11T21:42:27.000Z",
-          "wordCount": 3337,
-          "title": "How to Sandbox a Linux Process with Landlock, No Root Required",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/d2e4d0c7-23b4-4d74-a41c-8102fa298e6a.png"
+          "id": "6acb575a7dfd7348cce66960",
+          "author": "Saar Twito",
+          "description": "Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it",
+          "link": "https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/",
+          "publishedOn": "2026-10-11T09:31:06.000Z",
+          "wordCount": 6019,
+          "title": "How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/4e937052-66b6-461f-ae80-53e8395811e8.png"
         },
         {
-          "id": "6aa42a894ba1a9c008082580",
-          "author": "Vaibhav Gupta",
-          "description": "Every other AI product you open today has the same screen: a message list, a text box at the bottom, and words that stream in one token at a time. It looks simple, but it's not simple to build well. Y",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-ai-chat-app-interface-with-the-ai-sdk/",
-          "publishedOn": "2026-09-11T16:21:29.000Z",
-          "wordCount": 3875,
-          "title": "How to Build an AI Chat App Interface With the Vercel AI SDK and Shadcn/ui",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c7c0df36-a134-4ea2-b307-da5c4f7d2937.png"
+          "id": "6ac91e9ac74cf25dc4943707",
+          "author": "Beau Carnes",
+          "description": "Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one",
+          "link": "https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/",
+          "publishedOn": "2026-10-09T17:04:26.000Z",
+          "wordCount": 1594,
+          "title": "Create Scalable AI Automations with n8n",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/7957e58c-2b0a-4245-a58c-0de90ab5a374.png"
         },
         {
-          "id": "6aa41d147411afb20c713931",
-          "author": "Jude Otine",
-          "description": "So you shipped your AI feature and it works in demos. Your team is impressed. Then a user asks a question slightly outside your test cases and the model confidently returns something completely wrong.",
-          "link": "https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/",
-          "publishedOn": "2026-09-11T15:24:04.000Z",
-          "wordCount": 6776,
-          "title": "How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/6e470b44-a02d-440b-a576-e12de96a3b68.png"
+          "id": "6ac7b4efba111367663fc712",
+          "author": "Beau Carnes",
+          "description": "Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search",
+          "link": "https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/",
+          "publishedOn": "2026-10-08T15:21:19.000Z",
+          "wordCount": 1645,
+          "title": "Master Modern React Routing: TanStack Router Crash Course",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/9aeef2a4-98c3-4967-87c6-aa995b98b737.png"
         },
         {
-          "id": "6aa41cc6739dc5dd502bad21",
-          "author": "Manish Shivanandhan",
-          "description": "Malware used to be simple to describe. A virus attached itself to a file, and antivirus software removed it. That world is gone. Today, a single attack can steal your passwords, lock up your photos, w",
-          "link": "https://www.freecodecamp.org/news/how-ai-is-changing-malware-detection/",
-          "publishedOn": "2026-09-11T15:22:46.000Z",
-          "wordCount": 2854,
-          "title": "How AI Is Changing Malware Detection: From Traditional Antivirus to Next-Gen Protection",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/891dc84b-49d3-4823-bf82-fc5acac84c43.png"
+          "id": "6ac788ce8908dc166f0a0562",
+          "author": "Zaira Hira",
+          "description": "Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s",
+          "link": "https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/",
+          "publishedOn": "2026-10-08T12:13:02.000Z",
+          "wordCount": 2889,
+          "title": "How to Create System Design Diagrams using Python",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/dc8376e4-76df-4ea5-90cf-38a90069be19.png"
         },
         {
-          "id": "6aa41b2dad98007dc3d90177",
-          "author": "Shradha Puri",
-          "description": "Your birthday tells you how many years you've been alive. But it doesn't necessarily tell you how your body is aging. Two people can be the same age and still have very different levels of cardiovascu",
-          "link": "https://www.freecodecamp.org/news/apple-watch-health-age-whats-it-actually-measuring/",
-          "publishedOn": "2026-09-11T15:15:57.000Z",
-          "wordCount": 3956,
-          "title": "Apple Watch Can Now Estimate Your Health Age, But What's It Actually Measuring?",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c264e43d-417a-47f2-bb5d-46ca7ced815e.png"
+          "id": "6ac6f9bb8e5c8e3fb8fd0905",
+          "author": "Beau Carnes",
+          "description": "You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para",
+          "link": "https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/",
+          "publishedOn": "2026-10-08T02:02:35.000Z",
+          "wordCount": 1598,
+          "title": "Build and Train a 25M Parameter LLM From Scratch on Your CPU",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5f68e7df6dfc523d0a894e7c/d7d4538b-9aff-4e9e-ab8c-65adb325a2f0.png"
         },
         {
-          "id": "6aa419635b994140774d7f9c",
-          "author": "Atuoha Anthony",
-          "description": "Almost everyone has snapped two LEGO bricks together at some point, even without owning a single set as an adult. You press one brick down onto another, feel it click, and it holds. You likely never o",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-lego-architecture-in-flutter-handbook/",
-          "publishedOn": "2026-09-11T15:08:19.000Z",
-          "wordCount": 8400,
-          "title": "How to Implement LEGO Architecture in Flutter [Full Handbook]",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b53122ab-f3d5-4b7e-a4d1-6e42e01cbe02.png"
+          "id": "6ac49165464372e77035c728",
+          "author": "Chirag Agrawal",
+          "description": "Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc",
+          "link": "https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/",
+          "publishedOn": "2026-10-06T06:12:53.000Z",
+          "wordCount": 4078,
+          "title": "What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/e77e26a1-6fe8-43ed-8aa6-137813550f65.png"
         },
         {
-          "id": "6aa41926c7a41a4b7462a57d",
-          "author": "Rudrendu Paul",
-          "description": "On August 13, 2026, DeepSeek published a GitHub repository called deepseek-harness. Within two days, it had passed 95,386 stars and 8,826 forks (a vanity metric on its own, but a spike this fast signa",
-          "link": "https://www.freecodecamp.org/news/what-is-an-agent-harness/",
-          "publishedOn": "2026-09-11T15:07:18.000Z",
-          "wordCount": 5692,
-          "title": "What Is an Agent Harness? The Architecture Behind Claude Code, DeepSeek Harness, and Hermes Agent",
-          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/c85a5e6e-104a-49a0-984d-e7c2dd141d22.png"
+          "id": "6ac4810141f9b6b6ff5bf1cd",
+          "author": "Lakshmi Mahabaleshwara",
+          "description": "At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal",
+          "link": "https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/",
+          "publishedOn": "2026-10-06T05:02:57.000Z",
+          "wordCount": 4051,
+          "title": "How to Encrypt PII in Data Pipelines While Keeping It Searchable",
+          "imageUrl": "https://cdn.hashnode.com/uploads/covers/5e1e335a7a1d3fcc59028c64/b9b99f84-c0c8-46a0-b217-0b2e598c8ac1.png"
         }
       ]
     }
